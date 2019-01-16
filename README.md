@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source kode etik
+Proyek ini telah mengadopsi [Microsoft Open Source kode etik](https://opensource.microsoft.com/codeofconduct/). Untuk informasi lebih lanjut lihat [Kode perilaku FAQ](https://opensource.microsoft.com/codeofconduct/faq/) , atau hubungi [opencode@microsoft.com](mailto:opencode@microsoft.com) dengan pertanyaan tambahan atau komentar.
