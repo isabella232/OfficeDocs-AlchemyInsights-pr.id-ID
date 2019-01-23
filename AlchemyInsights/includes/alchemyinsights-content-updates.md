@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: id-ID
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383321"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Menghapus pengguna](/AlchemyInsights/deleting-users) | diubah |
 | 1/11/2019 | [Menyebarkan mulus akses terusan](/AlchemyInsights/deploy-seamless-single-sign-on) | diubah |
 | 1/11/2019 | [Menonaktifkan akses terhadap heboh](/AlchemyInsights/disable-access-to-yammer) | diubah |
+
+
+## <a name="week-of-january-14-2019"></a>Minggu Januari 14, 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 1/14/2019 | Alkimia pengganti | dihapus |
+| 1/14/2019 | Tambahkan domain Alkimia | dihapus |
+| 1/14/2019 | [Alkimia wawasan rumah](/AlchemyInsights/index) | diubah |
+| 1/17/2019 | [sama seperti nama file terbaik [aturan #-Deskripsi]](/AlchemyInsights/1-alchemy-insight-template) | ditambahkan |
