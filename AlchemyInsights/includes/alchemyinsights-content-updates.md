@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383321"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454433"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -302,7 +302,7 @@ ms.locfileid: "29383321"
 | 1/10/2019 | [Membuat situs komunikasi](/AlchemyInsights/create-a-communication-site) | ditambahkan |
 | 1/10/2019 | [Menciptakan aliran](/AlchemyInsights/create-a-flow) | ditambahkan |
 | 1/10/2019 | [Membuat situs Modern tim](/AlchemyInsights/create-a-modern-team-site) | ditambahkan |
-| 1/10/2019 | [Membuat kotak pesan bersama](/AlchemyInsights/create-a-shared-mailbox) | ditambahkan |
+| 1/10/2019 | Membuat Kotak Surat Bersama | ditambahkan |
 | 1/10/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | ditambahkan |
 | 1/10/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | ditambahkan |
 | 1/10/2019 | [Membuat dan menggunakan kotak pesan bersama](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | ditambahkan |
@@ -599,7 +599,7 @@ ms.locfileid: "29383321"
 | 1/11/2019 | [Membuat situs komunikasi](/AlchemyInsights/create-a-communication-site) | diubah |
 | 1/11/2019 | [Menciptakan aliran](/AlchemyInsights/create-a-flow) | diubah |
 | 1/11/2019 | [Membuat situs Modern tim](/AlchemyInsights/create-a-modern-team-site) | diubah |
-| 1/11/2019 | [Membuat kotak pesan bersama](/AlchemyInsights/create-a-shared-mailbox) | diubah |
+| 1/11/2019 | Membuat Kotak Surat Bersama | diubah |
 | 1/11/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | diubah |
 | 1/11/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | diubah |
 | 1/11/2019 | [Membuat dan menggunakan kotak pesan bersama](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | diubah |
