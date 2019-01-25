@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295214"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474274"
 ---
 Bila menggunakan **kebijakan DLP**, pengguna dapat diberitahu mengenai pelanggaran kebijakan dengan **kebijakan tips**. Admin dapat mengkonfigurasi kebijakan tips untuk menampilkan sementara pengujian kebijakan DLP mereka atau ketika kebijakan dalam mode penuh penegakan. 
   

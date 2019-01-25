@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295469"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474478"
 ---
 Anda hanya dapat mengkonversi kotak pesan pengguna ke kotak pesan bersama jika pengguna memiliki lisensi asing. Setelah kotak pesan yang diubah, itu akan terus muncul di daftar pengguna aktif karena daftar itu mencakup kotak pesan bersama. Namun, kotak pesan yang dikonversi akan juga muncul dalam daftar kotak pesan bersama. 
   
