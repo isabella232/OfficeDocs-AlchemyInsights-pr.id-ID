@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: e15f5dc580252e682d4fa14ce460d79da3a34aec
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294680"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474442"
 ---
-# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="90861-102">Mengaktifkan dan menggunakan Microsoft tim</span><span class="sxs-lookup"><span data-stu-id="90861-102">Enable and Use Microsoft Teams</span></span>
+# <a name="enable-and-use-microsoft-teams"></a><span data-ttu-id="a003a-102">Mengaktifkan dan menggunakan Microsoft tim</span><span class="sxs-lookup"><span data-stu-id="a003a-102">Enable and Use Microsoft Teams</span></span>
 
-<span data-ttu-id="90861-103">Anda dapat menggunakan artikel ini untuk mengaktifkan dan menggunakan Microsoft Teams:</span><span class="sxs-lookup"><span data-stu-id="90861-103">You can use these articles to enable and use Microsoft Teams:</span></span>
+<span data-ttu-id="a003a-103">Anda dapat menggunakan artikel ini untuk mengaktifkan dan menggunakan Microsoft Teams:</span><span class="sxs-lookup"><span data-stu-id="a003a-103">You can use these articles to enable and use Microsoft Teams:</span></span>
   
-- [<span data-ttu-id="90861-104">Bagaimana saya mendapatkan akses ke Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="90861-104">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+- [<span data-ttu-id="a003a-104">Bagaimana saya mendapatkan akses ke Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="a003a-104">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
     
-- [<span data-ttu-id="90861-105">Pengaturan administrator untuk Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="90861-105">Administrator settings for Microsoft Teams</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
+- [<span data-ttu-id="a003a-105">Pengaturan administrator untuk Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a003a-105">Administrator settings for Microsoft Teams</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
     
 

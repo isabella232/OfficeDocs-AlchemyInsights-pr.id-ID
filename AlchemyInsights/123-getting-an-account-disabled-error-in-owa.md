@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
 ms.openlocfilehash: aaeee1f2bb35c0351149509aa7789f3484dd3879
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294610"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474467"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a><span data-ttu-id="6645d-102">Mendapatkan account dinonaktifkan error di Outlook di web?</span><span class="sxs-lookup"><span data-stu-id="6645d-102">Getting an account disabled error in Outlook on the web?</span></span>
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a><span data-ttu-id="9c96d-102">Mendapatkan account dinonaktifkan error di Outlook di web?</span><span class="sxs-lookup"><span data-stu-id="9c96d-102">Getting an account disabled error in Outlook on the web?</span></span>
 
-<span data-ttu-id="6645d-p101">Jika Anda mendapatkan kesalahan **akun Anda telah dinonaktifkan** dengan `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` ketika Anda mencoba untuk membuka Outlook di web (sebelumnya dikenal sebagai Outlook Web App), admin organisasi Anda mungkin telah menonaktifkan akses Anda ke Outlook di web. Admin Anda dapat memperbaiki kesalahan ini dengan mengikuti langkah-langkah dalam topik [mengaktifkan atau menonaktifkan Outlook Web App untuk kotak pesan](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="6645d-p101">If you get the error **Your account has been disabled** with  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` when you try to open Outlook on the web (formerly known as Outlook Web App), your organization admin might have disabled your access to Outlook on the web. Your admin can fix this error by following the steps in the topic [Enable or disable Outlook Web App for a mailbox](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="9c96d-p101">Jika Anda mendapatkan kesalahan **akun Anda telah dinonaktifkan** dengan `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` ketika Anda mencoba untuk membuka Outlook di web (sebelumnya dikenal sebagai Outlook Web App), admin organisasi Anda mungkin telah menonaktifkan akses Anda ke Outlook di web. Admin Anda dapat memperbaiki kesalahan ini dengan mengikuti langkah-langkah dalam topik [mengaktifkan atau menonaktifkan Outlook Web App untuk kotak pesan](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="9c96d-p101">If you get the error **Your account has been disabled** with  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` when you try to open Outlook on the web (formerly known as Outlook Web App), your organization admin might have disabled your access to Outlook on the web. Your admin can fix this error by following the steps in the topic [Enable or disable Outlook Web App for a mailbox](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).</span></span>
   
 

@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
 ms.openlocfilehash: b58334fd2c435743d9cb032a80c07aee0666cf4a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295244"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474340"
 ---
-# <a name="error-messages-when-sharing"></a><span data-ttu-id="f02e0-102">Pesan kesalahan ketika berbagi</span><span class="sxs-lookup"><span data-stu-id="f02e0-102">Error messages when sharing</span></span>
+# <a name="error-messages-when-sharing"></a><span data-ttu-id="fde82-102">Pesan kesalahan ketika berbagi</span><span class="sxs-lookup"><span data-stu-id="fde82-102">Error messages when sharing</span></span>
 
-<span data-ttu-id="f02e0-103">Jika Anda menerima pesan galat ketika mencoba untuk berbagi dengan pengguna eksternal, kemungkinan berbagi eksternal tidak diaktifkan atau berbagi diatur untuk tidak mengizinkan tingkat berbagi pengguna mencoba.</span><span class="sxs-lookup"><span data-stu-id="f02e0-103">If you receive an error message when trying to share with an external user, most likely external sharing is not enabled or sharing is set to not allow the level of sharing the user is attempting.</span></span>
+<span data-ttu-id="fde82-103">Jika Anda menerima pesan galat ketika mencoba untuk berbagi dengan pengguna eksternal, kemungkinan berbagi eksternal tidak diaktifkan atau berbagi diatur untuk tidak mengizinkan tingkat berbagi pengguna mencoba.</span><span class="sxs-lookup"><span data-stu-id="fde82-103">If you receive an error message when trying to share with an external user, most likely external sharing is not enabled or sharing is set to not allow the level of sharing the user is attempting.</span></span>
   
-<span data-ttu-id="f02e0-p101">Di \* klasik \* SharePoint Pusat admin, klik **berbagi** dalam pane kiri. Pilih tingkat sharing Anda hendak mengizinkan. Pastikan eksternal berbagi dihidupkan untuk situs.</span><span class="sxs-lookup"><span data-stu-id="f02e0-p101">In the  \*classic \* SharePoint admin center, click **sharing** in the left pane. Choose the level of sharing you wish to allow. Make sure external sharing is turned on for the site.</span></span> 
+<span data-ttu-id="fde82-p101">Di \* klasik \* SharePoint Pusat admin, klik **berbagi** dalam pane kiri. Pilih tingkat sharing Anda hendak mengizinkan. Pastikan eksternal berbagi dihidupkan untuk situs.</span><span class="sxs-lookup"><span data-stu-id="fde82-p101">In the  \*classic \* SharePoint admin center, click **sharing** in the left pane. Choose the level of sharing you wish to allow. Make sure external sharing is turned on for the site.</span></span> 
   
-<span data-ttu-id="f02e0-107">Jika pengguna mencoba untuk log in akan menerima pesan galat, coba langkah-langkah berikut:</span><span class="sxs-lookup"><span data-stu-id="f02e0-107">If the user trying to log in receives an error message, please try the following steps:</span></span>
+<span data-ttu-id="fde82-107">Jika pengguna mencoba untuk log in akan menerima pesan galat, coba langkah-langkah berikut:</span><span class="sxs-lookup"><span data-stu-id="fde82-107">If the user trying to log in receives an error message, please try the following steps:</span></span>
   
-- <span data-ttu-id="f02e0-108">Memastikan bahwa pengguna telah menerima undangan berbagi yang dikirimkan.</span><span class="sxs-lookup"><span data-stu-id="f02e0-108">Ensure that the user has accepted the sharing invitation that was sent.</span></span>
+- <span data-ttu-id="fde82-108">Memastikan bahwa pengguna telah menerima undangan berbagi yang dikirimkan.</span><span class="sxs-lookup"><span data-stu-id="fde82-108">Ensure that the user has accepted the sharing invitation that was sent.</span></span>
     
-- <span data-ttu-id="f02e0-109">Memastikan bahwa pengguna adalah menerima undangan dengan alamat email yang diutus ke.</span><span class="sxs-lookup"><span data-stu-id="f02e0-109">Ensure that the user is accepting the invitation with the email address that it was sent to.</span></span>
+- <span data-ttu-id="fde82-109">Memastikan bahwa pengguna adalah menerima undangan dengan alamat email yang diutus ke.</span><span class="sxs-lookup"><span data-stu-id="fde82-109">Ensure that the user is accepting the invitation with the email address that it was sent to.</span></span>
     
 

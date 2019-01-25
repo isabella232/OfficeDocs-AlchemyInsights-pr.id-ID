@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: b3c72033dfcc093dd0c2837d2866c6a78d64449c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294927"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474269"
 ---
-# <a name="restore-a-deleted-site-collection"></a><span data-ttu-id="0aa79-102">Memulihkan dihapus situs koleksi</span><span class="sxs-lookup"><span data-stu-id="0aa79-102">Restore a deleted site collection</span></span>
+# <a name="restore-a-deleted-site-collection"></a><span data-ttu-id="c9066-102">Memulihkan dihapus situs koleksi</span><span class="sxs-lookup"><span data-stu-id="c9066-102">Restore a deleted site collection</span></span>
 
-<span data-ttu-id="0aa79-p101">Ketika admin menghapus klasik situs koleksi, itu ditempatkan dalam situs koleksi Recycle Bin, di mana ia dipelihara selama 93 hari sebelum dihapus secara permanen. Untuk mengembalikan situs koleksi:</span><span class="sxs-lookup"><span data-stu-id="0aa79-p101">When an admin deletes a classic site collection, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site collection:</span></span>
+<span data-ttu-id="c9066-p101">Ketika admin menghapus klasik situs koleksi, itu ditempatkan dalam situs koleksi Recycle Bin, di mana ia dipelihara selama 93 hari sebelum dihapus secara permanen. Untuk mengembalikan situs koleksi:</span><span class="sxs-lookup"><span data-stu-id="c9066-p101">When an admin deletes a classic site collection, it's placed in the site collection Recycle Bin, where it's kept for 93 days before it's permanently deleted. To restore the site collection:</span></span>
   
-1. <span data-ttu-id="0aa79-105">Di pusat admin SharePoint klasik, klik **Recycle Bin** pada pita.</span><span class="sxs-lookup"><span data-stu-id="0aa79-105">In the classic SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
+1. <span data-ttu-id="c9066-105">Di pusat admin SharePoint klasik, klik **Recycle Bin** pada pita.</span><span class="sxs-lookup"><span data-stu-id="c9066-105">In the classic SharePoint admin center, click **Recycle Bin** on the ribbon.</span></span> 
     
-2. <span data-ttu-id="0aa79-106">Pilih kotak centang di sebelah situs koleksi Anda ingin mengembalikan.</span><span class="sxs-lookup"><span data-stu-id="0aa79-106">Select the check box next to the site collection you want to restore.</span></span>
+2. <span data-ttu-id="c9066-106">Pilih kotak centang di sebelah situs koleksi Anda ingin mengembalikan.</span><span class="sxs-lookup"><span data-stu-id="c9066-106">Select the check box next to the site collection you want to restore.</span></span>
     
-3. <span data-ttu-id="0aa79-107">Klik **memulihkan item yang dihapus**.</span><span class="sxs-lookup"><span data-stu-id="0aa79-107">Click **Restore Deleted Items**.</span></span>
+3. <span data-ttu-id="c9066-107">Klik **memulihkan item yang dihapus**.</span><span class="sxs-lookup"><span data-stu-id="c9066-107">Click **Restore Deleted Items**.</span></span>
     
-<span data-ttu-id="0aa79-p102">Untuk mengembalikan situs komunikasi dihapus, Anda dapat menggunakan SharePoint admin pusat Tinjauan baru. Jika tidak, Anda perlu menggunakan PowerShell. Untuk mengembalikan situs milik Grup Office 365, Anda perlu untuk mengembalikan kelompok di asing admin center. Kelompok dapat dikembalikan untuk 30 hari setelah mereka dihapus.</span><span class="sxs-lookup"><span data-stu-id="0aa79-p102">To restore a deleted communication site, you can use the new SharePoint admin center preview. Otherwise, you need to use PowerShell. To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.</span></span>
+<span data-ttu-id="c9066-p102">Untuk mengembalikan situs komunikasi dihapus, Anda dapat menggunakan SharePoint admin pusat Tinjauan baru. Jika tidak, Anda perlu menggunakan PowerShell. Untuk mengembalikan situs milik Grup Office 365, Anda perlu untuk mengembalikan kelompok di asing admin center. Kelompok dapat dikembalikan untuk 30 hari setelah mereka dihapus.</span><span class="sxs-lookup"><span data-stu-id="c9066-p102">To restore a deleted communication site, you can use the new SharePoint admin center preview. Otherwise, you need to use PowerShell. To restore a site that belongs to an Office 365 group, you need to restore the group in the Exchange admin center. Groups can be restored for 30 days after they're deleted.</span></span>
   
 
