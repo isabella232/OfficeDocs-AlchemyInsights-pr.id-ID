@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: f0733749-3a6e-4bf1-92f8-9c1ada5e36d2
 description: Memulai artikel Anda dengan pengenalan yang sangat singkat (1 kalimat). Tempatkan diri Anda dalam pembaca - mengapa mereka di sini? Apa yang harus mereka lakukan?
 ms.openlocfilehash: 3b9420bc0ba55ce40cf81b0f96ec3e49af0d3d61
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28295117"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474639"
 ---
 Memulai artikel Anda dengan pengenalan yang sangat singkat (1 kalimat). Tempatkan diri Anda dalam pembaca - mengapa mereka di sini? Apa yang harus mereka lakukan? 
   
