@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
 ms.openlocfilehash: cbde9df219deb932e4286318e58b95e3edd9040a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294515"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29474984"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="8059c-102">CTRL + H menunjukkan menemukan, tidak menggantikan di Excel</span><span class="sxs-lookup"><span data-stu-id="8059c-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="0262f-102">CTRL + H menunjukkan menemukan, tidak menggantikan di Excel</span><span class="sxs-lookup"><span data-stu-id="0262f-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="8059c-p101">Dalam Excel 2016, menekan CTRL + H membuka dialog Cari dan ganti dan menunjukkan tab menemukan, bukan menggantikan tab. klik Ganti pada tab Beranda melakukan hal yang sama. Masalah ini tetap dalam versi 1708 (8431.2094). Untuk memperbaiki ini, update ke versi terbaru dari Office. Pilih **File** \> **Account** \> **Mutakhirkan opsi** \> **Perbarui sekarang**.</span><span class="sxs-lookup"><span data-stu-id="8059c-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="0262f-p101">Dalam Excel 2016, menekan CTRL + H membuka dialog Cari dan ganti dan menunjukkan tab menemukan, bukan menggantikan tab. klik Ganti pada tab Beranda melakukan hal yang sama. Masalah ini tetap dalam versi 1708 (8431.2094). Untuk memperbaiki ini, update ke versi terbaru dari Office. Pilih **File** \> **Account** \> **Mutakhirkan opsi** \> **Perbarui sekarang**.</span><span class="sxs-lookup"><span data-stu-id="0262f-p101">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing. This issue was fixed in version 1708 (8431.2094). To fix this, update to the latest version of Office. Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

@@ -1,5 +1,5 @@
 ---
-title: Membuat kotak pesan bersama
+title: Membuat Kotak Surat Bersama
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28294380"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29475199"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="aeddf-102">Membuat kotak pesan bersama</span><span class="sxs-lookup"><span data-stu-id="aeddf-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="4682b-102">Membuat Kotak Surat Bersama</span><span class="sxs-lookup"><span data-stu-id="4682b-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="aeddf-103">Kotak pesan bersama memungkinkan lebih dari satu orang mengirim dan menerima email untuk alias, seperti **sales@contoso.com**, tanpa menentukan lisensi lain.</span><span class="sxs-lookup"><span data-stu-id="aeddf-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="4682b-103">Kotak pesan bersama memungkinkan lebih dari satu orang mengirim dan menerima email untuk alias, seperti **sales@contoso.com**, tanpa menentukan lisensi lain.</span><span class="sxs-lookup"><span data-stu-id="4682b-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="aeddf-104">Lihat [membuat kotak pesan bersama](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) untuk informasi lebih lanjut.</span><span class="sxs-lookup"><span data-stu-id="aeddf-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="4682b-104">Lihat [membuat kotak pesan bersama](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) untuk informasi lebih lanjut.</span><span class="sxs-lookup"><span data-stu-id="4682b-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
   
 
