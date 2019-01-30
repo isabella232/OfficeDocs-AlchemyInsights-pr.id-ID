@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454433"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -302,7 +294,7 @@ ms.locfileid: "29454433"
 | 1/10/2019 | [Membuat situs komunikasi](/AlchemyInsights/create-a-communication-site) | ditambahkan |
 | 1/10/2019 | [Menciptakan aliran](/AlchemyInsights/create-a-flow) | ditambahkan |
 | 1/10/2019 | [Membuat situs Modern tim](/AlchemyInsights/create-a-modern-team-site) | ditambahkan |
-| 1/10/2019 | Membuat Kotak Surat Bersama | ditambahkan |
+| 1/10/2019 | [Membuat kotak pesan bersama](/AlchemyInsights/create-a-shared-mailbox) | ditambahkan |
 | 1/10/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | ditambahkan |
 | 1/10/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | ditambahkan |
 | 1/10/2019 | [Membuat dan menggunakan kotak pesan bersama](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | ditambahkan |
@@ -599,7 +591,7 @@ ms.locfileid: "29454433"
 | 1/11/2019 | [Membuat situs komunikasi](/AlchemyInsights/create-a-communication-site) | diubah |
 | 1/11/2019 | [Menciptakan aliran](/AlchemyInsights/create-a-flow) | diubah |
 | 1/11/2019 | [Membuat situs Modern tim](/AlchemyInsights/create-a-modern-team-site) | diubah |
-| 1/11/2019 | Membuat Kotak Surat Bersama | diubah |
+| 1/11/2019 | [Membuat kotak pesan bersama](/AlchemyInsights/create-a-shared-mailbox) | diubah |
 | 1/11/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | diubah |
 | 1/11/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | diubah |
 | 1/11/2019 | [Membuat dan menggunakan kotak pesan bersama](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | diubah |
@@ -643,3 +635,19 @@ ms.locfileid: "29454433"
 | 1/14/2019 | Tambahkan domain Alkimia | dihapus |
 | 1/14/2019 | [Alkimia wawasan rumah](/AlchemyInsights/index) | diubah |
 | 1/17/2019 | [sama seperti nama file terbaik [aturan #-Deskripsi]](/AlchemyInsights/1-alchemy-insight-template) | ditambahkan |
+
+
+## <a name="week-of-january-21-2019"></a>Minggu 21 Januari 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 1/22/2019 | [1047 antiSpam 550 5.7.708 Layanan tidak tersedia. Akses ditolak, lalu lintas yang tidak diterima dari IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | diubah |
+| 1/22/2019 | [1049 antiSpam 4.5.3 terlalu banyak Penerima (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | diubah |
+| 1/22/2019 | [1050 antispam 4.7.500 Server sibuk. Silakan coba lagi nanti dari [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | diubah |
+| 1/22/2019 | [1051 antispam 4.7.500 Akses ditolak, silakan coba lagi nanti](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | diubah |
+| 1/22/2019 | [Email relay melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
+| 1/24/2019 | [Kontrol pembentukan kelompok](/AlchemyInsights/control-creation-of-groups) | diubah |
+| 1/24/2019 | [Masalah Outlook dengan Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | ditambahkan |
+| 1/24/2019 | [Mengembalikan sebuah kantor 365 kelompok menggunakan Exchange admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | berganti nama menjadi |
+| 1/24/2019 | [Memecahkan masalah dengan Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | berganti nama menjadi |
