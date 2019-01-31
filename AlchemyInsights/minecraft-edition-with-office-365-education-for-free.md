@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474946"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657542"
 ---
-[Minecraft Edition dengan Office 365 pendidikan untuk gratis](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[Minecraft Edition dengan Office 365 pendidikan untuk gratis](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: pendidikan edisi** memerlukan Windows 10 
     
 - Percobaan atau berlangganan **Minecraft: pendidikan edisi** ditawarkan kepada penyewa pendidikan yang dikelola oleh Azure Active Directory (Azure AD) 
     
-  - Jika sekolah Anda tidak memiliki iklan Azure penyewa, [administrator TI dapat mengatur satu](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) sebagai bagian dari proses mendapatkan **Minecraft: pendidikan edisi**.
+  - Jika sekolah Anda tidak memiliki iklan Azure penyewa, [administrator TI dapat mengatur satu](https://docs.microsoft.com/education/windows/school-get-minecraft) sebagai bagian dari proses mendapatkan **Minecraft: pendidikan edisi**.
     
   - Kantor 365 pendidikan, yang meliputi versi online aplikasi Office ditambah 1 TB penyimpanan online gratis untuk guru dan siswa. [Mendaftar sekolah Anda untuk Office 365 pendidikan](https://products.office.com/academic/office-365-education-plan).
     
   - Jika sekolah Anda telah berlangganan kantor 365 pendidikan, termasuk gratis iklan Azure berlangganan. [Daftar iklan Azure gratis Anda berlangganan](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[Belajar bagaimana guru bisa mendapatkan dan mendistribusikan Minecraft: pendidikan edisi](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[Belajar bagaimana guru bisa mendapatkan dan mendistribusikan Minecraft: pendidikan edisi](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Belajar bagaimana administrator IT dapat mendapatkan dan mendistribusikan Minecraft: pendidikan edisi](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft), dan bagaimana mengelola izin untuk Minecraft.
+[Belajar bagaimana administrator IT dapat mendapatkan dan mendistribusikan Minecraft: pendidikan edisi](https://docs.microsoft.com/education/windows/school-get-minecraft), dan bagaimana mengelola izin untuk Minecraft.
   
 

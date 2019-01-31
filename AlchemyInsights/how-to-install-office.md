@@ -3,27 +3,29 @@ title: Cara menginstal Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/15/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 35479ea33d6a235faf1e28fbc6568a6990f4e676
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 89dd1d74026dbd3bf78a315b87a4ef7bd17cf144
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474244"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645628"
 ---
 # <a name="how-to-install-office"></a>Cara menginstal Office
+
 
 Untuk menginstal aplikasi klien kantor, pastikan Anda memiliki langganan bisnis seperti Office 365 bisnis Premium, Office 365 bisnis atau kantor 365 pendidikan.
   
 > [!NOTE]
-> [Kantor rumah dan bisnis 2016](https://products.office.com/home-and-business) adalah produk [Office untuk rumah](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA.aspx) dan bukan bagian dari bisnis berlangganan. 
+> [Kantor rumah dan bisnis 2016](https://products.office.com/home-and-business) adalah produk [Office untuk rumah](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) dan bukan bagian dari bisnis berlangganan. 
   
-- Buat account pengguna dan tambahkan domain. Pastikan pengguna telah [diberi lisensi](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA.aspx).
+- Buat account pengguna dan tambahkan domain. Pastikan pengguna telah [diberi lisensi](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
 - Memiliki setiap pengguna:
     
@@ -35,6 +37,6 @@ Untuk menginstal aplikasi klien kantor, pastikan Anda memiliki langganan bisnis 
     
 4. Pilih **Instal**.
     
-Untuk langkah-langkah rinci dan solusi pemecahan masalah, lihat: [mengatur Office 365 untuk bisnis](https://support.office.com/Article/6a3a29a0-e616-4713-99d1-15eda62d04fa?wt.mc_id=Alchemy_ClientDIA).
-  
+    Untuk langkah-langkah rinci dan solusi pemecahan masalah ketika menginstal Office, lihat: [men-Download dan menginstal atau menginstal ulang kantor pada PC atau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+    
 

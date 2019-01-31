@@ -3,31 +3,30 @@ title: Hapus grup situs
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475228"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660674"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Menghapus situs SharePoint milik Grup Office 365
 
-Ketika pengguna membuat sebuah situs tim baru dari SharePoint rumah (atau Anda membuat situs tim baru dari SharePoint admin pusat Tinjauan baru), grup Office 365 yang sesuai secara otomatis dibuat. Kantor 365 terhubung kelompok tim situs juga dibuat bila Anda membuat grup Office 365 atau tim di Microsoft Teams. Untuk menghapus situs SharePoint milik Grup Office 365, Anda perlu untuk menghapus Grup Office 365 itu sendiri. 
+Admin global dan SharePoint admin sekarang bisa menghapus situs milik Grup Office 365. Menghapus situs tersebut akan menghapus kelompok dan semua sumber daya, termasuk kotak pesan Outlook dan kalender, dan setiap tim saluran.
   
-1. Pergi ke [halaman kelompok Office 365 admin center](https://portal.office.com/adminportal/home#/groups).
-    
-2. Pilih kotak centang di samping grup tersebut.
-    
-3. Pilih **Hapus**.
-    
-Catatan: Bila Anda menghapus grup, ada penundaan sebelum situs akan dihapus dari SharePoint.
+Penting:
+- Anda dapat memulihkan dihapus situs 93 hari. Untuk info lebih lanjut, lihat melihat dan mengembalikan situs dihapus. Perhatikan bahwa kelompok-kelompok dihapus harus dikembalikan dalam waktu 30 hari. 
+- Jika situs tersebut bagian dari kebijakan penyimpanan, Anda mungkin tidak dapat menghapusnya sampai situs akan dihapus dari [keamanan &amp; kepatuhan Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Lihat [Ikhtisar kebijakan penyimpanan](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) untuk info lebih lanjut. 
+  
+Untuk [pemandangan dan memulihkan dihapus situs di SharePoint admin center baru](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), pilih **dihapus situs**. Pilih situs yang telah dihapus dan memilih Restore atau Delete (yang akan secara permanen menghapus situs). Untuk menghapus situs aktif, pilih situs **aktif** , pilih situs dan pilih **Delete**. Untuk info lebih lanjut, lihat [mengelola situs di SharePoint admin center baru](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 
