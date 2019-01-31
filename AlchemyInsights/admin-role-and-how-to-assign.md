@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c94af74857e34148420c29fafabd48c8af1eca0e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 400b24569f6fa79d1003925c04f22f63ba2dd950
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498773"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662438"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="3823b-102">Apa peran admin dan bagaimana Anda menetapkan mereka?</span><span class="sxs-lookup"><span data-stu-id="3823b-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="21261-102">Apa peran admin dan bagaimana Anda menetapkan mereka?</span><span class="sxs-lookup"><span data-stu-id="21261-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="3823b-p101">Sepertinya Anda memiliki beberapa pertanyaan tentang peran admin. Artikel ini harus menjawab semua pertanyaan Anda.</span><span class="sxs-lookup"><span data-stu-id="3823b-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
+<span data-ttu-id="21261-p101">Sepertinya Anda memiliki beberapa pertanyaan tentang peran admin. Artikel ini harus menjawab semua pertanyaan Anda.</span><span class="sxs-lookup"><span data-stu-id="21261-p101">Looks like you have some questions about admin roles. These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="3823b-105">Tentang peran admin Office 365</span><span class="sxs-lookup"><span data-stu-id="3823b-105">About Office 365 admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [<span data-ttu-id="21261-105">Tentang peran admin Office 365</span><span class="sxs-lookup"><span data-stu-id="21261-105">About Office 365 admin roles</span></span>](https://support.office.com/article/https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
     
-- [<span data-ttu-id="3823b-106">Menetapkan peran admin</span><span class="sxs-lookup"><span data-stu-id="3823b-106">Assign admin roles</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [<span data-ttu-id="21261-106">Menetapkan peran admin</span><span class="sxs-lookup"><span data-stu-id="21261-106">Assign admin roles</span></span>](https://support.office.com/article/https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
     
-<span data-ttu-id="3823b-p102">Tidak menjawab pertanyaan Anda? Tidak ada masalah! Menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.</span><span class="sxs-lookup"><span data-stu-id="3823b-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="21261-p102">Tidak menjawab pertanyaan Anda? Tidak ada masalah! Menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.</span><span class="sxs-lookup"><span data-stu-id="21261-p102">Didn't answer your question? No problem! Use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
