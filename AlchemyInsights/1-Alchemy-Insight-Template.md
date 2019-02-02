@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662933"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697133"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Diperlukan pelanggan menghadapi H1, H2 tidak bekerja
-Contoh teks blok - ikuti petunjuk ini:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Diperlukan Alkimia Header H1, H2's tidak bekerja.
+Best Practices dan pedoman untuk authoring Alkimia:
 
+1. **Tidak sarang Alkimia wawasan dalam folder**- ini akan merusak struktur url. Kami melihat ke memperbaiki ini.
 1. File dalam **AlchemyInsights** folder harus memiliki ID aturan dan nama aturan dari [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) dalam nama file.
     1. Keluaran ***976-How-to-enable-litigation-hold***
 1. Menggunakan metadata di bagian atas dari file ini sebagai template Anda. Tidak ada yang lain diperlukan.
@@ -35,7 +36,6 @@ Contoh teks blok - ikuti petunjuk ini:
 
 Dan ini benar-benar sudah agak terlalu lama. Praktek terbaik adalah sekitar 400 karakter---
 
-Setelah konten Anda siap, menariknya ke cabang hidup. Kemudian, pergi ke [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) dan masukkan nama file ke bidang url. Pastikan wawasan ditinjau dan diterbitkan mengatakan "ya" dan kemudian klik Update aturan. (Ini akan tampak cantik dalam versi baru dari portal - merilis segera.)
-
-![isian URL](media/for-content-team.PNG)
+Setelah konten Anda siap, menariknya ke cabang hidup. Kemudian, pergi ke [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) dan masukkan nama file ke bidang url. Pastikan wawasan ditinjau dan diterbitkan mengatakan "ya" dan kemudian klik Update aturan. **(Ini akan tampak cantik dalam versi baru dari portal - merilis segera.)** 
+ ![bidang url](media/for-content-team.PNG)
 
