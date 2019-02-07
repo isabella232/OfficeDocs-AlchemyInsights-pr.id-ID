@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e3fa17dd-c822-41e7-aaba-d9d2c5381fd6
-ms.openlocfilehash: c3e4b6db7e6e814bd3dfa72cc8d40170c71c5cac
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2939123cab7fb863745bced9d7067dc95ff311bb
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474949"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759247"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="ba1f5-102">Layanan kejadian berlangsung</span><span class="sxs-lookup"><span data-stu-id="ba1f5-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="ce095-102">Layanan kejadian berlangsung</span><span class="sxs-lookup"><span data-stu-id="ce095-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="ba1f5-p101">Anda mungkin akan terpengaruh oleh insiden layanan atau penasihat yang saat ini sedang diselidiki. Anda dapat memeriksa status terbaru dengan pergi ke halaman [Layanan kesehatan](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="ba1f5-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="ce095-p101">Anda mungkin akan terpengaruh oleh insiden layanan atau penasihat yang saat ini sedang diselidiki. Anda dapat memeriksa status terbaru dengan pergi ke halaman [Layanan kesehatan](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="ce095-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="ba1f5-105">Untuk kenyamanan Anda, Anda dapat menemukan ringkasan dari kejadian ini di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="ba1f5-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="ce095-105">Untuk kenyamanan Anda, Anda dapat menemukan ringkasan dari kejadian ini di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="ce095-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="ba1f5-106">**Kejadian nomor:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ba1f5-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="ce095-106">**Kejadian nomor:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="ce095-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="ba1f5-107">Dampak Deskripsi: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ba1f5-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="ce095-107">Dampak Deskripsi: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="ce095-107">Impact description: {ImpactDescription}</span></span>
     
 

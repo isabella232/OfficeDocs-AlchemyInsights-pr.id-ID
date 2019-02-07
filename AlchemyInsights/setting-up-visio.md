@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: 9b76deef7ba7142cb3737ef0ac038a8f1a566267
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 872b496ddbfb2d5ec19c70a2f9998c88e4807735
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474920"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758887"
 ---
-# <a name="setting-up-visio"></a><span data-ttu-id="980d7-102">Menyiapkan Visio</span><span class="sxs-lookup"><span data-stu-id="980d7-102">Setting up Visio</span></span>
+# <a name="setting-up-visio"></a><span data-ttu-id="ad0f3-102">Menyiapkan Visio</span><span class="sxs-lookup"><span data-stu-id="ad0f3-102">Setting up Visio</span></span>
 
-<span data-ttu-id="980d7-103">Sepertinya Anda perlu bantuan pengaturan Visio dengan langganan Office 365.</span><span class="sxs-lookup"><span data-stu-id="980d7-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
+<span data-ttu-id="ad0f3-103">Sepertinya Anda perlu bantuan pengaturan Visio dengan langganan Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad0f3-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
   
-<span data-ttu-id="980d7-p101">Pemberitahuan untuk pengguna Mac: The Visio produk ini tidak tersedia untuk MacOS pada saat ini. Jika Anda memiliki PC Anda harus dapat menginstal perangkat lunak menggunakan langkah-langkah berikut.</span><span class="sxs-lookup"><span data-stu-id="980d7-p101">Notice for Mac users: The Visio product is not available for MacOS at this time. If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="ad0f3-p101">Pemberitahuan untuk pengguna Mac: The Visio produk ini tidak tersedia untuk MacOS pada saat ini. Jika Anda memiliki PC Anda harus dapat menginstal perangkat lunak menggunakan langkah-langkah berikut.</span><span class="sxs-lookup"><span data-stu-id="ad0f3-p101">Notice for Mac users: The Visio product is not available for MacOS at this time. If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="980d7-106">Anda dapat mengikuti langkah-langkah dalam [artikel ini](https://support.office.com/article/https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) untuk mendapatkan Anda setup selesai.</span><span class="sxs-lookup"><span data-stu-id="980d7-106">You can follow the steps in [this article](https://support.office.com/article/https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
+<span data-ttu-id="ad0f3-106">Anda dapat mengikuti langkah-langkah dalam [artikel ini](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) untuk mendapatkan Anda setup selesai.</span><span class="sxs-lookup"><span data-stu-id="ad0f3-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
   
 
