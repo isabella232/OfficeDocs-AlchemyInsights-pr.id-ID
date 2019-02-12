@@ -838,3 +838,57 @@
 | 30/1/2019 | [123 mendapatkan account dinonaktifkan kesalahan dalam OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | diubah |
 | 2/1/2019 | [sama seperti nama file terbaik [aturan #-Deskripsi]](/AlchemyInsights/1-alchemy-insight-template) | diubah |
 | 2/1/2019 | [Mengubah hak akses pada kotak pesan](/AlchemyInsights/changing-permissions-on-a-mailbox) | diubah |
+
+
+## <a name="week-of-february-04-2019"></a>Minggu Februari 04, 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 2/4/2019 | [Menambahkan pengguna ke Office 365](/AlchemyInsights/add-users-to-office-365) | diubah |
+| 2/6/2019 | [Karyawan yang meninggalkan](/AlchemyInsights/employee-leaving) | diubah |
+| 2/6/2019 | [Admin pengambilalihan](/AlchemyInsights/admin-takeover) | diubah |
+| 2/6/2019 | [127 galat TenantAccessBlockedException ketika mengakses email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | diubah |
+| 2/6/2019 | [959 perubahan nama tampilan](/AlchemyInsights/959-change-display-name) | diubah |
+| 2/6/2019 | [Menambah atau menghapus email alias untuk pengguna](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | diubah |
+| 2/6/2019 | Menambahkan kursi ke langganan prabayar | dihapus |
+| 2/6/2019 | [Menambahkan pengguna ke Office 365](/AlchemyInsights/add-users-to-office-365) | diubah |
+| 2/6/2019 | [Menambahkan pengguna eksternal ke grup distribusi?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | diubah |
+| 2/6/2019 | Admin - setup Global Office 365 dan administrasi | dihapus |
+| 2/6/2019 | Admin - mengelola pengguna, grup, dan sumber daya saya | dihapus |
+| 2/6/2019 | Admin - Setup domain dan pengaturan DNS | dihapus |
+| 2/6/2019 | Admin - masuk dan sandi masalah | dihapus |
+| 2/6/2019 | [Membatalkan langganan di Office 365](/AlchemyInsights/cancel-office-365-subscription) | diubah |
+| 2/6/2019 | [Mengubah pengguna nama dan alamat email](/AlchemyInsights/change-a-user-s-name-and-email-address) | diubah |
+| 2/6/2019 | Commerce - mengelola tagihan, pembayaran, langganan dan lisensi | dihapus |
+| 2/6/2019 | [Galat TenantAccessBlockedException ketika mengakses email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | diubah |
+| 2/6/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues-0) | diubah |
+| 2/6/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues) | diubah |
+| 2/6/2019 | [Mengalami masalah mendapatkan Outlook agar tersambung?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | diubah |
+| 2/6/2019 | [Mengalami masalah mendapatkan Outlook agar tersambung?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | diubah |
+| 2/6/2019 | Intune - Download, Setup dan menggunakan Intune | dihapus |
+| 2/6/2019 | [Masalah dengan Skype untuk bisnis?](/AlchemyInsights/issue-with-skype-for-business) | diubah |
+| 2/6/2019 | ODSP | dihapus |
+| 2/6/2019 | Kantor klien - Excel | dihapus |
+| 2/6/2019 | [Mengembalikan dihapus pengguna](/AlchemyInsights/restore-deleted-user) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-0) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-1) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-2) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-3) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-4) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress-5) | diubah |
+| 2/6/2019 | [Layanan kejadian berlangsung](/AlchemyInsights/service-incident-in-progress) | diubah |
+| 2/6/2019 | [Mendirikan proyek](/AlchemyInsights/setting-up-project) | diubah |
+| 2/6/2019 | Setup kepatuhan fitur seperti arsip, retensi, litigasi, eDiscovery dan MDM | dihapus |
+| 2/6/2019 | Menggunakan Offline Installer untuk kantor | dihapus |
+| 2/6/2019 | Heboh - Setup dan menggunakan layanan heboh | dihapus |
+| 2/7/2019 | [Excel menabrak?](/AlchemyInsights/excel-crashing) | diubah |
+| 2/7/2019 | [Cara menambahkan atau mengedit VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | diubah |
+| 2/7/2019 | [Minecraft Edition dengan Office 365 pendidikan untuk gratis](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | diubah |
+| 2/7/2019 | [606 informasi tentang delegasi](/AlchemyInsights/606-information-on-delegation) | diubah |
+| 2/7/2019 | [Grup tidak menunjukkan dalam daftar Grup](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | diubah |
+| 2/8/2019 | [DLP kebijakan Tips tidak bekerja](/AlchemyInsights/dlp-policy-tips-not-working) | diubah |
+| 2/8/2019 | [DLP aturan untuk US / nomor paspor Inggris tidak bekerja](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | diubah |
+| 2/8/2019 | [Kantor 365 pendidikan untuk gratis](/AlchemyInsights/office-365-education-for-free) | diubah |
+| 2/8/2019 | [Diperlukan lisensi untuk Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | diubah |
+| 2/8/2019 | [Kebijakan Penyimpanan di Exchange Admin Center tidak bekerja](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | diubah |
