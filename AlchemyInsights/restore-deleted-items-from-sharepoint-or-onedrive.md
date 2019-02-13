@@ -7,33 +7,33 @@ ms.date: 5/24/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a3c980565059e47a297a812cd6e2e656b36becb6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 94203849c1cca9dc1d2d6207f2390a57ad3e9680
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474245"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29923187"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="6a756-102">Mengembalikan item yang dihapus dari SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="6a756-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="b595b-102">Mengembalikan item yang dihapus dari SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="b595b-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="6a756-103">Pergi ke OneDrive Anda atau situs SharePoint.</span><span class="sxs-lookup"><span data-stu-id="6a756-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="b595b-103">Pergi ke OneDrive Anda atau situs SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b595b-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="6a756-104">Klik **Recycle Bin** dalam pane kiri.</span><span class="sxs-lookup"><span data-stu-id="6a756-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="b595b-104">Klik **Recycle Bin** dalam pane kiri.</span><span class="sxs-lookup"><span data-stu-id="b595b-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="6a756-105">Klik di sebelah kiri barang atau file yang ingin Anda kembalikan.</span><span class="sxs-lookup"><span data-stu-id="6a756-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="b595b-105">Klik di sebelah kiri barang atau file yang ingin Anda kembalikan.</span><span class="sxs-lookup"><span data-stu-id="b595b-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="6a756-106">Klik **Kembalikan**.</span><span class="sxs-lookup"><span data-stu-id="6a756-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="b595b-106">Klik **Kembalikan**.</span><span class="sxs-lookup"><span data-stu-id="b595b-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="6a756-p101">Ketika file, folder, Perpustakaan, daftar dan daftar item dihapus dari situs SharePoint, mereka pergi ke Recycle Bin, dimana mereka terus 93 hari kecuali seseorang menghapus mereka dari Recycle Bin. Jika mereka dihapus dari ini Recycle Bin (disebut situs Recycle Bin), mereka pergi ke situs koleksi Recycle Bin untuk sisa waktu, dan kemudian akan dihapus secara permanen. Dihapus situs dan koleksi situs pergi langsung ke situs koleksi Recycle Bin untuk hari 93.</span><span class="sxs-lookup"><span data-stu-id="6a756-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="b595b-p101">Ketika file, folder, Perpustakaan, daftar dan daftar item dihapus dari situs SharePoint, mereka pergi ke Recycle Bin, dimana mereka terus 93 hari kecuali seseorang menghapus mereka dari Recycle Bin. Jika mereka dihapus dari ini Recycle Bin (disebut situs Recycle Bin), mereka pergi ke situs koleksi Recycle Bin untuk sisa waktu, dan kemudian akan dihapus secara permanen. Dihapus situs dan koleksi situs pergi langsung ke situs koleksi Recycle Bin untuk hari 93.</span><span class="sxs-lookup"><span data-stu-id="b595b-p101">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin. If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted. Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="6a756-110">[Mengembalikan item dalam koleksi situs Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (situs koleksi admin)</span><span class="sxs-lookup"><span data-stu-id="6a756-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="b595b-110">[Mengembalikan item dalam koleksi situs Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (situs koleksi admin)</span><span class="sxs-lookup"><span data-stu-id="b595b-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="6a756-111">[Mengembalikan dihapus koleksi situs](https://go.microsoft.com/fwlink/?linkid=867660) (global atau SharePoint admin di Office 365)</span><span class="sxs-lookup"><span data-stu-id="6a756-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="b595b-111">[Mengembalikan dihapus koleksi situs](https://go.microsoft.com/fwlink/?linkid=867660) (global atau SharePoint admin di Office 365)</span><span class="sxs-lookup"><span data-stu-id="b595b-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
   
-<span data-ttu-id="6a756-p102">Untuk situs yang milik Grup Office 365, Anda perlu untuk mengembalikan kelompok untuk mengembalikan situs. Lihat [memulihkan dihapus Office 365 kelompok](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span><span class="sxs-lookup"><span data-stu-id="6a756-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="b595b-p102">Untuk situs yang milik Grup Office 365, Anda perlu untuk mengembalikan kelompok untuk mengembalikan situs. Lihat [memulihkan dihapus Office 365 kelompok](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span><span class="sxs-lookup"><span data-stu-id="b595b-p102">For sites that belong to an Office 365 group, you need to restore the group to restore the site. See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
