@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919443"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208086"
 ---
 # <a name="compare-office-365-plans"></a>Membandingkan rencana Office 365
 
@@ -26,7 +26,7 @@ Kantor 365 rencana tersedia untuk [bisnis](https://products.office.com/compare-a
   
 Jika organisasi Anda tertarik dalam membandingkan semua rencana dan harga, meninjau [membandingkan semua rencana Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jika organisasi Anda telah membeli rencana Office 365 dan tertarik untuk beralih ke rencana yang berbeda Anda dapat jadi dari kantor 365 pusat Admin, pergi ke [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054)atau memilih **penagihan** \> **langganan**. Memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia. 
+Jika organisasi Anda telah membeli rencana Office 365 dan tertarik untuk beralih ke rencana yang berbeda Anda dapat sehingga dari Pusat admin Microsoft 365, pergi ke [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054)atau memilih **penagihan** \> **langganan**. Memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia. 
   
 Organisasi Anda juga dapat mencampur dan mencocokkan Office 365 rencana untuk memenuhi kebutuhan dan persyaratan fitur pengguna. Dari kantor 365 Admin, pergi ke halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) , atau memilih **penagihan** \> **Layanan pembelian**.
   

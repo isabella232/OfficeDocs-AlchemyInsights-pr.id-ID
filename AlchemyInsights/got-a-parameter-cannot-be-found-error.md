@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 66858a36cbd1cea17d94549c17bbfe618d43f33f
-ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
+ms.openlocfilehash: 345dd37cd12324ceb35953c8a28c3274e3302726
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30088080"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209236"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrasi email dari sistem email IMAP ke Office 365
 
-Untuk migrasi email dari sistem pesan IMAP, ikuti proses ini: [migrasi IMAP di Office 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Untuk migrasi email dari sistem pesan IMAP, ikuti proses ini: [migrasi IMAP di Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
 Organisasi-organisasi besar akan perlu untuk merencanakan dengan hati-hati untuk mengelola harapan pengguna. [Apa yang perlu Anda ketahui tentang migrasi kotak pesan IMAP ke Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikel akan membantu Anda mengelola perubahan. 
 

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 20b538846997c021b6e88596a1e8aff401ea935b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4b132a3cb0fac015ab44a1fa08565af15b7e8121
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900875"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207688"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Memperbaiki masalah yang berbagi konten SharePoint dengan pengguna eksternal
 
 Pastikan eksternal berbagi dihidupkan untuk organisasi Anda:
   
-1. Pergi ke [Layanan &amp; halaman add-in di Office 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), dan klik **situs**.
+1. Pergi ke [Layanan &amp; halaman add-in di Microsoft 365 admin center](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), dan klik **situs**.
     
-2. Pastikan pengaturan diaktifkan "On." Jika "Hanya pengguna eksternal yang ada" dipilih, pastikan pengguna eksternal terdaftar di Office 365 admin center.
+2. Pastikan pengaturan diaktifkan "On." Jika "Hanya pengguna eksternal yang ada" dipilih, pastikan pengguna eksternal terdaftar di Microsoft 365 admin center.
     
 Pastikan eksternal berbagi dihidupkan untuk situs. Untuk koleksi klasik situs:
   

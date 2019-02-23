@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 7788acd13218b6e15a7accb7e87ca14e9c90b691
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29901047"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208444"
 ---
 # <a name="change-a-users-email-address"></a>Mengubah alamat email pengguna
 
 Mengubah alamat email seseorang sangat mudah! Ikuti langkah berikut:
   
-1. Di Office 365 admin center, pergi ke halaman [pengguna](https://go.microsoft.com/fwlink/p/?linkid=834822) , atau memilih **pengguna** \> **Pengguna aktif**.
+1. Di pusat admin Microsoft 365, pergi ke halaman [pengguna](https://go.microsoft.com/fwlink/p/?linkid=834822) , atau memilih **pengguna** \> **Pengguna aktif**.
     
 2. Pilih pengguna.
     

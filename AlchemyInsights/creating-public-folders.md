@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 5cbc69c723b311f4e1c5b8fb2831c878641a065d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914151"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208120"
 ---
 # <a name="creating-public-folders"></a>Menciptakan folder publik
 
 Sebelum pengguna Anda dapat menggunakan folder publik di Office 365, Anda akan perlu untuk membuat setidaknya satu kotak pesan folder publik. Untuk membuat:
   
-1. Di Office 365 admin center, pergi ke **Admin pusat** \> **asing**.
+1. Di pusat admin Microsoft 365, pergi ke **Admin pusat** \> **asing**.
     
 2. Pergi ke **folder publik** \> **folder publik kotak pesan**, dan kemudian klik **Tambah**.
     
