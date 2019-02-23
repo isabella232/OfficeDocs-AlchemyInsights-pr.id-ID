@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: c4b0dfdf1b5cc52bd08dc6f7273efb67f6bec117
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b2788e98cf7c94d8dd4c1543145f30a442072f1e
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913406"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209704"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="ef954-102">Memeriksa status AAD identitas Sync</span><span class="sxs-lookup"><span data-stu-id="ef954-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="51234-102">Memeriksa status AAD identitas Sync</span><span class="sxs-lookup"><span data-stu-id="51234-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="ef954-103">Memeriksa status sync mudah:</span><span class="sxs-lookup"><span data-stu-id="ef954-103">Checking sync status is easy:</span></span> 
+<span data-ttu-id="51234-103">Memeriksa status sync mudah:</span><span class="sxs-lookup"><span data-stu-id="51234-103">Checking sync status is easy:</span></span> 
   
-- <span data-ttu-id="ef954-104">Masuk ke kantor 365 admin center dan memilih \*\* DirSync Status \*\* pada home page.</span><span class="sxs-lookup"><span data-stu-id="ef954-104">Sign in to the Office 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
+- <span data-ttu-id="51234-104">Masuk ke Microsoft 365 admin center dan memilih \*\* DirSync Status \*\* pada home page.</span><span class="sxs-lookup"><span data-stu-id="51234-104">Sign in to the Microsoft 365 admin center and choose \*\* DirSync Status \*\* on the home page.</span></span> 
     
-- <span data-ttu-id="ef954-105">Bergantian, Anda dapat pergi ke pengguna \> pengguna aktif, dan pada halaman pengguna aktif, pilih Selengkapnya \> sinkronisasi direktori.</span><span class="sxs-lookup"><span data-stu-id="ef954-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="51234-105">Bergantian, Anda dapat pergi ke pengguna \> pengguna aktif, dan pada halaman pengguna aktif, pilih Selengkapnya \> sinkronisasi direktori.</span><span class="sxs-lookup"><span data-stu-id="51234-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
     
-- <span data-ttu-id="ef954-106">Pada panel sinkronisasi direktori, memilih pergi ke DirSync manajemen.</span><span class="sxs-lookup"><span data-stu-id="ef954-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
+- <span data-ttu-id="51234-106">Pada panel sinkronisasi direktori, memilih pergi ke DirSync manajemen.</span><span class="sxs-lookup"><span data-stu-id="51234-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span> 
     
-<span data-ttu-id="ef954-p101">Jika ada masalah dengan sinkronisasi direktori Anda, kesalahan yang tercantum pada Halaman ini. Untuk informasi lebih lanjut tentang galat berbeda yang mungkin Anda alami, lihat [mengidentifikasi kesalahan sinkronisasi direktori di Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="ef954-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="51234-p101">Jika ada masalah dengan sinkronisasi direktori Anda, kesalahan yang tercantum pada Halaman ini. Untuk informasi lebih lanjut tentang galat berbeda yang mungkin Anda alami, lihat [mengidentifikasi kesalahan sinkronisasi direktori di Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="51234-p101">If there is a problem with your directory synchronization, the errors are listed on this page. For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
   
 
