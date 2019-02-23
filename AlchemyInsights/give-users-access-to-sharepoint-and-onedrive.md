@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933843"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209740"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Memberikan akses kepada pengguna ke SharePoint dan OneDrive
 
 > [!NOTE]
 > Jika situs OneDrive atau SharePoint tidak tersedia untuk beberapa pengguna yang sebelumnya mempunyai akses, mungkin ada masalah sementara layanan. [Periksa layanan kesehatan dashboard](https://portal.office.com/adminportal/home#/servicehealth)
   
-Jika Anda ingin orang-orang dalam organisasi Anda agar dapat masuk dan menggunakan SharePoint dan OneDrive, Anda perlu menambahkan account mereka dan memastikan bahwa mereka memiliki lisensi yang memberikan mereka akses ke SharePoint dan OneDrive. Cara termudah untuk menambahkan pengguna adalah di Office 365 admin center.
+Jika Anda ingin orang-orang dalam organisasi Anda agar dapat masuk dan menggunakan SharePoint dan OneDrive, Anda perlu menambahkan account mereka dan memastikan bahwa mereka memiliki lisensi yang memberikan mereka akses ke SharePoint dan OneDrive. Cara termudah untuk menambahkan pengguna adalah di Microsoft 365 admin center.
   
-1. Pergi ke [halaman pengguna aktif di Office 365 admin center](https://portal.office.com/adminportal/home#/users), dan kemudian klik **Tambah Pengguna**.
+1. Pergi ke [halaman pengguna aktif di Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users), dan kemudian klik **Tambah Pengguna**.
     
 2. Mengisi informasi untuk pengguna, dan pastikan bahwa di bawah **produk lisensi**, lisensi yang diberikan dan **SharePoint Online** yang dipilih. 
     
