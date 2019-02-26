@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 46a04853-e422-41cc-9bb7-a46d6b6f8aa0
-ms.openlocfilehash: f58b61fc6bef7cf759cac7a5ea13a455f80301f3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9fd6dfc057ff592bdb9609096ba3115be6264aa7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920417"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244080"
 ---
 # <a name="receiving-email-from-blocked-senders"></a>Menerima email dari pengirim yang diblokir
 
@@ -22,7 +22,7 @@ Jika email dari pengirim yang diblokir masih muncul di kotak masuk Anda, pengiri
   
 Untuk memeriksa alamat real email pengirim:
   
-1. Pilih ![lebih tindakan](media/11884972-7ebb-4afe-8b50-63efefb7cca8.png) di bagian atas jendela pesan dan pilih **Lihat sumber pesan**.
+1. Pilih ikon amplop di bagian atas jendela pesan, lalu pilih **Lihat pesan sumber**.
     
 2. Gulir ke bawah **pesan sumber** sampai Anda menemukan bidang **dari** . 
     

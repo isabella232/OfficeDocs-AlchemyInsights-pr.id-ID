@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928659"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244260"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Mengubah nama email Anda di Outlook.com
 
@@ -32,7 +32,7 @@ Jika Anda memiliki lebih dari satu email alias atau alamat yang terhubung ke Out
   
 1. Di Outlook.com, menyusun pesan baru atau membalas pesan.
     
-2. Di jendela penulisan, pilih ![The lebih kelompok tindakan ikon. ](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **Menunjukkan dari** melihat baris dari. 
+2. Di jendela penulisan, pilih "..." \> **Menunjukkan dari** melihat baris dari. 
     
 3. Pilih **dari** dan memilih alamat email yang ingin Anda gunakan. 
     

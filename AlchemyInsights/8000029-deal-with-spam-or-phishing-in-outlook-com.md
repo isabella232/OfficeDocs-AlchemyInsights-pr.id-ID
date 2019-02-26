@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e03a7476-f02d-4c2c-bc55-42cad0ab8622
-ms.openlocfilehash: 0b9022698567a572156201a40271ee46ec01e5fc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 26e7ecf0d6c2fe5eb94fa2fc10015e45850f955e
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920127"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244728"
 ---
 # <a name="deal-with-spam-or-phishing-scams-in-your-inbox"></a>Berurusan dengan penipuan phishing atau spam di kotak masuk Anda
 
@@ -26,7 +26,7 @@ Filter email sampah di Outlook.com meningkatkan bila Anda menandai pesan sebagai
   
 Jika Anda percaya Anda menerima phishing atau spoofing scam, menandai email sebagai sampah, pergi ke folder Email sampah Anda, dan pilih **spam** \> **Phishing** untuk menandainya sebagai phishing scam. Pelajari lebih lanjut tentang bagaimana untuk [menangani pelecehan, phishing, atau spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Untuk memblokir alamat email, pergi ke **pengaturan**![pengaturan](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **pilihan** \> **pengirim diblokir**. Untuk menambahkan alamat atau domain ke daftar pengirim aman, pilih **pengirim aman**. 
+Untuk memblokir alamat email, pergi ke **pengaturan** \> **pilihan** \> **pengirim diblokir**. Untuk menambahkan alamat atau domain ke daftar pengirim aman, pilih **pengirim aman**. 
   
 Jika Anda melihat peningkatan spam, baca Bagaimana untuk [membantu menjaga spam dan email sampah dari kotak masuk](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
