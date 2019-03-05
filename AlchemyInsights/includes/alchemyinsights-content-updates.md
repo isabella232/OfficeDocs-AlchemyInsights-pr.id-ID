@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Minggu 21 Januari 2019
-
-
-| Diterbitkan pada |Judul topik | Perubahan |
-|------|------------|--------|
-| 1/22/2019 | [1047 antiSpam 550 5.7.708 Layanan tidak tersedia. Akses ditolak, lalu lintas yang tidak diterima dari IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | diubah |
-| 1/22/2019 | [1049 antiSpam 4.5.3 terlalu banyak Penerima (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | diubah |
-| 1/22/2019 | [1050 antispam 4.7.500 Server sibuk. Silakan coba lagi nanti dari [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | diubah |
-| 1/22/2019 | [1051 antispam 4.7.500 Akses ditolak, silakan coba lagi nanti](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | diubah |
-| 1/22/2019 | [Email relay melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
-| 1/24/2019 | [Kontrol pembentukan kelompok](/AlchemyInsights/control-creation-of-groups) | diubah |
-| 1/24/2019 | [Masalah Outlook dengan Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | ditambahkan |
-| 1/24/2019 | [Mengembalikan sebuah kantor 365 kelompok menggunakan Exchange admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | berganti nama menjadi |
-| 1/24/2019 | [Memecahkan masalah dengan Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | berganti nama menjadi |
-
-
 ## <a name="week-of-january-28-2019"></a>Minggu 28 Januari 2019
 
 
@@ -734,3 +718,57 @@
 | 2/22/2019 | [Izin pengguna](/AlchemyInsights/user-permissions) | diubah |
 | 2/22/2019 | [Ketika tagihan dihasilkan?](/AlchemyInsights/when-is-the-billing-statement-generated) | diubah |
 | 2/22/2019 | [Cara memverifikasi domain dengan Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | diubah |
+
+
+## <a name="week-of-february-25-2019"></a>Minggu 25 Februari 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 25/2/2019 | [1800014 mendapatkan dukungan di-app untuk Outlook mobile app](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | diubah |
+| 25/2/2019 | [1800014 mengatur email di Outlook mobile app](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | diubah |
+| 25/2/2019 | [8000001 mematikan terfokus kotak masuk](/AlchemyInsights/8000001-turn-off-focused-inbox) | diubah |
+| 25/2/2019 | [8000009 membuat folder di Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | diubah |
+| 25/2/2019 | [8000012 menghapus kontak di Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | diubah |
+| 25/2/2019 | [8000013 mengubah font di Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | diubah |
+| 25/2/2019 | [8000014 cara mengubah bahasa di Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | diubah |
+| 25/2/2019 | [8000015 blok atau membuka Blokir pengirim](/AlchemyInsights/8000015-block-or-unblock-senders) | diubah |
+| 25/2/2019 | [8000015 menerima email dari pengirim di Outlook.com diblokir](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | diubah |
+| 25/2/2019 | [8000029 berurusan dengan phishing di Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | diubah |
+| 25/2/2019 | [8000029 berurusan dengan spam di Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | diubah |
+| 25/2/2019 | [8000029 menangani spam atau phishing di Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | diubah |
+| 25/2/2019 | [8000033 cara untuk membalas atau meneruskan pesan di Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | diubah |
+| 25/2/2019 | [8000034 tanda terima baca di Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | diubah |
+| 25/2/2019 | [8000036 mengubah nama email Anda di Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | diubah |
+| 25/2/2019 | [8000046 cetak email dan kalender di Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | diubah |
+| 25/2/2019 | [8000047 cara membuat tanda tangan email di Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | diubah |
+| 25/2/2019 | [8000052 lampirkan file di Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | diubah |
+| 25/2/2019 | [8000059 cara mengubah tema aksi (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | diubah |
+| 25/2/2019 | [Langkah-langkah yang direkomendasikan untuk mengambil jika account terganggu](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | diubah |
+| 2/26/2019 | [Memulihkan dihapus kelompok Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | diubah |
+| 2/26/2019 | [9000215 Outlook.com langganan](/AlchemyInsights/9000215-outlook-com-subscriptions) | ditambahkan |
+| 2/27/2019 | [9000199 file PST di Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | ditambahkan |
+| 2/27/2019 | [9000202 Outlook.com pilihan](/AlchemyInsights/9000202-outlook-com-options) | ditambahkan |
+| 2/27/2019 | [9000203 Outlook.com filter](/AlchemyInsights/9000203-outlook-com-filters) | ditambahkan |
+| 2/28/2019 | [8000036 mengubah profil pic/nama di Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | ditambahkan |
+| 2/28/2019 | [8000049 Skype icon yang hilang di Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | ditambahkan |
+| 2/28/2019 | [8000088 Simpan email di Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | ditambahkan |
+| 2/28/2019 | [9000071 tidak dapat mengetik simbol pada Mac @](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | ditambahkan |
+| 2/28/2019 | [9000193 membatalkan bergerak atau menghapus di Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | ditambahkan |
+| 2/28/2019 | [Beta 9000198 Outlook.com kalender](/AlchemyInsights/9000198-outlook-com-calendar-beta) | ditambahkan |
+| 3/1/2019 | [8000035 permintaan untuk memutar kembali dari Outlook.com beta Outlook.com klasik](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | ditambahkan |
+| 3/1/2019 | [8000035 bagaimana membuat tampilan Outlook.com baru seperti yang lama](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | ditambahkan |
+| 3/1/2019 | [8000043 pengaturan POP, IMAP, dan SMTP untuk Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | ditambahkan |
+| 3/1/2019 | [8000090 Outlook.com Pilih Semua](/AlchemyInsights/8000090-outlook-com-select-all) | ditambahkan |
+| 3/1/2019 | [8000091 Outlook.com bereaksi muncul](/AlchemyInsights/8000091-outlook-com-react-pop-up) | ditambahkan |
+| 3/1/2019 | [8000092 Outlook.com Lihat pesan sumber](/AlchemyInsights/8000092-outlook-com-view-message-source) | ditambahkan |
+| 3/1/2019 | [8000093 izin account Outlook.com terhubung](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | ditambahkan |
+| 3/1/2019 | [1800009Outlook untuk Mac di-app dukungan](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | diubah |
+| 3/1/2019 | [8000057 link aman di Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | diubah |
+| 3/1/2019 | [9000232 buku alamat Outlook.com](/AlchemyInsights/9000232-outlook-com-address-book) | ditambahkan |
+| 3/1/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | ditambahkan |
+| 3/1/2019 | [9000234 Outlook.com internal server error](/AlchemyInsights/9000234-outlook-com-internal-server-error) | ditambahkan |
+| 3/1/2019 | [9000236 Outlook.com menambahkan account](/AlchemyInsights/9000236-outlook-com-add-account) | ditambahkan |
+| 3/1/2019 | [9000238 Outlook.com menambahkan alias](/AlchemyInsights/9000238-outlook-com-add-alias) | ditambahkan |
+| 3/1/2019 | [9000239 Outlook.com penerusan](/AlchemyInsights/9000239-outlook-com-forwarding) | ditambahkan |
+| 3/1/2019 | [9000240 Outlook.com Balasan](/AlchemyInsights/9000240-outlook-com-replies) | ditambahkan |
