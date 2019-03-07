@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904863"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468990"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade ke versi lengkap dari Microsoft Teams
 
-Anda dapat upgrade dari Microsoft Teams (gratis) untuk versi lengkap dari Microsoft Teams setiap kali Anda siap.
-  
-Cara terbaik untuk memulai proses upgrade adalah dengan mengklik **beritahu kami menghubungi Anda** di bawah ini. 
-  
-Agen dukungan akan menghubungi Anda dan membantu Anda memilih rencana Office 365, masukkan info kontak dan pembayaran Anda, pilih nama domain org, dan meng-upgrade daftar anggota Anda.
-  
+Perlu untuk upgrade dari bebas untuk versi lengkap dari Microsoft Teams? Lihat [Upgrade Microsoft tim gratis ke versi langganan Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Anda akan perlu untuk memenuhi persyaratan ini:
+- Kau orang yang mendaftar untuk versi gratis dari tim.
+- Jika Anda memiliki domain Anda sendiri, itu sudah tidak dapat dikaitkan dengan Azure Active Directory.
+- Untuk mentransfer data saat Anda meng-upgrade, Anda harus berlangganan selama proses upgrade. Jika Anda membeli Office 365 di luar proses upgrade, Anda tidak dapat mentransfer data.
+
 
