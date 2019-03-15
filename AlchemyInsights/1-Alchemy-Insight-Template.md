@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939297"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634507"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Diperlukan Alkimia Header H1, H2's tidak bekerja.
 Best Practices dan pedoman untuk authoring Alkimia:
 
 1. **Tidak sarang Alkimia wawasan dalam folder**- ini akan merusak struktur url. Kami melihat ke memperbaiki ini.
 1. File dalam **AlchemyInsights** folder harus memiliki ID aturan dan nama aturan dari [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) dalam nama file.
-    1. Keluaran ***976-How-to-enable-litigation-hold***
+    1. mantan. ***976-How-to-Enable-Litigation-Hold***
 1. Menggunakan metadata di bagian atas dari file ini sebagai template Anda. Tidak ada yang lain diperlukan.
 1. Di [portal mitra Alkimia](https://alchemyportal.azurewebsites.net), menavigasi ke bagian **judul wawasan pelanggan:** dan menggunakannya sebagai awal titik untuk judul H1 Anda untuk wawasan. 
     > [!NOTE]
