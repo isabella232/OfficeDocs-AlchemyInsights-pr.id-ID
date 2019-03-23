@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: fe57eacf1137b8ef26fbd4721eb35a443a80dd8c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 445ad25eacf5a873473bebd0e9c62fb1f81003d3
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932799"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764155"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="01e6c-102">Menjadi Admin</span><span class="sxs-lookup"><span data-stu-id="01e6c-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="a7855-102">Menjadi Admin</span><span class="sxs-lookup"><span data-stu-id="a7855-102">Become an Admin</span></span>
 
-<span data-ttu-id="01e6c-p101">Untuk mengasumsikan peran admin untuk organisasi ini, Anda perlu mengambil alih. Ikuti petunjuk dalam panduan ini untuk petunjuk rinci: [bagaimana melakukan IT Admin pengambilalihan dengan O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="01e6c-p101">To assume the admin role for this organization, you need take over. Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
+<span data-ttu-id="a7855-103">Untuk mengasumsikan peran admin untuk organisasi ini, Anda perlu mengambil alih.</span><span class="sxs-lookup"><span data-stu-id="a7855-103">To assume the admin role for this organization, you need take over.</span></span> <span data-ttu-id="a7855-104">Ikuti petunjuk dalam panduan ini untuk petunjuk rinci: [bagaimana melakukan IT Admin pengambilalihan dengan O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span><span class="sxs-lookup"><span data-stu-id="a7855-104">Follow the instructions in this guide for detailed instructions: [How to perform an IT Admin Takeover with O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)</span></span>
 

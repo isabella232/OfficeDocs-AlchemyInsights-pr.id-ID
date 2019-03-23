@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: c221e3e689cf682bab21ce3db7872b5091fd8606
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6e4dab09de38ee74a58e83078c6d0917d7f862db
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915519"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763998"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="9489b-102">Cara membeli Office 365 untuk Non-laba</span><span class="sxs-lookup"><span data-stu-id="9489b-102">How to purchase Office 365 for Non-profits</span></span>
+# <a name="how-to-purchase-office-365-for-non-profits"></a><span data-ttu-id="4a613-102">Cara membeli Office 365 untuk Non-laba</span><span class="sxs-lookup"><span data-stu-id="4a613-102">How to purchase Office 365 for Non-profits</span></span>
 
-<span data-ttu-id="9489b-p101">Anda memenuhi syarat sebagai organisasi nirlaba berkualitas Microsoft ini di bawah review. Anda dapat mengharapkan untuk menerima pemberitahuan pada penentuan kelayakan Anda sebelum sidang Anda berakhir. Anda dapat melacak status aplikasi Anda [di sini](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="9489b-p101">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review. You can expect to receive a notification on the determination of your eligibility before your trial expires. You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
+<span data-ttu-id="4a613-103">Anda memenuhi syarat sebagai organisasi nirlaba berkualitas Microsoft ini di bawah review.</span><span class="sxs-lookup"><span data-stu-id="4a613-103">Your eligibility as a Microsoft Qualified Nonprofit Organization is under review.</span></span> <span data-ttu-id="4a613-104">Anda dapat mengharapkan untuk menerima pemberitahuan pada penentuan kelayakan Anda sebelum sidang Anda berakhir.</span><span class="sxs-lookup"><span data-stu-id="4a613-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span> <span data-ttu-id="4a613-105">Anda dapat melacak status aplikasi Anda [di sini](http://eligibilityweb.azurewebsites.net/).</span><span class="sxs-lookup"><span data-stu-id="4a613-105">You can track the status of your application [here](http://eligibilityweb.azurewebsites.net/).</span></span>
   
 
