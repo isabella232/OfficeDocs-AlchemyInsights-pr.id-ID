@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 6fce5b405f746f900faedaeac333c7041f16f449
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: 26c843cedce90a87a74fc3d364ee62fb7daec0ab
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208372"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762211"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="aad9e-102">Menambahkan kontak ke kantor 365 grup</span><span class="sxs-lookup"><span data-stu-id="aad9e-102">Add contacts to an Office 365 Group</span></span>
+# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="d1c37-102">Menambahkan kontak ke kantor 365 grup</span><span class="sxs-lookup"><span data-stu-id="d1c37-102">Add contacts to an Office 365 Group</span></span>
 
-<span data-ttu-id="aad9e-103">Pemilik Grup dapat menambahkan pengguna eksternal dan kontak e-mail di Outlook dengan mengikuti petunjuk berikut: [Tambahkan dan Hapus anggota grup di Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="aad9e-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="d1c37-103">Pemilik Grup dapat menambahkan pengguna eksternal dan kontak e-mail di Outlook dengan mengikuti petunjuk berikut: [Tambahkan dan Hapus anggota grup di Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="d1c37-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="aad9e-104">Anda juga dapat menambahkan atau menghapus anggota grup di Admin Portal: [menambah atau menghapus anggota dari grup Office 365 menggunakan Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="aad9e-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
+<span data-ttu-id="d1c37-104">Anda juga dapat menambahkan atau menghapus anggota grup di Admin Portal: [menambah atau menghapus anggota dari grup Office 365 menggunakan Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="d1c37-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
   
 

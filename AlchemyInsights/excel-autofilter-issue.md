@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: d19c2bbe96ae8c291876ff8b9537ddfda484e11a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 63f6ef815751b9cb0d5eebab006e374c61426733
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905511"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752925"
 ---
-# <a name="excel-autofilter-issue"></a><span data-ttu-id="adf34-102">Excel AutoFilter masalah</span><span class="sxs-lookup"><span data-stu-id="adf34-102">Excel AutoFilter issue</span></span>
+# <a name="excel-autofilter-issue"></a><span data-ttu-id="f38c6-102">Excel AutoFilter masalah</span><span class="sxs-lookup"><span data-stu-id="f38c6-102">Excel AutoFilter issue</span></span>
 
-<span data-ttu-id="adf34-103">Bila menggunakan Excel 2016, jika Anda AutoFilter drop-down tidak menunjukkan semua kotak centang tersedia, atau kotak centang tidak dapat diklik, itu mungkin karena masalah yang dikenal dalam membangun sebelumnya dari Excel.</span><span class="sxs-lookup"><span data-stu-id="adf34-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
+<span data-ttu-id="f38c6-103">Bila menggunakan Excel 2016, jika Anda AutoFilter drop-down tidak menunjukkan semua kotak centang tersedia, atau kotak centang tidak dapat diklik, itu mungkin karena masalah yang dikenal dalam membangun sebelumnya dari Excel.</span><span class="sxs-lookup"><span data-stu-id="f38c6-103">When using Excel 2016, if your AutoFilter drop-down doesn't show all the available check boxes, or the check boxes are not clickable, it may be due to a known issue in earlier builds of Excel.</span></span> 
   
-<span data-ttu-id="adf34-p101">Masalah ini sekarang tetap di **versi 1707 (8326.2073)** atau kemudian. Untuk mendapatkan update segera, membuka Excel dan pilih **File** \> **Account** \> **Update pilihan** \> **Update sekarang**.</span><span class="sxs-lookup"><span data-stu-id="adf34-p101">This issue is now fixed in **Version 1707 (8326.2073)** or later. To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="f38c6-104">Masalah ini sekarang tetap di **versi 1707 (8326.2073)** atau kemudian.</span><span class="sxs-lookup"><span data-stu-id="f38c6-104">This issue is now fixed in **Version 1707 (8326.2073)** or later.</span></span> <span data-ttu-id="f38c6-105">Untuk mendapatkan update segera, membuka Excel dan pilih **File** \> **Account** \> **Update pilihan** \> **Update sekarang**.</span><span class="sxs-lookup"><span data-stu-id="f38c6-105">To get the update immediately, open Excel and choose **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
