@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-PERFORM-eDiscovery-and-Content-Searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | berganti nama menjadi |
 
 
-## <a name="week-of-february-18-2019"></a>Minggu Februari 18, 2019
+## <a name="week-of-march-25-2019"></a>Minggu 25 Maret 2019
 
 
 | Diterbitkan pada |Judul topik | Perubahan |
 |------|------------|--------|
-| 2/19/2019 | [Punya 'Parameter tidak ditemukan' kesalahan?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | diubah |
-| 2/19/2019 | [Memindahkan email ke Office 365](/AlchemyInsights/move-email-to-office-365) | diubah |
-| 2/19/2019 | [Mengembalikan dihapus pesan](/AlchemyInsights/restore-deleted-mailbox) | diubah |
-| 2/21/2019 | [Bagaimana menginstal Mac kantor dari portal](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | berganti nama menjadi |
-| 2/22/2019 | [1048 5.7.750 Layanan tidak tersedia. Klien yang diblokir dari pengiriman dari domain yang tidak terdaftar](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | diubah |
-| 2/22/2019 | [125 mendapatkan galat lisensi tidak valid di Outlook di web?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | diubah |
-| 2/22/2019 | [126 mendapatkan pesan tidak ditemukan kesalahan dalam OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | diubah |
-| 2/22/2019 | [127 galat TenantAccessBlockedException ketika mengakses email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | diubah |
-| 2/22/2019 | [128 galat TenantAccessBlockedException ketika mengakses email?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | diubah |
-| 2/22/2019 | [711 membuat daftar distribusi atau grup](/AlchemyInsights/711-creating-a-distribution-list-or-group) | diubah |
-| 2/22/2019 | [912 mengkonfigurasi Focused Inbox untuk semua orang di organisasi Anda](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | diubah |
-| 2/22/2019 | [Menghapus domain](/AlchemyInsights/remove-domain) | diubah |
-| 2/22/2019 | [Menambahkan grup ke situs SharePoint](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | diubah |
-| 2/22/2019 | [Menambahkan alias email lain](/AlchemyInsights/add-another-email-alias) | diubah |
-| 2/22/2019 | [Menambahkan kontak ke grup O365](/AlchemyInsights/add-contacts-to-o365-group) | diubah |
-| 2/22/2019 | [Perubahan UPN](/AlchemyInsights/change-upn) | diubah |
-| 2/22/2019 | [Mengubah izin folder publik](/AlchemyInsights/changing-public-folder-permissions) | diubah |
-| 2/22/2019 | [Mengubah kotak pesan bersama Kirim sebagai perilaku](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | diubah |
-| 2/22/2019 | [Memeriksa Status Sync AAD identitas](/AlchemyInsights/check-aad-identity-sync-status) | diubah |
-| 2/22/2019 | [Membandingkan rencana Office 365](/AlchemyInsights/compare-office-365-plans) | diubah |
-| 2/22/2019 | [Membuat situs klasik](/AlchemyInsights/create-a-classic-site) | diubah |
-| 2/22/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | diubah |
-| 2/22/2019 | [Menciptakan folder publik](/AlchemyInsights/creating-public-folders) | diubah |
-| 2/22/2019 | [Menghapus situs SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | diubah |
-| 2/22/2019 | [Memberikan akses kepada pengguna ke SharePoint dan OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | diubah |
-| 2/22/2019 | [Punya 'Parameter tidak ditemukan' kesalahan?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | diubah |
-| 2/22/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues-0) | diubah |
-| 2/22/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues) | diubah |
-| 2/22/2019 | [Mengalami masalah mendapatkan Outlook agar tersambung?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | diubah |
-| 2/22/2019 | [Mengalami masalah mendapatkan Outlook agar tersambung?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | diubah |
-| 2/22/2019 | [Cara menetapkan lisensi Office untuk pengguna Mac](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | diubah |
-| 2/22/2019 | [Bagaimana untuk membeli lisensi untuk langganan Anda bisnis Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | diubah |
-| 2/22/2019 | [Cara meningkatkan penyimpanan di OneDrive untuk bisnis](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | diubah |
-| 2/22/2019 | [Bagaimana mengaktifkan kembali berlangganan](/AlchemyInsights/how-to-reactivate-a-subscription) | diubah |
-| 2/22/2019 | [Meningkatkan ukuran kotak pesan untuk Enterprise SKU](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | diubah |
-| 2/22/2019 | [Meningkatkan ukuran kotak pesan untuk SMB SKU](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | diubah |
-| 2/22/2019 | [Meningkatkan ukuran kotak pesan](/AlchemyInsights/increase-mailbox-size) | diubah |
-| 2/22/2019 | [Masalah dengan Skype untuk bisnis?](/AlchemyInsights/issue-with-skype-for-business) | diubah |
-| 2/22/2019 | [Mengelola account disinkronisasi pengguna](/AlchemyInsights/manage-synchronized-user-accounts) | diubah |
-| 2/22/2019 | [Memantau penggunaan OneDrive dan SharePoint dan kegiatan](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | diubah |
-| 2/22/2019 | [Mengaktifkan kembali berlangganan](/AlchemyInsights/reactivate-a-subscription) | diubah |
-| 2/22/2019 | [Mengembalikan OneDrive dihapus](/AlchemyInsights/restore-a-deleted-onedrive) | diubah |
-| 2/22/2019 | [Mengembalikan sebuah kantor 365 kelompok menggunakan Exchange admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | diubah |
-| 2/22/2019 | [Pengaturan langganan O365 bisnis Essentials](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | diubah |
-| 2/22/2019 | [Berbagi dengan pengguna eksternal tidak bekerja](/AlchemyInsights/sharing-with-external-users-isn-t-working) | diubah |
-| 2/22/2019 | [Mencoba untuk menemukan sidang?](/AlchemyInsights/trying-to-find-a-trial) | diubah |
-| 2/22/2019 | [Mengubah eksternal berbagi on atau off untuk SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | diubah |
-| 2/22/2019 | [Mengubah eksternal berbagi on atau off untuk SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | diubah |
-| 2/22/2019 | [Izin pengguna](/AlchemyInsights/user-permissions) | diubah |
-| 2/22/2019 | [Ketika tagihan dihasilkan?](/AlchemyInsights/when-is-the-billing-statement-generated) | diubah |
-| 2/22/2019 | [Cara memverifikasi domain dengan Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | diubah |
+| 3/25/2019 | [Outlook.com mengubah bahasa](/AlchemyInsights/outlook-com-change-language) | diubah |
+| 3/27/2019 | [Menghapus situs SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | diubah |
+| 3/28/2019 | Membatasi SharePoint Online ke modus klasik | ditambahkan |
+| 3/28/2019 | [Tidak dapat menambahkan default penyetelan 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | diubah |
+| 3/28/2019 | [Membatasi SharePoint Online ke modus klasik](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | berganti nama menjadi |
 
 
 ## <a name="week-of-february-25-2019"></a>Minggu 25 Februari 2019
