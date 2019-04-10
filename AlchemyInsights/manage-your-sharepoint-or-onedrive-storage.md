@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761204"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747313"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Mengelola penyimpanan Anda SharePoint atau OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761204"
   
 Untuk sebagian besar organisasi, Penyimpanan SharePoint dikelola secara otomatis sehingga Anda tidak perlu untuk menetapkan batas per situs koleksi. Untuk memeriksa berapa banyak penyimpanan SharePoint Anda memiliki:
   
-- Di klasik SharePoint admin center, status di bagian kanan atas halaman situs koleksi, mencari penyimpanan Anda tersedia dan total.
+- Dalam baru SharePoint admin center, status di bagian kanan atas halaman situs, mencari penyimpanan Anda tersedia dan total.
     
 Untuk info tentang bagaimana batas Anda dihitung, lihat [SharePoint Online batas](https://go.microsoft.com/fwlink/p/?LinkID=856113). Untuk membeli penyimpanan tambahan, lihat [mengubah ruang penyimpanan untuk langganan Anda](https://go.microsoft.com/fwlink/?linkid=866428).
   

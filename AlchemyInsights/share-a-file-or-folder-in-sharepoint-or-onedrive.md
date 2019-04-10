@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941763"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747853"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Berbagi file atau folder dalam SharePoint atau OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941763"
   - **Orang-orang tertentu** memberikan akses hanya untuk orang-orang yang Anda tentukan, meskipun orang lain mungkin telah memiliki akses. Jika orang maju undangan berbagi, hanya orang-orang yang telah memiliki akses ke item akan dapat menggunakan link. 
     
     > [!NOTE]
-    > Jika salah satu dari pilihan ini tidak tersedia, atau jika Anda ingin link berbeda jenis muncul secara default, Anda dapat mengubah pengaturan di seluruh organisasi Anda dengan pergi ke admin center SharePoint klasik dan mengklik **berbagi** dalam pane kiri. [Selengkapnya](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Jika salah satu dari pilihan ini tidak tersedia, atau jika Anda ingin link berbeda jenis muncul secara default, Anda dapat mengubah pengaturan di seluruh organisasi Anda dengan pergi ke admin center SharePoint baru dan mengklik **berbagi** dalam pane kiri. [Pelajari lebih lanjut](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. Secara default, **Allow editing** dihidupkan. Jika Anda ingin orang untuk hanya melihat file Anda, Hapus centang pada kotak. 
     
