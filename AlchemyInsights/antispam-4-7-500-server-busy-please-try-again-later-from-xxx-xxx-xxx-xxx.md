@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1050
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: d1ae17045109f405a52e080a1827627d1899269d
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: a06614e3f5995099c3b38c1836712cb3d396b6b5
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785850"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858243"
 ---
 # <a name="47500-server-busy-please-try-again-later"></a>4.7.500 server sibuk, silakan coba lagi nanti
 
 Kesalahan ini terjadi bila volume lalu lintas email dari alamat IP sumber melebihi batas berdasarkan reputasi (atau kurangnya reputasi) alamat IP sumber.
-  
-Memblokir email dari alamat IP sumber akan berakhir dalam waktu satu jam. Jika alamat IP sumber server email lokal milik Anda, pastikan konfigurasi mail aliran konektor. Jika perilaku berlanjut selama lebih dari satu jam, hubungi dukungan untuk meminta pengecualian untuk alamat IP sumber.
-  
 
+Memblokir email dari alamat IP sumber akan berakhir dalam waktu satu jam. Jika alamat IP sumber server email lokal milik Anda, pastikan konfigurasi mail aliran konektor. Jika perilaku berlanjut selama lebih dari satu jam, hubungi dukungan untuk meminta pengecualian untuk alamat IP sumber.
