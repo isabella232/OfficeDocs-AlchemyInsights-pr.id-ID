@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000088
-ms.openlocfilehash: 1444dedf40529bf14fa65fe90f98b70e6c5a784c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30779165"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903739"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Menyimpan pesan dalam Outlook.com
 
@@ -29,4 +29,4 @@ Termasuk dalam Windows 10 utilitas Microsoft mencetak ke PDF memungkinkan Anda u
 4. Pilih **cetak**.
 5. Masukkan nama file, lalu pilih **Simpan**.
 
-**Catatan:** Ini tidak dianjurkan pada komputer umum atau bersama sebagai pengguna lain bisa memiliki akses ke setiap PDF Anda menyimpan ke PC dan tidak menghapus.
+**Catatan:** Ini tidak dianjurkan pada komputer umum atau bersama sebagai pengguna lain bisa memiliki akses ke setiap PDF Anda menyimpan ke PC dan jangan hapus.

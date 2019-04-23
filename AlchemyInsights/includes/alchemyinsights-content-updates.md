@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Minggu 04 Maret 2019
-
-
-| Diterbitkan pada |Judul topik | Perubahan |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com memulihkan Email yang dihapus | ditambahkan |
-| 3/4/2019 | [8000034 tanda terima baca di Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | diubah |
-| 3/4/2019 | [8000047 cara membuat tanda tangan email di Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | diubah |
-| 3/4/2019 | [8000086 Outlook.com Sisipkan gambar](/AlchemyInsights/80000860-outlook-com-insert-image) | ditambahkan |
-| 3/4/2019 | [Pintasan Outlook.com Keyboard 8000087](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | ditambahkan |
-| 3/4/2019 | [8000088 Simpan email di Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | diubah |
-| 3/4/2019 | [8000089 Outlook.com Brankas pengirim](/AlchemyInsights/8000089-outlook-com-safe-senders) | ditambahkan |
-| 3/4/2019 | 8000011 Outlook.com memulihkan Email yang dihapus | dihapus |
-| 3/4/2019 | 1575-PowerApps dan Microsoft Flow rencana perpanjangan | ditambahkan |
-| 3/4/2019 | [Ubah domain untuk kelompok Office 365](/AlchemyInsights/change-domain-for-group) | berganti nama menjadi |
-| 3/4/2019 | [1575-PowerApps dan Microsoft Flow rencana perpanjangan](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | berganti nama menjadi |
-| 3/4/2019 | [Mengaktifkan otentikasi Multifactor](/AlchemyInsights/enable-multifactor-authentication) | diubah |
-| 3/4/2019 | [8000054 batas penyimpanan Outlook.com yang melebihi](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | ditambahkan |
-| 3/4/2019 | [Keamanan 423 Org - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | diubah |
-| 3/4/2019 | [8000029 menangani spam atau phishing di Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | diubah |
-| 3/4/2019 | [Menghapus domain](/AlchemyInsights/remove-domain) | diubah |
-| 3/4/2019 | [Menambahkan pengguna ke Office 365](/AlchemyInsights/add-users-to-office-365) | diubah |
-| 3/4/2019 | [Apakah Anda mendapatkan terlalu banyak spam atau phish di kotak pesan?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | diubah |
-| 3/4/2019 | [Mengubah nameserver](/AlchemyInsights/change-nameservers) | diubah |
-| 3/4/2019 | [Membuat aplikasi di PowerApps](/AlchemyInsights/create-apps-in-powerapps) | diubah |
-| 3/4/2019 | [Migrasi migrasi ke Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | diubah |
-| 3/4/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues-0) | diubah |
-| 3/4/2019 | [Mengalami masalah pengiriman email?](/AlchemyInsights/having-email-delivery-issues) | diubah |
-| 3/4/2019 | [Bagaimana cara menambahkan kartu kredit?](/AlchemyInsights/how-do-i-add-a-credit-card) | diubah |
-| 3/4/2019 | [Bagaimana cara memperbarui informasi kartu kredit saya?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | diubah |
-| 3/4/2019 | [Cara menginstal Office](/AlchemyInsights/how-to-install-office) | diubah |
-| 3/4/2019 | [Migrasi email dari IMAP](/AlchemyInsights/migrate-email-from-imap) | diubah |
-| 3/4/2019 | [Pilihan pembayaran](/AlchemyInsights/payment-options) | diubah |
-| 3/4/2019 | [Langkah-langkah yang direkomendasikan untuk mengambil jika account terganggu](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | diubah |
-| 3/4/2019 | [Pengirim diblokir untuk mengirimkan terlalu banyak spam](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | diubah |
-| 3/4/2019 | [Mengirimkan permintaan dukungan Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | diubah |
-| 3/4/2019 | [Domain ini telah digunakan](/AlchemyInsights/the-domain-is-already-in-use) | diubah |
-| 3/4/2019 | [Kesulitan menyelesaikan pembelian di portal Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | diubah |
-| 3/4/2019 | [Pembaruan data DNS](/AlchemyInsights/update-dns-records-0) | diubah |
-| 3/4/2019 | [Pembaruan data DNS](/AlchemyInsights/update-dns-records) | diubah |
-| 3/4/2019 | [Memperbarui rincian pembayaran](/AlchemyInsights/update-payment-details) | diubah |
-| 3/4/2019 | [Verifikasi domain](/AlchemyInsights/verify-domain) | diubah |
-| 3/4/2019 | [Mengatur penerusan ke beberapa alamat email](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | diubah |
-| 3/4/2019 | [Memecahkan 'Tidak domain diterima' kesalahan](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | diubah |
-| 3/6/2019 | [1581 membuka dan menggunakan kotak pesan bersama di Outlook di web](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | diubah |
-| 3/6/2019 | [Tim pergeseran](/AlchemyInsights/1686-teams-shifts) | ditambahkan |
-| 3/6/2019 | [1703 membutuhkan informasi tim dan Polycom ponsel](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | ditambahkan |
-| 3/6/2019 | [Tim PS modul menginstal dan referensi](/AlchemyInsights/1787-teams-ps-module-install-ref) | ditambahkan |
-| 3/6/2019 | [615 jenis berbagi dan bagaimana mengaturnya.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | diubah |
-| 3/6/2019 | [Tim Freemium](/AlchemyInsights/997-teams-freemium) | ditambahkan |
-| 3/6/2019 | [Apakah Anda memiliki pesan yang sah yang ditandai sebagai spam?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | diubah |
-| 3/6/2019 | [Mengaktifkan Microsoft tim](/AlchemyInsights/enable-microsoft-teams) | diubah |
-| 3/6/2019 | [Apakah Anda telah mengaktifkan tim untuk siswa?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | diubah |
-| 3/6/2019 | [Bagaimana mengaktifkan kembali berlangganan](/AlchemyInsights/how-to-reactivate-a-subscription) | diubah |
-| 3/6/2019 | Intune App penyebaran - aturan Id 991 | dihapus |
-| 3/6/2019 | [Masalah dengan Skype untuk bisnis?](/AlchemyInsights/issue-with-skype-for-business) | diubah |
-| 3/6/2019 | [Microsoft tim - akses tamu](/AlchemyInsights/microsoft-teamsguest-access) | diubah |
-| 3/6/2019 | [Tim Microsoft - memulihkan dihapus tim situs](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | diubah |
-| 3/6/2019 | [Email relay melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
-| 3/6/2019 | [Sinkronisasi SharePoint file dengan OneDrive sync klien baru](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | diubah |
-| 3/6/2019 | [Upgrade ke versi lengkap dari Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | diubah |
-| 3/7/2019 | [8000064 Outlook.com email tidak bisa sync - Spanyol](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | ditambahkan |
-| 3/7/2019 | [8000065 Outlook.com sampah spam - Spanyol](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | ditambahkan |
-| 3/7/2019 | [8000066 - aturan 1 - Outlook.com hack - Spanyol](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | ditambahkan |
-| 3/7/2019 | [8000066 - aturan 2 - Outlook.com hack - Spanyol](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | ditambahkan |
-| 3/7/2019 | [8000067 - Outlook.com tutup akun - Spanyol](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | ditambahkan |
-| 3/7/2019 | [8000068 - Outlook.com menambahkan account - Spanyol](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | ditambahkan |
-| 3/7/2019 | [8000069 - Outlook.com blok pengirim - Spanyol](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | ditambahkan |
-| 3/7/2019 | [8000070 - Outlook.com tidak dapat masuk - Spanyol](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | ditambahkan |
-| 3/7/2019 | [Mengembalikan dihapus pengguna](/AlchemyInsights/restore-deleted-user) | diubah |
-| 3/8/2019 | 8000043 pengaturan POP, IMAP, dan SMTP untuk Outlook.com | dihapus |
-| 3/8/2019 | [8000043 pengaturan POP, IMAP, dan SMTP untuk Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | berganti nama menjadi |
-| 3/8/2019 | [8000071 Outlook.com memperbaiki email sync - Perancis](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | ditambahkan |
-| 3/8/2019 | [8000072 Outlook.com junk mail - Perancis](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | ditambahkan |
-| 3/8/2019 | [8000073 Outlook.com account hack - Perancis](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | ditambahkan |
-| 3/8/2019 | [8000074 Outlook.com tutup akun - Perancis](/AlchemyInsights/8000074-outlook-com-close-account-french) | ditambahkan |
-| 3/8/2019 | [8000075 Outlook.com Ubah sandi - Perancis](/AlchemyInsights/8000075-outlook-com-change-password-french) | ditambahkan |
-| 3/8/2019 | [8000076 Outlook.com blok pengirim - Perancis](/AlchemyInsights/8000076-outlook-com-block-sender-french) | ditambahkan |
-
-
 ## <a name="week-of-march-11-2019"></a>Minggu 11 Maret 2019
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 Outlook.com Inbox tidak memuat | ditambahkan |
 | 3/12/2019 | [8000078 Outlook.com Inbox tidak memuat](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | berganti nama menjadi |
 | 3/12/2019 | [8000078 Outlook.com Inbox tidak memuat](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | diubah |
-| 3/13/2019 | [Email relay melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
+| 3/13/2019 | [Relay email melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
 | 3/14/2019 | [sama seperti nama file terbaik [aturan #-Deskripsi]](/AlchemyInsights/1-alchemy-insight-template) | diubah |
 | 3/14/2019 | [Meningkatkan ukuran kotak pesan](/AlchemyInsights/increase-mailbox-size) | diubah |
 | 3/15/2019 | [Ingat Desktop Outlook atau mengganti pesan email](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | ditambahkan |
@@ -196,7 +116,7 @@
 | 3/22/2019 | [8000013 mengubah font di Outlook.com](/AlchemyInsights/change-font-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Perubahan seberapa sering Anda membayar](/AlchemyInsights/change-how-often-you-pay) | diubah |
 | 3/22/2019 | [8000010 mengubah alamat email saya di Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | berganti nama menjadi |
-| 3/22/2019 | [Mengubah nameserver](/AlchemyInsights/change-nameservers) | diubah |
+| 3/22/2019 | [Mengubah Server Nama](/AlchemyInsights/change-nameservers) | diubah |
 | 3/22/2019 | [Mengubah OneDrive untuk kuota penyimpanan bisnis](/AlchemyInsights/change-onedrive-for-business-storage-quota) | diubah |
 | 3/22/2019 | [Mengubah metode pembayaran](/AlchemyInsights/change-payment-method) | diubah |
 | 3/22/2019 | [Mengubah hak akses untuk daftar SharePoint atau Perpustakaan](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | diubah |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 mengubah sandi Anda di Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [8000036 mengubah nama profil Anda di Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Perubahan akses pengguna eksternal](/AlchemyInsights/changes-to-external-user-access) | diubah |
-| 3/22/2019 | [8000026 perubahan pada Outlook.com](/AlchemyInsights/changes-to-outlook-com) | berganti nama menjadi |
+| 3/22/2019 | [8000026 Perubahan pada Outlook.com](/AlchemyInsights/changes-to-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Mengubah izin folder publik](/AlchemyInsights/changing-public-folder-permissions) | diubah |
 | 3/22/2019 | [Mengubah kotak pesan bersama Kirim sebagai perilaku](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | diubah |
 | 3/22/2019 | [Memeriksa Status Sync AAD identitas](/AlchemyInsights/check-aad-identity-sync-status) | diubah |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H menunjukkan menemukan, tidak menggantikan tahun Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | diubah |
 | 3/22/2019 | [8000029 berurusan dengan phishing di Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [8000029 berurusan dengan spam di Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | berganti nama menjadi |
-| 3/22/2019 | [8000029 menangani spam atau phishing di Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | berganti nama menjadi |
+| 3/22/2019 | [8000029 Menangani spam atau pengelabuan di Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Kartu kredit ditolak](/AlchemyInsights/declined-credit-card) | diubah |
 | 3/22/2019 | [8000012 menghapus kontak di Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [8000016 Hapus folder di Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | berganti nama menjadi |
@@ -329,7 +249,7 @@
 | 3/22/2019 | [Cara membeli Office 365 untuk Non-laba](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-0) | diubah |
 | 3/22/2019 | [Cara membeli Office 365 untuk Non-laba](/AlchemyInsights/how-to-purchase-office-365-for-non-profits-1) | diubah |
 | 3/22/2019 | [Cara membeli Office 365 untuk Non-laba](/AlchemyInsights/how-to-purchase-office-365-for-non-profits) | diubah |
-| 3/22/2019 | [Bagaimana mengaktifkan kembali berlangganan](/AlchemyInsights/how-to-reactivate-a-subscription) | diubah |
+| 3/22/2019 | [Mengaktifkan kembali langganan](/AlchemyInsights/how-to-reactivate-a-subscription) | diubah |
 | 3/22/2019 | [Cara mengaktifkan kembali dan mengelola pembaruan](/AlchemyInsights/how-to-reactivate-and-manage-renewal) | diubah |
 | 3/22/2019 | [8000033 cara untuk membalas atau meneruskan pesan di Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | berganti nama menjadi |
 | 3/22/2019 | [8000063 cara untuk klik kanan pada Mac](/AlchemyInsights/how-to-right-click-on-a-mac) | berganti nama menjadi |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Memindahkan item di pustaka dokumen SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | diubah |
 | 3/22/2019 | [8000062 bergerak folder di Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Beberapa upaya untuk mengisi instrumen pembayaran online](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | diubah |
-| 3/22/2019 | [1703 membutuhkan informasi tim dan Polycom ponsel](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | berganti nama menjadi |
+| 3/22/2019 | [1703 Memerlukan informasi tentang Teams dan telepon Polycom](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | berganti nama menjadi |
 | 3/22/2019 | [122 perlu membuat tanda tangan di Outlook di web?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | berganti nama menjadi |
 | 3/22/2019 | [8000037 tidak menerima email di Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | berganti nama menjadi |
 | 3/22/2019 | [Office 365 untuk rencana bisnis dan harga](/AlchemyInsights/office-365-for-business-plans-and-pricing) | diubah |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Salah satu sertifikat Layanan Federasi lokal Anda kedaluwarsa](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | diubah |
 | 3/22/2019 | [OneDrive Penyimpanan](/AlchemyInsights/onedrive-storage) | diubah |
 | 3/22/2019 | [Membuka perpustakaan SharePoint dalam File Explorer](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | diubah |
-| 3/22/2019 | [1581 membuka dan menggunakan kotak pesan bersama di Outlook di web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | berganti nama menjadi |
+| 3/22/2019 | [1581 Membuka dan menggunakan kotak surat bersama di Outlook di web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | berganti nama menjadi |
 | 3/22/2019 | [Buka dengan Explorer tombol dinonaktifkan](/AlchemyInsights/open-with-explorer-button-is-disabled) | diubah |
 | 3/22/2019 | [Terbuka dengan Explorer tombol hilang](/AlchemyInsights/open-with-explorer-button-missing) | diubah |
 | 3/22/2019 | [Buka dengan Explorer tidak bekerja](/AlchemyInsights/open-with-explorer-doesn-t-work) | diubah |
-| 3/22/2019 | [Keamanan 423 Org - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | berganti nama menjadi |
+| 3/22/2019 | [423 Keamanan Organisasi - AkunEmailDibobol](/AlchemyInsights/org-securityemailaccountcompromised) | berganti nama menjadi |
 | 3/22/2019 | [424 Org Security - positif palsu Spam](/AlchemyInsights/org-securityspam-false-positive) | berganti nama menjadi |
 | 3/22/2019 | [8000073 Outlook.com account hack - Perancis](/AlchemyInsights/outlook-com-account-hacked-french) | berganti nama menjadi |
 | 3/22/2019 | [8000039 Outlook.com account hacked](/AlchemyInsights/outlook-com-account-hacked) | berganti nama menjadi |
@@ -504,3 +424,109 @@
 | 2019/4/2 | Situs dan konten struktur dihapus | ditambahkan |
 | 2019/4/2 | Mengatasi masalah kesalahan 404, File tidak ditemukan | ditambahkan |
 | 3/4/2019 | [Kode kesalahan 550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | diubah |
+
+
+## <a name="week-of-april-08-2019"></a>Minggu 08 April 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 4/9/2019 | [Memindahkan pesan email ke kotak pesan arsip](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | diubah |
+| 4/9/2019 | [Berbagi anonim](/AlchemyInsights/anonymous-sharing) | diubah |
+| 4/9/2019 | [Check-in beberapa file sekaligus](/AlchemyInsights/check-in-several-files-at-once) | diubah |
+| 4/9/2019 | [Menghubungkan situs tim SharePoint klasik ke grup](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | diubah |
+| 4/9/2019 | [Membuat situs di SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | diubah |
+| 4/9/2019 | [Membuat situs](/AlchemyInsights/create-a-site) | berganti nama menjadi |
+| 4/9/2019 | [Menghapus situs SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | diubah |
+| 4/9/2019 | [Menghapus situs](/AlchemyInsights/delete-site-collection) | diubah |
+| 4/9/2019 | [Pesan galat saat berbagi file](/AlchemyInsights/error-message-when-sharing-files) | diubah |
+| 4/9/2019 | [Eksternal berbagi dengan situs tim](/AlchemyInsights/external-sharing-with-a-team-site) | diubah |
+| 4/9/2019 | [Cara menggunakan istilah Online SharePoint toko](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | diubah |
+| 4/9/2019 | [Mengelola pencarian kamus di SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | diubah |
+| 4/9/2019 | [Mengelola penyimpanan Anda SharePoint atau OneDrive](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | diubah |
+| 4/9/2019 | [Mengembalikan situs dihapus](/AlchemyInsights/restore-a-deleted-site-collection) | diubah |
+| 4/9/2019 | [Mengembalikan subsite dihapus](/AlchemyInsights/restore-a-deleted-subsite) | diubah |
+| 4/9/2019 | [Berbagi file atau folder dalam SharePoint atau OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | diubah |
+| 4/9/2019 | [SharePoint Penyimpanan](/AlchemyInsights/sharepoint-storage) | diubah |
+| 4/9/2019 | [Berbagi dengan pengguna eksternal tidak bekerja](/AlchemyInsights/sharing-with-external-users-isn-t-working) | diubah |
+| 4/9/2019 | [Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | diubah |
+| 4/9/2019 | [Mengubah eksternal berbagi on atau off untuk situs](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | diubah |
+| 4/9/2019 | [Mengubah eksternal berbagi on atau off untuk SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | diubah |
+| 4/9/2019 | [Mengubah eksternal berbagi on atau off untuk SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | diubah |
+| 4/9/2019 | Mengatasi masalah kesalahan 404, File tidak ditemukan | diubah |
+| 4/9/2019 | [Akses ditolak ke situs proyek Web App](/AlchemyInsights/access-denied-to-a-project-online-site) | ditambahkan |
+| 4/9/2019 | [Proyek Online adalah dalam keadaan hanya-baca](/AlchemyInsights/project-online-is-in-a-read-only-state) | ditambahkan |
+| 4/9/2019 | [Proyek Web App hilang dari koleksi situs SharePoint](/AlchemyInsights/project-web-app-missing-from-site-collection) | ditambahkan |
+| 2019/4/12 | [1048 5.7.750 Layanan tidak tersedia. Klien yang diblokir dari pengiriman dari domain yang tidak terdaftar](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | diubah |
+| 2019/4/12 | [713 menambahkan alamat email tambahan ke daftar distribusi](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | diubah |
+| 2019/4/12 | [718 menambahkan kontak eksternal / orang di luar organisasi ke daftar distribusi](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | diubah |
+| 2019/4/12 | [714 membiarkan pengirim eksternal ke email daftar distribusi](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | diubah |
+| 2019/4/12 | [717 membiarkan pengguna untuk mengirim email sebagai daftar distribusi](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | diubah |
+| 2019/4/12 | [1049 antiSpam 4.5.3 terlalu banyak Penerima (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | diubah |
+| 2019/4/12 | [1051 antispam 4.7.500 Akses ditolak, silakan coba lagi nanti](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | diubah |
+| 2019/4/12 | [1050 antispam 4.7.500 Server sibuk. Silakan coba lagi nanti dari [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | diubah |
+| 2019/4/12 | [1047 antiSpam 550 5.7.708 Layanan tidak tersedia. Akses ditolak, lalu lintas yang tidak diterima dari IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | diubah |
+| 2019/4/12 | [500 app password](/AlchemyInsights/app-passwords) | diubah |
+| 2019/4/12 | [726 memblokir email forwarding](/AlchemyInsights/blocking-email-forwarding) | diubah |
+| 2019/4/12 | [763 memblokir Exchange Online PowerShell akses untuk pengguna](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | diubah |
+| 2019/4/12 | [Informasi kalender 608 pada setup hibrida](/AlchemyInsights/calendar-information-on-hybrid-setups) | diubah |
+| 2019/4/12 | [613 kalender penerbitan informasi](/AlchemyInsights/calendar-publishing-information) | diubah |
+| 2019/4/12 | [618 kalender kebijakan berbagi](/AlchemyInsights/calendar-sharing-policy) | diubah |
+| 2019/4/12 | [398 kalender - terakhir](/AlchemyInsights/calendarbooking) | diubah |
+| 2019/4/12 | [Kalender 399 - delegasi](/AlchemyInsights/calendardelegate) | diubah |
+| 2019/4/12 | [Kalender 400 - FreeBusy](/AlchemyInsights/calendarfreebusy) | diubah |
+| 2019/4/12 | [Kalender 402 - O365Groups](/AlchemyInsights/calendaro365groups) | diubah |
+| 2019/4/12 | [Kalender 1081 - RBA CatchAll](/AlchemyInsights/calendarrba-catchall) | diubah |
+| 2019/4/12 | [912 mengkonfigurasi Focused Inbox untuk semua orang di organisasi Anda](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | diubah |
+| 2019/4/12 | [761 menyambung ke Exchange Online PowerShell bila MFA diaktifkan](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | diubah |
+| 2019/4/12 | [760 menghubungkan ke Exchange Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | diubah |
+| 2019/4/12 | [712 mengkonversi daftar distribusi ke grup Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | diubah |
+| 2019/4/12 | [711 membuat daftar distribusi atau grup](/AlchemyInsights/creating-a-distribution-list-or-group) | diubah |
+| 2019/4/12 | [744 membuat pengguna ketika organisasi di Hybrid mode](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | diubah |
+| 2019/4/12 | [743 membuat pengguna tanpa lisensi](/AlchemyInsights/creating-users-without-a-license) | diubah |
+| 2019/4/12 | [Alamat 1065 bantahan EOP outbound IP rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | diubah |
+| 2019/4/12 | [1314 duplikat objek remediasi](/AlchemyInsights/duplicate-object-remediation) | diubah |
+| 2019/4/12 | [934 Aktifkan POP dan IMAP account](/AlchemyInsights/enable-pop-and-imap-accounts) | diubah |
+| 2019/4/12 | [Kode kesalahan 5.7.501 550 Akses ditolak, spam penyalahgunaan terdeteksi](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | diubah |
+| 2019/4/12 | [Kode kesalahan 550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | diubah |
+| 2019/4/12 | [126 mendapatkan pesan tidak ditemukan kesalahan dalam OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | diubah |
+| 2019/4/12 | [127 galat TenantAccessBlockedException ketika mengakses email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | diubah |
+| 2019/4/12 | [646 cara mengkonfigurasi AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | diubah |
+| 2019/4/12 | [955 cara mengkonfigurasi MFA](/AlchemyInsights/how-to-configure-mfa) | diubah |
+| 2019/4/12 | [614 cara membuat dan mengelola kotak pesan Ruangan](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | diubah |
+| 2019/4/12 | [Hibrida 401 - FreeBusy](/AlchemyInsights/hybridfreebusy) | diubah |
+| 2019/4/12 | [Aturan kotak masuk 929 deflectTransport aturan](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | diubah |
+| 2019/4/12 | [922 aturan kotak masuk](/AlchemyInsights/inbox-rules) | diubah |
+| 2019/4/12 | [Meningkatkan EWS throttling batas untuk migrasi e-mail](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | ditambahkan |
+| 2019/4/12 | [1264 IP yang diblokir untuk mengirimkan terlalu banyak spam (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | diubah |
+| 2019/4/12 | [322 masalah ketika pengguna adalah memiliki masalah mengirim](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | diubah |
+| 2019/4/12 | [321 masalah ketika pengguna tidak menerima email](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | diubah |
+| 2019/4/12 | [323 masalah dengan penundaan dalam email](/AlchemyInsights/issues-with-delays-in-email) | diubah |
+| 2019/4/12 | [324 masalah dengan email(s) pergi ke tujuan yang salah](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | diubah |
+| 2019/4/12 | [898 belajar tentang kalender eksternal opsi berbagi](/AlchemyInsights/learn-about-external-calendar-sharing-options) | diubah |
+| 2019/4/12 | [617 belajar tentang eksternal opsi berbagi](/AlchemyInsights/learn-about-external-sharing-options) | diubah |
+| 2019/4/12 | [610 mempelajari tentang grup Office 365](/AlchemyInsights/learn-about-office-365-groups) | diubah |
+| 2019/4/12 | [612 belajar bagaimana kalender dan folder Umum](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | diubah |
+| 2019/4/12 | [603 belajar bagaimana untuk menyesuaikan pengaturan Agenda](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | diubah |
+| 2019/4/12 | [723 membuat email alias email utama untuk pengguna](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | diubah |
+| 2019/4/12 | [597 Microsoft Pemesanan App](/AlchemyInsights/microsoft-bookings-app) | diubah |
+| 2019/4/12 | [973 migrasi StalledDueTo * aturan](/AlchemyInsights/migration-stalleddueto-rule) | diubah |
+| 2019/4/12 | [1581 Membuka dan menggunakan kotak surat bersama di Outlook di web](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | diubah |
+| 2019/4/12 | [423 Keamanan Organisasi - AkunEmailDibobol](/AlchemyInsights/org-securityemailaccountcompromised) | diubah |
+| 2019/4/12 | [424 Org Security - positif palsu Spam](/AlchemyInsights/org-securityspam-false-positive) | diubah |
+| 2019/4/12 | [1332 OWA - Inbox Bapepam tidak mengeksekusi untuk kotak pesan](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | diubah |
+| 2019/4/12 | [182 Jalankan SaRA untuk mendiagnosa &amp; menyelesaikan masalah otentikasi Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | diubah |
+| 2019/4/12 | [412 kebijakan kesalahan ketika berbagi kalender](/AlchemyInsights/policy-error-when-sharing-calendar) | diubah |
+| 2019/4/12 | [408 RBA](/AlchemyInsights/rba) | diubah |
+| 2019/4/12 | [1336 RecoverableItems folder penuh](/AlchemyInsights/recoverableitems-folder-is-full) | diubah |
+| 2019/4/12 | [1374 menyelesaikan dua kotak pesan howto](/AlchemyInsights/resolve-two-mailboxes-howto) | diubah |
+| 2019/4/12 | [924 batas aturan](/AlchemyInsights/rule-limits) | diubah |
+| 2019/4/12 | [414 pengalaman penelusuran yang diperbarui](/AlchemyInsights/search-experience-updated) | diubah |
+| 2019/4/12 | [902 (sync kesalahan karena duplikat objek)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | diubah |
+| 2019/4/12 | [Percobaan Office 365 penyewa diblokir oleh Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | diubah |
+| 2019/4/12 | [911 mematikan terfokus inbox klien](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | diubah |
+| 2019/4/12 | [615 Jenis Berbagi dan cara menyiapkannya.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | diubah |
+| 2019/4/12 | [413 pemahaman Agenda Mail](/AlchemyInsights/understanding-agenda-mail) | diubah |
+| 2019/4/12 | [932 upgrade AADConnect](/AlchemyInsights/upgrading-aadconnect) | diubah |
+| 2019/4/12 | [725 menggunakan email alias di perangkat selular](/AlchemyInsights/using-email-alias-on-mobile-device) | diubah |
+| 2019/4/12 | [1554 Winsock kesalahan 10061](/AlchemyInsights/winsock-error-10061) | diubah |
