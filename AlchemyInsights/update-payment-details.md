@@ -1,5 +1,5 @@
 ---
-title: Memperbarui rincian pembayaran
+title: Memperbarui detail pembayaran
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,33 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
-ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: a20d332a32514e7c7608e825883b9e85f7d1a093
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404678"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30755625"
 ---
-# <a name="update-payment-details"></a>Memperbarui rincian pembayaran
+# <a name="update-payment-details"></a>Memperbarui detail pembayaran
 
-1. Di pusat Admin, pergi ke halaman [metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806) , atau memilih **penagihan** \> **metode pembayaran**.
+1. Di pusat Admin, masuk ke halaman [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806), atau pilih **Tagihan** \> **Metode pembayaran**.
     
     > [!NOTE]
-    > Jika Anda mengalami loop yang mengirim Anda kembali ke halaman rumah Admin sebelum pembaruan Anda lengkap, cobalah Inprivate atau penyamaran mode. 
+    > Jika mengalami perulangan yang menyebabkan Anda kembali ke laman Admin sebelum pembaruan selesai dilakukan, coba mode Inprivate atau Incognito. 
   
-2. Pilih kartu kredit Anda ingin memperbarui.
+2. Pilih kartu kredit yang ingin diperbarui.
     
     > [!NOTE]
-    > Jika admin lain ditambahkan metode pembayaran, Anda tidak akan dapat memperbarui informasi kartu kredit atau rekening bank untuk itu. Jika kartu kredit yang akan segera berakhir dan administrator lain tidak dapat update, Anda dapat mencegah gangguan layanan dengan menambahkan berbagai kartu kredit atau rekening bank baru untuk berlangganan dengan memilih **metode pembayaran Tambahkan**. 
+    > Jika admin lain menambahkan metode pembayaran, Anda tidak akan bisa memperbarui informasi kartu kredit atau rekening bank itu. Jika kartu kredit akan segera kedaluwarsa dan administrator lain itu tidak bisa memperbaruinya, Anda dapat mencegah gangguan layanan dengan menambahkan kartu kredit lain atau rekening bank baru untuk langganan dengan memilih **Tambahkan metode pembayaran**. 
   
-3. Pada halaman **rincian pembayaran** , pilih **Edit rincian pembayaran**.
+3. Di halaman **Detail pembayaran**, pilih **Edit detail pembayaran**.
     
-4. Membuat pembaruan, dan kemudian pilih **Simpan**.
+4. Buat pembaruan, lalu pilih **Simpan**.
     
 5. Untuk menghapus metode pembayaran ini, pilih **Hapus**.
     
-Untuk informasi lebih lanjut, lihat [Add, mengupdate atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) dan [mengatasi masalah kartu kredit dan rekening bank](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Untuk informasi selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk Bisnis](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) dan [Memecahkan masalah kartu kredit dan rekening bank](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 

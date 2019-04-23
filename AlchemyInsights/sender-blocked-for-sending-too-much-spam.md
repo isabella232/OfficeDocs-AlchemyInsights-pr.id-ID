@@ -1,5 +1,5 @@
 ---
-title: Pengirim diblokir untuk mengirimkan terlalu banyak spam
+title: Pengirim diblokir karena mengirimkan terlalu banyak spam
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: 10e6a94a58acd1db8a36ca99a34809c8e99ddebc
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c2226a00de806049e92cf0e1e25c75fb57adef53
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405290"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767503"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Account Anda diblokir untuk mengirimkan terlalu banyak spam
+# <a name="account-is-blocked-for-sending-too-much-spam"></a>Akun diblokir karena mengirimkan terlalu banyak spam
 
-Account pengiriman dapat dikompromikan. Anda akan perlu:
+Akun pengiriman mungkin dibobol. Anda perlu:
   
-1. [Menentukan jika account terganggu](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Jika terganggu, ikuti langkah-langkah untuk [Responding ke Account Email dikompromikan di Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+1. [Menentukan jika akun dibobol](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Jika dibobol, ikut langkah-langkah untuk [Merespons Akun Email yang Dibobol di Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
     
-2. Pergi ke pengguna dibatasi untuk **[membatalkan pemblokiran account](https://protection.office.com/?hash=/restrictedusers)** dalam keamanan &amp; Compliance Center. Setelah selesai, Anda harus dapat melanjutkan mengirim pesan *dalam waktu 1 jam* . 
+2. Masuk ke Pengguna Terbatas untuk **[membuka blokir akun](https://protection.office.com/?hash=/restrictedusers)** di Pusat Kepatuhan &amp; Keamanan. Begitu selesai, Anda akan dapat melanjutkan pengiriman pesan *dalam 1 jam*. 
     
-3. Untuk membantu mencegah masa depan rekening kompromi, mengikuti rekomendasi di [keamanan praktek-praktek terbaik untuk Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+3. Agar pembobolan akun tidak kembali terjadi, ikuti saran-saran di [Praktik keamanan terbaik untuk Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
   
 

@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404606"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762859"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Bagaimana cara menambahkan kartu kredit?
 
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau memilih **penagihan** \> **langganan**.
+1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
     
-2. Memilih berlangganan yang Anda ingin membayar dengan kartu kredit yang baru atau rekening bank, lalu pilih **rincian pembayaran Update**.
+2. Pilih langganan yang ingin dibayar menggunakan kartu kredit atau rekening bank yang baru, lalu pilih **Perbarui detail pembayaran**.
     
-3. Pilih panah di bawah **Tambah atau pilih metode pembayaran**ke bawah, kemudian memilih **baru kartu kredit** atau **rekening bank baru**.
+3. Pilih panah menurun di bawah **Tambahkan atau pilih metode pembayaran**, lalu pilih **Kartu kredit baru** atau **Rekening bank baru**.
     
-4. Masukkan informasi untuk baru kartu kredit atau rekening bank, kemudian pilih kirim.
+4. Masukkan informasi kartu kredit atau rekening bank baru, lalu pilih Kirim.
     
 

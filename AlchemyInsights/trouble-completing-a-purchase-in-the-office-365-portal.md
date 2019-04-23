@@ -1,5 +1,5 @@
 ---
-title: Kesulitan menyelesaikan pembelian di portal Office 365
+title: Terjadi masalah saat menyelesaikan pembelian di portal Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405146"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754761"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Kesulitan menyelesaikan pembelian di portal Office 365
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Terjadi masalah saat menyelesaikan pembelian di portal Office 365
 
-Ketika mencoba untuk melakukan pembelian, jika Anda telah diminta berkali-kali untuk masuk ke kantor 365 portal, atau Anda menerima pesan bahwa masalah itu ditemukan, langkah pertama yang terbaik adalah untuk mencoba menggunakan peramban inprivate/penyamaran mode. Setelah membuka jendela inprivate/samaran, pergi ke situs [portal.office.com](https://portal.office.com) dan log in dengan kredensial admin Anda. Kemudian lanjutkan untuk menyelesaikan pembelian Anda. 
+Ketika mencoba melakukan pembelian, jika Anda diminta untuk masuk ke portal Office 365 beberapa kali atau menerima pesan yang mengindikasikan adanya masalah, langkah pertama yang harus dicoba adalah menggunakan mode inprivate/incognito di browser. Setelah membuka jendela inprivate/incognito, buka situs [portal.office.com](https://portal.office.com) lalu masuk menggunakan kredensial admin Anda. Kemudian, lanjutkan untuk menyelesaikan pembelian. 
   
 

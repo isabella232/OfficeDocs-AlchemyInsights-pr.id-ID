@@ -1,5 +1,5 @@
 ---
-title: Sinkronisasi SharePoint file dengan OneDrive sync klien baru
+title: Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469026"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747349"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinkronisasi SharePoint file dengan OneDrive sync klien baru
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru
 
-1. Di pusat admin SharePoint klasik, pilih **settings**.
+1. Di pusat admin SharePoint baru, pilih **pengaturan**.
     
-2. Pastikan "OneDrive Sync tombol" diatur ke "Tampilkan tombol Sync."
+2. Pastikan "Tombol Sinkronisasi OneDrive" diatur ke "Tampilkan tombol Sinkronisasi." 
     
-3. Untuk "Sync klien untuk SharePoint," pilih **mulai klien baru**.
+3. Untuk "Klien Sinkronisasi untuk SharePoint," pilih **Mulai klien baru**.
     
     > [!NOTE]
-    > Jika opsi ini tidak muncul, organisasi Anda sudah diatur untuk menggunakan klien sinkronisasi OneDrive baru untuk sinkronisasi file SharePoint. 
+    > Jika opsi ini tidak muncul, artinya organisasi Anda telah disiapkan untuk menggunakan klien sinkronisasi OneDrive baru untuk menyinkronkan file SharePoint. 
   
 4. Klik **OK**.
     
-Untuk info lebih lanjut, lihat [mengaktifkan pengguna untuk sinkronisasi file SharePoint dengan OneDrive sync klien baru](https://go.microsoft.com/fwlink/?linkid=866433). Untuk petunjuk untuk memberikan kepada pengguna, lihat [Sync SharePoint file dengan OneDrive sync klien baru](https://go.microsoft.com/fwlink/?linkid=866427).
+Untuk info selengkapnya, lihat [Memungkinkan pengguna untuk menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive baru](https://go.microsoft.com/fwlink/?linkid=866433). Untuk instruksi bagi pengguna Anda, lihat [Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive baru](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
