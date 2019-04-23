@@ -1,5 +1,5 @@
 ---
-title: Pembaruan data DNS
+title: Memperbarui Catatan DNS
 ms.author: pebaum
 author: pebaum
 ms.date: 1/12/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405074"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758757"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="86da2-102">Pembaruan data DNS</span><span class="sxs-lookup"><span data-stu-id="86da2-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="e299d-102">Memperbarui Catatan DNS</span><span class="sxs-lookup"><span data-stu-id="e299d-102">Update DNS Records</span></span>
 
-<span data-ttu-id="86da2-p101">Pengaturan data DNS penting untuk mendapatkan langganan Office 365 Anda bekerja dengan nama domain kustom. Gunakan link di bawah ini untuk menambahkan atau memutakhirkan data DNS.</span><span class="sxs-lookup"><span data-stu-id="86da2-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="e299d-103">Penyiapan catatan DNS penting dilakukan agar langganan Office 365 dapat digunakan dengan nama domain kustom Anda.</span><span class="sxs-lookup"><span data-stu-id="e299d-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="e299d-104">Gunakan tautan di bawah ini untuk menambahkan atau memperbarui catatan DNS.</span><span class="sxs-lookup"><span data-stu-id="e299d-104">Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="86da2-105">Memperbarui data DNS di Office 365</span><span class="sxs-lookup"><span data-stu-id="86da2-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [<span data-ttu-id="e299d-105">Memperbarui catatan DNS di Office 365</span><span class="sxs-lookup"><span data-stu-id="e299d-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [<span data-ttu-id="86da2-106">Menambah atau mengedit kustom data DNS</span><span class="sxs-lookup"><span data-stu-id="86da2-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [<span data-ttu-id="e299d-106">Menambah atau mengedit catatan DNS kustom</span><span class="sxs-lookup"><span data-stu-id="e299d-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 
