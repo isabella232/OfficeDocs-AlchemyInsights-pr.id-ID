@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000033
 ms.assetid: 16e5bfdc-3363-4e1b-9436-789ce67ad22e
-ms.openlocfilehash: 840f1cea23e5a9c8162cd2491d7a43dc5b746d4c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 99b945f3115a4909d304255997d22a038575caff
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30786865"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903523"
 ---
-# <a name="how-to-reply-to-or-forward-messages"></a><span data-ttu-id="79f0f-102">Bagaimana cara membalas atau meneruskan pesan</span><span class="sxs-lookup"><span data-stu-id="79f0f-102">How to reply to or forward messages</span></span>
+# <a name="how-to-reply-to-or-forward-messages"></a><span data-ttu-id="48743-102">Bagaimana cara membalas atau meneruskan pesan</span><span class="sxs-lookup"><span data-stu-id="48743-102">How to reply to or forward messages</span></span>
 
-<span data-ttu-id="79f0f-103">Beta Outlook.com, tombol untuk **Balasan**, **balas semua**, dan **maju** yang sekarang ikon.</span><span class="sxs-lookup"><span data-stu-id="79f0f-103">In the Outlook.com beta, the buttons for **Reply**, **Reply all**, and **Forward** are now icons.</span></span> 
+<span data-ttu-id="48743-103">Di sudut kanan atas panel pesan, pilih kiri lengkung Panah, panah ganda lengkung kiri atau menghadapi panah kanan untuk balas, balas semua, atau meneruskan.</span><span class="sxs-lookup"><span data-stu-id="48743-103">At the top right corner of the message pane, select the left curving arrow, left curving double arrow or right facing arrow to Reply, Reply all, or Forward.</span></span> 
   
-<span data-ttu-id="79f0f-104">Di sudut kanan atas panel pesan, pilih kiri lengkung Panah, panah ganda lengkung kiri atau menghadapi panah kanan untuk balas, balas semua, atau meneruskan.</span><span class="sxs-lookup"><span data-stu-id="79f0f-104">At the top right corner of the message pane, select the left curving arrow, left curving double arrow or right facing arrow to Reply, Reply all, or Forward.</span></span> 
-  
-<span data-ttu-id="79f0f-105">Pelajari selengkapnya tentang cara [membuat, membalas, atau pesan email ke depan di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span><span class="sxs-lookup"><span data-stu-id="79f0f-105">Learn more about how to [Create, reply to, or forward email messages in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span></span>
+<span data-ttu-id="48743-104">Pelajari selengkapnya tentang cara [membuat, membalas, atau pesan email ke depan di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span><span class="sxs-lookup"><span data-stu-id="48743-104">Learn more about how to [Create, reply to, or forward email messages in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873141).</span></span>
   
 
