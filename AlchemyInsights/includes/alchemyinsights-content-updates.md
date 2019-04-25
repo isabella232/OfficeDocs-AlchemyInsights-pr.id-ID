@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Minggu 11 Maret 2019
-
-
-| Diterbitkan pada |Judul topik | Perubahan |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com Inbox tidak memuat | ditambahkan |
-| 3/12/2019 | [8000078 Outlook.com Inbox tidak memuat](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | berganti nama menjadi |
-| 3/12/2019 | [8000078 Outlook.com Inbox tidak memuat](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | diubah |
-| 3/13/2019 | [Relay email melalui Office 365](/AlchemyInsights/relay-email-through-office-365) | diubah |
-| 3/14/2019 | [sama seperti nama file terbaik [aturan #-Deskripsi]](/AlchemyInsights/1-alchemy-insight-template) | diubah |
-| 3/14/2019 | [Meningkatkan ukuran kotak pesan](/AlchemyInsights/increase-mailbox-size) | diubah |
-| 3/15/2019 | [Ingat Desktop Outlook atau mengganti pesan email](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | ditambahkan |
-
-
 ## <a name="week-of-march-18-2019"></a>Minggu 18 Maret 2019
 
 
@@ -530,3 +516,47 @@
 | 2019/4/12 | [932 upgrade AADConnect](/AlchemyInsights/upgrading-aadconnect) | diubah |
 | 2019/4/12 | [725 menggunakan email alias di perangkat selular](/AlchemyInsights/using-email-alias-on-mobile-device) | diubah |
 | 2019/4/12 | [1554 Winsock kesalahan 10061](/AlchemyInsights/winsock-error-10061) | diubah |
+
+
+## <a name="week-of-april-15-2019"></a>Minggu 15 April 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 4/15/2019 | [Alkimia - mendiagnosa dan menyelesaikan masalah konektivitas Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | diubah |
+| 4/15/2019 | [Alkimia - menciptakan profil Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | diubah |
+| 4/15/2019 | [DLP mungkin perlu jenis kustom](/AlchemyInsights/dlp-might-need-custom-type) | ditambahkan |
+| 4/15/2019 | [DLP tidak bekerja seperti yang diharapkan](/AlchemyInsights/dlp-not-working-as-expected) | diubah |
+| 4/15/2019 | [DLP kebijakan Tips tidak bekerja](/AlchemyInsights/dlp-policy-tips-not-working) | diubah |
+| 4/15/2019 | [Outlook.com kesalahan 550](/AlchemyInsights/outlook-com-error-550) | ditambahkan |
+| 4/15/2019 | [Outlook.com melebihi kuota](/AlchemyInsights/outlook-com-over-quota) | ditambahkan |
+| 4/15/2019 | [Hapus Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | ditambahkan |
+| 4/15/2019 | [Hapus Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | ditambahkan |
+| 4/15/2019 | [182 Jalankan SaRA untuk mendiagnosa &amp; menyelesaikan masalah otentikasi Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | diubah |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | diubah |
+| 4/16/2019 | [Hapus Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | diubah |
+| 4/16/2019 | [8000088 Simpan email di Outlook.com](/AlchemyInsights/outlook-com-save-emails) | diubah |
+| 4/16/2019 | [8000052 lampirkan file di Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | diubah |
+| 4/16/2019 | [8000015 blok atau membuka Blokir pengirim](/AlchemyInsights/block-or-unblock-senders) | diubah |
+| 4/16/2019 | [8000014 cara mengubah bahasa di Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | diubah |
+| 4/16/2019 | [8000059 cara mengubah tata letak Anda](/AlchemyInsights/how-to-change-your-layout) | diubah |
+| 4/16/2019 | [8000033 cara untuk membalas atau meneruskan pesan di Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | diubah |
+| 4/16/2019 | [8000055 cara masuk atau keluar dari Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | diubah |
+| 4/16/2019 | [8000062 bergerak folder di Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | diubah |
+| 4/16/2019 | [Auto-menerapkan kepekaan label](/AlchemyInsights/auto-apply-sensitivity-labels) | ditambahkan |
+| 4/16/2019 | [Sensitivitas label tidak muncul](/AlchemyInsights/sensitivity-labels-not-appearing) | ditambahkan |
+| 4/16/2019 | [Label retensi yang baru dibuat secara otomatis](/AlchemyInsights/new-retention-labels-created-automatically) | ditambahkan |
+| 4/16/2019 | [SharePoint dan log OneDrive Audit](/AlchemyInsights/classic-sharepoint-audit-log-reports) | ditambahkan |
+| 4/16/2019 | [Mengidentifikasi Hapus pesan peristiwa di log audit](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | ditambahkan |
+| 4/16/2019 | [Mengidentifikasi penerusan email eksternal pada kotak pesan di log audit](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | ditambahkan |
+| 4/16/2019 | [Mengidentifikasi kegiatan aturan kotak masuk di log audit](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | ditambahkan |
+| 4/16/2019 | [Mengidentifikasi alamat IP dan klien dalam log audit](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | ditambahkan |
+| 4/16/2019 | [Perbaikan PST file sebelum mengimpor](/AlchemyInsights/repair-pst-before-importing) | ditambahkan |
+| 4/16/2019 | [Klasik SharePoint laporan log audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | ditambahkan |
+| 4/16/2019 | [Klasik SharePoint laporan log audit](/AlchemyInsights/classic-sharepoint-audit-log-reports) | diubah |
+| 4/16/2019 | [Mengidentifikasi penerusan email eksternal pada kotak pesan di log audit](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | diubah |
+| 4/16/2019 | [Mengidentifikasi kegiatan aturan kotak masuk di log audit](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | diubah |
+| 4/16/2019 | [Klasik SharePoint laporan log audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | diubah |
+| 4/17/2019 | [Memperbaiki masalah-masalah pengiriman email ke dukungan e-mail folder publik](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | ditambahkan |
+| 4/17/2019 | [Tim pergeseran](/AlchemyInsights/teams-shifts) | diubah |
+| 4/18/2019 | [8000011 memulihkan dihapus email di Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | diubah |
