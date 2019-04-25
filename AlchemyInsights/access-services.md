@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
 ms.openlocfilehash: 2d3d05214e6217568125f8b426aa952176f74fa1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752781"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32390178"
 ---
-# <a name="access-services"></a><span data-ttu-id="b0e5b-102">Layanan akses</span><span class="sxs-lookup"><span data-stu-id="b0e5b-102">Access Services</span></span>
+# <a name="access-services"></a><span data-ttu-id="aad1a-102">Layanan akses</span><span class="sxs-lookup"><span data-stu-id="aad1a-102">Access Services</span></span>
 
-<span data-ttu-id="b0e5b-103">Fitur layanan akses dalam SharePoint Online sedang dihentikan.</span><span class="sxs-lookup"><span data-stu-id="b0e5b-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="b0e5b-104">Baru aplikasi web berbasis akses dan database web tidak lagi dapat dibuat, dan ada aplikasi web dan database web akan menutup oleh April, 2018.</span><span class="sxs-lookup"><span data-stu-id="b0e5b-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="b0e5b-105">Akses Desktop database (.accdb) tidak terpengaruh oleh perubahan ini.</span><span class="sxs-lookup"><span data-stu-id="b0e5b-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="b0e5b-106">Kami merekomendasikan Microsoft PowerApps sebagai alternatif untuk akses web apps dan database web.</span><span class="sxs-lookup"><span data-stu-id="b0e5b-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
+<span data-ttu-id="aad1a-103">Fitur layanan akses dalam SharePoint Online sedang dihentikan.</span><span class="sxs-lookup"><span data-stu-id="aad1a-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="aad1a-104">Baru aplikasi web berbasis akses dan database web tidak lagi dapat dibuat, dan ada aplikasi web dan database web akan menutup oleh April, 2018.</span><span class="sxs-lookup"><span data-stu-id="aad1a-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="aad1a-105">Akses Desktop database (.accdb) tidak terpengaruh oleh perubahan ini.</span><span class="sxs-lookup"><span data-stu-id="aad1a-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="aad1a-106">Kami merekomendasikan Microsoft PowerApps sebagai alternatif untuk akses web apps dan database web.</span><span class="sxs-lookup"><span data-stu-id="aad1a-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
   
-[<span data-ttu-id="b0e5b-107">Pelajari tentang Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="b0e5b-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
+[<span data-ttu-id="aad1a-107">Pelajari tentang Microsoft PowerApps</span><span class="sxs-lookup"><span data-stu-id="aad1a-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
   
 
