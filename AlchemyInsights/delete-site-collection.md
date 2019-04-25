@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 48710191-b17d-4560-b356-b351371d4d73
 ms.openlocfilehash: 37606af8cbbd1d54cde646400386652b0d5aae56
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747565"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405014"
 ---
-# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="fc941-102">Menghapus situs SharePoint</span><span class="sxs-lookup"><span data-stu-id="fc941-102">Delete a SharePoint site</span></span>
+# <a name="delete-a-sharepoint-site"></a><span data-ttu-id="b66a3-102">Menghapus situs SharePoint</span><span class="sxs-lookup"><span data-stu-id="b66a3-102">Delete a SharePoint site</span></span>
 
-1. <span data-ttu-id="fc941-103">Di SharePoint admin center baru, pada halaman situs, klik kotak centang di samping situs yang ingin Anda hapus.</span><span class="sxs-lookup"><span data-stu-id="fc941-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
+1. <span data-ttu-id="b66a3-103">Di SharePoint admin center baru, pada halaman situs, klik kotak centang di samping situs yang ingin Anda hapus.</span><span class="sxs-lookup"><span data-stu-id="b66a3-103">In the new  SharePoint admin center, on the Sites page, click the check box next to the site you wish to delete.</span></span>
     
-2. <span data-ttu-id="fc941-104">Pada toolbar pita, klik **Hapus**.</span><span class="sxs-lookup"><span data-stu-id="fc941-104">On the ribbon toolbar, click **Delete**.</span></span>
+2. <span data-ttu-id="b66a3-104">Pada toolbar pita, klik **Hapus**.</span><span class="sxs-lookup"><span data-stu-id="b66a3-104">On the ribbon toolbar, click **Delete**.</span></span>
     
 
