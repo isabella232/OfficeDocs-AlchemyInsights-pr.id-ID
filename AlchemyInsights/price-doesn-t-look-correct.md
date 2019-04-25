@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
 ms.openlocfilehash: 1bb010cac9727561554bf955f76ca0c3d3f15da1
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752254"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372851"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="78be3-102">Harga tidak terlihat benar?</span><span class="sxs-lookup"><span data-stu-id="78be3-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="d451b-102">Harga tidak terlihat benar?</span><span class="sxs-lookup"><span data-stu-id="d451b-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="78be3-103">Jika harga pada faktur Anda tidak terlihat benar, ini bisa disebabkan oleh perubahan harga pada pembaharuan.</span><span class="sxs-lookup"><span data-stu-id="78be3-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="78be3-104">Jika Anda tidak percaya ini menjelaskan masalah, silakan gunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.</span><span class="sxs-lookup"><span data-stu-id="78be3-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="d451b-103">Jika harga pada faktur Anda tidak terlihat benar, ini bisa disebabkan oleh perubahan harga pada pembaharuan.</span><span class="sxs-lookup"><span data-stu-id="d451b-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="d451b-104">Jika Anda tidak percaya ini menjelaskan masalah, silakan gunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.</span><span class="sxs-lookup"><span data-stu-id="d451b-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
   
 
