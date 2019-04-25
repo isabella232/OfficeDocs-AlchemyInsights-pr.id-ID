@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
 ms.openlocfilehash: 0978e89aee912dbc4166008b87866f6ad1dfffec
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208912"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417007"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="1326d-102">Cara memverifikasi domain dengan Office 365</span><span class="sxs-lookup"><span data-stu-id="1326d-102">How to verify your domain with Office 365</span></span>
+# <a name="how-to-verify-your-domain-with-office-365"></a><span data-ttu-id="6a9d7-102">Cara memverifikasi domain dengan Office 365</span><span class="sxs-lookup"><span data-stu-id="6a9d7-102">How to verify your domain with Office 365</span></span>
 
-<span data-ttu-id="1326d-p101">Anda akan perlu untuk menambahkan data TXT untuk registrar domain untuk memverifikasi bahwa Anda adalah pemilik domain. Pertama, ikuti [wizard Tambah Domain](https://portal.office.com/adminportal/home#/Domains) dengan mengklik pada **pengaturan** \> **Domain**, dan kemudian **Tambahkan Domain**.</span><span class="sxs-lookup"><span data-stu-id="1326d-p101">You will need to add a TXT record to your domain registrar to verify that you own your domain. First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
+<span data-ttu-id="6a9d7-103">Anda akan perlu untuk menambahkan data TXT untuk registrar domain untuk memverifikasi bahwa Anda adalah pemilik domain.</span><span class="sxs-lookup"><span data-stu-id="6a9d7-103">You will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="6a9d7-104">Pertama, ikuti [wizard Tambah Domain](https://portal.office.com/adminportal/home#/Domains) dengan mengklik pada **pengaturan** \> **Domain**, dan kemudian **Tambahkan Domain**.</span><span class="sxs-lookup"><span data-stu-id="6a9d7-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by clicking on **Settings** \> **Domain**, and then **Add Domain**.</span></span>
   
-<span data-ttu-id="1326d-105">Ikuti petunjuk dalam [membuat data DNS di penyedia hosting DNS untuk Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) untuk menambahkan data TXT untuk memverifikasi domain Anda.</span><span class="sxs-lookup"><span data-stu-id="1326d-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span> 
+<span data-ttu-id="6a9d7-105">Ikuti petunjuk dalam [membuat data DNS di penyedia hosting DNS untuk Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) untuk menambahkan data TXT untuk memverifikasi domain Anda.</span><span class="sxs-lookup"><span data-stu-id="6a9d7-105">Follow the instructions in [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span> 
   
 
