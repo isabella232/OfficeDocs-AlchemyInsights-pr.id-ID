@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: 38d706c035613bf4f3ff87ffbfa19621aa386763
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767431"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400026"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Cara menambahkan atau mengurangi lisensi
 
 Berikut adalah cara untuk menghapus atau membeli lisensi lebih.
   
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau memilih **penagihan** \> **langganan**.
+1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
     
 2. Di sebelah kiri, pilih berlangganan yang Anda ingin menambahkan/menghapus lisensi
     

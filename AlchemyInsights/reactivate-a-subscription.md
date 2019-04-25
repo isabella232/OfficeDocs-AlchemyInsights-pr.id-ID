@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759045"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32387993"
 ---
 # <a name="reactivate-a-subscription"></a>Mengaktifkan kembali berlangganan
 
 Jika langganan Anda berakhir, dinonaktifkan oleh Microsoft, atau Anda dibatalkan itu di tengah-tengah masa berlangganan, Anda dapat mengaktifkannya di Microsoft 365 admin center.
   
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau memilih **penagihan** \> **langganan**.
+1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
     
 2. Memilih berlangganan yang Anda inginkan untuk mengaktifkan kembali, kemudian pilih **mengaktifkan kembali**.
     
