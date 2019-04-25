@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
 ms.openlocfilehash: c202527610f349bef1129b1307f7cb10c13f2165
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404498"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374219"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a><span data-ttu-id="51019-102">Punya 'Parameter tidak ditemukan' kesalahan?</span><span class="sxs-lookup"><span data-stu-id="51019-102">Got a 'Parameter cannot be found' error?</span></span>
+# <a name="got-a-parameter-cannot-be-found-error"></a><span data-ttu-id="4ddc4-102">Punya 'Parameter tidak ditemukan' kesalahan?</span><span class="sxs-lookup"><span data-stu-id="4ddc4-102">Got a 'Parameter cannot be found' error?</span></span>
 
-<span data-ttu-id="51019-103">Jika Anda mendapatkan pesan galat **"parameter tidak dapat ditemukan yang cocok nama parameter ' EmailAddresses akan"**, itu berarti bahwa itu berlangsung sedikit lebih lama untuk Office 365 untuk menyelesaikan pengaturan penyewa Anda, atau domain kustom jika Anda baru saja menambahkan satu.</span><span class="sxs-lookup"><span data-stu-id="51019-103">If you get the error message **"A parameter cannot be found that matches parameter name 'EmailAddresses"**, it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one.</span></span> 
+<span data-ttu-id="4ddc4-103">Jika Anda mendapatkan pesan galat **"parameter tidak dapat ditemukan yang cocok nama parameter ' EmailAddresses akan"**, itu berarti bahwa itu berlangsung sedikit lebih lama untuk Office 365 untuk menyelesaikan pengaturan penyewa Anda, atau domain kustom jika Anda baru saja menambahkan satu.</span><span class="sxs-lookup"><span data-stu-id="4ddc4-103">If you get the error message **"A parameter cannot be found that matches parameter name 'EmailAddresses"**, it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one.</span></span> 
   
-<span data-ttu-id="51019-p101">Proses setup dapat mengambil hingga 4 jam untuk menyelesaikan. Tunggu sementara sehingga proses setup memiliki waktu untuk menyelesaikan, dan kemudian coba lagi.</span><span class="sxs-lookup"><span data-stu-id="51019-p101">The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again.</span></span>
+<span data-ttu-id="4ddc4-104">Proses setup dapat mengambil hingga 4 jam untuk menyelesaikan.</span><span class="sxs-lookup"><span data-stu-id="4ddc4-104">The setup process can take up to 4 hours to complete.</span></span> <span data-ttu-id="4ddc4-105">Tunggu sementara sehingga proses setup memiliki waktu untuk menyelesaikan, dan kemudian coba lagi.</span><span class="sxs-lookup"><span data-stu-id="4ddc4-105">Wait a while so the set up process has time to finish, and then try again.</span></span>
   
 
