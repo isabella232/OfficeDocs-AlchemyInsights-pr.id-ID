@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918978"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410125"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Menginstal Office pada Terminal Server
 
@@ -25,9 +25,9 @@ Untuk menggunakan kantor 365 ProPlus pada Windows Server menggunakan Remote Desk
     
 Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari portal Office 365, ** *yang menggunakan pengaturan default instalasi* **, ikuti langkah berikut: 
   
-1. Periksa apa rencana Office 365 yang Anda miliki. [Belajar bagaimana](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Periksa apa rencana Office 365 yang Anda miliki. [Pelajari bagaimana](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Jika perlu, beralih ke Office 365 berbeda berencana. [Belajar bagaimana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jika perlu, beralih ke Office 365 berbeda berencana. [Pelajari bagaimana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Jika kantor sudah diinstal pada server RDS menggunakan rencana Office 365 lain, uninstall. Sebagai contoh, dengan pergi ke Control Panel \> Uninstall sebuah program. Uninstall menggunakan [Microsoft Support dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda menjalankan ke masalah. 
     
