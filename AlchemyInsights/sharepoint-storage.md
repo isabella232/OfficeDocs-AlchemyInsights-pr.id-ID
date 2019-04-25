@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
 ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747925"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421207"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="18756-102">Mengelola penyimpanan SharePoint Online Anda</span><span class="sxs-lookup"><span data-stu-id="18756-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="3cd5d-102">Mengelola penyimpanan SharePoint Online Anda</span><span class="sxs-lookup"><span data-stu-id="3cd5d-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="18756-103">Untuk sebagian besar organisasi, Penyimpanan SharePoint dikelola secara otomatis sehingga Anda tidak perlu untuk menetapkan batas per situs koleksi.</span><span class="sxs-lookup"><span data-stu-id="18756-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="18756-104">Untuk memeriksa berapa banyak penyimpanan SharePoint Anda memiliki:</span><span class="sxs-lookup"><span data-stu-id="18756-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="3cd5d-103">Untuk sebagian besar organisasi, Penyimpanan SharePoint dikelola secara otomatis sehingga Anda tidak perlu untuk menetapkan batas per situs koleksi.</span><span class="sxs-lookup"><span data-stu-id="3cd5d-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="3cd5d-104">Untuk memeriksa berapa banyak penyimpanan SharePoint Anda memiliki:</span><span class="sxs-lookup"><span data-stu-id="3cd5d-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="18756-105">Dalam baru SharePoint admin center, status di bagian kanan atas halaman situs, mencari penyimpanan Anda tersedia dan total.</span><span class="sxs-lookup"><span data-stu-id="18756-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+- <span data-ttu-id="3cd5d-105">Dalam baru SharePoint admin center, status di bagian kanan atas halaman situs, mencari penyimpanan Anda tersedia dan total.</span><span class="sxs-lookup"><span data-stu-id="3cd5d-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
     
-<span data-ttu-id="18756-106">Untuk info tentang bagaimana batas Anda dihitung, lihat [SharePoint Online batas](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="18756-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="18756-107">Untuk membeli penyimpanan tambahan, lihat [mengubah ruang penyimpanan untuk langganan Anda](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="18756-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+<span data-ttu-id="3cd5d-106">Untuk info tentang bagaimana batas Anda dihitung, lihat [SharePoint Online batas](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="3cd5d-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="3cd5d-107">Untuk membeli penyimpanan tambahan, lihat [mengubah ruang penyimpanan untuk langganan Anda](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="3cd5d-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
   
-<span data-ttu-id="18756-108">Untuk info tentang pemantauan penyimpanan situs individu menggunakan PowerShell dan mengelola penyimpanan koleksi situs secara manual, lihat [mengelola situs koleksi batas penyimpanan](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="18756-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="3cd5d-108">Untuk info tentang pemantauan penyimpanan situs individu menggunakan PowerShell dan mengelola penyimpanan koleksi situs secara manual, lihat [mengelola situs koleksi batas penyimpanan](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="3cd5d-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
   
 

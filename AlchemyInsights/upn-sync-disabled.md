@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
 ms.openlocfilehash: 2a03ac64d92c07b523b015850251b33c58bb76f8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767235"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423551"
 ---
-# <a name="upn-sync-disabled"></a><span data-ttu-id="3fd6c-102">Sinkronisasi UPN dinonaktifkan</span><span class="sxs-lookup"><span data-stu-id="3fd6c-102">UPN sync disabled</span></span>
+# <a name="upn-sync-disabled"></a><span data-ttu-id="a5480-102">Sinkronisasi UPN dinonaktifkan</span><span class="sxs-lookup"><span data-stu-id="a5480-102">UPN sync disabled</span></span>
 
-<span data-ttu-id="3fd6c-103">Jika Anda memulai sinkronisasi Azure iklan sebelum 30 Maret 2016, Jalankan cmdlet Azure iklan PowerShell berikut untuk mengaktifkan UPN lembut cocok untuk organisasi Anda hanya:</span><span class="sxs-lookup"><span data-stu-id="3fd6c-103">If you started syncing to Azure AD before March 30, 2016, run the following Azure AD PowerShell cmdlet to enable UPN soft match for your organization only:</span></span>
+<span data-ttu-id="a5480-103">Jika Anda memulai sinkronisasi Azure iklan sebelum 30 Maret 2016, Jalankan cmdlet Azure iklan PowerShell berikut untuk mengaktifkan UPN lembut cocok untuk organisasi Anda hanya:</span><span class="sxs-lookup"><span data-stu-id="a5480-103">If you started syncing to Azure AD before March 30, 2016, run the following Azure AD PowerShell cmdlet to enable UPN soft match for your organization only:</span></span>
   
- <span data-ttu-id="3fd6c-104">**Set-MsolDirSyncFeature-fitur EnableSoftMatchOnUpn-mengaktifkan $True**</span><span class="sxs-lookup"><span data-stu-id="3fd6c-104">**Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**</span></span>
+ <span data-ttu-id="a5480-104">**Set-MsolDirSyncFeature-fitur EnableSoftMatchOnUpn-mengaktifkan $True**</span><span class="sxs-lookup"><span data-stu-id="a5480-104">**Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**</span></span>
   
-<span data-ttu-id="3fd6c-105">UPN lembut pertandingan secara otomatis diaktifkan untuk organisasi yang mulai sinkronisasi Azure iklan pada atau setelah tanggal 30 Maret 2016.</span><span class="sxs-lookup"><span data-stu-id="3fd6c-105">UPN soft match is automatically turned on for organizations that started syncing to Azure AD on or after March 30, 2016.</span></span>
+<span data-ttu-id="a5480-105">UPN lembut pertandingan secara otomatis diaktifkan untuk organisasi yang mulai sinkronisasi Azure iklan pada atau setelah tanggal 30 Maret 2016.</span><span class="sxs-lookup"><span data-stu-id="a5480-105">UPN soft match is automatically turned on for organizations that started syncing to Azure AD on or after March 30, 2016.</span></span>
   
-<span data-ttu-id="3fd6c-106">Untuk mempelajari lebih lanjut tentang mengaktifkan lembut cocok pada UPN dan fitur sinkronisasi lainnya, silakan lihat [Azure iklan menyambung sinkronisasi Layanan fitur](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span><span class="sxs-lookup"><span data-stu-id="3fd6c-106">To learn more about enabling soft match on UPN and other sync features, please see [Azure AD Connect sync service features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span></span>
+<span data-ttu-id="a5480-106">Untuk mempelajari lebih lanjut tentang mengaktifkan lembut cocok pada UPN dan fitur sinkronisasi lainnya, silakan lihat [Azure iklan menyambung sinkronisasi Layanan fitur](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span><span class="sxs-lookup"><span data-stu-id="a5480-106">To learn more about enabling soft match on UPN and other sync features, please see [Azure AD Connect sync service features](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).</span></span>
   
 
