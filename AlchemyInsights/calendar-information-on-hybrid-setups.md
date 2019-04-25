@@ -14,14 +14,14 @@ ms.custom:
 - "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
 ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857883"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396455"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="4a024-102">Kalender bebas/sibuk masalah dalam lingkungan hibrida</span><span class="sxs-lookup"><span data-stu-id="4a024-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="59e11-102">Kalender bebas/sibuk masalah dalam lingkungan hibrida</span><span class="sxs-lookup"><span data-stu-id="59e11-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="4a024-103">Jika pengguna mengalami masalah saat melihat kalender yang bebas/sibuk informasi di lingkungan hibrida, kembali menjalankan wizard konfigurasi hibrida.</span><span class="sxs-lookup"><span data-stu-id="4a024-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="4a024-104">Untuk informasi lebih lanjut tentang wizard konfigurasi hibrida, lihat [wizard konfigurasi hibrida](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="4a024-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="59e11-103">Jika pengguna mengalami masalah saat melihat kalender yang bebas/sibuk informasi di lingkungan hibrida, kembali menjalankan wizard konfigurasi hibrida.</span><span class="sxs-lookup"><span data-stu-id="59e11-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="59e11-104">Untuk informasi lebih lanjut tentang wizard konfigurasi hibrida, lihat [wizard konfigurasi hibrida](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="59e11-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="4a024-105">Untuk langkah dalam lingkungan hibrida pemecahan masalah, lihat [mengatasi masalah penggunaan hibrid](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="4a024-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="59e11-105">Untuk langkah dalam lingkungan hibrida pemecahan masalah, lihat [mengatasi masalah penggunaan hibrid](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="59e11-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
