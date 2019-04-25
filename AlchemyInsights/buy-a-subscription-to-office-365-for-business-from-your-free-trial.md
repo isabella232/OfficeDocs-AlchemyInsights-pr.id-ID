@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761600"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396762"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Membeli berlangganan ke Office 365 dari percobaan gratis
 
@@ -24,7 +24,7 @@ Anda mencoba Office 365, dan sekarang Anda siap untuk membeli. Anda memiliki dua
   
  **Anda dapat membeli rencana yang sama sebagai percobaan Anda**
   
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau memilih **penagihan** \> **langganan**.
+1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
     
 2. Pilih **Beli sekarang** untuk percobaan langganan yang Anda inginkan, dan ikuti langkah-langkah untuk memeriksa. 
     
