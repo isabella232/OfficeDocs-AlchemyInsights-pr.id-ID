@@ -1,5 +1,5 @@
 ---
-title: Apakah Anda mendapatkan terlalu banyak spam atau phish di kotak pesan?
+title: Anda sering mendapatkan email spam atau pengelabuan?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404930"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397227"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Apakah Anda mendapatkan terlalu banyak spam atau phish di kotak pesan?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Anda sering mendapatkan email spam atau pengelabuan?
 
-Melihat [bagaimana untuk mengurangi email spam di Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) untuk pemecahan masalah spam. 
+Lihat [Cara mengurangi email spam di Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) untuk pemecahan masalah spam. 
   
-Cara terbaik untuk melaporkan masalah jenis ini adalah untuk: 
+Cara terbaik untuk melaporkan masalah seperti ini adalah dengan: 
   
 1. [Mengaktifkan pelaporan add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) untuk pengguna. 
     
-2. Minta [pengguna melaporkan pesan](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) sebagai sampah. 
+2. [Pengguna melaporkan pesan tersebut](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) sebagai Sampah. 
     
 

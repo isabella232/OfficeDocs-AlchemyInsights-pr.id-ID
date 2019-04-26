@@ -1,5 +1,5 @@
 ---
-title: Apakah Anda memiliki pesan yang sah yang ditandai sebagai spam?
+title: Apakah Anda memiliki pesan sah yang ditandai sebagai spam?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469062"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399144"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Apakah Anda memiliki pesan yang sah yang ditandai sebagai spam?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Apakah Anda memiliki pesan sah yang ditandai sebagai spam?
 
 
-Cobalah diagnostik di atas atau mencoba ini [panduan langkah demi langkah untuk pemecahan masalah baik pesan yang ditandai sebagai spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Coba diagnostik di atas atau coba [panduan langkah demi langkah untuk pemecahan masalah pesan baik yang ditandai sebagai spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Cara terbaik untuk melaporkan masalah jenis ini adalah untuk:
+Cara terbaik untuk melaporkan masalah seperti ini adalah dengan:
   
 1. [Mengaktifkan pelaporan add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) untuk pengguna. 
     
-2. Memiliki pengguna [melaporkan pesan sebagai bukan sampah](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Pengguna [melaporkan pesan tersebut sebagai Bukan Sampah](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Jika Anda ingin buka tiket support, harap melampirkan header email lengkap dari setidaknya **satu seluruh pesan asli** di bawah ini. 
+Jika Anda ingin membuka tiket dukungan, silakan melampirkan header email lengkap dari setidaknya **satu pesan asli secara keseluruhan** di bawah ini. 
   
 
