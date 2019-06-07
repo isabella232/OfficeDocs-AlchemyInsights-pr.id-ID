@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422178"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761762"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>Membatasi SharePoint Online ke modus klasik
 
-Beberapa organisasi masih memerlukan pengalaman modus klasik. Sementara ada tidak ada rencana untuk menghapus modus klasik pada tingkat yang rinci, mulai April 1,2019, itu tidak akan mungkin untuk membatasi seluruh organisasi (penyewa) untuk modus klasik untuk daftar dan perpustakaan.
+Beberapa organisasi masih memerlukan pengalaman modus klasik. Sementara ada tidak ada rencana untuk menghapus modus klasik pada tingkat yang rinci, hal ini tidak mungkin lagi untuk membatasi seluruh organisasi (penyewa) ke modus klasik untuk daftar dan perpustakaan.
 
 Admin akan memiliki pilihan berikut untuk mengelola daftar individu dan perpustakaan dalam modus klasik yang menggunakan butiran switch keluar yang kami sediakan di tingkat berikut:
 
@@ -28,6 +28,6 @@ Admin akan memiliki pilihan berikut untuk mengelola daftar individu dan perpusta
 
 Selain itu, daftar yang menggunakan fitur tertentu dan kustomisasi yang tidak didukung oleh modern akan masih akan secara otomatis beralih ke modus klasik.
 
-Setelah April 1, daftar dan perpustakaan yang berada dalam modus klasik sebagai hasil dari penyewa keluar akan secara otomatis dikelola di tingkat situs dan daftar tingkat.
+Mulai 1 April 2019, proses untuk menonaktifkan tingkat penyewa menyisih dari daftar modern dan Perpustakaan akan mulai dan terus melalui 31 Mei 2019.  Daftar dan perpustakaan yang berada dalam modus klasik sebagai hasil dari penyewa keluar akan secara otomatis beralih ke modern.
 
-Jika Anda memerlukan modus klasik Lihat informasi lebih lanjut di sini dan PnP Powershell instruksi berikut yang menggambarkan pilihan dan peralatan Anda dapat menggunakan hari ini untuk mempersiapkan penghapusan penyewa tingkat keluar pada April 1.
+Jika Anda memerlukan modus klasik Lihat informasi lebih lanjut [di sini](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) dan instruksi PnP Powershell [di sini](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) yang menggambarkan pilihan dan alat-alat yang dapat Anda gunakan hari menggunakan pengalaman modus klasik.
