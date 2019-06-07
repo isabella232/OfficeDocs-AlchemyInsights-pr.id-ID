@@ -8,14 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 5fcf591c5312daf7b817b17056078506f1d4a77b
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34718960"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756868"
 ---
 # <a name="edit-a-read-only-file"></a>Mengedit file hanya-baca
 
-<p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Anda mungkin menemukan bahwa ketika Anda membuka file, mereka membuka sebagai baca-saja. Dalam beberapa kasus, ini adalah untuk keamanan tambahan, seperti ketika Anda membuka file dari internet, dan lain kali, itu bisa karena pengaturan yang dapat diubah. Dalam artikel &ldquo; <a href="https://support.office.com/en-us/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15"><span style="color: blue;">Mengapa Apakah file saya buka di membaca hanya</span></a> &rdquo; kami menggariskan beberapa skenario di mana sebuah file terbuka hanya-baca dan beberapa langkah yang dapat Anda ambil untuk mengubah itu.</span></p> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Di sini&rsquo;s bagaimana membuka kantor file untuk mengedit.</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Daripada mengklik judul dokumen, klik <strong>Buka Menu</strong> (tiga titik), dan kemudian klik <strong>mengedit</strong>.</span></li> </ul> <p style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><strong><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Catatan:</span></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Jika Anda&rsquo;d suka memiliki dokumen dibuka untuk mengedit dalam Office Online ketika Anda mengklik judul, Anda dapat mengatur perpustakaan untuk melakukannya (asalkan Anda memiliki izin untuk mengubah pengaturan Perpustakaan):</span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Jika Anda memiliki perpustakaan dengan <strong style="box-sizing: border-box;">Checkout</strong>, <strong style="box-sizing: border-box;">diperlukan </strong>kolom/metadata,&nbsp;atau <strong style="box-sizing: border-box;">Kapan rancangan Item keamanan</strong> diatur ke salah satu&nbsp;<strong style="box-sizing: border-box;">hanya pengguna yang dapat mengedit</strong> atau&nbsp;<strong style="box-sizing: border-box;">hanya pengguna yang dapat menyetujui item-item</strong> dalam versi Pengaturan SharePoint dokumen Perpustakaan, item tersebut akan disinkronisasi sebagai <strong style="mso-bidi-font-weight: normal;">hanya-baca.</strong></span></li> </ul> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Dokumen Office membuka dalam pandangan dilindungi meskipun Anda mengaktifkan pengaturan kebijakan "Open Office dokumen sebagai baca/tulis saat browsing". Untuk informasi lebih lanjut, silakan lihat ini <a href="https://support.microsoft.com/en-us/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the"> <span style="color: blue;">artikel.</span></a></span></li> </ul>
+Anda mungkin menemukan bahwa ketika Anda membuka file, mereka membuka sebagai baca-saja. Dalam beberapa kasus, ini adalah untuk keamanan tambahan, seperti ketika Anda membuka file dari internet, dan lain kali, itu bisa karena pengaturan yang dapat diubah. Dalam artikel [Mengapa Apakah file saya buka di baca saja](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) kami menjelaskan beberapa skenario di mana sebuah file terbuka hanya-baca dan beberapa langkah yang dapat Anda ambil untuk mengubah itu.
+
+Berikut adalah cara untuk membuka file kantor untuk mengedit.
+
+Daripada mengklik judul dokumen, klik **Buka Menu** (tiga titik), dan kemudian klik **mengedit**.
+
+Catatan:
+
+- Jika Anda lebih suka memiliki dokumen dibuka untuk mengedit dalam Office Online ketika Anda mengklik judul, Anda dapat mengatur perpustakaan untuk melakukannya (asalkan Anda memiliki izin untuk mengubah pengaturan Perpustakaan).
+
+- Jika Anda memiliki perpustakaan dengan Checkout, diperlukan kolom atau ketika pengguna yang dapat mengedit pengaturan versi dari SharePoint dokumen Perpustakaan, item tersebut akan disinkronisasi sebagai baca-saja.
+
+- Dokumen Office membuka dalam pandangan dilindungi meskipun Anda mengaktifkan pengaturan kebijakan "Open Office dokumen sebagai baca/tulis saat browsing". Untuk informasi lebih lanjut, silakan merujuk ke ini [artikel.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 
