@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418129"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771203"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Label retensi yang baru dibuat secara otomatis
 
-Anda mungkin melihat [tiga label retensi yang baru](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) dibuat secara otomatis di organisasi di bawah **label retensi** di pusat admin keamanan atau kepatuhan. Nama label yang:
+Anda mungkin melihat [tiga label retensi yang baru](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) dibuat secara otomatis di organisasi di bawah **label retensi** di pusat admin keamanan atau kepatuhan. Nama label yang:
 
 - Prosedur operasional
 - Bisnis Umum
@@ -30,4 +30,4 @@ Hal ini akan terjadi pertama kali Anda memilih **File rencana** jika tidak ada l
 
 1. Pilih label retensi yang ingin menghapus > **menghapus label** > **ya** untuk menghapus label.
 
-Dengan rencana File Manager, Anda dapat mengelola penyimpanan label dan kebijakan di organisasi Anda - untuk informasi lebih lanjut, lihat [Ikhtisar rencana File Manager](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Dengan rencana File Manager, Anda dapat mengelola penyimpanan label dan kebijakan di organisasi Anda - untuk informasi lebih lanjut, lihat [Ikhtisar rencana File Manager](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

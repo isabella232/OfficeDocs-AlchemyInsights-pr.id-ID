@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408722"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769546"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-menerapkan kepekaan label
 
@@ -25,7 +25,7 @@ Secara otomatis menerapkan kepekaan label menghilangkan kebutuhan untuk melatih 
 Untuk menerapkan label secara otomatis, berikut diperlukan:
 
 - Azure P2 perlindungan informasi berlangganan
-- [Men-download dan menginstal klien pelabelan bersatu perlindungan informasi Azure](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Men-download dan menginstal klien pelabelan bersatu perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Kami sedang bekerja pada dukungan asli yang tidak membutuhkan perlindungan informasi Azure bersatu pelabelan klien di masa depan.
 
@@ -33,5 +33,5 @@ Saat ini, hanya Windows mendukung klien pelabelan bersatu.  Fitur ini tidak lagi
 
 Untuk informasi lebih lanjut tentang sensitivitas label dan menerapkannya secara otomatis ke konten, lihat:
 
-- [Ikhtisar sensitivitas label](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Berlaku label sensitivitas ke konten secara otomatis](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Ikhtisar sensitivitas label](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Berlaku label sensitivitas ke konten secara otomatis](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

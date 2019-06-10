@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412489"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769898"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Beralih rencana untuk meningkatkan ukuran kotak pesan
 
@@ -34,4 +34,4 @@ Jika ukuran kotak pesan adalah 50 GB, Anda dapat meningkatkan itu untuk 100 GB d
     
 Untuk keterangan lebih lanjut, lihat [beralih ke Office 365 rencana yang berbeda](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Jika Anda memiliki [rencana O365 yang mendukung arsip di-tempat](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), Anda juga bisa mendapatkan email tambahan penyimpanan dengan mengaktifkan kotak pesan arsip.  Kotak pesan arsip memberi Anda penyimpanan tambahan dan memungkinkan Anda untuk bergerak, copy dan mencari pesan di primer dan kotak pesan arsip. Untuk langkah-langkah tentang cara mengaktifkan kotak pesan arsip, lihat [mengaktifkan kotak pesan arsip](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Jika Anda memiliki [rencana O365 yang mendukung arsip di-tempat](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), Anda juga bisa mendapatkan email tambahan penyimpanan dengan mengaktifkan kotak pesan arsip.  Kotak pesan arsip memberi Anda penyimpanan tambahan dan memungkinkan Anda untuk bergerak, copy dan mencari pesan di primer dan kotak pesan arsip. Untuk langkah-langkah tentang cara mengaktifkan kotak pesan arsip, lihat [mengaktifkan kotak pesan arsip](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

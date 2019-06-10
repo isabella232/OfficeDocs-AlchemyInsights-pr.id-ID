@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420849"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771417"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Saya ingin mendaftar untuk tim gratis, tapi aku tidak bisa.
 
-- Jika Anda menggunakan Office 365 kerja atau sekolah akun, menawarkan gratis ini tidak tersedia. Organisasi Anda, meskipun, mungkin sudah menggunakan tim. Jika tidak, pergi ke [Microsoft tim](https://products.office.com/en-us/microsoft-teams/group-chat-software) untuk melihat apakah hal itu layak untuk percobaan gratis.
+- Jika Anda menggunakan Office 365 kerja atau sekolah akun, menawarkan gratis ini tidak tersedia. Organisasi Anda, meskipun, mungkin sudah menggunakan tim. Jika tidak, pergi ke [Microsoft tim](https://products.office.com/microsoft-teams/group-chat-software) untuk melihat apakah hal itu layak untuk percobaan gratis.
 
 - Lembaga akademis tidak berhak untuk tawaran ini gratis. Guru dan siswa, meskipun, bisa mendapatkan versi gratis Office 365, yang mencakup sebuah versi lengkap dari Microsoft Teams. Lihat [lisensi Office 365 untuk Microsoft tim](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
