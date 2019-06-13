@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389890"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883594"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Akses ditolak saat melihat alur kerja
 
@@ -21,12 +21,11 @@ Workflow 2013 SharePoint yang mencoba untuk mengirim email ke grup SharePoint da
   
  **Untuk mengatasi masalah ini, lakukan langkah-langkah berikut:**
   
- 1. Memungkinkan semua orang untuk melihat anggota grup SharePoint. 
+ 1. Memungkinkan semua orang untuk melihat anggota grup SharePoint.
   
- 2. Menghapus Grup SharePoint dari kepada atau CC baris email. 
+ 2. Menghapus Grup SharePoint dari kepada atau CC baris email.
   
- 3. Secara eksplisit menambahkan pengguna ke kepada atau CC baris jika visibilitas keanggotaan tidak dapat diubah untuk grup SharePoint. 
+ 3. Secara eksplisit menambahkan pengguna ke kepada atau CC baris jika visibilitas keanggotaan tidak dapat diubah untuk grup SharePoint.
   
-Untuk melihat rincian lebih lanjut silakan lihat [HTTP tidak sah untuk /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Untuk melihat rincian lebih lanjut silakan lihat [HTTP tidak sah untuk /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
