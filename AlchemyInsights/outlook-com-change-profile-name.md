@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859219"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062100"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="ec91c-102">Mengubah nama profil Anda di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ec91c-102">Change your profile name in Outlook.com</span></span>
+# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="95f04-102">Mengubah nama profil Anda di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="95f04-102">Change your profile name in Outlook.com</span></span>
 
-1. <span data-ttu-id="ec91c-103">Pergi ke [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="ec91c-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="ec91c-104">Pilih **Edit nama**.</span><span class="sxs-lookup"><span data-stu-id="ec91c-104">Select **Edit name**.</span></span>
-3. <span data-ttu-id="ec91c-105">Masukkan nama pertama dan nama terakhir, dan pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="ec91c-105">Enter a first name and last name, and select **Save**.</span></span>
+1. <span data-ttu-id="95f04-103">Pergi ke [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="95f04-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="95f04-104">Pilih **Edit nama**.</span><span class="sxs-lookup"><span data-stu-id="95f04-104">Select **Edit name**.</span></span>
+3. <span data-ttu-id="95f04-105">Masukkan nama pertama dan nama terakhir, dan pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="95f04-105">Enter a first name and last name, and select **Save**.</span></span>
 
-<span data-ttu-id="ec91c-106">Silakan tunggu hingga 24 jam untuk perubahan nama profil Anda untuk masuk ke efek.</span><span class="sxs-lookup"><span data-stu-id="ec91c-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="95f04-106">Silakan tunggu hingga 24 jam untuk perubahan nama profil Anda untuk masuk ke efek.</span><span class="sxs-lookup"><span data-stu-id="95f04-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>

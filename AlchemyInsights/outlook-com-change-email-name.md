@@ -13,26 +13,26 @@ ms.custom:
 - "8000036"
 - "838"
 ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859254"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062065"
 ---
-# <a name="change-your-email-name"></a><span data-ttu-id="efe06-102">Mengubah nama email Anda</span><span class="sxs-lookup"><span data-stu-id="efe06-102">Change your email name</span></span>
+# <a name="change-your-email-name"></a><span data-ttu-id="21af6-102">Mengubah nama email Anda</span><span class="sxs-lookup"><span data-stu-id="21af6-102">Change your email name</span></span>
 
-<span data-ttu-id="efe06-103">Jika Anda memiliki satu alamat email dan ingin mengubah nama penerima akan melihat dalam pesan Anda:</span><span class="sxs-lookup"><span data-stu-id="efe06-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
+<span data-ttu-id="21af6-103">Jika Anda memiliki satu alamat email dan ingin mengubah nama penerima akan melihat dalam pesan Anda:</span><span class="sxs-lookup"><span data-stu-id="21af6-103">If you have one email address and want to change the name recipients will see in your messages:</span></span>
   
-1. <span data-ttu-id="efe06-104">Pilih gambar akun Anda di sudut kanan atas halaman.</span><span class="sxs-lookup"><span data-stu-id="efe06-104">Select your account picture at the top right corner of the page.</span></span>
-2. <span data-ttu-id="efe06-105">Pilih **profil saya**.</span><span class="sxs-lookup"><span data-stu-id="efe06-105">Select **My profile**.</span></span>
-3. <span data-ttu-id="efe06-106">Pilih **Edit nama** untuk membuat perubahan dan pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="efe06-106">Select **Edit name** to make changes and select **Save**.</span></span>
+1. <span data-ttu-id="21af6-104">Pilih gambar akun Anda di sudut kanan atas halaman.</span><span class="sxs-lookup"><span data-stu-id="21af6-104">Select your account picture at the top right corner of the page.</span></span>
+2. <span data-ttu-id="21af6-105">Pilih **profil saya**.</span><span class="sxs-lookup"><span data-stu-id="21af6-105">Select **My profile**.</span></span>
+3. <span data-ttu-id="21af6-106">Pilih **Edit nama** untuk membuat perubahan dan pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="21af6-106">Select **Edit name** to make changes and select **Save**.</span></span>
 
-<span data-ttu-id="efe06-107">Silakan tunggu hingga 24 jam untuk perubahan nama profil Anda untuk masuk ke efek.</span><span class="sxs-lookup"><span data-stu-id="efe06-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="21af6-107">Silakan tunggu hingga 24 jam untuk perubahan nama profil Anda untuk masuk ke efek.</span><span class="sxs-lookup"><span data-stu-id="21af6-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
   
-<span data-ttu-id="efe06-108">Jika Anda memiliki lebih dari satu email alias atau alamat yang terhubung ke Outlook.com account, Anda dapat memilih untuk mengirim email dari salah satu alamat Anda.</span><span class="sxs-lookup"><span data-stu-id="efe06-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
+<span data-ttu-id="21af6-108">Jika Anda memiliki lebih dari satu email alias atau alamat yang terhubung ke Outlook.com account, Anda dapat memilih untuk mengirim email dari salah satu alamat Anda.</span><span class="sxs-lookup"><span data-stu-id="21af6-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
   
-1. <span data-ttu-id="efe06-109">Bila membuat pesan, pilih "..." di bagian bawah jendela penulisan.</span><span class="sxs-lookup"><span data-stu-id="efe06-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
-1. <span data-ttu-id="efe06-110">Pilih **Tampilkan dari** melihat baris dari.</span><span class="sxs-lookup"><span data-stu-id="efe06-110">Select **Show From** to see the From line.</span></span>
-1. <span data-ttu-id="efe06-111">Di atas baris kepada, pilih **dari** dan memilih alamat email yang ingin Anda gunakan.</span><span class="sxs-lookup"><span data-stu-id="efe06-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="21af6-109">Bila membuat pesan, pilih "..." di bagian bawah jendela penulisan.</span><span class="sxs-lookup"><span data-stu-id="21af6-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
+1. <span data-ttu-id="21af6-110">Pilih **Tampilkan dari** melihat baris dari.</span><span class="sxs-lookup"><span data-stu-id="21af6-110">Select **Show From** to see the From line.</span></span>
+1. <span data-ttu-id="21af6-111">Di atas baris kepada, pilih **dari** dan memilih alamat email yang ingin Anda gunakan.</span><span class="sxs-lookup"><span data-stu-id="21af6-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="efe06-112">Untuk selengkapnya, lihat [mengirim email dari alamat yang berbeda di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="efe06-112">For more information, see [Send email from a different address in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span></span>
+<span data-ttu-id="21af6-112">Untuk selengkapnya, lihat [mengirim email dari alamat yang berbeda di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="21af6-112">For more information, see [Send email from a different address in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).</span></span>
