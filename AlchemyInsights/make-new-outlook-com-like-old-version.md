@@ -1,35 +1,33 @@
 ---
-title: 8000035 bagaimana membuat tampilan Outlook.com baru seperti yang lama
+title: Cara membuat tampilan Outlook.com baru seperti yang lama
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000035
-ms.openlocfilehash: 19e6f6f2ece7c24c795a6653e37c579b3b3c50cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000035"
+- "794"
+ms.openlocfilehash: 15d292d4d4f348ef60512dc46a0c66c494a3a74d
+ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409405"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35117616"
 ---
 # <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cara membuat tampilan Outlook.com baru seperti versi lama
 
-Berikut adalah beberapa pengaturan dan pandangan Anda dapat mengubah untuk membuat tampilan Outlook.com baru seperti versi lama.
+Berikut adalah beberapa pengaturan Anda dapat mengubah untuk membuat tampilan Outlook.com baru seperti versi lama:
 
-1. Pilih ikon roda gigi di bagian atas halaman untuk membuka pengaturan.
-2. Pilih pilihan **tema**.
-3. Mengubah **tampilan percakapan** pesan **terbaru di atas**.
-4. Mengubah **panel baca** untuk **menyembunyikan**.
-5. Beralih **Focused masuk** ke **Off**.
-6. Beralih **gambar pengirim** ke **Off**. 
-7. Beralih **grup pesan menurut tanggal** ke **Off**. 
-8. Beralih **Tinjauan lampiran** ke **Off**. 
-9. Beralih **teks pratinjau pesan** **on**.
+1. Pergi ke [pengaturan tata letak](https://outlook.live.com/mail/options/mail/layout).
+1. **Focused inbox**, pilih **jangan Mengurutkan pesan saya**.
+1. **Organisasi pesan**, pilih **pesan terbaru di atas**.
+1. **Gambar pengirim**, pilih **jangan Tampilkan gambar pengirim**.
+1. **Panel baca**, pilih **menyembunyikan Panel Baca**.
+1. **Teks pratinjau pesan**, pilih **teks Pratinjau Tampilkan**.
+1. **Inline preview**, pilih **jangan Tampilkan lampiran dalam daftar pesan**.
 
-Catatan: Ini hanya beberapa pengaturan yang dapat memberikan tata letak mungkin terdekat versi klasik dari Outlook.com yang direkomendasikan. Itu masih akan tergantung pada setting yang Anda kehendaki.
-
-Untuk mengubah setelan email inbox Anda tampak dan berperilaku seperti yang Anda inginkan untuk, melihat [personalisasi pengalaman E-mail baru Anda di Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c).
+Untuk mengubah pengaturan E-mail Anda jadi inbox Anda tampak dan berperilaku seperti yang Anda inginkan, lihat [mengubah tampilan kotak pesan di Outlook.com dan pandangan baru di web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
