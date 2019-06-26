@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760747"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223859"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Mengaktifkan berbagi eksternal dalam SharePoint Online
 
@@ -21,22 +21,22 @@ Jika organisasi Anda melakukan pekerjaan yang melibatkan berbagi dokumen atau be
 
 Untuk informasi lebih lanjut tentang berbagi eksternal silahkan kunjungi link di bawah ini.
 
-[Apakah pengguna eksternal?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Apakah pengguna eksternal?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Apa yang terjadi saat saya berbagi situs atau dokumen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Apa yang terjadi saat saya berbagi situs atau dokumen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[Mengubah eksternal berbagi on atau off untuk SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [Mengubah eksternal berbagi on atau off untuk SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Mengubah eksternal berbagi on atau off untuk situs](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Mengubah eksternal berbagi on atau off untuk situs](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[Menggunakan Sharepoint Online sebagai solusi extranet bisnis-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Menggunakan Sharepoint Online sebagai solusi extranet bisnis-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Share SharePoint file atau folder](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Share SharePoint file atau folder](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Berhenti berbagi OneDrive atau SharePoint file atau folder, atau mengubah hak akses](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Berhenti berbagi OneDrive atau SharePoint file atau folder, atau mengubah hak akses](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Menghapus pengguna eksternal](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Menghapus pengguna eksternal](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 Menerima pesan kesalahan dengan pengguna eksternal? &nbsp;Periksa link di bawah ini.
 

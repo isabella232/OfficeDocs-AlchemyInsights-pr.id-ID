@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119762"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222743"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Mengikuti atau mengikuti mengikuti situs SharePoint
 
@@ -23,4 +23,4 @@ Watch the video untuk [mengikuti situs SharePoint](https://support.office.com/en
 
 Jika Anda tidak dapat mengikuti atau mengikuti mengikuti situs dan merasakan hasilnya tidak apa yang diharapkan, lihat jika masalah berhubungan dengan pengguna tunggal atau semua pengguna dalam organisasi Anda. Jika masalah yang dihadapi oleh semua pengguna, mungkin ada masalah sementara layanan. 
 
-Periksa [Layanan kesehatan Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)untuk melihat jika organisasi Anda dipengaruhi.
+Periksa [Layanan kesehatan Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat jika organisasi Anda dipengaruhi.
