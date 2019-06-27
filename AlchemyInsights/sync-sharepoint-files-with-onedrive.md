@@ -1,5 +1,5 @@
 ---
-title: Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru
+title: Memecahkan masalah “Buka dengan Explorer” di SharePoint Online
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 74b79efeb7e46d03dc55f46252d152cd13e66c84
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: fcaca189741bd68878b1dcfab879e6e0f64e6794
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757819"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223643"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru
+# <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Memecahkan masalah “Buka dengan Explorer” di SharePoint Online
 
-Perintah Buka dengan Explorer membuka instans lokal Windows Explorer yang menampilkan struktur folder di server yang menghosting situs SharePoint. Meski demikian, kami sarankan untuk [ menyinkronkan file dengan klien sinkronisasi OneDrive baru](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> yang menyediakan [File Berdasarkan Permintaan](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) karena tindakan ini memberi akses lokal ke file Anda dan menawarkan kinerja terbaik.
+Perintah Buka dengan Explorer akan membuka instans Windows Explorer lokal yang menampilkan struktur folder di server yang menghosting situs SharePoint. Meski demikian, kami sarankan untuk [ menyinkronkan file dengan klien sinkronisasi OneDrive baru](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> yang menyediakan [File Berdasarkan Permintaan](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) karena tindakan ini memberi akses lokal ke file Anda dan menawarkan kinerja terbaik.
 
 
 Jika Anda memilih untuk menggunakan tampilan Explorer, bukan menggunakan klien sinkronisasi baru, pastikan Anda mengikuti langkah-langkah dan praktik terbaik dalam artikel di bawah ini.
