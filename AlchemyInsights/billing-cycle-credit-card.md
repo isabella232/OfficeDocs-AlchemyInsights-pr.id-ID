@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "485"
+- "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: 11760e2f34bb6c9766b8f35be18ec9857e7c0ad9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7627299a85e07148bddbbf8183a306d612de67c7
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396645"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359624"
 ---
 # <a name="billing-cycle-credit-card"></a>Siklus penagihan kartu kredit
 
@@ -26,4 +28,3 @@ Jika Anda memilih untuk menggunakan kartu kredit sebagai metode pembayaran Anda,
   
 Ini termasuk menyelesaikan masalah ketika kartu kredit Anda ditolak dan mengubah informasi kartu kredit sehingga kartu ini diterima.
   
-

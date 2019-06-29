@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769444"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359352"
 ---
 # <a name="access-services-retirement"></a>Akses layanan pensiun
 
@@ -24,7 +27,7 @@ Mulai Juni 2019, kami akan berhenti penciptaan baru akses database dalam SharePo
 
 **Apa yang harus saya lakukan untuk mempersiapkan untuk perubahan ini?**
 
-Kami mendorong Anda untuk membuat rencana transisi untuk organisasi Anda akses web database. Admin dapat menggunakan [scanner aplikasi SharePoint akses](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) untuk memperoleh inventarisasi akses aplikasi yang menggunakan situs. 
+Kami mendorong Anda untuk membuat rencana transisi untuk organisasi Anda akses web database. Admin dapat menggunakan [scanner aplikasi SharePoint akses](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) untuk memperoleh inventarisasi akses aplikasi yang menggunakan situs.
 
 Ada beberapa cara untuk memigrasi data database Access web:
 

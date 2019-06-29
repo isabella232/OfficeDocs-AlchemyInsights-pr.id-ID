@@ -1,26 +1,34 @@
 ---
-title: Outlook.com berhenti pesan dari akan sampah folder
+title: Berhenti pesan dari pergi ke folder Junk Email di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 5/16/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a45058474722af57b772cf6637195aa475faa045
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1897"
+- "9000290"
+ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373247"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371796"
 ---
-# <a name="stop-messages-going-to-your-junk-email-folder"></a>Berhenti pesan akan folder Junk Email Anda
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Berhenti pesan dari pergi ke folder Junk Email Anda
 
-Jika Anda menemukan bahwa pesan email dalam folder Email sampah itu tidak spam atau junk:
+Jika Anda menemukan bahwa pesan email dalam folder Email sampah tidak sampah:
 
-1. Buka [folder Junk Email](https://outlook.live.com/mail/junkemail) Anda dan pilih pesan. (Item di folder Junk Email akan dihapus setelah 30 hari.)
+1. Buka [folder Junk Email](https://outlook.live.com/mail/junkemail)Anda.
+1. Pilih pesan. (*Catatan:* item di folder Junk Email akan dihapus setelah 30 hari.)
 1. Di atas daftar pesan, pilih **tidak sampah** > **bukan sampah**.
+
+Jika Anda ingin mencegah pesan dari pengirim dari pergi ke folder Junk Email, menambahkan pengirim ke daftar pengirim aman Anda:
+
 1. Membuka [pengaturan e-mail sampah](https://go.microsoft.com/fwlink/?linkid=2035804).
-1. Dalam **pengirim aman**, masukkan alamat email atau domain yang Anda ingin menambahkan, dan pilih **Tambah**. Email dari alamat atau domain pada daftar tidak mendapatkan dipindahkan ke folder Junk Email pengirim aman.
+1. Berdasarkan **pengirim aman dan domain**, pilih **Tambah**, masukkan alamat email atau domain yang Anda ingin menambahkan, dan pilih **Simpan**.
+
+Untuk mempelajari lebih lanjut, baca [menandai email sebagai sampah atau blok pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

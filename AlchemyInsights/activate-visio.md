@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883164"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358904"
 ---
 # <a name="activate-visio"></a>Aktifkan Visio
 
@@ -27,8 +27,8 @@ Sebelum pengguna dapat menginstal dan mengaktifkan desktop aplikasi desktop Visi
 
 Untuk mengaktifkan Visio:
 
-1. [Visio Instal](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) jika sudah terinstal.
-2. Ketika instalasi selesai, buka Visio. Dalam banyak kasus app mengaktifkan secara otomatis dan Anda dapat memulai menggunakan Visio segera. Jika diminta untuk masuk, pastikan masuk dengan kerja sama atau account sekolah yang ditugaskan lisensi Visio. 
+1. Instal Visio dari [My portal akun](https://portal.office.com/account#installs) Anda jika sudah terinstal. Untuk bantuan, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Ketika instalasi selesai, membuka aplikasi Visio. Visio mungkin akan diaktifkan secara otomatis dan Anda dapat mulai menggunakan segera. Jika tidak, Anda mungkin diminta untuk sign in. Pastikan untuk sign in dengan kerja sama atau account sekolah yang ditugaskan lisensi Visio. Ikuti petunjuk untuk melanjutkan dengan aktivasi. 
 
 Untuk masalah aktivasi, menjalankan the [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy) pada komputer yang terkena.
 
