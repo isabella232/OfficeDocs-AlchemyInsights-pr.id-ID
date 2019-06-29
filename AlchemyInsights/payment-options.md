@@ -9,13 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "1639"
+- "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a3534000b8b8f3d8c2a2cd9b5b3cf1eb278d3c85
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372635"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360776"
 ---
 # <a name="payment-options"></a>Opsi pembayaran
 
@@ -27,7 +30,7 @@ Kartu kredit, Rekening Bank (debit langsung), dan faktur (bayar dengan cek atau 
   
 Ketika membayar menggunakan kartu kredit atau rekening bank, Anda akan secara otomatis dikenakan tagihan untuk langganan satu hari setelah tanggal faktur, hingga akhir masa langganan. Anda dapat [memperbarui informasi kartu kredit atau rekening bank](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) kapan saja ketika diperlukan. Anda juga dapat memilih untuk [Menerima salinan laporan tagihan dalam email](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Jika kartu kredit Anda ditolak atau memiliki saldo yang jatuh tempo, Anda dapat memilih opsi **Bayar sekarang** pada halaman **Tagihan** \> [Langganan](https://portal.office.com/adminportal/home#/subscriptions). 
+Jika kartu kredit Anda ditolak atau memiliki saldo yang jatuh tempo, Anda dapat memilih opsi **Bayar sekarang** pada halaman **Tagihan** \> [Langganan](https://portal.office.com/adminportal/home#/subscriptions).
   
  **Bayar dengan Faktur (cek atau transfer dana elektronik)**
   
@@ -43,4 +46,3 @@ Jika Anda ingin mengubah cara Anda membayar untuk langganan saat ini, ikuti inst
   
 [Membayar langganan Office 365 untuk bisnis Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
-

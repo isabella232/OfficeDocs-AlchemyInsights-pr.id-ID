@@ -1,26 +1,28 @@
 ---
 title: DLP tidak bekerja seperti yang diharapkan
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1241"
+- "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 6d8e3e540494e99e42f04080681f46324f2936bd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404696"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389616"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP tidak bekerja seperti yang diharapkan
 
-
-Apakah Anda memiliki masalah dengan **Data Rugi Pencegahan (DLP)** di Office 365 tidak bekerja seperti yang diharapkan? Jika demikian, pastikan bahwa Anda **DLP kebijakan** diatur dengan benar, dan bahwa data Anda berisi apa **kebijakan DLP** adalah mencari ketika itu sedang dievaluasi. 
+Apakah Anda memiliki masalah dengan **Data Rugi Pencegahan (DLP)** di Office 365 tidak bekerja seperti yang diharapkan? Jika demikian, pastikan bahwa Anda **DLP kebijakan** diatur dengan benar, dan bahwa data Anda berisi apa **kebijakan DLP** adalah mencari ketika itu sedang dievaluasi.
   
  **Menyiapkan DLP:**
   
@@ -28,20 +30,18 @@ DLP kebijakan memungkinkan Anda untuk mengidentifikasi dan melindungi informasi 
   
  **Apa kebijakan DLP mencari:**
   
-Ketika menggunakan **jenis built-in informasi sensitif** di pusat kantor 365 keamanan dan kepatuhan, DLP kebijakan mencari pola-pola tertentu dan unsur-unsur ketika mendeteksi jenis sensitif. 
+Ketika menggunakan **jenis built-in informasi sensitif** di pusat kantor 365 keamanan dan kepatuhan, DLP kebijakan mencari pola-pola tertentu dan unsur-unsur ketika mendeteksi jenis sensitif.
   
 - **Jenis informasi sensitif built-in:**
-    
+
     Untuk informasi tentang built-in tipe sensitif dan apa kebijakan DLP terlihat ketika mendeteksi jenis sensitif, lihat: [apa jenis informasi sensitif yang mencari](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
-    
+
 - **Jenis informasi sensitif kustom:**
-    
+
     Jika Anda mencoba untuk menciptakan jenis informasi sensitif kustom, menggunakan artikel berikut untuk informasi tentang cara membuat custom jenis sensitif: [membuat sejenis kustom informasi sensitif](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
-    
+
  **Laporan:**
   
 - Mendapatkan data sensitif wawasan dengan [laporan DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
-    
-- Lihat rincian spesifik dari acara dengan [Insiden Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
-    
 
+- Lihat rincian spesifik dari acara dengan [Insiden Report](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

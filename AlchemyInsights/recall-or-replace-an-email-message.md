@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770812"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356600"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Ingat atau mengganti pesan email
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770812"
 - Jika Anda seorang admin, Anda dapat **mengingat pesan atas nama pengguna dengan menggunakan PowerShell**. Anda tidak bisa mengingat pesan dari di admin center. Gulir ke bawah untuk "Mencari dan menghapus pesan email di organisasi Anda" untuk informasi lebih lanjut.
 
 ***Ingat atau mengganti pesan email yang dikirim***
+
 1. Di panel map di sebelah kiri jendela Outlook, pilih folder Item Terkirim.
 2. Buka pesan yang ingin Anda ingat. Anda harus mengklik ganda untuk membuka pesan. Memilih pesan sehingga muncul di panel baca tidak akan mengizinkan Anda untuk mengingat pesan.
 3. Dari tab Pesan, pilih **tindakan** > **Ingat pesan ini**.
 4. Memilih **menghapus belum dibaca salinan pesan ini** atau **menghapus salinan yang belum dibaca dan menggantinya dengan pesan baru**, lalu pilih **OK**.
 5. Jika Anda mengirim pesan penggantian, menulis pesan, lalu pilih **kirim**.
-6. Keberhasilan atau kegagalan mengingat pesan tergantung pada pengaturan penerima di Outlook. 
+6. Keberhasilan atau kegagalan mengingat pesan tergantung pada pengaturan penerima di Outlook.
 
 Untuk informasi lebih lanjut, termasuk bagaimana untuk memeriksa ingat, lihat [ingat atau mengganti pesan email yang dikirim](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 

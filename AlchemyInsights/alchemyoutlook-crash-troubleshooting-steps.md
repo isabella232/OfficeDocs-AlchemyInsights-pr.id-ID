@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883130"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357572"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook crash langkah pemecahan masalah
 
@@ -25,10 +27,9 @@ Jika Anda mengalami masalah Outlook desktop crash, mulai dengan mengikuti 3 lang
   
 Langkah 1: Menyelidiki kemungkinan masalah dengan add-in.
   
-Langkah 2: Perbaikan Outlook dan jalankan [dukungan dan asisten pemulihan alat untuk memecahkan masalah galat startup Outlook](https://aka.ms/SaRA-OutlookWontStart) pada mesin terkena. 
+Langkah 2: Perbaikan Outlook dan jalankan [dukungan dan asisten pemulihan alat untuk memecahkan masalah galat startup Outlook](https://aka.ms/SaRA-OutlookWontStart) pada mesin terkena.
   
-Step 3: Membuat profil Outlook baru atau Anda dapat menjalankan [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin terkena. 
+Step 3: Membuat profil Outlook baru atau Anda dapat menjalankan [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin terkena.
   
 Jika terjadi masalah setelah update dan langkah di atas tidak bekerja, Anda mungkin perlu untuk kembali ke sebelumnya membangun. Melihat [bagaimana untuk kembali ke versi sebelumnya kantor 2013 atau kantor 2016 klik menjalankan](https://support.microsoft.com/help/2770432).
   
-
