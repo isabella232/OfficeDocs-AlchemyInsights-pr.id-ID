@@ -8,27 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 1800019
+ms.custom:
+- "910"
+- "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 46a69512b6d6495b3e211b6d1c7665638002d7b6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a34a94b53d878413a4ce8c04e9a40188f9a0acc5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401151"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387348"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="31516-102">Fokus kotak masuk untuk Outlook mobile</span><span class="sxs-lookup"><span data-stu-id="31516-102">Focused Inbox for Outlook mobile</span></span>
+# <a name="focused-inbox-for-outlook-mobile"></a><span data-ttu-id="6ebb2-102">Fokus kotak masuk untuk Outlook mobile</span><span class="sxs-lookup"><span data-stu-id="6ebb2-102">Focused Inbox for Outlook mobile</span></span>
 
-[<span data-ttu-id="31516-103">Apa itu terfokus kotak masuk?</span><span class="sxs-lookup"><span data-stu-id="31516-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[<span data-ttu-id="6ebb2-103">Apa itu terfokus kotak masuk?</span><span class="sxs-lookup"><span data-stu-id="6ebb2-103">What is Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[<span data-ttu-id="31516-104">Bagaimana cara mengedit aturan-aturan yang memindahkan email saya masuk dan keluar dari Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="31516-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[<span data-ttu-id="6ebb2-104">Bagaimana cara mengedit aturan-aturan yang memindahkan email saya masuk dan keluar dari Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="6ebb2-104">How do I edit the rules that move my email in and out of Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[<span data-ttu-id="31516-105">Bagaimana menonaktifkan terfokus kotak masuk atau mengubah Apakah saya menghitung lencana dan pemberitahuan sync ke Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="31516-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[<span data-ttu-id="6ebb2-105">Bagaimana menonaktifkan terfokus kotak masuk atau mengubah Apakah saya menghitung lencana dan pemberitahuan sync ke Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="6ebb2-105">How do I turn off Focused Inbox or change whether my badge count and notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[<span data-ttu-id="31516-106">Bagaimana menonaktifkan terfokus kotak masuk atau mengubah Apakah pemberitahuan sync ke Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="31516-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[<span data-ttu-id="6ebb2-106">Bagaimana menonaktifkan terfokus kotak masuk atau mengubah Apakah pemberitahuan sync ke Inbox terfokus?</span><span class="sxs-lookup"><span data-stu-id="6ebb2-106">How do I turn off Focused Inbox or change whether notifications sync to Focused Inbox?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[<span data-ttu-id="31516-107">Bagaimana beralih antara terfokus dan lain?</span><span class="sxs-lookup"><span data-stu-id="31516-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[<span data-ttu-id="6ebb2-107">Bagaimana beralih antara terfokus dan lain?</span><span class="sxs-lookup"><span data-stu-id="6ebb2-107">How do I toggle between Focused and Other?</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-<span data-ttu-id="31516-108">Pelajari lebih lanjut: [Dapatkan bantuan di-app untuk Outlook untuk iOS dan Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="31516-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
+<span data-ttu-id="6ebb2-108">Pelajari lebih lanjut: [Dapatkan bantuan di-app untuk Outlook untuk iOS dan Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="6ebb2-108">Learn more: [Get in-app help for Outlook for iOS and Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)</span></span>
   
-
