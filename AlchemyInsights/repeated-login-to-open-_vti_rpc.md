@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "245"
+- "280"
+- "2200009"
 ms.assetid: 1fb88cca-5dd4-4167-8783-13646082cfa0
-ms.openlocfilehash: 7ec0bb975ac5600e3d79588b09a93a36a92b8e75
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 10cb6d9a791c20a2c87b80cc373b04b0514543e4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371481"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356312"
 ---
-# <a name="repeated-login-to-open-vtirpc"></a><span data-ttu-id="c8c46-102">Berulang kali login untuk membuka _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="c8c46-102">Repeated login to open _vti_rpc</span></span>
+# <a name="repeated-login-to-open-vtirpc"></a><span data-ttu-id="afa01-102">Berulang kali login untuk membuka _vti_rpc</span><span class="sxs-lookup"><span data-stu-id="afa01-102">Repeated login to open _vti_rpc</span></span>
 
-<span data-ttu-id="c8c46-103">Ketika bekerja pada file OneDrive yang menggunakan kantor 2016, Anda mungkin melihat pesan: "Katakan akun yang ingin Anda gunakan untuk membuka _vti_rpc."</span><span class="sxs-lookup"><span data-stu-id="c8c46-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="c8c46-104">Masalah ini telah diperbaiki di versi 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="c8c46-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="c8c46-105">Untuk memperbaiki ini, update ke versi terbaru dari Office.</span><span class="sxs-lookup"><span data-stu-id="c8c46-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="c8c46-106">Pilih **File** \> **Account** \> **Mutakhirkan opsi** \> **Perbarui sekarang**.</span><span class="sxs-lookup"><span data-stu-id="c8c46-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="afa01-103">Ketika bekerja pada file OneDrive yang menggunakan kantor 2016, Anda mungkin melihat pesan: "Katakan akun yang ingin Anda gunakan untuk membuka _vti_rpc."</span><span class="sxs-lookup"><span data-stu-id="afa01-103">When working on OneDrive files using Office 2016, you may see the message: "Tell us the account you want to use to open _vti_rpc."</span></span> <span data-ttu-id="afa01-104">Masalah ini telah diperbaiki di versi 1708 (16.0.8431.2094).</span><span class="sxs-lookup"><span data-stu-id="afa01-104">This problem was fixed in version 1708 (16.0.8431.2094).</span></span> <span data-ttu-id="afa01-105">Untuk memperbaiki ini, update ke versi terbaru dari Office.</span><span class="sxs-lookup"><span data-stu-id="afa01-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="afa01-106">Pilih **File** \> **Account** \> **Mutakhirkan opsi** \> **Perbarui sekarang**.</span><span class="sxs-lookup"><span data-stu-id="afa01-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
-
