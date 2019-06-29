@@ -1,5 +1,5 @@
 ---
-title: Email forwarding laporan
+title: Laporan penerusan email
 ms.author: pebaum
 author: pebaum
 ms.date: 9/13/2018
@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Once
+ms.custom:
+- "1195"
+- "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0d685fa21f6d82e7a08f32bf0a8c1f6911e7782c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2d78103fcf05d23e3ba966b74bbedc411264eac3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29475221"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388824"
 ---
-# <a name="email-forwarding-report"></a><span data-ttu-id="fecfe-102">Email forwarding laporan</span><span class="sxs-lookup"><span data-stu-id="fecfe-102">Email forwarding report</span></span>
+# <a name="email-forwarding-report"></a><span data-ttu-id="ecf78-102">Laporan penerusan email</span><span class="sxs-lookup"><span data-stu-id="ecf78-102">Email forwarding report</span></span>
 
-<span data-ttu-id="fecfe-103">Untuk melihat laporan pada berapa banyak pesan penerusan otomatis ada di organisasi Anda, periksa [Mail aliran wawasan](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) dalam [keamanan 365 kantor &amp; Compliance Center](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="fecfe-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
+<span data-ttu-id="ecf78-103">Untuk melihat laporan tentang jumlah pesan yang diteruskan secara otomatis di organisasi Anda, lihat [Wawasan alur email](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) di [Pusat Kepatuhan &amp; Keamanan Office 365](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="ecf78-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) in the [Office 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
   
-<span data-ttu-id="fecfe-104">Harap dicatat: jika ini adalah pertama kali Anda login ke keamanan &amp; pusat kepatuhan, Anda mungkin perlu me-refresh browser setelah beberapa menit untuk melihat semua pilihan yang tersedia.</span><span class="sxs-lookup"><span data-stu-id="fecfe-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
+<span data-ttu-id="ecf78-104">Harap diperhatikan: jika ini adalah kali pertama Anda masuk ke Pusat Kepatuhan &amp; Keamanan, Anda mungkin perlu merefresh browser setelah beberapa menit untuk melihat semua opsi yang tersedia.</span><span class="sxs-lookup"><span data-stu-id="ecf78-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
   
-
