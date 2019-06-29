@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "488"
+- "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 17c8cb304a8f2009279cf9646d8e0026f1f967e8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32390310"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366752"
 ---
-# <a name="trying-to-find-a-trial"></a><span data-ttu-id="d1b27-102">Mencoba untuk menemukan sidang?</span><span class="sxs-lookup"><span data-stu-id="d1b27-102">Trying to find a trial?</span></span>
+# <a name="trying-to-find-a-trial"></a><span data-ttu-id="08909-102">Mencoba untuk menemukan sidang?</span><span class="sxs-lookup"><span data-stu-id="08909-102">Trying to find a trial?</span></span>
 
-<span data-ttu-id="d1b27-103">Jika Anda ingin mencoba layanan baru Anda dapat menemukan daftar langganan tersedia untuk percobaan di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="d1b27-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="08909-103">Jika Anda ingin mencoba layanan baru Anda dapat menemukan daftar langganan tersedia untuk percobaan di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="08909-103">If you would like to try a new service you can find a list of subscriptions available for trial in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="d1b27-104">Pergi ke halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) , atau memilih **penagihan** \> **Layanan pembelian**.</span><span class="sxs-lookup"><span data-stu-id="d1b27-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
-    
-2. <span data-ttu-id="d1b27-105">Menemukan berlangganan yang memenuhi kebutuhan Anda, mouse, dan memilih **mulai percobaan gratis**.</span><span class="sxs-lookup"><span data-stu-id="d1b27-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
-    
+1. <span data-ttu-id="08909-104">Pergi ke halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) , atau memilih **penagihan** \> **Layanan pembelian**.</span><span class="sxs-lookup"><span data-stu-id="08909-104">Go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase services**.</span></span>
+
+2. <span data-ttu-id="08909-105">Menemukan berlangganan yang memenuhi kebutuhan Anda, mouse, dan memilih **mulai percobaan gratis**.</span><span class="sxs-lookup"><span data-stu-id="08909-105">Find the subscription that meets your needs, mouse over it, and choose **Start free trial**.</span></span>
+
     > [!NOTE]
-    > <span data-ttu-id="d1b27-106">Tidak semua langganan tersedia sebagai percobaan.</span><span class="sxs-lookup"><span data-stu-id="d1b27-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="d1b27-107">Jika Anda tidak melihat tombol **mulai percobaan gratis** bila Anda mouse berlangganan, itu berarti sidang ini tidak tersedia.</span><span class="sxs-lookup"><span data-stu-id="d1b27-107">If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span> 
+    > <span data-ttu-id="08909-106">Tidak semua langganan tersedia sebagai percobaan.</span><span class="sxs-lookup"><span data-stu-id="08909-106">Not all subscriptions are available as a trial.</span></span> <span data-ttu-id="08909-107">Jika Anda tidak melihat tombol **mulai percobaan gratis** bila Anda mouse berlangganan, itu berarti sidang ini tidak tersedia.</span><span class="sxs-lookup"><span data-stu-id="08909-107">If you don't see the **Start free trial** button when you mouse over a subscription, that means a trial is not available.</span></span>
   
-3. <span data-ttu-id="d1b27-108">Anda mungkin diminta untuk memasukkan kartu kredit atau metode pembayaran lainnya untuk memberikan tambahan verifikasi sebagai ukuran keamanan.</span><span class="sxs-lookup"><span data-stu-id="d1b27-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="d1b27-109">Anda tidak akan dikenakan biaya untuk percobaan gratis ini.</span><span class="sxs-lookup"><span data-stu-id="d1b27-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="d1b27-110">Kami akan menyimpan informasi pembayaran pada file, dan tidak akan menggunakannya untuk pembelian tanpa persetujuan Anda.</span><span class="sxs-lookup"><span data-stu-id="d1b27-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
-    
-4. <span data-ttu-id="d1b27-111">Memilih **agar tempat**.</span><span class="sxs-lookup"><span data-stu-id="d1b27-111">Choose **Place order**.</span></span>
-    
+3. <span data-ttu-id="08909-108">Anda mungkin diminta untuk memasukkan kartu kredit atau metode pembayaran lainnya untuk memberikan tambahan verifikasi sebagai ukuran keamanan.</span><span class="sxs-lookup"><span data-stu-id="08909-108">You may be asked to enter a credit card or other payment method to provide additional verification as a security measure.</span></span> <span data-ttu-id="08909-109">Anda tidak akan dikenakan biaya untuk percobaan gratis ini.</span><span class="sxs-lookup"><span data-stu-id="08909-109">You won't be charged for this free trial.</span></span> <span data-ttu-id="08909-110">Kami akan menyimpan informasi pembayaran pada file, dan tidak akan menggunakannya untuk pembelian tanpa persetujuan Anda.</span><span class="sxs-lookup"><span data-stu-id="08909-110">We will keep your payment information on file, and won't use it for any purchase without your approval.</span></span>
 
+4. <span data-ttu-id="08909-111">Memilih **agar tempat**.</span><span class="sxs-lookup"><span data-stu-id="08909-111">Choose **Place order**.</span></span>

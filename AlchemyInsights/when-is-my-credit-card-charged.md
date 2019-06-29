@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "446"
+- "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: adad4b8d16185db033a5405b2b09dc8f72fb221b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 56415e03dedfa607e956a28e8781315aae567f7c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422859"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365095"
 ---
-# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="60250-102">Ketika dikenai kartu kredit saya?</span><span class="sxs-lookup"><span data-stu-id="60250-102">When is my credit card charged?</span></span>
+# <a name="when-is-my-credit-card-charged"></a><span data-ttu-id="a6f09-102">Ketika dikenai kartu kredit saya?</span><span class="sxs-lookup"><span data-stu-id="a6f09-102">When is my credit card charged?</span></span>
 
-<span data-ttu-id="60250-103">Dengan pembelian awal, diperlukan waktu hingga dua hari untuk muatan untuk terjadi.</span><span class="sxs-lookup"><span data-stu-id="60250-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
+<span data-ttu-id="a6f09-103">Dengan pembelian awal, diperlukan waktu hingga dua hari untuk muatan untuk terjadi.</span><span class="sxs-lookup"><span data-stu-id="a6f09-103">With an initial purchase, it can take up to two days for the charge to occur.</span></span>
   
-<span data-ttu-id="60250-104">Biaya berulang terjadi dalam satu hari faktur diciptakan.</span><span class="sxs-lookup"><span data-stu-id="60250-104">Recurring charges happen within one day of the invoice being created.</span></span>
+<span data-ttu-id="a6f09-104">Biaya berulang terjadi dalam satu hari faktur diciptakan.</span><span class="sxs-lookup"><span data-stu-id="a6f09-104">Recurring charges happen within one day of the invoice being created.</span></span>
   
-<span data-ttu-id="60250-105">Jika tuduhan itu gagal, sistem akan terus berusaha untuk menyelesaikan keseimbangan selama beberapa minggu.</span><span class="sxs-lookup"><span data-stu-id="60250-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="60250-106">Anda dapat membuat update ke informasi pembayaran Anda kapan saja untuk memastikan upaya biaya berikutnya sukses.</span><span class="sxs-lookup"><span data-stu-id="60250-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="60250-107">Untuk selengkapnya, lihat [menambahkan, mengupdate atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="60250-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
-  
-
+<span data-ttu-id="a6f09-105">Jika tuduhan itu gagal, sistem akan terus berusaha untuk menyelesaikan keseimbangan selama beberapa minggu.</span><span class="sxs-lookup"><span data-stu-id="a6f09-105">If the charge is unsuccessful, the system will continue to attempt to settle the balance over the next few weeks.</span></span> <span data-ttu-id="a6f09-106">Anda dapat membuat update ke informasi pembayaran Anda kapan saja untuk memastikan upaya biaya berikutnya sukses.</span><span class="sxs-lookup"><span data-stu-id="a6f09-106">You can make updates to your payment information at any time to insure the next charge attempt is successful.</span></span> <span data-ttu-id="a6f09-107">Untuk selengkapnya, lihat [menambahkan, mengupdate atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="a6f09-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
