@@ -9,21 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "309"
+- "565"
+- "1100002"
+- "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: ffdede78f772a4efc1f1803f9494c9766e33550d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421639"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369056"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="7271d-102">Mengatur password untuk tidak pernah berakhir</span><span class="sxs-lookup"><span data-stu-id="7271d-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="47ffd-102">Mengatur password untuk tidak pernah berakhir</span><span class="sxs-lookup"><span data-stu-id="47ffd-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="7271d-103">Untuk mengatur semua password tidak pernah berakhir, pergi ke [keamanan &amp; privasi](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="7271d-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="7271d-104">Klik **Edit** di samping **Standar kebijakan Password**, dan mengubah slider **on**.</span><span class="sxs-lookup"><span data-stu-id="7271d-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="47ffd-103">Untuk mengatur semua password tidak pernah berakhir, pergi ke [keamanan &amp; privasi](https://portal.office.com/adminportal/home#/settings/security).</span><span class="sxs-lookup"><span data-stu-id="47ffd-103">To set ALL passwords to never expire, go to [Security &amp; Privacy](https://portal.office.com/adminportal/home#/settings/security).</span></span> <span data-ttu-id="47ffd-104">Klik **Edit** di samping **Standar kebijakan Password**, dan mengubah slider **on**.</span><span class="sxs-lookup"><span data-stu-id="47ffd-104">Click **Edit** next to **Password Policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="7271d-105">Untuk informasi lebih lanjut lihat: [menetapkan sandi kedaluwarsa kebijakan untuk organisasi.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="7271d-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="47ffd-105">Untuk informasi lebih lanjut lihat: [menetapkan sandi kedaluwarsa kebijakan untuk organisasi.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="47ffd-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
   
-[<span data-ttu-id="7271d-106">Atur password tidak pernah berakhir untuk pengguna tertentu</span><span class="sxs-lookup"><span data-stu-id="7271d-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="47ffd-106">Atur password tidak pernah berakhir untuk pengguna tertentu</span><span class="sxs-lookup"><span data-stu-id="47ffd-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
   
-
