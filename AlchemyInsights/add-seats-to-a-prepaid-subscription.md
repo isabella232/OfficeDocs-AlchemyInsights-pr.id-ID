@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "663"
+- "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 07161bf45fb99539e4c6d0b946a538f198db3553
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398749"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358544"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Menambahkan kursi ke langganan prabayar
 
 1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
-    
-2. Memilih berlangganan prabayar Anda ingin menambahkan pengguna.
-    
-3. Dalam menu **tindakan lain** , memilih **memperbaharui atau menambahkan lisensi dengan token**.
-    
-4. Pilih opsi **kunci produk baru dan tidak terpakai** . (Jika berlangganan ini diciptakan dengan kunci produk yang dibeli di lokasi ritel, Anda mungkin memiliki pilihan untuk menambahkan pengguna dengan metode pembayaran lainnya.) 
-    
-5. Pilih **berikutnya**.
-    
-6. Masukkan kunci produk, lalu pilih **berikutnya**.
-    
-7. Pilih opsi untuk menambahkan lebih banyak pengguna, pilih **berikutnya**, kemudian memilih **Redeem**.
-    
 
+2. Memilih berlangganan prabayar Anda ingin menambahkan pengguna.
+
+3. Dalam menu **tindakan lain** , memilih **memperbaharui atau menambahkan lisensi dengan token**.
+
+4. Pilih opsi **kunci produk baru dan tidak terpakai** . (Jika berlangganan ini diciptakan dengan kunci produk yang dibeli di lokasi ritel, Anda mungkin memiliki pilihan untuk menambahkan pengguna dengan metode pembayaran lainnya.)
+
+5. Pilih **berikutnya**.
+
+6. Masukkan kunci produk, lalu pilih **berikutnya**.
+
+7. Pilih opsi untuk menambahkan lebih banyak pengguna, pilih **berikutnya**, kemudian memilih **Redeem**.
