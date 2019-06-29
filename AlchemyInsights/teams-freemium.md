@@ -7,14 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 997
-ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "997"
+- "6500005"
+ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
+ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771417"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354008"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Saya ingin mendaftar untuk tim gratis, tapi aku tidak bisa.
 
@@ -23,5 +25,3 @@ ms.locfileid: "34771417"
 - Lembaga akademis tidak berhak untuk tawaran ini gratis. Guru dan siswa, meskipun, bisa mendapatkan versi gratis Office 365, yang mencakup sebuah versi lengkap dari Microsoft Teams. Lihat [lisensi Office 365 untuk Microsoft tim](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 
 - Lembaga-lembaga pemerintah AS tidak berhak untuk tawaran ini gratis. Untuk mempelajari tentang rencana Office 365 untuk organisasi pemerintah (termasuk ujicoba), membaca [lisensi Office 365 untuk Microsoft tim](https://docs.microsoft.com/microsoftteams/office-365-licensing).
-
-

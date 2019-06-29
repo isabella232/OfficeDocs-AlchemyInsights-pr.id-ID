@@ -7,20 +7,25 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "683"
+- "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 60e747792eced6b07a6cc58744b8abb62336e314
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 74c076417645bc85e508ed976e4247ef2da595f1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769476"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386556"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrasi email dari sistem email IMAP ke Office 365
 
 Untuk migrasi email dari sistem pesan IMAP, ikuti proses ini: [migrasi IMAP di Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
-Organisasi-organisasi besar akan perlu untuk merencanakan dengan hati-hati untuk mengelola harapan pengguna. [Apa yang perlu Anda ketahui tentang migrasi kotak pesan IMAP ke Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikel akan membantu Anda mengelola perubahan. 
+Organisasi-organisasi besar akan perlu untuk merencanakan dengan hati-hati untuk mengelola harapan pengguna. [Apa yang perlu Anda ketahui tentang migrasi kotak pesan IMAP ke Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikel akan membantu Anda mengelola perubahan.
 
-Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk assited bantuan dengan migrasi, jika memenuhi syarat.
+Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu migrasi, jika memenuhi syarat.
   
 
+Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu migrasi, jika memenuhi syarat.
+  
