@@ -9,32 +9,33 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "452"
+- "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: d162d60ad55711d7165f32630faa1c6cd1b4b756
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 8151d2b4ad88594186c9b15f1babdbca74ce3d06
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407683"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363980"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Menyalin item dalam pustaka dokumen SharePoint
 
 1. Di web browser, browse ke file, folder, atau tautan yang ingin Anda salin, dan kemudian klik **Salin untuk**.
-    
+
     > [!NOTE]
-    > **Salin ke** tidak tersedia jika Anda menggunakan pengalaman klasik SharePoint Online. 
+    > **Salin ke** tidak tersedia jika Anda menggunakan pengalaman klasik SharePoint Online.
   
-2. Dalam **Pilih tujuan**, pilih lokasi di mana Anda ingin menyalin item. Jika Anda menyalin ke situs lain atau subsite dan tidak melihatnya tercantum, klik **Browse situs** untuk melihat daftar lengkap situs yang Anda dapat menyalin ke. 
-    
+2. Dalam **Pilih tujuan**, pilih lokasi di mana Anda ingin menyalin item. Jika Anda menyalin ke situs lain atau subsite dan tidak melihatnya tercantum, klik **Browse situs** untuk melihat daftar lengkap situs yang Anda dapat menyalin ke.
+
     > [!NOTE]
-    > Jika Anda tidak melihat situs lain yang tercantum ketika Anda menyalin item, menyalin di situs belum dikonfigurasi. Untuk mengaktifkannya, masuk ke laman setelan SharePoint admin Center dan klik **OK**. 
+    > Jika Anda tidak melihat situs lain yang tercantum ketika Anda menyalin item, menyalin di situs belum dikonfigurasi. Untuk mengaktifkannya, masuk ke laman setelan SharePoint admin Center dan klik **OK**.
   
     Untuk membuat folder baru untuk menyalin file ke, pilih lokasi di hirarki folder, klik **folder baru**, masukkan nama untuk folder, dan klik tanda centang untuk merekam nama.
-    
-3. Klik **Copy di sini**.
-    
-> [!NOTE]
->  Anda dapat menyalin hingga 500 MB file dan folder pada satu waktu. > bila Anda menggunakan **salinan** dokumen yang memiliki Riwayat Versi, hanya versi terbaru disalin. 
-  
 
+3. Klik **Copy di sini**.
+
+> [!NOTE]
+> Anda dapat menyalin hingga 500 MB file dan folder pada satu waktu. > bila Anda menggunakan **salinan** dokumen yang memiliki Riwayat Versi, hanya versi terbaru disalin.
+  

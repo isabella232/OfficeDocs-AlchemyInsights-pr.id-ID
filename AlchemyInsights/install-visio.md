@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914110"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381876"
 ---
 # <a name="install-visio"></a>Menginstal Visio
 
 Visio dijual sebagai aplikasi yang berdiri sendiri jadi jika Anda tidak memiliki itu belum, [membeli atau mencoba Visio](https://products.office.com/visio). 
 
-Jika Anda telah berlangganan Visio Online rencana 2, pengguna tidak akan melihat pilihan untuk menginstal Visio dari **saya untuk menginstal** di [My portal akun](https://portal.office.com/account#installs) kecuali Anda memiliki [tetapkan mereka lisensi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Catatan**: Visio Online rencana 1 tidak termasuk versi desktop Visio, sehingga tidak ada instalasi muka.
 
-Untuk petunjuk khusus tentang men-download dan menginstal Visio, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Jika Anda telah berlangganan Visio Online rencana 2, Anda harus [menetapkan lisensi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ke pengguna atau mereka tidak akan memiliki pilihan untuk menginstal Visio dari **menginstal saya** di [portal akun saya](https://portal.office.com/account#installs). 
 
-Jika Anda memiliki langganan/lisensi yang valid dan berlari ke dalam masalah selama setup, coba pasang Visio menggunakan [dukungan dan asisten pemulihan](https://aka.ms/SaRA-VisioSetupScenario).
+Versi lisensi bebas-volume Visio standar atau Visio profesional terkait dengan account Microsoft dan tidak bisa dikelola di admin center. Untuk menginstal versi ini, pengguna harus masuk ke [account.microsoft.com](https://account.microsoft.com) dengan account Microsoft terkait dengan versi Visio.
+
+Untuk bantuan selengkapnya Lihat [Visio menginstal](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) dan ikuti langkah-langkah untuk versi Visio.
 
 Untuk informasi lebih Lihat:<br>
 [Panduan penggunaan untuk Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
