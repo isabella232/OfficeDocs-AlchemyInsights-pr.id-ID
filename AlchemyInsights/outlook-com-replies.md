@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392540"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372552"
 ---
 # <a name="replying-in-outlookcom"></a>Membalas di Outlook.com
 
 Untuk membalas ke satu pesan pada suatu waktu:
 
-1. Dalam daftar pesan, pilih pesan yang Anda ingin maju.
+1. Dalam daftar pesan, pilih pesan yang akan dibalas.
 2. Di bagian atas kanan dari panel pesan, pilih panah **Balasan** atau **balas semua** panah.
 3. Ketik pesan Anda dan kemudian pilih **kirim**.
 
 Untuk secara otomatis membalas ke semua pesan:
 
-1. Membuka [pengaturan balasan otomatis](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Masuk ke **pengaturan** > **Lihat semua pengaturan Outlook** > **pos** > **balasan otomatis** untuk membuka [pengaturan balasan otomatis](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Pilih toggle **mengaktifkan balasan otomatis** .
 3. Memilih kotak centang **Kirim balasan hanya selama jangka waktu** memungkinkan Anda untuk:
     - Hanya mengirim balasan ketika Anda memilih. Jika Anda tidak menetapkan jangka waktu, balasan otomatis Anda tetap pada sampai Anda mematikannya.

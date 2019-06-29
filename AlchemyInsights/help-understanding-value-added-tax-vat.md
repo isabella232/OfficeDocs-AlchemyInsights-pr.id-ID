@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "435"
+- "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: fa174850f1e2810a2d38833f5dca4360ee53d4be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 314eed3875d50cee87c7271bfbdba174bed8fb93
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400314"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386340"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Membantu pemahaman nilai tambah pajak (PPN)
 
@@ -24,6 +26,5 @@ Jika Anda berada di negara yang menggunakan dihargai pajak pertambahan (PPN), se
   
 Untuk alasan pajak, Anda juga harus menentukan nomor pendaftaran PPN dalam pengaturan untuk Invoicing.
   
-Anda tidak dapat menambahkan atau menghapus PPN harga, tetapi Anda dapat mengubah tingkat standar PPN dalam pengaturan. Secara default, Invoicing menggunakan layanan untuk memvalidasi nomor pendaftaran PPN, tetapi sebaiknya Anda membaca [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) diterbitkan oleh Komisi Eropa. Jika Anda memilih untuk menonaktifkan layanan, Anda harus memverifikasi semua nomor pendaftaran PPN. 
+Anda tidak dapat menambahkan atau menghapus PPN harga, tetapi Anda dapat mengubah tingkat standar PPN dalam pengaturan. Secara default, Invoicing menggunakan layanan untuk memvalidasi nomor pendaftaran PPN, tetapi sebaiknya Anda membaca [VIES disclaimer](https://go.microsoft.com/fwlink/?LinkID=841741) diterbitkan oleh Komisi Eropa. Jika Anda memilih untuk menonaktifkan layanan, Anda harus memverifikasi semua nomor pendaftaran PPN.
   
-

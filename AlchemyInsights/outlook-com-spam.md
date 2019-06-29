@@ -1,34 +1,29 @@
 ---
-title: Outlook.com spam dan sampah
+title: Berurusan dengan spam dan sampah di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 9000290
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 31d81e48cfbc02ad5f93faf1aa707f98a3c67f8e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1896"
+- "9000290"
+ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373535"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372012"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Email spam dan sampah di Outlook.com
+# <a name="mark-email-messages-as-junk"></a>Pesan email tanda sebagai sampah
 
-Untuk menandai email sebagai sampah atau spam:
+Untuk menandai pesan sebagai sampah atau spam, pilih pesan dalam daftar pesan dan pilih **sampah** > **sampah**.
 
-1. Pilih pesan atau pesan dalam daftar pesan Anda.
-1. Di atas daftar pesan, pilih **sampah** > **sampah**.
+Untuk memblokir semua pesan dari alamat email tertentu, pilih pesan atau pesan dalam daftar pesan Anda dan kemudian pilih **sampah** > **blok**.
 
-**Catatan:** Jika Anda menemukan bahwa pesan email ini tidak spam, pilih pesan lagi (itu akan di folder Email sampah) dan pilih **tidak sampah** > **bukan sampah**. Item di folder Junk Email akan dihapus setelah 30 hari.  [Belajar lebih lanjut tentang bagaimana untuk membantu menjaga spam dan email sampah dari kotak masuk Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4)
+Jika Anda secara tidak sengaja menandai pesan sebagai sampah, pilih pesan dalam [folder Email sampah](https://outlook.live.com/mail/junkemail) Anda, lalu pilih **tidak sampah** > **bukan sampah**. (*Catatan:* item di folder Junk Email akan dihapus setelah 30 hari.)
 
-Untuk memblokir semua pesan dari alamat e-mail tertentu atau domain:
-
-1. Pilih pesan atau pesan dalam daftar pesan Anda dan kemudian pilih **sampah** > **blok** > **OK**. (Jika pesan email sudah membuka di jendela baru, **blok** muncul sebagai pilihan di bagian atas jendela.)
-1. Membuka [pengaturan e-mail sampah](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2), masukkan alamat email atau domain yang Anda ingin memblokir, dan pilih **Tambah** > **menyimpan**.
-1. Dalam Anda [Junk email filter](https://outlook.live.com/mail/options/mail/junkEmail/filtersOption), Anda dapat memilih untuk hanya percaya email dari alamat saya daftar domain pengirim aman dan aman mailing list.
-
-[Pelajari lebih lanjut tentang bagaimana untuk memblokir atau membuka Blokir pengirim di Outlook.com.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e)
+Untuk mempelajari lebih lanjut, baca [menandai email sebagai sampah atau blok pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).

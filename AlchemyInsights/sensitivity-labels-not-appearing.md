@@ -9,12 +9,15 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ffb31ee0910ec41fca5a6ac69b98805023828097
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1778"
+- "9000181"
+ms.openlocfilehash: 7336a6603b160a43b71e722487728df9af3e15b4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770777"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355736"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Sensitivitas label tidak muncul
 
@@ -25,8 +28,7 @@ Jika Anda dikonfigurasi sensitivitas label, tetapi mereka tidak muncul dalam apl
 - Mengkonfirmasi bahwa label sensitivitas telah [diterbitkan](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) untuk pengguna dan grup yang Anda inginkan.
 
 - Mengkonfirmasi bahwa pengguna menggunakan aplikasi yang mendukung sensitivitas label - Lihat [sensitivitas label dalam dokumen Anda](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
- 
- 
+
 - Jika Anda [bermigrasi Azure perlindungan informasi label](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), menyadari pertimbangan tercantum [di sini](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Dukungan pencegahan hilangnya data (DLP): saat ini, hanya retensi label dapat digunakan sebagai suatu kondisi DLP kebijakan.  Dukungan untuk sensitivitas label dalam kebijakan DLP tidak tersedia belum tetapi kami bekerja di atasnya.
