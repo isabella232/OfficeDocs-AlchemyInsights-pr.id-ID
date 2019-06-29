@@ -1,5 +1,5 @@
 ---
-title: Mempersiapkan untuk penggunaan TLS 1.2 di Office 365
+title: Bersiaplah untuk menggunakan TLS 1.2 di Office 365
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29474865"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370930"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Mempersiapkan untuk penggunaan TLS 1.2 di Office 365
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a>Bersiaplah untuk menggunakan TLS 1.2 di Office 365
 
-Pada Oktober 31, 2018, Office 365 akan terus transisi menjadi 1,2 TLS. Ini berarti bahwa Microsoft tidak akan memperbaiki masalah baru yang ditemukan di klien, perangkat, atau layanan yang tersambung ke Office 365 menggunakan TLS 1.0 dan 1.1. **Ini tidak berarti Office 365 akan memblokir TLS 1.0 dan koneksi 1.1.** Tanggal bantahan akhirnya akan ditentukan oleh penggunaan pelanggan dan keadaan saat ini warisan TLS keamanan. Setelah keputusan dibuat, akan ada pengumuman enam bulan di muka kecuali kita menjadi sadar kompromi dikenal, sehingga kami mungkin harus bertindak kurang dari enam bulan untuk melindungi Pelanggan yang menggunakan layanan. 
+Mulai 31 Oktober 2018, Office 365 akan meneruskan transisi ke TLS 1.2. Artinya, Microsoft tidak akan memperbaiki masalah baru yang ditemukan dalam klien, perangkat, atau layanan yang tersambung ke Office 365 menggunakan TLS 1.0 dan 1.1. **Hal ini bukan berarti Office 365 akan memblokir koneksi TLS 1.0 dan 1.1.** Tanggal penghentian akhir akan ditentukan oleh penggunaan pelanggan dan status keamanan TLS warisan saat ini. Setelah keputusan ditetapkan, pengumuman akan diberikan enam bulan sebelumnya kecuali jika kami menyadari adanya pelanggaran yang diketahui, sehingga kami perlu mengambil tindakan kurang dari enam bulan untuk melindungi pelanggan yang menggunakan layanan.
   
-Itu sangat disarankan bahwa setiap server dan klien yang menghubungkan dengan Office 365 perlu mengaktifkan TLS 1.2 sesegera mungkin.
+Semua server dan klien yang terhubung dengan Office 365 sangat disarankan agar mengaktifkan TLS 1.2 secepatnya.
   
-Untuk informasi lebih lanjut lihat [mempersiapkan untuk TLS 1.2 di Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+Untuk informasi selengkapnya, lihat [Mempersiapkan TLS 1.2 di Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
-
