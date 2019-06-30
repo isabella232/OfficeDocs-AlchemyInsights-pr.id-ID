@@ -8,17 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000059
+ms.custom:
+- "992"
+- "8000059"
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
-ms.openlocfilehash: fdfe600c07949e4d9b8c68a4211c10440aa6cc96
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fab69aa463903b902830086c820a9bdbcb359524
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399846"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385369"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="a21f9-102">Bagaimana untuk mengubah tema</span><span class="sxs-lookup"><span data-stu-id="a21f9-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="f85e0-102">Bagaimana untuk mengubah tema</span><span class="sxs-lookup"><span data-stu-id="f85e0-102">How to change your theme</span></span>
 
-<span data-ttu-id="a21f9-103">Untuk mengubah tema Anda di Outlook.com atau Outlook di web, pergi ke **pengaturan** dan pilih tema **tema**.</span><span class="sxs-lookup"><span data-stu-id="a21f9-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="a21f9-104">Untuk melihat semua tema yang tersedia, pilih **Lihat semua** **tema**.</span><span class="sxs-lookup"><span data-stu-id="a21f9-104">To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="f85e0-103">Untuk mengubah tema Anda di Outlook.com atau Outlook di web, pergi ke **pengaturan** dan pilih tema **tema**.</span><span class="sxs-lookup"><span data-stu-id="f85e0-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="f85e0-104">Untuk melihat semua tema yang tersedia, pilih **Lihat semua** **tema**.</span><span class="sxs-lookup"><span data-stu-id="f85e0-104">To see all available themes, select **View all** under **Theme**.</span></span>
   
-
