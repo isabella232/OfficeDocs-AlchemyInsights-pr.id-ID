@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769546"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360489"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-menerapkan kepekaan label
 
-Sensitivitas label dapat diterapkan ke konten oleh pengguna mannually, atau Anda dapat mengkonfigurasi mereka untuk secara otomatis diterapkan untuk konten.
+Sensitivitas label dapat secara manual diterapkan untuk konten oleh pengguna, atau Anda dapat mengkonfigurasi mereka untuk secara otomatis diterapkan untuk konten.
 
 Secara otomatis menerapkan kepekaan label menghilangkan kebutuhan untuk melatih pengguna tentang cara untuk mengklasifikasikan konten dan kebutuhan untuk memberitahu mereka tentang kebijakan konfigurasi.
 

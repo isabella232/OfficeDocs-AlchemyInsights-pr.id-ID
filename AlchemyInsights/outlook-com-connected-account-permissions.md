@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417960"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375792"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Bagaimana untuk Perbaiki "Itu terlihat seperti kita tidak memiliki izin"
 
 Jika Anda melihat pesan kesalahan "itu terlihat seperti kita tidak memiliki izin untuk mendapatkan email..." silakan lakukan hal berikut:
 
-1. Membuka [Pengaturan Account Tersambung](https://outlook.live.com/mail/options/mail/accounts) dan menghapus atau menghapus account tersambung yang tercantum dalam kesalahan. 
+1. Membuka [Pengaturan Account Tersambung](https://outlook.live.com/mail/options/mail/accounts) dan menghapus atau menghapus account tersambung yang tercantum dalam kesalahan.
 2. Menambahkan account tersambung kembali.
 3. Pergi [kembali ke kotak pesan](https://outlook.live.com/mail/inbox).
 

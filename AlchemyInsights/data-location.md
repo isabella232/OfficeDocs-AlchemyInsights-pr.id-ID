@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "945"
+- "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 2d284dd4b53fcd1c2b0d094cd16662d3686c6912
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9e284c6f7b90dc1997f6b1f6b0ec20015adfa1c1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406525"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362925"
 ---
 # <a name="data-location"></a>Data lokasi
 
 Kami mempertahankan beberapa salinan data Anda di pusat data untuk redundansi. [Lihat dimana data berada](https://office.com/datamaps). Jika kita memperluas lokasi data Anda ke dalam sebuah negara baru atau wilayah, kami akan memberikan pemberitahuan satu bulan sebelumnya.
   
-Untuk info lebih lanjut tentang keamanan, privasi dan kepatuhan Office 365, lihat [Pusat Trust Office 365](https://products.office.com/business/office-365-trust-center-welcome). 
+Untuk info lebih lanjut tentang keamanan, privasi dan kepatuhan Office 365, lihat [Pusat Trust Office 365](https://products.office.com/business/office-365-trust-center-welcome).
   
-
