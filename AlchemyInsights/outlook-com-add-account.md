@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377772"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614137"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Tambahkan account email Anda yang lain Outlook.com
 
@@ -32,6 +32,6 @@ Untuk menambahkan account tersambung:
 
 Anda dapat mengirim email dari akun Anda telah terhubung ke Outlook.com account. Saat menulis email, pilih **dari** dan memilih yang Anda ingin menggunakan alamat email, atau [memperbarui alamat dari default Anda](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Untuk informasi lebih lanjut, baca [Add email account lainnya Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Untuk informasi lebih lanjut, baca [Add email account lainnya Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Jika Anda ingin membuat alamat email baru yang menggunakan account Outlook.com yang sama, membaca [Tambah atau Hapus email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Jika Anda ingin membuat alamat email baru yang menggunakan account Outlook.com yang sama, membaca [Tambah atau Hapus email alias](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
