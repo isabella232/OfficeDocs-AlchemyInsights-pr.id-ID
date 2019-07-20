@@ -3,7 +3,7 @@ title: Berurusan dengan spam dan sampah di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697122"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800084"
 ---
-# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="764bb-102">Pesan email tanda sebagai sampah</span><span class="sxs-lookup"><span data-stu-id="764bb-102">Mark email messages as junk</span></span>
+# <a name="spam-and-junk-email-in-outlookcom"></a><span data-ttu-id="590d2-102">Email spam dan sampah di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="590d2-102">Spam and junk email in Outlook.com</span></span>
 
-<span data-ttu-id="764bb-103">Untuk menandai pesan sebagai sampah atau spam, pilih pesan dalam daftar pesan dan pilih **sampah** > **sampah**.</span><span class="sxs-lookup"><span data-stu-id="764bb-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="590d2-103">Jika Anda mendapatkan terlalu banyak spam atau junk, cobalah metode ini:</span><span class="sxs-lookup"><span data-stu-id="590d2-103">If you're getting too much junk or spam, try these methods:</span></span>
 
-<span data-ttu-id="764bb-104">Untuk memblokir semua pesan dari alamat email tertentu, pilih pesan atau pesan dalam daftar pesan Anda dan kemudian pilih **sampah** > **blok**.</span><span class="sxs-lookup"><span data-stu-id="764bb-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
+1. <span data-ttu-id="590d2-104">**Tandai email sampah**</span><span class="sxs-lookup"><span data-stu-id="590d2-104">**Mark an email as junk**</span></span>
+    1. <span data-ttu-id="590d2-105">Pilih pesan.</span><span class="sxs-lookup"><span data-stu-id="590d2-105">Select the message.</span></span>
+    1. <span data-ttu-id="590d2-106">Pilih **sampah** > **sampah** untuk memindahkan pesan ke folder Junk Email Anda.</span><span class="sxs-lookup"><span data-stu-id="590d2-106">Select **Junk** > **Junk** to move the message to your Junk Email folder.</span></span>
+    1. [<span data-ttu-id="590d2-107">Pelajari lebih lanjut tentang bagaimana untuk membantu menjaga spam dan email sampah dari kotak masuk.</span><span class="sxs-lookup"><span data-stu-id="590d2-107">Learn more about how to help keep spam and junk email out of your inbox.</span></span>](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="764bb-105">Jika Anda secara tidak sengaja menandai pesan sebagai sampah, pilih pesan dalam [folder Email sampah](https://outlook.live.com/mail/junkemail) Anda, lalu pilih **tidak sampah** > **bukan sampah**.</span><span class="sxs-lookup"><span data-stu-id="764bb-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="764bb-106">(*Catatan:* item di folder Junk Email akan dihapus setelah 30 hari.)</span><span class="sxs-lookup"><span data-stu-id="764bb-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="590d2-108">**Memblokir pengirim dari kotak masuk Anda**</span><span class="sxs-lookup"><span data-stu-id="590d2-108">**Block a sender from your inbox**</span></span>
+    1. <span data-ttu-id="590d2-109">Pilih pesan.</span><span class="sxs-lookup"><span data-stu-id="590d2-109">Select the message.</span></span>
+    1. <span data-ttu-id="590d2-110">Pilih **sampah** > **blok** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="590d2-110">Select **Junk** > **Block** > **OK**.</span></span>
+    1. [<span data-ttu-id="590d2-111">Pelajari lebih lanjut tentang bagaimana untuk memblokir atau membuka Blokir pengirim.</span><span class="sxs-lookup"><span data-stu-id="590d2-111">Learn more about how to block or unblock senders.</span></span>](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="764bb-107">Untuk mempelajari lebih lanjut, baca [menandai email sebagai sampah atau blok pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="764bb-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+1. <span data-ttu-id="590d2-112">**Menambahkan pengirim ke daftar pengirim yang diblokir**</span><span class="sxs-lookup"><span data-stu-id="590d2-112">**Add a sender to your blocked senders list**</span></span>
+    1. <span data-ttu-id="590d2-113">Membuka [pengaturan e-mail sampah](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span><span class="sxs-lookup"><span data-stu-id="590d2-113">Open your [Junk email settings](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).</span></span>
+    1. <span data-ttu-id="590d2-114">**Pengirim diblokir dan domain**, pilih **Tambah**.</span><span class="sxs-lookup"><span data-stu-id="590d2-114">Under **Blocked senders and domains**, select **Add**.</span></span>
+    1. <span data-ttu-id="590d2-115">Ketik alamat email atau domain yang Anda inginkan untuk memblokir dan tekan Enter.</span><span class="sxs-lookup"><span data-stu-id="590d2-115">Type the email address or domain you want to block and press Enter.</span></span>
+    1. <span data-ttu-id="590d2-116">Under **penyaring**, pilih jika Anda ingin percaya email dari alamat pengirim aman dan domain dan aman mailing list.</span><span class="sxs-lookup"><span data-stu-id="590d2-116">Under **Filters**, choose if you want to trust email from addresses under Safe senders and domains and Safe mailing lists.</span></span>
+    1. <span data-ttu-id="590d2-117">Pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="590d2-117">Select **Save**.</span></span>
+
+1. <span data-ttu-id="590d2-118">**Buat aturan kotak masuk**</span><span class="sxs-lookup"><span data-stu-id="590d2-118">**Create an inbox rule**</span></span>
+    1. <span data-ttu-id="590d2-119">Klik kanan pesan dalam daftar pesan Anda dan pilih **Buat aturan**.</span><span class="sxs-lookup"><span data-stu-id="590d2-119">Right-click a message in your message list and select **Create rule**.</span></span>
+    1. <span data-ttu-id="590d2-120">Pilih folder dimana Anda semua pesan dari pengirim tersebut dipindahkan, dan pilih **OK** > **OK**.</span><span class="sxs-lookup"><span data-stu-id="590d2-120">Choose the folder where you want all messages from that sender to be moved, and select **OK** > **OK**.</span></span>
+    1. [<span data-ttu-id="590d2-121">Pelajari selengkapnya tentang aturan kotak masuk di Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="590d2-121">Learn more about inbox rules in Outlook.com.</span></span>](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
