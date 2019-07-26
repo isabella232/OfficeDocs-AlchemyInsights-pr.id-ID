@@ -11,20 +11,19 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
-ms.openlocfilehash: d96e5c86132c18b6daa669462e512b48b6cce651
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac7009d81661c9ea061b3b23b1a5f6bde52b72e9
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360592"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903004"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="4e611-102">Anda sering mendapatkan email spam atau pengelabuan?</span><span class="sxs-lookup"><span data-stu-id="4e611-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="e43ca-102">Anda sering mendapatkan email spam atau pengelabuan?</span><span class="sxs-lookup"><span data-stu-id="e43ca-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="4e611-103">Lihat [Cara mengurangi email spam di Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) untuk pemecahan masalah spam.</span><span class="sxs-lookup"><span data-stu-id="4e611-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
+<span data-ttu-id="e43ca-103">Lihat [Cara mengurangi email spam di Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) untuk pemecahan masalah spam.</span><span class="sxs-lookup"><span data-stu-id="e43ca-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span>
   
-<span data-ttu-id="4e611-104">Cara terbaik untuk melaporkan masalah seperti ini adalah dengan:</span><span class="sxs-lookup"><span data-stu-id="4e611-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="e43ca-104">Cara terbaik untuk melaporkan masalah seperti ini adalah dengan:</span><span class="sxs-lookup"><span data-stu-id="e43ca-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="4e611-105">[Mengaktifkan pelaporan add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) untuk pengguna.</span><span class="sxs-lookup"><span data-stu-id="4e611-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
+1. <span data-ttu-id="e43ca-105">[Mengaktifkan pelaporan add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) untuk pengguna.</span><span class="sxs-lookup"><span data-stu-id="e43ca-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span>
 
-2. <span data-ttu-id="4e611-106">[Pengguna melaporkan pesan tersebut](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) sebagai Sampah.</span><span class="sxs-lookup"><span data-stu-id="4e611-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
+2. <span data-ttu-id="e43ca-106">[Pengguna melaporkan pesan tersebut](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) sebagai Sampah.</span><span class="sxs-lookup"><span data-stu-id="e43ca-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span>
