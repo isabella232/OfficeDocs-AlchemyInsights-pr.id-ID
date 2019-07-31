@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 84889f9e2ee72197f5ebd0f3a5bf337d0af563d4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
+ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384756"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937861"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Menempatkan kotak pesan di penahanan hukum
 
@@ -26,4 +26,4 @@ ms.locfileid: "35384756"
 
 - Untuk mengaktifkan penahanan litigasi untuk satu pengguna, [ikuti langkah berikut](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Bila penahanan litigasi diaktifkan, Semua konten di kotak pesan yang diawetkan.
 
-- Untuk menempatkan terus pada semua kotak pesan di organisasi Anda, Anda dapat menggunakan kebijakan penyimpanan Office 365 dengan [mengikuti langkah-langkah berikut](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Perhatikan bahwa untuk kebijakan retensi seluruh organisasi, pengguna baru akan secara otomatis ditetapkan ke kebijakan.
+- Untuk menempatkan terus pada semua kotak pesan di organisasi Anda, Anda dapat menggunakan kebijakan penyimpanan Office 365 dengan [mengikuti langkah-langkah berikut](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). Perhatikan bahwa untuk kebijakan retensi seluruh organisasi, pengguna baru akan secara otomatis ditetapkan ke kebijakan.
