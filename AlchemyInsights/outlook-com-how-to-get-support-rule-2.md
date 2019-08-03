@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: d0bacf2b5ca9dffcaa15e46520251f3adf3aaaf0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 40bdd0d5ecf6f96d7af95f39616c540470f1bdb6
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374568"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595257"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Cara Dapatkan dukungan di Outlook.com
 
 Maaf, Outlook.com tidak menawarkan dukungan telepon, tapi kami memiliki tim khusus yang dapat membantu Anda.
 Masukkan pertanyaan Anda atau menggambarkan masalah Anda dalam **membantu** kotak di atas, dan kemudian pilih **mendapatkan bantuan**.
 
-[Mendapatkan bantuan dengan Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
+[Mendapatkan bantuan dengan Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
