@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: f61e121f0593b0c40ee9acf77df81b1bcf636be6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1add9eec819ddaec54e30c581898989b55be316f
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390012"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36203991"
 ---
-# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="658f9-102">Cari Mail dan orang-orang di Outlook di Web</span><span class="sxs-lookup"><span data-stu-id="658f9-102">Search Mail and People on Outlook on the Web</span></span>
+# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="ca150-102">Cari Mail dan orang-orang di Outlook di Web</span><span class="sxs-lookup"><span data-stu-id="ca150-102">Search Mail and People on Outlook on the Web</span></span>
 
-1. <span data-ttu-id="658f9-103">Dalam kotak **pencarian** di bagian atas halaman, ketik apa yang ingin Anda Cari (kontak, subjek email, atau bagian dari pesan) dan tekan Enter.</span><span class="sxs-lookup"><span data-stu-id="658f9-103">In the **Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
+1. <span data-ttu-id="ca150-103">Dalam</span><span class="sxs-lookup"><span data-stu-id="ca150-103">In the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ <span data-ttu-id="ca150-104">Kotak **pencarian** di bagian atas halaman, ketik apa yang ingin Anda Cari (kontak, subjek email, atau bagian dari pesan) dan tekan Enter.</span><span class="sxs-lookup"><span data-stu-id="ca150-104">**Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
 
-2. <span data-ttu-id="658f9-104">Ketika Anda selesai dengan pencarian, pilih kembali panah di kotak **pencarian** atau pilih folder di panel kiri untuk keluar dari pencarian.</span><span class="sxs-lookup"><span data-stu-id="658f9-104">When you're done with the search, select the back arrow in the **Search** box or select any folder in the left pane to exit the search.</span></span>
+2. <span data-ttu-id="ca150-105">Bila Anda telah selesai dengan pencarian, pilih panah kembali</span><span class="sxs-lookup"><span data-stu-id="ca150-105">When you're done with the search, select the back arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> <span data-ttu-id="ca150-106">dalam **pencarian** kotak atau pilih folder di panel kiri untuk keluar dari pencarian.</span><span class="sxs-lookup"><span data-stu-id="ca150-106">in the **Search** box or select any folder in the left pane to exit the search.</span></span>
 
-<span data-ttu-id="658f9-105">Untuk informasi lebih lanjut, baca [Cari Mail dan orang-orang di Outlook di web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="658f9-105">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
+<span data-ttu-id="ca150-107">Untuk informasi lebih lanjut, baca [Cari Mail dan orang-orang di Outlook di web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="ca150-107">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
