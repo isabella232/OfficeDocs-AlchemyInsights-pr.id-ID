@@ -1,27 +1,37 @@
 ---
 title: Informasi penyimpanan dan penghapusan OneDrive
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119692"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232607"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive retensi dan penghapusan
 
-[Artikel ini](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) menjelaskan apa yang terjadi untuk pengguna OneDrive ketika Anda menghapus account pengguna Office 365 untuk organisasi Anda.
+- Anda dapat [memulihkan dihapus pengguna OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sendiri. Mereka berada di recycle bin 93 hari. 
 
-Untuk informasi lebih lanjut tentang OneDrive retensi dan penghapusan, lihat:
+- Lihat [artikel ini](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) untuk belajar:
+    - Bagaimana untuk memberikan pengguna yang lain akses untuk pengguna dihapus OneDrive.
+    - Apa yang terjadi pada OneDrive pengguna bila Anda menghapus account pengguna Office 365 untuk organisasi Anda.
+    - Bagaimana cara mengkonfigurasi delegasi akses otomatis.
+    - Bagaimana proses penghapusan OneDrive bekerja.
 
-- [Memberikan akses pengguna lain untuk OneDrive pengguna dihapus](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Mengkonfigurasi delegasi akses otomatis](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Deskripsi proses penghapusan OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Mengembalikan OneDrive dihapus](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- Tertarik pada keamanan dan kepatuhan pusat retensi dan tahan?:
+    - [Kebijakan penyimpanan untuk OneDrive dan SharePoint situs](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [eDiscovery tahan untuk OneDrive dan SharePoint situs](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+

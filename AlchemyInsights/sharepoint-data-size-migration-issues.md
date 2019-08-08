@@ -1,31 +1,34 @@
 ---
-title: Masalah izin sementara bermigrasi
-ms.author: kirks
-author: Techwriter40
+title: Masalah saat memigrasi data untuk SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735461"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232538"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Masalah saat memigrasi data untuk SharePoint Online
 
-Tampaknya Anda bermigrasi lebih dari 100TB data ke SharePoint Online.
+Tampaknya Anda bermigrasi lebih dari 100TB data ke SharePoint Online. Ikuti langkah-langkah di bawah ini sehingga kami dapat membantu Anda sesegera mungkin. 
 
-Silahkan klik **Permintaan layanan baru** oleh telepon/email di bawah ini dan meninggalkan query sebagai SharePoint migrasi lebih dari 100 TB dalam kotak teks.
+1. Pilih **layanan baru permintaan**, dan kemudian **meminta layanan baru**. 
+2. Meninggalkan judul dan deskripsi sebagai **SharePoint migrasi lebih dari 100 TB**.
+3. Setelah tiket telah diserahkan, silahkan update dengan informasi berikut: 
 
-Setelah tiket telah diserahkan, silahkan update dengan informasi berikut: 
-
-- Nama perusahaan Anda dan penyewa URL
-- Perkiraan ukuran migrasi
-- Perkiraan bila Anda ingin memulai dan menyelesaikan migrasi
-- Menggambarkan dimana Anda memigrasi konten Anda dari, SharePoint Server kotak, GDrive, File saham, dll.
+    - Perkiraan ukuran migrasi.
+    - Perkiraan bila Anda ingin memulai dan menyelesaikan migrasi.
+    - Menggambarkan dimana Anda memigrasi konten Anda dari, SharePoint Server kotak, GDrive, File saham, dll...
 
 
   

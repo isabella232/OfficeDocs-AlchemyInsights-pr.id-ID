@@ -1,33 +1,35 @@
 ---
-title: Upload file ke OneDrive atau SharePoint
-ms.author: kirks
-author: Techwriter40
+title: Download atau mencegah men-Download file dari OneDrive atau SharePoint
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: bbde5e3c7d46206602def27cc9ac577e34d2da49
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom:
+- "1788"
+- "9000213"
+ms.openlocfilehash: a89d887448e2692e63b555f56428e119b11a72c7
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759609"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232599"
 ---
-# <a name="download-files-and-folders-from-onedrive-or-sharepoint"></a>Men-download file dan folder dari OneDrive atau SharePoint
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Download atau mencegah men-Download file dari OneDrive atau SharePoint
 
 Anda dapat men-download file dan folder dari OneDrive, atau dari SharePoint Online ke komputer Anda dengan hanya dengan beberapa klik. Untuk informasi lebih lanjut tentang men-download file, kecepatan dan membatasi download silakan kunjungi link di bawah ini.
 
 - [Men-download file dan folder dari OneDrive atau SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Download File blok akses bersyarat Azure iklan](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Mencegah pengguna agar tidak men-download konten dari situs](https://support.office.com/article/Prevent-users-from-downloading-content-from-a-site-e17bf52b-fa5d-41cf-9eb0-d3812542424e)
 
 - [Memaksimalkan upload dan kecepatan download](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
 - [Memperbaiki masalah OneDrive Sync](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Mengkonfigurasi kebijakan IRM pada SharePoint dokumen perpustakaan untuk membatasi download konten](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [Download OneDrive untuk bisnis](https://onedrive.live.com/about/download/)
 
