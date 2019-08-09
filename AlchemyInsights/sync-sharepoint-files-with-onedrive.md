@@ -1,9 +1,9 @@
 ---
 title: Memecahkan masalah “Buka dengan Explorer” di SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803041"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270711"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Memecahkan masalah “Buka dengan Explorer” di SharePoint Online
 
@@ -31,9 +31,9 @@ Jika memilih untuk menggunakan tampilan Explorer dan bukan menggunakan klien sin
 
 > [!Note]  
 > Tombol **Buka dengan Explorer** tidak muncul dalam pengalaman pustaka yang baru. Klik menu menurun **Tampilan** di bagian kanan atas (nama menu menurun berubah menurut tampilan Anda saat ini), lalu klik **Tampilkan di File Explorer**.
-
+>
  >Buka dengan Explorer di SharePoint menggunakan kontrol ActiveX sehingga hanya didukung di Internet Explorer 10 atau 11. Buka dengan Explorer tidak dapat digunakan di Windows dengan Microsoft Edge, Google Chrome, Mozilla Firefox, atau pada platform Mac. Karena alasan ini, opsi Tampilan Explorer mungkin berwarna abu-abu.
-
+>
 > - [Mengapa tombol pita SharePoint tidak tersedia atau berwarna abu-abu](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 
