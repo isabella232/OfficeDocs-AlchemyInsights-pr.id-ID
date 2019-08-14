@@ -14,18 +14,17 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 20cefc194bf9e591ae5bf11ac898ea47104fcc68
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9a1493a7312df92e5fc21ae2e64a6e8038a17c17
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384577"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391019"
 ---
-# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="2fa4b-102">Bagaimana mengidentifikasi charge atas kartu kredit atau rekening bank</span><span class="sxs-lookup"><span data-stu-id="2fa4b-102">How to identify a charge on your credit card or bank statement</span></span>
+# <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a><span data-ttu-id="d5252-102">Bagaimana mengidentifikasi charge atas kartu kredit atau rekening bank</span><span class="sxs-lookup"><span data-stu-id="d5252-102">How to identify a charge on your credit card or bank statement</span></span>
 
-<span data-ttu-id="2fa4b-103">Deskripsi biaya untuk berlangganan kantor 365 terlihat seperti ini:</span><span class="sxs-lookup"><span data-stu-id="2fa4b-103">The charge description for an Office 365 subscription looks like this:</span></span>
+<span data-ttu-id="d5252-103">Deskripsi biaya untuk berlangganan kantor 365 terlihat seperti ini:</span><span class="sxs-lookup"><span data-stu-id="d5252-103">The charge description for an Office 365 subscription looks like this:</span></span>
   
-<span data-ttu-id="2fa4b-104">MSFT \* WA 0000 - MSBILL.INFO, E012345ABC</span><span class="sxs-lookup"><span data-stu-id="2fa4b-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
+<span data-ttu-id="d5252-104">MSFT \* WA 0000 - MSBILL.INFO, E012345ABC</span><span class="sxs-lookup"><span data-stu-id="d5252-104">MSFT \* E012345ABC 0000 - MSBILL.INFO, WA</span></span>
   
-<span data-ttu-id="2fa4b-105">10 karakter alfa-numerik string berikut MSFT \* nomor faktur yang berkaitan dengan biaya.</span><span class="sxs-lookup"><span data-stu-id="2fa4b-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="2fa4b-106">Untuk menemukan faktur, pergi ke halaman [tagihan](https://go.microsoft.com/fwlink/p/?linkid=848039) , atau memilih **penagihan** \> **tagihan** untuk melihat faktur kemarin.</span><span class="sxs-lookup"><span data-stu-id="2fa4b-106">To find the invoice, go to the [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page, or choose **Billing** \> **Bills** to view your recent invoices.</span></span> <span data-ttu-id="2fa4b-107">Faktur jumlah berada di dekat sudut kanan dokumen faktur.</span><span class="sxs-lookup"><span data-stu-id="2fa4b-107">The invoice number is near the right corner of the invoice document.</span></span>
-  
+<span data-ttu-id="d5252-105">10 karakter alfa-numerik string berikut MSFT \* nomor faktur yang berkaitan dengan biaya.</span><span class="sxs-lookup"><span data-stu-id="d5252-105">The 10 character alpha-numeric string following MSFT \* is the Invoice Number the charge relates to.</span></span> <span data-ttu-id="d5252-106">Untuk menemukan faktur, pergi ke **penagihan** \> [tagihan](https://go.microsoft.com/fwlink/p/?linkid=848039) halaman untuk melihat faktur kemarin.</span><span class="sxs-lookup"><span data-stu-id="d5252-106">To find the invoice, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page to view your recent invoices.</span></span> <span data-ttu-id="d5252-107">Faktur jumlah berada di dekat sudut kanan dokumen faktur.</span><span class="sxs-lookup"><span data-stu-id="d5252-107">The invoice number is near the right corner of the invoice document.</span></span>
