@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383532"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389939"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Cara mengaktifkan kembali dan mengelola penagihan berulang
 
 Sepertinya Anda memiliki kepelangganan yang telah kedaluwarsa. Jika Anda ingin mengaktifkan kembali itu, di sini bagaimana.
   
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau pergi ke **penagihan** \> **langganan**.
+1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Memilih berlangganan yang **Expired** atau **Penyandang Cacat**.
 
@@ -36,11 +36,10 @@ Sepertinya Anda memiliki kepelangganan yang telah kedaluwarsa. Jika Anda ingin m
 
 Untuk mengelola bulanan atau tahunan penagihan Anda dapat beralih **Recurring penagihan** on atau off.
   
-1. Di pusat Admin, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau pergi ke **penagihan** \> **langganan**.
+1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Memilih berlangganan yang Anda ingin mengelola penagihan berulang.
 
 3. Beralih beralih **Recurring penagihan** ke **hidup** atau **mati**.
 
-Untuk informasi lebih lanjut, lihat: [mengelola penagihan atas langganan berulang](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Untuk selengkapnya, lihat [mengaktifkan penagihan atau berulang](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
