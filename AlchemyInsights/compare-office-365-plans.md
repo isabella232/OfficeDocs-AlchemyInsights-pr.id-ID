@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362216"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386623"
 ---
 # <a name="compare-office-365-plans"></a>Membandingkan rencana Office 365
 
@@ -28,7 +28,6 @@ Kantor 365 rencana tersedia untuk [bisnis](https://products.office.com/compare-a
   
 Jika organisasi Anda tertarik dalam membandingkan semua rencana dan harga, meninjau [membandingkan semua rencana Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jika organisasi Anda telah membeli rencana Office 365 dan tertarik untuk beralih ke rencana yang berbeda Anda dapat sehingga dari Pusat admin Microsoft 365, pergi ke [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054)atau memilih **penagihan** \> **langganan**. Memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia.
+Jika organisasi Anda telah membeli rencana Office 365 dan tertarik untuk beralih ke rencana yang berbeda yang Anda dapat melakukannya dari Microsoft 365 admin center. Pergi ke **penagihan** \> [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman, kemudian memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia.
   
-Organisasi Anda juga dapat mencampur dan mencocokkan Office 365 rencana untuk memenuhi kebutuhan dan persyaratan fitur pengguna. Dari kantor 365 Admin, pergi ke halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) , atau memilih **penagihan** \> **Layanan pembelian**.
-  
+Organisasi Anda juga dapat mencampur dan mencocokkan Office 365 rencana untuk memenuhi kebutuhan dan persyaratan fitur pengguna. Dari Pusat admin, pergi ke **penagihan** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) .

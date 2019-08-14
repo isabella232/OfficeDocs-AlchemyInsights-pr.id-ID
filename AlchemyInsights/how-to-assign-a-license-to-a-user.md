@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385692"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386299"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Cara menetapkan lisensi ke pengguna
 
 Pengguna memerlukan lisensi untuk memiliki akses ke layanan. Berikut adalah langkah-langkah untuk menambah, mengubah, atau menghapus izin dari pengguna.
   
-1. Di pusat Admin, pergi ke halaman [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) , atau memilih **pengguna** \> **pengguna aktif**.
+1. Di pusat admin, pergi ke **pengguna** \> halaman [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Centang kotak di sebelah nama pengguna yang Anda ingin menetapkan, mengubah, atau menghapus lisensi.
 
@@ -38,5 +38,4 @@ Pengguna memerlukan lisensi untuk memiliki akses ke layanan. Berikut adalah lang
 
 5. Di bagian bawah panel **lisensi produk** , memilih **menyimpan** \> **dekat** \> **dekat**.
 
-Untuk selengkapnya, lihat [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), dan [menghapus izin dari pengguna di Office 365 untuk bisnis](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Untuk selengkapnya, lihat [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), dan [menghapus izin dari pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

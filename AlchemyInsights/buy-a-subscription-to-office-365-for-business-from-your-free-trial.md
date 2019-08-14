@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359353"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386875"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Membeli berlangganan ke Office 365 dari percobaan gratis
 
@@ -26,18 +26,16 @@ Anda mencoba Office 365, dan sekarang Anda siap untuk membeli. Anda memiliki dua
   
  **Anda dapat membeli rencana yang sama sebagai percobaan Anda**
   
-1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
+1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Pilih **Beli sekarang** untuk percobaan langganan yang Anda inginkan, dan ikuti langkah-langkah untuk memeriksa.
 
 atau **Anda dapat membeli langganan berbeda**
   
-1. Masuk ke kantor 365 dengan akun kantor atau sekolah sebagai global admin. [Pelajari cara masuk](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Memilih **Office 365** di homepage.
+2. Pada halaman **berlangganan** , pilih **Tambah langganan**.
 
-3. Di sudut kanan atas halaman, di bawah panel navigasi, pilih **pembelian**.
+3. Menemukan berlangganan yang Anda ingin membeli, memilih **Beli sekarang**dan ikuti langkah-langkah untuk memeriksa.
 
-4. Pada halaman **pembelian langganan** , rencana Anda mencoba memiliki sebuah banner **Di pengadilan** .
-
-5. Pilih **Beli sekarang** untuk percobaan langganan yang Anda inginkan, dan ikuti langkah-langkah untuk memeriksa.
+Apakah Anda menggunakan pusat admin baru? Untuk langkah-langkah baru, lihat [membeli berlangganan ke Office 365 untuk bisnis dari percobaan gratis](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

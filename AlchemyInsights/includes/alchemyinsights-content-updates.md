@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Minggu tanggal 01 Juli tahun 2019
-
-
-| Diterbitkan pada |Judul topik | Perubahan |
-|------|------------|--------|
-| 7/1/2019 | [Klasik SharePoint laporan log audit](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | diubah |
-| 7/2/2019 | [Info lebih lanjut tentang kebijakan penyimpanan](/AlchemyInsights/office-security-compliance-retention-policy) | diubah |
-
-
 ## <a name="week-of-july-08-2019"></a>Minggu 08 Juli tahun 2019
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Mengatur e-mail di Outlook di web](/AlchemyInsights/owa-organize-email) | diubah |
 | 8/2/2019 | [Cetak email, kalender, dan lampiran di Outlook di web](/AlchemyInsights/owa-print-email-calendars-attachments) | diubah |
 | 8/2/2019 | [Tanda terima baca di Outlook di web](/AlchemyInsights/owa-read-receipts) | diubah |
+
+
+## <a name="week-of-august-05-2019"></a>Minggu 05 Agustus 2019
+
+
+| Diterbitkan pada |Judul topik | Perubahan |
+|------|------------|--------|
+| 8/5/2019 | [Bagaimana untuk membalas atau meneruskan pesan di Outlook di web](/AlchemyInsights/owa-reply-forward-messages) | diubah |
+| 8/5/2019 | [8000003 Cari Mail dan orang-orang di Outlook di web](/AlchemyInsights/owa-search-mail-and-people) | diubah |
+| 8/5/2019 | [Membuat tanda tangan di Outlook di web](/AlchemyInsights/owa-signature) | diubah |
+| 8/5/2019 | [S/MIME di Outlook di web](/AlchemyInsights/owa-smime) | diubah |
+| 8/5/2019 | [Berhenti pesan dari pergi ke folder Junk Email di Outlook di web](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | diubah |
+| 8/5/2019 | [Mematikan terfokus kotak masuk](/AlchemyInsights/owa-turn-off-focused-inbox) | diubah |
+| 8/5/2019 | [1332 OWA - Inbox Bapepam tidak mengeksekusi untuk kotak pesan](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | diubah |
+| 8/6/2019 | [Pengujian Alkimia inline gambar](/AlchemyInsights/testing-alchemy-inline-images) | diubah |
+| 8/6/2019 | [Perlindungan canggih ancaman di SharePoint dan OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | diubah |
+| 8/6/2019 | [Ransomware serangan pada SharePoint atau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | diubah |
+| 8/6/2019 | [Situs modern sebagai situs akar](/AlchemyInsights/modern-site-as-the-root-site) | diubah |
+| 8/6/2019 | [Masalah saat memigrasi data untuk SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | diubah |
+| 8/6/2019 | [Download atau mencegah men-Download file dari OneDrive atau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | diubah |
+| 8/6/2019 | [Mengatasi masalah Akses ditolak pesan untuk OneDrive untuk situs bisnis](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | diubah |
+| 8/6/2019 | [Memulihkan dihapus file atau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | diubah |
+| 8/6/2019 | [Versi di SharePoint dan OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | diubah |
+| 8/6/2019 | [Informasi penyimpanan dan penghapusan OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | diubah |
+| 8/7/2019 | [Mencegah file yang di-download dari SharePoint atau OneDrive](/AlchemyInsights/prevent-download) | diubah |
+| 8/7/2019 | [Memulihkan dihapus file atau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | diubah |
+| 8/7/2019 | [Mengaktifkan berbagi eksternal dalam SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | diubah |
+| 8/7/2019 | [Memperbaiki masalah sinkronisasi OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | diubah |
+| 8/7/2019 | [Memperbaiki masalah sinkronisasi OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | diubah |
+| 8/7/2019 | [Alur kerja email tidak dikirim](/AlchemyInsights/workflow-email-not-being-sent) | diubah |
+| 8/7/2019 | [Alur kerja tidak memulai](/AlchemyInsights/workflow-is-not-starting) | diubah |
+| 8/7/2019 | [Perlindungan canggih ancaman di SharePoint dan OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | diubah |
+| 8/7/2019 | [Mengaitkan lokasi Hub](/AlchemyInsights/associate-a-hub-site) | diubah |
+| 8/7/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | diubah |
+| 8/7/2019 | [Situs modern sebagai situs akar](/AlchemyInsights/modern-site-as-the-root-site) | diubah |
+| 8/7/2019 | [OneDrive retensi dan penghapusan](/AlchemyInsights/one-drive-retention-and-deletion) | diubah |
+| 8/7/2019 | [Masalah umum OneDrive dan resolusi](/AlchemyInsights/onedrive-common-issues-and-resolutions) | diubah |
+| 8/7/2019 | [Ransomware serangan pada SharePoint atau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | diubah |
+| 8/7/2019 | [Eksternal berbagi dalam SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | diubah |
+| 8/7/2019 | [Versi di SharePoint dan OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | diubah |
+| 8/7/2019 | [Kontak eksternal tidak mampu menerima mengundang berbagi](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | diubah |
+| 8/7/2019 | [Masalah umum SharePoint Online dan resolusi](/AlchemyInsights/sharepoint-get-started-faq) | diubah |
+| 8/7/2019 | [Situs modern sebagai situs akar](/AlchemyInsights/sharepoint-modernize-classic-site) | diubah |
+| 8/7/2019 | [Download atau mencegah men-Download file dari OneDrive atau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | diubah |
+| 8/7/2019 | [Instalasi, konfigurasi, dan sinkronisasi OneDrive atau SharePoint file pada Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | diubah |
+| 8/7/2019 | [Memecahkan masalah "Terbuka dengan Explorer" dalam SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | diubah |
+| 8/8/2019 | [Perlindungan canggih ancaman di SharePoint dan OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | diubah |
+| 8/8/2019 | [Mengaitkan lokasi Hub](/AlchemyInsights/associate-a-hub-site) | diubah |
+| 8/8/2019 | [Buat situs SharePoint](/AlchemyInsights/create-a-sharepoint-site) | diubah |
+| 8/8/2019 | [Kesalahan 404: File tidak ditemukan](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | diubah |
+| 8/8/2019 | [Memperbaiki masalah sinkronisasi OneDrive pada Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | diubah |
+| 8/8/2019 | [Peta SharePoint perpustakaan untuk drive jaringan](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | diubah |
+| 8/8/2019 | [Situs modern sebagai situs akar](/AlchemyInsights/modern-site-as-the-root-site) | diubah |
+| 8/8/2019 | [OneDrive retensi dan penghapusan](/AlchemyInsights/one-drive-retention-and-deletion) | diubah |
+| 8/8/2019 | [Ransomware serangan pada SharePoint atau OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | diubah |
+| 8/8/2019 | [Memulihkan dihapus file atau folder](/AlchemyInsights/sharepoint-deleted-items-restore) | diubah |
+| 8/8/2019 | [Pengguna eksternal tidak mampu mengakses konten dalam SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | diubah |
+| 8/8/2019 | [SharePoint hub situs Tinjauan](/AlchemyInsights/sharepoint-hub-sites) | diubah |
+| 8/8/2019 | [Download atau mencegah men-Download file dari OneDrive atau SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | diubah |
+| 8/8/2019 | [Mengelola skema Cari SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | diubah |
+| 8/8/2019 | [Langkah-langkah untuk membuat alur kerja SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | diubah |
+| 8/8/2019 | [Swap situs akar klasik dengan sebuah situs Modern](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | diubah |
+| 8/8/2019 | [Memecahkan masalah "Terbuka dengan Explorer" dalam SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | diubah |
+| 8/8/2019 | [Alur kerja pemecahan masalah](/AlchemyInsights/workflow-troubleshooting) | diubah |
+| 8/8/2019 | [Mengaktifkan dan Cari Audit log](/AlchemyInsights/enable-auditing) | diubah |
+| 8/8/2019 | [Mengaktifkan dan pencarian Audit log](/AlchemyInsights/enable-auditing) | diubah |
