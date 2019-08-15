@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 5d446cefffb1598a5d2c8cd17b6eba64205f00f2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383640"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390839"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Mengaktifkan kembali langganan
 
 Jika langganan kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Microsoft, Anda dapat mengaktifkannya kembali di pusat admin Microsoft 365.
   
-1. Di Pusat admin, masuk ke halaman [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054), atau pilih **Tagihan** \> **Langganan**.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Pilih langganan yang ingin diaktifkan kembali.
 
@@ -36,5 +36,4 @@ Jika langganan kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Microsoft,
 
 6. Jika langganan tidak berubah menjadi Aktif setelah beberapa menit, refresh halaman.
 
-Untuk informasi selengkapnya, lihat: [Memperpanjang Office 365 untuk bisnis](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Untuk informasi selengkapnya, lihat: [Memperpanjang Office 365 untuk bisnis](https://docs.microsoft.com/id-ID/office365/admin/subscriptions-and-billing/renew-your-subscription).
