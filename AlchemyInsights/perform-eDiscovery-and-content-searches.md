@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371436"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444775"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan pencarian konten dan pencarian eDiscovery
 
-**Cari konten**
+Gunakan alat pencarian konten di & keamanan Compliance Center untuk cepat menemukan email dalam kotak pesan Exchange, dokumen di situs SharePoint dan OneDrive account, dan percakapan di Skype untuk bisnis pesan cepat. Anda juga dapat menggunakan alat pencarian konten untuk mencari email, dokumen, dan percakapan pesan instan di Office 365 kolaborasi alat seperti Microsoft Teams dan kantor 365 kelompok.
+
+**Untuk melakukan pencarian isi**
 
 1. Pergi ke [& keamanan Compliance Center](https://protection.office.com) dan masuk.
-2. Klik **Search & penyelidikan > mencari konten**.
+2. Klik **Cari konten >**.
 3. Klik **pencarian baru** untuk membuat pencarian baru.
 4. Masukkan kondisi diperlukan pencarian yang termasuk kata kunci dan konten lokasi.  
 5. Klik **Simpan & menjalankan** nama pencarian, mulai dan kemudian melihat hasilnya.
 
-Untuk petunjuk rinci tentang membuat pencarian dan mengekspor hasil, lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Untuk petunjuk rinci tentang konten pencarian, mengekspor hasil, dan menciptakan eDiscovery kasus untuk menyimpan data, lihat [Pencarian isi](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) dan [eDiscovery kasus](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**pencarian eDiscovery**
-
-1. Pergi ke [& keamanan Compliance Center](https://protection.office.com) dan masuk.
-2. Klik **Cari & penyelidikan > eDiscovery**.
-3. Membuka kasus yang sudah ada atau membuat yang baru.
-4. Pada kasus home page, klik tab **pencarian** .  
-5. Klik **pencarian baru** untuk membuat pencarian baru.
-6. Masukkan kondisi diperlukan pencarian yang termasuk kata kunci dan konten lokasi.  
-7. Klik **Simpan & menjalankan** nama pencarian, mulai dan kemudian melihat hasilnya.
-
-Untuk petunjuk rinci tentang cara membuat penelusuran terkait dengan kasus eDiscovery dan mengekspor hasil, lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Memahami lebih lanjut tentang pencarian isi dengan meninjau [persyaratan dan batas](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) dan [menyelidiki sebagian diindeks item](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) dan hasil untuk menyadari.
