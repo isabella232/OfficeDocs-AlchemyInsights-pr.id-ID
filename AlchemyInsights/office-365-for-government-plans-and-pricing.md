@@ -13,15 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522122"
 ---
-<span data-ttu-id="22064-102">Kantor 365 pemerintah AS rencana yang dirancang untuk kebutuhan unik organisasi pemerintah US.</span><span class="sxs-lookup"><span data-stu-id="22064-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="22064-103">Mereka menyediakan semua fitur dan kemampuan layanan Office 365 di komunitas awan tersegmentasi pemerintah yang memungkinkan organisasi untuk memenuhi standar keamanan dan kepatuhan US.</span><span class="sxs-lookup"><span data-stu-id="22064-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
-  
-- [<span data-ttu-id="22064-104">Meninjau rencana pemerintah</span><span class="sxs-lookup"><span data-stu-id="22064-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+# <a name="office-365-government-plans"></a><span data-ttu-id="e5931-102">Kantor 365 pemerintah berencana</span><span class="sxs-lookup"><span data-stu-id="e5931-102">Office 365 Government plans</span></span>
 
-- [<span data-ttu-id="22064-105">Membandingkan semua rencana Office 365</span><span class="sxs-lookup"><span data-stu-id="22064-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+<span data-ttu-id="e5931-103">Kantor 365 pemerintah AS rencana yang dirancang untuk kebutuhan unik organisasi pemerintah US.</span><span class="sxs-lookup"><span data-stu-id="e5931-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="e5931-104">Mereka menyediakan semua fitur dan kemampuan layanan Office 365 di komunitas awan tersegmentasi pemerintah yang memungkinkan organisasi untuk memenuhi standar keamanan dan kepatuhan US.</span><span class="sxs-lookup"><span data-stu-id="e5931-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+  
+- [<span data-ttu-id="e5931-105">Meninjau rencana pemerintah</span><span class="sxs-lookup"><span data-stu-id="e5931-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+
+- [<span data-ttu-id="e5931-106">Membandingkan semua rencana Office 365</span><span class="sxs-lookup"><span data-stu-id="e5931-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)

@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
 ms.custom: 8000026
 ms.assetid: 77216e51-08d8-4f75-8c8c-e91e14eed75d
-ms.openlocfilehash: cf84f26a0902886b1d3655c92694a140b8f6dc3a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 61df1750a13eb51091150f1b2a478ea5cf3bd980
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393923"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520634"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="e2b94-102">Pelajari tentang Outlook.com yang baru</span><span class="sxs-lookup"><span data-stu-id="e2b94-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="b246c-102">Pelajari tentang Outlook.com yang baru</span><span class="sxs-lookup"><span data-stu-id="b246c-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="e2b94-103">[Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) tentang perubahan di Outlook.com yang baru atau cari di kotak di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="e2b94-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="b246c-103">[Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) tentang perubahan di Outlook.com yang baru atau cari di kotak di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="b246c-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="e2b94-104">Gulir ke bawah untuk melihat hasil.</span><span class="sxs-lookup"><span data-stu-id="e2b94-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="b246c-104">Gulir ke bawah untuk melihat hasil.</span><span class="sxs-lookup"><span data-stu-id="b246c-104">Scroll down to see the results.</span></span>
   
 
