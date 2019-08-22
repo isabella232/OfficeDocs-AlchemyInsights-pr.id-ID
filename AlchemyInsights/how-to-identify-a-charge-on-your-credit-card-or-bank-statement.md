@@ -14,12 +14,12 @@ ms.custom:
 - "1960"
 - "1500019"
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 9a1493a7312df92e5fc21ae2e64a6e8038a17c17
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 9b3c6f04a505da6b2737a486ed02c97aa6152504
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391019"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540616"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Bagaimana mengidentifikasi charge atas kartu kredit atau rekening bank
 
@@ -27,4 +27,4 @@ Deskripsi biaya untuk berlangganan kantor 365 terlihat seperti ini:
   
 MSFT \* WA 0000 - MSBILL.INFO, E012345ABC
   
-10 karakter alfa-numerik string berikut MSFT \* nomor faktur yang berkaitan dengan biaya. Untuk menemukan faktur, pergi ke **penagihan** \> [tagihan](https://go.microsoft.com/fwlink/p/?linkid=848039) halaman untuk melihat faktur kemarin. Faktur jumlah berada di dekat sudut kanan dokumen faktur.
+10 karakter alfa-numerik string berikut MSFT \* nomor faktur yang berkaitan dengan biaya. Untuk menemukan faktur, pergi ke **penagihan** \> [tagihan pembayaran &](https://go.microsoft.com/fwlink/p/?linkid=848039) halaman untuk melihat faktur kemarin. Faktur jumlah berada di dekat sudut kanan dokumen faktur.
