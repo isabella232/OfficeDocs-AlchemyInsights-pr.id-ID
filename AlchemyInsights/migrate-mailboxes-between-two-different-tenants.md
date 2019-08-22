@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 8d1118d5e804dcfc29f4a6b39e298d2a52511027
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379968"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544650"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="3d1de-102">Memigrasi kotak pesan antara dua penyewa</span><span class="sxs-lookup"><span data-stu-id="3d1de-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="9a6c3-102">Memigrasi kotak pesan antara dua penyewa</span><span class="sxs-lookup"><span data-stu-id="9a6c3-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="3d1de-103">Anda mungkin perlu untuk memigrasi kotak pesan antara dua berbeda penyewa di Office 365, misalnya, ketika ada penggabungan organisasi.</span><span class="sxs-lookup"><span data-stu-id="3d1de-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="3d1de-104">Migrasi ini harus hati-hati direncanakan.</span><span class="sxs-lookup"><span data-stu-id="3d1de-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="3d1de-105">Silahkan lihat petunjuk berikut:</span><span class="sxs-lookup"><span data-stu-id="3d1de-105">Please see the following guidance:</span></span>
+<span data-ttu-id="9a6c3-103">Anda mungkin perlu untuk memigrasi kotak pesan antara dua berbeda penyewa di Office 365, misalnya, ketika ada penggabungan organisasi.</span><span class="sxs-lookup"><span data-stu-id="9a6c3-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="9a6c3-104">Migrasi ini harus hati-hati direncanakan.</span><span class="sxs-lookup"><span data-stu-id="9a6c3-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="9a6c3-105">Silahkan lihat petunjuk berikut:</span><span class="sxs-lookup"><span data-stu-id="9a6c3-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="3d1de-106">Bagaimana cara memigrasi kotak pesan dari satu Office 365 penyewa lain</span><span class="sxs-lookup"><span data-stu-id="3d1de-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[<span data-ttu-id="9a6c3-106">Bagaimana cara memigrasi kotak pesan dari satu Office 365 penyewa lain</span><span class="sxs-lookup"><span data-stu-id="9a6c3-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
   
