@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: 16a9e157e5c033457d089519a6781edae4801683
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663852"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510554"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="f451f-102">Gunakan browser Anda untuk Periksa ejaan</span><span class="sxs-lookup"><span data-stu-id="f451f-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="44994-102">Gunakan browser Anda untuk Periksa ejaan</span><span class="sxs-lookup"><span data-stu-id="44994-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="f451f-103">Ada tidak ada spell check pilihan di Outlook di web.</span><span class="sxs-lookup"><span data-stu-id="f451f-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="f451f-104">Untuk memeriksa ejaan, Anda akan perlu menggunakan web browser.</span><span class="sxs-lookup"><span data-stu-id="f451f-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="f451f-105">Ejaan tersedia di Microsoft Edge, Internet Explorer 10 dan versi, dan versi terbaru Firefox, Chrome dan Safari.</span><span class="sxs-lookup"><span data-stu-id="f451f-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="f451f-106">Periksa pilihan browser web Anda untuk mempelajari lebih lanjut tentang cara memeriksa ejaan.</span><span class="sxs-lookup"><span data-stu-id="f451f-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="44994-103">Ada tidak ada spell check pilihan di Outlook di web.</span><span class="sxs-lookup"><span data-stu-id="44994-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="44994-104">Untuk memeriksa ejaan, Anda akan perlu menggunakan web browser.</span><span class="sxs-lookup"><span data-stu-id="44994-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="44994-105">Ejaan tersedia di Microsoft Edge, Internet Explorer 10 dan versi, dan versi terbaru Firefox, Chrome dan Safari.</span><span class="sxs-lookup"><span data-stu-id="44994-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="44994-106">Periksa pilihan browser web Anda untuk mempelajari lebih lanjut tentang cara memeriksa ejaan.</span><span class="sxs-lookup"><span data-stu-id="44994-106">Check the options for your web browser to learn more about how to check spelling.</span></span>

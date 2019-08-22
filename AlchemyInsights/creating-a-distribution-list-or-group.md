@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: bec7a5813e026eb3cd94bcad65a35824751f7fe7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 706cc34ddef79c519e7afc7cbf1d10621ffcf4d6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364160"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514982"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="ac682-102">Membuat grup distribusi</span><span class="sxs-lookup"><span data-stu-id="ac682-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="5f96e-102">Membuat grup distribusi</span><span class="sxs-lookup"><span data-stu-id="5f96e-102">Create distribution groups</span></span>
 
-<span data-ttu-id="ac682-103">Anda menggunakan grup distribusi (juga dikenal sebagai daftar distribusi) untuk mengirimkan pesan email ke sekelompok orang di dalam dan di luar organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="ac682-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="ac682-104">Membuat mereka sangat mudah!</span><span class="sxs-lookup"><span data-stu-id="ac682-104">Creating them is easy!</span></span> <span data-ttu-id="ac682-105">Untuk petunjuk, lihat [membuat distribusi daftar di Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="ac682-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
+<span data-ttu-id="5f96e-103">Anda menggunakan grup distribusi (juga dikenal sebagai daftar distribusi) untuk mengirimkan pesan email ke sekelompok orang di dalam dan di luar organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="5f96e-103">You use distribution groups (also known as distribution lists) to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="5f96e-104">Membuat mereka sangat mudah!</span><span class="sxs-lookup"><span data-stu-id="5f96e-104">Creating them is easy!</span></span> <span data-ttu-id="5f96e-105">Untuk petunjuk, lihat [membuat distribusi daftar di Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="5f96e-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
 
-<span data-ttu-id="ac682-106">**Catatan**: admin perlu mengelola keanggotaan grup distribusi.</span><span class="sxs-lookup"><span data-stu-id="ac682-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="ac682-107">Jika Anda ingin pengguna untuk mengelola keanggotaan grup sendiri daftar, Anda mungkin ingin mempertimbangkan [Kantor 365 kelompok](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sebagai gantinya.</span><span class="sxs-lookup"><span data-stu-id="ac682-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="5f96e-106">**Catatan**: admin perlu mengelola keanggotaan grup distribusi.</span><span class="sxs-lookup"><span data-stu-id="5f96e-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="5f96e-107">Jika Anda ingin pengguna untuk mengelola keanggotaan grup sendiri daftar, Anda mungkin ingin mempertimbangkan [Kantor 365 kelompok](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sebagai gantinya.</span><span class="sxs-lookup"><span data-stu-id="5f96e-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
