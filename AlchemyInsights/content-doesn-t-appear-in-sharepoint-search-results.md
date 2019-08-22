@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363812"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517034"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Konten tidak muncul dalam hasil pencarian SharePoint
 
@@ -28,7 +28,7 @@ Ikuti langkah pemecahan masalah ketika konten yang diharapkan tidak muncul dalam
 
 3. Memverifikasi bahwa halaman, dokumen, atau tata letak halaman kustom diterbitkan sebagai **versi Mayor.** Ikuti langkah 3 dalam [pencarian tidak kembali semua hasil dalam SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Pastikan bahwa pengguna memiliki **izin** untuk melihat konten. Ikuti langkah-langkah dalam [pemahaman tingkat izin di SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Pastikan bahwa pengguna memiliki **izin** untuk melihat konten. Ikuti langkah-langkah dalam [pemahaman tingkat izin di SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Jika skema Cari telah berubah dengan menambahkan properti dikelola baru, dengan mengedit properti yang dikelola atau dengan menghapus properti yang dikelola kemudian meminta merangkak dan mengindeks ulang akan diperlukan. **Kembali indeks** konten dengan mengikuti langkah-langkah di [secara manual meminta merangkak dan mengindeks ulang situs, Perpustakaan atau daftar](https://docs.microsoft.com/sharepoint/crawl-site-content). Ini mungkin memakan waktu cukup lama, tunggu selama 24 jam sebelum memeriksa hasil lagi.
 

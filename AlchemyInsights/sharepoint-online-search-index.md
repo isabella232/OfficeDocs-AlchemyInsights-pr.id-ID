@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059255"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507634"
 ---
-# <a name="search-in-sharepoint-online"></a>Pencarian di SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Konten menperayapan dan mengindeks dalam SharePoint Online
 
 Konten harus merangkak dan ditambahkan ke indeks pencarian bagi pengguna untuk menemukan apa yang mereka mencari di SharePoint Online. Konten secara otomatis merangkak berdasarkan pada jadwal yang ditetapkan merangkak (jadwal merangkak tidak berubah). Crawler mengambil konten yang telah berubah sejak terakhir merangkak dan pembaruan indeks. Untuk memastikan konten merangkak dan indeks diperbarui, perhatikan yang berikut ini:
 
@@ -30,7 +30,8 @@ Konten harus merangkak dan ditambahkan ke indeks pencarian bagi pengguna untuk m
 
     Jika lebih dari 24 jam telah berlalu sejak memulai merangkak dan mengindeks ulang penuh, silahkan log kasus dukungan. Dalam banyak kasus, kami sudah bekerja pada sebuah solusi. Mohon berikan setidaknya 24 jam untuk menyelesaikan solusi.
 
->[! Penting!]: jika sebuah situs, dokumen (Perpustakaan) atau daftar dihapus dan masih menunjukkan di hasil pencarian, pengguna akan menerima **Kesalahan 404 File tidak ditemukan** ketika mencoba untuk mengaksesnya. Masalah ini harus login sebagai kasus dukungan untuk investigasi lebih lanjut. 
+> [!IMPORTANT]
+> Jika sebuah situs, dokumen (Perpustakaan), atau daftar dihapus dan masih menunjukkan di hasil pencarian, pengguna akan menerima **Kesalahan 404 File tidak ditemukan** ketika mencoba untuk mengaksesnya. Masalah ini harus login sebagai kasus dukungan untuk investigasi lebih lanjut. 
 
 
 

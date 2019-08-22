@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 38f75e82fe7174f6ad118e82532589adc00f0b0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369056"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36509111"
 ---
 # <a name="set-passwords-to-never-expire"></a>Mengatur password untuk tidak pernah berakhir
 
-Untuk mengatur semua password tidak pernah berakhir, pergi ke [keamanan &amp; privasi](https://portal.office.com/adminportal/home#/settings/security). Klik **Edit** di samping **Standar kebijakan Password**, dan mengubah slider **on**.
+Untuk mengatur semua password agar tidak pernah berakhir, di pusat admin Microsoft 365, pergi ke **pengaturan** > [keamanan &amp; privasi](https://portal.office.com/adminportal/home#/settings/security) halaman. Pilih **Edit** di samping **standar kebijakan Password**, dan mengubah slider **on**.
   
 Untuk informasi lebih lanjut lihat: [menetapkan sandi kedaluwarsa kebijakan untuk organisasi.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

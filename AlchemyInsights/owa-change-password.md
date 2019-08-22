@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663853"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510482"
 ---
-# <a name="change-your-password"></a>Mengubah sandi
+# <a name="change-your-office-365-password"></a>Mengubah sandi Office 365
 
-[Membuat ulang sandi Office 365](https://go.microsoft.com/fwlink/p/?linkid=841910)
+Jika Anda perlu mengubah atau membuat ulang sandi Office 365, Anda dapat pergi langsung ke Halaman ini: [membuat ulang sandi Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)
