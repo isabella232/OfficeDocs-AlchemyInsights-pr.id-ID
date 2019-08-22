@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385615"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495034"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Menambahkan kursi ke langganan prabayar
 
-1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Lisensi Office 365 prabayar yang dikeluarkan untuk Anda sebagai 25-karakter alfanumerik kode. Setelah Anda membeli lisensi yang Anda butuhkan, Anda dapat menambahkannya ke langganan Anda. 
 
-2. Langganan prabayar Anda ingin menambahkan pengguna untuk memilih.
+1. Di pusat admin, pergi ke **penagihan** > [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
 
-3. Dalam menu **tindakan lain** , memilih **memperbaharui atau menambahkan lisensi dengan token**.
+2. Menemukan berlangganan yang Anda ingin menambahkan lisensi. Pilih daftar drop-down **lebih tindakan** , dan kemudian memilih **memperbaharui atau menambahkan lisensi dengan token**.
 
-4. Pilih opsi **kunci produk baru dan tidak terpakai** . (Jika berlangganan ini diciptakan dengan kunci produk yang dibeli di lokasi ritel, Anda mungkin memiliki pilihan untuk menambahkan pengguna dengan metode pembayaran lainnya.)
+3. Pada **memperbaharui atau menambahkan lisensi pengguna** halaman, pilih **menggunakan kunci produk baru dan tidak terpakai**, lalu pilih **berikutnya**.
 
-5. Pilih **berikutnya**.
+4. Masukkan kunci produk, lalu pilih **berikutnya**.
 
-6. Masukkan kunci produk, lalu pilih **berikutnya**.
+    > [!NOTE]
+    > Jika Anda memiliki lebih dari satu kunci produk, Anda dapat **menambahkan kunci produk lain** untuk mereka.
 
-7. Pilih opsi untuk menambahkan lebih banyak pengguna, pilih **berikutnya**, kemudian memilih **Redeem**.
+5. Memilih untuk menambahkan pengguna ke langganan, lalu pilih **berikutnya**.
 
-Apakah Anda menggunakan pusat admin baru? Untuk langkah-langkah baru, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Periksa rincian pesanan Anda, kemudian pilih **Redeem**.
+
+Untuk informasi lebih lanjut, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

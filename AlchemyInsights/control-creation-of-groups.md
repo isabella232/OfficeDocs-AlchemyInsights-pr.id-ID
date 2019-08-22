@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364016"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516674"
 ---
-# <a name="control-creation-of-o365-groups"></a>Kontrol pembentukan kelompok-kelompok O365
+# <a name="control-creation-of-office-365-groups"></a>Kontrol pembuatan Rombongan Office 365
 
-Secara default, semua pengguna dalam perusahaan mampu membuat grup O365. Jika diperlukan, dapat mengubah ini, dan menetapkan hak untuk menciptakan kelompok-kelompok O365 untuk satu set orang-orang dalam perusahaan Anda. Catatan bahwa ini akan memiliki dampak pada pembentukan kelompok-kelompok dari layanan O365 (seperti Outlook, tim, perencana dan seterusnya).
+Secara default, semua pengguna dalam perusahaan mampu membuat grup. Jika diperlukan, dapat mengubah ini, dan menetapkan hak untuk membuat grup untuk satu set orang-orang dalam perusahaan Anda. Catatan bahwa ini akan memiliki dampak pada pembentukan kelompok-kelompok dari suatu layanan Office 365 (seperti Outlook, tim, perencana dan seterusnya).
   
 Petunjuk: [mengatur siapa yang dapat membuat kantor 365 kelompok](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

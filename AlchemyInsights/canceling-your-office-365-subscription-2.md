@@ -13,12 +13,12 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 4e18a07b54a3d47767998c7680d92f741b0fb5c6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387255"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520958"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Membatalkan langganan di Office 365 Anda?
 
@@ -28,4 +28,4 @@ Berdasarkan data organisasi Anda, kami percaya semua langganan Anda saat ini mem
   
 Atau, menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.
   
-Untuk mempelajari lebih lanjut tentang membatalkan langganan atau untuk petunjuk langkah demi langkah, lihat artikel ini: [membatalkan langganan Anda](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Untuk mempelajari lebih lanjut tentang membatalkan langganan atau untuk petunjuk langkah demi langkah, lihat artikel ini: [membatalkan langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

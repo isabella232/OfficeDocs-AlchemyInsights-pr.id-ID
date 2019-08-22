@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397937"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505834"
 ---
 # <a name="outlook-search-not-indexing"></a>Cari Outlook tidak mengindeks
 
 Kami menyadari Outlook Cari isu-isu keamanan yang terkait untuk baru update untuk Windows.
   
-Saat melakukan pencarian di Outlook, Anda mungkin mendapatkan error ini: ** sesuatu yang tidak beres dan pencarian Anda tidak bisa diselesaikan **, atau **hasil pencarian mungkin tidak lengkap karena item masih sedang diindeks**. Perbaikan dikeluarkan sebagai opsional Windows update. Silakan instal yang sesuai untuk versi Windows Anda melihat masalah ini pada: 
+Saat melakukan pencarian di Outlook, Anda mungkin mendapatkan salah satu kesalahan ini: **sesuatu yang tidak beres dan pencarian Anda tidak bisa diselesaikan**, atau **hasil pencarian mungkin tidak lengkap karena item masih sedang diindeks**. Perbaikan dikeluarkan sebagai opsional Windows update. Silakan instal yang sesuai untuk versi Windows Anda melihat masalah ini pada: 
   
 > [Windows 7 - 27 Juni 2017 update](https://support.microsoft.com/kb/4022168.aspx)
     

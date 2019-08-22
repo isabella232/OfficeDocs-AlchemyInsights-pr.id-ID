@@ -12,13 +12,13 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 6728f195b83ec7c2cc8583cb003d5978e29ee06f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 48bdc17e8f16d719445492f395c44e10bf6cbaea
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381300"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497806"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Belajar tentang kalender eksternal opsi berbagi
 
-Lihat [berbagi kalender dengan pengguna eksternal](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Jika Anda perlu untuk menjadwalkan pertemuan dengan pengguna di luar organisasi Anda, Office 365 memungkinkan Anda untuk membuat kalender yang tersedia untuk "pengguna eksternal," orang-orang yang membutuhkan untuk melihat bebas/sibuk waktu tetapi tidak memiliki account pengguna untuk lingkungan Office 365 Anda. Untuk selengkapnya, lihat [berbagi kalender dengan pengguna eksternal](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
