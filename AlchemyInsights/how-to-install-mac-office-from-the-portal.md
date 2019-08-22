@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 0ee6319e09d08815d6fd96d68fc193bdbe2998a6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384609"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540436"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="bd789-102">Bagaimana menginstal Mac kantor dari portal</span><span class="sxs-lookup"><span data-stu-id="bd789-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="b4548-102">Bagaimana menginstal Mac kantor dari portal</span><span class="sxs-lookup"><span data-stu-id="b4548-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="bd789-103">[Uninstall Office 2011 untuk Mac dari komputer Anda](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="bd789-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="b4548-103">[Uninstall Office 2011 untuk Mac dari komputer Anda](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b4548-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="bd789-104">[Download perangkat lunak memastikan Mac diaktifkan pada admin portal Office 365](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="bd789-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
+2. <span data-ttu-id="b4548-104">[Download perangkat lunak memastikan Mac diaktifkan pada admin portal Office 365](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b4548-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-3. <span data-ttu-id="bd789-105">[Menetapkan lisensi Office untuk pengguna Mac Anda](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="bd789-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
+3. <span data-ttu-id="b4548-105">[Menetapkan lisensi Office untuk pengguna Mac Anda](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="b4548-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-4. <span data-ttu-id="bd789-106">Pengguna dapat kemudian instal perangkat lunak perkantoran sendiri, atau Anda dapat menggunakan [Menyebarkan kantor untuk pengguna Mac Anda](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="bd789-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="b4548-106">Pengguna dapat kemudian instal perangkat lunak perkantoran sendiri, atau Anda dapat menggunakan [Menyebarkan kantor untuk pengguna Mac Anda](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="b4548-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>

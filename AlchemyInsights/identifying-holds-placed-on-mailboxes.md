@@ -12,27 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382884"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538784"
 ---
-<span data-ttu-id="1216f-102">Apakah Anda memiliki konten yang sedang **dipertahankan** oleh **memegang** bahwa Anda tidak dapat mengidentifikasi?</span><span class="sxs-lookup"><span data-stu-id="1216f-102">Do you have content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="1216f-103">Perlu untuk **mengetahui** di mana terus berada pada kotak **pesan** ?</span><span class="sxs-lookup"><span data-stu-id="1216f-103">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="1216f-104">Memegang ( *retensi fitur* ) dapat diterapkan oleh salah satu metode berikut di Office 365:</span><span class="sxs-lookup"><span data-stu-id="1216f-104">Holds (  *retention features*  ) can be applied by one of the following methods in Office 365:</span></span>
+# <a name="identify-holds-placed-on-mailboxes"></a><span data-ttu-id="1dc62-102">Mengidentifikasi memegang ditempatkan pada kotak pesan</span><span class="sxs-lookup"><span data-stu-id="1dc62-102">Identify holds placed on mailboxes</span></span>
+
+<span data-ttu-id="1dc62-103">Apakah Anda memiliki Office 365 konten yang sedang **dipertahankan** oleh **memegang** bahwa Anda tidak dapat mengidentifikasi?</span><span class="sxs-lookup"><span data-stu-id="1dc62-103">Do you have Office 365 content that is being **retained** by a **hold** that you cannot identify?</span></span> <span data-ttu-id="1dc62-104">Perlu untuk **mengetahui** di mana terus berada pada kotak **pesan** ?</span><span class="sxs-lookup"><span data-stu-id="1dc62-104">Need to **find out** where the hold is located on the **mailbox** ?</span></span> <span data-ttu-id="1dc62-105">Memegang (*retensi fitur*) dapat diterapkan oleh salah satu metode berikut di Office 365:</span><span class="sxs-lookup"><span data-stu-id="1dc62-105">Holds (*retention features*) can be applied by one of the following methods in Office 365:</span></span>
   
-- <span data-ttu-id="1216f-105">Penahanan litigasi</span><span class="sxs-lookup"><span data-stu-id="1216f-105">Litigation Hold</span></span>
+- <span data-ttu-id="1dc62-106">Penahanan litigasi</span><span class="sxs-lookup"><span data-stu-id="1dc62-106">Litigation Hold</span></span>
 
-- <span data-ttu-id="1216f-106">terus eDiscovery</span><span class="sxs-lookup"><span data-stu-id="1216f-106">eDiscovery hold</span></span>
+- <span data-ttu-id="1dc62-107">terus eDiscovery</span><span class="sxs-lookup"><span data-stu-id="1dc62-107">eDiscovery hold</span></span>
 
-- <span data-ttu-id="1216f-107">Terus di-tempat</span><span class="sxs-lookup"><span data-stu-id="1216f-107">In-Place Hold</span></span>
+- <span data-ttu-id="1dc62-108">Terus di-tempat</span><span class="sxs-lookup"><span data-stu-id="1dc62-108">In-Place Hold</span></span>
 
-- <span data-ttu-id="1216f-108">Kebijakan Penyimpanan Office 365</span><span class="sxs-lookup"><span data-stu-id="1216f-108">Office 365 retention policy</span></span> 
+- <span data-ttu-id="1dc62-109">Kebijakan Penyimpanan Office 365</span><span class="sxs-lookup"><span data-stu-id="1dc62-109">Office 365 retention policy</span></span> 
 
-  - <span data-ttu-id="1216f-109">Kebijakan Penyimpanan lokasi tertentu</span><span class="sxs-lookup"><span data-stu-id="1216f-109">Specific location retention policies</span></span>
+  - <span data-ttu-id="1dc62-110">Kebijakan Penyimpanan lokasi tertentu</span><span class="sxs-lookup"><span data-stu-id="1dc62-110">Specific location retention policies</span></span>
 
-  - <span data-ttu-id="1216f-110">Kebijakan Penyimpanan seluruh organisasi</span><span class="sxs-lookup"><span data-stu-id="1216f-110">Organization-wide retention policies</span></span>
+  - <span data-ttu-id="1dc62-111">Kebijakan Penyimpanan seluruh organisasi</span><span class="sxs-lookup"><span data-stu-id="1dc62-111">Organization-wide retention policies</span></span>
 
-- <span data-ttu-id="1216f-111">Label Office 365</span><span class="sxs-lookup"><span data-stu-id="1216f-111">Office 365 labels</span></span>
+- <span data-ttu-id="1dc62-112">Label Office 365</span><span class="sxs-lookup"><span data-stu-id="1dc62-112">Office 365 labels</span></span>
 
-<span data-ttu-id="1216f-112">Untuk mengidentifikasi jenis terus diterapkan ke kotak pesan pengguna, lihat [bagaimana mengidentifikasi jenis memegang ditempatkan pada kotak pesan Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="1216f-112">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>
+<span data-ttu-id="1dc62-113">Untuk mengidentifikasi jenis terus diterapkan ke kotak pesan pengguna, lihat [bagaimana mengidentifikasi jenis memegang ditempatkan pada kotak pesan Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span><span class="sxs-lookup"><span data-stu-id="1dc62-113">To identify which type of hold is applied to a user's mailbox, see [How to identify the type of hold placed on an Exchange Online mailbox](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).</span></span>
