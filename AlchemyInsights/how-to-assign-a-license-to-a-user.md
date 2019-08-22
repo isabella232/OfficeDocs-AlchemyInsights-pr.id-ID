@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386299"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522470"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Cara menetapkan lisensi ke pengguna
 
-Pengguna memerlukan lisensi untuk memiliki akses ke layanan. Berikut adalah langkah-langkah untuk menambah, mengubah, atau menghapus izin dari pengguna.
+Pengguna memerlukan lisensi Office 365 untuk mengakses layanan. Berikut adalah langkah-langkah untuk menambah, mengubah, atau menghapus izin dari pengguna.
   
-1. Di pusat admin, pergi ke **pengguna** \> halaman [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) .
+1. Di pusat admin, pergi ke **pengguna** \> halaman [pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. Centang kotak di sebelah nama pengguna yang Anda ingin menetapkan, mengubah, atau menghapus lisensi.
+2. Pilih nama pengguna yang Anda ingin menetapkan, mengubah, atau menghapus lisensi.
 
-3. Di sebelah kanan, pada baris **produk lisensi** , pilih **Edit**.
+3. Pada tab **lisensi dan aplikasi** , pilih lisensi yang Anda ingin tetapkan ke pengguna ini.
 
-4. Di panel **lisensi produk** , beralih beralih ke posisi **pada** lisensi yang Anda ingin tetapkan ke pengguna ini.
+    Secara default, semua layanan yang terkait dengan lisensi tersebut secara otomatis ditetapkan ke pengguna. Untuk membatasi layanan yang tersedia kepada pengguna, Hapus centang pada kotak untuk layanan yang Anda tidak ingin pengguna untuk memiliki.
 
-    Secara default, semua layanan yang terkait dengan lisensi tersebut secara otomatis ditetapkan ke pengguna. Untuk membatasi layanan yang tersedia untuk pengguna, beralih tuas ke **Off** posisi Layanan bahwa Anda tidak ingin pengguna untuk memiliki.
+4. Di bagian bawah jendela, pilih **Simpan perubahan**.
 
-    Beralih beralih ke posisi **Off** untuk menghapus lisensi.
-
-5. Di bagian bawah panel **lisensi produk** , memilih **menyimpan** \> **dekat** \> **dekat**.
-
-Untuk selengkapnya, lihat [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), dan [menghapus izin dari pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Untuk selengkapnya, lihat [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), dan [menghapus izin dari pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
