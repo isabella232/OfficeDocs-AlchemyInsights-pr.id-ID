@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059183"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507886"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Eksternal berbagi pengaturan untuk SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Pesan peringatan: kebijakan organisasi tidak memungkinkan Anda untuk berbagi dengan pengguna ini
 
 Pengguna mungkin mengalami pesan peringatan ketika mencoba untuk berbagi dengan user dari luar organisasi Anda. Pesan adalah **kebijakan organisasi tidak memungkinkan Anda untuk berbagi dengan pengguna tersebut. Pergi ke eksternal berbagi di Office 365 admin center untuk mengaktifkan itu**. Hal ini sering terjadi pertama kali mencoba untuk berbagi dengan pengguna eksternal atau ketika berbagi dengan pengguna eksternal baru.
 

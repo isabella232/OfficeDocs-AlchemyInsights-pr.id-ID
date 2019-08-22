@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381732"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498418"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Menginstal Office pada Terminal Server
 
@@ -26,7 +26,7 @@ Untuk menggunakan kantor 365 ProPlus pada Windows Server menggunakan Remote Desk
 
 - Anda perlu untuk mengaktifkan [aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari portal Office 365, ** *yang menggunakan pengaturan default instalasi* **, ikuti langkah berikut:
+Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari kantor 365 portal, ***yang menggunakan pengaturan default instalasi***, ikuti langkah berikut:
   
 1. Periksa apa rencana Office 365 yang Anda miliki. [Pelajari bagaimana](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari portal Office 365, *
 
 4. Di RDS server, masuk ke portal 365 kantor dengan administrator account dan [menginstal Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Setelah kantor diinstal, ** *tidak membuka atau masuk* ** untuk aplikasi kantor.
+5. Setelah kantor diinstal, ***tidak membuka atau masuk*** untuk aplikasi kantor.
 
 6. Di RDS server, mengaktifkan aktivasi komputer bersama dengan mengedit registri dengan mengikuti langkah berikut:
 
@@ -46,7 +46,7 @@ Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari portal Office 365, *
 
 3. Di Penyunting registri, menambahkan nilai string dari **SharedComputerLicensing** dengan suasana 1 di bawah HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Di RDS server, ** *masuk sebagai pengguna akhir* ** dan [memverifikasi bahwa komputer bersama aktivasi diaktifkan untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Pada RDS server, ***masuk sebagai pengguna akhir*** dan [memverifikasi bahwa komputer bersama aktivasi diaktifkan untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Untuk detail lebih lanjut tentang prasyarat, setup instruksi dan panduan instalasi yang disesuaikan dengan menggunakan alat penyebaran kantor, silakan lihat [Menyebarkan kantor 365 ProPlus dengan menggunakan Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

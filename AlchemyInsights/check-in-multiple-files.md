@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7bba3d7fc4e432c7c266ce8aa87322fc784a8ac0
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754279"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36520526"
 ---
 # <a name="check-in-several-files-at-once"></a>Check-in beberapa file sekaligus
 
-Memeriksa file masuk dan keluar adalah cara yang bagus untuk melacak dan mengontrol bagaimana konten diperbarui. Jika Anda ingin membuat perubahan ke file di situs dan Anda ingin memastikan bahwa tidak ada seorang pun dapat menyuntingnya, memeriksa file. Bila Anda memiliki file memeriksa, Anda dapat mengedit itu online atau offline, dan Simpan beberapa kali, jika diperlukan.
+Memeriksa file masuk dan keluar dari SharePoint Perpustakaan adalah cara yang bagus untuk melacak dan kontrol bagaimana konten diperbarui. Jika Anda ingin membuat perubahan ke file di situs dan Anda ingin memastikan bahwa tidak ada seorang pun dapat menyuntingnya, memeriksa file. Bila Anda memiliki file memeriksa, Anda dapat mengedit itu online atau offline, dan Simpan beberapa kali, jika diperlukan.
 
 Berikut adalah beberapa link yang berguna mengenai fitur ini.
 
-- [Bagaimana untuk memeriksa keluar, check-in atau membuang perubahan ke file](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Bagaimana memeriksa, check-in atau membuang perubahan ke file](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
 - [Atas pertanyaan tentang memeriksa, check-in, dan versi](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 

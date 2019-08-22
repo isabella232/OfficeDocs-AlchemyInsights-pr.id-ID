@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271831"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512889"
 ---
 # <a name="disable-onedrive"></a>Menonaktifkan OneDrive
 
 Ada beberapa cara Anda dapat menonaktifkan akses ke OneDrive dan layanannya tergantung pada kebutuhan bisnis Anda:
 
-[Membatalkan tautan, menyembunyikan atau meng-uninstall aplikasi OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[hanya memungkinkan sinkronisasi untuk organisasi tertentu](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-[OneDrive menonaktifkan situs penciptaan untuk beberapa pengguna](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[kontrol akses ke data SharePoint Online dan OneDrive Berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[menonaktifkan pribadi sinkronisasi OneDrive](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[mengelola sambungan dari perangkat Windows untuk OneDrive dan layanan lainnya](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Membatalkan tautan, menyembunyikan atau menghapus aplikasi OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+
+[Hanya memungkinkan sinkronisasi untuk organisasi tertentu](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[Menonaktifkan pembuatan situs OneDrive untuk beberapa pengguna](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[Kontrol akses ke data SharePoint Online dan OneDrive berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[Menonaktifkan sinkronisasi OneDrive pribadi](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[Mengelola koneksi dari perangkat Windows untuk OneDrive dan layanan lainnya](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

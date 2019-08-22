@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 8c0ab0086ca47ead5705d423f01824081d0e109e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755334"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523982"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Galat TenantAccessBlockedException ketika mengakses email?
 
 Ada beberapa alasan yang berbeda mengapa Anda mungkin menerima galat ini. Misalnya:
 
-- Memverifikasi bahwa langganan Anda berlaku di **penagihan** \> halaman **langganan** di [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/subscriptions).
+- Memverifikasi bahwa langganan Anda berlaku pada **tagihan** \> [produk & Jasa](https://portal.office.com/adminportal/home#/subscriptions) halaman di Microsoft 365 admin center.
 
-- Periksa masa lalu karena setiap pemberitahuan di **penagihan** \> halaman **tagihan** di [Pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/billoverview).
+- Periksa masa lalu karena setiap pemberitahuan pada **tagihan** \> [tagihan pembayaran &](https://portal.office.com/adminportal/home#/billoverview) halaman di Microsoft 365 admin center.
 
 - Jika penagihan dan langganan untuk account Anda telah baru saja diperbarui, ini mungkin memakan waktu untuk perubahan untuk menyebarkan. Coba lagi dalam beberapa menit, dan jika masalah berlanjut, hubungi kami.
