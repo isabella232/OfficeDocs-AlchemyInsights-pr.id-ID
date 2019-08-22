@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769501"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544614"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Mengalami masalah dengan layanan internet?
 
-Jika Anda mengalami masalah dengan layanan internet, Anda dapat memeriksa [layanan kesehatan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk menentukan apakah masalah yang dikenal dengan resolusi berlangsung sebelum Anda menghubungi dukungan atau menghabiskan waktu pemecahan masalah. Masalah mungkin sementara dan sudah diidentifikasi oleh Microsoft, namun mungkin ada selang waktu antara posting layanan kesehatan Dashboard dan identifikasi masalah. Silakan lanjutkan untuk memeriksa dashboard layanan untuk lebih update.
+Jika Anda mengalami masalah dengan layanan internet, Anda dapat memeriksa [layanan kesehatan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) di Microsoft 365 admin center untuk menentukan apakah masalah yang dikenal dengan resolusi berlangsung sebelum Anda menghubungi dukungan atau menghabiskan waktu pemecahan masalah. Masalah mungkin sementara dan sudah diidentifikasi oleh Microsoft, namun mungkin ada selang waktu antara posting layanan kesehatan Dashboard dan identifikasi masalah. Silakan lanjutkan untuk memeriksa dashboard layanan untuk lebih update.
 
 **Pemberitahuan kebijakan**
 

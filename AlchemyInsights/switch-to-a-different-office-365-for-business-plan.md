@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388185"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534170"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Beralih ke Office 365 berbeda untuk rencana bisnis
 
-Ketika perubahan bisnis Anda, atau Anda membutuhkan lebih banyak fitur Office 365, Anda dapat beralih rencana.
+Ketika perubahan bisnis Anda, atau Anda membutuhkan lebih banyak fitur Office 365, Anda dapat meng-upgrade ke rencana baru.
   
-1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
 
-2. Memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia.
+2. Pilih berlangganan yang Anda ingin meng-upgrade.
 
-3. Memilih rencana untuk melihat baru total biaya per bulan. Pastikan untuk membaca informasi kunci, lalu pilih **berikutnya** untuk memeriksa.
+3. Pada halaman rincian berlangganan, pilih **Upgrade**.
 
-Tombol rencana Switch tidak didukung dalam segala situasi. Dalam beberapa kasus, Anda mungkin dapat beralih rencana secara manual.
-  
-Jika tombol **beralih rencana** tidak tersedia, Anda dapat mencoba untuk [beralih rencana secara manual](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) atau menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.
-  
-Apakah Anda menggunakan pusat admin baru? Untuk langkah-langkah baru, lihat [meng-Upgrade ke rencana yang berbeda](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. Menemukan rencana yang Anda ingin meng-upgrade, kemudian pilih tombol **Upgrade** .
+
+5. Masukkan nomor lisensi yang Anda butuhkan, pilih apakah akan membayar setiap bulan atau sepanjang tahun, kemudian pilih **Checkout**.
+   
+Untuk selengkapnya, lihat [meng-Upgrade ke rencana yang berbeda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
