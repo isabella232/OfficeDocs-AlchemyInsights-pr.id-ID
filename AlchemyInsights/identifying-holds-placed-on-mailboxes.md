@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382884"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538784"
 ---
-Apakah Anda memiliki konten yang sedang **dipertahankan** oleh **memegang** bahwa Anda tidak dapat mengidentifikasi? Perlu untuk **mengetahui** di mana terus berada pada kotak **pesan** ? Memegang ( *retensi fitur* ) dapat diterapkan oleh salah satu metode berikut di Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Mengidentifikasi memegang ditempatkan pada kotak pesan
+
+Apakah Anda memiliki Office 365 konten yang sedang **dipertahankan** oleh **memegang** bahwa Anda tidak dapat mengidentifikasi? Perlu untuk **mengetahui** di mana terus berada pada kotak **pesan** ? Memegang (*retensi fitur*) dapat diterapkan oleh salah satu metode berikut di Office 365:
   
 - Penahanan litigasi
 
