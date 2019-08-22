@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 0fdab2f37554cd91aeb2a71101f6841fe148f66d
-ms.sourcegitcommit: 01fc5e0c25e691351d58295f055a1c64402867a0
+ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36399750"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507346"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Masalah sinkronisasi kalender ke perangkat
 
@@ -33,4 +33,4 @@ Untuk melakukan sinkronisasi kalender SharePoint ke Outlook, ikuti langkah berik
 >[!Note]
 > Ketika Anda membuat perubahan dalam kalender Outlook disinkronkan, akan muncul di kalender SharePoint dan sebaliknya.
 
-Untuk informasi lebih lanjut tentang kantor 365 grup, lihat [artikel](https://support.office.com/en-us/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ini.
+Untuk informasi lebih lanjut tentang kantor 365 grup, lihat [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ini.

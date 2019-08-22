@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382956"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539032"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Mengidentifikasi alamat IP dan klien dalam log audit
 
-Alamat IP yang berkaitan dengan aktivitas oleh pengguna atau administrator akan ditampilkan dalam log Audit. Informasi klien juga login. Berikut adalah langkah-langkah untuk mengidentifikasi informasi tersebut
+Alamat IP yang berkaitan dengan aktivitas oleh Office 365 pengguna atau administrator akan ditampilkan dalam log Audit. Informasi klien juga login. Berikut adalah langkah-langkah untuk mengidentifikasi informasi tersebut
 
-1. Masuk ke [Kantor 365 keamanan & Compliance Center](https://protection.office.com/)
+1. Masuk ke [Kantor 365 keamanan & Compliance Center](https://protection.office.com/).
 
-2. Klik **Cari dan penyelidikan** dan pilih **Cari Log Audit**.
+2. Pergi ke **pencarian** > halaman**pencarian log Audit** .
 
    Jika Anda tertarik untuk aktivitas tertentu, pilih dari daftar **kegiatan** . Jika tidak, Semua kegiatan akan dikembalikan untuk pemakai dipilih (pengaturan default).
 
