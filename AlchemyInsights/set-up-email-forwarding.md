@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355376"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549942"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Periksa email forwarding pengaturan untuk kotak pesan
 
-Sangat mudah untuk memverifikasi email forwarding pengaturan pada kotak pesan! Ikuti langkah berikut.
+Sangat mudah untuk memverifikasi email forwarding pengaturan pada kotak pesan di Office 365! Ikuti langkah berikut.
   
-> Jika ini adalah kotak pesan pengguna, pergi ke **pengguna** \> **pengguna aktif** dan pilih pengguna yang memiliki kotak pesan yang Anda sedang meneruskan. Di bawah Pengaturan E-mail, pilih **Edit** untuk Email forwarding.
+> Jika ini adalah kotak pesan pengguna, pergi ke **pengguna** \> **pengguna aktif** dan pilih pengguna yang memiliki kotak pesan yang Anda sedang meneruskan. Pada tab **E-mail** , pilih **Kelola email forwarding**.
     
-> Jika ini adalah kotak pesan bersama, pergi ke **kelompok** \> **kotak pesan bersama** dan pilih kotak pesan bersama yang Anda sedang meneruskan. Pilih **Edit** untuk Email forwarding.
+> Jika ini adalah kotak pesan bersama, pergi ke **kelompok** \> **kotak pesan bersama** dan pilih kotak pesan bersama yang Anda sedang meneruskan. Mengedit **mengedit** untuk Email forwarding.
 
 Untuk selengkapnya, lihat [mengkonfigurasi email forwarding di Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
