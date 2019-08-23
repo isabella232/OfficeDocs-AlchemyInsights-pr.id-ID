@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 9bf158d434704ec13878c78461bfeeec22a7ac81
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373020"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545298"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="35aeb-102">Tanda terima baca</span><span class="sxs-lookup"><span data-stu-id="35aeb-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="234e1-102">Tanda terima baca</span><span class="sxs-lookup"><span data-stu-id="234e1-102">Read receipts</span></span>
 
-<span data-ttu-id="35aeb-103">Anda tidak dapat meminta tanda terima baca di Outlook.com, tetapi Anda dapat meminta tanda terima baca untuk pesan Outlook.com yang dikirim menggunakan Outlook untuk Windows.</span><span class="sxs-lookup"><span data-stu-id="35aeb-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="35aeb-104">Untuk mempelajari caranya, lihat [Add dan permintaan tanda terima baca dan pengiriman pemberitahuan](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="35aeb-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="234e1-103">Anda tidak dapat meminta tanda terima baca di Outlook.com, tetapi Anda dapat meminta tanda terima baca untuk pesan Outlook.com yang dikirim menggunakan Outlook untuk Windows.</span><span class="sxs-lookup"><span data-stu-id="234e1-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="234e1-104">Untuk mempelajari caranya, lihat [Add dan permintaan tanda terima baca dan pengiriman pemberitahuan](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="234e1-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="35aeb-105">Untuk memilih bagaimana Outlook.com menanggapi permintaan tanda terima baca, pergi ke [pengaturan tanda terima baca](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="35aeb-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
+<span data-ttu-id="234e1-105">Untuk memilih bagaimana Outlook.com menanggapi permintaan tanda terima baca, pergi ke [pengaturan tanda terima baca](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="234e1-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>

@@ -13,13 +13,13 @@ ms.custom:
 - "597"
 - "3800001"
 ms.assetid: 99cf97b6-0ecb-4e38-a2c6-4b59c702c978
-ms.openlocfilehash: ff684984060e71cdcabe600d3a083db5816d432a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 080605b91f6efd2caf510f0086519bf6c78e3969
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380292"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544902"
 ---
-# <a name="microsoft-bookings-app"></a><span data-ttu-id="e21a2-102">Aplikasi Microsoft Pemesanan</span><span class="sxs-lookup"><span data-stu-id="e21a2-102">Microsoft Bookings app</span></span>
+# <a name="microsoft-bookings-app"></a><span data-ttu-id="6b3e5-102">Aplikasi Microsoft Pemesanan</span><span class="sxs-lookup"><span data-stu-id="6b3e5-102">Microsoft Bookings app</span></span>
 
-<span data-ttu-id="e21a2-103">Untuk mengatasi masalah dalam aplikasi Pemesanan baru, lihat [artikel Pemesanan](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="e21a2-103">For troubleshooting issues in the new Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
+<span data-ttu-id="6b3e5-103">Microsoft Bookings adalah janji penjadwalan app that membantu Anda melacak pemesanan Anda, staf Anda dan pelanggan Anda.</span><span class="sxs-lookup"><span data-stu-id="6b3e5-103">Microsoft Bookings is an appointment scheduling app that helps you keep track of your bookings, your staff, and your customers.</span></span> <span data-ttu-id="6b3e5-104">Untuk informasi atau pemecahan masalah di app Pemesanan, lihat [artikel Pemesanan](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span><span class="sxs-lookup"><span data-stu-id="6b3e5-104">For information or troubleshooting in the Bookings app, see [Bookings articles](https://support.office.com/article/b9c9295c-c654-4b10-b5cc-f739825fc092).</span></span>
