@@ -14,18 +14,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 4cfcd74a30a02f2f5a92abb3b63314b63774bc36
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356240"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552270"
 ---
-# <a name="reset-or-change-passwords"></a>Reset atau mengubah sandi
+# <a name="reset-or-change-office-365-business-passwords"></a>Reset atau mengubah password bisnis Office 365
 
 Pengguna dapat mengubah password mereka sendiri dari [account saya, keamanan &amp; privasi](https://portal.office.com/account/#security).
   
-Jika pengguna lupa sandi mereka, admin dapat mengatur ulang sandi dengan pergi ke [pengguna \> pengguna aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna dan klik **membuat ulang sandi**.
+Jika pengguna lupa sandi mereka, admin dapat mengatur ulang sandi dengan pergi ke **pengguna** > [pengguna aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, lalu pilih **Reset password**.
   
 [Klik di sini untuk mempelajari lebih lanjut](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), atau untuk memungkinkan pengguna membuat ulang sandi lupa mereka sendiri.
   

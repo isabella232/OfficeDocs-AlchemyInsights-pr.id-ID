@@ -11,14 +11,14 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 0162b27b6310671bec19e159e9953b7556b31c60
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370101"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552894"
 ---
-# <a name="rename-a-site"></a>Mengubah nama situs
+# <a name="rename-a-sharepoint-site"></a>Mengubah nama situs SharePoint
 
 Untuk mengubah nama situs, misalnya, dari https://contoso.sharepoint.com/sites/sample1 untuk https://contoso.sharepoint.com/sites/sample2, Anda perlu membuat situs baru dan kemudian pindah semua konten dari situs yang lama ke yang baru. Untuk info tentang memindahkan item dalam dokumen Perpustakaan, lihat [memindahkan atau menyalin item dari pustaka dokumen SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
   

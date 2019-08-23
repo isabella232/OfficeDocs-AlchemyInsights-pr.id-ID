@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444775"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555236"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan pencarian konten dan pencarian eDiscovery
 
@@ -32,6 +32,6 @@ Gunakan alat pencarian konten di & keamanan Compliance Center untuk cepat menemu
 4. Masukkan kondisi diperlukan pencarian yang termasuk kata kunci dan konten lokasi.  
 5. Klik **Simpan & menjalankan** nama pencarian, mulai dan kemudian melihat hasilnya.
 
-Untuk petunjuk rinci tentang konten pencarian, mengekspor hasil, dan menciptakan eDiscovery kasus untuk menyimpan data, lihat [Pencarian isi](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) dan [eDiscovery kasus](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Untuk petunjuk rinci tentang konten pencarian, mengekspor hasil, dan menciptakan eDiscovery kasus untuk menyimpan data, lihat [Pencarian isi](https://docs.microsoft.com/office365/securitycompliance/content-search) dan [eDiscovery kasus](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Memahami lebih lanjut tentang pencarian isi dengan meninjau [persyaratan dan batas](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) dan [menyelidiki sebagian diindeks item](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) dan hasil untuk menyadari.
+Memahami lebih lanjut tentang pencarian isi dengan meninjau [persyaratan dan batas](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) dan [menyelidiki sebagian diindeks item](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) dan hasil untuk menyadari.

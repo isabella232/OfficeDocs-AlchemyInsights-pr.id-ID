@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383100"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539104"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Mengidentifikasi ketika penerusan email eksternal dikonfigurasi pada kotak pesan
 
-Ketika pengguna mengkonfigurasi penerusan email eksternal di kotak pesan, kegiatan audit sebagai bagian dari cmdlet **Set-Mailbox** . Anda dapat melihat aktivitas yang menggunakan log audit pencarian di & keamanan Compliance Center.
+Ketika pengguna Office 365 mengkonfigurasi penerusan email eksternal di kotak pesan, kegiatan audit sebagai bagian dari cmdlet **Set-Mailbox** . Anda dapat melihat aktivitas yang menggunakan log audit pencarian di & keamanan Compliance Center.
 
-1. Masuk ke [Kantor 365 keamanan & Compliance Center](https://protection.office.com/)
+1. Masuk ke [Kantor 365 keamanan & Compliance Center](https://protection.office.com/).
 
-2. Klik **Cari dan penyelidikan** dan pilih **Cari Log Audit**.
+2. Pergi ke **pencarian** > halaman**pencarian log Audit** .
 
 3. Pilih rentang tanggal di bidang **tanggal mulai** dan **tanggal akhir** . Anda tidak perlu menetapkan nama pengguna. Pastikan bidang **kegiatan** diatur untuk **menunjukkan hasil untuk semua kegiatan**.
 
