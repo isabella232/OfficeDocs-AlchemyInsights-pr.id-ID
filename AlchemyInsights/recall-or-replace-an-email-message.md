@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356600"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553435"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Ingat atau mengganti pesan email
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Ingat atau mengganti pesan email di Office 365
 
 - Anda dapat **hanya ingat pesan yang dikirim ke pengguna di organisasi Anda**. Jika pesan dikirim ke alamat Gmail, misalnya, Anda tidak bisa mengingat itu.
 - Anda dapat **hanya ingat pesan yang dikirim dari 2016 Outlook untuk PC**. Jika pengguna mengirim pesan menggunakan Outlook untuk Mac atau Outlook di web, Anda tidak bisa mengingat itu.
 - Jika Anda seorang admin, Anda dapat **mengingat pesan atas nama pengguna dengan menggunakan PowerShell**. Anda tidak bisa mengingat pesan dari di admin center. Gulir ke bawah untuk "Mencari dan menghapus pesan email di organisasi Anda" untuk informasi lebih lanjut.
 
-***Ingat atau mengganti pesan email yang dikirim***
+**Ingat atau mengganti pesan email yang dikirim**
 
 1. Di panel map di sebelah kiri jendela Outlook, pilih folder Item Terkirim.
 2. Buka pesan yang ingin Anda ingat. Anda harus mengklik ganda untuk membuka pesan. Memilih pesan sehingga muncul di panel baca tidak akan mengizinkan Anda untuk mengingat pesan.
