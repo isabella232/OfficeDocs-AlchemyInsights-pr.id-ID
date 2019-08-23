@@ -11,18 +11,18 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379932"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544686"
 ---
-# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Ketika mendapatkan kesalahan "Bukan domain yang diterima"
+# <a name="when-you-get-a-not-an-accepted-domain-error"></a>Jika mendapatkan kesalahan "Bukan domain yang diterima"
 
-Ketika mencoba menambahkan alamat email pada pengguna atau grup atau saat melakukan migrasi kotak surat, Anda mungkin mendapatkan kesalahan berikut: **Anda tidak dapat menggunakan domain ini karena belum termasuk domain yang diterima untuk Sistem Exchange.**
+Ketika mencoba menambahkan alamat email pada pengguna atau grup atau saat melakukan migrasi kotak surat Office 365, Anda mungkin mendapatkan kesalahan berikut: **Domain ini tidak dapat digunakan karena belum diterima di Sistem Exchange.**
   
-Biasanya, kesalahan ini dikarenakan nama domain *(seperti contoso.com)* belum sepenuhnya disiapkan untuk organisasi Anda.
+Umumnya, kesalahan ini disebabkan oleh nama domain *(seperti contoso.com)* yang belum sepenuhnya disiapkan untuk organisasi Anda.
   
 Pastikan bahwa domain disiapkan sepenuhnya dengan mengikuti instruksi di [Menambahkan domain ke Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
   
