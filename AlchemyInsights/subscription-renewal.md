@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388191"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501368"
 ---
 # <a name="subscription-recurring-billing"></a>Penagihan berulang berlangganan
 
-Jika Anda ingin tahu Kapan langganan bulanan atau tahunan akan ditagihkan (jika **Recurring penagihan** dihidupkan) atau berakhir (jika **Recurring penagihan** dimatikan):
+Jika Anda ingin tahu Kapan Anda bulanan atau tahunan berlangganan kantor 365 akan ditagihkan (jika **Recurring penagihan** dihidupkan) atau berakhir (jika **Recurring penagihan** dimatikan):
   
-1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
 
-2. Memilih berlangganan yang Anda ingin tahu lebih banyak tentang.
+2. Untuk berlangganan yang Anda ingin tahu lebih banyak tentang, di bawah **penagihan**, lihat **Renews pada** atau **Expiring pada** tanggal.
 
-3. Di sisi kanan Kartu langganan adalah informasi tentang status langganan, pengaturan **Recurring penagihan** dan berikutnya penagihan atau tanggal kedaluwarsa.
+4. Untuk membuat perubahan, pilih **edit** dan kemudian, di panel pengaturan **Recurring penagihan** , pilih **Mengubah OFF** untuk mematikannya. Jika penagihan berulang sudah dimatikan, pilih **bulanan** atau **sekali** untuk menyalakannya.
 
-4. Terus menggunakan layanan melewati tanggal ini, beralih beralih **pengaturan penagihan Recurring** **on**. Status akan menunjukkan tanggal penagihan selanjutnya untuk berlangganan.
-
-5. Untuk menghentikan layanan pada tanggal ini, beralih beralih **Recurring penagihan** ke **Off**. Status akan menunjukkan tanggal berlangganan berakhir.
-
-Apakah Anda menggunakan pusat admin baru? Untuk langkah-langkah baru, lihat [mengaktifkan penagihan atau berulang](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Untuk selengkapnya, lihat [mengaktifkan penagihan atau berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

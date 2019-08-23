@@ -1,5 +1,5 @@
 ---
-title: Di mana saya mendapatkan perangkat lunak sebagai layanan (Saas) apps?
+title: Di mana saya mendapatkan perangkat lunak sebagai layanan (SaaS) apps?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000562"
 - "2421"
-ms.openlocfilehash: 61a8d241e992cc73f1a3ac253365ac21d5e2f3d4
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606776"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558548"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps"></a>Di mana saya mendapatkan perangkat lunak sebagai layanan (Saas) apps?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Di mana mendapatkan perangkat lunak sebagai layanan (SaaS) aplikasi dari mitra Microsoft?
 
-Pelanggan dapat membeli Saas aplikasi dari [Appsource](http://www.appsource.com/).
+Pelanggan dapat mencari, penelitian, dan membeli SaaS aplikasi dari [AppSource](http://www.appsource.com/).
