@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539932"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574765"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="9a8da-102">Mengaktifkan kembali langganan</span><span class="sxs-lookup"><span data-stu-id="9a8da-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="18b55-102">Mengaktifkan kembali langganan</span><span class="sxs-lookup"><span data-stu-id="18b55-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="9a8da-103">Jika langganan sudah kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Microsoft, Anda dapat mengaktifkannya kembali di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9a8da-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="18b55-103">Jika langganan sudah kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Microsoft, Anda dapat mengaktifkannya kembali di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="18b55-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="9a8da-104">Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="9a8da-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="18b55-104">Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="18b55-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="9a8da-105">Di bawah **Tagihan**, di samping **Diperpanjang pada** atau **Kedaluwarsa pada**, pilih **Edit**.</span><span class="sxs-lookup"><span data-stu-id="9a8da-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="18b55-105">Pilih langganan yang ingin Anda aktifkan kembali.</span><span class="sxs-lookup"><span data-stu-id="18b55-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="18b55-106">Di bagian **Tagihan**, pilih **Aktifkan kembali**.</span><span class="sxs-lookup"><span data-stu-id="18b55-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="9a8da-106">Di panel **Pengaturan tagihan berulang**, pilih opsi yang Anda inginkan.</span><span class="sxs-lookup"><span data-stu-id="9a8da-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="9a8da-107">Jika tagihan berulang sudah dinonaktifkan, pilih **Bulanan** atau **Sekali** untuk mengaktifkannya.</span><span class="sxs-lookup"><span data-stu-id="9a8da-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="18b55-107">Jika tindakan **Aktifkan kembali** tidak tersedia, hubungi dukungan untuk mengaktifkan kembali langganan Anda.</span><span class="sxs-lookup"><span data-stu-id="18b55-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="9a8da-108">Pilih **Kirim perubahan**.</span><span class="sxs-lookup"><span data-stu-id="9a8da-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="18b55-108">Konfirmasi detail pembayaran Anda.</span><span class="sxs-lookup"><span data-stu-id="18b55-108">Confirm your payment details.</span></span> <span data-ttu-id="18b55-109">Anda bisa memperbarui informasi pembayaran Anda yang sudah ada di sini.</span><span class="sxs-lookup"><span data-stu-id="18b55-109">You can update your existing payment information here.</span></span> <span data-ttu-id="18b55-110">Setelah selesai memasukkan metode pembayaran, pilih **Aktifkan kembali**.</span><span class="sxs-lookup"><span data-stu-id="18b55-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="9a8da-109">Untuk informasi selengkapnya, lihat: [Memperpanjang Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="9a8da-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="18b55-111">Apakah Anda menggunakan pusat admin yang lama?</span><span class="sxs-lookup"><span data-stu-id="18b55-111">Are you using the old admin center?</span></span> <span data-ttu-id="18b55-112">Untuk langkah-langkah lama, atau untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="18b55-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
