@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840518"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620726"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only untuk pemeliharaan pesan saat mencoba untuk menggunakan SharePoint atau OneDrive
 
-Pengguna dapat menerima pesan **Read-Only untuk pemeliharaan** saat mencoba untuk menggunakan SharePoint atau OneDrive.  Jika demikian, memeriksa apakah ada pemeliharaan aktif yang terjadi pada penyewa Anda dengan menavigasi ke [pusat pesan](https://portal.office.com/adminportal/home#/MessageCenter). Juga, pastikan untuk memeriksa dashboard [Layanan kesehatan](https://portal.office.com/adminportal/home#/servicehealth) untuk memeriksa setiap nasihat/insiden yang mungkin terjadi.
+Pengguna dapat menerima pesan **Read-Only untuk pemeliharaan** saat mencoba untuk menggunakan SharePoint atau OneDrive untuk salah satu skenario berikut. 
 
-Jika tidak pusat pesan atau jasa kesehatan dashboard telah mencatat apa-apa tentang perawatan saat ini untuk penyewa Anda, ini mungkin browser caching masalah.
+-   Kegiatan pemeliharaan direncanakan atau aktif.  Memeriksa mereka dengan menavigasi ke [Pusat pesan](https://portal.office.com/adminportal/home#/messagecenter).
+-   Layanan aktif prioritas tinggi, insiden yang mungkin terjadi. Periksa setiap nasihat/insiden dengan menavigasi ke [Layanan kesehatan](https://portal.office.com/adminportal/home#/servicehealth).
+-   Kecil menyembuhkan pemulihan skenario yang mungkin terjadi karena setiap kejadian tak terduga di server yang mungkin bertahan selama kurang dari 30 menit atau lebih. 
+    
+    Ada tidak ada pusat pesan atau jasa kesehatan posts untuk pemulihan ini kecil tapi Anda harus kembali ke normal segera.
+
+Pada beberapa kesempatan kami mengamati bahwa salah satu dari tiga skenario yang tercantum di atas telah menjadi penyebab, dan layanan telah dikembalikan, tetapi cache browser pengguna belum dibersihkan.
 
 Silakan mencoba membersihkan browser cache sebelum menavigasi ke situs.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385868"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574473"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Mengaktifkan berlangganan lisensi Volume Microsoft Office 365
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385868"
 
 5. Masuk ke kantor 365 ([https://portal.office.com](https://portal.office.com)) menggunakan kredensial administrator Anda yang ada di Office 365. Setelah berhasil masuk, Anda akan menerima email lain konfirmasi pembelian Anda.
 
-6. Setelah Anda masuk, Anda dapat pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) untuk memverifikasi bahwa kantor 365 langganan Anda dibeli diaktifkan dalam penyewa Anda. (Anda juga dapat memilih tab **berlangganan** di VLSC untuk melihat rincian memverifikasi bahwa langganan Anda telah didepositkan.)
+6. Setelah Anda masuk, Anda dapat pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman untuk memverifikasi bahwa kantor 365 langganan Anda dibeli diaktifkan dalam penyewa Anda. (Anda juga dapat memilih tab **berlangganan** di VLSC untuk melihat rincian memverifikasi bahwa langganan Anda telah didepositkan.)

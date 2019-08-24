@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518042"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575951"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Membeli lisensi Office 365 tambahan
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518042"
 
     > [!NOTE]
     > Jika Anda membayar untuk langganan Anda dengan kartu kredit atau rekening bank, lisensi baru yang Anda beli tersedia segera setelah Anda menerima konfirmasi order. Jika Anda membayar dengan faktur, Anda mungkin harus menunggu pemeriksaan kredit sebelum lisensi baru Anda akan tersedia untuk digunakan.
-  
+
+Apakah Anda menggunakan di lama admin center? Langkah-langkah yang lama, atau untuk mempelajari lebih lanjut, lihat [membeli lisensi untuk Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **Sumber daya tambahan**
 
 - [Menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-Untuk informasi lebih lanjut, lihat [membeli lisensi untuk Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
