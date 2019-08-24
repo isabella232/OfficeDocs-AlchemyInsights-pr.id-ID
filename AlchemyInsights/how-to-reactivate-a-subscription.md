@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539932"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574765"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Mengaktifkan kembali langganan
 
@@ -26,10 +26,10 @@ Jika langganan sudah kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Micr
   
 1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Di bawah **Tagihan**, di samping **Diperpanjang pada** atau **Kedaluwarsa pada**, pilih **Edit**.
+2. Pilih langganan yang ingin Anda aktifkan kembali. Di bagian **Tagihan**, pilih **Aktifkan kembali**.
 
-3. Di panel **Pengaturan tagihan berulang**, pilih opsi yang Anda inginkan. Jika tagihan berulang sudah dinonaktifkan, pilih **Bulanan** atau **Sekali** untuk mengaktifkannya.
+    Jika tindakan **Aktifkan kembali** tidak tersedia, hubungi dukungan untuk mengaktifkan kembali langganan Anda.
 
-4. Pilih **Kirim perubahan**.
+3. Konfirmasi detail pembayaran Anda. Anda bisa memperbarui informasi pembayaran Anda yang sudah ada di sini. Setelah selesai memasukkan metode pembayaran, pilih **Aktifkan kembali**.
 
-Untuk informasi selengkapnya, lihat: [Memperpanjang Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Apakah Anda menggunakan pusat admin yang lama? Untuk langkah-langkah lama, atau untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
