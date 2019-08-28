@@ -15,20 +15,21 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: d4daf97aa7d082906000a48d2fd542a70e8cdc8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
+ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537879"
+ms.lasthandoff: 08/27/2019
+ms.locfileid: "36643697"
 ---
 # <a name="block-or-unblock-senders"></a>Memblokir atau membuka Blokir pengirim
 
-Pesan dari alamat email atau domain pada pengirim diblokir Anda pergi langsung ke folder Junk Email Anda. Email akan secara otomatis dihapus dari folder Junk Email setelah 14 hari dan tidak dapat dipulihkan.
+Pesan dari alamat email atau domain pada pengirim diblokir Anda pergi langsung ke folder Junk Email Anda. Email akan secara otomatis dihapus dari folder Junk Email setelah 30 hari dan tidak dapat dipulihkan. Se; ect item untuk melihat kapan akan dihapus.
 
 **Dari kotak masuk:**
 
 - Dalam daftar pesan, pilih pesan dan kemudian pilih **sampah** > **blok**.
+- **Catatan:** Memblokir item sudah dalam folder Junk Email Anda tidak akan menghapus itu.
 
 **Dari pengaturan:**
 
