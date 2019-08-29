@@ -1,9 +1,8 @@
 ---
-title: Reset atau mengubah sandi
+title: Menyetel ulang atau mengubah sandi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552270"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666411"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a><span data-ttu-id="a066b-102">Reset atau mengubah password bisnis Office 365</span><span class="sxs-lookup"><span data-stu-id="a066b-102">Reset or change Office 365 business passwords</span></span>
+# <a name="reset-or-change-office-365-business-passwords"></a><span data-ttu-id="76208-102">Setel ulang atau Ubah sandi bisnis Office 365</span><span class="sxs-lookup"><span data-stu-id="76208-102">Reset or change Office 365 business passwords</span></span>
 
-<span data-ttu-id="a066b-103">Pengguna dapat mengubah password mereka sendiri dari [account saya, keamanan &amp; privasi](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="a066b-103">A user can change their own password from [My account, Security &amp; privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="76208-103">Pengguna dapat mengubah password mereka sendiri dari **account** > saya[Security _ amp_ privasi](https://portal.office.com/account/#security).</span><span class="sxs-lookup"><span data-stu-id="76208-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
   
-<span data-ttu-id="a066b-104">Jika pengguna lupa sandi mereka, admin dapat mengatur ulang sandi dengan pergi ke **pengguna** > [pengguna aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, lalu pilih **Reset password**.</span><span class="sxs-lookup"><span data-stu-id="a066b-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and select **Reset password**.</span></span>
+<span data-ttu-id="76208-104">Jika pengguna lupa sandinya, admin dapat menyetel ulang sandi \*\*\*\* > dengan membuka pengguna[aktif](https://portal.office.com/adminportal/home#/users)pengguna, memilih pengguna, dan memilih **setel ulang sandi**.</span><span class="sxs-lookup"><span data-stu-id="76208-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), selecting the user(s), and selecting **Reset password**.</span></span>
   
-<span data-ttu-id="a066b-105">[Klik di sini untuk mempelajari lebih lanjut](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), atau untuk memungkinkan pengguna membuat ulang sandi lupa mereka sendiri.</span><span class="sxs-lookup"><span data-stu-id="a066b-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="76208-105">[Klik di sini untuk mempelajari lebih lanjut](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), atau membiarkan pengguna me-reset password mereka sendiri dilupakan.</span><span class="sxs-lookup"><span data-stu-id="76208-105">[Click here to learn more](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), or to let users reset their own forgotten passwords.</span></span>
   
