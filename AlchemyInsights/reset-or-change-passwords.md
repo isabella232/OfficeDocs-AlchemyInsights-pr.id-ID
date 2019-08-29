@@ -1,9 +1,8 @@
 ---
-title: Reset atau mengubah sandi
+title: Menyetel ulang atau mengubah sandi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552270"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666411"
 ---
-# <a name="reset-or-change-office-365-business-passwords"></a>Reset atau mengubah password bisnis Office 365
+# <a name="reset-or-change-office-365-business-passwords"></a>Setel ulang atau Ubah sandi bisnis Office 365
 
-Pengguna dapat mengubah password mereka sendiri dari [account saya, keamanan &amp; privasi](https://portal.office.com/account/#security).
+Pengguna dapat mengubah password mereka sendiri dari **account** > saya[Security _ amp_ privasi](https://portal.office.com/account/#security).
   
-Jika pengguna lupa sandi mereka, admin dapat mengatur ulang sandi dengan pergi ke **pengguna** > [pengguna aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, lalu pilih **Reset password**.
+Jika pengguna lupa sandinya, admin dapat menyetel ulang sandi **** > dengan membuka pengguna[aktif](https://portal.office.com/adminportal/home#/users)pengguna, memilih pengguna, dan memilih **setel ulang sandi**.
   
-[Klik di sini untuk mempelajari lebih lanjut](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), atau untuk memungkinkan pengguna membuat ulang sandi lupa mereka sendiri.
+[Klik di sini untuk mempelajari lebih lanjut](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), atau membiarkan pengguna me-reset password mereka sendiri dilupakan.
   

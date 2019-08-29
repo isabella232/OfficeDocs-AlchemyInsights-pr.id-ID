@@ -3,7 +3,6 @@ title: Memperpanjang percobaan Anda untuk Office 365 untuk bisnis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575632"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665007"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Memperpanjang percobaan Anda untuk Office 365 untuk bisnis
 
@@ -32,4 +31,4 @@ Jika percobaan langganan Anda dalam 15 hari dari kedaluwarsa dan persidangan bel
 
 4. Anda perlu memberikan informasi kartu kredit untuk memperpanjang percobaan Anda. Kami tidak akan menagih kartu kredit Anda untuk ekstensi percobaan.
 
-Apakah Anda menggunakan di lama admin center? Langkah-langkah yang lama, atau untuk mempelajari lebih lanjut, lihat [memperpanjang percobaan Anda untuk Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Untuk selengkapnya, lihat [memperpanjang percobaan Anda untuk Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

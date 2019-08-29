@@ -1,5 +1,5 @@
 ---
-title: Kantor 365 lanjutan ancaman perlindungan
+title: Perlindungan ancaman lanjut Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c12d3c2a0e7037b609ed4b31ee893108869c9a56
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765157"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664503"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Kantor 365 lanjutan ancaman perlindungan
+# <a name="office-365-advanced-threat-protection"></a>Perlindungan ancaman lanjut Office 365
 
-- Lampiran aman, aman link, dan anti-phishing adalah bagian dari kantor 365 Advanced ancaman perlindungan (ATP). Enterprise E5, pendidikan A5 dan Microsoft 365 bisnis termasuk ATP. Semua rencana lain memerlukan langganan ATP add-on.
+- Lampiran aman, tautan aman, dan Anti-Phishing adalah bagian dari Office 365 Advanced Threat Protection (ATP). Enterprise E5, Education A5, dan Microsoft 365 Business mencakup ATP. Semua rencana lainnya memerlukan langganan ATP tambahan.
 
-- Anda harus menetapkan lisensi yang sesuai untuk melindungi pengguna oleh kantor 365 ATP. Lihat [topik](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) untuk petunjuk tentang cara untuk massal menerapkan lisensi untuk pengguna Anda.
+- Anda harus menetapkan lisensi yang sesuai untuk melindungi pengguna Anda dengan Office 365 ATP. Lihat [topik ini](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) untuk petunjuk tentang cara massal menerapkan lisensi untuk pengguna Anda.
 
-- Administrator kantor 365 global atau keamanan administrator dapat mengakses fitur-fitur kantor 365 ATP & keamanan Compliance Center di **Ancaman Managmeent** \> **kebijakan**.
+- Office 365 global administrator atau administrator keamanan dapat mengakses fitur Office 365 ATP di pusat kepatuhan _ amp_ keamanan pada kebijakan **ancaman managmeent** \> ****.
 
-- Lampiran aman dan aman Link kebijakan dapat scoped Anda seluruh organisasi, domain tertentu atau kelompok-kelompok kecil pengguna.
+- Lampiran aman dan kebijakan tautan aman dapat scoped Anda seluruh organisasi, domain tertentu, atau kelompok yang lebih kecil dari pengguna.
 
-- Ada tidak ada kebijakan default ATP lampiran aman. Anda perlu [membuat kebijakan](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) dan menerapkannya ke pengguna.
+- Tidak ada kebijakan default ATP aman lampiran. Anda perlu [membuat kebijakan](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) dan menerapkannya ke pengguna Anda.
 
-- Ada kebijakan default link aman ATP yang berlaku untuk semua orang di organisasi Anda. Untuk mengedit kebijakan ini atau untuk membuat kustom kebijakan, lihat [topik](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)ini.
+- Terdapat kebijakan tautan aman ATP default yang berlaku untuk semua orang di organisasi Anda. Untuk mengedit kebijakan ini atau untuk membuat kebijakan khusus, lihat [topik ini](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).

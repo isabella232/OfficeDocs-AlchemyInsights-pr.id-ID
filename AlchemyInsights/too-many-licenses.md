@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549078"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665943"
 ---
 # <a name="too-many-licenses"></a>Terlalu banyak lisensi?
 
@@ -32,4 +32,4 @@ Jika Anda berpikir Anda akan ditagih untuk lisensi Office 365 terlalu banyak, ha
 
 3. Dalam kotak **Total lisensi** , masukkan jumlah lisensi yang Anda butuhkan untuk berlangganan ini, dan kemudian pilih **kirim mengubah**. Misalnya, jika Anda memiliki lisensi 110 dan Anda ingin menghapus 5 dari mereka, masukkan 105.
 
-Untuk informasi lebih lanjut, lihat [menghapus lisensi dari Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Untuk selengkapnya, lihat [menghapus lisensi dari Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

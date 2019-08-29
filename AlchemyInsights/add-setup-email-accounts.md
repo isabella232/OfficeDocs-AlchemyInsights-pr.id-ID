@@ -1,5 +1,5 @@
 ---
-title: 764 Tambah Setup account email
+title: 764 Add/setup akun email
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -11,23 +11,23 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 39c9466f41002a1471a9fb81c93900f75260678d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494818"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660903"
 ---
-# <a name="setup-email-accounts"></a>Setup account email
+# <a name="setup-email-accounts"></a>Menyiapkan akun email
 
-1. Di Outlook, pilih **File** \> **Add Account**.
+1. Di Outlook, pilih **** > **Info** > file**Tambahkan akun**.
 
-2. Masukkan alamat email Anda dan kemudian klik **Connect**.
+2. Masukkan alamat email Anda, dan kemudian pilih **Sambungkan**.
 
-3. Masukkan password Anda dan kemudian klik **OK**.
+3. Masukkan kata sandi, lalu pilih **OK**.
 
-4. Anda dapat mengulangi langkah-langkah untuk menambahkan beberapa account.
+4. Anda dapat mengulangi langkah ini untuk menambahkan beberapa akun.
 
     > [!NOTE]
-    > Beberapa account email, seperti Gmail, Yahoo, dan iCloud, mengharuskan Anda untuk menyiapkan dua faktor otentikasi agar dapat menggunakan Outlook untuk mengirim dan menerima email. Lihat [menambahkan account email ke Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx)untuk informasi lebih lanjut.
+    > Beberapa akun email, seperti Gmail, Yahoo, dan iCloud, mengharuskan Anda menyiapkan autentikasi dua faktor agar dapat menggunakan Outlook untuk mengirim dan menerima email. Lihat [menambahkan akun email ke Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) untuk informasi lebih lanjut.
   

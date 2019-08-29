@@ -13,12 +13,12 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554624"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666699"
 ---
 # <a name="prepaid-office-365-renewal"></a>Prabayar pembaruan Office 365
 
@@ -35,4 +35,4 @@ ms.locfileid: "36554624"
 
 5. Periksa rincian pesanan Anda, kemudian pilih **Redeem**.
 
-Untuk informasi lebih lanjut, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Untuk selengkapnya, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
