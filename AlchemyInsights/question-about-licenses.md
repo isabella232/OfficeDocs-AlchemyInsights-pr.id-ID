@@ -13,12 +13,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553579"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666663"
 ---
 # <a name="questions-about-your-office-365-license"></a>Pertanyaan tentang lisensi Office 365 Anda
 
@@ -26,6 +26,6 @@ Jika Anda ingin tahu berapa banyak lisensi yang Anda telah membeli, atau berapa 
   
 1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
 
-2. Di bawah nama Anda ingin tahu lebih banyak tentang berlangganan, Anda dapat melihat jumlah Anda membayar untuk lisensi dan berapa banyak tersedia untuk ditempati.
+2. Menemukan langganan Anda ingin tahu lebih banyak tentang. Anda dapat melihat jumlah Anda membayar untuk lisensi dan berapa banyak tersedia untuk ditempati.
 
 Jika Anda ingin menambahkan lebih banyak izin, atau jika Anda memiliki terlalu banyak, memilih **Add/Remove lisensi** untuk menyesuaikan jumlah yang dibeli.
