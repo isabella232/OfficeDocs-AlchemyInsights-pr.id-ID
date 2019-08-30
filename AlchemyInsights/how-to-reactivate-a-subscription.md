@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 62f7af474db4eb99563744cfe266e1eac92bf53d
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574765"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663999"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Mengaktifkan kembali langganan
 
@@ -30,6 +30,6 @@ Jika langganan sudah kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Micr
 
     Jika tindakan **Aktifkan kembali** tidak tersedia, hubungi dukungan untuk mengaktifkan kembali langganan Anda.
 
-3. Konfirmasi detail pembayaran Anda. Anda bisa memperbarui informasi pembayaran Anda yang sudah ada di sini. Setelah selesai memasukkan metode pembayaran, pilih **Aktifkan kembali**.
+3. Konfirmasi detail pembayaran Anda. Anda bisa memperbarui informasi pembayaran Anda yang sudah ada di sini. Jika sudah memasukkan metode pembayaran, pilih **Aktifkan ulang**.
 
-Apakah Anda menggunakan pusat admin yang lama? Untuk langkah-langkah lama, atau untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

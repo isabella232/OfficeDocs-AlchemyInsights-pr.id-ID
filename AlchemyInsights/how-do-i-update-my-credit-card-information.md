@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 4ba0625d61d1a51f8e011765992dead21a15831f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: da09215ca846e34fa3f75fead99537c4808ec65a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575345"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664395"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Bagaimana cara memperbarui informasi kartu kredit saya?
 
@@ -33,4 +33,4 @@ ms.locfileid: "36575345"
 
 4. Perbarui informasi kartu kredit atau rekening bank Anda (nama di kartu kredit atau rekening bank, nomor telepon alamat tagihan, atau tanggal kedaluwarsa) sesuai kebutuhan, kemudian pilih **Simpan** > **Selesai**.
 
-Apakah Anda menggunakan pusat admin yang lama? Untuk langkah-langkah yang lama, atau untuk mempelajari selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Untuk mempelajari selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
