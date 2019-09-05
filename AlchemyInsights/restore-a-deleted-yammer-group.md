@@ -1,5 +1,5 @@
 ---
-title: Memulihkan dihapus heboh grup
+title: Mengembalikan grup heboh dihapus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753256"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745148"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Memulihkan dihapus heboh grup
+# <a name="restore-a-deleted-yammer-group"></a>Mengembalikan grup heboh dihapus
 
-[Office 365 terhubung kelompok di heboh](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) dapat dikembalikan dalam waktu 30 hari penghapusan dengan mengikuti langkah-langkah untuk [memulihkan dihapus kantor 365 grup](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
-Dalam beberapa kasus grup heboh mungkin tidak dapat terhubung ke grup Office 365. Jika hal ini terjadi, bukan tidak mungkin untuk secara otomatis mengembalikan kelompok, tetapi dimungkinkan untuk mengakses data yang dihapus di heboh [ekspor data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) jika jaringan [kebijakan retensi data](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) disetel untuk *Menghapus lembut*. Hubungi [Administrator diverifikasi](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) untuk jaringan heboh Anda untuk memeriksa kebijakan retensi data, atau untuk melakukan ekspor data.
+[Kantor 365 terhubung kelompok di heboh](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) dapat dipulihkan dalam waktu 30 hari penghapusan dengan mengikuti langkah untuk [memulihkan grup Office 365 dihapus](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+Dalam beberapa kasus grup heboh mungkin tidak terhubung ke grup 365 Office. Jika demikian, hal ini tidak dimungkinkan untuk secara otomatis mengembalikan grup, tetapi dimungkinkan untuk mengakses data yang dihapus di Yammer [ekspor data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) jika [kebijakan penyimpanan data](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) jaringan diatur ke *lembut Hapus*. Hubungi [administrator diverifikasi](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) untuk jaringan heboh Anda untuk memeriksa kebijakan retensi data, atau untuk melakukan ekspor data.
