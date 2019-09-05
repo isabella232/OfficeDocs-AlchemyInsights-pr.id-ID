@@ -1,6 +1,6 @@
 ---
-title: Pesan 'OneDrive account akan dihapus'
-ms.author: kirks
+title: Pesan ' akun OneDrive akan dihapus '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521390"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753511"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Pesan "OneDrive account akan dihapus"
+# <a name="onedrive-account-will-be-deleted-message"></a>Pesan "akun OneDrive akan dihapus"
 
-Jika Anda menerima email dari email@mail.onedrive.com peringatan bahwa "akun OneDrive akan dihapus" Harap dicatat ini adalah account OneDrive.com pribadi, tidak Anda OneDrive untuk rekening bisnis. 
+Jika Anda menerima email dari peringatan email@mail.onedrive.com bahwa "akun OneDrive Anda akan dihapus" Harap dicatat bahwa ini adalah akun OneDrive.com pribadi Anda, bukan akun OneDrive for Business Anda. 
   
-Jika Anda tidak yakin apakah Anda menggunakan pribadi OneDrive, masuk ke onedrive.com untuk mengaktifkan kembali dan meninjau account Anda.
+Jika Anda tidak yakin apakah Anda menggunakan OneDrive pribadi, masuk ke onedrive.com untuk mengaktifkan kembali dan meninjau akun Anda.
   
-Untuk informasi lebih lanjut, lihat [mengapa saya mendapatkan email mengatakan account Anda akan dihapus?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Untuk informasi lebih lanjut, lihat [mengapa saya mendapatkan email yang mengatakan bahwa akun Anda akan dihapus?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 

@@ -1,6 +1,6 @@
 ---
-title: Mengatasi masalah Akses ditolak pesan
-ms.author: kirks
+title: Memecahkan masalah Akses ditolak pesan
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549114"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751783"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Mengatasi masalah Akses ditolak pesan
+# <a name="troubleshoot-access-denied-messages"></a>Memecahkan masalah Akses ditolak pesan
 
-Jika Anda menerima Akses ditolak pesan ketika mencoba untuk menelusuri situs Sharepoint Online, silakan lihat di bawah artikel.
+Jika Anda menerima pesan Akses ditolak saat berusaha menjelajah situs SharePoint online, baca artikel di bawah ini.
 
 **Tambahkan dan lisensi pengguna**
 
-Pastikan bahwa Anda [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Pastikan bahwa Anda [menetapkan lisensi untuk pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
-**Memberikan izin**
+**Menetapkan izin**
 
-Jika pengguna telah ditetapkan lisensi Sharepoint dan masih menerima Akses ditolak pesan, pastikan mereka memiliki [izin yang sesuai tingkat ditetapkan](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Jika pengguna telah ditetapkan lisensi SharePoint dan masih menerima pesan Akses ditolak, pastikan mereka memiliki [tingkat izin yang sesuai yang ditetapkan](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 **Pertimbangkan untuk menggunakan fitur permintaan akses**
 
-Fitur [permintaan akses](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) memungkinkan orang untuk meminta akses ke konten yang mereka saat ini tidak memiliki izin untuk melihat. 
+Fitur [permintaan akses](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) memungkinkan orang untuk meminta akses ke konten yang saat ini tidak diizinkan untuk dilihat. 
 
-**Memungkinkan script kustom dapat menyebabkan Akses ditolak masalah**
+**Memungkinkan skrip kustom dapat menyebabkan masalah Akses ditolak**
 
-Ada skenario tertentu mana fitur "Biarkan script kustom" mungkin menyajikan Akses ditolak. Untuk daftar fitur yang terpengaruh, pertimbangan keamanan dan kemampuan untuk menonaktifkan fitur. Kunjungi, [Bolehkan atau mencegah script kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Ada skenario tertentu mana fitur "Izinkan kustom skrip" mungkin menyajikan Akses ditolak. Untuk daftar fitur yang terpengaruh, pertimbangan keamanan dan kemampuan untuk menonaktifkan fitur. Silakan kunjungi, [Izinkan atau mencegah skrip kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Catatan: Jika situs OneDrive atau SharePoint tidak tersedia untuk beberapa pengguna yang sebelumnya mempunyai akses, mungkin ada masalah sementara layanan. [Periksa layanan kesehatan dashboard](https://portal.office.com/adminportal/home#/servicehealth).
+Catatan: jika OneDrive atau situs SharePoint tidak tersedia untuk beberapa pengguna yang sebelumnya memiliki akses, mungkin ada masalah layanan sementara. [Periksa dasbor Kesehatan Layanan](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
