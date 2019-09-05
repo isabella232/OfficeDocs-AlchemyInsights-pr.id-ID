@@ -1,5 +1,5 @@
 ---
-title: 959 perubahan nama tampilan
+title: 959 mengubah nama tampilan
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519806"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736724"
 ---
-# <a name="change-your-display-name"></a><span data-ttu-id="4f828-102">Mengubah nama tampilan</span><span class="sxs-lookup"><span data-stu-id="4f828-102">Change your display name</span></span>
+# <a name="change-your-display-name"></a><span data-ttu-id="12139-102">Mengubah nama tampilan</span><span class="sxs-lookup"><span data-stu-id="12139-102">Change your display name</span></span>
   
-<span data-ttu-id="4f828-103">Untuk mengubah nama tampilan di Outlook, gunakan langkah-langkah berikut.</span><span class="sxs-lookup"><span data-stu-id="4f828-103">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="12139-103">Untuk mengubah nama tampilan Anda di Outlook, gunakan langkah berikut.</span><span class="sxs-lookup"><span data-stu-id="12139-103">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="4f828-104">Di Outlook, pilih **File** \> **Pengaturan Account** \> **Pengaturan Account**.</span><span class="sxs-lookup"><span data-stu-id="4f828-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="12139-104">Di Outlook, pilih \*\*\*\* \> **setelan akun** \> file pengaturan **akun**.</span><span class="sxs-lookup"><span data-stu-id="12139-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
 
-2. <span data-ttu-id="4f828-105">Pilih email account dan kemudian pilih **perubahan**.</span><span class="sxs-lookup"><span data-stu-id="4f828-105">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="12139-105">Pilih akun email dan kemudian pilih **Ubah**.</span><span class="sxs-lookup"><span data-stu-id="12139-105">Select the email account and then select **Change**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="4f828-106">Jika Anda tidak melihat pilihan untuk mengubah nama tampilan Anda, Anda mungkin menggunakan account email Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="4f828-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="4f828-107">Dalam kasus ini, Anda perlu menghubungi administrator untuk mengubah nama tampilan.</span><span class="sxs-lookup"><span data-stu-id="4f828-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="4f828-108">Lihat [mengubah nama pengguna dan e-mail di Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f828-108">See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span>
+    > <span data-ttu-id="12139-106">Jika Anda tidak melihat opsi untuk mengubah nama tampilan, Anda mungkin menggunakan akun email Microsoft Exchange.</span><span class="sxs-lookup"><span data-stu-id="12139-106">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account.</span></span> <span data-ttu-id="12139-107">Dalam hal ini, Anda perlu menghubungi administrator Anda untuk mengubah nama tampilan Anda.</span><span class="sxs-lookup"><span data-stu-id="12139-107">In this case, you need to contact your administrator to change your display name.</span></span> <span data-ttu-id="12139-108">Lihat [mengubah nama pengguna dan alamat email di Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span><span class="sxs-lookup"><span data-stu-id="12139-108">See [Change a user name and email address in Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).</span></span>
   
-3. <span data-ttu-id="4f828-109">Setelah Anda mengubah nama tampilan, klik **OK** untuk menyimpan perubahan.</span><span class="sxs-lookup"><span data-stu-id="4f828-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="4f828-110">Ini dapat mengambil beberapa jam agar perubahan untuk mencerminkan seluruh organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="4f828-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
+3. <span data-ttu-id="12139-109">Setelah Anda mengubah nama tampilan, klik **OK** untuk menyimpan perubahan.</span><span class="sxs-lookup"><span data-stu-id="12139-109">After you've changed your display name, click **OK** to save your changes.</span></span> <span data-ttu-id="12139-110">Diperlukan waktu beberapa jam agar perubahan Anda dapat dicerminkan di seluruh organisasi.</span><span class="sxs-lookup"><span data-stu-id="12139-110">It can take a few hours for your changes to reflect throughout your organization.</span></span>
 
-<span data-ttu-id="4f828-111">Untuk selengkapnya, lihat [mengubah nama tampilan yang melihat email penerima](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f828-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="12139-111">Untuk selengkapnya, lihat [mengubah nama tampilan yang dilihat Penerima email](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="12139-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   
