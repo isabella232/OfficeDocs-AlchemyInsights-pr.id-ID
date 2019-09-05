@@ -1,5 +1,5 @@
 ---
-title: Alur kerja tidak memulai
+title: Alur kerja tidak dimulai
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557978"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738092"
 ---
-# <a name="workflow-is-not-starting"></a>Alur kerja tidak memulai
+# <a name="workflow-is-not-starting"></a>Alur kerja tidak dimulai
 
-- SharePoint 2010 dan SharePoint 2013 alur kerja tidak mulai.
+- SharePoint 2010 dan SharePoint 2013 alur kerja tidak dimulai.
 
-    - Jika alur kerja Anda tidak memulai, mungkin ada masalah sementara layanan mana pengguna mungkin mengalami penundaan intermiten dengan kemajuan alur kerja. Periksa [Layanan kesehatan Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat jika organisasi Anda dipengaruhi.
+    - Jika alur kerja Anda tidak dimulai, mungkin ada masalah layanan sementara di mana pengguna mungkin mengalami penundaan terputus-putus dengan kemajuan alur kerja. Periksa [dasbor Kesehatan Layanan](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.
 
-    - Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket support. Dalam banyak kasus, kami sudah bekerja pada sebuah solusi. Mohon berikan setidaknya 24 jam untuk menyelesaikan solusi.
+    - Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket dukungan. Dalam banyak kasus, kami telah bekerja pada solusi. Tolong beri kami setidaknya 24 jam untuk menyelesaikan solusi.
 
-- SharePoint 2010 Workflow tertunda pada awal.
+- SharePoint 2010 alur kerja tertunda pada mulai.
 
-    - Hal ini terjadi jika alur kerja dipicu dalam kumpulan besar. (sebagai contoh, ketika beberapa item ditambahkan sekaligus).
+    - Hal ini terjadi jika alur kerja dipicu dalam batch besar. (misalnya, ketika beberapa item ditambahkan sekaligus).
 
-    - Alur kerja tidak dirancang untuk menjalankan real-time, sehingga penundaan adalah perilaku oleh desain.
+    - Alur kerja tidak dirancang untuk berjalan secara real-time, sehingga penundaan adalah perilaku dengan desain.
 
-   -  Jika alur kerja adalah kompleks Extensible Object Markup Language (XMOL), kompilasi bisa lambat. Check [this](https://support.microsoft.com/en-us/kb/3043697) artikel.
+   -  Jika alur kerja kompleks extensible objek Markup Language (XMOL), kompilasi dapat lambat. Periksa artikel [ini](https://support.microsoft.com//kb/3043697) .
 
     - Anda harus menyederhanakan alur kerja atau mendesain ulang menggunakan jenis platform Microsoft SharePoint 2013 alur kerja.
 
-    - Jika Riwayat alur kerja telah tumbuh besar, Anda mungkin ingin membersihkan item atau membuat daftar sejarah baru.
+    - Jika Riwayat alur kerja Anda tumbuh besar, Anda mungkin ingin membersihkan item atau membuat daftar Riwayat baru.
 
         Informasi lebih lanjut: [membersihkan riwayat alur kerja](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Topik terkait
-Ingin mencoba Microsoft Flow di SharePoint Online?
-- [Menciptakan aliran](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Ingin mencoba Microsoft Flow di SharePoint online?
+- [Membuat Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint dan aliran](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

@@ -1,6 +1,6 @@
 ---
-title: Memigrasi lokal untuk SharePoint Online
-ms.author: kirks
+title: Migrasi lokal ke SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,15 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7ae8ff6d-db1b-403b-9707-6fe6da75be92
-ms.openlocfilehash: 07b35405b6078f4940b87bd0d1c576164a478bad
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a063184a4662bc311c91b50a62456f40728b854d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544547"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754051"
 ---
-# <a name="migrate-on-premises-to-sharepoint-online"></a>Memigrasi lokal untuk SharePoint Online
+# <a name="migrate-on-premises-to-sharepoint-online"></a>Migrasi lokal ke SharePoint online
 
-Untuk bermigrasi dari sebuah peternakan SharePoint lokal ke SharePoint Online, Anda dapat menggunakan alat migrasi SharePoint. Untuk informasi tambahan tentang perangkat, lihat [bermigrasi ke SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2019574)
+Untuk bermigrasi dari Farm SharePoint lokal ke SharePoint online, Anda dapat menggunakan alat migrasi SharePoint. Untuk informasi tambahan tentang alat, lihat [bermigrasi ke SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2019574)
   
 

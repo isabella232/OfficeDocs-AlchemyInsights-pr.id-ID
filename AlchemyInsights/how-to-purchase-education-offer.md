@@ -1,5 +1,5 @@
 ---
-title: Cara pembelian menawarkan pendidikan
+title: Cara membeli Penawaran pendidikan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663927"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739460"
 ---
-# <a name="how-to-purchase-education-offer"></a>Cara pembelian menawarkan pendidikan
+# <a name="how-to-purchase-education-offer"></a>Cara membeli Penawaran pendidikan
 
-Anda telah disetujui untuk kantor 365 pendidikan. Untuk membeli:
+Anda telah disetujui untuk Office 365 pendidikan. Untuk membeli:
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, buka halaman Layanan **tagihan** \> [produk _ amp_](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Memilih sidang untuk **siswa atau Fakultas**.
+2. Pilih pengadilan untuk **siswa atau Fakultas**.
 
-3. Di bagian **lisensi** , memilih **pembelian langganan**.
+3. Di bagian **lisensi** , pilih **langganan pembelian**.
 
-4. Ikuti langkah-langkah yang tersisa untuk memeriksa.
+4. Ikuti langkah yang tersisa untuk memeriksa.
 
-Jika Anda ingin membeli langganan selain apa yang ada di pengadilan, pergi ke **penagihan** \> [Membeli layanan](https://go.microsoft.com/fwlink/p/?linkid=868433) halaman, dan pilih dari daftar di bawah **Rencana pendidikan**.
+Jika Anda ingin membeli langganan selain yang ada dalam uji coba, buka halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) **penagihan** \> , dan pilih dari daftar di bawah **rencana pendidikan**.
 
-Untuk selengkapnya, lihat [membeli rencana yang sama sebagai percobaan Anda](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+Untuk mempelajari lebih lanjut, lihat [membeli paket yang sama dengan uji coba Anda](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

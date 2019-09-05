@@ -1,6 +1,6 @@
 ---
 title: Menghapus koleksi situs di SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513110"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748183"
 ---
-# <a name="delete-a-site-collection"></a>Menghapus situs koleksi
+# <a name="delete-a-site-collection"></a>Menghapus koleksi situs
 
-Ketika Anda, sebagai global atau SharePoint admin di Office 365, menghapus situs (sebelumnya disebut "situs koleksi"), pindah ke situs koleksi Recycle Bin dan dipertahankan untuk hari 93. 
+Ketika Anda, sebagai global atau SharePoint admin di Office 365, menghapus situs (sebelumnya disebut "situs koleksi"), dipindahkan ke koleksi situs keranjang sampah dan dipertahankan untuk 93 hari. 
 
-Bila Anda menghapus situs, segala sesuatu di dalamnya dihapus termasuk:
+Bila Anda menghapus situs, segala sesuatu di dalamnya akan dihapus termasuk:
 
-- Dokumen perpustakaan dan file.
-- Daftar dan daftar data.
-- Pengaturan situs dan sejarah.
-- Setiap sub situs dan isinya.
+- Perpustakaan dokumen dan file.
+- List dan daftar data.
+- Pengaturan situs dan Riwayat.
+- Setiap sub-situs dan isinya.
 
-Anda harus memberitahu situs admin dan pemilik subsite apapun sebelum Anda menghapus sebuah situs sehingga mereka dapat memindahkan data ke lokasi lain, dan juga memberitahu pengguna ketika situs yang akan dihapus. 
+Anda harus memberi tahu admin situs dan pemilik sub-situs sebelum menghapus situs agar mereka dapat memindahkan datanya ke lokasi lain, dan juga memberi tahu pengguna saat situs akan dihapus. 
 
-Untuk informasi lebih lanjut, lihat [menghapus situs koleksi](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Untuk informasi selengkapnya, lihat [menghapus koleksi situs](https://docs.microsoft.com/sharepoint/delete-site-collection). 

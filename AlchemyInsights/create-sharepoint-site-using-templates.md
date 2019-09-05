@@ -1,6 +1,6 @@
 ---
-title: Membuat situs di SharePoint Online
-ms.author: kirks
+title: Membuat situs di SharePoint online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515001"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755311"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>Buat situs SharePoint menggunakan template
+# <a name="create-sharepoint-sites-using-templates"></a>Membuat situs SharePoint menggunakan template
 
-Template situs SharePoint adalah prebuilt definisi yang dirancang di sekitar kebutuhan bisnis tertentu. Untuk selengkapnya, lihat [menggunakan template untuk membuat berbagai jenis situs SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Template situs SharePoint adalah definisi prebuilt yang dirancang di sekitar kebutuhan bisnis tertentu. Untuk informasi lebih lanjut, lihat [menggunakan template untuk membuat berbagai jenis situs SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Berikut adalah beberapa masalah/solusi umum mengenai menyimpan situs atau daftar sebagai template dalam Sharepoint Online. 
+Berikut adalah beberapa masalah/solusi umum mengenai menyimpan situs atau daftar sebagai template di SharePoint online. 
 
-**Menyimpan daftar situs/template tombol ini tidak tersedia atau hilang**
+**Simpan situs/daftar template tombol tidak tersedia atau hilang**
 
-Administrator akan perlu untuk membolehkan Custom Script untuk mengaktifkan fitur template. Untuk langkah-langkah rinci contoh dan pertimbangan Lihat 
+Administrator akan perlu Izinkan skrip kustom untuk mengaktifkan fitur template. Untuk langkah rinci, contoh dan pertimbangan Lihat 
 
-- [Membolehkan atau mencegah script kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Membolehkan atau mencegah skrip kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Situs Simpan sebagai perintah template tidak didukung dan dapat menyebabkan masalah pada situs yang menggunakan SharePoint Server Publishing infrastruktur.
+- Simpan situs sebagai template perintah tidak didukung dan dapat menyebabkan masalah pada situs yang menggunakan infrastruktur penerbitan SharePoint Server.
 
-**Situs template tidak dapat dibuat atau tidak berfungsi dengan benar**
+**Template situs tidak dapat dibuat atau tidak berfungsi dengan benar**
 
-Template mungkin hilang [fitur](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) dan tidak akan diaktifkan. Jika fitur ini tidak tersedia untuk mengaktifkan dalam koleksi situs saat ini, Anda tidak dapat menggunakan situs template untuk membuat situs.
+Template mungkin hilang [fitur](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) dan tidak akan mengaktifkan. Jika fitur ini tidak tersedia untuk mengaktifkan dalam koleksi situs saat ini, Anda tidak dapat menggunakan template situs untuk membuat situs.
 
-- Periksa untuk melihat jika atau daftar perpustakaan melebihi [Ambang batas daftar View](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 item seperti ini dapat menghalangi pembentukan situs template.
+- Periksa untuk melihat apakah ada daftar atau Perpustakaan melebihi [ambang batas tampilan daftar](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 item karena hal ini dapat memblokir pembuatan template situs.
 
-- Situs mungkin menggunakan terlalu banyak sumber daya dan karena itu situs template melebihi batas 50 MB.
+- Situs mungkin menggunakan terlalu banyak sumber daya dan oleh karena itu situs template melebihi batas MB 50.
 
 
-- Ada masalah yang menampilkan data dari daftar yang menggunakan kolom pencarian. Untuk informasi lebih lanjut, lihat [Daftar Template yang dihasilkan tidak menampilkan data dari daftar SharePoint Online benar lookup](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Ada masalah menampilkan data dari daftar yang menggunakan kolom pencarian. Untuk informasi selengkapnya, lihat [Daftar dihasilkan template tidak menampilkan data dari daftar pencarian yang benar di SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Untuk informasi lebih rinci tentang umum masalah dan solusi, silahkan cek [membuat dan menggunakan situs template](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Untuk informasi lebih rinci tentang masalah umum dan solusi, silakan periksa [membuat dan menggunakan situs template](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

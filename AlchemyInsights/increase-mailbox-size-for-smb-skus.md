@@ -1,5 +1,5 @@
 ---
-title: Meningkatkan ukuran kotak pesan untuk SMB SKU
+title: Meningkatkan ukuran kotak surat untuk SMB SKU
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499282"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739244"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Beralih rencana untuk meningkatkan ukuran kotak pesan
+# <a name="switch-plans-to-increase-mailbox-size"></a>Beralih rencana untuk meningkatkan ukuran kotak surat
 
-Jika ukuran kotak pesan adalah 50 GB, Anda dapat meningkatkan ukuran kotak pesan untuk 100 GB dengan beralih ke [Kantor 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) atau [Kantor 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Berikut adalah langkah-langkah untuk beralih ke Office 365 rencana yang berbeda:
+Jika ukuran kotak surat 50 GB, Anda dapat meningkatkan ukuran kotak surat 100 GB dengan beralih ke [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) atau [Office 365 perusahaan E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Berikut adalah langkah untuk beralih ke paket Office 365 yang berbeda:
   
-1. Di pusat admin Microsoft 365, pergi ke halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau memilih **penagihan** \> **langganan**.
+1. Di pusat admin Microsoft 365, buka halaman [Subscription](https://go.microsoft.com/fwlink/p/?linkid=842054) , atau pilih **langganan** **penagihan** \> .
     
-2. Memilih **rencana Switch** untuk melihat daftar rencana baru yang tersedia. 
+2. Pilih **beralih rencana** untuk melihat daftar rencana baru yang tersedia. 
     
-3. Memilih rencana untuk melihat baru total biaya per bulan. Pastikan untuk membaca **informasi kunci**, lalu pilih **berikutnya** untuk memeriksa. 
+3. Pilih paket untuk melihat biaya total baru per bulan. Pastikan untuk membaca **informasi kunci**, lalu pilih **berikutnya** untuk memeriksa. 
     
-4. Ketika Anda selesai checkout, Office 365 mengambil beberapa menit untuk menyelesaikan switch. Anda dapat mulai menggunakan langganan baru segera.
+4. Ketika Anda selesai checkout, Office 365 membutuhkan waktu beberapa menit untuk menyelesaikan switch. Anda dapat mulai menggunakan langganan baru Anda segera.
     
-Untuk keterangan lebih lanjut, lihat [beralih ke Office 365 rencana yang berbeda](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+Untuk rincian lebih lanjut, lihat [beralih ke paket Office 365 yang berbeda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

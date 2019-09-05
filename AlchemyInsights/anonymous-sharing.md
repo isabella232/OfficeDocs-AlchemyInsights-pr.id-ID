@@ -1,6 +1,6 @@
 ---
 title: Berbagi anonim
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512462"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747828"
 ---
 # <a name="anonymous-sharing"></a>Berbagi anonim
 
  **Mengaktifkan akses anonim**
   
-Di pusat admin SharePoint baru, klik **berbagi** dalam pane kiri. 
+Di pusat admin SharePoint baru, klik **berbagi** di sebelah kiri. 
   
-- Pilih berikut: **berbagi Izinkan untuk dikonfirmasi pengguna eksternal dan menggunakan akses anonim.**
+- Pilih berikut ini: **Izinkan berbagi untuk pengguna eksternal yang diotentikasi dan menggunakan akses anonim.**
   
-(Opsional, Anda dapat mengatur link ke berakhir dalam beberapa hari, dan pilih bagaimana Penerima dapat menggunakan link.)
+(Opsional, Anda dapat mengatur link untuk kedaluwarsa dalam jumlah hari tertentu, dan pilih bagaimana Penerima dapat menggunakan link.)
     
  **Berbagi file atau folder secara anonim**
   
-- Pilih file atau folder yang Anda inginkan untuk berbagi, dan kemudian klik **berbagi**. 
+- Pilih file atau folder yang ingin Anda bagikan, lalu klik **bagikan**. 
     
-- Yang Anda ingin link ini untuk bekerja? Klik **siapapun.**
+- Siapa yang ingin Anda link ini bekerja untuk? Klik **siapa pun.**
   
- **Catatan**: **ada** yang menciptakan link yang siapa pun dapat digunakan untuk mengakses dokumen atau folder, bahkan jika mereka tidak login ke Office 365 atau OneDrive. Gunakan ini untuk berbagi dengan siapa pun, di dalam atau di luar perusahaan Anda. Link ini dapat juga diteruskan di sekitar kepada siapa pun. 
+ **Catatan**: **siapa pun** membuat link yang dapat digunakan siapa pun untuk mengakses dokumen atau folder, meskipun mereka tidak masuk ke Office 365 atau OneDrive. Gunakan ini untuk berbagi dengan siapa pun, di dalam atau di luar perusahaan Anda. Link ini juga dapat diteruskan di sekitar kepada siapa pun. 
     
 

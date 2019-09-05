@@ -1,6 +1,6 @@
 ---
-title: Kinerja masalah-SharePoint atau OneDrive
-ms.author: kirks
+title: Masalah kinerja-SharePoint atau OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535178"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750559"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint atau OneDrive lambat, tidak dapat diakses atau tersedia untuk beberapa pengguna
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint atau OneDrive lambat, tidak dapat diakses atau tidak tersedia untuk banyak pengguna
 
-Jika situs OneDrive atau SharePoint tidak tersedia untuk beberapa pengguna yang sebelumnya mempunyai akses, mungkin ada masalah sementara layanan. [Periksa layanan kesehatan dashboard](https://portal.office.com/adminportal/home#/servicehealth).
+Jika OneDrive atau situs SharePoint tidak tersedia untuk beberapa pengguna yang sebelumnya memiliki akses, mungkin ada masalah layanan sementara. [Periksa dasbor Kesehatan Layanan](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Tambahkan dan lisensi pengguna**
+**Menambahkan dan melisensikan pengguna**
 
-Pastikan bahwa Anda [menetapkan lisensi ke pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Pastikan bahwa Anda [menetapkan lisensi untuk pengguna di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
-**Memberikan izin**
+**Menetapkan izin**
 
-Jika pengguna telah ditetapkan lisensi Sharepoint dan masih menerima Akses ditolak pesan, pastikan mereka memiliki [tingkat izin yang sesuai](https://docs.microsoft.com/sharepoint/understanding-permission-levels) yang ditetapkan.
+Jika pengguna telah ditetapkan lisensi SharePoint dan masih menerima pesan Akses ditolak, pastikan mereka memiliki [tingkat izin yang sesuai](https://docs.microsoft.com/sharepoint/understanding-permission-levels) yang ditetapkan.
 
 **Pertimbangkan untuk menggunakan fitur permintaan akses**
 
-[Fitur permintaan akses](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) memungkinkan orang untuk meminta akses ke konten yang mereka saat ini tidak memiliki izin untuk melihat.
+[Fitur permintaan akses](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) memungkinkan orang untuk meminta akses ke konten yang saat ini tidak diizinkan untuk dilihat.
 
-**Memungkinkan script kustom dapat menyebabkan Akses ditolak masalah**
+**Memungkinkan skrip kustom dapat menyebabkan masalah Akses ditolak**
 
-Ada skenario tertentu mana fitur *script kustom Izinkan* mungkin menyajikan Akses ditolak. Untuk daftar fitur yang terpengaruh, pertimbangan keamanan dan kemampuan untuk menonaktifkan fitur. Silahkan kunjungi [Bolehkan atau mencegah script kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Ada skenario tertentu mana fitur *memungkinkan kustom skrip* mungkin menyajikan Akses ditolak. Untuk daftar fitur yang terpengaruh, pertimbangan keamanan dan kemampuan untuk menonaktifkan fitur. Silakan kunjungi [Izinkan atau mencegah skrip kustom](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

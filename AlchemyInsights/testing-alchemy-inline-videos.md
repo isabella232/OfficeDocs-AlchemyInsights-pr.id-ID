@@ -1,5 +1,5 @@
 ---
-title: Pengujian Alkimia Inline video
+title: Pengujian Alkimia inline video
 ms.author: pebaum
 author: pebaum
 ms.date: 11/16/2017
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 83fc8cf2f656c27493fa3d4bf007185ddee35ecc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ced92314d700a7f6725e831b0ea5fda0ccc9c2c3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500578"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743204"
 ---
-# <a name="set-up-domain-and-users"></a>Mengatur domain dan pengguna
+# <a name="set-up-domain-and-users"></a>Menyiapkan domain dan pengguna
 
-Ketika Anda siap untuk mengatur domain Anda dan pengguna, menonton video singkat ini:
+Saat Anda siap menyiapkan domain dan pengguna, Tonton video singkat ini:
   
-![Browser Anda tidak mendukung video. Menginstal Microsoft Silverlight, Adobe Flash Player, atau InternetExplorer 9.](media/MSN_Video_Widget.gif)
+![Browser Anda tidak mendukung video. Menginstal Microsoft Silverlight, Adobe Flash Player, atau Internet Explorer 9.](media/MSN_Video_Widget.gif)
   
-Untuk informasi lebih lanjut, lihat [domain FAQ.](https://support.office.com/article/1272bad0-4bd4-4796-8005-67d6fb3afc5a.aspx)
+Untuk informasi selengkapnya, lihat [FAQ domain.](https://docs.microsoft.com/office365/admin/setup/domains-faq)
   
 

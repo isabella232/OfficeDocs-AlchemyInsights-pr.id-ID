@@ -1,5 +1,5 @@
 ---
-title: Buat situs SharePoint
+title: Membuat situs SharePoint
 ms.author: efrene
 author: efrene
 ms.date: 1/16/2019
@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515810"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738200"
 ---
-# <a name="create-a-sharepoint-site"></a>Buat situs SharePoint
+# <a name="create-a-sharepoint-site"></a>Membuat situs SharePoint
 
-Anda dapat melihat berikut untuk informasi tentang pembuatan situs SharePoint:
-- [Mengelola situs di SharePoint admin center baru](https://docs.microsoft.com/sharepoint/manage-site-creation): Pelajari tentang pilihan pembuatan situs, termasuk cara membuat situs klasik atau situs tim yang tidak mencakup grup Office 365.
-- [Buat situs tim di SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Pelajari cara membuat situs tim.
-- [Membuat sebuah situs komunikasi di SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Pelajari cara membuat sebuah situs komunikasi.
-- [Mengelola situs di SharePoint admin center baru](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Pelajari cara membuat situs klasik atau situs tim yang tidak mencakup grup Office 365.
+Anda dapat melihat berikut ini untuk informasi tentang pembuatan situs SharePoint:
+- [Mengelola situs di pusat admin SharePoint baru](https://docs.microsoft.com/sharepoint/manage-site-creation): Pelajari tentang opsi pembuatan situs, termasuk cara membuat situs klasik atau situs tim yang tidak menyertakan grup Office 365.
+- [Membuat situs tim di SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Pelajari cara membuat situs tim.
+- [Membuat situs komunikasi di SharePoint online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Pelajari cara membuat situs komunikasi.
+- [Mengelola situs di pusat admin SharePoint baru](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Pelajari cara membuat situs klasik atau situs tim yang tidak termasuk grup Office 365.
 
 
   
-> [! Tips]
-> - Anda tidak dapat membuat sebuah situs dengan URL yang sama dari situs yang ada. Jika Anda menghapus situs dan berharap untuk kembali menggunakan URL, sangat mungkin situs dihapus masih ada di bawah **situs dihapus**. Untuk mengelola dihapus lihat situs, [menghapus situs](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Untuk menghapus sebuah situs dengan Powershell, lihat contoh cmdlet [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - Beberapa pengguna tidak dapat membuat sebuah situs. Lihat [mengelola situs penciptaan dalam SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Hal ini memungkinkan situs muncul terjebak di **membuat** lebih lama dari yang diharapkan. Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket support. Dalam banyak kasus, kami sudah bekerja pada sebuah solusi. Mohon berikan setidaknya 24 jam untuk menyelesaikan solusi.
-> - Jika Anda perlu untuk membuat situs tim baru yang tidak mencakup grup Office 365 
+> [! Tips
+> - Anda tidak dapat membuat situs dengan URL yang sama dari situs yang ada. Jika Anda menghapus situs dan ingin menggunakan kembali URL, kemungkinan situs yang dihapus masih ada di **situs yang dihapus**. Untuk mengelola situs yang dihapus, [Hapus situs](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Untuk menghapus situs dengan PowerShell, lihat contoh [Hapus-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
+> - Beberapa pengguna mungkin tidak dapat membuat situs. Lihat [Kelola pembuatan situs di SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Ada kemungkinan situs muncul terjebak di **membuat** lebih lama dari yang diharapkan. Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket dukungan. Dalam banyak kasus, kami telah bekerja pada solusi. Tolong beri kami setidaknya 24 jam untuk menyelesaikan solusi.
+> - Jika Anda perlu membuat situs tim baru yang tidak menyertakan grup Office 365, 
 
 

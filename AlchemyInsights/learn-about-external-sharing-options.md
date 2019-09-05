@@ -1,5 +1,5 @@
 ---
-title: 617 belajar tentang eksternal opsi berbagi
+title: 617 Pelajari tentang opsi berbagi eksternal
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497770"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735356"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Belajar tentang kalender eksternal opsi berbagi
+# <a name="learn-about-external-calendar-sharing-options"></a>Pelajari tentang opsi berbagi kalender eksternal
 
-Jika Anda perlu untuk menjadwalkan pertemuan dengan pengguna di luar organisasi Anda, Office 365 memungkinkan Anda untuk membuat kalender yang tersedia untuk "pengguna eksternal," orang-orang yang membutuhkan untuk melihat bebas/sibuk waktu tetapi tidak memiliki account pengguna untuk lingkungan Office 365 Anda. Untuk selengkapnya, lihat [berbagi kalender dengan pengguna eksternal](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Jika Anda perlu menjadwalkan pertemuan dengan orang di luar organisasi, Office 365 memungkinkan Anda membuat kalender yang tersedia bagi "pengguna eksternal", mereka yang perlu melihat waktu bebas/sibuk namun tidak memiliki akun pengguna untuk lingkungan Office 365 Anda. Untuk informasi lebih lanjut, lihat [berbagi kalender dengan pengguna eksternal](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

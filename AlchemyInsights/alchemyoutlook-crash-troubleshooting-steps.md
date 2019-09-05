@@ -1,5 +1,5 @@
 ---
-title: Alkimia - Outlook crash langkah pemecahan masalah
+title: Alchemy-langkah pemecahan masalah crash Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664575"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737120"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook crash langkah pemecahan masalah
+# <a name="outlook-crash-troubleshooting-steps"></a>Langkah pemecahan masalah Outlook crash
 
-Jika Anda mengalami masalah Outlook desktop crash, mulai dengan mengikuti tiga langkah-langkah di bawah ini, yang tercantum secara rinci dalam artikel ini: [cara memecahkan masalah yang menyebabkan Outlook untuk kecelakaan atau berhenti merespons ketika digunakan dengan Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Jika Anda mengalami masalah crash desktop Outlook, mulai dengan mengikuti tiga langkah di bawah ini, yang semuanya tercantum secara rinci dalam artikel ini: [cara memecahkan masalah yang menyebabkan Outlook lumpuh atau berhenti merespons saat digunakan dengan Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Langkah 1: Menyelidiki kemungkinan masalah dengan add-in.
+Langkah 1: menyelidiki kemungkinan masalah dengan Add-in.
   
-Langkah 2: Perbaikan Outlook dan menjalankan [dukungan dan asisten pemulihan alat](https://aka.ms/SaRA-OutlookWontStart) untuk memecahkan masalah galat startup Outlook pada mesin terkena.
+Langkah 2: Perbaiki Outlook dan jalankan [dukungan dan alat asisten pemulihan](https://aka.ms/SaRA-OutlookWontStart) untuk memecahkan masalah kesalahan startup Outlook pada mesin yang terpengaruh.
   
-Langkah 3: Membuat profil Outlook baru, atau menjalankan [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin terkena.
+Langkah 3: Buat profil Outlook baru, atau Jalankan [alat profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin yang terpengaruh.
   
-Jika terjadi masalah setelah update dan langkah di atas tidak bekerja, Anda mungkin perlu untuk kembali ke sebelumnya membangun. Melihat [bagaimana untuk kembali ke versi sebelumnya kantor 2016 klik menjalankan](https://support.microsoft.com/help/2770432).
+Jika masalah terjadi setelah pembaruan dan langkah di atas tidak berfungsi, Anda mungkin harus kembali ke versi sebelumnya. Lihat [bagaimana cara kembali ke versi yang lebih lawas Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   

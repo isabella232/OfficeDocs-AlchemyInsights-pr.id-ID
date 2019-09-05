@@ -1,5 +1,5 @@
 ---
-title: Mengubah kotak pesan bersama Kirim sebagai perilaku
+title: Mengubah kotak surat bersama Kirim sebagai perilaku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 4d21e638f55bfdd100f5f8a6cf0b48fafe88f76e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520706"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738560"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>Mengubah kotak pesan bersama Kirim sebagai perilaku
+# <a name="changing-shared-mailbox-send-as-behavior"></a>Mengubah kotak surat bersama Kirim sebagai perilaku
 
-Secara default, pesan yang dikirim dari kotak pesan bersama tidak disimpan ke folder Item dikirim dari kotak pesan bersama. Sebaliknya, mereka akan disimpan ke folder Item Terkirim dari orang yang mengirim pesan.
+Secara default, pesan yang dikirim dari kotak surat bersama tidak disimpan ke folder Item Terkirim di kotak surat bersama. Sebaliknya, mereka disimpan ke folder Item Terkirim orang yang mengirim pesan.
   
-Jika Anda ingin semua anggota untuk melihat email dikirim, di pusat admin Microsoft 365, mengedit rincian kotak pesan bersama, dan memilih **item dikirim** \> **mengedit**.
+Jika Anda ingin semua anggota melihat email terkirim, di pusat admin Microsoft 365, Edit rincian kotak pesan bersama, lalu pilih \> **Edit** **item terkirim** .
   
-Untuk selengkapnya, lihat [membuat kotak pesan bersama](https://support.office.com/article/create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9).
+Untuk membaca lebih lanjut, lihat [membuat kotak pesan bersama](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

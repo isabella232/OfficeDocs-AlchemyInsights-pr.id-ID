@@ -1,5 +1,5 @@
 ---
-title: Saran untuk memecahkan kesalahan 'Berlisensi produk'
+title: Saran untuk memecahkan ' produk tanpa izin ' kesalahan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501046"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743276"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Saran untuk memecahkan kesalahan "Tidak berlisensi Produk"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Saran untuk memecahkan "produk tanpa izin" kesalahan
 
-Pastikan Anda memiliki langganan yang memungkinkan klien lisensi, seperti Office 365 bisnis atau bisnis Premium, dan [memastikan pengguna memiliki izin ditetapkan](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Nonaktifkan instalasi](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) untuk memeriksa jika Anda telah melampaui jumlah menginstall didukung oleh langganan Anda.
+Pastikan Anda memiliki langganan yang memungkinkan lisensi klien, seperti Office 365 bisnis atau bisnis Premium, dan [pastikan pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Menonaktifkan penginstalan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) untuk memeriksa apakah Anda telah melebihi jumlah penginstalan yang didukung oleh langganan Anda.
   
-Memastikan pengguna masuk dengan account yang sama yang memiliki lisensi yang diberikan.
+Pastikan pengguna masuk dengan akun yang sama yang memiliki lisensi yang ditetapkan.
   
-Menjalankan the [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Jalankan [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Periksa jika status langganan Anda telah berakhir
+Memeriksa apakah status langgananmu telah kedaluwarsa
   
-Periksa [halaman kantor 365 layanan kesehatan](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat jika ada masalah dikenal dengan layanan.
+Periksa [halaman Office 365 Kesehatan Layanan](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah yang diketahui dengan layanan.
   
-[Melakukan perbaikan kantor Online](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Melakukan perbaikan online kantor](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Untuk solusi pemecahan masalah tambahan, lihat: [produk berlisensi dan aktivasi kesalahan di kantor](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Untuk solusi pemecahan masalah tambahan, lihat: [tidak berlisensi produk dan galat aktivasi di Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

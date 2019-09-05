@@ -1,5 +1,5 @@
 ---
-title: Perubahan UPN
+title: Ubah UPN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,33 +11,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 51f0f7331d40ce4c87836725eb41d6d4beb26c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d7a7cdea8de8f6e12a9c98142c86dc80f7e1b172
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520850"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738596"
 ---
 # <a name="change-a-users-email-address"></a>Mengubah alamat email pengguna
 
-Mengubah alamat email seseorang sangat mudah! Ikuti langkah berikut:
+Mengubah alamat email seseorang itu mudah! Cukup ikuti langkah berikut:
   
-1. Di pusat admin Microsoft 365, pergi ke halaman [pengguna](https://go.microsoft.com/fwlink/p/?linkid=834822) , atau memilih **pengguna** \> **Pengguna aktif**.
+1. Di pusat admin Microsoft 365, buka halaman [pengguna](https://go.microsoft.com/fwlink/p/?linkid=834822) , **atau pilih** \> pengguna **aktif**.
     
 2. Pilih pengguna.
     
-3. Di sebelah kanan, di **Username / Email alias** baris, pilih **Edit**.
+3. Di sebelah kanan, di baris **username/alias email** , pilih **Edit**.
     
-4. Dalam kotak **Alias** , ketik email baru, lalu pilih **Add**.
+4. Di kotak **alias** , ketik email baru, lalu pilih **Tambahkan**.
     
-    **Penting**: jika Anda mendapatkan pesan kesalahan " **parameter tidak dapat ditemukan yang cocok nama parameter ' EmailAddresses akan**" itu berarti bahwa itu berlangsung sedikit lebih lama untuk Office 365 untuk menyelesaikan pengaturan penyewa Anda, atau domain kustom jika Anda baru saja menambahkan satu . Proses setup dapat mengambil hingga 4 jam untuk menyelesaikan. Tunggu sementara sehingga proses setup memiliki waktu untuk menyelesaikan, dan kemudian coba lagi. Jika masalah berlanjut, hubungi dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
+    **Penting**: jika Anda mendapatkan pesan kesalahan " **parameter tidak dapat ditemukan yang cocok dengan nama parameter ' EmailAddresses**" itu berarti bahwa itu mengambil sedikit lebih lama untuk Office 365 untuk menyelesaikan pengaturan penyewa Anda, atau domain kustom Anda jika Anda baru saja menambahkan satu . Proses penyiapan dapat membutuhkan waktu hingga 4 jam untuk menyelesaikannya. Tunggu sebentar sehingga proses penataan memiliki waktu untuk menyelesaikan, dan kemudian coba lagi. Jika masalah tetap ada, hubungi dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
     
-    Jika Anda mendapatkan pesan kesalahan " **kami Minta Maaf, pengguna tidak dapat diedit. Meninjau informasi pengguna dan coba lagi**"itu berarti Anda tidak admin global Office 365 dan Anda tidak memiliki izin untuk mengubah nama pengguna.
+    Jika Anda mendapatkan pesan kesalahan " **Maaf, pengguna tidak dapat diedit. Tinjau informasi pengguna dan coba lagi**"ini berarti Anda bukan admin global Office 365 dan Anda tidak memiliki izin untuk mengubah nama pengguna.
     
-5. Memilih **Set sebagai primer** untuk alamat email yang Anda ingin mengatur sebagai alamat email utama untuk orang tersebut. Jika Anda membeli langganan Anda dari GoDaddy, Anda harus masuk ke konsol manajemen mereka menetapkan alamat email utama. 
+5. Pilih **tetapkan sebagai utama** untuk alamat email yang ingin Anda setel sebagai alamat email primer untuk orang tersebut. Jika Anda membeli langganan dari GoDaddy, Anda harus masuk ke konsol manajemennya untuk menetapkan alamat email utama. 
     
-6. Pilih **Simpan**, kemudian **tutup**, dan Anda selesai!
+6. Pilih **Simpan**, lalu **tutup**, dan Anda sudah selesai!
     
-Tidak mudah? Untuk rincian lebih lanjut dan langkah-langkah dengan screenshot, periksa artikel ini: [mengubah nama pengguna dan e-mail di Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Bukankah itu mudah? Untuk detail dan langkah lebih lanjut dengan screenshot, bacalah artikel ini: [mengubah nama pengguna dan alamat email di Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
 

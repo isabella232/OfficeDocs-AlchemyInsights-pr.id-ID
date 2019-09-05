@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ac8dddcfd9213d0a9fc67dde90a88195fac1ac74
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533245"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742484"
 ---
 # <a name="trying-to-verify-your-domain"></a>Tidak dapat memverifikasi domain Anda?
 
-Anda harus menambahkan catatan TXT ke pendaftar domain untuk memverifikasi bahwa Anda adalah pemilik domain. Ikuti wizard Domain baru di Microsoft 365 admin center dengan pergi ke **Setup** \> **domain**, dan kemudian **Tambahkan domain**. 
+Anda harus menambahkan catatan TXT ke pendaftar domain untuk memverifikasi bahwa Anda adalah pemilik domain. Ikuti Wisaya domain baru di pusat admin Microsoft 365 dengan membuka **domain** **penataan** \> , dan kemudian **Tambahkan domain**. 
   
 Ikuti instruksi dalam artikel di bawah ini untuk menambahkan catatan TXT guna memverifikasi domain Anda. Pilih pendaftar domain untuk instruksi tertentu di domain Anda.
   
-[Membuat catatan DNS untuk Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Membuat catatan DNS untuk Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
   
 

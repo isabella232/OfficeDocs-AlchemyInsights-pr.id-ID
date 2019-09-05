@@ -1,26 +1,26 @@
 ---
 title: Akses bersyarat dengan Intune
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 4111ae725c14a897c110af3d0d0002d81629c310
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b0f2a7bd2d28a05ea192747c5b8c95bc16d7b8fb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520166"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755563"
 ---
 # <a name="conditional-access"></a>Akses bersyarat
 
-Akses bersyarat adalah kemampuan Azure Active Directory. Dengan akses bersyarat, Anda dapat menerapkan keputusan kontrol otomatis akses untuk mengakses aplikasi awan yang didasarkan pada kondisi. Untuk informasi lebih lanjut, silahkan kunjungi [Kebijakan Configuring Location-Based](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
+Akses bersyarat adalah kemampuan Azure Active Directory. Dengan akses bersyarat, Anda dapat menerapkan keputusan kontrol akses otomatis untuk mengakses aplikasi Cloud Anda yang didasarkan pada kondisi. Untuk informasi lebih lanjut, silakan kunjungi [konfigurasi kebijakan berbasis lokasi](https://docs.microsoft.com/azure/active-directory/conditional-access/overview).
 
-Sebagai seorang IT admin, Anda juga dapat mengontrol akses ke sumber daya SharePoint dan OneDrive, berdasarkan lokasi didefinisikan jaringan atau perangkat yang Anda percaya. Untuk informasi lebih lanjut, silakan kunjungi link di bawah ini.
+Sebagai admin IT, Anda juga dapat mengontrol akses ke sumber daya SharePoint dan OneDrive berdasarkan lokasi jaringan yang ditentukan atau perangkat yang Anda percayai. Untuk informasi lebih lanjut, silakan kunjungi link di bawah ini.
 
-- [Kontrol akses ke data SharePoint Online dan OneDrive berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Kontrol akses ke SharePoint online dan data OneDrive berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-- [Kontrol akses dari unmanaged perangkat](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Mengontrol akses dari perangkat yang tidak dikelola](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 

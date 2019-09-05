@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501694"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743348"
 ---
 # <a name="solutions-for-error-30068-39"></a>Solusi untuk kesalahan 30068-39
 
 Coba solusi ini untuk memperbaiki kesalahan [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- Restart komputer Anda dan mencoba [menginstal Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Mulai ulang komputer dan coba [Instal Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Periksa jika **Microsoft klik menjalankan**[Layanan dinonaktifkan](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) dan jika dinonaktifkan, perubahan status untuk **Manual** atau **otomatis**.
+- Periksa jika Layanan **Microsoft Click-to-Run** [dinonaktifkan](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) dan jika dinonaktifkan, Ubah status **manual** atau **otomatis**.
 
-- Download dan install [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Unduh dan instal [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ketika terbuka, dari **kantor Uninstall produk** pilih Versi yang Anda inginkan untuk uninstall dan pilih **berikutnya**.
+1. Ketika terbuka, dari **uninstall produk Office** pilih Versi yang ingin Anda uninstall dan pilih **berikutnya**.
 
-2. Lanjutkan melalui layar dan restart komputer Anda bila diminta.
+2. Terus melalui layar dan restart komputer Anda ketika diminta.
 
-    Setelah restart, dukungan dan asisten pemulihan secara otomatis akan kembali membuka untuk menyelesaikan proses pencopotan pemasangan.
+    Setelah restart, Asisten dukungan dan pemulihan secara otomatis membuka kembali untuk menyelesaikan proses pembongkaran.
 
-3. Ikuti petunjuknya tersisa, dan [instal ulang kantor](https://portal.office.com/OLS/MySoftware.aspx) atau menutup asisten.
+3. Ikuti petunjuk yang tersisa, dan [instal ulang Office](https://portal.office.com/OLS/MySoftware.aspx) atau tutup asisten.

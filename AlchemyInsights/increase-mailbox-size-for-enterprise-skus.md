@@ -1,5 +1,5 @@
 ---
-title: Meningkatkan ukuran kotak pesan untuk Enterprise SKU
+title: Meningkatkan ukuran kotak surat untuk Enterprise SKU
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499426"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739280"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Apa yang harus dilakukan jika ukuran kotak pesan Anda sudah 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Apa yang harus dilakukan jika ukuran kotak surat Anda sudah 100GB
 
-Dengan rencana E3 atau E5, ukuran kotak pesan Anda sudah 100 GB, dan tidak ada cara untuk meningkatkan itu. Sebaliknya, menghapus email lama, atau Aktifkan email pengarsipan untuk menyimpannya di awan. 
+Dengan paket E3 atau E5, ukuran kotak surat Anda sudah 100 GB, dan tidak ada cara untuk meningkatkannya. Sebagai gantinya, Hapus email lama, atau Aktifkan pengarsipan email untuk menyimpannya di Cloud. 
   
-Untuk mengaktifkan email pengarsipan:
+Untuk mengaktifkan pengarsipan email:
   
-1. Di pusat admin Microsoft 365, pergi ke **Admin pusat** \> **asing**. 
+1. Di pusat admin Microsoft 365, pergi ke pusat **admin** \> **Exchange**. 
     
-2. Pilih **penerima** \> **kotak pesan**, dan pilih kotak pesan. 
+2. Pilih **** \> **kotak pesan**Penerima, lalu pilih kotak pesan. 
     
-3. Di panel rincian di bawah **Arsip di tempat**, pilih **mengaktifkan**. 
+3. Di panel rincian di bawah **arsip di tempat**, pilih **Aktifkan**. 
     
-4. Setelah beberapa menit, folder baru akan muncul di pengguna Outlook di web disebut *Arsip di tempat* , atau di Outlook app disebut *Arsip Online - \<nama\> * . Pengguna Anda dapat drag dan drop email ke arsip. 
+4. Setelah beberapa menit, folder baru akan muncul di Outlook pengguna di web yang disebut *arsip di tempat* , atau di aplikasi Outlook yang disebut * \<nama\> Arsip online* . Pengguna Anda dapat menyeret dan menjatuhkan email ke arsip. 
     
-Anda dapat mengakses jumlah yang tidak terbatas penyimpanan untuk pengarsipan. Untuk selengkapnya, lihat [mengaktifkan pengarsipan terbatas](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Anda dapat mengakses penyimpanan dalam jumlah yang tidak terbatas untuk pengarsipan. Untuk mempelajari lebih lanjut, lihat [mengaktifkan pengarsipan tak terbatas](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

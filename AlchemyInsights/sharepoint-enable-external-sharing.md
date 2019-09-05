@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan berbagi eksternal dalam SharePoint Online
+title: Mengaktifkan berbagi eksternal di SharePoint online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503890"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744428"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Mengaktifkan berbagi eksternal dalam SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Mengaktifkan berbagi eksternal di SharePoint online
 
-Jika organisasi Anda melakukan pekerjaan yang melibatkan berbagi dokumen atau bekerja sama langsung dengan vendor, klien atau pelanggan, maka Anda dapat menggunakan [eksternal berbagi fitur SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) untuk berbagi konten dengan orang di luar Anda organisasi.
+Jika organisasi Anda melakukan pekerjaan yang melibatkan berbagi dokumen atau berkolaborasi secara langsung dengan vendor, klien, atau pelanggan, maka Anda dapat menggunakan [fitur berbagi eksternal SharePoint online](https://docs.microsoft.com/sharepoint/external-sharing-overview) untuk berbagi konten dengan orang di luar Organisasi.
 
-Untuk informasi lebih lanjut tentang eksternal berbagi (tamu) silahkan kunjungi link di bawah ini.
+Untuk informasi lebih lanjut tentang berbagi eksternal (tamu) silahkan kunjungi link di bawah ini.
 
-- [Apakah pengguna eksternal?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Apa itu pengguna eksternal?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Apa yang terjadi saat saya berbagi situs atau dokumen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Apa yang terjadi jika saya membagikan situs atau dokumen?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Mengubah eksternal berbagi on atau off untuk SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Mengaktifkan atau menonaktifkan berbagi eksternal untuk SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Mengubah eksternal berbagi on atau off untuk situs](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Mengaktifkan atau menonaktifkan berbagi eksternal untuk situs](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Mengelola semua akses di kantor 365 kelompok](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Mengelola akses tamu di Office 365 grup](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Menggunakan Sharepoint Online sebagai solusi extranet bisnis-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Gunakan SharePoint online sebagai solusi Extranet bisnis-ke-bisnis (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Share SharePoint file atau folder](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Berbagi file atau folder SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Berhenti berbagi OneDrive atau SharePoint file atau folder, atau mengubah hak akses](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Berhenti berbagi OneDrive atau SharePoint file atau folder, atau mengubah izin](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [Menghapus pengguna eksternal](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
@@ -43,8 +43,8 @@ Untuk informasi lebih lanjut tentang eksternal berbagi (tamu) silahkan kunjungi 
 
 Periksa link di bawah ini. 
 
-- [OSE berbagi kesalahan dalam Sharepoint atau OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE berbagi kesalahan dalam SharePoint atau OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Pesan galat saat pengguna eksternal menerima undangan SharePoint Online dengan menggunakan account lain](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Pesan galat saat pengguna eksternal menerima undangan SharePoint online dengan menggunakan akun lain](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Akses ditolak ke folder bersama](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Akses ditolak ke folder bersama](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

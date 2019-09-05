@@ -1,5 +1,5 @@
 ---
-title: Alkimia - membuat dan menambahkan tanda tangan ke pesan di Outlook
+title: Alchemy-membuat dan menambahkan tanda tangan ke pesan di Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664647"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737372"
 ---
-# <a name="creating-email-signatures"></a>Membuat email Signature
+# <a name="creating-email-signatures"></a>Membuat tanda tangan email
 
-Artikel ini akan membantu Anda membuat email Signature di Outlook.
+Artikel ini akan membantu Anda membuat tanda tangan email di Outlook.
   
-- Saya ingin membuat tanda tangan email yang menggunakan Outlook pada Windows: [membuat dan menambahkan tanda tangan pada pesan](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Saya ingin membuat tanda tangan email menggunakan Outlook di Windows: [membuat dan menambahkan tanda tangan ke pesan](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Saya ingin membuat tanda tangan email yang menggunakan Outlook di web: [membuat dan menambahkan tanda tangan email dalam Outlook di web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Saya ingin membuat tanda tangan email menggunakan Outlook di web: [membuat dan menambahkan tanda tangan email di Outlook di web](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Saya ingin membuat tanda tangan email yang menggunakan Outlook.com: [membuat dan menambahkan tanda tangan email dalam Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Saya ingin membuat tanda tangan email menggunakan Outlook.com: [membuat dan menambahkan tanda tangan email di Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Saya ingin membuat global email tanda tangan untuk semua email yang dikirim dari perusahaan saya: [buat tanda tangan seluruh organisasi dan penyangkalan di Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Saya ingin membuat tanda tangan email global untuk semua email yang dikirim dari perusahaan saya: [membuat tanda tangan dan sanggahan di seluruh organisasi](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
- **Tips:** Tanda tangan seluruh organisasi yang disebut sebagai "penyangkalan."
+ **Tips:** Tanda tangan di seluruh organisasi disebut sebagai "sanggahan."
   

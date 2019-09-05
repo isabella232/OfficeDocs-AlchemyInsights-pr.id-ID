@@ -1,5 +1,5 @@
 ---
-title: Punya 'Parameter tidak ditemukan' kesalahan?
+title: Punya ' parameter tidak ditemukan ' kesalahan?
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523478"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739856"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Migrasi email dari sistem email IMAP ke Office 365
 
-Untuk migrasi email dari sistem pesan IMAP, ikuti proses ini: [migrasi IMAP di Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Untuk memigrasi email dari sistem Surat IMAP, ikuti proses ini: [migrasi IMAP di pusat admin Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)
   
-Organisasi-organisasi besar akan perlu untuk merencanakan dengan hati-hati untuk mengelola harapan pengguna. [Apa yang perlu Anda ketahui tentang migrasi kotak pesan IMAP ke Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikel akan membantu Anda mengelola perubahan.
+Banyak organisasi besar harus merencanakan dengan seksama untuk mengelola ekspektasi pengguna. Yang [perlu Anda ketahui tentang memigrasi kotak pesan IMAP ke Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) artikel akan membantu Anda mengelola perubahan.
 
-Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu migrasi, jika memenuhi syarat.
+Silakan juga Periksa [mengadopsi Office 365 dengan halaman FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu dengan migrasi, jika memenuhi syarat.
   
 
-Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu migrasi, jika memenuhi syarat.
+Silakan juga Periksa [mengadopsi Office 365 dengan halaman FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu dengan migrasi, jika memenuhi syarat.
   
