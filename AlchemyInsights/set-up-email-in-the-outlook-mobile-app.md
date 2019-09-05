@@ -1,5 +1,5 @@
 ---
-title: 1800014 mengatur email di Outlook mobile app
+title: 1800014 mengatur email di aplikasi seluler Outlook
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509183"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734168"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="498d9-102">Mengatur email di Outlook mobile app</span><span class="sxs-lookup"><span data-stu-id="498d9-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="bc48d-102">Mengatur email di aplikasi seluler Outlook</span><span class="sxs-lookup"><span data-stu-id="bc48d-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="498d9-103">Pilih **Mulai** jika Anda pertama waktu mendirikan email dalam aplikasi pada ponsel.</span><span class="sxs-lookup"><span data-stu-id="498d9-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="498d9-104">Jika tidak, ketuk **Menu** dan kemudian sentuh **pengaturan** \> **Add Account** \> **Menambahkan Account Email**.</span><span class="sxs-lookup"><span data-stu-id="498d9-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="bc48d-103">Pilih **memulai** jika ini adalah pertama kalinya Anda menyiapkan email di aplikasi seluler.</span><span class="sxs-lookup"><span data-stu-id="bc48d-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="bc48d-104">Jika tidak, ketuk **menu** , lalu ketuk **setelan** \> **Tambahkan akun** \> **email Tambahkan**akun.</span><span class="sxs-lookup"><span data-stu-id="bc48d-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="498d9-105">Masukkan alamat email lengkap Anda dan tekan **Continue** atau **Add Account**.</span><span class="sxs-lookup"><span data-stu-id="498d9-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="bc48d-105">Masukkan alamat email lengkap Anda dan ketuk **Lanjutkan** atau **Tambah akun**.</span><span class="sxs-lookup"><span data-stu-id="bc48d-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="498d9-106">Masukkan sandi account email dan tekan **Masuk** atau yang **berikutnya**.</span><span class="sxs-lookup"><span data-stu-id="498d9-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="bc48d-106">Masukkan kata sandi akun email Anda, lalu ketuk **masuk** atau **berikutnya**.</span><span class="sxs-lookup"><span data-stu-id="bc48d-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="498d9-107">Jika [faktor multi otentikasi](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) diaktifkan, pastikan Anda mengatur (6 digit kode tersebut, panggilan telepon, atau aplikasi Microsoft Authenticator) metode.</span><span class="sxs-lookup"><span data-stu-id="498d9-107">If [multi-factor authentication](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="bc48d-107">Jika [autentikasi multi-faktor](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) diaktifkan, Verifikasikan menggunakan metode yang Anda Siapkan (kode 6 digit, panggilan telepon, atau aplikasi Microsoft Authenticator).</span><span class="sxs-lookup"><span data-stu-id="bc48d-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="498d9-108">Jika tambahan IT admin kebijakan di tempat, ketuk **Aktifkan** untuk mengaktifkan mereka.</span><span class="sxs-lookup"><span data-stu-id="498d9-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="bc48d-108">Jika kebijakan admin TI tambahan diberlakukan, ketuk **Aktifkan** untuk mengaktifkannya.</span><span class="sxs-lookup"><span data-stu-id="bc48d-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="498d9-109">Outlook dapat meminta izin untuk mengakses kalender, kontak, dan informasi lainnya.</span><span class="sxs-lookup"><span data-stu-id="498d9-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="498d9-110">Pilih **ya** atau **memungkinkan**.</span><span class="sxs-lookup"><span data-stu-id="498d9-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="bc48d-109">Outlook dapat meminta izin untuk mengakses kalender, kontak, dan informasi lainnya.</span><span class="sxs-lookup"><span data-stu-id="bc48d-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="bc48d-110">Pilih **ya** atau **Izinkan**.</span><span class="sxs-lookup"><span data-stu-id="bc48d-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="498d9-111">Dapatkan rinci set up petunjuk untuk [Outlook untuk Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) atau [Outlook untuk iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) di sini.</span><span class="sxs-lookup"><span data-stu-id="498d9-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="bc48d-111">Dapatkan petunjuk pengaturan terperinci untuk [Outlook untuk Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) atau [Outlook untuk IOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) di sini.</span><span class="sxs-lookup"><span data-stu-id="bc48d-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="498d9-112">**Perlu bantuan?**</span><span class="sxs-lookup"><span data-stu-id="498d9-112">**Need help?**</span></span>
+ <span data-ttu-id="bc48d-112">**Butuh bantuan?**</span><span class="sxs-lookup"><span data-stu-id="bc48d-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="498d9-113">Mengatasi masalah pengaturan e-mail di ponsel</span><span class="sxs-lookup"><span data-stu-id="498d9-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="bc48d-113">Memecahkan masalah penyiapan email di seluler</span><span class="sxs-lookup"><span data-stu-id="bc48d-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="498d9-114">Dapatkan bantuan dalam app untuk Outlook untuk iOS dan Android</span><span class="sxs-lookup"><span data-stu-id="498d9-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="bc48d-114">Dapatkan bantuan dalam aplikasi untuk Outlook untuk iOS dan Android</span><span class="sxs-lookup"><span data-stu-id="bc48d-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

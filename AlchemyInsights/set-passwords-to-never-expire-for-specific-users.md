@@ -1,5 +1,5 @@
 ---
-title: Mengatur SPF di Office 365
+title: Menata SPF di Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509111"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744788"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="c2675-102">Mengatur password untuk tidak pernah berakhir</span><span class="sxs-lookup"><span data-stu-id="c2675-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="a2038-102">Menyetel sandi agar tidak pernah kedaluwarsa</span><span class="sxs-lookup"><span data-stu-id="a2038-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="c2675-103">Untuk mengatur semua password agar tidak pernah berakhir, di pusat admin Microsoft 365, pergi ke **pengaturan** > [keamanan &amp; privasi](https://portal.office.com/adminportal/home#/settings/security) halaman.</span><span class="sxs-lookup"><span data-stu-id="c2675-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="c2675-104">Pilih **Edit** di samping **standar kebijakan Password**, dan mengubah slider **on**.</span><span class="sxs-lookup"><span data-stu-id="c2675-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="a2038-103">Untuk mengatur semua sandi agar tidak pernah kedaluwarsa, di pusat admin Microsoft 365, pergi ke **pengaturan** > [keamanan &amp; halaman privasi](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="a2038-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="a2038-104">Pilih **Edit** **di**samping **kebijakan sandi**, lalu Aktifkan penggeser.</span><span class="sxs-lookup"><span data-stu-id="a2038-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
   
-<span data-ttu-id="c2675-105">Untuk informasi lebih lanjut lihat: [menetapkan sandi kedaluwarsa kebijakan untuk organisasi.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span><span class="sxs-lookup"><span data-stu-id="c2675-105">For more detailed information see: [Set the password expiration policy for your organization.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)</span></span>
+<span data-ttu-id="a2038-105">Untuk informasi selengkapnya, lihat: [mengatur kebijakan kedaluwarsa sandi untuk organisasi Anda.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span><span class="sxs-lookup"><span data-stu-id="a2038-105">For more detailed information see: [Set the password expiration policy for your organization.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)</span></span>
   
-[<span data-ttu-id="c2675-106">Atur password tidak pernah berakhir untuk pengguna tertentu</span><span class="sxs-lookup"><span data-stu-id="c2675-106">Set password to never expire for specific users</span></span>](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[<span data-ttu-id="a2038-106">Menyetel sandi agar tidak pernah kedaluwarsa untuk pengguna tertentu</span><span class="sxs-lookup"><span data-stu-id="a2038-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   
