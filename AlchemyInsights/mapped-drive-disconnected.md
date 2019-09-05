@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496834"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734852"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Perpustakaan SharePoint yang dipetakan ke drive jaringan menjadi terputus
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>Perpustakaan SharePoint dipetakan ke kandar jaringan menjadi terputus
 
-Memetakan pustaka dokumen SharePoint ke drive jaringan bersifat sementara. Kadang-kadang Anda harus membuka situs SharePoint di Internet Explorer dan pilih **tetap masuk** untuk mencegah sesi kedaluwarsa. 
+Pemetaan perpustakaan dokumen SharePoint ke kandar jaringan sementara. Anda harus sesekali membuka situs SharePoint di Internet Explorer dan pilih **tetap masuk** untuk mencegah kedaluwarsa sesi. 
   
-[Mendapatkan bantuan konfigurasi dan pemecahan masalah drive jaringan yang dipetakan](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Dapatkan bantuan mengonfigurasi dan memecahkan masalah kandar jaringan yang dipetakan](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Untuk bekerja dengan perpustakaan di File Explorer, [sinkronisasi file SharePoint dengan klien sinkronisasi OneDrive baru](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) yang mencakup [File On-Demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Mengakses semua file Anda di OneDrive tanpa menggunakan ruang penyimpanan lokal.
+Untuk bekerja dengan perpustakaan di file Explorer, [sinkronkan berkas SharePoint dengan klien sinkronisasi OneDrive baru](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) yang mencakup [file on-demand](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Akses semua file Anda di OneDrive tanpa menggunakan ruang penyimpanan lokal.
   
 

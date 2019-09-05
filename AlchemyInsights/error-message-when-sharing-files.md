@@ -1,6 +1,6 @@
 ---
-title: Pesan galat saat berbagi file
-ms.author: kirks
+title: Pesan galat saat berbagi berkas
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527294"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755959"
 ---
-# <a name="error-messages-when-sharing"></a>Pesan kesalahan ketika berbagi
+# <a name="error-messages-when-sharing"></a>Pesan kesalahan saat berbagi
 
-Jika Anda menerima pesan galat ketika mencoba untuk berbagi dengan pengguna eksternal, kemungkinan berbagi eksternal tidak diaktifkan atau berbagi diatur untuk tidak mengizinkan tingkat berbagi pengguna mencoba.
+Jika Anda menerima pesan galat ketika mencoba untuk berbagi dengan pengguna eksternal, kemungkinan berbagi eksternal tidak diaktifkan atau berbagi diatur ke tidak mengizinkan tingkat berbagi pengguna berusaha.
   
-Di pusat admin SharePoint baru, klik **berbagi** dalam pane kiri. Pilih tingkat sharing Anda hendak mengizinkan. Pastikan eksternal berbagi dihidupkan untuk situs. 
+Di pusat admin SharePoint baru, klik **berbagi** di sebelah kiri. Pilih tingkat berbagi yang ingin Anda Izinkan. Pastikan berbagi eksternal diaktifkan untuk situs. 
   
-Jika pengguna mencoba untuk log in akan menerima pesan galat, coba langkah-langkah berikut:
+Jika pengguna mencoba masuk menerima pesan galat, silakan coba langkah berikut:
   
-- Memastikan bahwa pengguna telah menerima undangan berbagi yang dikirimkan.
+- Pastikan bahwa pengguna telah menerima undangan berbagi yang dikirim.
     
-- Memastikan bahwa pengguna adalah menerima undangan dengan alamat email yang diutus ke.
+- Pastikan bahwa pengguna menerima undangan dengan alamat email yang dikirimkan.
     
 

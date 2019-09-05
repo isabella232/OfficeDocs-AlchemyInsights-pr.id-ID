@@ -1,6 +1,6 @@
 ---
 title: OSE berbagi kesalahan dalam SharePoint dan OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543136"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752971"
 ---
-# <a name="ose-sharing-errors"></a>OSE berbagi kesalahan
+# <a name="ose-sharing-errors"></a>Kesalahan berbagi OSE
 
-Artikel ini mencakup kesalahan yang berbeda yang mungkin Anda alami ketika berbagi file atau folder dari SharePoint Online atau OneDrive untuk bisnis di Office 365. Anda harus global atau SharePoint admin di organisasi Anda untuk memperbaiki kesalahan ini. Jika Anda tidak administrator, hubungi staf dukungan dan memberi mereka kode kesalahan.
+Artikel ini mencakup galat yang berbeda yang mungkin Anda alami ketika berbagi berkas atau map dari SharePoint online atau OneDrive untuk bisnis di Office 365. Anda harus menjadi admin global atau SharePoint di organisasi Anda untuk memperbaiki kesalahan ini. Jika Anda bukan administrator, hubungi staf bantuan Anda dan beri mereka kode kesalahan Anda.
 
-Untuk informasi lebih lanjut tentang kode kesalahan OSE, lihat [berbagi kesalahan di SharePoint dan OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Untuk informasi lebih lanjut tentang kode galat OSE, lihat [berbagi kesalahan di SharePoint dan OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

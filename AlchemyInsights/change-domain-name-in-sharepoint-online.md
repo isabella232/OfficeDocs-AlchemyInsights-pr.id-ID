@@ -1,6 +1,6 @@
 ---
-title: Mengubah nama domain di SharePoint Online
-ms.author: kirks
+title: Ubah nama domain di SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519194"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747643"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Mengubah nama domain di SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Ubah nama domain di SharePoint online
 
-Sayangnya, tidak mungkin untuk mengubah nama domain SharePoint Online untuk organisasi Anda di Office 365. Misalnya, jika nama organisasi Anda berubah dari "Contoso" untuk "Keempat kopi", Anda tidak dapat mengubah contoso.sharepoint.com untuk fourthcoffee.sharepoint.com.
+Sayangnya, tidak dimungkinkan untuk mengubah nama domain SharePoint online untuk organisasi Anda di Office 365. Misalnya, jika nama organisasi Anda berubah dari "contoso" menjadi "kopi keempat", Anda tidak dapat mengubah contoso.sharepoint.com menjadi fourthcoffee.sharepoint.com.
   
-Untuk menggunakan fourthcoffee.sharepoint.com nama domain, Anda akan perlu untuk membeli langganan Office 365 baru dan memindahkan semua email, file, dan data lain yang Anda ingin menyimpan langganan baru.
+Untuk menggunakan nama domain fourthcoffee.sharepoint.com, Anda perlu membeli langganan Office 365 baru dan memindahkan semua email, file, dan data lain yang ingin Anda simpan ke langganan baru.
   
- **Catatan**: misalnya, untuk mengubah nama sebuah situs dari https://contoso.sharepoint.com/sites/sample1 untuk https://contoso.sharepoint.com/sites/sample2, membuat situs baru, dan kemudian pindah semua konten dari situs yang lama ke yang baru.
+ **Catatan**: misalnya, untuk mengubah nama situs dari https://contoso.sharepoint.com/sites/sample1 untuk https://contoso.sharepoint.com/sites/sample2, membuat situs baru, dan kemudian memindahkan semua konten dari situs yang lama ke yang baru.
   
-Untuk info tentang memindahkan item dalam dokumen Perpustakaan, lihat [memindahkan atau menyalin item dari pustaka dokumen SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Untuk informasi tentang memindahkan item di perpustakaan dokumen, lihat [memindahkan atau menyalin item dari perpustakaan dokumen SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

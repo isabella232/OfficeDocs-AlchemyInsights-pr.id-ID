@@ -1,5 +1,5 @@
 ---
-title: Jaringan migrasi
+title: Migrasi jaringan
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538468"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734708"
 ---
-# <a name="network-migration"></a>Jaringan migrasi
+# <a name="network-migration"></a>Migrasi jaringan
 
-Anda O365 penyewa merupakan mungkin dikaitkan dengan beberapa jaringan heboh di penyewa 1: banyak konfigurasi jaringan. Mulai Oktober 16, 2018, heboh akan tidak lagi mendukung beberapa jaringan heboh yang terkait dengan salah satu penyewa Office 365. Anda dapat melakukan migrasi jaringan untuk sampai ke konfigurasi 1:1 yang disukai.
+Penghuni O365 Anda mungkin terkait dengan beberapa heboh jaringan di penyewa 1: banyak jaringan konfigurasi. Mulai Oktober 16, 2018, heboh tidak akan lagi mendukung beberapa jaringan heboh yang terkait dengan satu Office 365 penyewa. Anda dapat melakukan migrasi jaringan untuk mendapatkan konfigurasi 1:1 pilihan.
   
-- Untuk melihat daftar jaringan yang terkait dengan penyewa Anda, login ke heboh sebagai Administrator kantor 365 Global dan browse ke **Admin jaringan**, maka **Jaringan migrasi**. Pilih **berikutnya**.
+- Untuk melihat daftar jaringan yang terkait dengan penyewa Anda, masuk ke Yammer sebagai Office 365 global administrator dan Browse ke **admin jaringan**, kemudian **jaringan migrasi**. Pilih **berikutnya**.
 
 - Jika Anda melihat beberapa jaringan yang tercantum pada langkah 2 dari 3, maka Anda memiliki beberapa jaringan heboh yang terkait dengan penyewa O365 Anda.
 
-- Untuk memperbaiki konfigurasi konfigurasi 1:1, Lanjutkan menggunakan alat jaringan migrasi.
+- Untuk memperbaiki konfigurasi Anda ke konfigurasi 1:1, Lanjutkan menggunakan alat migrasi jaringan.
 
-- Untuk informasi lebih lanjut tentang migrasi jaringan silakan lihat [jaringan migrasi: menggabungkan beberapa heboh jaringan](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Untuk informasi lebih lanjut tentang migrasi jaringan silakan lihat [migrasi jaringan: menggabungkan beberapa jaringan heboh](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
 Harap dicatat:
   
-- **Migrasi jaringan bermigrasi hanya aktif dan menunggu pengguna.** Bersama dengan pengguna aktif, informasi pengguna, misalnya nama dan foto profil, juga dimigrasi. Konten jaringan apapun, termasuk kelompok, tidak dimigrasi.
+- **Migrasi jaringan bermigrasi hanya pengguna aktif dan tertunda.** Seiring dengan pengguna aktif, informasi pengguna, seperti nama dan gambar profil, juga dimigrasikan. Konten jaringan, termasuk grup, tidak dimigrasikan.
 
-- **Migrasi jaringan tidak dapat dikembalikan.** Anda tidak akan dapat mengakses jaringan anak perusahaan Anda dan isinya setelah migrasi. Jadi sebelum Anda mempertimbangkan migrasi, Anda ingin merencanakan dengan hati-hati.
+- **Migrasi jaringan tidak dapat dibalik.** Anda tidak akan dapat mengakses jaringan anak perusahaan Anda dan isinya setelah migrasi. Jadi sebelum Anda mempertimbangkan migrasi, Anda ingin merencanakan dengan seksama.

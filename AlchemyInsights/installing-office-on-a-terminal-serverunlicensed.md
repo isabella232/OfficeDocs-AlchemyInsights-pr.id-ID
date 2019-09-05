@@ -1,5 +1,5 @@
 ---
-title: Menginstal office pada Server Terminal - tanpa izin
+title: Menginstal Office di terminal server-tidak berlisensi
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498418"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735392"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Menginstal Office pada Terminal Server
+# <a name="installing-office-on-a-terminal-server"></a>Menginstal Office di terminal server
 
-Untuk menggunakan kantor 365 ProPlus pada Windows Server menggunakan Remote Desktop Services (RDS), sebelumnya bernama Layanan Terminal:
+Untuk menyebarkan Office 365 ProPlus di Windows Server menggunakan layanan desktop jarak jauh (RDS), sebelumnya bernama Layanan Terminal:
   
-- Anda harus memiliki rencana Office 365 yang mencakup kantor 365 ProPlus, seperti kantor 365 Enterprise E3 atau Enterprise E5. Office 365 bisnis dan kantor 365 bisnis Premium rencana tidak termasuk kantor 365 ProPlus.
+- Anda harus memiliki rencana Office 365 yang mencakup Office 365 ProPlus, seperti Office 365 Enterprise E3 atau Enterprise E5. Office 365 bisnis dan Office 365 rencana bisnis Premium tidak termasuk Office 365 ProPlus.
 
-- Anda perlu untuk mengaktifkan [aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Anda harus mengaktifkan [aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Jika Anda ingin menginstal Office 365 ProPlus pada RDS dari kantor 365 portal, ***yang menggunakan pengaturan default instalasi***, ikuti langkah berikut:
+Jika Anda ingin menginstal Office 365 ProPlus di RDS dari Microsoft 365 Admin Center, ***yang menggunakan pengaturan instalasi default***, ikuti langkah-langkah berikut:
   
-1. Periksa apa rencana Office 365 yang Anda miliki. [Pelajari bagaimana](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Periksa apa Office 365 rencana yang Anda miliki. [Pelajari caranya](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Jika perlu, beralih ke Office 365 berbeda berencana. [Pelajari bagaimana](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Jika perlu, beralih ke rencana Office 365 yang berbeda. [Pelajari caranya](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Jika kantor sudah diinstal pada server RDS menggunakan rencana Office 365 lain, uninstall. Sebagai contoh, dengan pergi ke Control Panel \> Uninstall sebuah program. Uninstall menggunakan [Microsoft Support dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda menjalankan ke masalah.
+3. Jika Office sudah diinstal di RDS server menggunakan rencana Office 365 lainnya, bongkar. Sebagai contoh, dengan pergi ke Control Panel \> Uninstall program. Membongkar menggunakan [dukungan Microsoft dan pemulihan asisten](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda menjalankan ke masalah.
 
-4. Di RDS server, masuk ke portal 365 kantor dengan administrator account dan [menginstal Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Di RDS server, masuk ke Microsoft 365 Admin Center dengan akun administrator dan [menginstal Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Setelah kantor diinstal, ***tidak membuka atau masuk*** untuk aplikasi kantor.
+5. Setelah Office diinstal, ***jangan membuka atau masuk*** ke aplikasi Office apa pun.
 
-6. Di RDS server, mengaktifkan aktivasi komputer bersama dengan mengedit registri dengan mengikuti langkah berikut:
+6. Di RDS server, Aktifkan aktivasi komputer bersama dengan mengedit registri dengan mengikuti langkah berikut:
 
-1. Klik kanan tombol Windows di sudut kiri bawah layar Anda, lalu pilih Jalankan. Di kotak buka, ketikkan **regedit**, dan kemudian pilih OK.
+1. Klik kanan tombol Windows di sudut kiri bawah layar dan pilih Jalankan. Di kotak buka, ketik **regedit**, dan kemudian pilih OK.
 
-2. Pilih Ya saat diminta agar Registry Editor untuk membuat perubahan ke perangkat Anda.
+2. Pilih Ya saat diminta untuk mengizinkan Penyunting registri untuk membuat perubahan pada perangkat Anda.
 
-3. Di Penyunting registri, menambahkan nilai string dari **SharedComputerLicensing** dengan suasana 1 di bawah HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. Di Penyunting registri, tambahkan nilai untai **Sharedcomputerlicensing** dengan pengaturan 1 di bawah HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Pada RDS server, ***masuk sebagai pengguna akhir*** dan [memverifikasi bahwa komputer bersama aktivasi diaktifkan untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Di RDS server, ***masuk sebagai pengguna akhir*** dan [verifikasi bahwa komputer bersama aktivasi diaktifkan untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Untuk detail lebih lanjut tentang prasyarat, setup instruksi dan panduan instalasi yang disesuaikan dengan menggunakan alat penyebaran kantor, silakan lihat [Menyebarkan kantor 365 ProPlus dengan menggunakan Remote Desktop Services](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Untuk rincian lebih lanjut tentang prasyarat, petunjuk penataan dan Panduan pada instalasi disesuaikan dengan menggunakan alat penyebaran Office, silakan lihat [menyebarkan office 365 ProPlus dengan menggunakan layanan desktop jarak jauh](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Untuk memperbaiki kesalahan yang berhubungan dengan komputer bersama aktivasi, lihat [mengatasi masalah masalah dengan komputer bersama aktivasi untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Untuk memperbaiki kesalahan yang terkait dengan aktivasi komputer bersama, silakan lihat [memecahkan masalah dengan aktivasi komputer bersama untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   
