@@ -1,6 +1,6 @@
 ---
-title: Cara menggunakan istilah Online SharePoint toko
-ms.author: kirks
+title: Cara menggunakan SharePoint online istilah Penyimpanan
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539644"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754843"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Cara menggunakan istilah Online SharePoint toko
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Cara menggunakan SharePoint online istilah Penyimpanan
 
-Istilah toko tersedia untuk Office 365 Global Admin, SharePoint Admin dan istilah Store admin dan dapat ditemukan di pusat admin SharePoint Online baru.
+Penyimpanan istilah tersedia untuk Office 365 global admin, SharePoint admin dan admin penyimpanan istilah dan dapat ditemukan di pusat admin SharePoint online baru.
   
-Untuk informasi lebih lanjut tentang cara menggunakan SharePoint Online istilah Store dan taksonomi dalam SharePoint Online, lihat [pengenalan berhasil metadata](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Untuk informasi lebih lanjut tentang cara menggunakan SharePoint online Term Store dan taksonomi dalam SharePoint online, lihat [Pendahuluan metadata terkelola](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Jika Anda mengalami masalah dengan istilah tidak muncul atau muncul sebentar-sebentar, kami sarankan Anda menunggu 24 Jam, dan kemudian log permintaan dukungan jika masalah tetap ada. Meskipun 24 jam dapat menjadi waktu yang lama, mungkin ada masalah caching atau kita mungkin telah bekerja pada sebuah solusi untuk masalah ini.
+Jika Anda mengalami masalah dengan istilah tidak muncul atau muncul sewaktu-waktu, kami sarankan Anda menunggu 24 Jam, dan kemudian log permintaan dukungan jika masalah tetap ada. Meskipun 24 jam dapat waktu yang lama, mungkin ada masalah caching atau kita mungkin sudah bekerja pada solusi untuk masalah ini.
   

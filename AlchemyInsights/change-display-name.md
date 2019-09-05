@@ -1,5 +1,5 @@
 ---
-title: 959 perubahan nama tampilan
+title: 959 mengubah nama tampilan
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519806"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736724"
 ---
 # <a name="change-your-display-name"></a>Mengubah nama tampilan
   
-Untuk mengubah nama tampilan di Outlook, gunakan langkah-langkah berikut.
+Untuk mengubah nama tampilan Anda di Outlook, gunakan langkah berikut.
   
-1. Di Outlook, pilih **File** \> **Pengaturan Account** \> **Pengaturan Account**.
+1. Di Outlook, pilih **** \> **setelan akun** \> file pengaturan **akun**.
 
-2. Pilih email account dan kemudian pilih **perubahan**.
+2. Pilih akun email dan kemudian pilih **Ubah**.
 
     > [!NOTE]
-    > Jika Anda tidak melihat pilihan untuk mengubah nama tampilan Anda, Anda mungkin menggunakan account email Microsoft Exchange. Dalam kasus ini, Anda perlu menghubungi administrator untuk mengubah nama tampilan. Lihat [mengubah nama pengguna dan e-mail di Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Jika Anda tidak melihat opsi untuk mengubah nama tampilan, Anda mungkin menggunakan akun email Microsoft Exchange. Dalam hal ini, Anda perlu menghubungi administrator Anda untuk mengubah nama tampilan Anda. Lihat [mengubah nama pengguna dan alamat email di Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Setelah Anda mengubah nama tampilan, klik **OK** untuk menyimpan perubahan. Ini dapat mengambil beberapa jam agar perubahan untuk mencerminkan seluruh organisasi Anda.
+3. Setelah Anda mengubah nama tampilan, klik **OK** untuk menyimpan perubahan. Diperlukan waktu beberapa jam agar perubahan Anda dapat dicerminkan di seluruh organisasi.
 
-Untuk selengkapnya, lihat [mengubah nama tampilan yang melihat email penerima](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Untuk selengkapnya, lihat [mengubah nama tampilan yang dilihat Penerima email](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

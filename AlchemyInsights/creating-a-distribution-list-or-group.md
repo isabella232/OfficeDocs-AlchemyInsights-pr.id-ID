@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665259"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740756"
 ---
 # <a name="create-distribution-groups"></a>Membuat grup distribusi
 
-Anda menggunakan grup distribusi (juga dikenal sebagai daftar distribusi) di Office 365 untuk mengirimkan pesan email ke sekelompok orang di dalam dan di luar organisasi Anda. Membuat mereka sangat mudah! Untuk petunjuk, lihat [membuat distribusi daftar di Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Anda menggunakan grup distribusi (juga dikenal sebagai daftar distribusi) di Office 365 untuk mengirimkan pesan email ke grup orang di dalam dan di luar organisasi Anda. Membuat mereka mudah! Untuk petunjuk, lihat [membuat daftar distribusi di pusat admin Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Catatan**: admin perlu mengelola keanggotaan grup distribusi. Jika Anda ingin pengguna untuk mengelola keanggotaan grup sendiri daftar, Anda mungkin ingin mempertimbangkan [Kantor 365 kelompok](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sebagai gantinya.
+**Catatan**: admin perlu mengelola keanggotaan grup distribusi. Jika Anda ingin pengguna untuk mengelola daftar keanggotaan grup mereka sendiri, Anda mungkin ingin mempertimbangkan [Office 365 grup](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) sebagai gantinya.

@@ -1,6 +1,6 @@
 ---
-title: Mengembalikan situs dihapus
-ms.author: kirks
+title: Memulihkan situs yang dihapus
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c6e0bfdbe3684163f1c35a74182e809f4c26cca4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540076"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756139"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Memulihkan hilang atau dihapus koleksi situs
+# <a name="recover-missing-or-deleted-site-collections"></a>Memulihkan koleksi situs yang hilang atau dihapus
 
-Bagaimana memulihkan hilang atau dihapus koleksi situs.
+Cara memulihkan hilang atau dihapus koleksi situs.
 
-[Mengembalikan dihapus situs](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Kembalikan situs yang dihapus](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Mengembalikan menggunakan SPO PowerShell modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Memulihkan menggunakan SPO PowerShell modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Jika Anda tidak menemukan situs Anda mungkin ingin [Cari audit log di kantor 365 keamanan &amp; Compliance Center](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Jika Anda tidak dapat menemukan situs Anda mungkin ingin [mencari audit log di pusat kepatuhan &amp; keamanan Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Catatan**: tim "Modern" situs tidak terlihat di **klasik** SharePoint admin UI. Anda dapat mengakses daftar situs "modern" dari [Sharepoint baru admin center](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Catatan**: "modern" situs tim tidak terlihat di **klasik** SharePoint admin UI. Anda dapat mengakses daftar "modern" situs dari [Pusat admin SharePoint baru](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

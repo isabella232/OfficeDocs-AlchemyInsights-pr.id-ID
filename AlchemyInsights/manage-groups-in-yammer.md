@@ -1,5 +1,5 @@
 ---
-title: Mengelola grup di heboh
+title: Mengelola grup di Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 8/3/2018
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496978"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735032"
 ---
-# <a name="manage-groups-in-yammer"></a>Mengelola grup di heboh
+# <a name="manage-groups-in-yammer"></a>Mengelola grup di Yammer
 
-- **Kelompok penciptaan izin.** Heboh tidak mengontrol siapa yang dapat membuat grup. Namun, dimungkinkan untuk mengelola pembuatan grup untuk terhubung kelompok Office 365. Lihat [mengatur siapa yang dapat membuat kelompok Office 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618)untuk informasi lebih lanjut.
+- **Izin pembuatan grup.** Heboh tidak mengontrol siapa yang dapat membuat grup. Namun, dimungkinkan untuk mengelola pembuatan grup untuk tersambung Office 365 grup. Lihat [mengelola siapa yang dapat membuat Office 365 grup](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) untuk informasi lebih lanjut.
 
-- **Keanggotaan grup dinamis.** Silakan merujuk ke [membuat kelompok yang dinamis di heboh](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)untuk informasi tentang pembuatan dinamis keanggotaan untuk heboh terhubung kelompok Office 365.
+- **Keanggotaan grup dinamis.** Silakan merujuk ke [membuat grup dinamis di heboh](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) untuk informasi tentang membuat keanggotaan dinamis untuk heboh terhubung kantor 365 kelompok.
 
-- **Memulihkan dihapus kelompok.** Memulihkan Office 365 terhubung heboh grup dimungkinkan melalui [memulihkan dihapus Office 365 kelompok](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) bebas terhubung kelompok tidak dapat dipulihkan setelah penghapusan.
+- **Memulihkan grup yang dihapus.** Memulihkan Office 365 terhubung heboh kelompok dimungkinkan melalui [pemulihan dihapus office 365 kelompok grup](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) non terhubung tidak dapat dipulihkan setelah penghapusan.
 
-Untuk informasi lebih lanjut tentang mengelola grup, lihat [mengelola sebuah kelompok di heboh](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Untuk informasi tentang terhubung grup Office 365, lihat [heboh dan kantor 365 kelompok](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+Untuk informasi lebih lanjut tentang mengelola grup, lihat [mengelola grup di heboh](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Untuk informasi tentang tersambung Office 365 grup, lihat [heboh dan kantor 365 grup](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

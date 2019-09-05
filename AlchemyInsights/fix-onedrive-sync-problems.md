@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki masalah sinkronisasi OneDrive
+title: Perbaiki masalah sinkronisasi OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525246"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739892"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Memperbaiki masalah sinkronisasi OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Perbaiki masalah sinkronisasi OneDrive
 
-- Check sehingga Anda bisa mengakses OneDrive Anda rekening online: klik peluncur aplikasi ikon di kiri atas, dan kemudian klik OneDrive.
+- Pastikan Anda dapat mengakses akun OneDrive Anda secara online: klik ikon peluncur aplikasi di kiri atas, lalu klik OneDrive.
     
-- Pastikan komputer Anda up to date: [Download pembaruan Windows terbaru](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Download versi terbaru dari OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- Pastikan komputer Anda sudah diperbarui: [Unduh Pemutakhiran Windows terbaru](http://go.microsoft.com/fwlink/p/?LinkId=825773), [Unduh versi terbaru OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- Tautan OneDrive dan menjalankan pengaturan OneDrive lagi: klik kanan ikon awan OneDrive biru di area Notifikasi, di ujung kanan taskbar. Klik **pengaturan**, dan kemudian klik **Unlink PC ini**. Ikuti langkah-langkah dalam Welcome OneDrive wizard untuk mengatur OneDrive lagi.
+- Batalkan tautan OneDrive dan jalankan konfigurasi OneDrive lagi: klik kanan ikon awan OneDrive biru di bidang pemberitahuan, di sebelah kanan bilah tugas. Klik **pengaturan**, dan kemudian klik **Batalkan tautan PC ini**. Ikuti langkah di Wisaya Selamat datang di OneDrive untuk menyiapkan OneDrive lagi.
     
-[Langkah-langkah lain untuk memecahkan masalah sinkronisasi](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[Langkah lebih lanjut untuk memecahkan masalah sinkronisasi](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

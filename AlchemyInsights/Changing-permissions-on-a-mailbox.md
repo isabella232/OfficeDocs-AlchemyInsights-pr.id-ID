@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661407"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734384"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Mengubah izin pada kotak surat
 
 Jika pengguna memerlukan akses ke kotak surat 365 Office selain mereka sendiri, mereka harus diberi izin untuk bekerja dengan kotak surat tersebut. Cara Anda menetapkan izin tersebut tergantung pada jenis kotak pesan. Jika pengguna memerlukan akses ke:
   
-- Kotak surat pengguna lainnya-silakan lihat [memberikan izin kotak surat untuk pengguna lain di Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Kotak surat pengguna lainnya-silakan lihat [memberikan izin kotak surat untuk pengguna lain di Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - Kotak surat bersama-silakan lihat [menambah atau menghapus anggota dari kotak surat bersama](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
