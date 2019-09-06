@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: 82389dfe7cd1ea3baf5549b11f72a02c1a2c00ee
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32393688"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734492"
 ---
 # <a name="compromised-email-accounts"></a>Akun email yang dibobol
 
@@ -27,4 +27,4 @@ Ada beberapa langkah yang dapat dilakukan untuk meningkatkan keamanan di organis
 
 - **Mengaktifkan pencatatan log audit kotak surat**: Pencatatan log audit kotak surat akan memudahkan pelacakan hal yang terjadi ketika akun pengguna dibobol.
 
-Untuk informasi selengkapnya, lihat [Praktik terbaik keamanan untuk Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3.aspx).
+Untuk informasi selengkapnya, lihat [Peta strategi keamanan Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
