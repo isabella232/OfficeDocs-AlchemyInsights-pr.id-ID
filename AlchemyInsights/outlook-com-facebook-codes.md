@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebook kode
+title: Outlook.com kode Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546774"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822309"
 ---
 # <a name="not-receiving-facebook-codes-using-outlookcom"></a>Tidak menerima kode Facebook menggunakan Outlook.com
 
-Jika Anda meminta kata sandi baru dari Facebook tetapi tidak menerima sandi ulang email:
+Jika Anda meminta kata sandi baru dari Facebook tetapi tidak menerima email pengaturan ulang kata sandi Anda:
 
-- Memeriksa [spam atau folder junk mail](https://outlook.live.com/mail/junkemail).
-- Mencoba untuk [me-reset password Facebook Anda lagi](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Periksa [folder spam atau junk mail](https://outlook.live.com/mail/junkemail).
+- Cobalah untuk [mengatur ulang kata sandi Facebook Anda lagi](https://aka.ms/facebook-password-reset).
 
-Jika Anda tidak dapat mereset sandi karena Anda tidak dapat mengakses email atau Nomer ponsel pada akun, coba [Facebook Password Reset Tips](https://www.facebook.com/help/218815984812734).
+Jika Anda tidak dapat menyetel ulang sandi karena tidak dapat mengakses email atau nomor ponsel di akun, coba [Tips pengaturan ulang kata sandi Facebook](https://aka.ms/facebook-password-help).

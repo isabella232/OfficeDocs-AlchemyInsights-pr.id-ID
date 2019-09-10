@@ -1,5 +1,5 @@
 ---
-title: Beta 9000198 Outlook.com kalender
+title: 9000198 Outlook.com kalender beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548142"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821985"
 ---
 # <a name="new-calendar-experiences-coming-to-outlookcom"></a>Pengalaman kalender baru datang ke Outlook.com
 
-Tampilan baru membawa desain terbaik dan pengalaman pembelajaran dari Mail ke kalender.
+Tampilan baru menghadirkan desain dan pembelajaran terbaik dari pengalaman mail ke kalender.
 
-Nikmati desain modern yang mengurangi kekacauan visual dan memberi Anda lebih cepat cara untuk menavigasi kalender. Hal ini juga lebih mudah untuk menemukan menarik kalender untuk aktivitas favorit Anda-dari TV menunjukkan kepada tim olahraga dan acara.
+Anda akan menikmati desain modern yang mengurangi kekacauan visual dan memberi Anda cara yang lebih cepat untuk menavigasi kalender Anda. Ini juga lebih mudah untuk menemukan kalender menarik untuk kegiatan favorit Anda-dari acara TV untuk tim olahraga dan acara.
 
-Kami memperluas koleksi kami acara ikon dan diperbarui tampilan dan nuansa sudah ada — dan kita sekarang secara otomatis menambahkan ikon yang relevan untuk acara Anda, sehingga Anda dapat dengan mudah melihat apa yang terjadi dalam sekejap.
+Kami memperluas koleksi ikon acara dan memperbarui tampilan dan nuansa yang sudah ada-dan kami sekarang secara otomatis menambahkan ikon yang relevan ke acara Anda, sehingga Anda dapat dengan mudah melihat apa yang sedang terjadi sekilas.
 
-Anda dapat memberikan umpan balik pada fitur-fitur baru melalui [Outlook.com kalender UserVoice channel](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Anda dapat memberikan umpan balik tentang fitur baru melalui [saluran Outlook.com kalender UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).

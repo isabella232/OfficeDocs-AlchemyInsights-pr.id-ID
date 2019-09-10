@@ -1,5 +1,5 @@
 ---
-title: 1800029 account tersambung yang tidak didukung di Outlook di web
+title: 1800029 tersambung account tidak didukung di Outlook di web
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504771"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821805"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Account tersambung tidak lagi didukung
+# <a name="connected-accounts-are-no-longer-supported"></a>Akun yang tersambung tidak lagi didukung
 
-Microsoft telah menghilangkan kemampuan untuk menambahkan account baru ke Outlook di web menggunakan fitur account tersambung pada 15 September 2018 dan akan berhenti sinkronisasi account yang ada pada 30 Oktober 2018 yang terhubung sebelum 15 September 2018. Pada November 15, opsi account tersambung ( **pengaturan** \> **pos** \> **account**) akan dihapus dari Outlook di web.Untuk informasi lebih Lihat, [account tersambung tidak lagi didukung di Outlook di web (Office 365 untuk akun bisnis)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft telah menghapus kemampuan untuk menambahkan akun baru ke Outlook di web yang menggunakan fitur account tersambung pada 15 September 2018 dan akan berhenti menyinkronkan akun yang ada pada tanggal 30 Oktober 2018 yang tersambung sebelum 15 September 2018. Pada tanggal 15 November, opsi akun tersambung ( **pengaturan** \> **** \> **akun**email) akan dihapus dari Outlook di web.Untuk informasi lebih lanjut, lihat, [account tersambung tidak lagi didukung di Outlook Web (Office 365 untuk akun bisnis)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Terus melihat email dari lain account: Anda masih dapat meneruskan email dari account tersebut ke Outlook di web. Untuk informasi selengkapnya, lihat:
+Untuk terus melihat email dari akun lain: Anda masih dapat meneruskan email dari akun tersebut ke Outlook di web. Untuk informasi selengkapnya, lihat:
   
 [Mengaktifkan atau menonaktifkan penerusan otomatis di Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Secara otomatis meneruskan pesan Gmail ke account lain](https://support.google.com/mail/answer/10957?hl=en)
+[Meneruskan pesan Gmail ke akun lain secara otomatis](https://aka.ms/forward-gmail-messages)
   
-[Pengalihan otomatis email di Yahoo mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Penerusan email otomatis di Yahoo mail](https://aka.ms/yahoo-email-forwarding)
   
