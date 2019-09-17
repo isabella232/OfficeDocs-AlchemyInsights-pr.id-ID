@@ -34,4 +34,4 @@ Minta setiap pengguna:
 3. Di bawah bagian Office, pilih bahasa. Pilih **Tingkat Lanjut** untuk memilih versi 32-bit atau 64-bit.
 4. Pilih **Instal**.
 
-Untuk langkah-langkah mendetail dan solusi pemecahan masalah saat menginstal Office, lihat: [Mengunduh dan menginstal atau menginstal ulang Office di PC atau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Untuk melihat langkah detail dan solusi pemecahan masalah saat menginstal Office, lihat: [Mengunduh dan menginstal atau menginstal ulang Office di PC atau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
