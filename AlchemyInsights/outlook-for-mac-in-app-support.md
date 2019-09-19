@@ -1,5 +1,5 @@
 ---
-title: 1800009 outlook untuk Mac di-app dukungan
+title: 1800009 Outlook untuk Mac dukungan dalam aplikasi
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -12,15 +12,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: 676c725f93432ef2086f378c0ddb21acd1815084
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b151c74c0b35361b6edc91e3b68874717d8a2ba2
+ms.sourcegitcommit: a1af40d92fa9c6c0dda9ec5da3b4776400fbb857
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666807"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035758"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>Di-app dukungan dalam Outlook untuk Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>Dukungan dalam aplikasi di Outlook untuk Mac
 
-Untuk menerima dukungan di-app untuk Outlook untuk Mac masalah, Buka Outlook dan klik **bantuan** \> **Hubungi dukungan**. Ketik pertanyaan Anda, dan anggota Outlook untuk Mac tim dukungan akan menghubungi Anda. 
+Untuk menerima dukungan dalam aplikasi untuk Outlook untuk Mac masalah, Buka Outlook dan klik **bantuan** \> **menghubungi dukungan**. Ketik pertanyaan Anda, dan anggota tim dukungan Outlook untuk Mac akan menghubungi Anda. 
 
-[Hubungi dukungan Outlook untuk Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Pelajari lebih lanjut: [Hubungi dukungan dalam Outlook untuk Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
