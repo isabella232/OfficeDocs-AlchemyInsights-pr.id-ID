@@ -1,5 +1,5 @@
 ---
-title: Klasik SharePoint laporan log audit
+title: Laporan log audit SharePoint klasik
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504394"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068026"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint dan OneDrive log audit
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Log audit SharePoint dan OneDrive
 
-**SharePoint dan OneDrive Modern Unified Audit log dari kepatuhan**
+**SharePoint dan OneDrive modern terpadu audit log dari kepatuhan**
 
-- [Mengaktifkan/menonaktifkan Unified pendataan Audit](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Mengaktifkan/menonaktifkan pencatatan audit terpadu](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Tidak ada konfigurasi tambahan diperlukan dalam SharePoint atau OneDrive.
+Tidak ada konfigurasi tambahan yang diperlukan dalam SharePoint atau OneDrive.
 
-- Menggunakan pendataan audit untuk memeriksa aktivitas file, folder, pengguna, izin:
+- Menggunakan pencarian pengelogan audit untuk memeriksa aktivitas file, folder (s), pengguna, izin:
 
-    - [Kegiatan file dan halaman](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Kegiatan folder](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Kegiatan permintaan berbagi dan akses](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Sinkronisasi kegiatan](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Aktivitas file dan halaman](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Aktivitas folder](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Berbagi dan mengakses aktivitas permintaan](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Aktivitas sinkronisasi](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
     - [Kegiatan administrasi situs](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Untuk informasi lebih lanjut tentang cara untuk mengambil acara ini, lihat [Cari audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- Untuk informasi selengkapnya tentang cara mengambil peristiwa ini, lihat [pencarian audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Log Audit klasik SharePoint**
+**Log audit klasik SharePoint**
 
-- [Melihat dan mengaktifkan klasik log SharePoint Audit](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Kami bermigrasi SPO warisan audit untuk terpadu audit log (UAL). Ini pada dasarnya berarti bahwa semua SPO warisan audit laporan sekarang akan didukung melalui UAL, dan warisan audit sinyal telah dipindahkan ke UAL.
 
-Audit perlu diaktifkan setiap koleksi situs masing-masing. 
+Perubahan utama:
 
-**Catatan**: sebaiknya gunakan Modern Unified Audit log audit lebih baik dan maju pilihan daripada log audit klasik ini.
+- Pemangkasan sebagai kemampuan tidak tersedia.
+- Bagian di mana Anda memilih peristiwa khusus untuk mengaudit tidak tersedia. Silakan lihat [dokumen ini](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) untuk daftar lengkap dari peristiwa yang diaudit yang tersedia secara default.
+- Opsi "lokasi" di bawah **laporan kustom** tidak tersedia. 
+- "Membuka atau men-download dokumen" peristiwa ini tidak tersedia. 
 
