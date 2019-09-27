@@ -1,8 +1,7 @@
 ---
-title: Data lokasi
+title: Lokasi data
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514137"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207264"
 ---
-# <a name="data-location"></a>Data lokasi
+# <a name="data-location"></a>Lokasi data
 
-Kami mempertahankan beberapa salinan data Anda di pusat data untuk redundansi. [Lihat dimana data berada](https://office.com/datamaps). Jika kita memperluas lokasi data Anda ke dalam sebuah negara baru atau wilayah, kami akan memberikan pemberitahuan satu bulan sebelumnya.
-  
-Untuk info lebih lanjut tentang keamanan, privasi dan kepatuhan Office 365, lihat [Pusat Trust Office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+Anda dapat melihat lokasi penyewa Office 365 Anda di pusat admin atau dengan menyambung ke Exchange Online melalui PowerShell.
+
+
+**Pusat admin:**
+1. Masuk ke [Pusat admin](https://admin.microsoft.com/Adminportal/Home).
+2. Pilih **pengaturan** > **profil organisasi**.
+3. Di bawah **Lokasi data**, pilih **Lihat rincian**.
+
+
+**Powershell:**
+1. Menyambung ke Exchange Online menggunakan Windows PowerShell.
+2. Jalankan cmdlet [Get-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) untuk menampilkan daftar properti penghuni Anda. 
+3. Lihat properti OrganizationId.
+
+Bila Anda memiliki lokasi data untuk EXO dan SPO, Anda dapat menentukan lokasi data untuk layanan lain yang dapat Anda gunakan dari [tempat data Anda berada](https://products.office.com/where-is-your-data-located).
