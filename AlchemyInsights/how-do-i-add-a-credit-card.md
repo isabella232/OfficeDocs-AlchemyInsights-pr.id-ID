@@ -20,14 +20,14 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664467"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="e32c2-102">Bagaimana cara menambahkan kartu kredit?</span><span class="sxs-lookup"><span data-stu-id="e32c2-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="c2fb9-102">Bagaimana cara menambahkan kartu kredit?</span><span class="sxs-lookup"><span data-stu-id="c2fb9-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="e32c2-103">Di pusat admin Microsoft 365, masuk ke halaman **Tagihan** \> [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="e32c2-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="c2fb9-103">Di pusat admin Microsoft 365, masuk ke halaman **Tagihan** \> [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="c2fb9-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="e32c2-104">Pilih **Tambahkan metode pembayaran**.</span><span class="sxs-lookup"><span data-stu-id="e32c2-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="c2fb9-104">Pilih **Tambahkan metode pembayaran**.</span><span class="sxs-lookup"><span data-stu-id="c2fb9-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="e32c2-105">Di halaman **Metode pembayaran**, klik metode pembayaran dari menu menurun.</span><span class="sxs-lookup"><span data-stu-id="e32c2-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="c2fb9-105">Di halaman **Metode pembayaran**, klik metode pembayaran dari menu menurun.</span><span class="sxs-lookup"><span data-stu-id="c2fb9-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="e32c2-106">Masukkan informasi kartu kredit atau rekening bank baru, lalu pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="e32c2-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="c2fb9-106">Masukkan informasi kartu kredit atau rekening bank baru, lalu pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="c2fb9-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="e32c2-107">Untuk mempelajari selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="e32c2-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
+<span data-ttu-id="c2fb9-107">Untuk mempelajari selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="c2fb9-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>

@@ -17,10 +17,10 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520634"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="b246c-102">Pelajari tentang Outlook.com yang baru</span><span class="sxs-lookup"><span data-stu-id="b246c-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="263e3-102">Pelajari tentang Outlook.com yang baru</span><span class="sxs-lookup"><span data-stu-id="263e3-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="b246c-103">[Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) tentang perubahan di Outlook.com yang baru atau cari di kotak di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="b246c-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="263e3-103">[Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) tentang perubahan di Outlook.com yang baru atau cari di kotak di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="263e3-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="b246c-104">Gulir ke bawah untuk melihat hasil.</span><span class="sxs-lookup"><span data-stu-id="b246c-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="263e3-104">Gulir ke bawah untuk melihat hasil.</span><span class="sxs-lookup"><span data-stu-id="263e3-104">Scroll down to see the results.</span></span>
   
 
