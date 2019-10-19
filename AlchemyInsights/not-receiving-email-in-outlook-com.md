@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538564"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Tidak menerima mail di Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Tidak menerima email di Outlook.com
 
-Jika Anda tidak menerima email dari pengirim tertentu, seperti laporan bank atau sandi Anda ulang pesan, Anda harus menghubungi pengirim Anda dan biarkan mereka tahu Anda tidak menerima email di Outlook.com account. Silakan lihat pengirim untuk [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), di mana mereka dapat menemukan informasi tentang praktik terbaik, merekomendasikan pemecahan masalah, dan link untuk menghubungi tim dukungan kami untuk pengirim.
+Jika Anda tidak menerima email dari pengirim tertentu, seperti laporan mutasi bank atau pesan pengaturan ulang kata sandi, Anda harus menghubungi pengirim dan memberi tahu mereka bahwa Anda tidak menerima email di akun Outlook.com. Silakan merujuk pengirim ke [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), di mana mereka dapat menemukan informasi tentang praktik terbaik, merekomendasikan pemecahan masalah, dan tautan untuk menghubungi tim dukungan pengirim kami.
   
-Jika Outlook.com account tidak menerima email sama sekali, lihat [Outlook.com memperbaiki masalah sinkronisasi email](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Jika akun Outlook.com Anda tidak menerima email sama sekali, lihat [memperbaiki masalah sinkronisasi email Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 
