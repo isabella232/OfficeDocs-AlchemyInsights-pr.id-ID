@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com bereaksi muncul
+title: 8000091 Outlook.com React muncul
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545478"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com siap untuk prime time
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com siap untuk Prime Time
 
-Kita sudah tahu bahwa beberapa pelanggan dapat melihat pop-up "Outlook.com siap untuk prime time" setiap kali mereka masuk, dan kami sedang bekerja pada sebuah memperbaiki.
+Kami menyadari bahwa beberapa pelanggan mungkin melihat pop-up "Outlook.com siap untuk Prime Time" setiap kali mereka masuk, dan kami sedang mengerjakan perbaikan.
 
 Maaf tentang itu.
 

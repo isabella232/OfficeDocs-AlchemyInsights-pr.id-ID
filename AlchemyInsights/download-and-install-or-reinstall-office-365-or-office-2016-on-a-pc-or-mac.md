@@ -1,5 +1,5 @@
 ---
-title: Men-download dan menginstal atau menginstal ulang Office 365 atau kantor 2016 pada PC atau Mac
+title: Unduh dan instal atau instal ulang Office 365 atau Office 2016 di PC atau Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 1/23/2018
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529598"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Men-download dan menginstal atau menginstal ulang Office 365 atau kantor 2016 pada PC atau Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>Unduh dan instal atau instal ulang Office 365 atau Office 2016 di PC atau Mac
 
-Untuk men-download dan menginstal produk Office yang termasuk dalam kepelangganan Anda, pergi ke [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **kantor** dan klik **Install**. 
+Untuk mengunduh dan menginstal produk Office yang disertakan dalam langganan Anda, buka \> **kantor** [perangkat lunak saya](https://portal.office.com/OLS/MySoftware.aspx) dan klik **Instal**. 
   
-Untuk petunjuk rinci, lihat [men-Download dan menginstal atau menginstal ulang Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+Untuk petunjuk terperinci, lihat [mengunduh dan memasang atau menginstal ulang Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
   
-Jika Anda perlu untuk menginstal Office offline, lihat [menggunakan installer offline kantor 2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+Jika Anda perlu menginstal Office luring, lihat [menggunakan Penginstal office 2016 luring](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
   
 

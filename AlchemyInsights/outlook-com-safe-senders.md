@@ -1,5 +1,5 @@
 ---
-title: 8000089 Outlook.com Brankas pengirim
+title: 8000089 Outlook.com pengirim aman
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "1400"
 - "8000089"
 ms.openlocfilehash: 296ecfc6f02c136d885ff9d447291b3f73ef96c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535358"
 ---
-# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Berhenti pesan dari pergi ke folder Junk Email Anda
+# <a name="stop-messages-from-going-into-your-junk-email-folder"></a>Hentikan pesan dari masuk ke folder email sampah
 
-Ada saat-saat ketika Anda tidak ingin pesan dari orang tertentu atau domain berakhir di folder Junk Email Anda di Outlook.com. Pesan dari alamat atau domain dalam daftar pengirim aman tidak akan mendapatkan dipindahkan ke folder Email sampah.
+Ada kalanya Anda tidak ingin pesan dari orang atau domain tertentu berakhir di folder email sampah Anda di Outlook.com. Pesan dari alamat atau domain di daftar pengirim aman tidak akan dipindahkan ke folder email sampah.
 
-1. Membuka [pengaturan pengirim aman](https://go.microsoft.com/fwlink/?linkid=2035804).
-2. Berdasarkan **pengirim aman dan domain**, masukkan alamat email atau domain yang Anda ingin menambahkan, dan pilih **Tambah**.
-3. Untuk menambahkan sebuah mailing list ke pengirim aman Anda, masukkan mailing list di bawah **aman mailing list** dan pilih **Tambah**.
+1. Buka [setelan pengirim aman](https://go.microsoft.com/fwlink/?linkid=2035804).
+2. Di bawah **pengirim dan domain aman**, masukkan alamat email atau domain yang ingin Anda tambahkan, lalu pilih **Tambahkan**.
+3. Untuk menambahkan milis ke pengirim aman Anda, masukkan milis di bawah **milis aman** dan pilih **Tambahkan**.
 4. Pilih **Simpan**.
 
-Baca lebih lanjut di [blok atau membuka Blokir pengirim di Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Baca lebih lanjut di [blokir atau buka Blokir pengirim di Outlook.com](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753763"
 ---
 # <a name="more-info-about-retention-policies"></a>Info lebih lanjut tentang kebijakan retensi
@@ -26,13 +26,13 @@ Untuk sebagian besar organisasi, volume dan kompleksitas data mereka meningkat s
 
 ## <a name="a-from-security-and-compliance-center"></a>A) dari pusat keamanan dan kepatuhan
 
-- Pergi ke keamanan dan kepatuhan _ GTX data pemerintahan _ GTX retensi
+- Buka keamanan dan kepatuhan > pengelolaan data > retensi
   - Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
-- Pergi ke keamanan dan kepatuhan _ Gt_ eDiscovery> Advanced eDiscovery 
+- Buka keamanan dan kepatuhan > eDiscovery> eDiscovery tingkat lanjut 
   - Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- Pergi ke keamanan dan kepatuhan _ Gt_ Klasfikasi _ Gt_ retensi
+- Pergi ke keamanan dan kepatuhan > klasifikasi > retensi
   - Lihat artikel ini
     - [Label sensitivitas](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Ikhtisar label](https://docs.microsoft.com/office365/securitycompliance/labels)

@@ -1,5 +1,5 @@
 ---
-title: Recycle bin
+title: Keranjang sampah
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552989"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Mengembalikan item dalam SharePoint Online
+# <a name="restore-items-in-sharepoint-online"></a>Memulihkan item di SharePoint online
 
-Bila Anda menghapus item dalam SharePoint Online, mereka sedang dipertahankan untuk total 93 hari. Mereka tinggal di situs recycle bin sepanjang waktu, kecuali jika Anda kosong atau menghapus item dari itu. Dalam hal ini, barang-barang pergi ke situs koleksi recycle bin, di mana mereka tinggal selama sisa masa 93. Pada akhir waktu, item yang akan dihapus secara permanen. Untuk memulihkan item yang dihapus dari situs recycle bin:
+Ketika Anda menghapus item di SharePoint online, mereka akan dipertahankan untuk Total 93 hari. Mereka tinggal di situs recycle bin sepanjang waktu, kecuali jika Anda mengosongkan atau menghapus item dari itu. Dalam hal ini, item pergi ke tempat sampah koleksi situs, di mana mereka tinggal selama sisa 93 hari. Pada akhir waktu, item akan dihapus secara permanen. Untuk mengembalikan item yang dihapus dari Recycle Bin situs:
   
-1. Pergi ke situs dan klik **Recycle bin** dalam pane kiri. 
+1. Pergi ke situs dan klik **recycle bin** di sebelah kiri. 
     
-    Jika Anda tidak melihat **Recycle bin** dalam pane kiri, klik ikon setelan di bagian kanan atas, dan kemudian klik **isi situs**. Recycle Bin berada di ujung kanan bilah perintah di atas.
+    Jika Anda tidak melihat **tampungan daur ulang** di sebelah kiri, klik ikon pengaturan di kanan atas, dan kemudian klik **konten situs**. Recycle Bin berada di ujung kanan bilah perintah di bagian atas.
     
-2. Pada halaman **Recycle Bin** , pilih item Anda ingin mengembalikan dengan menunjuk ke mereka dan mengklik ikon tanda centang yang muncul. 
+2. Pada halaman **recycle bin** , pilih item yang ingin Anda Pulihkan dengan mengarahkan dan mengklik ikon tanda centang yang muncul. 
     
-3. Klik **Kembalikan**.
+3. Klik **Pulihkan**.
     
-[Mengembalikan item yang dihapus dari situs koleksi recycle bin](https://go.microsoft.com/fwlink/?linkid=866439)
+[Memulihkan item yang dihapus dari keranjang sampah koleksi situs](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

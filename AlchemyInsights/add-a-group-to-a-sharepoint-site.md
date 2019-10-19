@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495214"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Menambahkan grup ke situs SharePoint
 
-Beberapa situs tim SharePoint (termasuk yang dibuat di Microsoft Teams) yang dikelola oleh pemilik grup Office 365. Situs SharePoint dan konten juga akan dibagi dengan Office 365 kelompok dan kelompok SharePoint. Grup SharePoint adalah kumpulan pengguna yang semua memiliki serangkaian izin untuk situs dan konten yang sama. Untuk situs klasik, kami sarankan bahwa Anda menggunakan grup untuk nyaman menetapkan tingkat izin yang sama untuk banyak orang sekaligus daripada menugaskan izin satu orang pada satu waktu.
+Beberapa situs tim SharePoint (termasuk yang dibuat di Microsoft teams) dikelola oleh pemilik grup 365 Office. Situs SharePoint dan konten juga dapat dibagi dengan Office 365 grup, dan kelompok SharePoint. Sebuah kelompok SharePoint adalah kumpulan pengguna yang semua memiliki set yang sama izin untuk situs dan konten. Untuk situs klasik, kami sarankan agar Anda menggunakan grup untuk menetapkan tingkat izin yang sama secara mudah kepada banyak orang sekaligus daripada menetapkan izin satu orang sekaligus.
   
 Mengelola Office 365 anggota grup:
   
-1. Pergi ke [halaman Groups di Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Buka [halaman grup di pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Pilih grup untuk melihat pemilik dan anggota. Untuk menambah atau menghapus pengguna, klik tautan **Edit** di **pemilik** atau **anggota** baris. 
+2. Pilih grup untuk melihat pemiliknya dan anggotanya. Untuk menambah atau menghapus orang, klik link **Edit** di baris **pemilik** atau **anggota** . 
     
-Berbagi situs komunikasi dengan Office 365 kelompok:
+Berbagi situs komunikasi dengan Office 365 grup:
   
-1. Pergi ke situs di browser dan klik **situs berbagi** di kanan atas. 
+1. Buka situs di browser dan klik **bagikan situs** di kanan atas. 
     
-2. Masukkan nama grup, dan kemudian pilih tingkat izin (membaca, mengedit, atau kontrol penuh).
+2. Masukkan nama grup, dan kemudian pilih tingkat izin (baca, Edit, atau kontrol penuh).
     
-Membuat grup SharePoint menggunakan dengan situs klasik:
+Membuat grup SharePoint untuk digunakan dengan situs klasik:
   
-1. Pergi ke situs di browser dan klik ikon setelan di bagian kanan atas.
+1. Buka situs di browser dan klik ikon setelan di kanan atas.
     
-2. Klik **pengaturan situs**, dan kemudian di bawah **pengguna dan izin**, klik **situs izin**.
+2. Klik **tataan situs**, dan kemudian di bawah **pengguna dan izin**, klik **situs izin**.
     
-3. Pada Permissions tab, klik **Buat grup**.
+3. Pada tab izin, klik **Buat grup**.
     
-[Menghubungkan situs klasik tim ke grup Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Menghubungkan situs tim klasik ke grup Office 365 baru](https://go.microsoft.com/fwlink/?linkid=2008654)
   
 [Pelajari lebih lanjut tentang bekerja dengan kelompok SharePoint](https://go.microsoft.com/fwlink/?linkid=874658)
   

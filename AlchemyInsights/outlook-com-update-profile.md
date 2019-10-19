@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511350"
 ---
 # <a name="change-my-profile-picture-or-name-in-outlookcom"></a>Mengubah gambar profil saya atau nama di Outlook.com
 
-1. Pergi ke [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. Pilih **Edit nama** atau **perubahan gambar**.
+1. Buka [Info Akun Microsoft Anda](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Pilih **Edit nama** atau **Ubah gambar**.
 
-Silakan tunggu hingga 24 jam untuk perubahan foto profil Anda atau nama untuk masuk ke efek.
+Harap tunggu hingga 24 jam agar perubahan pada foto profil atau nama Anda berlaku.

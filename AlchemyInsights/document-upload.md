@@ -1,5 +1,5 @@
 ---
-title: Meng-upload dokumen
+title: Unggah dokumen
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
 ms.openlocfilehash: 6a2559521b4160dc337796ed8d4721ec49acf703
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529439"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload file ke OneDrive atau SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Unggah file ke OneDrive atau SharePoint
 
-1. Dalam browser web Anda, pergi ke lokasi tempat Anda ingin meng-upload file.
+1. Di browser web, buka lokasi tempat Anda ingin mengupload file.
     
-2. Buka File Explorer dan browse ke file yang ingin Anda upload.
+2. Buka file Explorer dan Browse ke file yang ingin Anda upload.
     
-3. Pilih file dan menyeret mereka ke lokasi di OneDrive atau SharePoint. Catatan: Jika Anda menggunakan Microsoft Edge, Mozilla FireFox atau Google Chrome, Anda dapat juga meng-upload folder dan semua file di dalamnya.
+3. Pilih file dan seret ke lokasi di OneDrive atau SharePoint. Catatan: jika Anda menggunakan Microsoft Edge, Mozilla FireFox, atau Google Chrome, Anda juga dapat mengunggah folder dan semua file di dalamnya.
     
 > [!NOTE]
->  Anda dapat meng-upload file hingga 15 GB dalam ukuran. > path lengkap (termasuk nama file) file tidak dapat lebih dari 400 karakter panjangnya. > jika Anda perlu untuk meng-upload file lebih dari 100, [menggunakan OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=866427). 
+>  Anda dapat mengunggah file berukuran hingga 15 GB. > lintasan lengkap untuk berkas (termasuk nama berkas) tidak boleh lebih dari 400 karakter panjang. > jika Anda perlu untuk meng-upload file lebih dari 100, [gunakan OneDrive sinkronisasi klien](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

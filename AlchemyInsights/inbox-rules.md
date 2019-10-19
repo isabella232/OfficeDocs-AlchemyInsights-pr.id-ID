@@ -13,18 +13,18 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36499642"
 ---
 # <a name="inbox-rules"></a>Aturan kotak masuk
 
-Untuk informasi lebih lanjut tentang cara menggunakan aturan kotak masuk di kotak pesan Anda, lihat:
+Untuk informasi lebih lanjut tentang menggunakan aturan kotak masuk di kotak pesan Anda, lihat:
 
 - [Mengelola pesan email dengan menggunakan aturan di Outlook untuk PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [Mengelola pesan Anda dengan menggunakan aturan kotak masuk di Outlook di web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [Mengelola pesan Anda menggunakan aturan kotak masuk di Outlook di web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-Anda juga dapat mengelola aturan kotak masuk di Exchange Online PowerShell. Untuk selengkapnya, lihat [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (pandangan), [Baru-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (membuat), [Hapus-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (memodifikasi), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Nonaktifkan yang ada), dan [Aktifkan-InboxRule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(mengaktifkan yang sudah ada).
+Anda juga dapat mengelola aturan kotak masuk di Exchange Online PowerShell. Untuk informasi selengkapnya, lihat [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (tampilan), [baru-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (membuat), [Hapus-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Hapus), [set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (mengubah ada), [menonaktifkan-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (menonaktifkan ada), dan [mengaktifkan-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(Aktifkan ada).

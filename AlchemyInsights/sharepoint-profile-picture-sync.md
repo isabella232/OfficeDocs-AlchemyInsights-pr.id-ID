@@ -7,12 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1828"
+- "9000231"
+ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750063"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818789"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kapan perubahan profil saya disinkronkan ke aplikasi profil pengguna SharePoint?
 
@@ -20,11 +23,11 @@ Sinkronisasi profil gambar di SharePoint online memerlukan tindakan pengguna unt
 
 Jika pengguna tidak pernah melakukan tindakan yang akan meminta sinkronisasi atau mereka telah memperbarui gambar profil mereka dan yang baru tidak muncul di SharePoint online, pengguna mungkin perlu meminta untuk disinkronkan. Berikut adalah cara mereka dapat melakukan hal ini:
 
-- Buka browser web dalam sesi in-Private atau Incognito dan [buka Office.com](http://www.office.com/).
+1. Buka browser web dalam sesi in-Private atau Incognito dan [buka Office.com](http://www.office.com/).
 
-- Masuk dengan akun pekerjaan atau sekolah mereka, dan klik ubin OneDrive atau SharePoint.
+2. Masuk dengan akun pekerjaan atau sekolah mereka, dan klik ubin OneDrive atau SharePoint.
 
-- [Tambahkan foto profil Anda ke Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+3. [Menambahkan foto profil mereka ke Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- [Info tentang profil gambar sinkronisasi di Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+[Info tentang profil gambar sinkronisasi di Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

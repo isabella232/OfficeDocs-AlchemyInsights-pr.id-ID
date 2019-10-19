@@ -1,5 +1,5 @@
 ---
-title: Microsoft tim - akses tamu
+title: Microsoft teams-akses tamu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666987"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590389"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft tim - akses tamu
+# <a name="microsoft-teams---guest-access"></a>Microsoft teams-akses tamu
 
-Apakah Anda perlu membantu menyalakan dan menyiapkan menawarkan tamu akses Microsoft Teams?
+Perlu bantuan untuk mengaktifkan dan menyiapkan fitur akses tamu di Microsoft teams?  
 
-Berikut adalah apa yang perlu Anda lakukan:
+Pertama, pastikan Anda telah mengikuti semua langkah di [Daftar Periksa akses tamu](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). Setelah semua langkah tersebut selesai, Anda harus menunggu hingga [24 jam](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) agar pengaturan diterapkan.
 
-1. Otorisasi akses tamu.
-1. Tambahkan pengguna tamu ke tim Anda.
-1. Mengatur izin pengguna tamu.
+Jika Anda yakin telah menyelesaikan semua langkah di daftar periksa, dan sudah lebih dari 24 Jam, Lanjutkan dan coba [Tambahkan tamu ke tim Anda](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Untuk informasi lebih lanjut, termasuk bagaimana-untuk video, lihat [semua akses di Microsoft tim](https://docs.microsoft.com/microsoftteams/guest-access).
+Untuk informasi selengkapnya, termasuk video cara, lihat [akses tamu di Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).

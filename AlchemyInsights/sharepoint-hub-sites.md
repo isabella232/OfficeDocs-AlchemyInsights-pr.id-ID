@@ -1,5 +1,5 @@
 ---
-title: SharePoint hub situs Tinjauan
+title: Ikhtisar situs hub SharePoint
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503562"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818897"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePoint hub situs Tinjauan
+# <a name="sharepoint-hub-sites-overview"></a>Ikhtisar situs hub SharePoint
 
-SharePoint hub situs membantu Anda memenuhi kebutuhan organisasi Anda dengan menghubungkan dan mengatur situs berdasarkan proyek, Departemen, divisi, wilayah, dll yang membuatnya lebih mudah untuk:
+Situs hub SharePoint membantu Anda memenuhi kebutuhan organisasi Anda dengan menghubungkan dan mengatur situs berdasarkan proyek, Departemen, divisi, wilayah, dll sehingga lebih mudah untuk:
 
-- Menemukan konten yang terkait seperti berita dan kegiatan situs lainnya.
+- Temukan konten terkait seperti berita dan aktivitas situs lainnya.
 
-- Berlaku umum navigasi dan merek di seluruh situs terkait. 
+- Terapkan navigasi dan branding umum di seluruh situs yang terkait. 
 
-- Cari di semua terkait situs.
+- Cari di semua situs yang terkait.
 
-Lihat berikut untuk informasi lebih lanjut tentang situs hub:
-- [Buat sebuah hub situs di SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): belajar bagaimana membuat sebuah hub situs dari Admin Center baru atau PowerShell.
+Lihat berikut ini untuk informasi selengkapnya tentang hub situs:
+- [Membuat situs hub di SharePoint online](https://docs.microsoft.com/sharepoint/create-hub-site): Pelajari cara membuat situs hub dari Pusat admin baru atau PowerShell.
 
-- [Menghubungkan sebuah situs SharePoint dengan lokasi hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): belajar tentang bergaul situs yang ada ke hub situs dari Admin Center baru atau PowerShell.
+- [Mengaitkan situs SharePoint dengan situs hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Pelajari tentang mengaitkan situs yang ada ke situs hub dari Pusat admin baru atau PowerShell.
 
-- [Menghapus situs hub](https://docs.microsoft.com/sharepoint/remove-hub-site): belajar bagaimana untuk menghapus situs yang sudah ada hub di Admin Center baru atau PowerShell.
+- [Menghapus situs hub](https://docs.microsoft.com/sharepoint/remove-hub-site): Pelajari cara menghapus situs hub yang ada di pusat admin baru atau PowerShell.
 

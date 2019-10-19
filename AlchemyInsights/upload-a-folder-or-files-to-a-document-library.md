@@ -1,5 +1,5 @@
 ---
-title: Meng-upload folder atau file ke pustaka dokumen
+title: Mengunggah folder atau file ke pustaka dokumen
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532622"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Meng-upload folder atau file ke pustaka dokumen SharePoint
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Meng-upload folder atau file ke perpustakaan dokumen SharePoint
 
-Untuk meng-upload folder, Anda perlu menggunakan Microsoft Edge, Mozilla FireFox atau Google Chrome. Anda tidak bisa meng-upload folder dalam pengalaman klasik Perpustakaan, atau menggunakan Internet Explorer 10 atau 11.
+Untuk mengunggah folder, Anda harus menggunakan Microsoft Edge, Google Chrome, atau Mozilla FireFox. Anda tidak dapat mengunggah folder dalam pengalaman Perpustakaan klasik, atau menggunakan Internet Explorer 10 atau 11.
   
-1. Buka dokumen perpustakaan mana Anda ingin meng-upload folder atau file.
+1. Buka pustaka dokumen di mana Anda ingin mengunggah folder atau file.
     
-2. Buka File Explorer di komputer Anda dan browse ke folder atau file yang ingin Anda upload.
+2. Buka file Explorer pada komputer Anda dan Browse ke folder atau file yang ingin Anda upload.
     
-3. Tarik folder atau file ke dokumen perpustakaan. Jika Anda tidak melihat barang-barang yang Anda upload muncul di Perpustakaan, refresh halaman. 
+3. Seret folder atau berkas ke pustaka dokumen. Jika Anda tidak melihat item yang diupload muncul di Perpustakaan, muat ulang halaman. 
     
-Jika Anda tidak ingin meng-upload dengan menyeret item antara windows, Anda juga dapat menggunakan tombol **Upload** di perpustakaan dokumen untuk memilih folder atau file yang ingin Anda upload. 
+Jika Anda tidak ingin mengunggah dengan menyeret item di antara jendela, Anda juga dapat menggunakan tombol **Unggah** di pustaka dokumen untuk memilih folder atau file yang ingin diunggah. 
   
 

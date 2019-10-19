@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497194"
 ---
 # <a name="manage-user-profiles-in-delve"></a>Mengelola profil pengguna di Delve
 
-Kantor Delve memungkinkan pengguna mengelola profil pengguna Office 365 mereka. Pengguna dapat:
+Office Delve memungkinkan pengguna mengelola Office 365 profil pengguna mereka. Pengguna dapat:
   
-- Lihat dan perbarui informasi mereka
+- Melihat dan memperbarui informasi mereka
     
-- Menjaga beberapa informasi pribadi
+- Jauhkan beberapa informasi pribadi
     
-- Mengubah gambar profil atau penutup
+- Mengubah profil atau gambar sampul
     
 - Mengubah format bahasa dan waktu untuk Delve
     
 > [!NOTE]
-> Jika pengguna updated foto profil mereka dan perubahan tidak muncul dalam SharePoint atau OneDrive, meminta mereka untuk membuka web browser, [pergi ke Office.com](https://www.office.com), masuk dengan pekerjaan mereka atau sekolah rekening, dan kemudian klik OneDrive atau SharePoint ubin. Ini akan meminta foto profil untuk sinkronisasi. Pengguna mungkin perlu untuk mencoba menyelesaikan langkah-langkah ini dengan versi pribadi dari browser mereka. 
+> Jika pengguna memperbarui gambar profilnya dan perubahannya tidak muncul di SharePoint atau OneDrive, minta mereka membuka browser web, [buka Office.com](https://www.office.com), masuk dengan akun kantor atau sekolah, lalu klik ubin OneDrive atau SharePoint. Ini akan meminta gambar profil untuk disinkronkan. Pengguna mungkin perlu mencoba menyelesaikan langkah ini dengan versi pribadi browser mereka. 
   
-[Selengkapnya tentang memperbarui profil di Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[Pelajari lebih lanjut tentang memperbarui profil di Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Cara Dapatkan dukungan
+title: Outlook.com cara mendapatkan dukungan
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36536474"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>Cara Dapatkan dukungan di Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>Cara mendapatkan dukungan di Outlook.com
 
-Maaf, Outlook.com tidak menawarkan dukungan telepon, tapi kami memiliki tim khusus yang dapat membantu Anda.
-Masukkan pertanyaan Anda atau menggambarkan masalah Anda dalam **membantu** kotak di atas, dan kemudian pilih **mendapatkan bantuan**.
+Maaf, Outlook.com tidak menawarkan dukungan telepon, tetapi kami memiliki tim khusus yang dapat membantu Anda.
+Masukkan pertanyaan Anda atau jelaskan masalah Anda di kotak **bantuan** di atas, lalu pilih **Dapatkan bantuan**.
 
-[Mendapatkan bantuan dengan Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Dapatkan bantuan dengan Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
