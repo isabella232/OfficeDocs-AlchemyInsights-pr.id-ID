@@ -1,5 +1,5 @@
 ---
-title: Recycle bin
+title: Keranjang sampah
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552989"
 ---
-# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="14211-102">Mengembalikan item dalam SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="14211-102">Restore items in SharePoint Online</span></span>
+# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="e2f28-102">Memulihkan item di SharePoint online</span><span class="sxs-lookup"><span data-stu-id="e2f28-102">Restore items in SharePoint Online</span></span>
 
-<span data-ttu-id="14211-103">Bila Anda menghapus item dalam SharePoint Online, mereka sedang dipertahankan untuk total 93 hari.</span><span class="sxs-lookup"><span data-stu-id="14211-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="14211-104">Mereka tinggal di situs recycle bin sepanjang waktu, kecuali jika Anda kosong atau menghapus item dari itu.</span><span class="sxs-lookup"><span data-stu-id="14211-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="14211-105">Dalam hal ini, barang-barang pergi ke situs koleksi recycle bin, di mana mereka tinggal selama sisa masa 93.</span><span class="sxs-lookup"><span data-stu-id="14211-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="14211-106">Pada akhir waktu, item yang akan dihapus secara permanen.</span><span class="sxs-lookup"><span data-stu-id="14211-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="14211-107">Untuk memulihkan item yang dihapus dari situs recycle bin:</span><span class="sxs-lookup"><span data-stu-id="14211-107">To restore deleted items from the site recycle bin:</span></span>
+<span data-ttu-id="e2f28-103">Ketika Anda menghapus item di SharePoint online, mereka akan dipertahankan untuk Total 93 hari.</span><span class="sxs-lookup"><span data-stu-id="e2f28-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="e2f28-104">Mereka tinggal di situs recycle bin sepanjang waktu, kecuali jika Anda mengosongkan atau menghapus item dari itu.</span><span class="sxs-lookup"><span data-stu-id="e2f28-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="e2f28-105">Dalam hal ini, item pergi ke tempat sampah koleksi situs, di mana mereka tinggal selama sisa 93 hari.</span><span class="sxs-lookup"><span data-stu-id="e2f28-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="e2f28-106">Pada akhir waktu, item akan dihapus secara permanen.</span><span class="sxs-lookup"><span data-stu-id="e2f28-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="e2f28-107">Untuk mengembalikan item yang dihapus dari Recycle Bin situs:</span><span class="sxs-lookup"><span data-stu-id="e2f28-107">To restore deleted items from the site recycle bin:</span></span>
   
-1. <span data-ttu-id="14211-108">Pergi ke situs dan klik **Recycle bin** dalam pane kiri.</span><span class="sxs-lookup"><span data-stu-id="14211-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
+1. <span data-ttu-id="e2f28-108">Pergi ke situs dan klik **recycle bin** di sebelah kiri.</span><span class="sxs-lookup"><span data-stu-id="e2f28-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
     
-    <span data-ttu-id="14211-109">Jika Anda tidak melihat **Recycle bin** dalam pane kiri, klik ikon setelan di bagian kanan atas, dan kemudian klik **isi situs**.</span><span class="sxs-lookup"><span data-stu-id="14211-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="14211-110">Recycle Bin berada di ujung kanan bilah perintah di atas.</span><span class="sxs-lookup"><span data-stu-id="14211-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
+    <span data-ttu-id="e2f28-109">Jika Anda tidak melihat **tampungan daur ulang** di sebelah kiri, klik ikon pengaturan di kanan atas, dan kemudian klik **konten situs**.</span><span class="sxs-lookup"><span data-stu-id="e2f28-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="e2f28-110">Recycle Bin berada di ujung kanan bilah perintah di bagian atas.</span><span class="sxs-lookup"><span data-stu-id="e2f28-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-2. <span data-ttu-id="14211-111">Pada halaman **Recycle Bin** , pilih item Anda ingin mengembalikan dengan menunjuk ke mereka dan mengklik ikon tanda centang yang muncul.</span><span class="sxs-lookup"><span data-stu-id="14211-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
+2. <span data-ttu-id="e2f28-111">Pada halaman **recycle bin** , pilih item yang ingin Anda Pulihkan dengan mengarahkan dan mengklik ikon tanda centang yang muncul.</span><span class="sxs-lookup"><span data-stu-id="e2f28-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
     
-3. <span data-ttu-id="14211-112">Klik **Kembalikan**.</span><span class="sxs-lookup"><span data-stu-id="14211-112">Click **Restore**.</span></span>
+3. <span data-ttu-id="e2f28-112">Klik **Pulihkan**.</span><span class="sxs-lookup"><span data-stu-id="e2f28-112">Click **Restore**.</span></span>
     
-[<span data-ttu-id="14211-113">Mengembalikan item yang dihapus dari situs koleksi recycle bin</span><span class="sxs-lookup"><span data-stu-id="14211-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
+[<span data-ttu-id="e2f28-113">Memulihkan item yang dihapus dari keranjang sampah koleksi situs</span><span class="sxs-lookup"><span data-stu-id="e2f28-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

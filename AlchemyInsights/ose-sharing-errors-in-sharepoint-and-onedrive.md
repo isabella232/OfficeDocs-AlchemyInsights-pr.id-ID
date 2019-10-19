@@ -10,14 +10,14 @@ ms.custom:
 - "1939"
 - "9000314"
 ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752971"
 ---
-# <a name="ose-sharing-errors"></a><span data-ttu-id="d622e-102">Kesalahan berbagi OSE</span><span class="sxs-lookup"><span data-stu-id="d622e-102">OSE Sharing errors</span></span>
+# <a name="ose-sharing-errors"></a><span data-ttu-id="aef92-102">Kesalahan berbagi OSE</span><span class="sxs-lookup"><span data-stu-id="aef92-102">OSE Sharing errors</span></span>
 
-<span data-ttu-id="d622e-103">Artikel ini mencakup galat yang berbeda yang mungkin Anda alami ketika berbagi berkas atau map dari SharePoint online atau OneDrive untuk bisnis di Office 365.</span><span class="sxs-lookup"><span data-stu-id="d622e-103">The article covers the different errors that you might encounter when sharing files or folders from SharePoint Online or OneDrive for Business in Office 365.</span></span> <span data-ttu-id="d622e-104">Anda harus menjadi admin global atau SharePoint di organisasi Anda untuk memperbaiki kesalahan ini.</span><span class="sxs-lookup"><span data-stu-id="d622e-104">You need to be a global or SharePoint admin in your organization to fix these errors.</span></span> <span data-ttu-id="d622e-105">Jika Anda bukan administrator, hubungi staf bantuan Anda dan beri mereka kode kesalahan Anda.</span><span class="sxs-lookup"><span data-stu-id="d622e-105">If you are not an administrator, contact your help desk and give them your error code.</span></span>
+<span data-ttu-id="aef92-103">Artikel ini mencakup galat yang berbeda yang mungkin Anda alami ketika berbagi berkas atau map dari SharePoint online atau OneDrive untuk bisnis di Office 365.</span><span class="sxs-lookup"><span data-stu-id="aef92-103">The article covers the different errors that you might encounter when sharing files or folders from SharePoint Online or OneDrive for Business in Office 365.</span></span> <span data-ttu-id="aef92-104">Anda harus menjadi admin global atau SharePoint di organisasi Anda untuk memperbaiki kesalahan ini.</span><span class="sxs-lookup"><span data-stu-id="aef92-104">You need to be a global or SharePoint admin in your organization to fix these errors.</span></span> <span data-ttu-id="aef92-105">Jika Anda bukan administrator, hubungi staf bantuan Anda dan beri mereka kode kesalahan Anda.</span><span class="sxs-lookup"><span data-stu-id="aef92-105">If you are not an administrator, contact your help desk and give them your error code.</span></span>
 
-<span data-ttu-id="d622e-106">Untuk informasi lebih lanjut tentang kode galat OSE, lihat [berbagi kesalahan di SharePoint dan OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span><span class="sxs-lookup"><span data-stu-id="d622e-106">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>
+<span data-ttu-id="aef92-106">Untuk informasi lebih lanjut tentang kode galat OSE, lihat [berbagi kesalahan di SharePoint dan OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span><span class="sxs-lookup"><span data-stu-id="aef92-106">For more information on OSE error codes, see [Sharing errors in SharePoint and OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).</span></span>

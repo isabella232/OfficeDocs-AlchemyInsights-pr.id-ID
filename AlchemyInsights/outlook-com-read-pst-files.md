@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535610"
 ---
-# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="e94e0-102">PST file data di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e94e0-102">PST data files in Outlook.com</span></span>
+# <a name="pst-data-files-in-outlookcom"></a><span data-ttu-id="dc373-102">PST file data di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="dc373-102">PST data files in Outlook.com</span></span>
 
-<span data-ttu-id="e94e0-103">Hal ini tidak mungkin untuk Impor Outlook. PST file data ke account Outlook.com menggunakan browser.</span><span class="sxs-lookup"><span data-stu-id="e94e0-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
+<span data-ttu-id="dc373-103">Tidak dimungkinkan untuk mengimpor Outlook. PST file data ke account Outlook.com Anda menggunakan browser.</span><span class="sxs-lookup"><span data-stu-id="dc373-103">It's not possible to import an Outlook .PST data file to your Outlook.com account using a browser.</span></span>
 
-<span data-ttu-id="e94e0-104">Untuk mengimpor. PST data file, Anda harus menggunakan aplikasi desktop Outlook.</span><span class="sxs-lookup"><span data-stu-id="e94e0-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="e94e0-105">Untuk mempelajari lebih lanjut, baca [impor email, kontak, dan kalender dari Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="e94e0-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
+<span data-ttu-id="dc373-104">Untuk mengimpor. PST file data, Anda harus menggunakan aplikasi desktop Outlook.</span><span class="sxs-lookup"><span data-stu-id="dc373-104">To import a .PST data file, you must use the Outlook desktop app.</span></span> <span data-ttu-id="dc373-105">Untuk mempelajari selengkapnya, baca [mengimpor email, kontak, dan kalender dari Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="dc373-105">To learn more, read [Import email, contacts, and calendar from an Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)</span></span>
