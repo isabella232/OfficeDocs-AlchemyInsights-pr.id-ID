@@ -1,5 +1,5 @@
 ---
-title: Perubahan app lisensi kuantitas
+title: Mengubah kuantitas lisensi aplikasi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519770"
 ---
-# <a name="change-app-license-quantity"></a><span data-ttu-id="f0a65-102">Perubahan app lisensi kuantitas</span><span class="sxs-lookup"><span data-stu-id="f0a65-102">Change app license quantity</span></span>
+# <a name="change-app-license-quantity"></a><span data-ttu-id="67110-102">Mengubah kuantitas lisensi aplikasi</span><span class="sxs-lookup"><span data-stu-id="67110-102">Change app license quantity</span></span>
 
-<span data-ttu-id="f0a65-103">Anda dapat melihat atau mengubah jumlah lisensi Anda dan menetapkan mereka untuk pengguna di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="f0a65-103">You can view or change the number of licenses you have and assign them to users in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="67110-103">Anda dapat melihat atau mengubah jumlah lisensi yang Anda miliki dan menetapkan mereka untuk pengguna di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="67110-103">You can view or change the number of licenses you have and assign them to users in the Microsoft 365 admin center.</span></span> 
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="f0a65-104">Untuk mengubah jumlah lisensi</span><span class="sxs-lookup"><span data-stu-id="f0a65-104">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="67110-104">Untuk mengubah jumlah lisensi</span><span class="sxs-lookup"><span data-stu-id="67110-104">To change license quantity</span></span>
 
-1. <span data-ttu-id="f0a65-105">Pergi ke **penagihan** > [produk & Jasa](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman, kemudian pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="f0a65-105">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="67110-105">Buka halaman[Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** > , lalu pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="67110-105">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="f0a65-106">Cari, lalu pilih aplikasi yang Anda inginkan untuk mengelola.</span><span class="sxs-lookup"><span data-stu-id="f0a65-106">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="67110-106">Cari dan pilih aplikasi yang ingin Anda Kelola.</span><span class="sxs-lookup"><span data-stu-id="67110-106">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="f0a65-107">Pilih **Add/remove lisensi**.</span><span class="sxs-lookup"><span data-stu-id="f0a65-107">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="67110-107">Pilih **Tambah/Hapus lisensi**.</span><span class="sxs-lookup"><span data-stu-id="67110-107">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="f0a65-108">Masukkan nomor baru lisensi yang diperlukan.</span><span class="sxs-lookup"><span data-stu-id="f0a65-108">Enter the new number of licenses needed.</span></span> <span data-ttu-id="f0a65-109">Misalnya, jika Anda saat ini memiliki 5 lisensi dan hanya perlu 4, masukkan 4 dalam kotak **Total lisensi** .</span><span class="sxs-lookup"><span data-stu-id="f0a65-109">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="f0a65-110">Jika Anda saat ini memiliki 5 lisensi dan memerlukan 10 total lisensi, masukkan 10 dalam kotak **Total lisensi** .</span><span class="sxs-lookup"><span data-stu-id="f0a65-110">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="67110-108">Masukkan jumlah lisensi baru yang diperlukan.</span><span class="sxs-lookup"><span data-stu-id="67110-108">Enter the new number of licenses needed.</span></span> <span data-ttu-id="67110-109">Sebagai contoh, jika Anda saat ini memiliki 5 lisensi dan hanya perlu 4, masukkan 4 di **Total lisensi** kotak.</span><span class="sxs-lookup"><span data-stu-id="67110-109">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="67110-110">Jika saat ini Anda memiliki 5 lisensi dan memerlukan Total lisensi 10, masukkan 10 di kotak **Total lisensi** .</span><span class="sxs-lookup"><span data-stu-id="67110-110">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="f0a65-111">Untuk menetapkan lisensi app</span><span class="sxs-lookup"><span data-stu-id="f0a65-111">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="67110-111">Untuk menetapkan lisensi aplikasi</span><span class="sxs-lookup"><span data-stu-id="67110-111">To assign app licenses</span></span>
 
-1. <span data-ttu-id="f0a65-112">Pergi ke **penagihan** > [produk & Jasa](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman, kemudian pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="f0a65-112">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="67110-112">Buka halaman[Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** > , lalu pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="67110-112">Go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="f0a65-113">Cari, lalu pilih aplikasi yang Anda inginkan untuk mengelola.</span><span class="sxs-lookup"><span data-stu-id="f0a65-113">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="67110-113">Cari dan pilih aplikasi yang ingin Anda Kelola.</span><span class="sxs-lookup"><span data-stu-id="67110-113">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="f0a65-114">Di bawah **pengaturan & tindakan**, pilih link ke **Kelola di penerbit portal**.</span><span class="sxs-lookup"><span data-stu-id="f0a65-114">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="67110-114">Dalam **tindakan & setelan**, pilih tautan untuk **mengelola di portal penayang**.</span><span class="sxs-lookup"><span data-stu-id="67110-114">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>

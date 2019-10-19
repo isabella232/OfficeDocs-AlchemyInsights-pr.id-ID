@@ -1,5 +1,5 @@
 ---
-title: Mencegah file yang di-download dari SharePoint atau OneDrive
+title: Mencegah berkas diunduh dari SharePoint atau OneDrive
 ms.author: efrene
 author: efrene
 manager: matteva
@@ -12,18 +12,18 @@ ms.custom:
 - "2523"
 - "9000213"
 ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554703"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="2a57c-102">Mencegah file yang di-download dari SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="2a57c-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="8cc54-102">Mencegah berkas diunduh dari SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="8cc54-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="2a57c-103">Ada berbagai metode yang dapat digunakan untuk mencegah atau memblok unduhan dari terjadi.</span><span class="sxs-lookup"><span data-stu-id="2a57c-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="2a57c-104">Silahkan kunjungi link di bawah untuk masing-masing metode:</span><span class="sxs-lookup"><span data-stu-id="2a57c-104">Please visit the links below for the respective methods:</span></span>
+<span data-ttu-id="8cc54-103">Ada berbagai metode yang dapat digunakan untuk mencegah atau memblokir download dari terjadi.</span><span class="sxs-lookup"><span data-stu-id="8cc54-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="8cc54-104">Silakan kunjungi link di bawah ini untuk masing-masing metode:</span><span class="sxs-lookup"><span data-stu-id="8cc54-104">Please visit the links below for the respective methods:</span></span>
 
-- [<span data-ttu-id="2a57c-105">Download File blok akses bersyarat Azure iklan</span><span class="sxs-lookup"><span data-stu-id="2a57c-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="8cc54-105">Blok file download dengan akses bersyarat Azure AD</span><span class="sxs-lookup"><span data-stu-id="8cc54-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [<span data-ttu-id="2a57c-106">Kontrol akses dari unmanaged perangkat</span><span class="sxs-lookup"><span data-stu-id="2a57c-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="8cc54-106">Mengontrol akses dari perangkat yang tidak dikelola</span><span class="sxs-lookup"><span data-stu-id="8cc54-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [<span data-ttu-id="2a57c-107">Mengkonfigurasi kebijakan IRM pada SharePoint dokumen perpustakaan untuk membatasi download konten</span><span class="sxs-lookup"><span data-stu-id="2a57c-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [<span data-ttu-id="8cc54-107">Mengkonfigurasi kebijakan IRM di perpustakaan dokumen SharePoint untuk membatasi download konten</span><span class="sxs-lookup"><span data-stu-id="8cc54-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

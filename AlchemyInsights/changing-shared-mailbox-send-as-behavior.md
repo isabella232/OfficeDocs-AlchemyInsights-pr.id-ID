@@ -14,17 +14,17 @@ ms.custom:
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
 ms.openlocfilehash: c44983a73e90961835f447ef1ae9714cc29059fb
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738560"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="15fa3-102">Mengubah kotak surat bersama Kirim sebagai perilaku</span><span class="sxs-lookup"><span data-stu-id="15fa3-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="fea83-102">Mengubah kotak surat bersama Kirim sebagai perilaku</span><span class="sxs-lookup"><span data-stu-id="fea83-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="15fa3-103">Secara default, pesan yang dikirim dari kotak surat bersama tidak disimpan ke folder Item Terkirim di kotak surat bersama.</span><span class="sxs-lookup"><span data-stu-id="15fa3-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="15fa3-104">Sebaliknya, mereka disimpan ke folder Item Terkirim orang yang mengirim pesan.</span><span class="sxs-lookup"><span data-stu-id="15fa3-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="fea83-103">Secara default, pesan yang dikirim dari kotak surat bersama tidak disimpan ke folder Item Terkirim di kotak surat bersama.</span><span class="sxs-lookup"><span data-stu-id="fea83-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="fea83-104">Sebaliknya, mereka disimpan ke folder Item Terkirim orang yang mengirim pesan.</span><span class="sxs-lookup"><span data-stu-id="fea83-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="15fa3-105">Jika Anda ingin semua anggota melihat email terkirim, di pusat admin Microsoft 365, Edit rincian kotak pesan bersama, lalu pilih \> **Edit** **item terkirim** .</span><span class="sxs-lookup"><span data-stu-id="15fa3-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="fea83-105">Jika Anda ingin semua anggota melihat email terkirim, di pusat admin Microsoft 365, Edit rincian kotak pesan bersama, lalu pilih \> **Edit** **item terkirim** .</span><span class="sxs-lookup"><span data-stu-id="fea83-105">If you want to all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="15fa3-106">Untuk membaca lebih lanjut, lihat [membuat kotak pesan bersama](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="15fa3-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="fea83-106">Untuk membaca lebih lanjut, lihat [membuat kotak pesan bersama](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="fea83-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).</span></span>
   
