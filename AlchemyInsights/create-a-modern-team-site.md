@@ -1,5 +1,5 @@
 ---
-title: Membuat situs Modern tim
+title: Membuat situs tim modern
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516320"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Membuat situs yang terhubung ke grup tim Office 365
+# <a name="create-an-office-365-group-connected-team-site"></a>Membuat situs tim Office 365 tersambung ke grup
 
 1. Klik peluncur aplikasi di sudut kiri atas dan pilih **SharePoint**. Jika Anda tidak melihat ubin SharePoint, klik **semua aplikasi**.
     
-2. Di bagian atas halaman rumah SharePoint, klik **buat situs** dan memilih opsi **situs tim** . 
+2. Di bagian atas halaman Beranda SharePoint, klik **buat situs** dan pilih opsi **situs tim** . 
     
     > [!NOTE]
-    > Jika Anda tidak melihat perintah buat situs, situs penciptaan tidak dapat diaktifkan di organisasi Anda. Untuk mengaktifkannya, lihat [mengelola situs penciptaan](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Jika Anda tidak melihat perintah buat situs, pembuatan situs mungkin tidak diaktifkan di organisasi Anda. Untuk mengaktifkannya, lihat [mengelola pembuatan situs](https://go.microsoft.com/fwlink/?linkid=2009644). 
   
-3. Ikuti langkah-langkah pada layar untuk nama situs dan membuat alamat email untuk kelompok Office 365, dan kemudian klik **berikutnya**. Anda juga dapat menambahkan pemilik grup dan anggota lainnya. Klik **Finish**.
+3. Ikuti langkah di layar untuk nama situs dan membuat alamat email untuk Office 365 grup, dan kemudian klik **berikutnya**. Anda juga dapat menambahkan pemilik dan anggota grup lainnya. Klik **selesai**.
   
- **Catatan:** Membuat situs tim tanpa kelompok terhubung, ikuti langkah-langkah di atas, tapi bukannya memilih situs tim di langkah 2. Pilih opsi lain. Ini akan memandu Anda melalui penciptaan situs tim tanpa kelompok. 
+ **Catatan:** Untuk membuat situs tim tanpa grup yang terhubung, ikuti langkah di atas, tetapi bukan memilih situs tim di langkah 2. Pilih opsi lainnya. Ini akan memandu Anda melalui pembuatan situs tim tanpa grup. 
     
 

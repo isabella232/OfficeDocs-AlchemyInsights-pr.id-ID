@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514039"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Menghapus situs milik Grup Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Hapus situs milik Grup 365 Office
 
-Ketika pengguna membuat sebuah situs tim baru dari SharePoint rumah atau Anda membuat situs tim baru dari SharePoint admin center baru, grup Office 365 yang sesuai secara otomatis dibuat. Kantor 365 terhubung kelompok tim situs juga dibuat bila Anda membuat grup Office 365 atau tim di Microsoft Teams. Untuk menghapus situs SharePoint milik Grup Office 365, Anda perlu untuk menghapus Grup Office 365 itu sendiri. 
+Ketika pengguna membuat situs tim baru dari SharePoint Home atau Anda membuat situs tim baru dari Pusat admin SharePoint baru, grup Office 365 sesuai secara otomatis dibuat. Office 365 tim terhubung grup situs juga dibuat saat Anda membuat Office 365 grup atau tim di Microsoft teams. Untuk menghapus situs SharePoint milik Grup 365 Office, Anda harus menghapus Grup 365 Office itu sendiri. 
   
-1. Pergi ke [halaman grup Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Buka [halaman grup Pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Pilih kotak centang di samping grup tersebut.
+2. Pilih kotak centang di samping grup.
     
 3. Pilih **Hapus**.
     
-Catatan: Bila Anda menghapus grup, ada penundaan sebelum situs akan dihapus dari SharePoint.
+Catatan: bila Anda menghapus grup, dapat terjadi penundaan sebelum situs dihapus dari SharePoint.
   
-**Menghapus situs komunikasi atau klasik situs:**
+**Menghapus situs komunikasi atau situs klasik:**
 
-1. Pergi ke situs.
+1. Buka situs.
   
-2. Klik ikon **setelan** di bagian kanan atas. 
+2. Klik ikon **pengaturan** di kanan atas. 
   
-3. Klik **pengaturan situs**. Dalam **Situs informasi** atau **Tindakan situs**, klik **Hapus situs ini**, dan kemudian klik **Hapus**.
+3. Klik **tataan situs**. Di bawah **informasi situs** atau **tindakan situs**, klik **Hapus situs ini**, dan kemudian klik **Hapus**.
   
 **Menghapus koleksi situs SharePoint:**
 
 Untuk menghapus situs:
   
-1. Di SharePoint admin center baru, pada halaman situs, klik **kotak centang** di samping situs yang ingin Anda hapus. 
+1. Di pusat admin SharePoint baru, pada halaman situs, klik **kotak centang** di sebelah situs yang ingin Anda hapus. 
     
-2. Di toolbar pita, klik **menghapus.**
+2. Di toolbar pita, klik **Hapus.**
     
-**Dihapus situs kebetulan?**
+**Dihapus situs secara tidak sengaja?**
 
-Lihat [memulihkan dihapus situs koleksi](https://go.microsoft.com/fwlink/?linkid=867660).
+Lihat [memulihkan koleksi situs yang dihapus](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

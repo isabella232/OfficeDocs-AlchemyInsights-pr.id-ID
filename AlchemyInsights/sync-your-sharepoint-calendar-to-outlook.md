@@ -1,5 +1,5 @@
 ---
-title: Sinkronisasi kalender SharePoint Anda ke Outlook
+title: Sinkronkan kalender SharePoint Anda ke Outlook
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,24 +13,24 @@ ms.custom:
 - "9000677"
 - "2586"
 ms.openlocfilehash: 18606337eac550d6b68d442f109f599810bb391e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507346"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Masalah sinkronisasi kalender ke perangkat
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Masalah saat mensinkronisasi kalender ke perangkat
 
-Kalender SharePoint adalah jenis daftar klasik yang kadang-kadang bingung dengan Office 365 kelompok kalender.
+Kalender SharePoint adalah jenis daftar klasik yang terkadang bingung dengan Office 365 kalender grup.
 
-Untuk melakukan sinkronisasi kalender SharePoint ke Outlook, ikuti langkah berikut:
+Untuk menyinkronkan kalender SharePoint ke Outlook, ikuti langkah berikut:
 
-1. Klik ikon perkakas **pengaturan** dan kemudian klik **Isi situs**.
-2. Buka kalender Anda ingin sinkronisasi (yang merupakan acara daftar jenis).
-3. Dalam menu klasik pita, klik **kalender**, lalu klik **Connect ke Outlook**.
-4. Dalam pop-up yang meminta Anda untuk mengkonfirmasi sync, klik **Bolehkan**.
+1. Klik ikon Gear **pengaturan** dan kemudian klik **konten situs**.
+2. Buka kalender yang ingin disinkronkan (yang merupakan jenis daftar peristiwa).
+3. Dalam menu pita klasik, klik **kalender**, kemudian klik **Sambungkan ke Outlook**.
+4. Di pop-up yang meminta Anda mengonfirmasi sinkronisasi, klik **Izinkan**.
 
 >[!Note]
 > Ketika Anda membuat perubahan dalam kalender Outlook disinkronkan, akan muncul di kalender SharePoint dan sebaliknya.
 
-Untuk informasi lebih lanjut tentang kantor 365 grup, lihat [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ini.
+Untuk informasi selengkapnya tentang Office 365 grup, lihat [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ini.

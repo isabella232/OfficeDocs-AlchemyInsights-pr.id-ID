@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan Microsoft To-Do
+title: Mengaktifkan Microsoft to-do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527546"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Cara mengaktifkan Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Cara mengaktifkan Microsoft to-do
 
-Untuk menggunakan Microsoft To-Do, admin harus mengaktifkan aplikasi pada setiap pengguna account. Pergi ke [Layanan &amp; Halaman Add-in](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) dari halaman pengaturan admin Office 365 agar agenda untuk setiap pengguna. 
+Agar dapat menggunakan Microsoft to-do, admin harus mengaktifkan aplikasi di setiap akun pengguna. Buka halaman [Add- &amp; in Layanan](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) halaman pengaturan Office 365 admin untuk mengaktifkan to-do untuk setiap pengguna. 
   
-Microsoft To-Do menggunakan fitur di Exchange Online untuk sinkronisasi dan menyimpan item agenda pengguna. Untuk menggunakan Microsoft To-Do, kebutuhan pengguna kotak pesan Exchange Online yang sah.
+Microsoft to-do menggunakan fitur di Exchange Online untuk menyinkronkan dan menyimpan item yang harus dilakukan pengguna. Untuk menggunakan Microsoft to-do, pengguna memerlukan kotak surat Exchange Online yang valid.
   
-Untuk informasi tambahan, lihat [Microsoft To-Do tinjauan administrasi](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Untuk informasi tambahan, lihat [Microsoft to-do preview administrasi](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Catatan**: jika Anda menerima galat 501 ketika mencoba untuk login ke [http://todo.microsoft.com](http://todo.microsoft.com), coba [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Catatan**: jika Anda menerima kesalahan 501 ketika mencoba untuk login ke [http://todo.microsoft.com](http://todo.microsoft.com), coba. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

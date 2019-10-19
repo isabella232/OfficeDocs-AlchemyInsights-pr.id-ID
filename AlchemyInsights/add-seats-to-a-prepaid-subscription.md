@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660975"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Menambahkan kursi ke langganan prabayar
 
-Lisensi Office 365 prabayar yang dikeluarkan untuk Anda sebagai 25-karakter alfanumerik kode. Setelah Anda membeli lisensi yang Anda butuhkan, Anda dapat menambahkannya ke langganan Anda. 
+Lisensi Office 365 prabayar diberikan kepada Anda sebagai kode alfanumerik 25 karakter. Setelah membeli lisensi yang dibutuhkan, Anda dapat menambahkannya ke langganan. 
 
-1. Di pusat admin, pergi ke **penagihan** > [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, buka halaman[Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** > .
 
-2. Menemukan langganan Anda ingin menambahkan lisensi untuk. Di bagian **lisensi** , pilih **Tambahkan lisensi lebih**.
+2. Temukan langganan yang ingin Anda tambahkan lisensinya. Di bagian **lisensi** , pilih **Tambahkan lebih banyak lisensi**.
 
-3. Di panel **menambahkan lebih banyak izin** , pilih **menggunakan kunci produk baru dan tidak terpakai**, lalu pilih **berikutnya**.
+3. Di panel **Tambahkan lisensi lainnya** , pilih **gunakan kunci produk baru dan tidak terpakai**, lalu pilih **berikutnya**.
 
 4. Masukkan kunci produk, lalu pilih **berikutnya**.
 
     > [!NOTE]
-    > Jika Anda memiliki lebih dari satu kunci produk, Anda dapat **menambahkan kunci produk lain** untuk mereka.
+    > Jika Anda memiliki lebih dari satu kunci produk, Anda dapat memilih **menambahkan kunci produk lain** untuk memasukkannya.
 
-5. Periksa rincian pesanan Anda, kemudian pilih **Redeem**.
+5. Tinjau detail pesanan Anda, lalu pilih **tukarkan**.
 
-Untuk selengkapnya, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Untuk mempelajari lebih lanjut, lihat [menambahkan lisensi atau memperpanjang langganan berbayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

@@ -1,5 +1,5 @@
 ---
-title: Akses ditolak ke situs proyek Web App
+title: Akses ditolak ke situs Project Web App
 ms.author: efrene
 author: efrene
 manager: pamg
@@ -12,20 +12,20 @@ ms.custom:
 - "2700001"
 - "1381"
 ms.openlocfilehash: be8ba63cc5c7a2042d997598c6ed5d792862c58f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661227"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Memberikan izin kepada pengguna dalam proyek Online
+# <a name="give-users-permissions-in-project-online"></a>Memberikan izin kepada pengguna di Project online
 
-Memberikan akses pengguna ke situs proyek Web App menggunakan SharePoint izin Mode:
+Memberikan pengguna akses ke situs Project Web App menggunakan mode izin SharePoint:
 
-1. Log in ke proyek Online sebagai admin.
-2. Pada halaman proyek Web App, pilih **berbagi** di sudut kanan atas.
-3. Dalam **Berbagi proyek Web App** kotak dialog, ketik nama orang yang Anda inginkan untuk memberikan akses ke dalam kotak **Orang-orang yang mengundang** pengguna.
-4. Pilih **Tampilkan pilihan**, dan dalam menu **pilih tingkat izin** , pilih **Manajer proyek untuk proyek Web App**.
-5. Pilih **berbagi**.
+1. Masuk ke Project online sebagai admin.
+2. Di halaman Beranda Project Web App, pilih **bagikan** di pojok kanan atas.
+3. Di kotak dialog **berbagi Project Web App** , ketik nama pengguna orang yang Anda ingin memberikan akses ke kotak **mengundang orang** .
+4. Pilih **Tampilkan opsi**, dan dalam menu **pilih tingkat izin** , pilih **manajer proyek untuk Project Web App**.
+5. Pilih **bagikan**.
 
-Jika Anda menggunakan modus proyek izin, atau untuk informasi lebih lanjut, silakan lihat [Tambahkan orang untuk proyek Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Jika Anda menggunakan mode izin proyek, atau untuk informasi lebih lanjut, baca [menambahkan orang ke Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

@@ -1,5 +1,5 @@
 ---
-title: Menemukan file hilang atau hilang dalam OneDrive atau SharePoint
+title: Menemukan file yang hilang atau hilang di OneDrive atau SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525422"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Menemukan file hilang atau hilang dalam OneDrive atau SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Menemukan file yang hilang atau hilang di OneDrive atau SharePoint
 
-- Periksa recycle bin dengan browsing ke OneDrive Anda atau situs SharePoint di web dan mengklik Recycle bin dalam pane kiri. (Jika Anda tidak melihat Recycle bin dalam pane kiri, klik ikon pengaturan, dan kemudian pilih **isi situs**. **Recycle Bin** adalah di paling kanan bilah perintah di atas.) 
+- Periksa Recycle Bin dengan browsing ke OneDrive atau situs SharePoint di web dan klik keranjang sampah di sebelah kiri. (Jika Anda tidak melihat tampungan daur ulang di sebelah kiri, klik ikon pengaturan, dan kemudian pilih **konten situs**. **Recycle bin** adalah di ujung kanan bilah perintah di bagian atas.) 
     
-- Jika Anda gunakan untuk menyinkronkan file pada komputer Anda, periksa Recycle bin pada komputer Anda. 
+- Jika Anda menyinkronkan file di komputer Anda, periksa Recycle Bin pada komputer Anda. 
     
-- Jika Anda tidak melihat item Anda inginkan, dan baru saja dihapus, site koleksi administrator mungkin mampu memulihkan dari situs koleksi recycle bin. Jika Anda site koleksi administrator, lihat [memulihkan dihapus dari situs koleksi recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).
+- Jika Anda tidak melihat item yang Anda Cari, dan dihapus baru-baru ini, administrator kumpulan situs mungkin dapat memulihkannya dari keranjang sampah koleksi situs. Jika Anda adalah administrator kumpulan situs, lihat [memulihkan item yang dihapus dari keranjang sampah koleksi situs](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Lebih membantu memulihkan dihapus file dan folder di OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[Lebih membantu memulihkan file dan folder yang dihapus di OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

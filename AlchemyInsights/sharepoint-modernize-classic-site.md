@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503494"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576684"
 ---
 # <a name="modernize-your-classic-sharepoint-site"></a>Memodernisasi situs SharePoint klasik
 
-Lihat berikut ini untuk rincian tentang menggunakan pengalaman modern baru:
+Untuk beralih ke antarmuka pengguna modern, Anda harus fokus pada hal berikut:
 
-- Untuk gambaran langkah demi langkah tentang modernisasi situs SharePoint Anda klasik untuk pengalaman modern, lihat [Modernize situs SharePoint klasik](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Transisi **Daftar dan Perpustakaan** Anda untuk menggunakan antarmuka pengguna modern (juga disebut sebagai daftar modern dan pengalaman Perpustakaan).
+- Mengubah **halaman situs** Anda dari wiki klasik dan halaman bagian web menjadi halaman sisi klien modern.
+- Membuat **situs modern** (situs tim atau situs komunikasi).
 
-- Untuk memaksimalkan penggunaan modern user interface untuk halaman situs Anda dan halaman daftar dan Perpustakaan, lihat [Modernize antarmuka pengguna](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+Modernisasi pengalaman Anda dengan:
+- [Mengaktifkan daftar dan pustaka untuk ditampilkan di antarmuka pengguna modern](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) dengan mengganti penyesuaian, menghapus kolom yang tidak kompatibel dari tampilan yang digunakan, atau (sebagai resor terakhir) memindahkan data ke dalam jenis daftar yang kompatibel dengan antarmuka pengguna modern.
+- [Menghubungkan situs Anda ke grup 365 Office](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), yang memberikan situs Anda halaman rumah yang modern dan memungkinkan situs Anda untuk menggunakan, misalnya, kotak surat atau Microsoft Planner. Hal ini memungkinkan Anda untuk menggunakan versi modern kalender dan daftar tugas.
+- [Membuat halaman modern](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), adalah cara yang bagus untuk berbagi ide menggunakan gambar, Excel, Word dan PowerPoint dokumen, video, dan banyak lagi.
+- [Membuat halaman sisi klien modern](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) dan mengonfigurasikannya sebagai "serupa" dengan wiki klasik kunci dan halaman web part Anda. Transformasi halaman programatik harus dilakukan untuk Halaman kunci situs Anda, seperti mengubah semua halaman adalah sumber daya intensif dan sering tidak diperlukan. Untuk membantu dalam triase ini, SharePoint modernisasi scanner dapat memberikan informasi penggunaan tentang saat ini wiki dan web bagian halaman.
+- [Membuat situs modern](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). Haruskah saya membuat situs tim atau situs komunikasi?
 
-- Untuk mempelajari lebih lanjut tentang cara membuka blokir daftar dan perpustakaan Anda bila menggunakan antarmuka pengguna modern, lihat [memaksimalkan penggunaan daftar modern dan Perpustakaan](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+Info tambahan: 
+- Untuk gambaran langkah-demi-langkah modernisasi situs SharePoint klasik Anda ke pengalaman modern, lihat [memodernisasi situs SharePoint klasik Anda](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- Lihat panduan [pengalaman modern](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Lihat [SharePoint klasik dan pengalaman modern](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- Untuk informasi lebih lanjut tentang menghubungkan ke grup Office 365 dan melakukan koneksi grup, lihat [tersambung ke grup Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

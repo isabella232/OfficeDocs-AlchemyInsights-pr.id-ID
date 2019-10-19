@@ -1,5 +1,5 @@
 ---
-title: Menghapus item dalam SharePoint
+title: Hapus item di SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513639"
 ---
-# <a name="delete-items-in-sharepoint"></a>Menghapus item dalam SharePoint
+# <a name="delete-items-in-sharepoint"></a>Hapus item di SharePoint
 
-[Hapus daftar](https://go.microsoft.com/fwlink/?linkid=869393)
+[Menghapus daftar](https://go.microsoft.com/fwlink/?linkid=869393)
   
 [Menghapus pustaka dokumen](https://go.microsoft.com/fwlink/?linkid=869392)
   
@@ -28,8 +28,8 @@ ms.locfileid: "36513639"
   
 [Menghapus item dari pustaka dokumen](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Menghapus sebuah kolom pada halaman](https://go.microsoft.com/fwlink/?linkid=869394)
+[Menghapus kolom di Halaman](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Menghapus sebuah kolom dalam daftar atau Perpustakaan](https://go.microsoft.com/fwlink/?linkid=869396)
+[Menghapus kolom dalam daftar atau Perpustakaan](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

@@ -1,5 +1,5 @@
 ---
-title: 1800001 buat atau edit profil
+title: 1800001 membuat atau mengedit profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515162"
 ---
 # <a name="create-or-edit-an-outlook-profile"></a>Membuat atau mengedit profil Outlook
 
-Membuat profil Outlook baru, mengedit profil, atau mengubah nama profil, menggunakan langkah-langkah berikut.
+Untuk membuat profil Outlook baru, mengedit profil, atau mengganti nama profil, gunakan langkah berikut.
   
-1. Di Outlook, pilih **File** \> **Pengaturan Account** \> **Mengelola profil**.
+1. Di Outlook, pilih **** \> **pengaturan** \> akun file **mengelola profil**.
     
-2. Dari dialog **Pengaturan E-mail** , pilih **Tampilkan profil**.
+2. Dari dialog **pengaturan e-mail** , pilih **Tampilkan profil**.
     
-3. Lakukan salah satu berikut:
+3. Lakukan salah satu dari berikut ini:
     
-  - Untuk membuat profil baru, pilih **Tambah**.
+  - Untuk membuat profil baru, pilih **Tambahkan**.
     
-  - Untuk mengedit atau mengubah nama profil, pilih **Properties**.
+  - Untuk mengedit atau mengubah nama profil, pilih **properti**.
     
-Jika Anda mengalami masalah membuat atau mengedit profil Outlook, Anda dapat menjalankan [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin terkena. Itu akan melakukan beberapa pemeriksaan, dan Anda akan membuat profil Outlook dengan alamat email Anda. 
+Jika Anda mengalami masalah saat membuat atau mengedit profil Outlook, Anda dapat menjalankan [alat profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin yang terpengaruh. Ini akan melakukan beberapa pemeriksaan, dan ketika Anda sudah siap akan membuat profil Outlook dengan alamat email Anda. 
   
 

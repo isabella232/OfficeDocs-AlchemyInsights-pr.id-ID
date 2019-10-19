@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable bila kredensial pengaturan
+title: Gatewaynotredpt saat menetapkan kredensial
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507130"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable bila kredensial pengaturan
+# <a name="gatewaynotreachable-when-setting-credentials"></a>Gatewaynotredpt saat menetapkan kredensial
 
-Anda mungkin mengalami GatewayNotReachable ketika mencoba untuk set kredensial untuk sumber data dalam Layanan daya BI. Ini bisa menjadi hasil dari gateway usang. Menginstal terbaru gateway dan coba lagi.
+Anda mungkin mengalami Gatewaynotredpt ketika mencoba untuk menetapkan kredensial untuk sumber data dalam Layanan Power BI. Ini bisa menjadi hasil dari Gateway usang. Instal Gateway terbaru dan coba lagi.
 
 Untuk informasi lebih lanjut:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

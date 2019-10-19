@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki aliran gagal
+title: Memperbaiki alur yang gagal
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
 ms.openlocfilehash: d99abced5627599380ba8b1e5e8d7f8d1109a8f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525234"
 ---
 # <a name="fix-a-flow-that-failed"></a>Memperbaiki aliran yang gagal
 
-1. Pergi ke [Microsoft aliran](https://flow.microsoft.com/), dan klik ikon pemberitahuan di kanan atas. (Atau di mobile app, pilih tab aktivitas.) Pilih aliran yang gagal untuk melihat rincian.
+1. Buka [Microsoft Flow](https://flow.microsoft.com/), dan klik ikon pemberitahuan di kanan atas. (Atau di aplikasi seluler, pilih tab aktivitas.) Pilih aliran yang gagal untuk melihat rincian.
     
-2. Menemukan langkah dengan ikon seru merah untuk melihat pesan kesalahan untuk aliran.
+2. Temukan langkah dengan ikon tanda seru berwarna merah untuk melihat pesan kesalahan untuk alur.
     
 3. Tergantung pada pesan kesalahan, Anda harus dapat mengedit aliran dan memperbaikinya. 
     
-[Gangguan aliran umum](https://go.microsoft.com/fwlink/?linkid=872110)
+[Kegagalan aliran umum](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

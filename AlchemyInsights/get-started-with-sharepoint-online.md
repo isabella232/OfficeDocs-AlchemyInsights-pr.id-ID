@@ -1,5 +1,5 @@
 ---
-title: Memulai dengan SharePoint Online
+title: Memulai dengan SharePoint online
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524126"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Memulai dengan SharePoint Online
+# <a name="get-started-with-sharepoint-online"></a>Memulai dengan SharePoint online
 
-Dapatkan bangun dan berjalan dengan [SharePoint Online video pelatihan](https://go.microsoft.com/fwlink/?linkid=866438) dan [cepat mulai panduan](https://go.microsoft.com/fwlink/?linkid=866437). Jika Anda sedang mencari yang lebih komprehensif, langkah demi langkah panduan ikuti langkah-langkah di [penasihat penyebaran SharePoint Online.](https://portal.office.com/onboarding/sharepointonline#/)
+Bangun dan berjalan dengan [pelatihan video SharePoint online](https://go.microsoft.com/fwlink/?linkid=866438) kami dan [panduan memulai cepat](https://go.microsoft.com/fwlink/?linkid=866437). Jika Anda mencari yang lebih komprehensif, langkah-demi-langkah panduan ikuti langkah di [SharePoint online Deployment Advisor.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

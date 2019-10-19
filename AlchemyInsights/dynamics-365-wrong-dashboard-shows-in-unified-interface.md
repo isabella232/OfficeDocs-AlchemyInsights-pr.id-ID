@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - salah Dashboard menunjukkan dalam antarmuka yang bersatu Dynamics 365
+title: Dynamics 365-salah Dasbor menunjukkan di Dynamics 365 antarmuka terpadu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528554"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Salah dashboard menunjukkan dalam antarmuka yang bersatu Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Salah dashboard menunjukkan di antarmuka terpadu Dynamics 365
 
-Ada beberapa alasan mengapa Anda mungkin melihat sebuah dashboard yang berbeda daripada yang Anda harapkan:
+Ada beberapa alasan mengapa Anda mungkin melihat dasbor yang berbeda dari yang Anda harapkan:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Pengguna telah menetapkan pengguna default dashboard 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Pengguna telah menetapkan dashboard default pengguna 
 
-Biasanya Anda dapat mengidentifikasi pengguna default dashboard diatur jika tombol **Set sebagai Default** tidak menunjukkan di bilah perintah dashboard. Pengguna default dashboard akan menimpa semua default dashboard, bahkan jika pengguna default dasbor tidak di app saat ini.
+Biasanya Anda dapat mengidentifikasi dashboard default pengguna diatur jika **ditetapkan sebagai default** tombol tidak muncul di bilah perintah dasbor. Dasbor default pengguna akan menimpa semua dasbor default lainnya, meskipun dasbor default pengguna tidak ada di aplikasi saat ini.
 
-Menggunakan solusi berikut untuk unset dashboard default mereka.
+Gunakan solusi berikut untuk Unset dashboard default mereka.
 
-1. Membuat dashboard pribadi baru.
+1. Buat dasbor pribadi baru.
 
-2. Menetapkan dashboard yang baru sebagai default pengguna.
+2. Setel dasbor baru sebagai default pengguna.
 
-3. Menghapus dashboard itu.
+3. Hapus dasbor tersebut.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dashboard terletak di sitemap
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dasbor diatur dalam peta situs
 
-Anda dapat menetapkan dashboard default organisasi dengan memilih sebuah dashboard dan memilih 'Set sebagai Default' di bawah 'Menyesuaikan sistem'. Tapi dashboard didefinisikan dalam desain sitemap akan mengambil alih dashboard ini, jika pengguna memiliki akses ke sana.
+Anda mungkin telah menetapkan dashboard default organisasi dengan memilih dashboard dan memilih ' set AS default ' di bawah ' Customize The System '. Namun dasbor yang ditetapkan dalam perancang peta situs akan diutamakan daripada dasbor ini, jika pengguna memiliki akses ke dashboard tersebut.
 
-Agar pengguna melihat dashboard Anda tetapkan sebagai default organisasi, Anda dapat:
+Agar pengguna melihat dasbor yang Anda tetapkan sebagai default organisasi, Anda dapat:
 
-* Menetapkan bahwa dashboard dalam sitemap
+* Menyetel dasbor di peta situs
 
-* Menghapus akses ke dashboard sitemap yang ditetapkan bagi para pengguna
+* Hapus akses ke dasbor yang ditetapkan peta situs untuk pengguna tersebut

@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557252"
 ---
 # <a name="create-a-folder"></a>Membuat folder
 
-1. Di bagian bawah panel folder di Outlook di web, pilih **folder baru**. Anda mungkin perlu gulir ke bawah di panel folder untuk melihat tombol **folder baru** .
-1. Dalam kotak teks, masukkan nama folder dan kemudian tekan Enter.
+1. Di bagian bawah panel folder di Outlook di web, pilih **folder baru**. Anda mungkin perlu menggulir ke bawah di panel folder untuk melihat tombol **folder baru** .
+1. Di kotak teks, masukkan nama untuk folder dan kemudian tekan Enter.
 
-Untuk selengkapnya, lihat [menangani pesan folder di Outlook di web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Untuk mempelajari lebih lanjut, lihat [bekerja dengan folder pesan di Outlook di web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
