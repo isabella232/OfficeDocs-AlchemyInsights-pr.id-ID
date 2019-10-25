@@ -1,5 +1,5 @@
 ---
-title: OneDrive Penyimpanan
+title: Penyimpanan OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -14,18 +14,26 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: adf701dbc4e4840d1cdaf090197f97609254f623
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 55aff5bebdce35c9fad3db2d56696e1b5527c1d5
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661047"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658296"
 ---
 # <a name="manage-your-onedrive-storage"></a>Mengelola penyimpanan OneDrive Anda
 
-Untuk mengubah default penyimpanan untuk pengguna OneDrive baru dan yang ada:
-  
-- Pergi ke [halaman penyimpanan OneDrive admin center](https://admin.onedrive.com/?v=StorageSettings), dan kemudian masukkan jumlah yang baru di GB.
+Ruang Penyimpanan OneDrive tidak dihitung terhadap keseluruhan kuota penghuni. 
 
-Pengaturan ruang penyimpanan ini berlaku untuk semua pengguna untuk siapa Anda belum menentukan batas penyimpanan tertentu. Untuk mengubah ruang penyimpanan untuk pengguna tertentu, Anda perlu menggunakan Microsoft PowerShell. Untuk informasi tentang cara melakukannya, lihat [mengubah ruang penyimpanan OneDrive pengguna menggunakan PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). Untuk memeriksa berapa banyak penyimpanan Anda menggunakan dalam OneDrive Anda sendiri, lihat [mengelola OneDrive Anda untuk bisnis penyimpanan](https://go.microsoft.com/fwlink/?linkid=866429). Untuk info tentang penyimpanan yang datang dengan setiap pesan, lihat [OneDrive untuk Deskripsi Layanan Bisnis](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Pelajari [cara ruang penyimpanan OneDrive dialokasikan per pengguna/paket](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
+
+Pelajari [berapa banyak penyimpanan yang Anda gunakan di OneDrive Anda](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
+
+Pelajari [cara mendapatkan kuota penyimpanan OneDrive menggunakan PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
+
+Microsoft pada awalnya akan menyediakan 1 TB per pengguna, yang admin dapat meningkat hingga 5 TB per pengguna. Pelajari cara [mengatur ruang penyimpanan default untuk pengguna OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
+
+Pelajari [cara mengubah ruang penyimpanan OneDrive pengguna tertentu](https://docs.microsoft.com/onedrive/change-user-storage).
+
+Pelajari [bagaimana admin global dapat mengatur kuota penyimpanan OneDrive untuk semua pengguna yang menggunakan PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
   

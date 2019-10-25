@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637780"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654259"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Pengaturan lobi kontrol dan tingkat partisipasi
 
@@ -24,7 +24,7 @@ Jika Anda ingin mengizinkan semua orang, termasuk pengguna panggilan masuk, ekst
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Cmdlet ini saat ini memerlukan penggunaan Skype untuk bisnis PowerShell modul. Untuk mendapatkan penyiapan untuk menggunakan cmdlet ini, lihat Mengelola Kebijakan melalui PowerShell.
+Cmdlet ini saat ini memerlukan penggunaan Skype untuk bisnis PowerShell modul. Untuk mendapatkan pengaturan untuk menggunakan cmdlet ini, periksa [mengelola kebijakan melalui PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Anda dapat menyiapkan kebijakan baru, yang kemudian harus diterapkan ke pengguna. Jika Anda mengubah kebijakan global itu secara otomatis akan berlaku untuk pengguna. Untuk setiap perubahan kebijakan, Anda harus menunggu setidaknya 4 jam dan hingga 24 jam agar kebijakan diterapkan.
 
