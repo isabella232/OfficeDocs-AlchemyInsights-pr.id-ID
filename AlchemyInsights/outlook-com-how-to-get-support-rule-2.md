@@ -12,15 +12,15 @@ ms.custom:
 - "1326"
 - "8000080"
 ms.openlocfilehash: 9e77e1bb55477ec1279bd9e0cae5a2f4875afac7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36536474"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="cd049-102">Cara mendapatkan dukungan di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="cd049-102">How to get support in Outlook.com</span></span>
+# <a name="how-to-get-support-in-outlookcom"></a><span data-ttu-id="0505f-102">Cara mendapatkan dukungan di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="0505f-102">How to get support in Outlook.com</span></span>
 
-<span data-ttu-id="cd049-103">Maaf, Outlook.com tidak menawarkan dukungan telepon, tetapi kami memiliki tim khusus yang dapat membantu Anda.</span><span class="sxs-lookup"><span data-stu-id="cd049-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
-<span data-ttu-id="cd049-104">Masukkan pertanyaan Anda atau jelaskan masalah Anda di kotak **bantuan** di atas, lalu pilih **Dapatkan bantuan**.</span><span class="sxs-lookup"><span data-stu-id="cd049-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
+<span data-ttu-id="0505f-103">Maaf, Outlook.com tidak menawarkan dukungan telepon, tetapi kami memiliki tim khusus yang dapat membantu Anda.</span><span class="sxs-lookup"><span data-stu-id="0505f-103">Sorry, Outlook.com doesn't offer phone support, but we do have dedicated teams who can help you.</span></span>
+<span data-ttu-id="0505f-104">Masukkan pertanyaan Anda atau jelaskan masalah Anda di kotak **bantuan** di atas, lalu pilih **Dapatkan bantuan**.</span><span class="sxs-lookup"><span data-stu-id="0505f-104">Enter your question or describe your issue in the **Help** box above, and then select **Get help**.</span></span>
 
-[<span data-ttu-id="cd049-105">Dapatkan bantuan dengan Outlook.com</span><span class="sxs-lookup"><span data-stu-id="cd049-105">Get help with Outlook.com</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="0505f-105">Dapatkan bantuan dengan Outlook.com</span><span class="sxs-lookup"><span data-stu-id="0505f-105">Get help with Outlook.com</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36497590"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="fe588-102">Berkas yang tidak dapat diunggah ke SharePoint online</span><span class="sxs-lookup"><span data-stu-id="fe588-102">Files that can't be uploaded to SharePoint Online</span></span>
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a><span data-ttu-id="e1265-102">Berkas yang tidak dapat diunggah ke SharePoint online</span><span class="sxs-lookup"><span data-stu-id="e1265-102">Files that can't be uploaded to SharePoint Online</span></span>
 
-<span data-ttu-id="fe588-103">Jika file tidak dapat diunggah ke SharePoint online, pastikan:</span><span class="sxs-lookup"><span data-stu-id="fe588-103">If a file won't upload to SharePoint Online, make sure:</span></span>
+<span data-ttu-id="e1265-103">Jika file tidak dapat diunggah ke SharePoint online, pastikan:</span><span class="sxs-lookup"><span data-stu-id="e1265-103">If a file won't upload to SharePoint Online, make sure:</span></span>
   
-- <span data-ttu-id="fe588-104">Ukurannya kurang dari 15 GB.</span><span class="sxs-lookup"><span data-stu-id="fe588-104">It's less than 15 GB in size.</span></span>
+- <span data-ttu-id="e1265-104">Ukurannya kurang dari 15 GB.</span><span class="sxs-lookup"><span data-stu-id="e1265-104">It's less than 15 GB in size.</span></span>
     
-- <span data-ttu-id="fe588-105">Seluruh jalur, termasuk nama berkas, adalah kurang dari 400 karakter.</span><span class="sxs-lookup"><span data-stu-id="fe588-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
+- <span data-ttu-id="e1265-105">Seluruh jalur, termasuk nama berkas, adalah kurang dari 400 karakter.</span><span class="sxs-lookup"><span data-stu-id="e1265-105">The entire path, including the file name, is fewer than 400 characters.</span></span>
     
-- <span data-ttu-id="fe588-106">Nama file tidak berisi karakter " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="fe588-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="fe588-107">/ \ | dan tidak ada dalam daftar [nama yang tidak valid](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="fe588-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
+- <span data-ttu-id="e1265-106">Nama file tidak berisi karakter " \* :? \< \></span><span class="sxs-lookup"><span data-stu-id="e1265-106">The file name doesn't contain the characters " \* : \< \> ?</span></span> <span data-ttu-id="e1265-107">/ \ | dan tidak ada dalam daftar [nama yang tidak valid](https://go.microsoft.com/fwlink/?linkid=866430).</span><span class="sxs-lookup"><span data-stu-id="e1265-107">/ \ | and isn't on the list of [invalid names](https://go.microsoft.com/fwlink/?linkid=866430).</span></span>
     
-<span data-ttu-id="fe588-108">Jika Anda mencoba untuk meng-upload file dengan menggunakan aplikasi desktop OneDrive, lihat [pembatasan dan batasan ketika Anda menyinkronkan berkas dan map](http://go.microsoft.com/fwlink/p/?LinkID=717734) atau [memperbaiki masalah sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="fe588-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="e1265-108">Jika Anda mencoba untuk meng-upload file dengan menggunakan aplikasi desktop OneDrive, lihat [pembatasan dan batasan ketika Anda menyinkronkan berkas dan map](http://go.microsoft.com/fwlink/p/?LinkID=717734) atau [memperbaiki masalah sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="e1265-108">If you're trying to upload the file by using the OneDrive desktop app, see [Restrictions and limitations when you sync files and folders](http://go.microsoft.com/fwlink/p/?LinkID=717734) or [Fix OneDrive sync problems](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
 
