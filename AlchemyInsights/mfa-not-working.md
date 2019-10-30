@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545172"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768840"
 ---
-# <a name="issues-with-mfa"></a>Masalah dengan MFA
-Ada beberapa hal untuk memeriksa apakah pengguna tidak dapat login menggunakan otentikasi multi faktor (MFA)
+# <a name="issues-with-azure-mfa"></a>Masalah dengan Azure MFA
+Ada beberapa hal untuk memeriksa apakah pengguna tidak dapat masuk menggunakan otentikasi multi faktor (MFA)
 
 1. Pengguna yang dipakai mungkin diblokir di Azure Active Directory portal. Jika itu terjadi, otentikasi upaya untuk pengguna khusus tersebut akan secara otomatis ditolak. [Silakan ikuti langkah di artikel ini untuk membukanya.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

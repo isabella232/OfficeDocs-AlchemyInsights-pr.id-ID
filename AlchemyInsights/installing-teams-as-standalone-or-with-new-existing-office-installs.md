@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344206"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768876"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Menginstal teams sebagai mandiri atau dengan penginstalan Office yang baru atau yang sudah ada
 
-Microsoft teams sekarang disertakan sebagai bagian dari *penginstalan baru* Office 365 ProPlus, Office 365 Bisnis, dan Office for Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan penginstalan Office baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams disertakan sebagai bagian dari *penginstalan baru* Office 365 ProPlus, Office 365 Bisnis, dan Office untuk Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan penginstalan Office baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Selain itu, dimulai dengan versi 1906 di bulanan saluran, tim akan *ditambahkan ke penginstalan* Office 365 ProPlus (dan Office 365 bisnis) yang ada di perangkat yang menjalankan Windows saat Anda memperbarui penginstalan yang ada ke versi terbaru. Untuk informasi lebih lanjut, lihat [bagaimana dengan instalasi Office yang ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 

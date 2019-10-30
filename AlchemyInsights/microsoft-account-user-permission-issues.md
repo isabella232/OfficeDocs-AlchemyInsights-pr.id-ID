@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754195"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768804"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Memecahkan masalah-pengguna tidak ditemukan di direktori
 
-Jika pengguna menerima pesan galat "pengguna tidak dapat ditemukan" di dalam direktori. Silakan coba lagi di mana jenis masalah adalah pengguna tidak dalam direktori.
+Jika pengguna menerima pesan galat "pengguna tidak dapat ditemukan" di dalam direktori, silakan coba lagi di mana jenis masalah adalah pengguna tidak dalam direktori.
 
 Langkah berikut ini dapat diselesaikan untuk memecahkan masalah.
 
@@ -29,7 +29,7 @@ Untuk informasi lebih lanjut, lihat [cara mengelola alias untuk</a> akun Microso
 
 Tambahkan "/_layouts/15/People.aspx/membershipgroupid = 0" (dalam tanda kutip ganda) ke akhir URL situs. 
 
-Contoh: https://_ lt_ "contoso">. SharePoint. com/_ Layouts/15/People. aspx/membershipGroupId = 0.
+Contoh: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Pilih pengguna dari daftar.
 

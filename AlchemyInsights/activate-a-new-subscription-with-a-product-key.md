@@ -3,7 +3,6 @@ title: Mengaktifkan langganan baru dengan kunci produk
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495646"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766390"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Mengaktifkan langganan baru dengan kunci produk
 
-1. Untuk mengaktifkan langganan baru dengan kunci produk Anda, pergi ke [https://office.com/setupkey](https://office.com/setupkey) halaman.
+1. Untuk mengaktifkan langganan Office 365 baru dengan kunci produk Anda, kunjungi [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Masukkan kunci produk Office 365 Anda dan ikuti petunjuk untuk mengaktifkan langganan Anda. Jika Anda memiliki masalah dengan aktivasi, memeriksa [Daftar produk kunci kesalahan umum dan solusi](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Masukkan kunci produk Office 365 dan ikuti petunjuk untuk mengaktifkan langganan Anda. Jika Anda memiliki masalah dengan pengaktifan, periksa [Daftar kesalahan dan solusi kunci produk umum](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions)ini.

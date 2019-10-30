@@ -1,5 +1,5 @@
 ---
-title: Memblokir atau membuka Blokir pengirim di Outlook.com
+title: Blokir atau Batalkan pemblokiran pengirim di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643697"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768731"
 ---
 # <a name="block-or-unblock-senders"></a>Memblokir atau membuka Blokir pengirim
 
-Pesan dari alamat email atau domain pada pengirim diblokir Anda pergi langsung ke folder Junk Email Anda. Email akan secara otomatis dihapus dari folder Junk Email setelah 30 hari dan tidak dapat dipulihkan. Se; ect item untuk melihat kapan akan dihapus.
+Pesan dari alamat email atau domain di pengirim yang diblokir akan langsung masuk ke folder email sampah Outlook. Email secara otomatis dihapus dari folder email sampah setelah 30 hari dan tidak dapat dipulihkan. Pilih item untuk melihat kapan akan dihapus.
 
 **Dari kotak masuk:**
 
-- Dalam daftar pesan, pilih pesan dan kemudian pilih **sampah** > **blok**.
-- **Catatan:** Memblokir item sudah dalam folder Junk Email Anda tidak akan menghapus itu.
+- Di daftar pesan, pilih pesan, lalu pilih**blokir** **sampah** > .
+- **Catatan:** Memblokir item yang sudah ada di folder email sampah Anda tidak akan menghapusnya.
 
 **Dari pengaturan:**
 
-1. Membuka pengaturan [e-mail sampah](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. **Pengirim diblokir dan domain**, pilih **Tambah**.
-3. Ketik alamat email dari domain yang Anda inginkan untuk memblokir dan tekan Enter.
+1. Buka pengaturan [email sampah](https://outlook.live.com/mail/options/mail/junkEmail) .
+2. Di bawah **pengirim dan domain yang diblokir**, pilih **Tambahkan**.
+3. Ketik alamat email domain yang ingin Anda blokir dan tekan Enter.
 4. Pilih **Simpan**.
 
-Untuk membuka Blokir pengirim, pilih ikon tempat sampah di sebelah alamat email atau domain yang Anda ingin membuka blokir.
+Untuk membuka Blokir pengirim, pilih ikon sampah di samping alamat email atau domain yang ingin Anda batalkan blokirnya.
 
-Untuk selengkapnya, lihat [menandai email sebagai sampah atau blok pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mempelajari lebih lanjut, lihat [menandai email sebagai junk atau memblokir pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
