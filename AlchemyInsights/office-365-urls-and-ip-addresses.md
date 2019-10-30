@@ -1,5 +1,5 @@
 ---
-title: Kantor 365 URL dan IP alamat
+title: Office 365 URL dan alamat IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522038"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775318"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="07290-102">Kantor 365 URL dan IP alamat rentang</span><span class="sxs-lookup"><span data-stu-id="07290-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="ae10b-102">365 Office URL dan kisaran alamat IP</span><span class="sxs-lookup"><span data-stu-id="ae10b-102">Office 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="07290-103">Kantor 365 memerlukan konektivitas ke Internet.</span><span class="sxs-lookup"><span data-stu-id="07290-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="07290-104">Endpoint dalam artikel ini, [kantor 365 URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), harus dicapai bagi pengguna untuk akses Office 365.</span><span class="sxs-lookup"><span data-stu-id="07290-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
+<span data-ttu-id="ae10b-103">Office 365 memerlukan konektivitas ke Internet melalui alamat IP tertentu yang disebut *Endpoint*.</span><span class="sxs-lookup"><span data-stu-id="ae10b-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="ae10b-104">Untuk daftar akhir yang harus dicapai, lihat [Office 365 URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="ae10b-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+
+<span data-ttu-id="ae10b-105">Office 365 alamat IP dan URL layanan web membantu Anda mengidentifikasi dan membedakan lalu lintas jaringan Office 365 dengan lebih baik, sehingga memudahkan Anda mengevaluasi, mengonfigurasi, dan tetap mengikuti perubahan.</span><span class="sxs-lookup"><span data-stu-id="ae10b-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="ae10b-106">Lihat [Office 365 alamat IP dan layanan web URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="ae10b-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>

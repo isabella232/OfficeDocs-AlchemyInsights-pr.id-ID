@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 6643a13ab0c001d882169d280e7b29e0410b288a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737624"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769738"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="8c63a-102">Membuat dan mengelola kotak pesan Ruangan</span><span class="sxs-lookup"><span data-stu-id="8c63a-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="a5800-102">Membuat dan mengelola kotak pesan Ruangan</span><span class="sxs-lookup"><span data-stu-id="a5800-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="8c63a-103">Untuk membuat dan memodifikasi kotak pesan Ruangan, lihat [membuat dan mengelola kotak pesan ruangan](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="8c63a-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="a5800-103">Untuk membuat dan memodifikasi kotak pesan ruangan di pusat admin Exchange, lihat [membuat dan mengelola kotak pesan ruangan](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="a5800-103">To create and modify room mailboxes in the Exchange admin center, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="8c63a-104">Untuk mempelajari lebih lanjut kotak pesan kamar dan peralatan (juga dikenal sebagai kotak pesan sumber), lihat [kotak pesan kamar dan peralatan](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="8c63a-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="a5800-104">Untuk mempelajari lebih lanjut kotak pesan kamar dan peralatan (juga dikenal sebagai kotak pesan sumber), lihat [kotak pesan kamar dan peralatan](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="a5800-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
