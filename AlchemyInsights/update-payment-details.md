@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660939"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921817"
 ---
 # <a name="update-payment-details"></a>Memperbarui detail pembayaran
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660939"
 4. Buat pembaruan, lalu pilih **Simpan**.
 
 5. Untuk menghapus metode pembayaran ini, pilih **Hapus**.
+
+**Pemecahan masalah**
+
+Jika Anda mengalami masalah saat memuat halaman, coba buka halaman web di browser lain, atau buka halaman menggunakan jendela browser pribadi, seperti jendela InPrivate di Microsoft Edge atau jendela penyamaran di Google Chrome. 
 
 Untuk informasi selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk Bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) dan [Memecahkan masalah kartu kredit dan rekening bank](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
