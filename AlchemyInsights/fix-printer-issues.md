@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: f5ba4a914096efc5849dbbcf9ca8cde43b9b7d38
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
+ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964200"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37976056"
 ---
-# <a name="troubleshoot-your-printer"></a><span data-ttu-id="357c8-102">Memecahkan masalah printer</span><span class="sxs-lookup"><span data-stu-id="357c8-102">Troubleshoot your printer</span></span>
+# <a name="troubleshoot-your-printer"></a><span data-ttu-id="4d90e-102">Memecahkan masalah printer</span><span class="sxs-lookup"><span data-stu-id="4d90e-102">Troubleshoot your printer</span></span>
 
-<span data-ttu-id="357c8-103">Jika Anda mengalami masalah printer, coba lakukan **siklus daya printer**.</span><span class="sxs-lookup"><span data-stu-id="357c8-103">If you're having printer issues, try performing a **printer power cycle**.</span></span> <span data-ttu-id="357c8-104">Ikuti langkah berikut:</span><span class="sxs-lookup"><span data-stu-id="357c8-104">Follow these steps:</span></span>
+<span data-ttu-id="4d90e-103">Jika Anda mengalami masalah pencetak, pertama coba lakukan **siklus daya pencetak**.</span><span class="sxs-lookup"><span data-stu-id="4d90e-103">If you're having printer issues, first try performing a **printer power cycle**.</span></span> <span data-ttu-id="4d90e-104">Ikuti langkah berikut:</span><span class="sxs-lookup"><span data-stu-id="4d90e-104">Follow these steps:</span></span>
 
-1. <span data-ttu-id="357c8-105">Matikan pencetak Anda dan cabut kabel dayanya.</span><span class="sxs-lookup"><span data-stu-id="357c8-105">Turn off your printer and unplug its power cable.</span></span>
-2. <span data-ttu-id="357c8-106">Tunggu 30 detik.</span><span class="sxs-lookup"><span data-stu-id="357c8-106">Wait 30 seconds.</span></span>
-3. <span data-ttu-id="357c8-107">Sambungkan kembali pencetak dan nyalakan kembali pencetak.</span><span class="sxs-lookup"><span data-stu-id="357c8-107">Plug your printer back in and turn the printer back on.</span></span>
+1. <span data-ttu-id="4d90e-105">Matikan pencetak Anda dan cabut kabel dayanya.</span><span class="sxs-lookup"><span data-stu-id="4d90e-105">Turn off your printer and unplug its power cable.</span></span>
+2. <span data-ttu-id="4d90e-106">Tunggu 30 detik.</span><span class="sxs-lookup"><span data-stu-id="4d90e-106">Wait 30 seconds.</span></span>
+3. <span data-ttu-id="4d90e-107">Sambungkan kembali pencetak dan nyalakan kembali pencetak.</span><span class="sxs-lookup"><span data-stu-id="4d90e-107">Plug your printer back in and turn the printer back on.</span></span>
 
-<span data-ttu-id="357c8-108">Jika itu tidak menyelesaikan masalah Anda, menjalankan pemecah masalah printer dengan pergi untuk **memulai** > **pengaturan** > **pembaruan &** > **masalah**keamanan.</span><span class="sxs-lookup"><span data-stu-id="357c8-108">If that didn't solve your problem, run the printer troubleshooter by going to **Start** > **Settings** > **Update & Security** > **Troubleshoot**.</span></span> <span data-ttu-id="357c8-109">Pilih **printer**, dan kemudian pilih **Jalankan pemecah masalah**.</span><span class="sxs-lookup"><span data-stu-id="357c8-109">Select **Printer**, and then select **Run the troubleshooter**.</span></span>
+<span data-ttu-id="4d90e-108">Jika itu tidak menyelesaikan masalah Anda, menjalankan pemecah masalah printer dengan pergi untuk **memulai** > **pengaturan** > **pembaruan &** > **masalah**keamanan.</span><span class="sxs-lookup"><span data-stu-id="4d90e-108">If that didn't solve your problem, run the printer troubleshooter by going to **Start** > **Settings** > **Update & Security** > **Troubleshoot**.</span></span> <span data-ttu-id="4d90e-109">Pilih **printer**, dan kemudian pilih **Jalankan pemecah masalah**.</span><span class="sxs-lookup"><span data-stu-id="4d90e-109">Select **Printer**, and then select **Run the troubleshooter**.</span></span>
