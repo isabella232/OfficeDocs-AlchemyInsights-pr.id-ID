@@ -12,14 +12,14 @@ ms.custom:
 - "2446"
 - "9000610"
 ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37769162"
 ---
-# <a name="what-is-autosave"></a><span data-ttu-id="c886f-102">Apa itu AutoSave?</span><span class="sxs-lookup"><span data-stu-id="c886f-102">What is AutoSave?</span></span>
+# <a name="what-is-autosave"></a><span data-ttu-id="8089f-102">Apa itu AutoSave?</span><span class="sxs-lookup"><span data-stu-id="8089f-102">What is AutoSave?</span></span>
 
-<span data-ttu-id="c886f-103">AutoSave adalah fitur yang tersedia di Excel, Word, dan PowerPoint untuk Office 365 pelanggan yang menyimpan file Anda secara otomatis, setiap beberapa detik, saat Anda bekerja.</span><span class="sxs-lookup"><span data-stu-id="c886f-103">AutoSave is a feature available in Excel, Word, and PowerPoint for Office 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
+<span data-ttu-id="8089f-103">AutoSave adalah fitur yang tersedia di Excel, Word, dan PowerPoint untuk Office 365 pelanggan yang menyimpan file Anda secara otomatis, setiap beberapa detik, saat Anda bekerja.</span><span class="sxs-lookup"><span data-stu-id="8089f-103">AutoSave is a feature available in Excel, Word, and PowerPoint for Office 365 subscribers that saves your file automatically, every few seconds, as you work.</span></span> 
 
-<span data-ttu-id="c886f-104">Untuk pertanyaan yang sering diajukan, lihat [apa itu AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span><span class="sxs-lookup"><span data-stu-id="c886f-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>
+<span data-ttu-id="8089f-104">Untuk pertanyaan yang sering diajukan, lihat [apa itu AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span><span class="sxs-lookup"><span data-stu-id="8089f-104">For frequently asked questions, see [What is AutoSave?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)</span></span>

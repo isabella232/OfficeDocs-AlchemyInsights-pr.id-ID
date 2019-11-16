@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
 ms.openlocfilehash: 0cbf05f9c0121867aa3b24a10c7037d3a189ad22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36498202"
 ---
-# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="cdf97-102">Nama file dan folder tidak valid di OneDrive dan SharePoint</span><span class="sxs-lookup"><span data-stu-id="cdf97-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
+# <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a><span data-ttu-id="b9b72-102">Nama file dan folder tidak valid di OneDrive dan SharePoint</span><span class="sxs-lookup"><span data-stu-id="b9b72-102">Invalid file and folder names in OneDrive and SharePoint</span></span>
 
-<span data-ttu-id="cdf97-103">Karakter ini tidak diperbolehkan dalam nama file dan folder " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="cdf97-103">These characters aren't allowed in file and folder names " \* : \< \> ?</span></span> <span data-ttu-id="cdf97-104">/ \ |</span><span class="sxs-lookup"><span data-stu-id="cdf97-104"></span></span> 
+<span data-ttu-id="b9b72-103">Karakter ini tidak diperbolehkan dalam nama file dan folder " \* : \< \> ?</span><span class="sxs-lookup"><span data-stu-id="b9b72-103">These characters aren't allowed in file and folder names " \* : \< \> ?</span></span> <span data-ttu-id="b9b72-104">/ \ |</span><span class="sxs-lookup"><span data-stu-id="b9b72-104"></span></span> 
   
-<span data-ttu-id="cdf97-105">Beberapa organisasi belum memiliki dukungan untuk # dan% yang diaktifkan.</span><span class="sxs-lookup"><span data-stu-id="cdf97-105">Some organizations don't yet have support for # and % turned on.</span></span> <span data-ttu-id="cdf97-106">Untuk mempelajari cara mengizinkan karakter ini di organisasi Anda, lihat [mengaktifkan dukungan # dan%](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="cdf97-106">To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
+<span data-ttu-id="b9b72-105">Beberapa organisasi belum memiliki dukungan untuk # dan% yang diaktifkan.</span><span class="sxs-lookup"><span data-stu-id="b9b72-105">Some organizations don't yet have support for # and % turned on.</span></span> <span data-ttu-id="b9b72-106">Untuk mempelajari cara mengizinkan karakter ini di organisasi Anda, lihat [mengaktifkan dukungan # dan%](https://go.microsoft.com/fwlink/?linkid=862611).</span><span class="sxs-lookup"><span data-stu-id="b9b72-106">To learn how to allow these characters in your organization, see [Enabling # and % Support](https://go.microsoft.com/fwlink/?linkid=862611).</span></span> 
   
-[<span data-ttu-id="cdf97-107">Info lebih lanjut tentang pembatasan nama file dan folder</span><span class="sxs-lookup"><span data-stu-id="cdf97-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
+[<span data-ttu-id="b9b72-107">Info lebih lanjut tentang pembatasan nama file dan folder</span><span class="sxs-lookup"><span data-stu-id="b9b72-107">More info about file and folder name restrictions</span></span>](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

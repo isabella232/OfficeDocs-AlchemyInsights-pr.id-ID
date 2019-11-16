@@ -8,14 +8,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
 ms.openlocfilehash: 878be4bb0d2f7797340345248d06dff412a72a59
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36755059"
 ---
-# <a name="classification-labels-in-office-365"></a><span data-ttu-id="3cb52-102">Klasifikasi label di Office 365</span><span class="sxs-lookup"><span data-stu-id="3cb52-102">Classification labels in Office 365</span></span>
+# <a name="classification-labels-in-office-365"></a><span data-ttu-id="fb72e-102">Klasifikasi label di Office 365</span><span class="sxs-lookup"><span data-stu-id="fb72e-102">Classification labels in Office 365</span></span>
 
-<span data-ttu-id="3cb52-103">Dengan label sensitivitas atau klasifikasi di Office 365, Anda dapat mengelompokkan dan membantu melindungi konten sensitif, sekaligus memastikan produktivitas dan kemampuan orang lain untuk berkolaborasi tidak terhambat.</span><span class="sxs-lookup"><span data-stu-id="3cb52-103">With sensitivity or classification labels in Office 365, you can classify and help protect your sensitive content, while making sure that your people’s productivity and ability to collaborate isn’t hindered.</span></span>
+<span data-ttu-id="fb72e-103">Dengan label sensitivitas atau klasifikasi di Office 365, Anda dapat mengelompokkan dan membantu melindungi konten sensitif, sekaligus memastikan produktivitas dan kemampuan orang lain untuk berkolaborasi tidak terhambat.</span><span class="sxs-lookup"><span data-stu-id="fb72e-103">With sensitivity or classification labels in Office 365, you can classify and help protect your sensitive content, while making sure that your people’s productivity and ability to collaborate isn’t hindered.</span></span>
 
-<span data-ttu-id="3cb52-104">Untuk informasi lebih lanjut, silakan Tinjau [artikel](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)berikut.</span><span class="sxs-lookup"><span data-stu-id="3cb52-104">For more information please review the following [article](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span></span>
+<span data-ttu-id="fb72e-104">Untuk informasi lebih lanjut, silakan Tinjau [artikel](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)berikut.</span><span class="sxs-lookup"><span data-stu-id="fb72e-104">For more information please review the following [article](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).</span></span>

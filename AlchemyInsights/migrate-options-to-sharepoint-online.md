@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
 ms.openlocfilehash: 5cc179539dfa99be699fdb17b1a21317e482d978
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36753979"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="ccc67-102">Memigrasi opsi ke SharePoint online</span><span class="sxs-lookup"><span data-stu-id="ccc67-102">Migrate options to SharePoint Online</span></span>
+# <a name="migrate-options-to-sharepoint-online"></a><span data-ttu-id="9bab5-102">Memigrasi opsi ke SharePoint online</span><span class="sxs-lookup"><span data-stu-id="9bab5-102">Migrate options to SharePoint Online</span></span>
 
-<span data-ttu-id="ccc67-103">Ada pilihan yang berbeda yang tersedia untuk memigrasi konten ke SharePoint online, tergantung pada ukuran dan kuantitas file yang perlu Anda Pindahkan.</span><span class="sxs-lookup"><span data-stu-id="ccc67-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
+<span data-ttu-id="9bab5-103">Ada pilihan yang berbeda yang tersedia untuk memigrasi konten ke SharePoint online, tergantung pada ukuran dan kuantitas file yang perlu Anda Pindahkan.</span><span class="sxs-lookup"><span data-stu-id="9bab5-103">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move.</span></span>
   
-<span data-ttu-id="ccc67-104">Untuk informasi lebih lanjut, lihat [migrasi ke SharePoint online](https://go.microsoft.com/fwlink/?linkid-2022029)</span><span class="sxs-lookup"><span data-stu-id="ccc67-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
+<span data-ttu-id="9bab5-104">Untuk informasi lebih lanjut, lihat [migrasi ke SharePoint online](https://go.microsoft.com/fwlink/?linkid-2022029)</span><span class="sxs-lookup"><span data-stu-id="9bab5-104">For more information see, [Migrate to SharePoint Online](https://go.microsoft.com/fwlink/?linkid-2022029)</span></span>
   
 
