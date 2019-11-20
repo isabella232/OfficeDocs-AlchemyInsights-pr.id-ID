@@ -1,5 +1,5 @@
 ---
-title: Memindahkan item di pustaka dokumen SharePoint
+title: Memindahkan item di perpustakaan dokumen SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,24 +13,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549042"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711723"
 ---
-# <a name="move-items-in-a-sharepoint-document-library"></a>Memindahkan item di pustaka dokumen SharePoint
+# <a name="move-items-in-a-sharepoint-document-library"></a>Memindahkan item di perpustakaan dokumen SharePoint
 
-Anda dapat memindahkan item ke lokasi yang berbeda dalam perpustakaan dokumen. Jika Anda telah [mengatur opsi rilis target](https://go.microsoft.com/fwlink/?linkid=622980), Anda juga dapat memindahkan item di situs. Bila Anda memindahkan dokumen, sejarah mereka juga akan dipindahkan.
+Anda dapat memindahkan item ke lokasi yang berbeda dalam pustaka dokumen.
   
-1. Di web browser, browse ke file, folder, atau Anda ingin bergerak, dan kemudian klik **pindah ke**link.
+1. Di web browser, Browse ke berkas, folder, atau tautan yang ingin Anda Pindahkan, dan kemudian klik **Pindahkan ke**.
 
     > [!NOTE]
-    > **Pindah ke** tidak tersedia jika Anda menggunakan pengalaman klasik SharePoint Online.
+    > **Pindahkan ke** tidak tersedia jika Anda menggunakan pengalaman klasik SharePoint online.
   
-2. Dalam **Pilih tujuan**, pilih lokasi di mana Anda ingin memindahkan item. Jika Anda sedang bergerak ke situs lain atau subsite dan tidak melihatnya tercantum, klik **Browse situs** untuk melihat daftar lengkap situs yang Anda dapat memindahkan ke.
+2. Di bawah **Pilih tujuan**, pilih lokasi tempat Anda ingin memindahkan item. Jika Anda berpindah ke situs atau sub-situs yang berbeda dan tidak melihatnya tercantum, klik **telusuri situs** untuk melihat daftar lengkap situs yang dapat Anda Pindahkan.
 
-    Untuk membuat folder baru untuk memindahkan file ke, pilih lokasi di hirarki folder, klik **folder baru**, masukkan nama untuk folder, dan klik tanda centang untuk merekam nama.
+    Untuk membuat folder baru untuk memindahkan file, pilih lokasi dalam hierarki folder, klik **folder baru**, masukkan nama untuk folder, dan klik tanda centang untuk menyimpan nama.
 
 3. Klik **pindah di sini**.
+
+ Ketika file bergerak, itu akan tetap muncul di direktori source sampai sepenuhnya dipindahkan ke tujuan, dan kemudian akan dihapus. File akan tetap berada di situs sumber recycle bin setelah bergerak selesai dan tunduk pada jadwal daur ulang normal kecuali pengguna pulih dari Recycle Bin.
+
+Untuk informasi selengkapnya, lihat:
+
+ - [Memindahkan atau menyalin file di SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artikel dukungan Office)
+ - [Memindahkan file dari folder di Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artikel blog komunitas Microsoft Tech) 
