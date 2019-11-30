@@ -11,12 +11,12 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7c60869897cacd688f32b2e8f28b9fcd934aa510
-ms.sourcegitcommit: add3ed8156af0a0a8b2659e906dfd60144346124
+ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37469103"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39626315"
 ---
 # <a name="microsoft-teams-upgrade"></a>Upgrade Microsoft teams
 
@@ -32,4 +32,4 @@ Baik Anda baru saja memulai tim, sudah menggunakan teams bersama Skype for Busin
 
 [Melakukan upgrade dari Skype untuk bisnis lokal ke teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Periksa status Skype untuk bisnis online untuk tim upgrade dengan PowerShell](https://docs.microsoft.com/en-us/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Periksa status Skype untuk bisnis online untuk tim upgrade dengan PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

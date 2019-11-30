@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000664"
 - "2535"
-ms.openlocfilehash: f1caff9ef112042b2bd39e47ec03c587cc87e421
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: ba30c8c65dab430c58b720708bd838dd45a0444f
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654472"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39625811"
 ---
 # <a name="add-users-to-intune"></a>Menambahkan pengguna ke Intune
 
@@ -26,4 +26,4 @@ Administrator dapat mengedit account pengguna untuk menetapkan lisensi Intune. A
 
 Untuk informasi selengkapnya tentang cara menggunakan Microsoft 365 Admin Center, lihat [menambahkan pengguna secara individual atau secara massal untuk microsoft 365 Admin Center](https://support.office.com/article/Add-users-individually-or-in-bulk-to-Office-365-Admin-Help-1970f7d6-03b5-442f-b385-5880b9c256ec).
 
-Untuk informasi selengkapnya tentang cara menggunakan Intune portal, lihat [menambahkan pengguna dan memberikan izin administratif untuk Intune](https://docs.microsoft.com/en-us/intune/fundamentals/users-add).
+Untuk informasi selengkapnya tentang cara menggunakan Intune portal, lihat [menambahkan pengguna dan memberikan izin administratif untuk Intune](https://docs.microsoft.com/intune/fundamentals/users-add).
