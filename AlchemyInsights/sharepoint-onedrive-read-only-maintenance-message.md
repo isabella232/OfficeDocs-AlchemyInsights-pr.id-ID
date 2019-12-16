@@ -1,7 +1,7 @@
 ---
-title: Read-Only untuk pemeliharaan pesan saat mencoba untuk menggunakan SharePoint atau OneDrive
-ms.author: efrene
-author: efrene
+title: Baca-saja untuk pemeliharaan pesan saat berusaha menggunakan SharePoint atau OneDrive
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
-ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
+ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620726"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051284"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only untuk pemeliharaan pesan saat mencoba untuk menggunakan SharePoint atau OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Baca-saja untuk pemeliharaan pesan saat berusaha menggunakan SharePoint atau OneDrive
 
-Pengguna dapat menerima pesan **Read-Only untuk pemeliharaan** saat mencoba untuk menggunakan SharePoint atau OneDrive untuk salah satu skenario berikut. 
+Pengguna akan menerima **baca-saja untuk pesan pemeliharaan** saat mencoba menggunakan SharePoint atau OneDrive untuk salah satu dari skenario berikut ini. 
 
--   Kegiatan pemeliharaan direncanakan atau aktif.  Memeriksa mereka dengan menavigasi ke [Pusat pesan](https://portal.office.com/adminportal/home#/messagecenter).
--   Layanan aktif prioritas tinggi, insiden yang mungkin terjadi. Periksa setiap nasihat/insiden dengan menavigasi ke [Layanan kesehatan](https://portal.office.com/adminportal/home#/servicehealth).
--   Kecil menyembuhkan pemulihan skenario yang mungkin terjadi karena setiap kejadian tak terduga di server yang mungkin bertahan selama kurang dari 30 menit atau lebih. 
+-   Kegiatan pemeliharaan yang direncanakan atau aktif.  Periksa untuk mereka dengan menavigasi ke [pusat pesan](https://portal.office.com/adminportal/home#/messagecenter).
+-   Sebuah kejadian layanan yang aktif dan prioritas tinggi yang mungkin terjadi. Periksa apakah ada saran/insiden dengan menavigasi ke [layanan kesehatan](https://portal.office.com/adminportal/home#/servicehealth).
+-   Sebuah minor pemulihan Auto-penyembuhan skenario yang dapat terjadi karena setiap kejadian tak terduga pada server yang mungkin berlangsung selama kurang dari 30 menit atau lebih. 
     
-    Ada tidak ada pusat pesan atau jasa kesehatan posts untuk pemulihan ini kecil tapi Anda harus kembali ke normal segera.
+    Ada tidak ada pusat pesan atau layanan kesehatan posting untuk pemulihan kecil ini tetapi Anda harus kembali normal segera.
 
-Pada beberapa kesempatan kami mengamati bahwa salah satu dari tiga skenario yang tercantum di atas telah menjadi penyebab, dan layanan telah dikembalikan, tetapi cache browser pengguna belum dibersihkan.
+Pada beberapa kesempatan kami mengamati bahwa salah satu dari tiga skenario yang tercantum di atas telah penyebabnya, dan layanan telah dipulihkan, tetapi cache browser pengguna belum dibersihkan.
 
-Silakan mencoba membersihkan browser cache sebelum menavigasi ke situs.
+Silakan mencoba untuk menghapus cache browser sebelum menavigasi ke situs.
 
-1. Di peramban Microsoft Edge, pilih **pengaturan**, dan kemudian pilih **privasi dan keamanan**.
-2. **Jelas browsing**, pilih **memilih apa yang harus jelas**.
-3. Pilih **kuki dan data situs web tersimpan**, dan pilih **jelas**.
-
->[!Note] 
-> Langkah-langkah ini mungkin berbeda dengan menggunakan peramban lainnya, seperti Mozilla Firefox atau Google Chrome.
+1. Di browser Microsoft Edge Anda, pilih **pengaturan**, dan kemudian pilih **privasi dan keamanan**.
+2. Di bawah **browsing yang jelas**, pilih **pilih apa yang harus jelas**.
+3. Pilih **cookie dan data situs web yang disimpan**, lalu pilih **Hapus**.
 
 >[!Note] 
-> Pilihan lain adalah untuk membuka situs SharePoint atau OneDrive di jendela InPrivate baru.
+> Langkah ini mungkin berbeda ketika menggunakan browser lain seperti Mozilla Firefox atau Google Chrome.
+
+>[!Note] 
+> Pilihan lain akan membuka situs SharePoint atau OneDrive di jendela InPrivate baru.
