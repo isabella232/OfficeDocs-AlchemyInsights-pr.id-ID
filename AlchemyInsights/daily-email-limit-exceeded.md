@@ -1,9 +1,8 @@
 ---
-title: Batas harian email melebihi. Alur kerja ini ditangguhkan.
-ms.author: efrene
-author: efrene
+title: Melebihi batas email harian. Alur kerja ditangguhkan.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514459"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053120"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Email harian yang melebihi batas. Alur kerja ini ditangguhkan.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Melebihi batas email harian. Alur kerja ditangguhkan.
 
-Kesalahan ini dapat diterima dalam skenario berikut:
+Galat ini mungkin diterima dalam skenario berikut:
 
-- Anda memiliki alur kerja di SharePoint Online yang menggunakan SharePoint 2010 atau jenis platform SharePoint 2013 alur kerja.
-- Alur kerja dikonfigurasi untuk mengirim pesan email kustom ke lebih dari 200 pengguna pada suatu waktu, lebih dari 10.000 Penerima per hari atau lebih dari 30 pesan per menit.
-- Ketika Anda menjalankan alur kerja, pesan email tidak dikirim, dan Anda melihat aktivitas berikut:
-    - Untuk alur kerja menggunakan jenis platform SharePoint 2013, Anda browse ke halaman **Alur kerja Status** . Pada halaman Status alur kerja, **Internal Status** diatur untuk **memulai**, dan menampilkan informasi balon **gagal mengirim ke penerima**.
+- Anda memiliki alur kerja di SharePoint online yang menggunakan jenis platform alur kerja SharePoint 2010 atau SharePoint 2013.
+- Alur kerja dikonfigurasi untuk mengirim pesan email kustom untuk lebih dari 200 pengguna pada waktu, lebih dari 10.000 Penerima per hari, atau lebih dari 30 pesan per menit.
+- Ketika Anda menjalankan alur kerja, pesan email tidak dikirim, dan Anda melihat perilaku berikut ini:
+    - Untuk alur kerja menggunakan jenis platform SharePoint 2013, menjelajah ke halaman **status alur kerja** . Pada halaman status alur kerja, **status internal** diatur untuk **memulai**, dan informasi balon menampilkan **tidak dapat mengirim ke penerima**.
 
-Untuk mengatasi masalah ini, konfigurasikan alur kerja Anda untuk mengirim pesan email tanpa melebihi [batas pengirim Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Misalnya, menggunakan jeda dalam alur kerja, kirim email ke Office 365 grup, grup distribusi, atau grup mail diaktifkan keamanan, atau mengirim pesan ke kurang dari 200 Penerima pada suatu waktu.
+Untuk mengatasi masalah ini, konfigurasikan alur kerja Anda untuk mengirim pesan email tanpa melebihi [batas pengirim Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Misalnya, gunakan jeda di alur kerja, mengirim email ke grup 365 Office, grup distribusi atau grup keamanan Surat diaktifkan, atau mengirim pesan ke kurang dari 200 Penerima pada waktu.
 
 
-Untuk informasi lebih lanjut, lihat [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)berikut.
+Untuk informasi selengkapnya, lihat [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)berikut ini.
 
 ## <a name="related-topics"></a>Topik terkait
-- [Menciptakan aliran](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Membuat Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint dan aliran](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

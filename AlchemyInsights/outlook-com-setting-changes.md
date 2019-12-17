@@ -1,7 +1,7 @@
 ---
 title: Pengaturan Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386368"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053264"
 ---
 # <a name="settings-in-outlookcom"></a>Pengaturan di Outlook.com
 
-Jika penerima internal atau eksternal untuk organisasi Anda dan jika mereka menggunakan Office 365 atau akun email Outlook.com, klien berikut tidak harus melakukan sesuatu yang khusus untuk membuka pesan: **outlook 2016, Outlook di Web/Outlook Web App, Aplikasi seluler Outlook**
+Jika penerima internal atau eksternal untuk organisasi Anda dan jika mereka menggunakan Office 365 atau akun email Outlook.com, klien berikut tidak harus melakukan sesuatu yang khusus untuk membuka pesan: **outlook 2016, Outlook di Web/Outlook Web App, Outlook aplikasi seluler**
 
 **Delegasi** pengguna yang dilindungi email dikirim ke, tidak dapat membuka pesan yang dilindungi. Hanya Penerima asli (orang yang mengirim email yang dilindungi) dapat melihat informasi dalam email.
 

@@ -1,19 +1,19 @@
 ---
 title: Masalah izin saat bermigrasi
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 95bfbfdf002e457230479a860058c1cf7ab1f8c2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752611"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054417"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Profil pengguna dan sinkronisasi foto
 
@@ -25,6 +25,6 @@ Untuk informasi selengkapnya tentang proses sinkronisasi foto, lihat [informasi 
   
 Untuk informasi selengkapnya tentang proses sinkronisasi profil, lihat [informasi tentang sinkronisasi profil pengguna di SharePoint online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Pemutakhiran profil di Office Delve** -Delve pengguna dapat mengelola mereka Office 365 profil. Untuk informasi selengkapnya, lihat [Lihat dan perbarui profil Anda di Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Pemutakhiran profil di Office Delve** -Delve pengguna dapat mengelola mereka Office 365 profil. Untuk informasi lebih lanjut, lihat [Lihat dan perbarui profil Anda di Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

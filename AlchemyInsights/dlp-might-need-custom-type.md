@@ -1,7 +1,7 @@
 ---
-title: DLP mungkin perlu jenis kustom
-ms.author: stephow
-author: stephow-MSFT
+title: DLP mungkin memerlukan jenis khusus
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530354"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052904"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP mungkin perlu jenis kustom
+# <a name="dlp-might-need-a-custom-type"></a>DLP mungkin memerlukan jenis khusus
 
-Dengan kebijakan pencegahan (DLP) kehilangan data, Anda dapat mengidentifikasi dan melindungi data yang sensitif di organisasi Anda. Dalam beberapa skenario, Anda mungkin perlu membuat jenis informasi sensitif **kustom** Anda sendiri untuk melindungi data organisasi Anda.
+Dengan kebijakan pencegahan kehilangan data (DLP), Anda dapat mengidentifikasi dan melindungi data sensitif di organisasi Anda. Dalam beberapa skenario, Anda mungkin perlu membuat jenis informasi sensitif **kustom** sendiri untuk melindungi data organisasi Anda.
 
-Misalnya, organisasi Anda mungkin perlu untuk mengidentifikasi dan melindungi karyawan id atau data lain dalam beberapa format yang khusus untuk organisasi Anda Jika demikian, lihat artikel berikut untuk informasi lebih lanjut.
+Misalnya, organisasi Anda mungkin perlu mengidentifikasi dan melindungi id karyawan atau data lain dalam beberapa format khusus untuk organisasi Anda. Jika demikian, lihat artikel berikut untuk informasi lebih lanjut.
   
- **Menyesuaikan informasi sensitif built-in tipe**
+ **Menyesuaikan jenis informasi sensitif internal**
   
-Jika jenis built-in informasi sensitif yang akan memenuhi kebutuhan Anda dengan hanya beberapa tweak, Anda dapat [menyesuaikan informasi sensitif built-in tipe](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Misalnya, Anda dapat menambahkan atau menghapus kata kunci, atau menambahkan atau menghapus bukti yang mendukung seperti tanggal atau alamat.
+Jika jenis informasi sensitif internal akan memenuhi kebutuhan Anda hanya dengan beberapa tweak, Anda dapat [menyesuaikan jenis informasi sensitif internal](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Misalnya, Anda dapat menambahkan atau menghapus kata kunci, atau menambahkan atau menghapus bukti pendukung seperti tanggal atau alamat.
   
  **Membuat jenis informasi sensitif kustom**
   
-Tetapi jika Anda perlu untuk mengidentifikasi dan melindungi jenis informasi sensitif yang berbeda sama sekali, Anda dapat [membuat jenis kustom informasi sensitif](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) di UI dari & keamanan Compliance Center.
+Namun, jika Anda perlu mengidentifikasi dan melindungi berbagai jenis informasi sensitif sama sekali, Anda dapat [membuat jenis informasi sensitif kustom](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) di UI pusat kepatuhan & keamanan.
   
-**Membuat jenis informasi sensitif kustom dalam keamanan & kepatuhan pusat PowerShell**
+**Membuat jenis informasi sensitif kustom di keamanan & kepatuhan pusat PowerShell**
 
-Akhirnya, jika UI tidak menyediakan semua opsi yang Anda butuhkan, Anda dapat [membuat jenis informasi sensitif kustom dalam keamanan & kepatuhan pusat PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Dengan memulai dengan sebuah file XML, Anda dapat menggunakan semua pilihan yang tersedia.
+Akhirnya, jika UI tidak menyediakan semua pilihan yang Anda butuhkan, Anda dapat [membuat jenis informasi sensitif kustom di keamanan & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Dengan memulai dengan sebuah file XML, Anda dapat menggunakan setiap pilihan yang tersedia.
