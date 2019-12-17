@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665347"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068285"
 ---
 # <a name="change-payment-method"></a>Mengubah metode pembayaran
 
-Anda dapat memverifikasi dan mengubah metode pembayaran yang dikonfigurasi di Microsoft 365 admin center. Memilih berlangganan yang Anda inginkan untuk memverifikasi. Metode pembayaran yang dikonfigurasi untuk berlangganan muncul di **tagihan**. 
+Anda dapat memverifikasi dan mengubah metode pembayaran yang dikonfigurasi di Microsoft 365 Admin Center. Pilih langganan yang ingin diverifikasi. Metode pembayaran yang dikonfigurasi untuk langganan akan muncul pada **penagihan**.
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Di samping metode pembayaran untuk berlangganan yang Anda ingin mengubah metode pembayaran, pilih **Edit**.
+2. Cari langganan yang ingin Anda ubah metode pembayarannya. Di samping metode pembayaran, pilih **Edit**.
 
-3. Ikuti langkah-langkah pada layar untuk menyelesaikan perubahan.
+3. Ikuti langkah di layar untuk menyelesaikan perubahan.
 
-Apakah Anda menggunakan di lama admin center? Langkah-langkah yang lama, atau untuk mempelajari lebih lanjut, lihat [mengubah metode pembayaran Anda untuk Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Untuk mempelajari lebih lanjut, lihat [mengubah metode pembayaran untuk Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

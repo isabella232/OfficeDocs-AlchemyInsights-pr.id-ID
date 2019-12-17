@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 5fdbb315698a58145e5437b0a7b127ce0062a76f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
+ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048619"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "40065561"
 ---
 # <a name="sharepoint-online-throttling"></a>Pelambatan SharePoint online
 
 Pengguna akan menerima 503 server sibuk galat saat berusaha menavigasi ke situs SharePoint atau OneDrive. 
 
-Galat ini dapat disebabkan oleh pelambatan dalam Layanan SharePoint. SharePoint Online menggunakan pelambatan untuk mempertahankan kinerja optimal dan keandalan Layanan SharePoint online. Pelambatan membatasi jumlah tindakan pengguna atau panggilan bersamaan (dengan skrip atau kode) untuk mencegah penggunaan sumber daya berlebihan. Jika Anda mendapatkan throttled, 99% dari waktu itu karena kode kustom.
+Galat ini dapat disebabkan oleh pelambatan dalam Layanan SharePoint. SharePoint Online menggunakan pelambatan untuk mempertahankan kinerja optimal dan keandalan Layanan SharePoint online. Pelambatan membatasi jumlah tindakan pengguna atau panggilan bersamaan (dengan skrip atau kode) untuk mencegah penggunaan sumber daya berlebihan. 
 
 Untuk informasi lebih lanjut tentang pelambatan Lihat, [Hindari mendapatkan mengalami kelambatan atau diblokir di SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
