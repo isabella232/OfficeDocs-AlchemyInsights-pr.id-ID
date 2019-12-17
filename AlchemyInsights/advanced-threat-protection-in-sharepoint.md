@@ -1,7 +1,7 @@
 ---
-title: Perlindungan canggih ancaman di SharePoint dan OneDrive
-ms.author: efrene
-author: efrene
+title: Perlindungan ancaman tingkat lanjut di SharePoint dan OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,23 +12,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4043e9716ebdf5236df7ec0ead32d1a738fbc23
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493882"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050420"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Perlindungan canggih ancaman (ATP) dalam SharePoint dan OneDrive
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>Advanced ancaman Protection (ATP) di SharePoint dan OneDrive
 
-Lihat berikut ini:
+Lihat yang berikut ini:
 - [ATP untuk SharePoint, OneDrive dan tim](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Deteksi ancaman Explorer dan Realtime](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Threat Explorer dan realtime deteksi](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 
 Informasi tambahan:
 
 - [Deteksi Virus di SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Enkripsi data di ODB dan SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Melindungi data Anda dalam SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [Ransomware Deteksi dan memulihkan file](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [Enkripsi data dalam ODB dan SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Menjaga data Anda di SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [Deteksi Ransomware dan memulihkan file](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

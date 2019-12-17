@@ -1,7 +1,7 @@
 ---
 title: Memulai dengan SharePoint online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 74ac6eb23552ccd70de3efabeb2eed7caf249dba
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 6ecd33e81f9918c5b4baac8da264ad79773a20f9
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750127"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044206"
 ---
 # <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigasi situs dan halaman di situs SharePoint
 
-Prinsip dasar dan praktik yang baik untuk navigasi situs dan halaman sama-sama berlaku untuk arsitektur SharePoint klasik dan modern. Namun, pilihan Anda untuk menerapkan navigasi berbeda berdasarkan kerangka kerja untuk situs dan Intranet Anda. Sebagai contoh, pengalaman navigasi diwariskan tersedia di hierarki situs SharePoint klasik (situs dengan sub situs) tidak tersedia dalam pengalaman modern, tetapi [situs hub](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) menyediakan cara yang bagus untuk mencapai fitur navigasi lintas situs sebelumnya tersedia dalam navigasi terkelola dan hierarki situs di klasik SharePoint.
+Prinsip dasar dan praktik yang baik untuk navigasi situs dan halaman sama-sama berlaku untuk arsitektur SharePoint klasik dan modern. Namun, pilihan Anda untuk menerapkan navigasi berbeda berdasarkan kerangka kerja untuk situs dan Intranet Anda. Sebagai contoh, pengalaman navigasi diwariskan tersedia di hierarki situs SharePoint klasik (situs dengan sub situs) tidak tersedia dalam pengalaman modern, tetapi [hub situs](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) menyediakan cara yang bagus untuk mencapai fitur navigasi lintas situs yang sebelumnya tersedia di terkelola navigasi dan hierarki situs di klasik SharePoint.
 
  Untuk informasi lebih lanjut tentang pilihan navigasi, silakan kunjungi link di bawah ini.
 
