@@ -1,7 +1,7 @@
 ---
-title: DLP mungkin perlu jenis kustom
-ms.author: stephow
-author: stephow-MSFT
+title: DLP mungkin memerlukan jenis khusus
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530354"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052904"
 ---
-# <a name="dlp-might-need-a-custom-type"></a><span data-ttu-id="f672e-102">DLP mungkin perlu jenis kustom</span><span class="sxs-lookup"><span data-stu-id="f672e-102">DLP might need a custom type</span></span>
+# <a name="dlp-might-need-a-custom-type"></a><span data-ttu-id="26fcd-102">DLP mungkin memerlukan jenis khusus</span><span class="sxs-lookup"><span data-stu-id="26fcd-102">DLP might need a custom type</span></span>
 
-<span data-ttu-id="f672e-103">Dengan kebijakan pencegahan (DLP) kehilangan data, Anda dapat mengidentifikasi dan melindungi data yang sensitif di organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="f672e-103">With a data loss prevention (DLP) policy, you can identify and protect sensitive data in your organization.</span></span> <span data-ttu-id="f672e-104">Dalam beberapa skenario, Anda mungkin perlu membuat jenis informasi sensitif **kustom** Anda sendiri untuk melindungi data organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="f672e-104">In some scenarios, you might need to create your own **custom** sensitive information type to protect your organization's data.</span></span>
+<span data-ttu-id="26fcd-103">Dengan kebijakan pencegahan kehilangan data (DLP), Anda dapat mengidentifikasi dan melindungi data sensitif di organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="26fcd-103">With a data loss prevention (DLP) policy, you can identify and protect sensitive data in your organization.</span></span> <span data-ttu-id="26fcd-104">Dalam beberapa skenario, Anda mungkin perlu membuat jenis informasi sensitif **kustom** sendiri untuk melindungi data organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="26fcd-104">In some scenarios, you might need to create your own **custom** sensitive information type to protect your organization's data.</span></span>
 
-<span data-ttu-id="f672e-105">Misalnya, organisasi Anda mungkin perlu untuk mengidentifikasi dan melindungi karyawan id atau data lain dalam beberapa format yang khusus untuk organisasi Anda Jika demikian, lihat artikel berikut untuk informasi lebih lanjut.</span><span class="sxs-lookup"><span data-stu-id="f672e-105">For example, your organization might need to identify and protect employee IDs or other data in some format specific to your org. If so, see the following articles for more information.</span></span>
+<span data-ttu-id="26fcd-105">Misalnya, organisasi Anda mungkin perlu mengidentifikasi dan melindungi id karyawan atau data lain dalam beberapa format khusus untuk organisasi Anda. Jika demikian, lihat artikel berikut untuk informasi lebih lanjut.</span><span class="sxs-lookup"><span data-stu-id="26fcd-105">For example, your organization might need to identify and protect employee IDs or other data in some format specific to your org. If so, see the following articles for more information.</span></span>
   
- <span data-ttu-id="f672e-106">**Menyesuaikan informasi sensitif built-in tipe**</span><span class="sxs-lookup"><span data-stu-id="f672e-106">**Customize a built-in sensitive information type**</span></span>
+ <span data-ttu-id="26fcd-106">**Menyesuaikan jenis informasi sensitif internal**</span><span class="sxs-lookup"><span data-stu-id="26fcd-106">**Customize a built-in sensitive information type**</span></span>
   
-<span data-ttu-id="f672e-107">Jika jenis built-in informasi sensitif yang akan memenuhi kebutuhan Anda dengan hanya beberapa tweak, Anda dapat [menyesuaikan informasi sensitif built-in tipe](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="f672e-107">If a built-in sensitive information type would meet your needs with just a few tweaks, you can [customize a built-in sensitive information type](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span></span> <span data-ttu-id="f672e-108">Misalnya, Anda dapat menambahkan atau menghapus kata kunci, atau menambahkan atau menghapus bukti yang mendukung seperti tanggal atau alamat.</span><span class="sxs-lookup"><span data-stu-id="f672e-108">For example, you can add or remove keywords, or add or remove supporting evidence such as a date or address.</span></span>
+<span data-ttu-id="26fcd-107">Jika jenis informasi sensitif internal akan memenuhi kebutuhan Anda hanya dengan beberapa tweak, Anda dapat [menyesuaikan jenis informasi sensitif internal](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span><span class="sxs-lookup"><span data-stu-id="26fcd-107">If a built-in sensitive information type would meet your needs with just a few tweaks, you can [customize a built-in sensitive information type](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type).</span></span> <span data-ttu-id="26fcd-108">Misalnya, Anda dapat menambahkan atau menghapus kata kunci, atau menambahkan atau menghapus bukti pendukung seperti tanggal atau alamat.</span><span class="sxs-lookup"><span data-stu-id="26fcd-108">For example, you can add or remove keywords, or add or remove supporting evidence such as a date or address.</span></span>
   
- <span data-ttu-id="f672e-109">**Membuat jenis informasi sensitif kustom**</span><span class="sxs-lookup"><span data-stu-id="f672e-109">**Create a custom sensitive information type**</span></span>
+ <span data-ttu-id="26fcd-109">**Membuat jenis informasi sensitif kustom**</span><span class="sxs-lookup"><span data-stu-id="26fcd-109">**Create a custom sensitive information type**</span></span>
   
-<span data-ttu-id="f672e-110">Tetapi jika Anda perlu untuk mengidentifikasi dan melindungi jenis informasi sensitif yang berbeda sama sekali, Anda dapat [membuat jenis kustom informasi sensitif](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) di UI dari & keamanan Compliance Center.</span><span class="sxs-lookup"><span data-stu-id="f672e-110">But if you need to identify and protect a different type of sensitive information altogether, you can [create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in the UI of the Security & Compliance Center.</span></span>
+<span data-ttu-id="26fcd-110">Namun, jika Anda perlu mengidentifikasi dan melindungi berbagai jenis informasi sensitif sama sekali, Anda dapat [membuat jenis informasi sensitif kustom](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) di UI pusat kepatuhan & keamanan.</span><span class="sxs-lookup"><span data-stu-id="26fcd-110">But if you need to identify and protect a different type of sensitive information altogether, you can [create a custom sensitive information type](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) in the UI of the Security & Compliance Center.</span></span>
   
-<span data-ttu-id="f672e-111">**Membuat jenis informasi sensitif kustom dalam keamanan & kepatuhan pusat PowerShell**</span><span class="sxs-lookup"><span data-stu-id="f672e-111">**Create a custom sensitive information type in Security & Compliance Center PowerShell**</span></span>
+<span data-ttu-id="26fcd-111">**Membuat jenis informasi sensitif kustom di keamanan & kepatuhan pusat PowerShell**</span><span class="sxs-lookup"><span data-stu-id="26fcd-111">**Create a custom sensitive information type in Security & Compliance Center PowerShell**</span></span>
 
-<span data-ttu-id="f672e-112">Akhirnya, jika UI tidak menyediakan semua opsi yang Anda butuhkan, Anda dapat [membuat jenis informasi sensitif kustom dalam keamanan & kepatuhan pusat PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span><span class="sxs-lookup"><span data-stu-id="f672e-112">Finally, if the UI doesn't provide all the options you need, you can [create a custom sensitive information type in Security & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span></span> <span data-ttu-id="f672e-113">Dengan memulai dengan sebuah file XML, Anda dapat menggunakan semua pilihan yang tersedia.</span><span class="sxs-lookup"><span data-stu-id="f672e-113">By starting with an XML file, you can use every option available.</span></span>
+<span data-ttu-id="26fcd-112">Akhirnya, jika UI tidak menyediakan semua pilihan yang Anda butuhkan, Anda dapat [membuat jenis informasi sensitif kustom di keamanan & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span><span class="sxs-lookup"><span data-stu-id="26fcd-112">Finally, if the UI doesn't provide all the options you need, you can [create a custom sensitive information type in Security & Compliance Center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell).</span></span> <span data-ttu-id="26fcd-113">Dengan memulai dengan sebuah file XML, Anda dapat menggunakan setiap pilihan yang tersedia.</span><span class="sxs-lookup"><span data-stu-id="26fcd-113">By starting with an XML file, you can use every option available.</span></span>
