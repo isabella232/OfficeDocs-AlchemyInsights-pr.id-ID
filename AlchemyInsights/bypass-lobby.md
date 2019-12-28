@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626351"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889085"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Pengaturan lobi kontrol dan tingkat partisipasi
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Pengaturan lobi kontrol dan tingkat partisipasi di teams
 
-Jika Anda ingin mengizinkan semua orang, termasuk pengguna panggilan masuk, eksternal, dan anonim untuk melewati lobi di Microsoft teams, Anda dapat menggunakan PowerShell untuk melakukannya. Berikut adalah contoh memodifikasi Kebijakan pertemuan global untuk organisasi Anda:
+Jika Anda ingin mengizinkan semua orang, termasuk pengguna panggilan masuk, eksternal, dan anonim, untuk **melewati lobi**, gunakan PowerShell untuk menyelesaikan tugas ini. Berikut adalah contoh memodifikasi Kebijakan pertemuan global untuk organisasi Anda.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
 Cmdlet ini saat ini memerlukan penggunaan Skype untuk bisnis PowerShell modul. Untuk mendapatkan pengaturan untuk menggunakan cmdlet ini, periksa [mengelola kebijakan melalui PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Anda dapat menyiapkan kebijakan baru, yang kemudian harus diterapkan ke pengguna. Jika Anda mengubah kebijakan global itu secara otomatis akan berlaku untuk pengguna. Untuk setiap perubahan kebijakan, Anda harus menunggu setidaknya 4 jam dan hingga 24 jam agar kebijakan diterapkan.
+Setelah Anda menyiapkan kebijakan, Anda harus menerapkannya pada pengguna; atau, jika Anda memodifikasi Kebijakan global, maka secara otomatis akan berlaku untuk pengguna. Untuk setiap perubahan kebijakan, Anda harus menunggu setidaknya **4 jam hingga 24 jam** agar kebijakan diterapkan. 
 
 Pastikan untuk meninjau dokumentasi di bawah ini sebelum membuat perubahan ini untuk memahami dengan tepat apa yang memungkinkan ini.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Memahami kontrol Kebijakan lobi Rapat tim
+
+Pengaturan ini mengontrol yang peserta pertemuan menunggu di lobi sebelum mereka diterima Rapat dan tingkat partisipasi mereka diperbolehkan dalam pertemuan. Anda dapat menggunakan PowerShell untuk memperbarui pengaturan kebijakan pertemuan yang belum diterapkan (berlabel "segera hadir") di pusat admin teams. Lihat di bawah ini untuk contoh PowerShell cmdlet yang memungkinkan semua pengguna untuk melewati lobi.
 
 - [Secara otomatis mengakui orang](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) adalah kebijakan per penyelenggara yang mengontrol apakah orang bergabung dengan Rapat secara langsung atau menunggu di lobi sampai mereka diterima oleh pengguna yang diotentikasi.
 
