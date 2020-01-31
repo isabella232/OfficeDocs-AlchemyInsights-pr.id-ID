@@ -11,24 +11,22 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: cc19fcb6603160032dac52b1ec9e194a90b7891f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049520"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571263"
 ---
 # <a name="unable-to-delete-items"></a>Tidak dapat menghapus item
 
-Setelah masalah menghapus item SharePoint?
+Kebijakan retensi dapat menyebabkan ini, Anda perlu menonaktifkan atau mengecualikan masing-masing memegang yang menyebabkan masalah ini. Setelah kebijakan retensi atau tahan dihapus, mungkin diperlukan waktu hingga 24 jam agar perubahan diterapkan. Pastikan bahwa tidak ada pengaturan [kebijakan penyimpanan](https://docs.microsoft.com/office365/securitycompliance/retention-policies) pada item.
 
-- Selalu pastikan Anda memiliki izin yang [sesuai](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) untuk menghapus item atau meminta [administrator kumpulan situs](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-change-or-remove-a-site-collection-administrator) mencoba menghapus item.
+Situs mungkin telah melebihi batas penyimpanan, meningkatkan [kuota situs](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) dan menghapus item.
 
-- Pastikan bahwa tidak ada pengaturan [kebijakan penyimpanan](https://docs.microsoft.com/office365/securitycompliance/retention-policies) pada item.
+Pastikan item tidak [diperiksa](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) ke pengguna lain.
 
-- Pastikan item tidak [diperiksa](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) ke pengguna lain.
-
-- Akhirnya, administrator dapat menggunakan [pola dan praktik SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) yang berisi pustaka perintah PowerShell yang memungkinkan Anda untuk melakukan tindakan manajemen yang kompleks seperti memaksa menghapus item yang membandel.
+Akhirnya, administrator dapat menggunakan [pola dan praktik SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps#installation) (PNP) yang berisi pustaka perintah PowerShell yang memungkinkan Anda untuk melakukan tindakan manajemen yang kompleks seperti memaksa menghapus item yang membandel.
 - [Hapus berkas PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfile?view=sharepoint-ps)
 - [Hapus folder PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnpfolder?view=sharepoint-ps)
 - [Hapus item daftar PNP](https://docs.microsoft.com/powershell/module/sharepoint-pnp/remove-pnplistitem?view=sharepoint-ps)
