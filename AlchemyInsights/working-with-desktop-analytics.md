@@ -1,5 +1,5 @@
 ---
-title: Bagaimana menutup akun Desktop Analytics
+title: Cara menutup akun desktop Analytics
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800412"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771110"
 ---
-# <a name="working-with-desktop-analytics"></a>Bekerja dengan Desktop Analytics
+# <a name="working-with-desktop-analytics"></a>Bekerja dengan desktop Analytics
 
-Sepertinya Anda bertanya tentang Desktop Analytics. Kita mungkin dapat membantu dengan jawaban yang lebih tepat jika Anda ulang kata-kata pertanyaan Anda.
+Sepertinya Anda bertanya tentang desktop Analytics. Kami mungkin dapat membantu dengan jawaban yang lebih tepat jika Anda ulang kata pertanyaan Anda.
 
-- [Apakah Desktop Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Cara mengatur Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Tanya Jawab](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Memecahkan Desktop Analytics](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Apa itu desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Cara mengatur desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Tanya Jawab](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Memecahkan masalah desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

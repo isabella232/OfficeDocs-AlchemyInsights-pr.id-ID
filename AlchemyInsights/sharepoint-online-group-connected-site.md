@@ -10,30 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051104"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770354"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Masalah saat membuat atau grup terhubung situs di SharePoint online
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Masalah saat membuat grup terhubung situs di SharePoint
 
-Ada beberapa masalah umum yang dihadapi saat membuat atau membuat ulang grup situs yang terhubung.
+1. Beberapa masalah umum yang dihadapi saat membuat atau membuat ulang grup situs yang terhubung.
+Jika Anda telah menghapus grup dan situs yang terhubung dan ingin membuat situs lain dengan URL yang sama, Anda harus menghapus situs sebelumnya secara permanen.
 
- Jika Anda telah menghapus grup dan situs yang terhubung dan ingin membuat situs lain dengan URL yang sama, Anda harus menghapus situs sebelumnya secara permanen.
+   - Unduh [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Untuk informasi lebih lanjut tentang cara memulai dengan PowerShell, lihat memulai [SharePoint online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
+   - Menghapus situs dari situs dihapus menggunakan cmdlet PowerShell [Hapus-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) . PowerShell diperlukan untuk menghapus secara permanen situs grup.
 
-Unduh [SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+1. Jika Anda membuat grup situs yang terhubung dan menerima peringatan: **grup lain dengan alias yang sama sudah ada**, periksa grup yang ada dari [Office 365 dari Pusat admin](https://admin.microsoft.com/AdminPortal/Home#/groups). Untuk mengatasi masalah ini, Hapus grup yang ada jika tidak lagi diperlukan atau membuat situs dengan alias lain yang ditetapkan.
 
- Untuk informasi lebih lanjut tentang memulai dengan PowerShell, lihat memulai [SharePoint online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+1. Ada berbagai cara untuk membuat dan menggunakan grup modern dengan SharePoint.
 
-Menghapus situs dari situs dihapus menggunakan cmdlet PowerShell [Hapus-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) .
-
-Jika Anda membuat grup situs yang terhubung dan menerima peringatan grup lain dengan alias yang sama sudah ada, periksa grup yang ada dari [Office 365 dari Pusat admin](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Untuk mengatasi masalah ini, Hapus grup yang ada jika tidak lagi diperlukan atau membuat situs dengan alias lain yang ditetapkan.
-
-Ada berbagai cara untuk membuat dan menggunakan grup modern dengan SharePoint.
-
-Anda dapat menghubungkan situs yang ada ke grup 365 Office. Untuk informasi lebih lanjut, lihat [menyambungkan grup 365 Office menggunakan pengguna SharePoint ineterface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-
-Untuk membuat situs Office 365 grup yang terhubung, Anda harus membuat situs tim. Untuk informasi lebih lanjut, lihat [membuat tim situs di SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
-
+   - Anda dapat menghubungkan situs yang ada ke grup 365 Office. Untuk informasi lebih lanjut, lihat [menyambungkan grup 365 Office menggunakan antarmuka pengguna SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Untuk membuat situs yang terhubung ke grup Office 365, Anda harus membuat [situs tim](https://admin.microsoft.com/sharepoint).

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052472"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770426"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Membuat situs SharePoint menggunakan template
 
-Template situs SharePoint adalah definisi prebuilt yang dirancang di sekitar kebutuhan bisnis tertentu. Untuk informasi lebih lanjut, lihat [menggunakan template untuk membuat berbagai jenis situs SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Kemampuan untuk menyimpan situs sebagai template tidak didukung dengan komunikasi modern atau situs tim. Untuk informasi lebih lanjut tentang menggunakan template Lihat [menyimpan, men-download dan meng-upload situs SharePoint sebagai template](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
 Berikut adalah beberapa masalah/solusi umum mengenai menyimpan situs atau daftar sebagai template di SharePoint online. 
 

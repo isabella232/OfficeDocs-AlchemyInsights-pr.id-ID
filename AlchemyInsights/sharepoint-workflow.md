@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050924"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770462"
 ---
 # <a name="workflows-in-sharepoint"></a>Alur kerja di SharePoint
 
-Alur kerja SharePoint adalah pra-diprogram aplikasi mini yang merampingkan dan mengotomatisasi berbagai proses bisnis. Alur kerja dapat berkisar dari mengumpulkan tanda tangan, umpan balik, atau persetujuan untuk rencana atau dokumen, untuk melacak status saat ini dari prosedur rutin.
+Alur kerja SharePoint adalah aplikasi yang diprogram sebelumnya yang merampingkan berbagai proses bisnis. Lihat link di bawah ini untuk info lebih lanjut.
 
-Memulai **:** Jika Anda baru memulai dengan alur kerja SharePoint, lihat [pengantar alur kerja SharePoint untuk info lebih lanjut](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Persiapan
 
-**Microsoft Flow**: Pertimbangkan untuk menggunakan Microsoft Flow bukan solusi alur kerja SharePoint klasik. Untuk informasi lebih lanjut, lihat [membuat aliran untuk daftar atau Perpustakaan di SharePoint online atau OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Jika Anda baru memulai dengan alur kerja SharePoint, lihat [pengantar alur kerja SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Alur kerja pemecahan masalah dan debugging**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Memecahkan masalah dan debug alur kerja SharePoint
 
-Alur kerja debugging menyerupai versi sebelumnya. Untuk informasi lebih lanjut, lihat [debugging alur kerja SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Untuk informasi lebih lanjut tentang pemecahan masalah, lihat [memecahkan masalah galat validasi alur kerja SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Lihat [memecahkan masalah galat validasi alur kerja SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) dan [debugging alur kerja SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Daya otomatis
+
+Pertimbangkan untuk menggunakan [daya otomatis](https://docs.microsoft.com/power-automate/modern-approvals) dan bukan solusi alur kerja SharePoint klasik.

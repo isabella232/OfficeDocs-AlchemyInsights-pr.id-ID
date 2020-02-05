@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519302"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770966"
 ---
 # <a name="change-intune-mdm-authority"></a>Ubah Intune MDM otoritas
 
 Anda dapat mengubah otoritas MDM Anda tanpa membuka kasus dukungan. Lihat dokumen berikut untuk petunjuknya:
   
-- [Ubah otoritas MDM dari manajer konfigurasi untuk Intune mandiri](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Ubah otoritas MDM dari manajer konfigurasi ke Intune mandiri](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Ubah otoritas MDM dari Intune berdiri sendiri untuk manajer konfigurasi](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Mengubah otoritas MDM Anda dari Intune berdiri sendiri untuk manajer konfigurasi](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
  **Keberadaan otoritas MDM**
   

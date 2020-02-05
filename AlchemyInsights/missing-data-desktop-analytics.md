@@ -1,5 +1,5 @@
 ---
-title: Tidak dapat membuat sebuah penilaian kompatibilitas
+title: Tidak dapat membuat penilaian kompatibilitas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800418"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771074"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Tidak dapat membuat sebuah penilaian kompatibilitas
+# <a name="cant-create-a-compatibility-assessment"></a>Tidak dapat membuat penilaian kompatibilitas
 
-Manajer konfigurasi berhasil dikonfigurasi perangkat, tapi Desktop Analytics tidak dapat membuat sebuah penilaian kompatibilitas. Itu tidak memiliki satu set data yang lengkap untuk konfigurasi perangkat (sensus) atau memasang apl (persediaan).
+Microsoft Endpoint Configuration Manager berhasil mengkonfigurasi perangkat, tetapi desktop Analytics tidak dapat membuat penilaian kompatibilitas. Tidak ada data lengkap yang ditetapkan untuk konfigurasi perangkat (sensus) atau aplikasi yang diinstal (inventaris).
 
-Masalah ini sering tetap secara otomatis ketika perangkat pengulangan. Jika hal ini terus berlanjut, pastikan perangkat dapat berkomunikasi dengan layanan. Untuk informasi lebih lanjut, lihat [Endpoint](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) dan [Data hilang](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Masalah ini sering tetap secara otomatis ketika perangkat mencoba. Jika tetap ada, pastikan perangkat dapat berkomunikasi dengan layanan. Untuk informasi selengkapnya, lihat titik [akhir](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) dan [data yang hilang](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

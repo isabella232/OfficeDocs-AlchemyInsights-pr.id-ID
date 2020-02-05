@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051536"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771182"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Masalah dan resolusi umum SharePoint online
 
 Berikut adalah beberapa topik yang sering diminta untuk masalah SharePoint Online:
+
+- **Memulai: Gunakan** [SharePoint Lihat buku](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) untuk membangun yang indah, intranet kuat yang menghubungkan tempat kerja. Lihat [contoh](https://lookbook.microsoft.com/) dan Dapatkan [panduan desain](https://spdesign.azurewebsites.net/). Lihat [intro ke SharePoint online](https://docs.microsoft.com/sharepoint/introduction) untuk pengenalan keseluruhan SharePoint online.
 
 - **Permissions**: [membangun sebuah perizinan strategi](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) dan [memahami tingkat izin](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Berikut adalah beberapa topik yang sering diminta untuk masalah SharePoint Onlin
 
 - **Modernisasi SharePoint**: Review [panduan untuk pengalaman modern di SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) dan [memodernisasi situs SharePoint klasik Anda](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) untuk memulai bergerak.
 
-- **Persiapan**: Pelajari cara [memulai SharePoint online](https://docs.microsoft.com/sharepoint/introduction) dengan strategi pengelolaan situs.
+**Catatan:** Untuk jawaban yang lebih spesifik tentang masalah SharePoint, secara singkat ulang kata pertanyaan Anda, dan sertakan kesalahan yang Anda lihat atau fitur yang Anda gunakan.
