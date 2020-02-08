@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611700"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855554"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Ikuti atau un-Ikuti situs SharePoint
 
-Ada beberapa cara untuk menemukan dan mengikuti situs, Berita, dan konten yang menarik minat Anda di SharePoint. Ini akan memungkinkan Anda untuk menemukan informasi dengan mudah dalam daftar Anda, dan memungkinkan Anda untuk melihat aktivitas dari SharePoint.
+Jika pengguna mengalami masalah berikut ini atau tidak mengikuti sumber daya SharePoint, selesaikan langkah ini:
 
-Tonton videonya untuk [menemukan dan mengikuti situs dan berita](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Jika Anda tidak dapat mengikuti atau tidak mengikuti situs, Berita, atau konten dan merasa hasilnya tidak sesuai dengan yang diharapkan, lihat apakah masalahnya terkait dengan satu pengguna atau semua pengguna dalam organisasi Anda. Jika masalah ditemui oleh semua pengguna, mungkin ada masalah layanan sementara.
-
-Periksa [dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.
+* Meminta pengguna untuk sign-out dan masuk kembali ke SharePoint dan coba langkah yang sama untuk mengikuti/berhenti mengikuti sumber daya SharePoint.
+* Menentukan apakah masalah dengan situs tertentu atau semua situs. Jika masalah ini terjadi dengan situs tertentu, pastikan fitur "konten berikut" aktif untuk situs dengan membuka **pengaturan situs > mengelola fitur situs > setelah konten**. Jika fitur disetel ke aktif, coba menonaktifkan dan mengaktifkan fitur lagi untuk situs.
+* Minta pengguna untuk mencoba browser internet lain untuk melihat apakah masalah tersebut khusus untuk browser pengguna.
+* Jika semua pengguna dan semua situs mengalami masalah yang sama, periksa [dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat jika organisasi Anda terpengaruh.
