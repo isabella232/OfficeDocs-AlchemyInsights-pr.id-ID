@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770390"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042883"
 ---
 # <a name="delete-a-site"></a>Menghapus situs
 
-Bila Anda menghapus situs, lokasi tersebut akan dipindahkan ke [situs yang dihapus](https://admin.microsoft.com/sharepoint) dan disimpan selama 93 hari. Untuk menghapus situs, buka [situs aktif](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Bila Anda menghapus situs, lokasi tersebut akan dipindahkan ke [situs yang dihapus](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) dan disimpan selama 93 hari. Untuk menghapus situs, buka [situs aktif](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Bila Anda menghapus situs, segala sesuatu di dalamnya akan dihapus termasuk:
 
