@@ -11,16 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: f012aedd1d133b8706b4dbdc296ae6ca19942a06
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
+ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855781"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322757"
 ---
 # <a name="modernize-the-classic-home-page"></a>Memodernisasi Classic Home Page
 
 Update terbaru untuk klasik situs tim SharePoint halaman rumah mempengaruhi halaman rumah tim klasik situs (STS # 0) ketika halaman rumah berisi *hanya Out-of-The Box default bagian web* seperti memulai, dokumen Perpustakaan, dan newsfeed.
+
+Lihat berjalan-melalui perubahan [di sini](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Catatan: situs tim klasik yang berisi konten yang disesuaikan tidak akan diperbarui secara otomatis.**
 
