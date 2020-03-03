@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626387"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371525"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Tim masalah umum dan resolusi
 
 Untuk jawaban yang lebih spesifik tentang masalah Microsoft teams, ulangi pertanyaan Anda secara singkat, dan sertakan kesalahan yang Anda lihat atau fitur yang sedang Anda gunakan.
+
+Jika Anda memerlukan bantuan untuk mendukung remote Workers (WFH) dengan teams, harap Tinjau [dukungan pekerja jarak jauh menggunakan Microsoft teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 Berikut adalah beberapa sumber daya tambahan:
 
