@@ -1,5 +1,5 @@
 ---
-title: Tim Freemium
+title: Tim freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354008"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556659"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Saya ingin mendaftar untuk tim gratis, tapi aku tidak bisa.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Saya ingin mendaftar untuk teams secara gratis
 
-- Jika Anda menggunakan Office 365 kerja atau sekolah akun, menawarkan gratis ini tidak tersedia. Organisasi Anda, meskipun, mungkin sudah menggunakan tim. Jika tidak, pergi ke [Microsoft tim](https://products.office.com/microsoft-teams/group-chat-software) untuk melihat apakah hal itu layak untuk percobaan gratis.
+Tim tersedia secara gratis melalui beberapa program yang berbeda. Karena Anda menghubungi dukungan dengan permintaan ini, Anda sudah memiliki penyewa Microsoft 365 yang sudah ada, yang berarti Anda sudah memiliki Microsoft teams.
 
-- Lembaga akademis tidak berhak untuk tawaran ini gratis. Guru dan siswa, meskipun, bisa mendapatkan versi gratis Office 365, yang mencakup sebuah versi lengkap dari Microsoft Teams. Lihat [lisensi Office 365 untuk Microsoft tim](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Dalam kebanyakan kasus, teams diaktifkan secara default untuk semua pengguna Anda. Setelah diaktifkan, pengguna Anda dapat menjalankan tim, baik dengan menginstal [desktop](https://office.visualstudio.com/MAX/_workitems/edit/desktop) dan [Mobile](https://office.visualstudio.com/MAX/_workitems/edit/desktop) klien, atau [dari browser](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) di https://teams.microsoft.com.
 
-- Lembaga-lembaga pemerintah AS tidak berhak untuk tawaran ini gratis. Untuk mempelajari tentang rencana Office 365 untuk organisasi pemerintah (termasuk ujicoba), membaca [lisensi Office 365 untuk Microsoft tim](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Pengecualian untuk ini adalah Microsoft teams untuk pendidikan (EDU). Jika memiliki lisensi EDU, Anda harus mengaktifkan Microsoft teams secara manual. Untuk melakukannya, kunjungi Pusat admin Microsoft 365 **> layanan dan Add-in > Microsoft teams**. Jika Anda menggunakan pusat admin teams baru, Anda harus menonaktifkan  **coba Pusat admin baru**untuk menemukan **layanan dan Add-in**. PENTING: Anda mungkin harus menunggu hingga 24 jam agar perubahan diterapkan.
+
+Jangan lewatkan semua panduan kami untuk [mendukung pekerja jarak jauh dengan teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
