@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 0467bd04eb2f46a88f7e429aa7cf6d085d416dbc
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
+ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814285"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42574374"
 ---
 # <a name="change-account-picture"></a>Mengubah gambar akun
 
-Jika Anda menggunakan nama pengguna dan sandi untuk masuk ke Windows 10, Anda menggunakan akun lokal. Untuk mengubah foto akun lokal:
+Jika Anda menggunakan nama pengguna dan sandi untuk masuk ke Windows 10, Anda menggunakan akun lokal. **Untuk mengubah gambar akun lokal Anda**:
 
 1. Buka **mulai** > **pengaturan** > **** akun > **info Anda**.
-2. Di bawah **buat gambar Anda**, pilih **Jelajahi untuk satu**. Atau, jika perangkat Anda memiliki kamera, pilih **kamera** dan mengambil selfie. 
-    Catatan: Windows mengingat tiga gambar terakhir yang Anda gunakan. Pilih gambar pada halaman **info Anda** untuk beralih ke yang satu.
+2. Di bawah **buat gambar Anda**, klik **Jelajahi untuk satu**. Atau, jika perangkat Anda memiliki kamera, klik **kamera** dan mengambil selfie. 
+    **Catatan**: Windows mengingat tiga gambar terakhir yang Anda gunakan. Klik gambar di halaman info Anda untuk beralih ke yang satu.
 
 Jika Anda menggunakan alamat email dan sandi untuk masuk, Anda menggunakan akun Microsoft. Untuk mengubah gambar akun Microsoft:
 
 1. Masuk ke halaman **info Anda** dengan akun Microsoft Anda.
-2. Pilih **Tambahkan gambar** atau **Ubah gambar**, lalu ikuti petunjuknya.
+2. Klik **Tambahkan gambar** atau **Ubah gambar**, lalu ikuti petunjuknya.
 
-[Mendapatkan lebih banyak bantuan dalam menyiapkan dan mengelola akun Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Dapatkan bantuan lebih lanjut tentang pengaturan dan pengelolaan akun Microsoft Anda](https://support.microsoft.com/products/microsoft-account?category=manage-account).

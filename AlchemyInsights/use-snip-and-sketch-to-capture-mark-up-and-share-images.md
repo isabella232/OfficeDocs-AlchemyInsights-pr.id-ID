@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365140"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584480"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Gunakan snip & Sketch untuk menangkap, menandai, dan berbagi gambar
 
@@ -27,7 +27,8 @@ Sketsa layar sekarang disebut **snip & Sketch**. **Untuk cepat mengambil snip**:
 2. Pilih titik di tepi area yang ingin disalin, lalu klik kiri kursor. 
 
 3. Gerakkan kursor Anda untuk menyorot area yang ingin Anda tangkap. Area yang Anda tangkap akan muncul di layar.
-:::image type="content" source="media/snipone.png" alt-text="gambar pilihan yang disorot":::
+
+   ![gambar pilihan yang disorot](media/snipone.png)
 
 Gambar yang Anda dipotong disimpan ke clipboard Anda, siap untuk menempel ke email atau dokumen. 
 
@@ -35,4 +36,4 @@ Gambar yang Anda dipotong disimpan ke clipboard Anda, siap untuk menempel ke ema
 
 - Klik ikon pemberitahuan di sisi paling kanan taskbar; lalu klik gambar yang baru saja Anda tangkap. Snip Anda terbuka di aplikasi snip & Sketch.
 
-:::image type="content" source="media/sniptwo.png" alt-text="gambar yang ditampilkan dalam potongan App":::
+   ![gambar yang ditampilkan dalam potongan App](media/sniptwo.png)

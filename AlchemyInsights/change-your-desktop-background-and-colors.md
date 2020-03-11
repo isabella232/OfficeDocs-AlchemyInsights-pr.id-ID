@@ -11,15 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: d6baf8606dfca20c0fba1817b9531db915bdf7a8
-ms.sourcegitcommit: 8ba12eff67e405f5922ea4cc35155e3036447859
+ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
+ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42063678"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42581424"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Mengubah latar belakang dan warna desktop
 
-Untuk mengubah pengaturan warna Anda, pilih **mulai** > **pengaturan** > **personalisasi** > **warna**, dan kemudian memilih warna Anda sendiri atau membiarkan jendela tarik warna aksen dari latar belakang Anda.
+Untuk mengubah pengaturan warna Anda, pergi untuk **memulai** > **pengaturan** > **** > **warna**personalisasi, dan kemudian memilih warna Anda sendiri atau membiarkan jendela tarik warna aksen dari latar belakang Anda.
 
-Untuk mengubah latar belakang desktop Anda, pilih **mulai** > **pengaturan** > **** > **latar belakang**personalisasi, dan kemudian pilih gambar, warna solid, atau membuat slideshow gambar. Ingin lebih latar belakang desktop dan warna? Kunjungi [Microsoft Store](https://www.microsoft.com/en-us/store/collections/windowsthemes) untuk memilih dari lusinan tema gratis.
+![Personalisasi warna Anda di Windows.](media/windows-personalization-colors.png)
+
+Untuk mengubah latar belakang desktop Anda, pergi untuk **memulai** > **pengaturan** > **** > **latar belakang**personalisasi, dan kemudian memilih gambar, warna solid, atau membuat slideshow gambar. 
+
+![Mengubah latar belakang desktop Windows.](media/windows-desktop-background.png)
+
+Ingin lebih latar belakang desktop dan warna? Kunjungi [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) untuk memilih dari lusinan tema gratis.
