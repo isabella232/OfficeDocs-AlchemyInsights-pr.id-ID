@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908748"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599487"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams diinstal dengan pemutakhiran Office
 
@@ -32,6 +32,6 @@ Jika organisasi Anda belum siap untuk menggunakan teams, Anda dapat ***mengecual
 
 Untuk ***mencopot pemasangan teams*** dari perangkat yang menjalankan Windows, lihat [membongkar Microsoft teams](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk membersihkan Microsoft teams dari beberapa mesin target atau pengguna, lihat [pembersihan penyebaran Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Jika Anda menggunakan komputer bersama, Layanan desktop jarak jauh (RDS), atau infrastruktur Desktop Virtual (VDI), lihat [lingkungan komputer bersama dan VDI dengan Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Jika Anda menggunakan Office untuk Mac, lihat [penginstalan Microsoft teams di Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Jika Anda menggunakan komputer bersama, Layanan desktop jarak jauh (RDS), atau infrastruktur Desktop Virtual (VDI), lihat [lingkungan komputer bersama dan VDI dengan Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Jika Anda menggunakan Office untuk Mac, lihat [penginstalan Microsoft teams di Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Catatan:** Setelah teams terinstal, [diperbarui secara otomatis](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) sekitar setiap dua minggu dengan fitur baru dan pembaruan kualitas. 

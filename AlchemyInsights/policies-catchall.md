@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274907"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599955"
 ---
 # <a name="teams-policies"></a>Kebijakan tim
 
@@ -27,7 +27,7 @@ Pengaturan Microsoft teams dikontrol oleh kebijakan. Untuk membuat perubahan, An
 Kebijakan tim dibagi ke dalam area berikut:
 
 - [Kebijakan tim](https://docs.microsoft.com/MicrosoftTeams/teams-policies) mengontrol penemuan pengguna tim pribadi dalam pencarian dan pembuatan saluran pribadi.  
-- [Kebijakan Rapat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan Rapat tim, termasuk mengontrol lobi. Untuk bantuan terkait masalah di lobi, seperti mengonfigurasi tim untuk mengakui semua orang, lihat [mengontrol setelan lobi dan tingkat partisipasi](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Kebijakan Rapat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan Rapat tim, termasuk mengontrol lobi. Untuk bantuan terkait masalah di lobi, seperti mengonfigurasi tim untuk mengakui semua orang, lihat [mengontrol setelan lobi dan tingkat partisipasi](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Kebijakan pesan](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan chat dan pesan, termasuk mengaktifkan atau menonaktifkan chat, menghapus chat, meminta tanda terima baca, menggunakan giphys dan stiker, dan banyak lagi.
 - [Kebijakan penyiapan aplikasi](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) mengontrol aplikasi mana yang tersedia bagi pengguna, termasuk aplikasi khusus dan pihak ketiga, serta urutan iklan tersebut muncul.  
 - [Kebijakan penyimpanan](https://docs.microsoft.com/microsoftteams/retention-policies) data untuk teams dapat ditemukan di pusat keamanan dan kepatuhan Office 365.

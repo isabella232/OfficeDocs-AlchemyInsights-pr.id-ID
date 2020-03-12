@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157620"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600375"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pensiun Legacy eDiscovery alat
 
@@ -37,7 +37,7 @@ Sebagai hasil dari fungsionalitas eDiscovery baru dan ditingkatkan di Microsoft 
     - [Setholdonmailbox](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonmailbox](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 lanjut eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 lanjut eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Timeline untuk pensiun**:
 - 1 April 2020: Anda tidak akan dapat membuat penelusuran dan penangguhan baru, namun Anda masih dapat menjalankan, mengedit, dan menghapus penelusuran yang ada dengan risiko Anda sendiri. Dukungan Microsoft tidak lagi mendukung eDiscovery di tempat & pembekuan dalam EAC.
@@ -46,9 +46,9 @@ Sebagai hasil dari fungsionalitas eDiscovery baru dan ditingkatkan di Microsoft 
 
 **Untuk informasi lebih lanjut, lihat**:
 
- - [Migrasi pencarian eDiscovery warisan dan memegang pusat kepatuhan Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pensiun alat eDiscovery warisan](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Pertanyaan umum tentang eDiscovery di tempat dan pembekuan di tempat](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migrasi pencarian eDiscovery warisan dan memegang pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Pensiun alat eDiscovery warisan](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Pertanyaan umum tentang eDiscovery di tempat dan pembekuan di tempat](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
