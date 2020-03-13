@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: e899d29da78b2820c4384252af162092b81e9391
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
+ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564349"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612350"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft tim Exploratory pengalaman
 
 Pengalaman eksplorasi tim Microsoft memungkinkan pengguna di organisasi Anda yang memiliki Azure Active Directory (AAD) dan tidak berlisensi untuk tim memulai pengalaman eksplorasi tim. Admin dapat mengaktifkan atau menonaktifkan fitur ini untuk pengguna di organisasinya. (Sebelumnya Microsoft Commercial Cloud Trial sekarang disebut pengalaman Exploratory tim.)
+
+Pengalaman Exploratori Microsoft teams tersedia tanpa biaya tambahan hingga ulang tahun perjanjian perusahaan berikutnya atau perpanjangan pada atau setelah 2021 Januari. Pada saat itu, pengguna akhir pada lisensi pengalaman Microsoft Exploratory harus pindah ke lisensi berbayar yang mencakup teams.
 
 Untuk informasi lebih lanjut, silakan lihat [mengelola lisensi Microsoft teams Exploratori](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
