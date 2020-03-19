@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745007"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856470"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Masalah dan resolusi umum terkait Teams
 
@@ -36,11 +36,11 @@ Untuk semua pelanggan Teams:
 
     Untuk memverifikasi apakah pengguna memiliki lisensi Konferensi Audio dan memiliki Nomor Tol Default:
     1.    Buka Pengguna Aktif lalu pilih pengguna yang dimaksud.
-    2.    Bergantung pada versi pusat admin, pilih Lisensi dan Aplikasi atau klik Edit pada Lisensi produk.
+    2.    Bergantung pada versi pusat admin, pilih **Lisensi dan Aplikasi** atau klik **Edit** pada **Lisensi produk**.
     3.    Pastikan pengguna telah memilih lisensi untuk Konferensi Audio, Microsoft Teams, dan Skype for Business Online (Paket 2).
-    4.    Pengguna Pusat admin klik Tampilkan semua kemudian Teams.
-    5.    Di bagian pusat admin Microsoft Teams, klik Portal warisan.
-    6.    Di bagian pusat admin Skype for Business, klik konferensi audio kemudian pengguna.
+    4.    Pengguna Pusat admin klik **Tampilkan semua** kemudian **Teams**.
+    5.    Di pusat admin Microsoft Teams, klik **Portal warisan**.
+    6.    Di pusat admin Skype for Business, klik **konferensi audio** kemudian **pengguna**.
     7.    Pilih pengguna yang dimaksud dan verifikasi apakah pengguna tersebut memiliki Nomor Tol Default.
     
     Untuk informasi lebih lanjut, baca [Paket Panggilan untuk Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan terkait lisensi yang dimaksud.
