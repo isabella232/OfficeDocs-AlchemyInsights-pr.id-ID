@@ -8,14 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: ed3598dc92a7c36c9c9b077db0ab31f63537ef60
-ms.sourcegitcommit: 14894a09db1c4101e48ff720d878d1c9f7b1dac8
+ms.custom:
+- "9000149"
+- "1662"
+- "3491"
+ms.openlocfilehash: 59104ef96c95de4e4bc7744825245bdafba97d7c
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/16/2019
-ms.locfileid: "40065561"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931229"
 ---
 # <a name="sharepoint-online-throttling"></a>Pelambatan SharePoint online
+
+**Penting**: banyak SharePoint online dan OneDrive pelanggan menjalankan aplikasi penting bisnis terhadap layanan yang berjalan di latar belakang. Ini termasuk migrasi konten, pencegahan kehilangan data (DLP), dan solusi pencadangan. Selama waktu yang belum pernah terjadi sebelumnya, kami mengambil langkah untuk memastikan bahwa SharePoint online dan layanan OneDrive tetap sangat tersedia dan dapat diandalkan untuk pengguna yang bergantung pada layanan lebih dari sebelumnya dalam skenario kerja jarak jauh.
+
+Untuk mendukung tujuan ini, kami telah menerapkan batas pelambatan yang lebih ketat pada aplikasi latar belakang (migrasi, DLP dan solusi cadangan) selama jam siang hari kerja. Anda harus mengharapkan bahwa aplikasi ini akan mencapai throughput yang sangat terbatas selama waktu ini. Namun, selama jam malam dan akhir pekan untuk wilayah ini, Layanan akan siap untuk memproses volume permintaan yang jauh lebih tinggi dari aplikasi latar belakang.
+
+**503 server sedang sibuk galat**
 
 Pengguna akan menerima 503 server sibuk galat saat berusaha menavigasi ke situs SharePoint atau OneDrive. 
 
