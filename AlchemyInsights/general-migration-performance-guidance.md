@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932482"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958541"
 ---
 # <a name="general-migration-performance-guidance"></a>Panduan kinerja migrasi umum
 
-**Penting**: Banyak pelanggan SharePoint Online dan OneDrive menjalankan aplikasi yang sangat penting bagi bisnis di samping layanan yang berjalan di latar belakang. Aplikasi ini mencakup migrasi konten, Pencegahan Kehilangan Data (DLP), dan solusi pencadangan. Selama masa yang belum pernah terjadi ini, kami mengambil langkah-langkah untuk memastikan bahwa layanan SharePoint Online dan OneDrive tetap tersedia dan dapat diandalkan bagi pengguna Anda yang bergantung pada layanan ini lebih daripada sebelumnya dalam skenario kerja jarak jauh.
-
-Untuk mendukung tujuan ini, kami telah menerapkan pembatasan yang lebih ketat pada aplikasi latar belakang (migrasi, DLP, dan solusi cadangan) selama jam kerja siang pada hari kerja. Anda hendaknya mengantisipasi bahwa aplikasi ini akan mencapai throughput yang sangat terbatas dalam kurun waktu ini. Namun, selama jam malam dan akhir pekan untuk wilayah ini, layanan akan siap untuk memproses jauh lebih banyak volume permintaan dari aplikasi latar belakang.
+**Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.
 
 **Panduan kinerja migrasi**
 

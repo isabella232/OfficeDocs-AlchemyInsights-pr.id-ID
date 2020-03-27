@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 5aebf7903670e74f616c8f151749d760caf1d642
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932182"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959009"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Bermigrasi ke SharePoint Online melalui Manajer Migrasi
 
-**Penting**: Banyak pelanggan SharePoint Online dan OneDrive menjalankan aplikasi yang sangat penting bagi bisnis di samping layanan yang berjalan di latar belakang. Aplikasi ini mencakup migrasi konten, Pencegahan Kehilangan Data (DLP), dan solusi pencadangan. Selama masa yang belum pernah terjadi ini, kami mengambil langkah-langkah untuk memastikan bahwa layanan SharePoint Online dan OneDrive tetap tersedia dan dapat diandalkan bagi pengguna Anda yang bergantung pada layanan ini lebih daripada sebelumnya dalam skenario kerja jarak jauh.
-
-Untuk mendukung tujuan ini, kami telah menerapkan pembatasan yang lebih ketat pada aplikasi latar belakang (migrasi, DLP, dan solusi cadangan) selama jam kerja siang pada hari kerja. Anda hendaknya mengantisipasi bahwa aplikasi ini akan mencapai throughput yang sangat terbatas dalam kurun waktu ini. Namun, selama jam malam dan akhir pekan untuk wilayah ini, layanan akan siap untuk memproses jauh lebih banyak volume permintaan dari aplikasi latar belakang.
+**Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.
 
 **Manajer Migrasi**
 
