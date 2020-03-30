@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856470"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030403"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Masalah dan resolusi umum terkait Teams
+
+**Penting**: Dikarenakan peningkatan penggunaan Teams baru-baru ini, Anda mungkin akan butuh waktu sekitar 24 jam untuk menyelesaikan penyiapan penetapan lisensi ke pengguna. Sampai saat itu, Anda tidak akan dapat menetapkan kebijakan Teams kepada mereka, dan mereka mungkin tidak memiliki akses ke beberapa fitur tim seperti konferensi panggilan dan audio.
+
+**Masalah dan resolusi umum**
 
 Untuk jawaban yang lebih spesifik, coba susun ulang pertanyaan Anda untuk menyertakan kesalahan yang Anda lihat atau fitur Teams yang Anda gunakan.
 
