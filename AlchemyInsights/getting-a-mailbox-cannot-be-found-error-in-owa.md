@@ -1,5 +1,5 @@
 ---
-title: 126 mendapatkan pesan tidak ditemukan kesalahan dalam OWA?
+title: 126 mendapatkan kotak surat tidak ditemukan galat di OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523874"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105242"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Mendapatkan pesan tidak ditemukan kesalahan dalam Outlook di web?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Mendapatkan kotak surat tidak ditemukan kesalahan di Outlook di web?
 
-Jika Anda menggunakan Outlook di web dan Anda mendapatkan **kotak pesan tidak dapat ditemukan untuk** kesalahan, account yang Anda gunakan untuk tersambung ke Outlook di web tidak memiliki lisensi Exchange Online dan oleh karena itu, kotak pesan tidak dikaitkan dengan akun. Admin dapat menetapkan lisensi ke akun Anda dengan mengikuti langkah berikut:
+Jika Anda menggunakan Outlook di web dan Anda mendapatkan **kotak surat tidak dapat ditemukan untuk** kesalahan, akun yang Anda gunakan untuk menyambung ke Outlook di web tidak memiliki lisensi Exchange Online dan oleh karena itu, kotak pesan tidak terkait dengan akun. Admin Anda dapat menetapkan lisensi ke akun dengan mengikuti langkah berikut:
 
-1. Buka [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) dan **pengguna aktif**, pilih **Edit pengguna**.
+1. Buka [Pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/homepage) dan pergi ke **pengguna aktif** di bawah bagian **pengguna** , dan pilih pengguna yang melihat galat.
 
-2. Dalam **Edit pengguna** halaman yang terbuka, pilih pengguna. Pada halaman properti pengguna yang terbuka, klik **Edit** untuk **lisensi produk**.
-
-3. Di halaman **produk lisensi** yang terbuka, pilih nilai **Lokasi** yang sesuai, dan menetapkan lisensi yang mengandung Exchange Online (memperluas lisensi untuk melihat rinciannya). Saat Anda selesai, klik **Simpan**.
+2. Di halaman pengguna yang terbuka, buka bagian **lisensi dan aplikasi** , pilih nilai **Lokasi** yang sesuai, dan tetapkan lisensi yang berisi Exchange Online (Perluas lisensi untuk melihat detailnya). Setelah selesai, klik **Simpan perubahan**.

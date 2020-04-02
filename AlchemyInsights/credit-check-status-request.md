@@ -1,5 +1,5 @@
 ---
-title: Kredit check status permintaan
+title: Pemeriksaan kredit status permintaan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386515"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105278"
 ---
-# <a name="credit-check-status-request"></a>Kredit check status permintaan
+# <a name="credit-check-status-request"></a>Pemeriksaan kredit status permintaan
 
-Pesanan yang tertunda kredit verifikasi. Ini biasanya selesai dalam waktu kurang dari 24 Jam, tetapi bisa memakan waktu hingga 48 jam. Ketika selesai, status langganan Anda akan berubah dari ke aktif, dan layanan akan tersedia untuk digunakan.
+Pesanan Anda sedang menunggu verifikasi kredit. Hal ini biasanya selesai di bawah 24 Jam, tetapi dapat memakan waktu hingga 48 jam. Setelah selesai, status langganan akan berubah dari tertunda menjadi aktif, dan layanan akan tersedia untuk digunakan.
+
+Untuk informasi lebih lanjut, lihat [Kapan pemeriksaan kredit mungkin diperlukan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).
