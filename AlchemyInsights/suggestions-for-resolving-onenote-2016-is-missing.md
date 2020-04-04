@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534422"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143028"
 ---
 # <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Saran untuk menyelesaikan OneNote 2016 hilang
 
-Setelah menginstal Microsoft Office 2019 atau Office 365 pada PC yang menjalankan setiap edisi Windows 10, OneNote 2016 tampaknya hilang dari daftar aplikasi desktop yang diinstal.
+Mulai 2020 Maret, ketika Anda menginstal Office 365 atau Office 2019, aplikasi desktop OneNote akan diinstal bersama aplikasi desktop Word, PowerPoint, dan Excel.
 
-Secara default, kantor 2019 dan Office 365 tidak akan secara otomatis menginstal versi desktop OneNote 2016, tetapi jika Anda masih perlu atau lebih memilih untuk menggunakan versi ini, Anda dapat men-download secara terpisah dan menggunakannya sepanjang sisi apl 2019 kantor baru.
+Setelah menginstal Microsoft Office 2019 atau 365 Office pada PC yang menjalankan edisi Windows 10, OneNote 2016 tampaknya hilang dari daftar aplikasi desktop yang diinstal.
 
-Ikuti [langkah-langkah berikut](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) untuk informasi lebih lanjut tentang cara untuk men-download edisi 32-bit atau 64-bit OneNote 2016 untuk Windows.
+Ikuti [langkah](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) berikut untuk informasi lebih lanjut tentang cara mengunduh edisi OneNote 2016 untuk Windows 32-bit atau 64-bit.
