@@ -1,5 +1,5 @@
 ---
-title: Perubahan seberapa sering Anda membayar
+title: Mengubah seberapa sering Anda membayar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386904"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195021"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="f668f-102">Perubahan seberapa sering Anda membayar</span><span class="sxs-lookup"><span data-stu-id="f668f-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="802ae-102">Mengubah seberapa sering Anda membayar</span><span class="sxs-lookup"><span data-stu-id="802ae-102">Change how often you pay</span></span>
 
- <span data-ttu-id="f668f-103">**Ingin mengubah frekuensi pembayaran Anda?**</span><span class="sxs-lookup"><span data-stu-id="f668f-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="f668f-104">Jika Anda ingin mengubah seberapa sering Anda membayar untuk Anda Office 365 untuk berlangganan Bisnis, baik dari tahunan bulanan atau bulanan untuk tahunan, kami dapat membantu Anda dengan itu.</span><span class="sxs-lookup"><span data-stu-id="f668f-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="f668f-105">Anda akan perlu untuk membeli berlangganan sama dengan frekuensi pembayaran baru dan membatalkan langganan tua.</span><span class="sxs-lookup"><span data-stu-id="f668f-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="f668f-106">Harap menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.</span><span class="sxs-lookup"><span data-stu-id="f668f-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="802ae-103">Saat membeli langganan, Anda memilih penagihan bulanan atau tahunan.</span><span class="sxs-lookup"><span data-stu-id="802ae-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="802ae-104">Untuk mengubah seberapa sering Anda ditagih untuk langganan, gunakan langkah berikut.</span><span class="sxs-lookup"><span data-stu-id="802ae-104">To change how often you are billed for a subscription, use the following steps.</span></span>
+
+1. <span data-ttu-id="802ae-105">Di pusat admin, buka halaman \*\*penagihan> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="802ae-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="802ae-106">Temukan langganan yang ingin Anda ubah.</span><span class="sxs-lookup"><span data-stu-id="802ae-106">Find the subscription you want to change.</span></span> <span data-ttu-id="802ae-107">Di bagian **tagihan** , di samping **ditagih bulanan** atau **ditagih per tahun**, klik **Edit**.</span><span class="sxs-lookup"><span data-stu-id="802ae-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
+
+3. <span data-ttu-id="802ae-108">Pilih opsi untuk seberapa sering Anda ingin ditagih, lalu pilih **Ubah**.</span><span class="sxs-lookup"><span data-stu-id="802ae-108">Choose the option for how often you want to be billed, then select **Change**.</span></span>
