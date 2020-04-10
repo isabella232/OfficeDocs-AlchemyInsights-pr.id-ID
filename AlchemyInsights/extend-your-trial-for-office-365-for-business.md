@@ -1,5 +1,5 @@
 ---
-title: Memperpanjang percobaan Anda untuk Office 365 untuk bisnis
+title: Memperpanjang percobaan untuk Office 365 untuk bisnis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665007"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207340"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Memperpanjang percobaan Anda untuk Office 365 untuk bisnis
+# <a name="extend-your-trial-for-office-365-for-business"></a>Memperpanjang masa uji coba untuk Office 365 untuk bisnis
 
-Jika percobaan langganan Anda dalam 15 hari dari kedaluwarsa dan persidangan belum diperpanjang sebelum, Anda dapat memperpanjang percobaan Anda selama 30-hari lain. Anda hanya dapat melakukan ini satu kali.
+Anda dapat memperpanjang masa uji coba selama 30 hari lagi. Anda hanya dapat melakukan ini satu kali.
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, buka produk **penagihan** \> [& Layanan](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Memilih percobaan langganan yang Anda ingin memperpanjang.
+2. Pilih langganan uji coba yang ingin diperluas.
 
-3. Di bagian **Bagian & tindakan** , pilih **memperpanjang percobaan** dan menyelesaikan langkah-langkah yang tersisa.
+3. Klik **Perluas uji coba** dan selesaikan langkah di Wizard.
 
-4. Anda perlu memberikan informasi kartu kredit untuk memperpanjang percobaan Anda. Kami tidak akan menagih kartu kredit Anda untuk ekstensi percobaan.
+4. Anda harus memberikan informasi kartu kredit untuk memperpanjang masa uji coba. Kami tidak akan menagih kartu kredit Anda untuk perpanjangan percobaan.
 
-Untuk selengkapnya, lihat [memperpanjang percobaan Anda untuk Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Untuk mempelajari selengkapnya tentang memperpanjang uji coba atau untuk petunjuk langkah demi langkah, lihat [memperpanjang uji coba untuk Office 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

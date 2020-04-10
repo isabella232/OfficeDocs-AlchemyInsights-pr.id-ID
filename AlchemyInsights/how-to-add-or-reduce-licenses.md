@@ -1,5 +1,5 @@
 ---
-title: Cara menambahkan atau mengurangi lisensi
+title: Cara menambah atau mengurangi lisensi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664287"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207376"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Cara menambahkan atau mengurangi lisensi
+# <a name="how-to-add-or-reduce-licenses"></a>Cara menambah atau mengurangi lisensi
 
-Berikut adalah cara untuk membeli lebih banyak izin atau menghapus lisensi Office 365.
+Berikut adalah cara menambahkan/menghapus lisensi.
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Navigasikan ke **penagihan > [langganan](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Memilih berlangganan yang Anda ingin menambahkan/menghapus lisensi.
+2. Pilih langganan yang ingin Anda tambahkan/hapus lisensi.
 
-3. Pilih **Add/Remove lisensi**.
+3. Klik **Tambah/Hapus lisensi**.
 
-4. Masukkan jumlah pengguna yang diperlukan.
+4. Masukkan jumlah total pengguna yang dibutuhkan. Sebagai contoh, jika Anda saat ini memiliki 25 lisensi dan Anda ingin menghapus 5, masukkan 20 dalam bidang ini.
 
-    Misalnya, jika saat ini Anda memiliki lisensi 25 dan Anda ingin menghapus 5, masukkan 20 dalam bidang ini.
+5. Klik **Kirim perubahan**.
 
-5. Pilih **kirim mengubah**.
+**Catatan**: setiap charge baru (kenaikan lisensi) atau kredit (penurunan lisensi) akan muncul pada tagihan berikutnya.
 
-> [!NOTE]
-> Setiap biaya baru (lisensi meningkatkan) atau kredit (lisensi turun) akan muncul pada tagihan berikutnya.
+Untuk informasi tentang cara menetapkan lisensi, lihat [menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Untuk selengkapnya, lihat [membeli lisensi untuk Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Sumber daya tambahan**
+ **Sumber daya**
   
-- [Menghapus lisensi dari langganan Office 365 untuk bisnis Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Mengelola lisensi langganan-membeli atau menghapus](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Membatalkan Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Batalkan Office 365 untuk bisnis](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Membeli lain Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Membeli Office 365 lain untuk langganan bisnis](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
