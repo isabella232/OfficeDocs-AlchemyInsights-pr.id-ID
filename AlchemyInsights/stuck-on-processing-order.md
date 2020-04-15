@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 676deacd28a1c544e605120a5dccd331531c5684
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158647"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286353"
 ---
 # <a name="stuck-on-processing-order"></a>Terhenti di memproses pesanan
 
-Jika Anda telah memilih untuk memutakhirkan langganan Microsoft 365, tetapi pesanan terhenti di "Memproses pesanan Anda," silakan lihat posting [Dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/servicehealth) **SP207374**. Proses pemutakhiran penyewa akan memerlukan pengadaan, yang mungkin tertunda. Kami memperkirakan prosesnya selesai dalam 24 jam; namun, pada sebagian kecil kasus permintaan ini bisa memakan waktu hingga 48 jam. Silakan buka permintaan layanan jika pemrosesan pesanan memakan waktu lebih lama dari 48 jam.
+Jika Anda telah memilih untuk memutakhirkan langganan Microsoft 365, tetapi pesanan terhenti pada "Memproses pesanan Anda" untuk periode waktu tertentu, harap bersabar. Proses pemutakhiran penyewa akan memerlukan pengadaan, yang mungkin tertunda. Selama waktu ini, Anda tidak akan dapat mengakses Pusat Admin, tetapi semua area lain di Microsoft 365 akan dapat diakses. Kami memperkirakan prosesnya **selesai dalam 24 jam**; namun, pada sebagian kecil kasus permintaan ini bisa **memakan waktu hingga 48 jam**. Silakan buka permintaan layanan jika pemrosesan pesanan memakan waktu **lebih dari 48 jam**.
