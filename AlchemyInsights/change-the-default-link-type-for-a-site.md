@@ -1,5 +1,5 @@
 ---
-title: Mengubah jenis tautan default untuk situs
+title: Mengubah tipe tautan default untuk situs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,8 +18,8 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 04/16/2020
 ms.locfileid: "43530197"
 ---
-# <a name="change-the-default-link-type-for-a-site"></a>Mengubah jenis tautan default untuk situs
+# <a name="change-the-default-link-type-for-a-site"></a>Mengubah tipe tautan default untuk situs
 
-Pengguna dapat berbagi file dan folder di SharePoint dan OneDrive dengan mengirimkan tautan. Mereka perlu memilih jenis tautan berdasarkan orang yang ingin diberi izin.
+Pengguna dapat berbagi file dan folder di SharePoint dan OneDrive dengan mengirimkan tautan. Mereka perlu memilih tipe tautan berdasarkan orang yang ingin diberi izin.
 
-- [Mengubah jenis tautan default untuk situs](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [Mengubah tipe tautan default untuk situs](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
