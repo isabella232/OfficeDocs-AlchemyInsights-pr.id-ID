@@ -1,5 +1,5 @@
 ---
-title: Mengubah jenis tautan default untuk situs
+title: Mengubah tipe tautan default untuk situs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,8 +18,8 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 04/16/2020
 ms.locfileid: "43530197"
 ---
-# <a name="change-the-default-link-type-for-a-site"></a><span data-ttu-id="5a60c-102">Mengubah jenis tautan default untuk situs</span><span class="sxs-lookup"><span data-stu-id="5a60c-102">Change the default link type for a site</span></span>
+# <a name="change-the-default-link-type-for-a-site"></a><span data-ttu-id="52b85-102">Mengubah tipe tautan default untuk situs</span><span class="sxs-lookup"><span data-stu-id="52b85-102">Change the default link type for a site</span></span>
 
-<span data-ttu-id="5a60c-103">Pengguna dapat berbagi file dan folder di SharePoint dan OneDrive dengan mengirimkan tautan.</span><span class="sxs-lookup"><span data-stu-id="5a60c-103">Users can share files and folders in SharePoint and OneDrive by sending a link.</span></span> <span data-ttu-id="5a60c-104">Mereka perlu memilih jenis tautan berdasarkan orang yang ingin diberi izin.</span><span class="sxs-lookup"><span data-stu-id="5a60c-104">They should select a link type based on the people to whom they want to give permission.</span></span>
+<span data-ttu-id="52b85-103">Pengguna dapat berbagi file dan folder di SharePoint dan OneDrive dengan mengirimkan tautan.</span><span class="sxs-lookup"><span data-stu-id="52b85-103">Users can share files and folders in SharePoint and OneDrive by sending a link.</span></span> <span data-ttu-id="52b85-104">Mereka perlu memilih tipe tautan berdasarkan orang yang ingin diberi izin.</span><span class="sxs-lookup"><span data-stu-id="52b85-104">They should select a link type based on the people to whom they want to give permission.</span></span>
 
-- [<span data-ttu-id="5a60c-105">Mengubah jenis tautan default untuk situs</span><span class="sxs-lookup"><span data-stu-id="5a60c-105">Change the default link type for a site</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
+- [<span data-ttu-id="52b85-105">Mengubah tipe tautan default untuk situs</span><span class="sxs-lookup"><span data-stu-id="52b85-105">Change the default link type for a site</span></span>](https://docs.microsoft.com/sharepoint/change-default-sharing-link)
