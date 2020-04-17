@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958541"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537744"
 ---
 # <a name="general-migration-performance-guidance"></a>Panduan kinerja migrasi umum
 
+
 **Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.
 
-**Panduan kinerja migrasi**
+**Opsi migrasi**
 
-Kinerja migrasi dapat dipengaruhi oleh infrastruktur jaringan, ukuran file, waktu migrasi, dan pembatasan. Memahami hal ini akan membantu Anda dalam merencanakan dan memaksimalkan efisiensi migrasi.
+Ada beberapa opsi yang tersedia untuk melakukan migrasi konten ke SharePoint Online, bergantung pada ukuran dan jumlah file yang perlu dipindahkan, lihat daftar opsi yang [terletak di sini](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Panduan kinerja migrasi umum](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Untuk informasi selengkapnya terkait migrasi konten, silakan kunjungi tautan di bawah ini.
+
+- [Alat Migrasi SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Mulai menggunakan Manajer Migrasi](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Alat pemindahan](https://mover.io/)
