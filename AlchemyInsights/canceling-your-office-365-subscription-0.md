@@ -1,5 +1,5 @@
 ---
-title: Membatalkan langganan di Office 365 Anda?
+title: Membatalkan langganan Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665546"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552672"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Membatalkan langganan di Office 365 Anda?
+# <a name="canceling-your-office-365-subscription"></a>Membatalkan langganan Office 365?
 
-Kami minta maaf Anda pergi!
+Kami minta maaf untuk melihat Anda pergi!
   
-Berdasarkan data organisasi Anda, kami percaya semua langganan saat ini Anda memiliki kurang dari 25 kursi. Untuk membatalkan langganan Anda online, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman. Di bagian **pengaturan & tindakan** , memilih **membatalkan langganan**.
+Berdasarkan data organisasi Anda, kami yakin bahwa semua langganan Anda saat ini memiliki kurang dari 25 kursi. Untuk membatalkan langganan secara online, buka halaman [Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** \> . Di bagian **pengaturan & tindakan** , pilih **Batalkan langganan**.
   
-Untuk selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Pengembalian dana: setiap kredit prorata akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.** 
+
+**Catatan**: jika Anda tidak melihat opsi untuk membatalkan, klik langganan untuk melihat rincian dan Anda akan melihat opsi **Batalkan langganan** di **pengaturan & tindakan**. 
+
+Untuk mempelajari lebih lanjut, lihat [membatalkan langganan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
