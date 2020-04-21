@@ -22,4 +22,4 @@ ms.locfileid: "43530309"
 
 - Klik kanan folder **Clutter** dan klik **Kelola Clutter**. 
 
-- Jika Anda tidak melihat opsi Kelola Clutter, Clutter mungkin dinonaktifkan untuk organisasi atau Anda mungkin menggunakan Kotak Masuk Prioritas saat ini. Lihat [Mengonfigurasi Clutter untuk organisasi Anda](https://support.office.com/article/832276bd-d024-47b6-a80a-a6b884907a5b?wt.mc_id=SCL_a9c72a77-1bc4-40e6-ba6d-103c1d1aba4c_AdmHlp) untuk instruksi guna mengaktifkan kembali Clutter.
+- Jika Anda tidak melihat opsi Kelola Clutter, Clutter mungkin dinonaktifkan untuk organisasi atau Anda mungkin menggunakan Kotak Masuk Prioritas saat ini. Lihat [Mengonfigurasi Clutter untuk organisasi Anda](https://support.office.com/article/832276bd-d024-47b6-a80a-a6b884907a5b?wt.mc_id=SCL_a9c72a77-1bc4-40e6-ba6d-103c1d1aba4c_AdmHlp) untuk instruksi mengaktifkan Clutter kembali.
