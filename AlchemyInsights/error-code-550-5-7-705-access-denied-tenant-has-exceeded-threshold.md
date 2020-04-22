@@ -1,8 +1,8 @@
 ---
-title: Kode kesalahan 550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas
+title: Kode galat 550 5.7.705 Akses ditolak, penghuni telah melebihi ambang
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702993"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="4f3d5-102">550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas</span><span class="sxs-lookup"><span data-stu-id="4f3d5-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="21894-102">550 5.7.705 Akses ditolak, penghuni telah melebihi ambang</span><span class="sxs-lookup"><span data-stu-id="21894-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="4f3d5-103">Pesan ini terjadi ketika terlalu banyak spam atau massal Surat sudah dikirim oleh organisasi Anda dan kami menempatkan blok pada pesan keluar.</span><span class="sxs-lookup"><span data-stu-id="4f3d5-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="4f3d5-104">Penyebab umum adalah server lokal dikompromikan atau account dikompromikan admin yang telah digunakan untuk membuat konektor.</span><span class="sxs-lookup"><span data-stu-id="4f3d5-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="4f3d5-105">Kondisi baik dapat memungkinkan spam untuk melewati organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="4f3d5-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="21894-103">Pesan ini terjadi bila terlalu banyak spam atau email massal telah dikirim oleh organisasi Anda dan kami menempatkan pemblokiran pada email keluar.</span><span class="sxs-lookup"><span data-stu-id="21894-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="21894-104">Penyebab umum dikompromikan server lokal atau akun admin dikompromikan yang telah digunakan untuk membuat konektor.</span><span class="sxs-lookup"><span data-stu-id="21894-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="21894-105">Salah satu kondisi dapat memungkinkan spam untuk melewati organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="21894-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="4f3d5-106">Untuk menghapus blok ini, Anda perlu memahami dan menjelaskan penyebab kepada agen dukungan, serta memperbaiki masalah mendasar.</span><span class="sxs-lookup"><span data-stu-id="4f3d5-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="4f3d5-107">Klik **hubungi kami** di bawah ini setelah Anda siap.</span><span class="sxs-lookup"><span data-stu-id="4f3d5-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="21894-106">Untuk menghapus blok ini, Anda perlu memahami dan menjelaskan penyebab agen dukungan, serta memperbaiki masalah mendasar.</span><span class="sxs-lookup"><span data-stu-id="21894-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="21894-107">Klik **hubungi kami** di bawah setelah Anda siap.</span><span class="sxs-lookup"><span data-stu-id="21894-107">Click **Contact us** below once you're ready.</span></span>
