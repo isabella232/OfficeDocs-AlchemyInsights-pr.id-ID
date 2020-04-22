@@ -1,9 +1,9 @@
 ---
-title: Verifikasi domain
+title: Memverifikasi domain Anda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531362"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710446"
 ---
-# <a name="verify-your-domain"></a><span data-ttu-id="1aff0-102">Verifikasi domain</span><span class="sxs-lookup"><span data-stu-id="1aff0-102">Verify your domain</span></span>
+# <a name="verify-your-domain"></a><span data-ttu-id="14383-102">Memverifikasi domain Anda</span><span class="sxs-lookup"><span data-stu-id="14383-102">Verify your domain</span></span>
 
- <span data-ttu-id="1aff0-103">**Catatan mungkin belum diperbarui di Internet.**</span><span class="sxs-lookup"><span data-stu-id="1aff0-103">**The record probably hasn't updated across the Internet.**</span></span>
+ <span data-ttu-id="14383-103">**Catatan mungkin belum diperbarui di internet.**</span><span class="sxs-lookup"><span data-stu-id="14383-103">**The record probably hasn't updated across the Internet.**</span></span>
   
-<span data-ttu-id="1aff0-104">Biasanya hanya membutuhkan waktu beberapa menit bagi kita untuk dapat melihat catatan baru, tapi kadang-kadang dapat mengambil selama beberapa jam.</span><span class="sxs-lookup"><span data-stu-id="1aff0-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
+<span data-ttu-id="14383-104">Ini biasanya hanya membutuhkan waktu beberapa menit bagi kita untuk dapat melihat rekor baru, tapi terkadang dapat memakan waktu selama beberapa jam.</span><span class="sxs-lookup"><span data-stu-id="14383-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
   
-- <span data-ttu-id="1aff0-105">Jika Anda telah menunggu yang lama sudah, periksa bahwa Anda menyalin dan menyisipkan nilai yang tepat ke TXT verifikasi catatan di host DNS Anda.</span><span class="sxs-lookup"><span data-stu-id="1aff0-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="1aff0-106">Salah satu masalah umum tidak termasuk "MS =" bagian dari catatan.</span><span class="sxs-lookup"><span data-stu-id="1aff0-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="1aff0-107">Kita perlu yang terlalu!</span><span class="sxs-lookup"><span data-stu-id="1aff0-107">We need that too!</span></span>
+- <span data-ttu-id="14383-105">Jika sudah lama menunggu, periksa bahwa Anda telah menyalin dan menempelkan nilai yang tepat ke dalam data verifikasi TXT di host DNS Anda.</span><span class="sxs-lookup"><span data-stu-id="14383-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="14383-106">Salah satu masalah umum adalah tidak termasuk "MS =" bagian dari catatan.</span><span class="sxs-lookup"><span data-stu-id="14383-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="14383-107">Kita membutuhkan itu juga!</span><span class="sxs-lookup"><span data-stu-id="14383-107">We need that too!</span></span>
 
-- <span data-ttu-id="1aff0-108">Di beberapa host DNS, Anda harus mengambil langkah ekstra untuk menyimpan file zona (mana DNS record disimpan) sehingga ini akan memperbarui seluruh Internet.</span><span class="sxs-lookup"><span data-stu-id="1aff0-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="1aff0-109">Pastikan Anda telah disimpan perubahan sehingga Office 365 dapat melihat dan memverifikasi catatan.</span><span class="sxs-lookup"><span data-stu-id="1aff0-109">Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
+- <span data-ttu-id="14383-108">Pada beberapa host DNS, Anda harus mengambil langkah ekstra untuk menyimpan file zona (di mana catatan DNS disimpan) sehingga akan diperbarui di internet.</span><span class="sxs-lookup"><span data-stu-id="14383-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="14383-109">Pastikan Anda telah menyimpan perubahan sehingga Microsoft dapat melihat dan memverifikasi rekaman.</span><span class="sxs-lookup"><span data-stu-id="14383-109">Make sure you've saved your changes so Microsoft can see and verify the record.</span></span>

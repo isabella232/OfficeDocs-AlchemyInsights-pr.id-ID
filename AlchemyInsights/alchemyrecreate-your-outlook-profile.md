@@ -1,9 +1,9 @@
 ---
-title: Alkimia - menciptakan profil Outlook
+title: Alkimia-buat kembali profil Outlook Anda
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "65"
 - "1800001"
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
-ms.openlocfilehash: 45a2cde886cc99b2e15b0cd6309464360a9c8dfb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57a6b3e551cba4f7b73d440723798406e76e6061
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505798"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708286"
 ---
-# <a name="create-an-outlook-profile"></a><span data-ttu-id="c72ed-102">Membuat profil Outlook</span><span class="sxs-lookup"><span data-stu-id="c72ed-102">Create an Outlook Profile</span></span>
+# <a name="create-an-outlook-profile"></a><span data-ttu-id="ac968-102">Buat profil Outlook</span><span class="sxs-lookup"><span data-stu-id="ac968-102">Create an Outlook Profile</span></span>
 
-<span data-ttu-id="c72ed-103">Untuk membuat atau kembali membuat profil Outlook, Anda dapat menjalankan [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) pada mesin terkena.</span><span class="sxs-lookup"><span data-stu-id="c72ed-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
+<span data-ttu-id="ac968-103">Untuk membuat atau membuat ulang profil Outlook, Anda dapat menjalankan [alat profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) pada mesin yang terpengaruh.</span><span class="sxs-lookup"><span data-stu-id="ac968-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
 
-<span data-ttu-id="c72ed-104">Alat akan melakukan berbagai pemeriksaan, dan Anda akan membuat profil Outlook dengan alamat email Anda.</span><span class="sxs-lookup"><span data-stu-id="c72ed-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
+<span data-ttu-id="ac968-104">Alat ini akan melakukan berbagai pemeriksaan, dan ketika Anda sudah siap akan membuat profil Outlook dengan alamat email Anda.</span><span class="sxs-lookup"><span data-stu-id="ac968-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>

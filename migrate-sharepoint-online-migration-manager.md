@@ -1,9 +1,9 @@
 ---
-title: Migrasi ke SharePoint online melalui Migration Manager
+title: Bermigrasi ke SharePoint Online melalui Manajer Migrasi
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707190"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="c71bd-102">Migrasi ke SharePoint online melalui Migration Manager</span><span class="sxs-lookup"><span data-stu-id="c71bd-102">Migrating to SharePoint Online via Migration Manager</span></span>
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a><span data-ttu-id="49af3-102">Bermigrasi ke SharePoint Online melalui Manajer Migrasi</span><span class="sxs-lookup"><span data-stu-id="49af3-102">Migrating to SharePoint Online via Migration Manager</span></span>
 
-<span data-ttu-id="c71bd-103">Terletak di pusat admin SharePoint modern, Migration Manager memandu Anda melalui penyiapan klien Anda dan pembuatan tugas Anda.</span><span class="sxs-lookup"><span data-stu-id="c71bd-103">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="c71bd-104">Anda dapat menentukan setelan tingkat tugas atau global, melihat kemajuan tugas semua, dan men-download ringkasan agregat dan laporan tingkat tugas.</span><span class="sxs-lookup"><span data-stu-id="c71bd-104">You can specify global or task level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
+<span data-ttu-id="49af3-103">Berada di Pusat Admin SharePoint modern, Manajer Migrasi memandu Anda dalam penyiapan klien dan pembuatan tugas.</span><span class="sxs-lookup"><span data-stu-id="49af3-103">Located in the modern SharePoint Admin Center, the Migration Manager guides you through the setup of your clients and the creation of your tasks.</span></span> <span data-ttu-id="49af3-104">Anda dapat menentukan setelan tingkat tugas atau global, melihat kemajuan tugas semua, dan men-download ringkasan agregat dan laporan tingkat tugas.</span><span class="sxs-lookup"><span data-stu-id="49af3-104">You can specify global or task level settings, view all-up task progress, and download aggregated summary and task-level reports.</span></span>
 
-* [<span data-ttu-id="c71bd-105">Memulai Migration Manager</span><span class="sxs-lookup"><span data-stu-id="c71bd-105">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [<span data-ttu-id="c71bd-106">Setup manajer migrasi klien</span><span class="sxs-lookup"><span data-stu-id="c71bd-106">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [<span data-ttu-id="c71bd-107">Pengaturan Pengelola migrasi</span><span class="sxs-lookup"><span data-stu-id="c71bd-107">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [<span data-ttu-id="49af3-105">Mulai menggunakan Manajer Migrasi</span><span class="sxs-lookup"><span data-stu-id="49af3-105">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [<span data-ttu-id="49af3-106">Menyiapkan klien Manajer Migrasi</span><span class="sxs-lookup"><span data-stu-id="49af3-106">Setup Migration Manager clients</span></span>](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [<span data-ttu-id="49af3-107">Pengaturan Manajer Migrasi</span><span class="sxs-lookup"><span data-stu-id="49af3-107">Migration Manager Settings</span></span>](https://docs.microsoft.com/sharepointmigration/mm-settings)

@@ -1,9 +1,9 @@
 ---
-title: 127 galat TenantAccessBlockedException ketika mengakses email?
+title: 127 mendapatkan galat TenantAccessBlockedException saat mengakses email?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523982"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708906"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="c9ed5-102">Galat TenantAccessBlockedException ketika mengakses email?</span><span class="sxs-lookup"><span data-stu-id="c9ed5-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="fa8cb-102">Mendapatkan galat TenantAccessBlockedException saat mengakses email?</span><span class="sxs-lookup"><span data-stu-id="fa8cb-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="c9ed5-103">Ada beberapa alasan yang berbeda mengapa Anda mungkin menerima galat ini.</span><span class="sxs-lookup"><span data-stu-id="c9ed5-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="c9ed5-104">Misalnya:</span><span class="sxs-lookup"><span data-stu-id="c9ed5-104">For example:</span></span>
+<span data-ttu-id="fa8cb-103">Ada beberapa alasan yang berbeda mengapa Anda mungkin menerima kesalahan ini.</span><span class="sxs-lookup"><span data-stu-id="fa8cb-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="fa8cb-104">Misalnya:</span><span class="sxs-lookup"><span data-stu-id="fa8cb-104">For example:</span></span>
 
-- <span data-ttu-id="c9ed5-105">Memverifikasi bahwa langganan Anda berlaku pada **tagihan** \> [produk & Jasa](https://portal.office.com/adminportal/home#/subscriptions) halaman di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="c9ed5-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="fa8cb-105">Verifikasi bahwa langganan Anda berlaku di halaman [produk & Layanan](https://portal.office.com/adminportal/home#/subscriptions) **penagihan** \> di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="fa8cb-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="c9ed5-106">Periksa masa lalu karena setiap pemberitahuan pada **tagihan** \> [tagihan pembayaran &](https://portal.office.com/adminportal/home#/billoverview) halaman di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="c9ed5-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="fa8cb-106">Periksa pemberitahuan sebelumnya karena tagihan **penagihan** \> [& halaman pembayaran](https://portal.office.com/adminportal/home#/billoverview) di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="fa8cb-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="c9ed5-107">Jika penagihan dan langganan untuk account Anda telah baru saja diperbarui, ini mungkin memakan waktu untuk perubahan untuk menyebarkan.</span><span class="sxs-lookup"><span data-stu-id="c9ed5-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="c9ed5-108">Coba lagi dalam beberapa menit, dan jika masalah berlanjut, hubungi kami.</span><span class="sxs-lookup"><span data-stu-id="c9ed5-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="fa8cb-107">Jika penagihan dan langganan untuk akun Anda baru-baru ini diperbarui, mungkin diperlukan waktu hingga perubahan diterapkan.</span><span class="sxs-lookup"><span data-stu-id="fa8cb-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="fa8cb-108">Coba lagi dalam beberapa menit, dan jika masalah tetap ada, hubungi kami.</span><span class="sxs-lookup"><span data-stu-id="fa8cb-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>

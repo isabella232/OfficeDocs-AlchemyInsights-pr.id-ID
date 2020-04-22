@@ -12,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766678"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709014"
 ---
-# <a name="adding-external-users"></a><span data-ttu-id="a6f35-102">Menambahkan pengguna eksternal</span><span class="sxs-lookup"><span data-stu-id="a6f35-102">Adding external users</span></span>
+# <a name="adding-external-users"></a><span data-ttu-id="e8778-102">Menambahkan pengguna eksternal</span><span class="sxs-lookup"><span data-stu-id="e8778-102">Adding external users</span></span>
 
-<span data-ttu-id="a6f35-103">Langkah untuk menambahkan pengguna eksternal/tamu dapat berbeda tergantung pada apa yang Anda perlukan untuk dapat mengakses.</span><span class="sxs-lookup"><span data-stu-id="a6f35-103">The steps for adding external/guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="a6f35-104">Silakan pilih salah satu dari berikut ini:</span><span class="sxs-lookup"><span data-stu-id="a6f35-104">Please choose one of the following:</span></span>
+<span data-ttu-id="e8778-103">Langkah untuk menambahkan pengguna eksternal/tamu dapat berbeda tergantung pada apa yang Anda perlukan untuk dapat mengakses.</span><span class="sxs-lookup"><span data-stu-id="e8778-103">The steps for adding external/guest users can be different depending on what you need them to be able to access.</span></span> <span data-ttu-id="e8778-104">Silakan pilih salah satu dari berikut ini:</span><span class="sxs-lookup"><span data-stu-id="e8778-104">Please choose one of the following:</span></span>
   
-- [<span data-ttu-id="a6f35-105">Ringkasan berbagi eksternal SharePoint online</span><span class="sxs-lookup"><span data-stu-id="a6f35-105">SharePoint Online external sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [<span data-ttu-id="e8778-105">Ringkasan berbagi eksternal SharePoint online</span><span class="sxs-lookup"><span data-stu-id="e8778-105">SharePoint Online external sharing overview</span></span>](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [<span data-ttu-id="a6f35-106">Akses tamu di Office 365 grup</span><span class="sxs-lookup"><span data-stu-id="a6f35-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [<span data-ttu-id="e8778-106">Akses tamu di Office 365 grup</span><span class="sxs-lookup"><span data-stu-id="e8778-106">Guest access in Office 365 Groups</span></span>](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [<span data-ttu-id="a6f35-107">Akses tamu di Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="a6f35-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [<span data-ttu-id="e8778-107">Akses tamu di Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="e8778-107">Guest access in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
