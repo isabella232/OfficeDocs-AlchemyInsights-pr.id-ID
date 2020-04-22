@@ -1,8 +1,8 @@
 ---
-title: Kode kesalahan 550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas
+title: Kode galat 550 5.7.705 Akses ditolak, penghuni telah melebihi ambang
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702993"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Akses ditolak, penghuni telah melebihi ambang
 
-Pesan ini terjadi ketika terlalu banyak spam atau massal Surat sudah dikirim oleh organisasi Anda dan kami menempatkan blok pada pesan keluar.
-Penyebab umum adalah server lokal dikompromikan atau account dikompromikan admin yang telah digunakan untuk membuat konektor. Kondisi baik dapat memungkinkan spam untuk melewati organisasi Anda.
+Pesan ini terjadi bila terlalu banyak spam atau email massal telah dikirim oleh organisasi Anda dan kami menempatkan pemblokiran pada email keluar.
+Penyebab umum dikompromikan server lokal atau akun admin dikompromikan yang telah digunakan untuk membuat konektor. Salah satu kondisi dapat memungkinkan spam untuk melewati organisasi Anda.
 
-Untuk menghapus blok ini, Anda perlu memahami dan menjelaskan penyebab kepada agen dukungan, serta memperbaiki masalah mendasar.
-Klik **hubungi kami** di bawah ini setelah Anda siap.
+Untuk menghapus blok ini, Anda perlu memahami dan menjelaskan penyebab agen dukungan, serta memperbaiki masalah mendasar.
+Klik **hubungi kami** di bawah setelah Anda siap.

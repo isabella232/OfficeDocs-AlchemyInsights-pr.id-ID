@@ -3,18 +3,18 @@ title: Outlook desktop ingat atau mengganti pesan email
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496114"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687513"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Ingat atau ganti pesan email Outlook
 
@@ -37,4 +37,4 @@ Mencari dan menghapus pesan email di organisasi Anda
 - [Membuat pencarian konten](https://docs.microsoft.com/office365/securitycompliance/content-search) untuk menemukan pesan yang akan dihapus.
 - [Sambungkan ke pusat keamanan dan kepatuhan PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Jika Anda menggunakan otentikasi multi faktor, lihat [tersambung ke Office 365 keamanan dan kepatuhan pusat PowerShell menggunakan otentikasi multi faktor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Jika Anda menggunakan otentikasi multi faktor, lihat [tersambung ke Microsoft 365 keamanan dan pusat kepatuhan PowerShell menggunakan otentikasi multi faktor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

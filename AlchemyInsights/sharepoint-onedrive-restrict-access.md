@@ -2,18 +2,18 @@
 title: Membatasi akses di SharePoint atau OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053768"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692768"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Membatasi akses di SharePoint atau OneDrive
 
@@ -31,7 +31,7 @@ Di SharePoint online dan OneDrive for Business, kami membatasi akses ke item sep
 
 - [Mengontrol akses dari perangkat yang tidak dikelola](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Sebagai SharePoint atau global admin di Office 365, Anda dapat memblokir atau membatasi akses ke SharePoint dan OneDrive konten dari perangkat yang tidak dikelola (yang tidak hibrida AD bergabung atau sesuai di Intune).
+Sebagai SharePoint atau global admin, Anda dapat memblokir atau membatasi akses ke SharePoint dan OneDrive konten dari perangkat yang tidak dikelola (mereka tidak hibrid AD bergabung atau sesuai di Intune).
 
 **Pembatasan lokasi jaringan**
 
@@ -43,5 +43,5 @@ Dalam SharePoint online Anda memiliki kemampuan untuk mengunci koleksi situs, se
 
 **Membatasi pengguna membuat situs atau subsitus**
 
-Sebagai admin SharePoint atau admin global 365 Office, Anda dapat membiarkan pengguna membuat dan mengelola situs SharePoint mereka sendiri, menentukan jenis situs yang dapat mereka buat, dan menentukan lokasi situs. Untuk informasi lebih lanjut, silakan lihat [Kelola pembuatan situs di SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Sebagai admin SharePoint atau global admin, Anda dapat membiarkan pengguna Anda membuat dan mengelola situs SharePoint mereka sendiri, menentukan jenis situs yang mereka dapat membuat, dan menentukan lokasi situs. Untuk informasi lebih lanjut, silakan lihat [Kelola pembuatan situs di SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

@@ -1,8 +1,8 @@
 ---
-title: Kesalahan 0-1036 ketika menginstal office
+title: Galat 0-1036 saat menginstal Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703249"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Kesalahan 0-1036 ketika menginstal office
+# <a name="error-0-1036-when-installing-office"></a>Galat 0-1036 saat menginstal Office
 
-Coba solusi ini untuk memperbaiki kesalahan kantor Anda 0-1036:
+Coba solusi ini untuk memperbaiki kesalahan Office 0-1036:
   
-- Restart komputer Anda dan coba lagi [menginstal Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- Mulai ulang komputer dan coba [Instal Office](https://portal.office.com/OLS/MySoftware.aspx) lagi.
 
-- Download dan install [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Unduh dan instal [Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ketika terbuka, dari **kantor Uninstall produk** pilih Versi yang Anda ingin menghapus penginstalan, dan pilih **berikutnya**.
+1. Ketika terbuka, dari **uninstall produk Office** pilih Versi yang ingin Anda uninstall, dan pilih **berikutnya**.
 
-2. Lanjutkan melalui layar dan restart komputer Anda bila diminta.
+2. Terus telusuri layar dan mulai ulang komputer saat diminta.
 
-    Setelah restart, dukungan dan asisten pemulihan secara otomatis akan kembali membuka untuk menyelesaikan proses pencopotan pemasangan.
+    Setelah restart, Asisten dukungan dan pemulihan secara otomatis membuka kembali untuk menyelesaikan proses pembongkaran.
 
-3. Ikuti petunjuknya tersisa, dan [instal ulang kantor](https://portal.office.com/OLS/MySoftware.aspx) atau menutup asisten.
+3. Ikuti petunjuk yang tersisa, dan [instal ulang Office](https://portal.office.com/OLS/MySoftware.aspx) atau tutup asisten.
 
-- [Gunakan Penginstal offline kantor](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) untuk menginstal Office
+- [Menggunakan Penginstal Office luring](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) untuk menginstal Office

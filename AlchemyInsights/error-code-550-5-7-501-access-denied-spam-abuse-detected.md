@@ -2,7 +2,7 @@
 title: Kode galat 550 5.7.501 Akses ditolak, penyalahgunaan spam terdeteksi
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703029"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Akses ditolak, penyalahgunaan spam terdeteksi
 
-Biasanya, pesan ini terjadi saat pengguna mengirim pesan email dari alamat IP menggunakan domain *. onmicrosoft.com* awal yang ditetapkan untuk penyewa baru di Office 365. Cara termudah untuk mengatasi masalah ini adalah:
+Biasanya, pesan ini terjadi saat pengguna mengirim pesan email dari alamat IP yang menggunakan domain *. onmicrosoft.com* awal yang ditetapkan untuk penyewa baru di Microsoft 365. Cara termudah untuk mengatasi masalah ini adalah:
 
 1. [Tambahkan domain ke penyewa Anda](https://docs.microsoft.com//office365/admin/setup/add-domain).
 

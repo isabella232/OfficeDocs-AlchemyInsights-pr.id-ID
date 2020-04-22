@@ -3,7 +3,7 @@ title: DLP tidak bekerja seperti yang diharapkan
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977441"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704416"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP tidak bekerja seperti yang diharapkan
 
@@ -32,7 +32,7 @@ Kebijakan DLP memungkinkan Anda mengidentifikasi dan melindungi informasi sensit
   
  **Apa yang dicari oleh kebijakan DLP**
   
-Saat menggunakan **jenis informasi sensitif internal** di pusat keamanan dan kepatuhan Office 365, kebijakan DLP mencari pola dan elemen tertentu saat mendeteksi jenis sensitif ini.
+Bila menggunakan **jenis informasi sensitif internal** di pusat keamanan dan kepatuhan, kebijakan DLP akan mencari pola dan elemen tertentu saat mendeteksi jenis sensitif ini.
   
 - **Jenis informasi sensitif internal**
 

@@ -1,9 +1,9 @@
 ---
-title: 1245-impor-PST-Services
+title: 1245-import-PST-Layanan
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496353"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687765"
 ---
-# <a name="office-365-import-service"></a>Jasa Import Office 365
+# <a name="microsoft-365-import-service"></a>Layanan Microsoft 365 impor
 
-Kantor 365 impor layanan memungkinkan Anda untuk massal-impor beberapa PST file ke kotak pesan Exchange Online.
+Layanan Microsoft 365 impor memungkinkan Anda untuk mengimpor massal beberapa PST file ke kotak surat Exchange Online.
 
 Untuk mengakses Layanan Impor dan memulai proses impor:
 
-1. Pergi ke [& keamanan Compliance Center](https://protection.office.com) dan masuk menggunakan kredensial account administrator di organisasi Office 365.
+1. Buka [pusat kepatuhan & keamanan](https://protection.office.com) dan masuk menggunakan kredensial untuk akun administrator di organisasi Anda.
 
-2. Dalam pane kiri **keamanan & Compliance Center**, klik **Data pemerintahan > impor**.
+2. Di sebelah kiri **pusat kepatuhan & keamanan**, klik **tata kelola data > impor**.
 
-3. Pada halaman **impor** , klik **baru impor pekerjaan**.
+3. Pada halaman **impor** , klik **pekerjaan impor baru**.
 
-4. Untuk menyelesaikan langkah-langkah di Wisaya, silakan ikuti [petunjuk langkah demi langkah](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Untuk menyelesaikan langkah di Wisaya, ikuti [petunjuk langkah demi langkah](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)ini.
 
-**Penting**: untuk mengakses halaman **impor** di & keamanan Compliance Center, Anda telah diberi [izin yang sesuai](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Penting**: untuk mengakses halaman **impor** di pusat kepatuhan & keamanan, Anda telah diberi [izin yang sesuai](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Jika Anda hanya ingin mengimpor PST ke kotak pesan, lihat [artikel ini](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Jika Anda hanya ingin mengimpor PST ke kotak surat Anda, lihat [artikel ini](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

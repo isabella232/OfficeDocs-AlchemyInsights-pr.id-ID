@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661299"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687621"
 ---
-# <a name="office-365-alert-policies"></a>Kantor 365 kebijakan siaga
+# <a name="alert-policies"></a>Kebijakan peringatan
 
-Pusat kepatuhan Office 365 keamanan & menawarkan [kebijakan peringatan default](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) yang memicu peringatan untuk organisasi dengan Office 365 Enterprise atau Office 365 US Government E1/G1, E3/G3, atau langganan E5/G5. Oleh karena itu, admin mungkin menerima pemberitahuan email peringatan Dikirim oleh Office365Alerts@microsoft.com dengan baris subjek seperti "rendah-keparahan peringatan: *nama kebijakan peringatan*". Pemberitahuan peringatan dikirim saat peringatan dipicu untuk aktivitas umum, seperti ketika pengguna:
+Microsoft 365 keamanan & Compliance Center menawarkan [kebijakan peringatan default](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) yang memicu peringatan untuk organisasi dengan Office 365 Enterprise atau Office 365 US Government E1/G1, E3/G3, atau langganan E5/G5. Oleh karena itu, admin mungkin menerima pemberitahuan email peringatan Dikirim oleh Office365Alerts@microsoft.com dengan baris subjek seperti "rendah-keparahan peringatan: *nama kebijakan peringatan*". Pemberitahuan peringatan dikirim saat peringatan dipicu untuk aktivitas umum, seperti ketika pengguna:
 
 - Buat aturan kotak masuk yang meneruskan email.
 - Menetapkan izin kotak surat mereka.

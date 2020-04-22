@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 904b282ef8ecfa8144203da49b5ed41f824bcf20
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564521"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671496"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Menambahkan, menghapus, atau mencegah pengguna mengubah foto profil
 
-- **Menambahkan foto profil:** Foto profil dapat ditambahkan oleh administrator di [Microsoft 365 Admin Center, pengguna aktif](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) atau [Azure Active Directory manajemen pengguna](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Jika Anda tidak melihat opsi "Ubah foto", pastikan lisensi ditetapkan ke pengguna tersebut. Foto dapat ditambahkan atau diubah oleh pengguna dalam profil pengguna mereka dari layanan Microsoft 365 dengan mengklik inisial/foto di kanan atas layar. Untuk informasi lebih lanjut tentang menambahkan foto profil, lihat [menambahkan foto profil Anda ke Office 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Menambahkan foto profil:** Foto profil dapat ditambahkan oleh administrator di [Microsoft 365 Admin Center, pengguna aktif](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) atau [Azure Active Directory manajemen pengguna](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Jika Anda tidak melihat opsi "Ubah foto", pastikan lisensi ditetapkan ke pengguna tersebut. Foto dapat ditambahkan atau diubah oleh pengguna dalam profil pengguna mereka dari layanan Microsoft 365 dengan mengklik inisial/foto di kanan atas layar. Untuk informasi lebih lanjut tentang menambahkan foto profil, lihat [menambahkan foto profil Anda ke Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Menghapus foto profil:** Foto profil dapat dihapus oleh administrator di [Azure Active Directory manajemen pengguna](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) atau pengguna di profil pengguna Microsoft teams mereka.
 
-- **Memblokir perubahan foto profil:** Perubahan foto dapat diblokir untuk semua Microsoft 365 * dengan menambahkan kebijakan Outlook Web App per artikel, [mengunci foto atau membatasi izin untuk mengubah Office 365 foto profil](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Memblokir perubahan foto profil:** Perubahan foto dapat diblokir untuk semua Microsoft 365 * dengan menambahkan kebijakan Outlook Web App per artikel, [mengunci foto atau membatasi izin untuk mengubah foto profil microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 * Harap dicatat bahwa Microsoft teams saat ini tidak mendukung kebijakan Outlook Web App untuk memblokir perubahan foto tetapi berencana untuk menambahkan dukungan untuk fitur ini di awal 2020.

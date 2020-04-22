@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703682"
 ---
 # <a name="enable-an-archive-mailbox"></a>Mengaktifkan kotak pesan arsip
 
@@ -25,7 +25,7 @@ Berikut adalah cara membuat kotak pesan arsip:
   
 1. Pergi ke [https://protection.office.com](https://protection.office.com).
 
-2. Masuk ke Office 365 menggunakan akun admin Anda.
+2. Masuk ke Microsoft 365 menggunakan akun admin Anda.
 
 3. &amp; Di sebelah kiri pusat kepatuhan keamanan, pilih **Arsip** **tata kelola** \> informasi.
 
@@ -51,6 +51,6 @@ Untuk mengaktifkan Arsip untuk kotak surat bersama:
 
 Untuk informasi selengkapnya, lihat:
   
-- [Mengaktifkan kotak surat arsip di Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Mengaktifkan kotak pesan arsip](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Mengatur arsip dan penghapusan kebijakan di Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Menyiapkan kebijakan pengarsipan dan penghapusan](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

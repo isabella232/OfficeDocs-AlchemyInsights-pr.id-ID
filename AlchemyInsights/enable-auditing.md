@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan dan pencarian Audit log
+title: Mengaktifkan dan mencari log audit
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665079"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703646"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Mengaktifkan dan pencarian Audit log
+# <a name="enable-and-search-the-audit-log"></a>Mengaktifkan dan mencari log audit
 
-**Office 365**
+**Microsoft 365**
 
-Untuk mencari log audit Office 365, ikuti [langkah berikut](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Untuk mencari log audit Microsoft 365, ikuti [langkah](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)berikut.
 
-**Asing**
+**Exchange**
 
-- Kegiatan admin pertukaran yang diaudit secara default.
+- Aktivitas admin Exchange diaudit secara default.
 
-- Kotak pesan audit akan diaktifkan secara default di Office 365. Untuk informasi lebih lanjut, lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Audit kotak surat diaktifkan secara default di Microsoft 365. Untuk informasi selengkapnya, lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Kantor 365 Grup kotak pesan dan folder publik kotak pesan di Exchange Online tidak mendukung pendataan audit.
+- Kantor 365 Grup kotak surat dan folder publik kotak surat di Exchange Online tidak mendukung audit pengelogan.
 
 **SharePoint dan OneDrive**
 
 - Ada tidak ada konfigurasi tambahan yang diperlukan untuk mengaktifkan audit untuk SharePoint dan OneDrive.
 
-- SharePoint dan OneDrive mendukung berikut jenis kegiatan audit:
+- SharePoint dan OneDrive Dukungan Audit jenis aktivitas berikut ini:
 
-    - File, folder, dan halaman kegiatan
-    - Kegiatan permintaan berbagi dan akses
+    - File, folder, dan aktivitas Halaman
+    - Berbagi dan mengakses aktivitas permintaan
     - Kegiatan administrasi situs
-    - File sinkronisasi kegiatan
+    - Aktivitas sinkronisasi file
 
-- Untuk informasi tentang kegiatan yang diperiksa pada layanan Office 365 lainnya, lihat [tabel di artikel ini](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Untuk informasi tentang aktivitas yang diaudit di layanan lainnya, lihat [tabel di artikel ini](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Berikut daftar pertanyaan yang sering ditanyakan [pertanyaan yang sering diajukan](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) tentang mencari audit log.
+- Berikut daftar pertanyaan umum yang [sering](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) diajukan tentang pencarian log audit.

@@ -1,22 +1,22 @@
 ---
-title: Apakah Anda melihat email penundaan atau antri mail?
+title: Apakah Anda melihat penundaan email atau antrian email?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765155"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703790"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Apakah Anda melihat email penundaan atau antri mail?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Apakah Anda melihat penundaan email atau antrian email?
 
-Kami baru saja mulai mencela remaja Endpoint kantor 365 SMTP. Nilai-nilai tujuan Office 365 ini yang tersedia untuk digunakan di MX records dan host pintar sebelum 2012. Jika Anda masih menggunakan salah satu nilai-nilai ini remaja, Anda harus memperbarui endpoint Office 365 ke nilai didukung. Untuk informasi lebih lanjut, lihat ini [mendukung KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Kami baru-baru ini mulai menbantasi akhir SMTP lama. Nilai tujuan tersebut tersedia untuk digunakan dalam data MX dan Smart host sebelum 2012. Jika Anda masih menggunakan salah satu nilai yang lebih lama ini, Anda harus memperbarui Endpoint ke nilai yang didukung. Untuk informasi selengkapnya, lihat ini [dukungan KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

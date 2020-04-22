@@ -3,7 +3,7 @@ title: Outlook.com tidak dapat masuk ke Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698421"
 ---
 # <a name="cant-sign-in-to-outlookcom"></a>Tidak dapat masuk ke Outlook.com
 
-Jika Anda mengalami kesulitan masuk ke akun, pastikan akun Anda belum aktif selama lebih dari 365 hari. Setelah 365 hari tidak aktif, email akan dihapus dan tidak dapat dipulihkan.
+Jika Anda mengalami masalah saat masuk ke akun, pastikan akun Anda tidak aktif selama lebih dari 365 hari. Setelah 365 hari tidak aktif, email Anda akan dihapus dan tidak dapat dipulihkan.
   
-Akun Anda mungkin diblokir sementara karena kami melihat aktivitas biasa masuk. Jika akun Anda diblokir, baca Bagaimana untuk [Unblock Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Akun Anda mungkin diblokir sementara karena kami melihat beberapa aktivitas masuk yang tidak biasa. Jika akun Anda diblokir, baca cara [membuka blokir akun Outlook.com saya](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Jika Anda menduga telah hacked Outlook.com account, lihat [My Outlook.com account telah dibajak](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Jika Anda mencurigai akun Outlook.com Anda telah diretas, lihat [akun Outlook.com saya telah diretas](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Jika Anda lupa atau kehilangan password Anda, Anda dapat [membuat ulang sandi](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Jika lupa atau kehilangan kata sandi, Anda dapat [menyetel ulang sandi](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Baca lebih lanjut tentang [bila Anda tidak dapat sign in ke akun Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Baca selengkapnya tentang [Kapan Anda tidak dapat login ke akun Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
   

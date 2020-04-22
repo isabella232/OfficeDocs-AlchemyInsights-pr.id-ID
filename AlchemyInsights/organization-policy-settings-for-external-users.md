@@ -10,18 +10,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 18a313ef54d94374b475ebc7f98c8ad62c5b0ee7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054489"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642003"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Pengaturan kebijakan organisasi untuk pengguna eksternal
 
 Pengguna dapat melihat pesan peringatan berikut ketika mereka mencoba untuk berbagi dengan pengguna eksternal organisasi Anda: 
 
-   **Kebijakan organisasi Anda tidak mengizinkan Anda untuk berbagi dengan pengguna tersebut. Buka berbagi eksternal di pusat admin Office 365 untuk mengaktifkannya.** 
+   **Kebijakan organisasi Anda tidak mengizinkan Anda untuk berbagi dengan pengguna tersebut. Buka berbagi eksternal di Microsoft 365 Admin Center untuk mengaktifkannya.** 
 
 Hal ini sering terjadi pertama kali mencoba untuk berbagi dengan pengguna eksternal atau ketika berbagi dengan pengguna eksternal baru. Untuk informasi lebih lanjut, silakan lihat artikel di bawah ini:
 

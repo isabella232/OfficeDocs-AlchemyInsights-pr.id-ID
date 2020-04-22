@@ -7,19 +7,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046746"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642255"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Perlindungan IRM ke file SharePoint
 
 
-Dalam SharePoint online, Perlindungan IRM diterapkan ke berkas di tingkat daftar dan perpustakaan. Sebelum organisasi dapat menggunakan Perlindungan IRM, Anda harus terlebih dahulu mengatur manajemen hak. IRM bergantung pada layanan pengelolaan hak Azure dari perlindungan informasi Azure untuk mengenkripsi dan menetapkan pembatasan penggunaan. Beberapa Office 365 rencana termasuk manajemen hak Azure, tetapi tidak semua. 
+Dalam SharePoint online, Perlindungan IRM diterapkan ke berkas di tingkat daftar dan perpustakaan. Sebelum organisasi dapat menggunakan Perlindungan IRM, Anda harus terlebih dahulu mengatur manajemen hak. IRM bergantung pada layanan pengelolaan hak Azure dari perlindungan informasi Azure untuk mengenkripsi dan menetapkan pembatasan penggunaan. Beberapa langganan Microsoft 365 mencakup manajemen hak Azure, tetapi tidak semua. 
 
-Untuk mempelajari lebih lanjut, lihat:
+Untuk mempelajari selengkapnya, lihat:
 
 - [Bagaimana aplikasi dan layanan Office mendukung Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 

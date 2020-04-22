@@ -1,8 +1,8 @@
 ---
-title: Kode kesalahan 0x15
+title: Kode galat 0x15
 ms.author: pebaum
 author: pebaum
-ms.date: 10/31/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Jika Anda menerima kesalahan ketika mengaktifkan kantor 2013 pada Remote Desktop Services (RDS) penyebaran, mempertimbangkan memungkinkan ADAL dengan mengedit registri.
-ms.openlocfilehash: 4ef2943e5a529368fa2c614e4431cf180924fbb8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+description: Jika Anda menerima pesan kesalahan saat mengaktifkan Office 2013 pada penyebaran layanan desktop jarak jauh (RDS), pertimbangkan untuk mengaktifkan ADAL dengan mengedit registri.
+ms.openlocfilehash: 566d63cbe37d295b3546b9d7d5b14dfc8e8fe0ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527005"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703141"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Kesalahan saat aktivasi kantor 2013 pada Remote Desktop Services
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Galat saat aktivasi Office 2013 pada layanan desktop jarak jauh
 
-Jika Anda menerima kesalahan ketika mengaktifkan kantor 2013 pada Remote Desktop Services (RDS) penyebaran, mempertimbangkan memungkinkan ADAL dengan mengedit registri.
+Jika Anda menerima pesan kesalahan saat mengaktifkan Office 2013 pada penyebaran layanan desktop jarak jauh (RDS), pertimbangkan untuk mengaktifkan ADAL dengan mengedit registri.
   
 |**Kunci registri**|**Jenis**|**Nilai**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
+|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Untuk selengkapnya, lihat [Mengaktifkan otentikasi Modern untuk kantor 2013 pada perangkat Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
+Untuk informasi selengkapnya, lihat [mengaktifkan otentikasi modern untuk Office 2013 pada perangkat Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
   
 > [!NOTE]
->  ADAL diaktifkan secara default di kantor 365 ProPlus dan kantor 2016. Remote Desktop Services (RDS) sebelumnya bernama Layanan Terminal.
+>  ADAL diaktifkan secara default di Microsoft 365 aplikasi untuk perusahaan dan Office 2016. Layanan desktop jarak jauh (RDS) sebelumnya bernama layanan terminal.
   

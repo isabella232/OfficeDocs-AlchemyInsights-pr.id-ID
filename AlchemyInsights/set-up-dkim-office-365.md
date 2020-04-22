@@ -1,5 +1,5 @@
 ---
-title: Setup DKIM di Office 365
+title: Pengaturan DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666267"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645675"
 ---
-# <a name="setup-dkim-in-office-365"></a>Setup DKIM di Office 365
+# <a name="setup-dkim"></a>Pengaturan DKIM
 
-Petunjuk lengkap untuk mengkonfigurasi DKIM untuk custom domain di Office 365 [di sini](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Petunjuk lengkap untuk mengonfigurasi DKIM untuk domain kustom di Microsoft 365 ada [di sini](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. Untuk **setiap** domain kustom, Anda perlu membuat **dua** DKIM CNAME records di layanan hosting DNS domain Anda (biasanya, registrar domain). Misalnya, contoso.com dan fourthcoffee.com memerlukan empat DKIM CNAME records: dua untuk contoso.com dan dua untuk fourthcoffee.com.
+1. Untuk **setiap** domain kustom, Anda perlu membuat **dua** data CNAME DKIM di layanan hosting DNS domain (biasanya, registrar domain). Misalnya, contoso.com dan fourthcoffee.com memerlukan empat data CNAME DKIM: dua untuk contoso.com dan dua untuk fourthcoffee.com.
 
-   DKIM CNAME records untuk **setiap** domain kustom menggunakan format berikut:
+   Data CNAME DKIM untuk **setiap** domain kustom menggunakan format berikut:
 
    - **Nama host**:`selector1._domainkey.<CustomDomain>`
 
@@ -36,16 +36,16 @@ Petunjuk lengkap untuk mengkonfigurasi DKIM untuk custom domain di Office 365 [d
 
      **TTL**: 3600
 
-   \<DomainGUID\> adalah teks di sebelah kiri `.mail.protection.outlook.com` dalam data MX disesuaikan untuk custom domain (misalnya, `contoso-com` untuk domain contoso.com). \<InitialDomain\> adalah domain yang digunakan saat mendaftar ke Office 365 (misalnya, contoso.onmicrosoft.com).
+   \<DomainGUID\> adalah teks `.mail.protection.outlook.com` di sebelah kiri dalam data MX yang disesuaikan untuk domain kustom (misalnya, `contoso-com` untuk domain contoso.com). \<InitialDomain\> adalah domain yang Anda gunakan ketika Anda mendaftar untuk Microsoft 365 (misalnya, contoso.onmicrosoft.com).
 
-2. Setelah membuat data CNAME untuk domain kustom, lengkap petunjuk berikut:
+2. Setelah membuat data CNAME untuk domain kustom, selesaikan petunjuk berikut:
 
-   a. [Masuk ke kantor 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) dengan akun kantor atau sekolah.
+   J. [masuk ke Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) dengan akun kantor atau sekolah.
 
-   b. Pilih ikon peluncur app di kiri dan pilih **Admin**.
+   B. Pilih ikon peluncur aplikasi di kiri atas dan pilih **admin**.
 
-   c. Pada navigasi kiri, memperluas **Admin** dan memilih **asing**.
+   C. Di navigasi kiri bawah, Perluas **admin** dan pilih **Exchange**.
 
-   d. Pergi ke **perlindungan** > **DKIM**.
+   D. Pergi ke **perlindungan** > **DKIM**.
 
-   e. Pilih domain, dan kemudian memilih **mengaktifkan** **tanda**pesan untuk domain ini dengan DKIM tanda tangan. Ulangi langkah ini untuk setiap domain kustom.
+   E. Pilih domain, lalu pilih **Aktifkan** untuk **menandatangani pesan untuk domain ini dengan tanda tangan DKIM**. Ulangi langkah ini untuk setiap domain kustom.

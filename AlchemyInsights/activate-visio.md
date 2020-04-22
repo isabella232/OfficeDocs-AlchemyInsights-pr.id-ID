@@ -1,9 +1,9 @@
 ---
-title: Aktifkan Visio
+title: Mengaktifkan Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495430"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682295"
 ---
-# <a name="activate-visio"></a>Aktifkan Visio
+# <a name="activate-visio"></a>Mengaktifkan Visio
 
-Sebelum pengguna dapat menginstal dan mengaktifkan desktop aplikasi desktop Visio disertakan dengan mereka Visio Online rencana 2, pengguna harus telah ditetapkan [Visio lisensi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Sebelum pengguna dapat menginstal dan mengaktifkan aplikasi desktop Visio desktop disertakan dengan Visio online paket 2, pengguna harus telah ditetapkan [lisensi Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**Catatan** Visio Online rencana 1 tidak termasuk versi desktop Visio.
+**Catatan** Visio online paket 1 tidak menyertakan Visio versi desktop.
 
 Untuk mengaktifkan Visio:
 
-1. Instal Visio dari [My portal akun](https://portal.office.com/account#installs) Anda jika sudah terinstal. Untuk bantuan, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. Ketika instalasi selesai, membuka aplikasi Visio. Visio mungkin akan diaktifkan secara otomatis dan Anda dapat mulai menggunakan segera. Jika tidak, Anda mungkin diminta untuk sign in. Pastikan untuk sign in dengan kerja sama atau account sekolah yang ditugaskan lisensi Visio. Ikuti petunjuk untuk melanjutkan dengan aktivasi. 
+1. Instal Visio dari [portal akun saya](https://portal.office.com/account#installs) jika belum terinstal. Untuk bantuan, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Setelah penginstalan selesai, buka aplikasi Visio. Visio kemungkinan akan diaktifkan secara otomatis dan Anda dapat langsung menggunakannya. Jika tidak, Anda mungkin akan diminta untuk masuk. Pastikan untuk masuk dengan akun kantor atau sekolah yang sama dengan yang memiliki lisensi Visio. Ikuti petunjuk untuk melanjutkan ke tahap aktivasi. 
 
-Untuk masalah aktivasi, menjalankan the [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy) pada komputer yang terkena.
+Untuk masalah aktivasi, jalankan [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy) pada komputer yang terpengaruh.
 
-Untuk melihat informasi rinci:<br>
-[Aktifkan kantor pada PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Berlangganan pemberitahuan muncul ketika saya membuka aplikasi Office 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Kantor kesalahan "produk-produk yang kami temukan di akun Anda tidak dapat digunakan untuk mengaktifkan <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Berlisensi produk dan aktivasi kesalahan di kantor](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+Untuk informasi selengkapnya, lihat:<br>
+[Mengaktifkan Office di PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Pemberitahuan langganan muncul ketika saya membuka aplikasi Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Galat Office "produk yang kami temukan di akun Anda tidak dapat digunakan untuk mengaktifkan <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Produk Tanpa Lisensi dan kesalahan aktivasi di Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
