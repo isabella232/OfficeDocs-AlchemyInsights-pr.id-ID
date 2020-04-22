@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627921"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715635"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Memperbaiki aplikasi Office "tidak dapat menemukan lisensi Office yang terkait" pesan
 
 Jika Anda menerima pesan ini, cobalah berikut ini:
 
-1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Office. Lihat [Office 365 URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Office. Lihat [Microsoft 365 URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Menghapus dan [menetapkan ulang lisensi Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) untuk pengguna yang dipakai. 
 3. Buka aplikasi Office dan keluar dari akun [pengguna yang ada](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) .
 4. Pergi ke pengaturan **Windows >** > akun**email &** akun, dan Hapus semua akun kerja kecuali akun yang terpengaruh.

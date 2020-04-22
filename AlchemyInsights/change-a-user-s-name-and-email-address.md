@@ -1,5 +1,5 @@
 ---
-title: Mengubah pengguna nama dan alamat email
+title: Mengubah nama dan alamat email pengguna
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 6a33ce3662680ed5940db94161b7f925670e397f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 833e4142356a02b23e2465273bf63c42ee7e4f5b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665403"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715779"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Mengubah pengguna nama dan alamat email
+# <a name="change-a-users-name-and-email-address"></a>Mengubah nama dan alamat email pengguna
 
-Mengubah nama pengguna dan alamat email di Office 365 mudah. Pergi ke **pengguna** \> [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) halaman dan pilih pengguna mengedit informasi mereka. Anda juga dapat menggunakan artikel ini untuk petunjuk langkah demi langkah:
+Mengubah nama pengguna dan alamat email di Microsoft 365 mudah. Pergi **ke** \> pengguna [aktif](https://go.microsoft.com/fwlink/p/?linkid=834822) halaman dan pilih pengguna untuk mengedit informasi mereka. Anda juga dapat menggunakan artikel ini untuk petunjuk langkah demi langkah:
   
-[Mengubah pengguna nama dan alamat email di Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+[Mengubah nama pengguna dan alamat email di Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
   
- **Catatan**: jika Anda mengubah alamat email utama pengguna, alamat email yang lama mereka masih akan berlaku untuk menerima email (ini terjadi secara otomatis). Juga, jika organisasi Anda sedang dalam keadaan hibrida, semua perubahan nama email dan pengguna perlu untuk dilakukan di Active Directory lokal dan kemudian disinkronisasikan ke internet.
+ **Catatan**: jika Anda mengubah alamat email utama pengguna, alamat email lama mereka akan tetap valid untuk menerima email (ini terjadi secara otomatis). Selain itu, jika organisasi Anda dalam keadaan hibrid, semua email dan perubahan nama pengguna harus dilakukan di direktori aktif di tempat dan kemudian disinkronkan ke Cloud.

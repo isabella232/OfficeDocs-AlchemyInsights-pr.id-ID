@@ -1,5 +1,5 @@
 ---
-title: Memindahkan email ke Office 365
+title: Pindahkan email ke Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666879"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713613"
 ---
-# <a name="move-email-to-office-365"></a>Memindahkan email ke Office 365
+# <a name="move-email-to-microsoft-365"></a>Pindahkan email ke Microsoft 365
 
-Anda memiliki beberapa pilihan untuk bermigrasi email ke Office 365. [Office 365 mail migrasi penasihat](https://aka.ms/alchemyinsight-mailmigrationadvisor) membantu Anda memilih yang terbaik untuk lingkungan Anda dan juga memandu Anda melalui migrasi e-mail.
+Anda memiliki beberapa pilihan untuk migrasi email ke Microsoft 365. [Penasihat migrasi Surat Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) membantu Anda memilih yang terbaik untuk lingkungan Anda dan juga memandu Anda melalui migrasi email.
   
-Untuk membaca tentang pilihan tanpa harus memulai migrasi, lihat [memutuskan pada jalur migrasi](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Untuk membaca tentang pilihan Anda tanpa memulai migrasi, silakan lihat [memutuskan jalur migrasi](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Silakan juga Periksa halaman [mengadopsi Office 365 dengan FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu migrasi, jika memenuhi syarat.
+Silakan juga memeriksa [mengadopsi Microsoft 365 dengan halaman FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) untuk bantuan dibantu dengan migrasi, jika memenuhi syarat.
   

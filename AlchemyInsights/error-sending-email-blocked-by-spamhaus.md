@@ -1,9 +1,9 @@
 ---
-title: Pengiriman email yang diblokir oleh SpamHaus
+title: Error saat mengirim email yang diblokir oleh SpamHaus
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 39213f6f1b96c2bef9ea071f43c38766debf64d1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ff4f7a155fe74f5b42a1bd43e67ef0a751d7fbd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527137"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714261"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Pengiriman email: host klien yang diblokir menggunakan Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Kesalahan pengiriman email: host klien diblokir menggunakan SpamHaus
 
-Alamat IP yang mengirim pesan adalah pada daftar blokir yang dimiliki oleh [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Alasan untuk diblokir oleh Spamhaus menyertakan account dikompromikan, dikompromikan mesin berbagi alamat IP publik, dan kebijakan Internet Service Provider (ISP). Perbaikan yang mungkin adalah:
+Alamat IP yang mengirim pesan adalah pada daftar blokir milik [SpamHaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Alasan diblokir oleh SpamHaus termasuk akun yang dikompromikan, dikompromikan mesin berbagi alamat IP publik, dan Internet Service Provider (ISP) kebijakan. Kemungkinan perbaikan adalah:
   
-- Diblokir inbound pesan ke Office 365 mana Anda kontrol sumber server email, Anda perlu untuk menentukan penyebab dan menghapus blok dari situs Spamhaus.
+- Untuk pesan masuk diblokir di mana Anda mengontrol server email sumber, Anda perlu menentukan penyebabnya dan menghapus blok dari situs web SpamHaus.
 
-- Diblokir inbound pesan ke Office 365 mana alamat IP sumber milik orang lain, pemilik alamat kebutuhan untuk menghapus blok dari situs Spamhaus. Jika alamat IP pada kebijakan blok daftar (PBL), pemilik dapat menetapkan alamat IP statis yang berbeda atau menghapus alamat dari PBL.
+- Untuk pesan masuk diblokir di mana alamat IP sumber milik orang lain, pemilik alamat harus menghapus blok dari situs web SpamHaus. Jika alamat IP di kebijakan blok daftar (PBL), pemilik dapat menetapkan alamat IP statis yang berbeda atau menghapus alamat dari PBL.
 
-- Untuk pesan keluar diblokir dari domain Office 365, Anda dapat menerima kesalahan ini jika pesan akan diteruskan melalui layanan pihak ke-3. Anda dapat menggunakan alat pencarian WHOIS untuk menemukan pemilik alamat IP yang diblokir.
+- Untuk diblokir pesan keluar dari domain Anda terhubung ke Microsoft, Anda dapat menerima galat ini jika pesan diarahkan melalui layanan pihak ke-3. Anda dapat menggunakan alat pencarian WHOIS untuk menemukan pemilik alamat IP yang diblokir.

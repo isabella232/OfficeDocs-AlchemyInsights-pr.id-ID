@@ -1,9 +1,9 @@
 ---
-title: 2681 serangan Simulator di kantor 365
+title: 2681 serangan Simulator di Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713469"
 ---
-# <a name="attack-simulator-in-office-365"></a>Serangan Simulator di kantor 365
+# <a name="attack-simulator-in-microsoft-365"></a>Serangan Simulator di Microsoft 365
 
-- Apakah Anda hilang Attack Simulator? Attack Simulator memerlukan **office 365 Advanced ancaman Protection Plan 2 (ATP rencana 2)** atau **Office 365 Enterprise E5**. Serangan Simulator **tidak** termasuk dalam Office 365 Advanced ancaman perlindungan rencana 1 (ATP rencana 1), Office 365 Enterprise E3, atau langganan Office 365 bisnis.
+- Apakah Anda hilang Attack Simulator? Attack Simulator memerlukan **office 365 Advanced ancaman Protection Plan 2 (ATP rencana 2)** atau **Office 365 Enterprise E5**. Serangan Simulator **tidak** termasuk dalam Office 365 Advanced ancaman perlindungan rencana 1 (ATP rencana 1), Office 365 Enterprise E3, atau Microsoft 365 aplikasi untuk langganan bisnis.
 
 - Account yang Anda gunakan untuk meluncurkan simulasi serangan memerlukan global administrator atau izin administrator keamanan dan otentikasi multi faktor (MFA). Untuk informasi selengkapnya tentang persyaratan Attack Simulator, lihat [topik ini](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305335"
 
 - Laporan: setelah serangan simulasi selesai, Anda dapat mengklik **rincian serangan** untuk melihat laporan.
 
-- Untuk petunjuk rinci dan fitur baru dalam Attack Simulator, lihat [Attack Simulator di Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Untuk petunjuk rinci dan fitur baru dalam serangan Simulator, lihat [serangan Simulator di Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

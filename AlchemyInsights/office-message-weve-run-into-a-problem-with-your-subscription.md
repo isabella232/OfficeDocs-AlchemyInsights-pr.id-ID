@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 28e72f734d4b1c9abefa3d9c7cefad4eb95d7c93
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713253"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Pesan aplikasi Office - Kami mengalami masalah dengan langganan Anda
 
@@ -26,7 +26,7 @@ ms.locfileid: "43183090"
 
 - Hapus dan tetapkan ulang [lisensi Office ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) ke pengguna yang terpengaruh. 
 
-- Buka Aplikasi Office, buka **File > Akun** dan Keluar dari semua akun. Masuk lagi menggunakan akun pengguna dengan lisensi yang valid. Untuk informasi mendetail, lihat [ akun di Office ](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9?ui=en-US&rs=en-GB&ad=GB).
+- Buka Aplikasi Office, buka **File > Akun** dan Keluar dari semua akun. Masuk lagi menggunakan akun pengguna dengan lisensi yang valid. Untuk informasi mendetail, lihat [ akun di Office ](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
 - Jalankan [ Pemecah Masalah Aktivasi ](https://aka.ms/SARA-OfficeActivation-Alchemy) lalu hidupkan ulang komputer.
 
@@ -36,4 +36,4 @@ Untuk instruksi detailnya, lihat:
 
 [Pemberitahuan langganan muncul ketika saya membuka aplikasi Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
-[Pemecahan masalah aktivasi Office ](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+[Pemecahan Masalah Aktivasi Office ](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)

@@ -1,34 +1,34 @@
 ---
-title: ATP untuk SharePoint, OneDrive dan Microsoft tim
+title: ATP untuk SharePoint, OneDrive, dan Microsoft teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765146"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712461"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP untuk SharePoint, OneDrive dan Microsoft tim
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP untuk SharePoint, OneDrive, dan Microsoft teams
 
 Ikuti langkah berikut untuk mengaktifkan perlindungan ancaman lanjutan:
 
-1. Pergi ke [https://protection.office.com](https://protection.office.com) dan sign in dengan global administrator atau keamanan account administrator.
+1. Buka [https://protection.office.com](https://protection.office.com) dan masuk dengan administrator global atau akun administrator keamanan.
 
-2. Di panel navigasi di sebelah kiri di bawah **ancaman manajemen**, memilih **kebijakan** \> **Lampiran aman**.
+2. Di panel navigasi kiri di bawah **manajemen ancaman**, pilih **kebijakan** \> **lampiran aman**.
 
-3. Pilih **Aktifkan ATP untuk SharePoint, OneDrive, dan tim Microsoft**.
+3. Pilih **Aktifkan ATP untuk SharePoint, OneDrive, dan Microsoft teams**.
 
-4. [Membuat kebijakan alert aktivitas](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) menerima pemberitahuan apabila kami mendeteksi file jahat.
+4. [Membuat kebijakan peringatan aktivitas](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) untuk menerima pemberitahuan saat kami mendeteksi file berbahaya.
 
 Untuk petunjuk lengkap, lihat [topik](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams)ini.
 
-**Catatan**: dengan desain, ATP tidak memindai setiap satu file dalam SharePoint Online, OneDrive untuk bisnis, atau Microsoft Teams. File scan asynchronously oleh sebuah proses yang menggunakan berbagi aktivitas, aktivitas tamu, dan ancaman sinyal untuk mengidentifikasi file jahat. Untuk selengkapnya, lihat [topik](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)ini.
+**Catatan**: Desain, ATP tidak memindai setiap file di SharePoint online, OneDrive untuk bisnis, atau Microsoft teams. File dipindai secara asinkron oleh proses yang menggunakan aktivitas berbagi, aktivitas tamu, dan sinyal ancaman untuk mengidentifikasi file berbahaya. Untuk informasi lebih lanjut, lihat [topik](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)ini.

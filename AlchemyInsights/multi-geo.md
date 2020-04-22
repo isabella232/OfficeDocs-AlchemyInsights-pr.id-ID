@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 2017b2d50b7170a6435ad8119b2a72f6066f89fa
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: cb9fef505e35e9d5888ab995d5cd3a43392b682f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713541"
 ---
-# <a name="office-365-multi-geo"></a>Kantor 365 multi-Geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 multi-Geo
 
-Dengan Office 365 multi-Geo, organisasi Anda dapat memperluas kehadiran Office 365 ke beberapa wilayah geografis dan/atau negara dalam penyewa yang ada. Lihat link di bawah untuk informasi lebih lanjut.
+Dengan Microsoft 365 multi-Geo, organisasi Anda dapat memperluas kehadiran Microsoft 365 ke beberapa wilayah geografis dan/atau negara dalam penyewa yang ada. Lihat link di bawah untuk informasi lebih lanjut.
 
-- [Kantor 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Microsoft 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
 - [Kemampuan multi-Geo di OneDrive dan SharePoint online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
 - [Kemampuan multi-Geo di Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
-- [Rencana untuk Office 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Rencana untuk Microsoft 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
 - [Mengonfigurasi multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

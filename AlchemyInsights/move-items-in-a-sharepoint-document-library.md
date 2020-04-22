@@ -3,7 +3,7 @@ title: Memindahkan item di perpustakaan dokumen SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711723"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713577"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Memindahkan item di perpustakaan dokumen SharePoint
 
@@ -40,4 +40,4 @@ Anda dapat memindahkan item ke lokasi yang berbeda dalam pustaka dokumen.
 Untuk informasi selengkapnya, lihat:
 
  - [Memindahkan atau menyalin file di SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (artikel dukungan Office)
- - [Memindahkan file dari folder di Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artikel blog komunitas Microsoft Tech) 
+ - [Memindahkan file dari folder di microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (artikel blog komunitas Microsoft Tech) 

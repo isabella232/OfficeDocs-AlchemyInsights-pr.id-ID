@@ -1,9 +1,9 @@
 ---
-title: Outlook.com update
+title: Outlook.com pembaruan
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 7b36780553b14043e2fb2e0ac5e8a9d65b9dc47f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719343"
 ---
-# <a name="outlookcom-updates"></a>Outlook.com update
+# <a name="outlookcom-updates"></a>Outlook.com pembaruan
 
 **Update terbaru**
 
-- Mendapatkan lebih banyak dari email Anda dengan Outlook.com baru. Kami telah efisien Cari untuk membuatnya lebih mudah daripada sebelumnya untuk menemukan apa yang Anda cari. Fitur-fitur baru seperti foto dan lampiran preview membiarkan Anda melihat gambar dan file tanpa meninggalkan kotak masuk Anda. Dan sekarang Anda dapat menambahkan emojis dan GIF ke pesan Anda.  [Belajar lebih banyak tentang Outlook.com baru.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- Dapatkan lebih banyak dari email Anda dengan Outlook.com baru. Kami telah menyederhanakan pencarian untuk membuatnya lebih mudah dari sebelumnya untuk menemukan apa yang Anda cari. Fitur baru seperti foto dan pratinjau lampiran memungkinkan Anda melihat gambar dan file tanpa meninggalkan kotak masuk. Dan sekarang Anda dapat menambahkan EMOJI dan GIF ke pesan Anda.  [Pelajari lebih lanjut tentang Outlook.com baru.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**Update email**
+**Pembaruan email**
 
-- Jika kotak pesan Outlook.com tidak memperbarui, melihat [Outlook.com memperbaiki masalah sinkronisasi email](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- Jika kotak pesan Outlook.com tidak diperbarui, lihat [memperbaiki masalah sinkronisasi email Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

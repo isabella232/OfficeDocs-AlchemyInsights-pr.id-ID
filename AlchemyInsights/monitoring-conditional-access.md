@@ -2,39 +2,39 @@
 title: Pemantauan akses bersyarat
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713721"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Pemantauan akses bersyarat untuk Asing
+# <a name="monitoring-conditional-access-for-exchange"></a>Pemantauan akses bersyarat untuk Exchange
 
-Pengguna dengan akses bersyarat yang ditargetkan akan menerima email pemberitahuan jika mereka tidak memenuhi persyaratan akses organisasi Anda. Untuk menyelesaikan, kami merekomendasikan satu atau lebih solusi berikut:
+Pengguna yang ditargetkan dengan akses bersyarat akan menerima email pemberitahuan jika mereka tidak memenuhi persyaratan akses organisasi Anda. Untuk menyelesaikan, kami merekomendasikan satu atau lebih solusi berikut:
   
-- Jika perangkat dianggap diterima, menyarankan pengguna untuk pergi ke app Portal perusahaan dan memverifikasi bahwa itu muncul di Portal perusahaan. Jika tidak, pengguna harus mendaftarkan perangkat.
+- Jika perangkat diduga terdaftar, menyarankan pengguna untuk pergi ke aplikasi portal perusahaan dan verifikasi bahwa ditampilkan di portal perusahaan. Jika tidak, pengguna harus mendaftarkan perangkat.
     
-- Di Azure portal pergi ke **Intune \> kepatuhan perangkat**. Di bawah **Monitor** klik **perangkat kepatuhan**. Lihat laporan kepatuhan perangkat Anda untuk memverifikasi bahwa perangkat pengguna ditandai sebagai compliant. 
+- Di portal Azure pergi ke ** \> Intune kepatuhan perangkat**. Di bawah **monitor** , klik **perangkat kepatuhan**. Lihat laporan kepatuhan perangkat untuk memverifikasi bahwa perangkat pengguna ditandai sebagai sesuai. 
     
-- Di Azure portal pergi ke **Intune \> kepatuhan perangkat**. Dalam **mengelola**, klik **kebijakan**. Dalam daftar kebijakan kepatuhan, pastikan bahwa profil yang ditetapkan ke perangkat pengguna Anda. Jika profil tidak ditetapkan, maka Intune tidak akan bisa mengkonfirmasi perangkat kepatuhan status. 
+- Di portal Azure pergi ke ** \> Intune kepatuhan perangkat**. Di bawah **Kelola**, klik **kebijakan**. Dalam daftar kebijakan kepatuhan, Verifikasikan bahwa profil ditetapkan ke perangkat pengguna Anda. Jika tidak ada profil yang ditetapkan, maka Intune tidak akan dapat mengkonfirmasi status kepatuhan perangkat. 
     
-- Mengedit tugas bersyarat akses pengguna.
+- Mengedit penetapan akses bersyarat pengguna.
     
-1. Di Azure portal pergi ke **Intune \> akses bersyarat \> kebijakan**
+1. Di portal Azure pergi ke **Intune \> kebijakan akses \> bersyarat**
     
 2. Pilih kebijakan dari daftar
     
 3. Klik **pengguna dan grup**
     
-4. Untuk menargetkan kebijakan tertentu pada seseorang, menambahkan mereka ke daftar **termasuk** . Untuk memastikan bahwa orang yang dihilangkan dari kebijakan, menambahkannya ke **mengecualikan** daftar. 
+4. Untuk menargetkan kebijakan tertentu pada seseorang, menambahkannya ke daftar **sertakan** . Untuk memastikan seseorang diabaikan dari kebijakan, tambahkan ke daftar **Kecualikan** . 
     
-Baca lebih lanjut: [bagaimana perangkat akses bersyarat Monitor](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Baca lebih lanjut: [Bagaimana memonitor perangkat akses bersyarat](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

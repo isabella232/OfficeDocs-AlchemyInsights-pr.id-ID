@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713289"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Alat pencarian konten untuk menemukan info yang relevan
 
@@ -26,6 +26,6 @@ Sebelum menggunakan [pencarian konten](https://sip.protection.office.com/content
 
 Pahami lebih lanjut tentang penelusuran konten dengan meninjau [persyaratan dan batas](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [menyelidiki item yang diindeks sebagian](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) , dan hasil lainnya yang harus diperhatikan.
 
-Setelah meninjau pengaturan konfigurasi dan pembatasan pencarian konten, rujuk ke [menggunakan pencarian</a> konten untuk mencari item di tempat seperti email, dokumen, dan percakapan pesan instan di organisasi Office 365 Anda](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Setelah meninjau pengaturan konfigurasi dan pembatasan pencarian konten, rujuk ke [menggunakan pencarian</a> konten untuk mencari item di tempat seperti email, dokumen, dan percakapan pesan instan di organisasi Anda](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Untuk langkah-demi-langkah lengkap pencarian konten, lihat mencari [konten di Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) untuk informasi lebih lanjut.
