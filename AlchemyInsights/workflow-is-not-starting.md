@@ -3,7 +3,7 @@ title: Alur kerja tidak dimulai
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766100"
 ---
-# <a name="workflow-is-not-starting"></a><span data-ttu-id="56569-102">Alur kerja tidak dimulai</span><span class="sxs-lookup"><span data-stu-id="56569-102">Workflow is not starting</span></span>
+# <a name="workflow-is-not-starting"></a><span data-ttu-id="cd2e2-102">Alur kerja tidak dimulai</span><span class="sxs-lookup"><span data-stu-id="cd2e2-102">Workflow is not starting</span></span>
 
-- <span data-ttu-id="56569-103">SharePoint 2010 dan SharePoint 2013 alur kerja tidak dimulai.</span><span class="sxs-lookup"><span data-stu-id="56569-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
+- <span data-ttu-id="cd2e2-103">SharePoint 2010 dan SharePoint 2013 alur kerja tidak dimulai.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
 
-    - <span data-ttu-id="56569-104">Jika alur kerja Anda tidak dimulai, mungkin ada masalah layanan sementara di mana pengguna mungkin mengalami penundaan terputus-putus dengan kemajuan alur kerja.</span><span class="sxs-lookup"><span data-stu-id="56569-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="56569-105">Periksa [dasbor Kesehatan Layanan](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.</span><span class="sxs-lookup"><span data-stu-id="56569-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+    - <span data-ttu-id="cd2e2-104">Jika alur kerja Anda tidak dimulai, mungkin ada masalah layanan sementara di mana pengguna mungkin mengalami penundaan terputus-putus dengan kemajuan alur kerja.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="cd2e2-105">Periksa [dasbor Kesehatan Layanan](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
 
-    - <span data-ttu-id="56569-106">Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket dukungan.</span><span class="sxs-lookup"><span data-stu-id="56569-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="56569-107">Dalam banyak kasus, kami telah bekerja pada solusi.</span><span class="sxs-lookup"><span data-stu-id="56569-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="56569-108">Tolong beri kami setidaknya 24 jam untuk menyelesaikan solusi.</span><span class="sxs-lookup"><span data-stu-id="56569-108">Please give us at least 24 hours to complete a solution.</span></span>
+    - <span data-ttu-id="cd2e2-106">Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log tiket dukungan.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="cd2e2-107">Dalam banyak kasus, kami telah bekerja pada solusi.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="cd2e2-108">Tolong beri kami setidaknya 24 jam untuk menyelesaikan solusi.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-108">Please give us at least 24 hours to complete a solution.</span></span>
 
-- <span data-ttu-id="56569-109">SharePoint 2010 alur kerja tertunda pada mulai.</span><span class="sxs-lookup"><span data-stu-id="56569-109">SharePoint 2010 workflows delayed on start.</span></span>
+- <span data-ttu-id="cd2e2-109">SharePoint 2010 alur kerja tertunda pada mulai.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-109">SharePoint 2010 workflows delayed on start.</span></span>
 
-    - <span data-ttu-id="56569-110">Hal ini terjadi jika alur kerja dipicu dalam batch besar.</span><span class="sxs-lookup"><span data-stu-id="56569-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="56569-111">(misalnya, ketika beberapa item ditambahkan sekaligus).</span><span class="sxs-lookup"><span data-stu-id="56569-111">(for example, when several items are added at once).</span></span>
+    - <span data-ttu-id="cd2e2-110">Hal ini terjadi jika alur kerja dipicu dalam batch besar.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="cd2e2-111">(misalnya, ketika beberapa item ditambahkan sekaligus).</span><span class="sxs-lookup"><span data-stu-id="cd2e2-111">(for example, when several items are added at once).</span></span>
 
-    - <span data-ttu-id="56569-112">Alur kerja tidak dirancang untuk berjalan secara real-time, sehingga penundaan adalah perilaku dengan desain.</span><span class="sxs-lookup"><span data-stu-id="56569-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
+    - <span data-ttu-id="cd2e2-112">Alur kerja tidak dirancang untuk berjalan secara real-time, sehingga penundaan adalah perilaku dengan desain.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
 
-   -  <span data-ttu-id="56569-113">Jika alur kerja kompleks extensible objek Markup Language (XMOL), kompilasi dapat lambat.</span><span class="sxs-lookup"><span data-stu-id="56569-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="56569-114">Periksa artikel [ini](https://support.microsoft.com//kb/3043697) .</span><span class="sxs-lookup"><span data-stu-id="56569-114">Check [this](https://support.microsoft.com//kb/3043697) article.</span></span>
+   -  <span data-ttu-id="cd2e2-113">Jika alur kerja kompleks extensible objek Markup Language (XMOL), kompilasi dapat lambat.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="cd2e2-114">Periksa artikel [ini](https://support.microsoft.com//kb/3043697) .</span><span class="sxs-lookup"><span data-stu-id="cd2e2-114">Check [this](https://support.microsoft.com//kb/3043697) article.</span></span>
 
-    - <span data-ttu-id="56569-115">Anda harus menyederhanakan alur kerja atau mendesain ulang menggunakan jenis platform Microsoft SharePoint 2013 alur kerja.</span><span class="sxs-lookup"><span data-stu-id="56569-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
+    - <span data-ttu-id="cd2e2-115">Anda harus menyederhanakan alur kerja atau mendesain ulang menggunakan jenis platform Microsoft SharePoint 2013 alur kerja.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
 
-    - <span data-ttu-id="56569-116">Jika Riwayat alur kerja Anda tumbuh besar, Anda mungkin ingin membersihkan item atau membuat daftar Riwayat baru.</span><span class="sxs-lookup"><span data-stu-id="56569-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
+    - <span data-ttu-id="cd2e2-116">Jika Riwayat alur kerja Anda tumbuh besar, Anda mungkin ingin membersihkan item atau membuat daftar Riwayat baru.</span><span class="sxs-lookup"><span data-stu-id="cd2e2-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
 
-        <span data-ttu-id="56569-117">Informasi lebih lanjut: [membersihkan riwayat alur kerja](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span><span class="sxs-lookup"><span data-stu-id="56569-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
+        <span data-ttu-id="cd2e2-117">Informasi lebih lanjut: [membersihkan riwayat alur kerja](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span><span class="sxs-lookup"><span data-stu-id="cd2e2-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
 
 
-## <a name="related-topics"></a><span data-ttu-id="56569-118">Topik terkait</span><span class="sxs-lookup"><span data-stu-id="56569-118">Related topics</span></span>
-<span data-ttu-id="56569-119">Ingin mencoba Microsoft Flow di SharePoint online?</span><span class="sxs-lookup"><span data-stu-id="56569-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="56569-120">Membuat Flow</span><span class="sxs-lookup"><span data-stu-id="56569-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="56569-121">SharePoint dan aliran</span><span class="sxs-lookup"><span data-stu-id="56569-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="cd2e2-118">Topik terkait</span><span class="sxs-lookup"><span data-stu-id="cd2e2-118">Related topics</span></span>
+<span data-ttu-id="cd2e2-119">Ingin mencoba Microsoft Flow di SharePoint online?</span><span class="sxs-lookup"><span data-stu-id="cd2e2-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="cd2e2-120">Membuat Flow</span><span class="sxs-lookup"><span data-stu-id="cd2e2-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="cd2e2-121">SharePoint dan aliran</span><span class="sxs-lookup"><span data-stu-id="cd2e2-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

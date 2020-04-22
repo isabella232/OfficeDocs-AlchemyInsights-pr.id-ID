@@ -1,24 +1,24 @@
 ---
-title: '2571 fitur baru: mendapatkan umpan balik tentang penilaian spam'
+title: '2571 fitur baru: Dapatkan umpan balik tentang penilaian spam'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391333"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765019"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a><span data-ttu-id="b078b-102">Fitur baru: mendapatkan umpan balik tentang penilaian spam</span><span class="sxs-lookup"><span data-stu-id="b078b-102">New feature: Get feedback about spam judgments</span></span>
+# <a name="get-feedback-about-spam-judgments"></a><span data-ttu-id="c7846-102">Dapatkan umpan balik tentang penilaian spam</span><span class="sxs-lookup"><span data-stu-id="c7846-102">Get feedback about spam judgments</span></span>
 
-<span data-ttu-id="b078b-103">Sebagai admin, Anda dapat sekarang dengan mudah melaporkan email mencurigakan pesan, URL, dan konten ke Microsoft di [Explorer pengiriman](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="b078b-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="b078b-104">Anda bahkan dapat menggunakannya untuk membantu Anda memahami mengapa pesan sah ditandai salah.</span><span class="sxs-lookup"><span data-stu-id="b078b-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="b078b-105">Untuk informasi lebih lanjut, lihat ini [pengumuman](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="b078b-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="c7846-103">Sebagai admin, Anda dapat dengan mudah melaporkan pesan email, URL, dan konten yang mencurigakan ke Microsoft di [penjelajah kiriman](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="c7846-103">As an admin, you can easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="c7846-104">Anda bahkan dapat menggunakannya untuk membantu memahami mengapa pesan sah ditandai dengan benar.</span><span class="sxs-lookup"><span data-stu-id="c7846-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="c7846-105">Untuk informasi lebih lanjut, lihat [pengumuman](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622)ini.</span><span class="sxs-lookup"><span data-stu-id="c7846-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
 
-<span data-ttu-id="b078b-106">Untuk membuat easer, Anda dapat membolehkan pengguna untuk melaporkan langsung kepada Microsoft melalui [laporan pesan add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="b078b-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="c7846-106">Untuk membuatnya easer, Anda dapat memungkinkan pengguna untuk melaporkan langsung ke Microsoft melalui [pesan laporan Add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="c7846-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
