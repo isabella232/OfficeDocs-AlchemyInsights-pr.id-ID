@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "4764"
-ms.openlocfilehash: 2b82d6f19ff479ba4a3b1eb0cac168f38d2b2cd8
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 18361bf7f06775dfd481b1246707bacf25b48dea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719888"
 ---
 # <a name="license-not-working"></a>Lisensi tidak berfungsi
 
 Berikut ini adalah beberapa validasi yang dapat Anda coba:
 
-- Jika Anda menetapkan lisensi Office 365 dan aplikasi terkait tidak berfungsi, harap alokasikan setidaknya 24 jam agar semua proses sinkronisasi selesai. 
+- Jika Anda menetapkan lisensi Office 365 dan aplikasi terkait tidak berfungsi, beri waktu setidaknya 24 jam untuk menyelesaikan semua proses sinkronisasi. 
 
-- Coba mengatur lisensi produk NONAKTIF dan AKTIF untuk melihat apakah masalah diperbaiki. 
+- Cobalah menonaktifkan lalu mengaktifkan lisensi produk untuk melihat apakah masalah diperbaiki. 
 
-- Jika Anda tidak melihat lisensi ditetapkan, pastikan lisensi ditetapkan ke pengguna; lihat [Menetapkan lisensi ke pengguna](https://docs.microsoft.com/en-us/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Jika Anda tidak melihat lisensi ditetapkan, pastikan lisensi ditetapkan ke pengguna; lihat [Menetapkan lisensi ke pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
 - Periksa apakah langganan Anda kedaluwarsa dan perpanjang jika diperlukan; lihat [Mengaktifkan ulang langganan Anda](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription). 
 

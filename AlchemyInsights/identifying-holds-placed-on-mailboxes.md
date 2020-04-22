@@ -1,9 +1,9 @@
 ---
-title: Mengidentifikasi memegang ditempatkan pada kotak pesan
+title: Mengidentifikasi pembekuan ditempatkan pada kotak pesan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538784"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724779"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Mengidentifikasi memegang ditempatkan pada kotak pesan
+# <a name="identify-holds-placed-on-mailboxes"></a>Mengidentifikasi penangguhan yang ditempatkan pada kotak pesan
 
-Apakah Anda memiliki Office 365 konten yang sedang **dipertahankan** oleh **memegang** bahwa Anda tidak dapat mengidentifikasi? Perlu untuk **mengetahui** di mana terus berada pada kotak **pesan** ? Memegang (*retensi fitur*) dapat diterapkan oleh salah satu metode berikut di Office 365:
+Apakah Anda memiliki Microsoft 365 konten yang **dipertahankan** oleh **tahan** yang Anda tidak dapat mengidentifikasi? Perlu **mencari tahu** di mana terus terletak di **kotak surat** ? Pembekuan (*fitur retensi*) dapat diterapkan dengan salah satu dari metode berikut ini:
   
 - Penahanan litigasi
 
 - terus eDiscovery
 
-- Terus di-tempat
+- Di tempat tahan
 
-- Kebijakan Penyimpanan Office 365 
+- Kebijakan retensi 365 Microsoft 
 
-  - Kebijakan Penyimpanan lokasi tertentu
+  - Kebijakan retensi lokasi tertentu
 
-  - Kebijakan Penyimpanan seluruh organisasi
+  - Kebijakan retensi seluruh organisasi
 
-- Label Office 365
+- Microsoft 365 label baru
 
-Untuk mengidentifikasi jenis terus diterapkan ke kotak pesan pengguna, lihat [bagaimana mengidentifikasi jenis memegang ditempatkan pada kotak pesan Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Untuk mengidentifikasi jenis tahan yang diterapkan ke pengguna kotak surat, lihat [bagaimana cara mengidentifikasi jenis terus ditempatkan di kotak surat Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

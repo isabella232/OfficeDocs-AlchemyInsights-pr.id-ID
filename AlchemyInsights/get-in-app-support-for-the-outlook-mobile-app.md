@@ -1,9 +1,9 @@
 ---
-title: 1800014 mendapatkan dukungan di-app untuk Outlook mobile app
+title: 1800014 Dapatkan dukungan dalam aplikasi untuk aplikasi seluler Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759081"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Dapatkan dukungan di-app untuk Outlook mobile app
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Dapatkan dukungan dalam aplikasi untuk aplikasi seluler Outlook
 
-1. Di Outlook mobile app, buka **Menu**.
+1. Di aplikasi seluler Outlook, buka **menu**.
 
-2. Pilih tanda tanya untuk membuka **membantu &amp; umpan balik** layar.
+2. Pilih tanda tanya untuk membuka layar **umpan balik &amp; bantuan** .
 
-3. Tekan **Kontak dukungan** dan menjelaskan masalah Anda.
+3. Ketuk **Hubungi dukungan** dan jelaskan masalah Anda.
 
-4. Tekan **kirim** dan Anda akan menerima pemberitahuan di-app ketika agen dukungan kontak Anda.
+4. Ketuk **kirim** dan Anda akan menerima pemberitahuan dalam aplikasi saat agen dukungan menghubungi Anda.
 
-Untuk petunjuk rinci, lihat [Dapatkan bantuan di-app untuk Outlook untuk iOS dan Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Untuk petunjuk terperinci, lihat [mendapatkan bantuan dalam aplikasi untuk Outlook untuk IOS dan Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).

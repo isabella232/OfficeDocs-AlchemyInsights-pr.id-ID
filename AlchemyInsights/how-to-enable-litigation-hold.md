@@ -3,7 +3,7 @@ title: 976-bagaimana-untuk-Enable-litigasi-terus
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398630"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720735"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Menempatkan kotak surat di pegang hukum
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398630"
 
 - Untuk mengaktifkan penahanan litigasi untuk satu pengguna, [ikuti langkah](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)berikut. Bila penahanan litigasi diaktifkan, Semua konten di kotak pesan akan disimpan.
 
-- Untuk mempertahankan konten di semua kotak pesan di organisasi, Anda dapat menggunakan [kebijakan retensi 365 Office](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations)di seluruh organisasi. Perhatikan bahwa untuk kebijakan retensi di seluruh organisasi, pengguna baru akan secara otomatis ditetapkan ke kebijakan.
+- Untuk mempertahankan konten di semua kotak pesan di organisasi, Anda dapat menggunakan [kebijakan retensi seluruh organisasi](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Perhatikan bahwa untuk kebijakan retensi di seluruh organisasi, pengguna baru akan secara otomatis ditetapkan ke kebijakan.

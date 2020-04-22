@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741201"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726215"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Menggunakan Microsoft Edge berdasarkan browser Chromium untuk ekspor eDiscovery
 
-Karena perubahan terbaru, browser Microsoft Edge tidak akan lagi memiliki dukungan ClickOnce diaktifkan secara default. Untuk terus menggunakan Microsoft Office 365 eDiscovery ekspor alat, Anda akan baik perlu menggunakan Microsoft Internet Explorer atau mengaktifkan ClickOnce dukungan di Microsoft Edge. 
+Karena perubahan terbaru, browser Microsoft Edge tidak akan lagi memiliki dukungan ClickOnce diaktifkan secara default. Untuk terus menggunakan Microsoft 365 eDiscovery ekspor alat, Anda akan perlu menggunakan Microsoft Internet Explorer atau mengaktifkan ClickOnce dukungan di Microsoft Edge. 
 
 Untuk mengaktifkan dukungan ClickOnce di Microsoft Edge berdasarkan Kromium: 
 1. Di browser Microsoft Edge Anda, kunjungi edge://flags/#edge-klik-sekali.

@@ -1,9 +1,9 @@
 ---
-title: Menutup Outlook.com account
+title: Tutup akun Outlook.com Anda
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: 0ab0f867c399d3e5ac6015afdcb4d8295e6fd839
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee611022bf4929d81f0c631e20419222bea12e16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537050"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722127"
 ---
-# <a name="close-your-outlookcom-account"></a>Menutup Outlook.com account
+# <a name="close-your-outlookcom-account"></a>Tutup akun Outlook.com Anda
 
-1. Pergi ke halaman [menutup akun Anda](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. Ikuti petunjuk pada halaman untuk memastikan bahwa account Anda sudah siap untuk ditutup, dan pilih **berikutnya**.
-3. Membaca daftar dan memeriksa kotak untuk mengakui Anda membaca setiap item.
-4. Di **pilih alasan** daftar drop-down, pilih alasan kau menutup account.
-5. Pilih **account Mark untuk penutupan**.
+1. Buka halaman [tutup akun Anda](https://go.microsoft.com/fwlink/p/?linkid=845493) .
+2. Ikuti petunjuk pada laman untuk memastikan akun Anda siap ditutup, lalu pilih **berikutnya**.
+3. Baca daftar dan centang kotak untuk mengetahui bahwa Anda telah membaca setiap item.
+4. Di daftar tarik-turun **pilih alasan** , pilih alasan Anda menutup akun.
+5. Pilih **akun tanda untuk ditutup**.
 
-Untuk selengkapnya, lihat [menutup Outlook.com account](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mempelajari lebih lanjut, lihat [menutup akun Outlook.com Anda](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
   

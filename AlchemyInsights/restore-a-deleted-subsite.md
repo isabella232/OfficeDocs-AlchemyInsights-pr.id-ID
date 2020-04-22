@@ -1,9 +1,9 @@
 ---
-title: Mengembalikan subsite dihapus
+title: Memulihkan sub-situs yang dihapus
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 82ea3285b7ded867a179d81bb79ef204270eb038
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7da70d293730dcb5df1f13c42252bab58f41711
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758685"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Mengembalikan subsite SharePoint dihapus
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Memulihkan sub situs SharePoint dihapus
 
-Subsites yang dihapus akan dikirim ke situs koleksi Recycle Bin, di mana mereka terus 93 hari. Untuk mengembalikan subsite dihapus:
+Subsitus dihapus dikirim ke koleksi situs recycle bin, di mana mereka disimpan untuk 93 hari. Untuk memulihkan sub-situs yang dihapus:
   
-1. Di pusat admin SharePoint baru, menemukan situs dari mana subsite telah dihapus dan pastikan Anda admin koleksi situs. 
+1. Di pusat admin SharePoint baru, menemukan situs yang sub situs dihapus dan pastikan Anda adalah admin koleksi situs. 
     
-2. Pergi ke situs. Klik **Recycle bin** dalam pane kiri. (Jika Anda tidak melihat Recycle bin, klik ikon pengaturan, dan kemudian klik **isi situs**. Recycle Bin adalah di paling kanan bilah perintah di atas.)
+2. Buka situs. Klik **keranjang sampah** di sebelah kiri. (Jika Anda tidak melihat recycle bin, klik ikon pengaturan, dan kemudian klik **konten situs**. Recycle Bin berada di ujung kanan bilah perintah di bagian atas.)
     
-3. Di bagian bawah halaman, klik **tahap kedua recycle bin**.
+3. Di bagian bawah halaman, klik **recycle bin tahap kedua**.
     
-4. Klik di sebelah kiri subsite, dan kemudian klik **Kembalikan**.
+4. Klik di sebelah kiri sub situs, dan kemudian klik **Pulihkan**.
     
 

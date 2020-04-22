@@ -1,9 +1,9 @@
 ---
-title: Berlangganan pembaruan
+title: Perpanjangan langganan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666015"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741830"
 ---
-# <a name="subscription-recurring-billing"></a>Penagihan berulang berlangganan
+# <a name="subscription-recurring-billing"></a>Penagihan berulang langganan
 
-Jika Anda ingin tahu Kapan Anda bulanan atau tahunan berlangganan kantor 365 akan ditagihkan (jika **Recurring penagihan** dihidupkan) atau berakhir (jika **Recurring penagihan** dimatikan):
+Jika Anda ingin mengetahui kapan langganan bulanan atau tahunan Anda akan ditagih (jika **penagihan berulang** diaktifkan) atau berakhir (jika **penagihan berulang** dimatikan):
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Untuk berlangganan yang Anda ingin tahu lebih banyak tentang, di bawah **penagihan**, lihat **Renews pada** atau **Expiring pada** tanggal.
+2. Untuk berlangganan yang ingin Anda ketahui lebih lanjut, di bawah **penagihan**, lihat **pembaruan** atau **kedaluwarsa pada** tanggal.
 
-4. Untuk membuat perubahan, pilih **edit** dan kemudian, di panel pengaturan **Recurring penagihan** , pilih **Mengubah OFF** untuk mematikannya. Jika penagihan berulang sudah dimatikan, pilih **bulanan** atau **sekali** untuk menyalakannya.
+4. Untuk membuat perubahan, pilih **Edit** dan kemudian, di panel setelan **penagihan berulang** , pilih **Matikan** untuk mematikannya. Jika penagihan berulang sudah dimatikan, pilih **bulanan** atau **sekali** untuk mengaktifkannya.
 
-Untuk selengkapnya, lihat [mengaktifkan penagihan atau berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Untuk informasi selengkapnya, lihat [Mengaktifkan atau menonaktifkan tagihan berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

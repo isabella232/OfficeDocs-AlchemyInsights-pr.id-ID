@@ -1,9 +1,9 @@
 ---
-title: Perbaikan PST file sebelum mengimpor
+title: Repair. PST file sebelum mengimpor
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552426"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720140"
 ---
-# <a name="repair-pst-file-before-importing"></a>Perbaikan PST file sebelum mengimpor
+# <a name="repair-pst-file-before-importing"></a>Repair. PST file sebelum mengimpor
 
-Sebelum Anda mengimpor file .pst di Outlook, pastikan berkas tidak rusak oleh memperbaiki file:
+Sebelum Anda mengimpor berkas. pst di Outlook, verifikasi berkas tidak rusak dengan memperbaiki berkas:
 
 1. Keluar dari Outlook.
 
-2. Menemukan dan menjalankan `Scanpst.exe` dalam folder program kantor (C:\Program Files (x86) \Microsoft Office\root\Office\<versi\> atau Office\root\Office program C:\Program\<versi\>).
+2. Cari dan jalankan `Scanpst.exe` di folder program Office (C:\Program berkas (x86) \Microsoft\<Office\root\office versi\> atau C:\Program Files\Microsoft office\root\office\<versi\>).
 
-3. **Microsoft Outlook Inbox Repair tool**, klik **People** untuk menemukan berkas .pst (misalnya, di C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Pilih .pst file dan kemudian klik **buka**.
+3. Di **Microsoft Outlook alat perbaikan kotak masuk**, klik **Browse** untuk menemukan berkas. pst (misalnya, di C:\Users\\<username\>\Appdata\local\microsoft\outlook). Pilih berkas. PST dan kemudian klik **buka**.
 
-4. Klik **Start** untuk memulai pemindaian.
+4. Klik **mulai** untuk memulai pemindaian.
 
-5. Jika kesalahan ditemukan dalam file, klik **perbaikan**, dan kemudian klik **OK** bila perbaikan selesai.
+5. Jika galat ditemukan di berkas, klik **Perbaiki**, dan kemudian klik **OK** setelah perbaikan selesai.
 
-6. Mencoba untuk mengimpor file .pst di Outlook lagi.
+6. Cobalah untuk mengimpor berkas. pst di Outlook lagi.
 
-Untuk informasi lebih lanjut, lihat [perbaikan Outlook data file](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) dan [memperbaiki masalah mengimpor file PST Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Untuk informasi lebih lanjut, lihat [memperbaiki file data Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) dan [memperbaiki masalah pengimporan file. PST Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

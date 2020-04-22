@@ -1,8 +1,8 @@
 ---
-title: Memperbarui server nama domain Anda menjadi Office 365
+title: Perbarui nameserver domain Anda untuk menunjuk ke Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742182"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719996"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Memperbarui server nama domain Anda menjadi Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Perbarui nameserver domain Anda untuk menunjuk ke Microsoft
 
 Catatan: Perubahan server nama dapat memakan waktu hingga 48 jam untuk diterapkan.
   
-Untuk menyiapkan domain di Office 365, server nama pada pendaftar Anda perlu diperbarui. Buat atau edit catatan server nama di pendaftar domain Anda.
+Untuk menyiapkan domain dengan Microsoft, nameserver di registrar harus diupdate. Buat atau edit catatan server nama di pendaftar domain Anda.
   
 1. Kunjungi situs web pendaftar domain dan temukan area tempat Anda dapat mengedit server nama.
 
@@ -34,5 +34,5 @@ Untuk menyiapkan domain di Office 365, server nama pada pendaftar Anda perlu dip
 
 3. Simpan perubahan.
 
-Anda juga dapat menemukan instruksi mendetail dalam artikel ini: [Mengubah server nama untuk menyiapkan Office 365 dengan pendaftar domain apa pun](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Anda juga dapat menemukan petunjuk terperinci dalam artikel ini: [mengubah nameserver untuk menyiapkan Microsoft 365 dengan registrar domain apa pun](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

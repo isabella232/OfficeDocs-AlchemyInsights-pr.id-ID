@@ -1,8 +1,8 @@
 ---
-title: Pertanyaan-pertanyaan yang berkaitan dengan kantor 2019
+title: Pertanyaan yang berkaitan dengan Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719806"
 ---
-# <a name="about-office-2019"></a>Tentang kantor 2019
+# <a name="about-office-2019"></a>Tentang Office 2019
 
-Kantor 2019 adalah untuk pelanggan yang belum siap untuk awan atau memiliki kebutuhan khusus untuk lokal atau hibrida penggunaan kantor. Ini mencakup bermakna subset dari fitur yang telah ditambahkan ke Office 365 selama tiga tahun terakhir, tapi itu bukan merupakan bagian dari Office 365.
+Office 2019 adalah untuk pelanggan yang belum siap untuk Cloud atau memiliki kebutuhan khusus untuk lokal atau hibrid Office deployment. Ini termasuk subset bermakna fitur yang telah ditambahkan ke Microsoft 365 selama tiga tahun terakhir, tapi itu bukan bagian dari Microsoft 365.
   
-Kantor 365 ProPlus, versi terhubung Internet kantor, memberikan pengalaman kantor yang paling produktif dan paling aman. Hotel ini menyediakan akses ke sebuah suite layanan melampaui apa yang memiliki versi lokal dan menerima pembaruan fitur baru secara terus-menerus.
+Microsoft 365 Apps untuk perusahaan, Office yang terhubung dengan Cloud versi, memberikan pengalaman Office yang paling produktif dan paling aman. Ini menyediakan akses ke suite layanan melampaui apa versi lokal memiliki dan menerima update fitur baru secara berkelanjutan.
   
-Jadi, jika Anda memiliki aplikasi desktop kantor sebagai bagian dari langganan Office 365 Anda sudah memiliki versi terbaru dari Office.
+Jadi, jika Anda memiliki aplikasi desktop Office sebagai bagian dari langganan Microsoft 365, Anda sudah memiliki versi terbaru Office.
   
 Untuk informasi selengkapnya, lihat:
   
-[Kantor 2019 komersial untuk Windows dan Mac pertanyaan yang sering diajukan](https://support.microsoft.com/help/4133312)
+[Office 2019 komersial untuk Windows dan Mac pertanyaan yang sering diajukan](https://support.microsoft.com/help/4133312)
   
-[Nomor versi utama kantor 2019 tinggal di 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Nomor versi utama dari Office 2019 tinggal di 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Penunjukan tahun di kantor 2016 dan Office 365 aplikasi klien akan dihapus dari entri menu Start](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Tahun penunjukan di Office 2016 dan Microsoft 365 klien aplikasi akan dihapus dari entri menu mulai](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

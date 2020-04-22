@@ -1,38 +1,38 @@
 ---
-title: Pesan 2491 alert email dari kebijakan 'Terkirim Phish karena pengguna atau penyewa menimpa'
+title: 2491 pesan email peringatan dari ' Phish disampaikan karena penghuni atau pengguna menimpa ' kebijakan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 456b186ecea59422c791c79d4df056ad8446bc70
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 2e4efd504304da757687e697ff23374aeea31851
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391340"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758931"
 ---
-# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Email pemberitahuan pesan dari 'Terkirim Phish karena pengguna atau penyewa menimpa' kebijakan
+# <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Pesan email peringatan dari ' Phish disampaikan karena penyewa atau pengguna menimpa ' kebijakan
 
-Kebijakan alert default bernama "Phish disampaikan karena menimpa penyewa atau pengguna" telah digulirkan untuk penyewa dengan lisensi Office 365 ATP P1 dan P2. Jika Anda menerima peringatan ini, berikut adalah langkah-langkah untuk menyelidiki:
+Kebijakan peringatan default bernama "dikirim phish karena penghuni atau pengguna menimpa" telah diluncurkan ke penyewa dengan Office 365 ATP P1 dan P2 lisensi. Jika Anda menerima peringatan ini, berikut adalah langkah untuk menyelidiki:
 
-1. Dari pesan peringatan, klik **Lihat waspada** untuk pergi ke halaman **peringatan** dalam & keamanan Compliance Center.
+1. Dari pesan peringatan, klik **Lihat peringatan** untuk membuka halaman **peringatan** di pusat kepatuhan & keamanan.
 
-2. Pilih waspada untuk melihat pilihan untuk **tampilan daftar pesan** atau **Pesan Lihat dalam Explorer**. Kedua pilihan ini membawa Anda ke rincian pesan, termasuk pesan ID. Perhatikan bahwa ancaman Explorer link secara otomatis akan menyaring pesan yang sesuai kriteria waspada. Anda mungkin perlu menyesuaikan tanggal filter di Explorer ancaman.
+2. Pilih peringatan untuk melihat pilihan untuk melihat **Daftar pesan** atau **melihat pesan di Explorer**. Kedua pilihan ini akan membawa Anda ke rincian pesan, yang mencakup ID pesan. Perhatikan bahwa tautan Threat Explorer akan secara otomatis menyaring pesan yang sesuai dengan kriteria peringatan. Anda mungkin perlu menyesuaikan filter tanggal di Threat Explorer.
 
-Pesan phishing disampaikan karena menimpa dikonfigurasi secara manual:
+Pesan phishing dikirim karena menimpa dikonfigurasi secara manual:
 
-- Diperbolehkan pengirim atau domain yang ditetapkan oleh pengguna.
+- Pengirim atau domain yang diizinkan yang ditetapkan oleh pengguna.
 
-- Diperbolehkan pengirim atau domain yang ditetapkan oleh admin dalam kebijakan anti spam.
+- Pengirim atau domain yang diizinkan yang ditetapkan oleh admin dalam kebijakan anti-spam.
 
-- Alamat IP yang diizinkan dalam kebijakan filter koneksi.
+- Alamat IP yang diizinkan dalam kebijakan filter sambungan.
 
-- Mail aliran aturan (juga dikenal sebagai aturan transport) yang dikonfigurasi untuk membolehkan pesan di.
+- Aturan aliran e-mail (juga dikenal sebagai aturan transport) yang dikonfigurasi untuk membolehkan pesan.
 
-Jika Anda yakin pesan salah ditandai sebagai phish, menggunakan Outlook [laporan pesan Tambah-in](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) untuk mengirimkan pesan sampel ke Microsoft.
+Jika Anda yakin pesan salah ditandai sebagai Phish, gunakan Outlook [pesan laporan Add-in](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) untuk mengirimkan sampel pesan ke Microsoft.

@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: 28c3a376170aba0ae43929865200fc85cd1c41f4
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 27f3dc123590f3199d6a984d7e9a4db3918ac9cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626747"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758865"
 ---
 # <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Cara menunda upgrade tim berbasis Microsoft
 
-Jika Anda menerima komunikasi tentang peningkatan otomatis didorong Microsoft dari Skype untuk bisnis untuk Microsoft teams, dan Anda ingin menunda upgrade otomatis ke tanggal yang lebih baru, Anda Office 365 global admin dapat masuk ke [portal admin tim](https://admin.teams.microsoft.com/dashboard) dan pilih tombol **menunda** . Untuk melihat tanggal baru untuk upgrade otomatis penyewa Anda ke Microsoft teams, Segarkan halaman portal admin teams.
+Jika Anda menerima komunikasi tentang upgrade otomatis berbasis Microsoft dari Skype for Business ke Microsoft teams, dan Anda ingin menunda peningkatan otomatis ke tanggal yang lebih baru, admin global Anda dapat masuk ke [portal admin tim](https://admin.teams.microsoft.com/dashboard) dan memilih tombol **menunda** . Untuk melihat tanggal baru untuk upgrade otomatis penyewa Anda ke Microsoft teams, Segarkan halaman portal admin teams.
 
 **Catatan:** Tombol **Postpone** hanya akan tersedia jika Anda telah menerima pemberitahuan pusat pesan mengenai peningkatan otomatis. 
 
-Office 365 global admin juga dapat menjalankan [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) untuk mempelajari lebih lanjut tentang status upgrade mereka saat ini. 
+Global admin juga dapat menjalankan [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) untuk mempelajari lebih lanjut tentang status upgrade mereka saat ini. 

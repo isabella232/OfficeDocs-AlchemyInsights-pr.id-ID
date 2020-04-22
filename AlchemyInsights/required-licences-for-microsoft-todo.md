@@ -1,9 +1,9 @@
 ---
-title: Diperlukan lisensi untuk Microsoft ToDo
+title: Lisensi yang diperlukan untuk Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722659"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Diperlukan lisensi untuk Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Lisensi yang diperlukan untuk Microsoft ToDo
 
-[Diperlukan lisensi untuk Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Lisensi yang diperlukan untuk Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Pengguna harus memiliki salah satu lisensi berikut menggunakan Microsoft ToDo:
+Pengguna harus memiliki salah satu dari lisensi berikut ini untuk menggunakan Microsoft ToDo:
   
 - Bisnis Essentials
 
@@ -32,31 +32,31 @@ Pengguna harus memiliki salah satu lisensi berikut menggunakan Microsoft ToDo:
 
 - Microsoft 365 Firstline F1
 
-- Rencana kantor 365 Enterprise
+- Paket Office 365 Enterprise apa pun
 
-- Usaha produktif yang aman
+- Bisnis produktif yang aman
 
-- Mengamankan E3 usaha produktif
+- Mengamankan perusahaan produktif E3
 
-- Mengamankan E5 usaha produktif
+- Secure perusahaan produktif E5
 
-- Rencana kantor 365 pendidikan
+- Setiap Office 365 rencana pendidikan
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Selain lisensi berlaku produk, salah satu versi berikut Exchange Online diperlukan untuk ToDo untuk dapat sync data pengguna:
+Selain lisensi produk yang valid, salah satu versi Exchange Online berikut ini diperlukan untuk ToDo untuk dapat menyinkronkan data pengguna:
   
-- Exchange Online daftar 1
+- Exchange Online paket 1
 
-- Exchange Online daftar 2
+- Exchange Online paket 2
 
-- Asing Essentials
+- Pertukaran Essentials
 
 - Kios Exchange Online
 
 - Exchange Online POP
 
-[Menetapkan lisensi ke account pengguna dengan Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Menetapkan lisensi untuk account pengguna dengan Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

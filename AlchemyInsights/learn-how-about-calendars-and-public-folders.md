@@ -1,9 +1,9 @@
 ---
-title: 612 belajar bagaimana kalender dan folder Umum
+title: 612 Pelajari cara kalender dan folder publik
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "612"
 - "3800010"
 ms.assetid: 390e208c-6f7f-4430-86b1-068f66ea3243
-ms.openlocfilehash: 738661eefe554b32367ddf67a7951a72d229f3c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f9d1027a009af615c0864c65780aaefecbe403
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762824"
 ---
-# <a name="learn-about-using-public-folders-in-outlook"></a>Pelajari tentang cara menggunakan folder publik di Outlook
+# <a name="learn-about-using-public-folders-in-outlook"></a>Pelajari tentang menggunakan folder publik di Outlook
 
-Umum folder di Outlook memberikan tempat yang bagus untuk mengumpulkan, mengatur dan berbagi informasi tentang topik tertentu atau proyek dalam organisasi Anda. Untuk selengkapnya, lihat [membuat serta berbagi folder publik di Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).
+Folder publik di Outlook memberi Anda tempat yang bagus untuk mengumpulkan, mengatur, dan berbagi informasi tentang topik atau proyek tertentu dalam organisasi Anda. Untuk informasi selengkapnya, lihat [membuat dan berbagi folder publik di Outlook](https://support.office.com/article/a2835011-d524-4a5c-a207-05c159bb2a97).

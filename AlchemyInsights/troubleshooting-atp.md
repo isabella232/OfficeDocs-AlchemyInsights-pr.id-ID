@@ -1,34 +1,34 @@
 ---
-title: Pemecahan masalah perlindungan ancaman lanjutan 365 kantor
+title: Pemecahan masalah Office 365 lanjut ancaman perlindungan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: b4358fb55a1145833510c6063b520d822f2d1eaf
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765163"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732405"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Pemecahan masalah perlindungan ancaman lanjutan 365 kantor
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Pemecahan masalah Office 365 lanjut ancaman perlindungan
 
-- Apakah Anda memperhatikan keterlambatan pengiriman pesan? Menggunakan opsi [Dinamis pengiriman](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) dalam kebijakan ATP lampiran aman Anda. Ini akan membantu menghindari penundaan pesan sekaligus melindungi penerima dari file jahat.
+- Apakah Anda melihat keterlambatan pengiriman pesan? Gunakan opsi [pengiriman dinamis](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) di kebijakan lampiran aman ATP. Ini akan membantu menghindari penundaan pesan sekaligus melindungi penerima dari file berbahaya.
 
-- Apakah Anda ingin melaporkan positif palsu atau palsu negatif ke Microsoft? Menggunakan [link](https://www.microsoft.com/wdsi/filesubmission/) untuk mengirimkan file untuk analisis.
+- Apakah Anda ingin melaporkan positif palsu atau negatif palsu ke Microsoft? Gunakan [link](https://www.microsoft.com/wdsi/filesubmission/) ini untuk mengirimkan file untuk analisis.
 
-- Apakah Anda tahu bahwa Anda dapat mengaktifkan link aman perlindungan untuk internal email yang dikirim antara penerima dalam organisasi Anda? Ikuti langkah berikut:
+- Tahukah Anda bahwa Anda dapat mengaktifkan perlindungan tautan aman untuk email internal yang dikirim antar penerima dalam organisasi Anda? Ikuti langkah-langkah ini:
 
-  1. Pergi ke [https://protection.office.com](https://protection.office.com) dan sign in dengan global administrator atau keamanan account administrator.
+  1. Buka [https://protection.office.com](https://protection.office.com) dan masuk dengan administrator global atau akun administrator keamanan.
 
-  2. Di panel navigasi di sebelah kiri di bawah **ancaman manajemen**, memilih **kebijakan** \> **Link aman**.
+  2. Di panel navigasi kiri di bawah **manajemen ancaman**, pilih **kebijakan** \> **tautan aman**.
 
-  3. Di bagian **kebijakan yang berlaku untuk seluruh organisasi** , pilih kebijakan, lalu klik **Edit**.
+  3. Dalam **kebijakan yang berlaku untuk bagian seluruh organisasi** , pilih kebijakan dan klik **Edit**.
 
-  4. Dalam **pengaturan**, mengaktifkan **link aman Terapkan ke pesan yang dikirim dalam organisasi**.
+  4. Pada **setelan**, Aktifkan **Terapkan tautan aman ke pesan yang dikirim dalam organisasi**.
