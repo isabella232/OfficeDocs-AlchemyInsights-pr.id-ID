@@ -1,9 +1,9 @@
 ---
-title: Bagaimana untuk melihat dan mengelola aplikasi
+title: Cara melihat dan mengelola aplikasi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63c3b42c046efbcae0f509045a8f3e45e49002ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717127"
 ---
-# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="67d06-102">Bagaimana untuk melihat dan mengelola aplikasi</span><span class="sxs-lookup"><span data-stu-id="67d06-102">How to view and manage apps</span></span>
+# <a name="how-to-view-and-manage-apps"></a><span data-ttu-id="cfb5d-102">Cara melihat dan mengelola aplikasi</span><span class="sxs-lookup"><span data-stu-id="cfb5d-102">How to view and manage apps</span></span>
 
-<span data-ttu-id="67d06-103">Anda dapat melihat aplikasi Anda di Microsoft 365 admin center.</span><span class="sxs-lookup"><span data-stu-id="67d06-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="cfb5d-103">Anda dapat melihat aplikasi Anda di pusat admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="cfb5d-103">You can view your apps in the Microsoft 365 admin center.</span></span> 
 
-1. <span data-ttu-id="67d06-104">Di pusat admin, pergi ke **penagihan** > [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.</span><span class="sxs-lookup"><span data-stu-id="67d06-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="cfb5d-104">Di pusat admin, buka halaman[Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** > .</span><span class="sxs-lookup"><span data-stu-id="cfb5d-104">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="67d06-105">Pada halaman **produk & Layanan** , pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="67d06-105">On the **Products & Services** page, select the **Apps** tab.</span></span>
+2. <span data-ttu-id="cfb5d-105">Pada halaman **produk & Services** , pilih tab **aplikasi** .</span><span class="sxs-lookup"><span data-stu-id="cfb5d-105">On the **Products & Services** page, select the **Apps** tab.</span></span>

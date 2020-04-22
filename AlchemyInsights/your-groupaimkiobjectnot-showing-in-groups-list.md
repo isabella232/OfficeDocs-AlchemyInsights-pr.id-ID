@@ -1,24 +1,24 @@
 ---
-title: Grup tidak menunjukkan dalam daftar Grup
+title: Grup Anda tidak ditampilkan dalam daftar Grup
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530807"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715815"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="c4490-102">Grup "{AimKIObject}" tidak menunjukkan dalam daftar Grup</span><span class="sxs-lookup"><span data-stu-id="c4490-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a><span data-ttu-id="c7ede-102">Grup Anda "{AimKIObject}" tidak ditampilkan dalam daftar Grup</span><span class="sxs-lookup"><span data-stu-id="c7ede-102">Your group "{AimKIObject}" not showing in Groups list</span></span>
 
-<span data-ttu-id="c4490-103">Grup distribusi bernama "{AimKIObject}" diciptakan {AimKITimeElapsed} menit yang lalu.</span><span class="sxs-lookup"><span data-stu-id="c4490-103">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="c4490-104">Ini dapat mengambil hingga 60 menit sebelum grup baru muncul di Admin center.</span><span class="sxs-lookup"><span data-stu-id="c4490-104">It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
+<span data-ttu-id="c7ede-103">Grup distribusi Anda bernama "{AimKIObject}" dibuat {AimKITimeElapsed} menit yang lalu.</span><span class="sxs-lookup"><span data-stu-id="c7ede-103">Your distribution group named "{AimKIObject}" was created {AimKITimeElapsed} minutes ago.</span></span> <span data-ttu-id="c7ede-104">Diperlukan waktu hingga 60 menit sebelum grup baru muncul di pusat admin.</span><span class="sxs-lookup"><span data-stu-id="c7ede-104">It can take up to 60 minutes before your new group appears in the Admin center.</span></span>
   
-<span data-ttu-id="c4490-105">Jika Anda ingin menambahkan anggota atau membuat suntingan lain sekarang, silakan gunakan fitur grup di [Asing Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="c4490-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="c7ede-105">Jika Anda ingin menambahkan anggota atau melakukan pengeditan lain sekarang, silakan gunakan fitur grup di [Pusat admin Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="c7ede-105">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

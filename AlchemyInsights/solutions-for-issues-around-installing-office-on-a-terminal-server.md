@@ -3,41 +3,34 @@ title: Solusi untuk masalah di sekitar menginstal Office di terminal server
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36501478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712677"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a><span data-ttu-id="5bf60-102">Solusi untuk masalah di sekitar menginstal Office di terminal server</span><span class="sxs-lookup"><span data-stu-id="5bf60-102">Solutions for issues around installing office on a Terminal Server</span></span>
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a><span data-ttu-id="f7cdc-102">Solusi untuk masalah di sekitar menginstal Office di terminal server</span><span class="sxs-lookup"><span data-stu-id="f7cdc-102">Solutions for issues around installing office on a Terminal Server</span></span>
 
-<span data-ttu-id="5bf60-103">Untuk menggunakan aktivasi komputer bersama, Anda harus memiliki rencana Office 365 yang mencakup Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="5bf60-103">To use shared computer activation, you must have an Office 365 plan that includes Office 365 ProPlus.</span></span>
+<span data-ttu-id="f7cdc-103">Untuk menggunakan aktivasi komputer bersama, Anda harus memiliki langganan yang mencakup Microsoft 365 aplikasi untuk perusahaan.</span><span class="sxs-lookup"><span data-stu-id="f7cdc-103">To use shared computer activation, you must have a subscription that includes Microsoft 365 Apps for enterprise.</span></span>
   
-- <span data-ttu-id="5bf60-104">Verifikasi bahwa komputer bersama aktivasi diaktifkan untuk Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="5bf60-104">Verify that shared computer activation is enabled for Office 365 ProPlus</span></span>
-    
-- <span data-ttu-id="5bf60-105">Verifikasi bahwa aktivasi untuk Office 365 ProPlus berhasil</span><span class="sxs-lookup"><span data-stu-id="5bf60-105">Verify that activation for Office 365 ProPlus succeeded</span></span>
-    
-- <span data-ttu-id="5bf60-106">Tinjau pesan kesalahan untuk aktivasi komputer bersama:</span><span class="sxs-lookup"><span data-stu-id="5bf60-106">Review error messages for shared computer activation:</span></span>
-    
-  - <span data-ttu-id="5bf60-107">"Produk yang kami temukan di akun Anda tidak dapat digunakan untuk mengaktifkan Office dalam skenario komputer bersama"</span><span class="sxs-lookup"><span data-stu-id="5bf60-107">"The products we found in your account cannot be used to activate Office in shared computer scenarios"</span></span>
+- <span data-ttu-id="f7cdc-104">Verifikasi bahwa komputer bersama aktivasi diaktifkan</span><span class="sxs-lookup"><span data-stu-id="f7cdc-104">Verify that shared computer activation is enabled</span></span>
+- <span data-ttu-id="f7cdc-105">Verifikasi bahwa aktivasi berhasil</span><span class="sxs-lookup"><span data-stu-id="f7cdc-105">Verify that activation succeeded</span></span>
+- <span data-ttu-id="f7cdc-106">Tinjau pesan kesalahan untuk aktivasi komputer bersama:</span><span class="sxs-lookup"><span data-stu-id="f7cdc-106">Review error messages for shared computer activation:</span></span>
+- <span data-ttu-id="f7cdc-107">"Produk yang kami temukan di akun Anda tidak dapat digunakan untuk mengaktifkan Office dalam skenario komputer bersama"</span><span class="sxs-lookup"><span data-stu-id="f7cdc-107">"The products we found in your account cannot be used to activate Office in shared computer scenarios"</span></span>
   
-<span data-ttu-id="5bf60-108">Galat ini berarti bahwa Anda tidak memiliki rencana 365 Office yang menyertakan Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="5bf60-108">This error means that you don't have an Office 365 plan that includes Office 365 ProPlus.</span></span>
-    
-  - <span data-ttu-id="5bf60-109">"Produk tanpa izin"</span><span class="sxs-lookup"><span data-stu-id="5bf60-109">"Unlicensed Product"</span></span>
-    
-  - <span data-ttu-id="5bf60-110">Periksa bahwa pengguna ditetapkan lisensi untuk Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="5bf60-110">Check that the user is assigned a license for Office 365 ProPlus.</span></span>
-    
-  - <span data-ttu-id="5bf60-111">Periksa bahwa pengguna sign in dengan account pengguna untuk Office 365</span><span class="sxs-lookup"><span data-stu-id="5bf60-111">Check that the user signs in with her user account for Office 365</span></span>
-    
-  - <span data-ttu-id="5bf60-112">Periksa bahwa ada konektivitas antara komputer bersama dan internet.</span><span class="sxs-lookup"><span data-stu-id="5bf60-112">Check that there is connectivity between the shared computer and the Internet.</span></span>
-    
-<span data-ttu-id="5bf60-113">Untuk tips pemecahan masalah lainnya, silakan lihat: [memecahkan masalah dengan aktivasi komputer bersama untuk Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="5bf60-113">For other troubleshooting tips, please see: [Troubleshoot issues with shared computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span></span>
-  
+<span data-ttu-id="f7cdc-108">Galat ini berarti bahwa Anda tidak memiliki langganan yang mencakup Microsoft 365 aplikasi untuk perusahaan.</span><span class="sxs-lookup"><span data-stu-id="f7cdc-108">This error means that you don't have a subscription that includes Microsoft 365 Apps for enterprise.</span></span>
 
+<span data-ttu-id="f7cdc-109">"Produk tanpa izin"</span><span class="sxs-lookup"><span data-stu-id="f7cdc-109">"Unlicensed Product"</span></span>
+
+- <span data-ttu-id="f7cdc-110">Periksa bahwa pengguna ditetapkan lisensi untuk Microsoft 365 aplikasi untuk perusahaan.</span><span class="sxs-lookup"><span data-stu-id="f7cdc-110">Check that the user is assigned a license for Microsoft 365 Apps for enterprise.</span></span>
+- <span data-ttu-id="f7cdc-111">Periksa apakah pengguna login dengan akun pengguna mereka.</span><span class="sxs-lookup"><span data-stu-id="f7cdc-111">Check that the user signs in with their user account.</span></span>
+- <span data-ttu-id="f7cdc-112">Periksa bahwa ada konektivitas antara komputer bersama dan internet.</span><span class="sxs-lookup"><span data-stu-id="f7cdc-112">Check that there is connectivity between the shared computer and the Internet.</span></span>
+
+<span data-ttu-id="f7cdc-113">Untuk tips pemecahan masalah lainnya, silakan lihat: [memecahkan masalah dengan aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="f7cdc-113">For other troubleshooting tips, please see: [Troubleshoot issues with shared computer activation](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span></span>
