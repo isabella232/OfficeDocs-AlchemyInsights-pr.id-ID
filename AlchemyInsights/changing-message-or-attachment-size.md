@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706393"
 ---
 # <a name="changing-message-or-attachment-size"></a>Mengubah ukuran pesan atau lampiran
 
-Sebagai admin Office 365, Anda dapat mengubah ukuran maksimum/minimum pesan (yang mencakup lampiran) yang dikirim pengguna Anda. Anda dapat melakukan ini untuk masing-masing pengguna atau semua pengguna (organisasi default). Setelah Anda mengubah pengaturan ini, dibutuhkan waktu sekitar 30 menit untuk mulai berlaku.
+Sebagai admin Microsoft 365, Anda dapat mengubah ukuran maksimum/minimum pesan (yang mencakup lampiran) yang dikirim pengguna Anda. Anda dapat melakukan ini untuk masing-masing pengguna atau semua pengguna (organisasi default). Setelah Anda mengubah pengaturan ini, dibutuhkan waktu sekitar 30 menit untuk mulai berlaku.
   
 - Untuk mengubah ukuran pesan untuk pengguna tertentu, buka **pusat** \> admin **kotak pesan** **penerima** \> **Exchange** \> . Pilih kotak pesan pengguna. Pilih ikon Edit, pilih **fitur kotak pesan**, lalu di bawah **batasan ukuran pesan**, pilih **Lihat detail** dan tentukan ukuran pesan maksimum baru.
 

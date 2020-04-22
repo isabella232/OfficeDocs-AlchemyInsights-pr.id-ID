@@ -1,9 +1,9 @@
 ---
-title: Semua langganan adalah aktif
+title: Semua langganan aktif
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708250"
 ---
-# <a name="all-subscriptions-are-active"></a>Semua langganan adalah aktif
+# <a name="all-subscriptions-are-active"></a>Semua langganan aktif
 
-Langganan Anda yang aktif. Ini dapat diverifikasi dengan pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) . Kepelangganan Anda diperintahkan oleh status, dengan aktif langganan di bagian atas. Informasi tambahan, seperti lisensi jumlah dan metode pembayaran, dapat dilihat dengan memilih berlangganan.
+Langganan Anda aktif. Hal ini dapat diverifikasi dengan membuka halaman langganan **penagihan** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) . Langganan Anda diurutkan berdasarkan status, dengan langganan aktif di bagian atas. Informasi tambahan, seperti jumlah lisensi dan metode pembayaran, dapat dilihat dengan memilih langganan.
   
-Jika Anda mengalami masalah dengan layanan Anda, menggunakan opsi "Mari kita panggilan Anda" untuk berbicara dengan seorang insinyur dukungan.
+Jika Anda mengalami masalah dengan layanan Anda, gunakan opsi "Mari kita memanggil Anda" untuk berbicara dengan teknisi dukungan.

@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: e612c1fb9c0a1b1f6e9a53a2b9eefeed0583dc9e
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706168"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kepatuhan komunikasi di Microsoft 365
 
-Kepatuhan komunikasi adalah solusi kepatuhan Microsoft 365 yang baru yang membantu organisasi memenuhi persyaratan kepatuhan pengawasan dan meminimalkan risiko komunikasi. Hal ini didasarkan pada fitur pengawasan di Office 365 dan berisi peningkatan baru, termasuk:
+Kepatuhan komunikasi adalah solusi kepatuhan Microsoft 365 yang baru yang membantu organisasi memenuhi persyaratan kepatuhan pengawasan dan meminimalkan risiko komunikasi. Hal ini didasarkan pada fitur pengawasan dan berisi tambahan baru, termasuk:
 
 - Template disesuaikan cerdas
 - Alur kerja remediasi yang fleksibel
 - Wawasan yang dapat ditindaklanjuti
 
-Jika saat ini Anda menggunakan [kebijakan supervisi di Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), sebaiknya Anda sekarang menggunakan kepatuhan komunikasi baru untuk mengatasi kebutuhan regulasi.
+Jika saat ini Anda menggunakan [kebijakan supervisi](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), sebaiknya Anda sekarang menggunakan kepatuhan komunikasi baru untuk mengatasi kebutuhan regulasi.
 
 Untuk mengatur kepatuhan komunikasi, lihat [mengkonfigurasi kepatuhan komunikasi](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 

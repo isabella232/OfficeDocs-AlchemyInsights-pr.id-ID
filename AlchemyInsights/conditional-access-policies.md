@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 8ce41d007988f2a45f1ded385ae50ac3def97c1b
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
+ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706060"
 ---
 # <a name="conditional-access-policies"></a>Kebijakan Akses Bersyarat
 
@@ -24,7 +24,7 @@ Kebijakan Akses adalah kemampuan Azure AD yang memungkinkan Anda menerapkan kont
 
 Pelajari selengkapnya tentang [Akses Bersyarat Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/).  
 
-**Catatan**: Jika penyewa Anda dibuat setelah tanggal 21 Oktober 2019 dan Anda tiba-tiba diminta untuk MFA, kemungkinan [default keamanan](http://aka.ms/securitydefaults) diaktifkan di penyewa Anda.
+**Catatan**: Jika penyewa Anda dibuat setelah tanggal 21 Oktober 2019 dan Anda tiba-tiba diminta untuk MFA, kemungkinan [default keamanan](https://aka.ms/securitydefaults) diaktifkan di penyewa Anda.
 
 **Untuk mengelola default keamanan**
 

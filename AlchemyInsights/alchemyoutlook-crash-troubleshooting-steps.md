@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708358"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Langkah pemecahan masalah Outlook crash
+# <a name="outlook-crash-troubleshooting-steps"></a>Langkah-langkah pemecahan masalah crash Outlook
 
-Jika Anda mengalami masalah crash desktop Outlook, mulai dengan mengikuti tiga langkah di bawah ini, yang semuanya tercantum secara rinci dalam artikel ini: [cara memecahkan masalah yang menyebabkan Outlook lumpuh atau berhenti merespons saat digunakan dengan Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Jika Anda mengalami masalah crash desktop Outlook, mulai dengan mengikuti tiga langkah di bawah ini, yang semuanya tercantum secara rinci dalam artikel ini: [cara memecahkan masalah yang menyebabkan Outlook lumpuh atau berhenti merespons.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Langkah 1: menyelidiki kemungkinan masalah dengan Add-in.
   
@@ -30,5 +30,5 @@ Langkah 2: Perbaiki Outlook dan jalankan [dukungan dan alat asisten pemulihan](h
   
 Langkah 3: Buat profil Outlook baru, atau Jalankan [alat profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) pada mesin yang terpengaruh.
   
-Jika masalah terjadi setelah pembaruan dan langkah di atas tidak berfungsi, Anda mungkin harus kembali ke versi sebelumnya. Lihat [bagaimana cara kembali ke versi yang lebih lawas Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
+Jika masalah terjadi setelah pembaruan dan langkah-langkah di atas tidak berhasil memperbaikinya, Anda mungkin perlu kembali ke build sebelumnya. Lihat [bagaimana cara kembali ke versi yang lebih lawas Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).
   

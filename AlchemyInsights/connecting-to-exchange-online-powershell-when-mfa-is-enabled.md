@@ -1,9 +1,9 @@
 ---
-title: 761 menyambung ke Exchange Online PowerShell bila MFA diaktifkan
+title: 761 menyambung ke Exchange Online PowerShell saat MFA diaktifkan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705808"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Tersambung ke Exchange Online PowerShell bila MFA diaktifkan
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Menyambung ke Exchange Online PowerShell saat MFA diaktifkan
 
-Jika akun Anda memiliki multi faktor otentikasi (MFA) diaktifkan, Anda harus mengikuti petunjuk ini untuk menyambung ke Exchange Online PowerShell: [tersambung ke Exchange Online PowerShell menggunakan multi faktor otentikasi](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
+Jika akun Anda memiliki otentikasi multi faktor (MFA) diaktifkan, Anda harus mengikuti petunjuk ini untuk menyambung ke Exchange Online PowerShell: [menyambung ke Exchange Online PowerShell menggunakan otentikasi multi faktor](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
 
-**Catatan**: bahkan jika Anda telah terhubung ke Exchange Online PowerShell di masa lalu menggunakan [koneksi reguler petunjuk](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), Anda perlu menggunakan petunjuk koneksi MFA setelah MFA telah diaktifkan untuk account Anda.
+**Catatan**: meskipun Anda telah tersambung ke Exchange Online PowerShell di masa lalu menggunakan [petunjuk sambungan reguler](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), Anda harus menggunakan petunjuk sambungan MFA setelah MFA diaktifkan untuk akun Anda.

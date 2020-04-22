@@ -1,9 +1,9 @@
 ---
-title: Prabayar pembaruan
+title: Perpanjangan prabayar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666699"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666780"
 ---
-# <a name="prepaid-office-365-renewal"></a>Prabayar pembaruan Office 365
+# <a name="prepaid-microsoft-365-renewal"></a>Prabayar Microsoft 365 pembaharuan
 
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Menemukan langganan Anda ingin memperpanjang. Di bagian **penagihan** , pilih **tanggal akhir memperpanjang**.
+2. Temukan langganan yang ingin Anda Perluas. Di bagian **tagihan** , pilih **Perluas tanggal akhir**.
 
-3. Di panel **memperpanjang langganan** , pilih **menggunakan kunci produk baru dan tidak terpakai**, lalu pilih **berikutnya**.
+3. Di panel **langganan meluas** , pilih **menggunakan kunci produk baru dan tidak terpakai**, lalu pilih **berikutnya**.
 
 4. Masukkan kunci produk, lalu pilih **berikutnya**.
 
 > [!NOTE]
-> Jika Anda memiliki lebih dari satu kunci produk, Anda dapat **menambahkan kunci produk lain** untuk mereka.
+> Jika Anda memiliki lebih dari satu kunci produk, Anda dapat memilih **menambahkan kunci produk lain** untuk memasukkannya.
 
-5. Periksa rincian pesanan Anda, kemudian pilih **Redeem**.
+5. Tinjau detail pesanan Anda, lalu pilih **tukarkan**.
 
-Untuk selengkapnya, lihat [menambahkan lisensi untuk atau memperpanjang langganan dibayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Untuk mempelajari lebih lanjut, lihat [menambahkan lisensi atau memperpanjang langganan berbayar untuk menggunakan kunci produk](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

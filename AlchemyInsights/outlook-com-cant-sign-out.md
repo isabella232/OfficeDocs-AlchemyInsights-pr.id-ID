@@ -1,9 +1,9 @@
 ---
-title: Outlook.com tidak keluar
+title: Outlook.com tidak dapat logout
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666852"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Mampu keluar dari Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Tidak dapat keluar dari Outlook.com
 
-Untuk keluar dari Outlook.com, pilih nama Anda atau gambar di sudut kanan atas layar, kemudian pilih **keluar**.
+Untuk Logout dari Outlook.com, pilih nama atau gambar Anda di pojok kanan atas layar, lalu pilih **logout**.
 
-Jika Anda tidak melihat gambar Anda di bagian atas layar, periksa untuk melihat jika iklan memblokir diaktifkan. Kadang-kadang ini mencegah gambar menampilkan.
+Jika Anda tidak melihat gambar Anda di bagian atas layar, periksa untuk mengetahui apakah pemblokiran iklan diaktifkan. Terkadang hal ini menyebabkan gambar tidak ditampilkan.
 
-Jika Anda masih tidak bisa keluar Outlook.com, klik [https://login.live.com/logout.srf](https://login.live.com/logout.srf) kemudian tutup semua jendela browser.
+Jika Anda masih tidak dapat keluar dari Outlook.com, klik [https://login.live.com/logout.srf](https://login.live.com/logout.srf) kemudian tutup semua jendela browser.

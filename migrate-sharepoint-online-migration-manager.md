@@ -1,9 +1,9 @@
 ---
-title: Migrasi ke SharePoint online melalui Migration Manager
+title: Bermigrasi ke SharePoint Online melalui Manajer Migrasi
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964198"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707190"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrasi ke SharePoint online melalui Migration Manager
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Bermigrasi ke SharePoint Online melalui Manajer Migrasi
 
-Terletak di pusat admin SharePoint modern, Migration Manager memandu Anda melalui penyiapan klien Anda dan pembuatan tugas Anda. Anda dapat menentukan setelan tingkat tugas atau global, melihat kemajuan tugas semua, dan men-download ringkasan agregat dan laporan tingkat tugas.
+Berada di Pusat Admin SharePoint modern, Manajer Migrasi memandu Anda dalam penyiapan klien dan pembuatan tugas. Anda dapat menentukan setelan tingkat tugas atau global, melihat kemajuan tugas semua, dan men-download ringkasan agregat dan laporan tingkat tugas.
 
-* [Memulai Migration Manager](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [Setup manajer migrasi klien](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [Pengaturan Pengelola migrasi](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [Mulai menggunakan Manajer Migrasi](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [Menyiapkan klien Manajer Migrasi](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [Pengaturan Manajer Migrasi](https://docs.microsoft.com/sharepointmigration/mm-settings)

@@ -1,5 +1,5 @@
 ---
-title: Mengkonversi kotak pesan pengguna ke kotak pesan bersama
+title: Mengkonversi kotak surat pengguna ke kotak surat bersama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 0a8ba0d7d74cacd34cbcea8dcab454d55c283280
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b1c44e0990d07686ef083d2045a164afc5f11033
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665295"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705556"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Mengkonversi kotak pesan pengguna ke kotak pesan bersama
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>Mengkonversi kotak pesan pengguna ke kotak surat bersama
 
-Ketika Anda mengkonversi pesan individu pengguna Office 365 ke kotak pesan bersama, semua email yang ada dan item kalender akan disimpan di mana beberapa orang dapat mengakses kotak pesan bersama. Anda juga dapat mengkonversi kotak pesan bersama kembali ke kotak pesan pengguna (swasta).
+Bila Anda mengkonversi kotak pesan pengguna perorangan ke kotak pesan bersama, Semua item kalender dan email yang ada akan disimpan di kotak pesan bersama yang dapat diakses oleh beberapa orang. Anda juga dapat mengkonversi kotak surat bersama kembali ke pengguna (pribadi) kotak surat.
   
-Untuk selengkapnya, lihat [mengubah pesan pengguna ke kotak pesan bersama](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
+Untuk selengkapnya, lihat [mengkonversi kotak pesan pengguna ke kotak pesan bersama](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

@@ -3,7 +3,7 @@ title: Mengubah seberapa sering Anda membayar
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,13 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217867"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706830"
 ---
 # <a name="change-how-often-you-pay"></a>Mengubah seberapa sering Anda membayar
 
-Saat membeli langganan, Anda memilih penagihan bulanan atau tahunan. Untuk mengubah seberapa sering Anda ditagih untuk langganan, gunakan langkah berikut.
-
-1. Di pusat admin, buka halaman **penagihan> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Temukan langganan yang ingin Anda ubah. Di bagian **tagihan** , di samping **ditagih bulanan** atau **ditagih per tahun**, klik **Edit**.
-
-3. Pilih opsi untuk seberapa sering Anda ingin ditagih, lalu klik **Ubah**.
+ **Ingin mengubah frekuensi pembayaran?** Jika Anda ingin mengubah seberapa sering Anda membayar untuk Microsoft 365 untuk berlangganan Bisnis, baik dari tahunan ke bulanan atau bulanan untuk tahunan, kami dapat membantu Anda dengan itu. Anda harus membeli langganan yang sama dengan frekuensi pembayaran baru dan membatalkan langganan lama. Silakan gunakan "Mari kita Hubungi Anda" pilihan untuk berbicara dengan teknisi dukungan.

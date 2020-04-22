@@ -3,7 +3,7 @@ title: Sudah dibayar?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e7ddb784b195767477962b94542cd292cb0c7ce1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708178"
 ---
 # <a name="already-paid"></a>Sudah dibayar?
 
-Jika Anda sudah dikirim pembayaran, Anda bisa Mari kita tahu:
+Jika sudah mengirim pembayaran, Anda dapat memberi tahu kami:
   
-1. Di pusat admin, pergi ke **penagihan** \> halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Di pusat admin, buka halaman [langganan](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** \> .
 
-2. Memilih berlangganan, dan di bagian **tagihan** , memilih **Lihat Bill**.
+2. Pilih langganan, dan di bagian **tagihan saya** , pilih **Lihat tagihan**.
 
-3. Pada halaman **rincian tagihan** , memilih **sudah dibayar?** Anda akan diminta untuk memasukkan informasi yang berkaitan dengan pembayaran yang dikirimkan.
+3. Pada halaman **rincian tagihan** , pilih **sudah dibayar?** Anda akan diminta untuk memasukkan informasi yang terkait dengan pembayaran yang dikirim.
 
 4. Ketika semua informasi yang diperlukan telah dimasukkan, pilih **kirim**.
