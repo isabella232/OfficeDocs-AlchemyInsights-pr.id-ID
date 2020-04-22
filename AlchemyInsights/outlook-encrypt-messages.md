@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764875"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Mengenkripsi pesan email di Outlook
 
-Enkripsi pesan Office 365 dibuat di Microsoft Azure Rights Management (Azure RMS), yang merupakan bagian dari perlindungan informasi Azure. Jika langganan Anda mencakup pengelolaan hak Azure atau perlindungan informasi Azure, **Anda tidak perlu melakukan tindakan apa pun untuk mengaktifkan atau** mengaktifkan layanan manajemen hak secara manual.
+Enkripsi pesan Microsoft 365 dibuat di Microsoft Azure Rights Management (Azure RMS), yang merupakan bagian dari perlindungan informasi Azure. Jika langganan Anda mencakup pengelolaan hak Azure atau perlindungan informasi Azure, **Anda tidak perlu melakukan tindakan apa pun untuk mengaktifkan atau** mengaktifkan layanan manajemen hak secara manual.
 
 Berdasarkan umpan balik pelanggan, kami tidak akan lagi mengaktifkan aturan aliran surat Exchange untuk secara otomatis mengenkripsi email keluar yang berisi jenis informasi sensitif tertentu di penyewa Anda secara default. Sebaliknya, kami menyediakan petunjuk rinci tentang bagaimana Anda dapat melakukannya sendiri. Untuk rincian tambahan tentang cara membuat aturan transpor untuk mengenkripsi informasi sensitif, lihat [artikel ini](https://aka.ms/OmeEtr).
 

@@ -3,7 +3,7 @@ title: Solusi untuk kesalahan 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501946"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757024"
 ---
 # <a name="solutions-for-error-30016-4"></a>Solusi untuk kesalahan 30016-4
 
-Ketika Anda mencoba untuk uninstall Office 365 ProPlus dari komputer, dan Anda mendapatkan pesan kesalahan, **sesuatu yang pergi salah 30016-4**, itu berarti drive **% temp %** dipetakan ke drive selain **ProgramFiles %**.
+Ketika Anda mencoba untuk membongkar Microsoft 365 aplikasi untuk perusahaan dari komputer, dan Anda mendapatkan pesan galat, terjadi kesalahan **30016-4**, itu berarti **% temp%** drive dipetakan ke kandar selain **% ProgramFiles%**.
   
-Untuk memperbaiki, men-download dan menginstal [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Untuk memperbaiki, Unduh dan instal [dukungan dan pemulihan asisten](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Ketika terbuka, dari **kantor Uninstall produk** pilih Versi yang Anda inginkan untuk uninstall dan pilih **berikutnya**.
+1. Ketika terbuka, dari **uninstall produk Office** pilih Versi yang ingin Anda uninstall dan pilih **berikutnya**.
 
-2. Lanjutkan melalui layar dan restart komputer Anda bila diminta.
+2. Terus telusuri layar dan mulai ulang komputer saat diminta.
 
-    Setelah restart, dukungan dan asisten pemulihan secara otomatis akan kembali membuka untuk menyelesaikan proses pencopotan pemasangan.
+    Setelah restart, Asisten dukungan dan pemulihan secara otomatis membuka kembali untuk menyelesaikan proses pembongkaran.
 
-3. Ikuti petunjuknya tersisa, dan [instal ulang kantor](https://portal.office.com/OLS/MySoftware.aspx) atau menutup asisten.
+3. Ikuti petunjuk yang tersisa, dan [instal ulang Office](https://portal.office.com/OLS/MySoftware.aspx) atau tutup asisten.

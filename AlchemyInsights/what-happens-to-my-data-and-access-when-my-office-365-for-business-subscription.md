@@ -1,9 +1,9 @@
 ---
-title: Apa yang terjadi untuk data dan akses saya ketika saya Office 365 untuk bisnis berlangganan berakhir?
+title: Apa yang terjadi pada data dan akses saya saat Microsoft 365 untuk langganan bisnis berakhir?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531254"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766208"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Apa yang terjadi untuk data dan akses saya ketika saya Office 365 untuk bisnis berlangganan berakhir?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Apa yang terjadi pada data dan akses saya saat Microsoft 365 untuk langganan bisnis berakhir?
 
-Jika Anda berlangganan kantor 365 berakhir — baik karena habis masa berlakunya, atau karena Anda memutuskan untuk membatalkan — akses Anda ke layanan Office 365, aplikasi dan data pelanggan pergi melalui Serikat sebelum berlangganan dimatikan sepenuhnya beberapa, atau *deprovisioned*  . Jika Anda mengetahui perkembangan ini, Anda akan lebih baik dilengkapi untuk kembali langganan Anda ke keadaan aktif sebelum terlambat, atau — jika Anda meninggalkan Office 365-back up data sebelum akhirnya dihapus.
+Jika langganan Anda berakhir — baik karena kedaluwarsa, atau karena Anda memutuskan untuk membatalkannya — akses Anda ke layanan, aplikasi, dan data pelanggan akan melewati beberapa negara bagian sebelum langganan dimatikan sepenuhnya, atau *deprovisioning* . Jika Anda mengetahui perkembangan ini, Anda akan lebih siap untuk mengembalikan langganan Anda ke keadaan aktif sebelum terlambat, atau-jika Anda meninggalkan Microsoft — Cadangkan data Anda sebelum akhirnya dihapus.
   
-Sebelum berlangganan benar-benar mencapai tanggal jatuh tempo, Anda memiliki beberapa pilihan untuk **mengatur penagihan untuk langganan berulang**.
+Sebelum langganan sebenarnya mencapai tanggal kedaluwarsa, Anda memiliki beberapa opsi untuk **mengelola penagihan berulang untuk langganan**.
   
-- Jika **Recurring penagihan** sudah diaktifkan, Anda tidak perlu mengambil tindakan apapun. Langganan Anda akan ditagih pada tanggal **Recurring penagihan** , dan Anda akan ditagih untuk tahun tambahan atau bulan, tergantung pada frekuensi pembayaran saat ini. Jika untuk alasan apapun Anda sudah dimatikan **berulang penagihan** , Anda dapat selalu [mengubah berulang penagihan kembali](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Jika **penagihan berulang** sudah diaktifkan, Anda tidak perlu melakukan tindakan apa pun. Langganan Anda akan ditagih pada tanggal **penagihan berulang** , dan Anda akan ditagih untuk tahun atau bulan tambahan, tergantung pada frekuensi pembayaran Anda saat ini. Jika karena alasan apa pun Anda menonaktifkan **penagihan berulang** , Anda selalu dapat [mengaktifkan kembali penagihan berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Jika Anda pelanggan lisensi Volume terbuka dengan prabayar, satu tahun berlangganan, hubungi pasangan Anda untuk membeli kunci produk baru. Anda akan menerima instruksi melalui email untuk mengaktifkan kunci Anda di [Pusat pelayanan perizinan Volume](https://go.microsoft.com/fwlink/p/?LinkID=282016). Untuk mempelajari cara untuk menemukan pasangan baru, atau mitra Anda bekerja dengan di masa lalu, lihat [mencari Office 365 pasangan Anda atau reseller](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- Jika Anda adalah pelanggan buka lisensi volume dengan langganan prabayar, satu tahun, hubungi partner Anda untuk membeli kunci produk baru. Anda akan menerima petunjuk melalui email untuk mengaktifkan kunci Anda di [pusat layanan lisensi Borongan](https://go.microsoft.com/fwlink/p/?LinkID=282016). Untuk mempelajari cara menemukan partner baru, atau partner yang pernah Anda kerjakan sebelumnya, lihat [menemukan mitra atau reseller Microsoft 365 Anda](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

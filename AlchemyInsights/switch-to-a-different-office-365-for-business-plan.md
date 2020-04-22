@@ -1,5 +1,5 @@
 ---
-title: Beralih ke Office 365 yang berbeda untuk rencana bisnis
+title: Beralih ke Microsoft yang berbeda 365 untuk rencana bisnis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548001"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763796"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Beralih ke Office 365 yang berbeda untuk rencana bisnis
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Beralih ke Microsoft yang berbeda 365 untuk langganan bisnis
 
-Saat bisnis Anda berubah, atau Anda memerlukan lebih banyak fitur Office 365, Anda dapat meningkatkan ke paket baru.
+Saat bisnis Anda berubah, atau Anda memerlukan lebih banyak fitur, Anda dapat meningkatkan ke paket baru.
   
 1. Di pusat admin, buka ** \> [produk penagihan & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

@@ -1,25 +1,25 @@
 ---
-title: Apakah alamat email saya di Outlook di web
+title: Apa alamat email saya di Outlook di web
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768188"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Apakah alamat email saya di Outlook di web?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Apa alamat email saya di Outlook di web?
 
-Alamat email Anda diberikan kepada Anda oleh kerja atau sekolah. Kelihatannya seperti ellen@contoso.onmicrosoft.com, ellen@contoso.edu, atau ellen@contoso.com. Rekening ini bekerja atau sekolah adalah alamat email dan akun yang Anda gunakan untuk masuk ke Office 365 untuk bekerja atau sekolah.
+Alamat email Anda diberikan kepada Anda oleh kantor atau sekolah Anda. Ini terlihat seperti ellen@contoso.onmicrosoft.com, ellen@contoso.edu, atau ellen@contoso.com. Akun kerja atau sekolah ini adalah alamat email dan akun yang Anda gunakan untuk masuk ke Microsoft 365 untuk kantor atau sekolah.
 
-Akun bekerja atau sekolah berbeda dari akun Microsoft. Anda menggunakan akun Microsoft untuk layanan pribadi seperti Outlook.com, Xbox Live, Skype, dan banyak lagi.
+Akun kantor atau sekolah Anda berbeda dengan akun Microsoft Anda. Anda menggunakan akun Microsoft untuk layanan pribadi seperti Outlook.com, Xbox Live, Skype, dan banyak lagi.
 
-Untuk informasi lebih lanjut, lihat [apa yang user ID saya dan mengapa saya membutuhkannya untuk Office 365 untuk bisnis?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Untuk informasi lebih lanjut, lihat [apa itu ID pengguna saya dan mengapa saya membutuhkannya untuk Microsoft 365 untuk bisnis?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

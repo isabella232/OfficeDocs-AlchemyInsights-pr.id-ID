@@ -1,9 +1,9 @@
 ---
-title: Ketika dikenai kartu kredit saya?
+title: Kapan kartu kredit saya dibebankan?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: ba7ee6b1b683c04454e024e9c167fbdc91ea66b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558404"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765272"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Ketika dikenai kartu kredit saya?
+# <a name="when-is-my-credit-card-charged"></a>Kapan kartu kredit saya dibebankan?
 
-Dengan pembelian awal, diperlukan waktu hingga dua hari untuk muatan untuk terjadi.
+Dengan pembelian awal, diperlukan waktu hingga dua hari agar biaya tersebut dapat terjadi.
   
-Biaya berulang terjadi dalam satu hari faktur diciptakan.
+Tagihan berulang terjadi dalam satu hari setelah faktur dibuat.
   
-Jika tuduhan itu gagal, sistem akan terus berusaha untuk menyelesaikan keseimbangan selama beberapa minggu. Anda dapat membuat update ke informasi pembayaran Anda kapan saja untuk memastikan upaya biaya berikutnya sukses. Untuk selengkapnya, lihat [menambahkan, mengupdate atau menghapus kartu kredit atau rekening bank di Office 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Jika tagihan tidak berhasil, sistem akan terus berusaha menyelesaikan saldo selama beberapa minggu ke depan. Anda dapat melakukan pembaruan pada informasi pembayaran kapan saja untuk memastikan upaya tagihan berikutnya berhasil. Untuk informasi selengkapnya, lihat [menambah, memperbarui atau menghapus kartu kredit atau rekening bank di Microsoft 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

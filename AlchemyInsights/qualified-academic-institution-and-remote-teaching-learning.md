@@ -10,12 +10,12 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: 9097ce5af41c14cef3ed499b8b67877f5e1dad62
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42954006"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764695"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>Lembaga Akademik Berkualifikasi Microsoft dan pengajaran dan pembelajaran jarak jauh
 
@@ -31,4 +31,4 @@ Jika disetujui, Anda dapat masuk ke tab [Beli layanan ](https://admin.microsoft.
 
 Lihat [Pengajaran dan pembelajaran jarak jauh di Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) untuk mempelajari panduan terbaru tentang menyiapkan rencana pembelajaran sekolah, rapat virtual, dan berbagi konten dengan siswa.
 
-Anda dapat menemukan panduan IT yang lain di [Memulai Microsoft Teams untuk pembelajaran jarak jauh](https://docs.microsoft.com/id-ID/MicrosoftTeams/remote-learning-edu) dan [Melakukan transisi ke pembelajaran jarak jauh](https://www.microsoft.com/education/remote-learning).
+Anda dapat menemukan panduan IT yang lain di [Memulai Microsoft Teams untuk pembelajaran jarak jauh](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) dan [Melakukan transisi ke pembelajaran jarak jauh](https://www.microsoft.com/education/remote-learning).
