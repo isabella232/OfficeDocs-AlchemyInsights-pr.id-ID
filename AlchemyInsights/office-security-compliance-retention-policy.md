@@ -3,7 +3,7 @@ title: Info lebih lanjut tentang kebijakan retensi
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 4885407578e959bddcdd8374d482d2f6d7a461fe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053408"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761301"
 ---
-# <a name="more-info-about-retention-policies"></a><span data-ttu-id="513c7-102">Info lebih lanjut tentang kebijakan retensi</span><span class="sxs-lookup"><span data-stu-id="513c7-102">More info about retention policies</span></span>
+# <a name="more-info-about-retention-policies"></a><span data-ttu-id="cd381-102">Info lebih lanjut tentang kebijakan retensi</span><span class="sxs-lookup"><span data-stu-id="cd381-102">More info about retention policies</span></span>
 
-<span data-ttu-id="513c7-103">Untuk sebagian besar organisasi, volume dan kompleksitas data mereka meningkat setiap hari-email, dokumen, pesan instan, dan banyak lagi.</span><span class="sxs-lookup"><span data-stu-id="513c7-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="513c7-104">Secara efektif mengelola atau mengatur informasi ini penting, dan kebijakan retensi dapat membantu Anda mencapai tujuan tersebut.</span><span class="sxs-lookup"><span data-stu-id="513c7-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="513c7-105">Untuk informasi lebih lanjut tentang kebijakan retensi, silakan kunjungi link ini:</span><span class="sxs-lookup"><span data-stu-id="513c7-105">For more information on retention policies, please visit these links:</span></span>
+<span data-ttu-id="cd381-103">Untuk sebagian besar organisasi, volume dan kompleksitas data mereka meningkat setiap hari-email, dokumen, pesan instan, dan banyak lagi.</span><span class="sxs-lookup"><span data-stu-id="cd381-103">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span> <span data-ttu-id="cd381-104">Secara efektif mengelola atau mengatur informasi ini penting, dan kebijakan retensi dapat membantu Anda mencapai tujuan tersebut.</span><span class="sxs-lookup"><span data-stu-id="cd381-104">Effectively managing or governing this information is important, and a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="cd381-105">Untuk informasi lebih lanjut tentang kebijakan retensi, silakan kunjungi link ini:</span><span class="sxs-lookup"><span data-stu-id="cd381-105">For more information on retention policies, please visit these links:</span></span>
 
-## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="513c7-106">A) dari pusat keamanan dan kepatuhan</span><span class="sxs-lookup"><span data-stu-id="513c7-106">A) From Security and Compliance Center</span></span>
+## <a name="a-from-security-and-compliance-center"></a><span data-ttu-id="cd381-106">A) dari pusat keamanan dan kepatuhan</span><span class="sxs-lookup"><span data-stu-id="cd381-106">A) From Security and Compliance Center</span></span>
 
-- <span data-ttu-id="513c7-107">Buka keamanan dan kepatuhan > pengelolaan data > retensi</span><span class="sxs-lookup"><span data-stu-id="513c7-107">Go to Security and Compliance > Data governance > Retention</span></span>
-  - <span data-ttu-id="513c7-108">Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/retention-policies)</span><span class="sxs-lookup"><span data-stu-id="513c7-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
+- <span data-ttu-id="cd381-107">Buka keamanan dan kepatuhan > pengelolaan data > retensi</span><span class="sxs-lookup"><span data-stu-id="cd381-107">Go to Security and Compliance > Data governance > Retention</span></span>
+  - <span data-ttu-id="cd381-108">Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/retention-policies)</span><span class="sxs-lookup"><span data-stu-id="cd381-108">See [THIS](https://docs.microsoft.com/office365/securitycompliance/retention-policies) article</span></span>
 
-- <span data-ttu-id="513c7-109">Buka keamanan dan kepatuhan > eDiscovery> eDiscovery tingkat lanjut</span><span class="sxs-lookup"><span data-stu-id="513c7-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
-  - <span data-ttu-id="513c7-110">Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)</span><span class="sxs-lookup"><span data-stu-id="513c7-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
+- <span data-ttu-id="cd381-109">Buka keamanan dan kepatuhan > eDiscovery> eDiscovery tingkat lanjut</span><span class="sxs-lookup"><span data-stu-id="cd381-109">Go to Security and Compliance > eDiscovery> Advanced eDiscovery</span></span> 
+  - <span data-ttu-id="cd381-110">Lihat artikel [ini](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)</span><span class="sxs-lookup"><span data-stu-id="cd381-110">See [THIS](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) article</span></span>
 
-- <span data-ttu-id="513c7-111">Pergi ke keamanan dan kepatuhan > klasifikasi > retensi</span><span class="sxs-lookup"><span data-stu-id="513c7-111">Go to Security and Compliance > Classifications > Retention</span></span>
-  - <span data-ttu-id="513c7-112">Lihat artikel ini</span><span class="sxs-lookup"><span data-stu-id="513c7-112">See these articles</span></span>
-    - [<span data-ttu-id="513c7-113">Label sensitivitas</span><span class="sxs-lookup"><span data-stu-id="513c7-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [<span data-ttu-id="513c7-114">Ikhtisar label</span><span class="sxs-lookup"><span data-stu-id="513c7-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
+- <span data-ttu-id="cd381-111">Pergi ke keamanan dan kepatuhan > klasifikasi > retensi</span><span class="sxs-lookup"><span data-stu-id="cd381-111">Go to Security and Compliance > Classifications > Retention</span></span>
+  - <span data-ttu-id="cd381-112">Lihat artikel ini</span><span class="sxs-lookup"><span data-stu-id="cd381-112">See these articles</span></span>
+    - [<span data-ttu-id="cd381-113">Label sensitivitas</span><span class="sxs-lookup"><span data-stu-id="cd381-113">Sensitivity Labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+    - [<span data-ttu-id="cd381-114">Ikhtisar label</span><span class="sxs-lookup"><span data-stu-id="cd381-114">Labels Overview</span></span>](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="513c7-115">B) kebijakan eDiscovery lama</span><span class="sxs-lookup"><span data-stu-id="513c7-115">B) Legacy eDiscovery policies</span></span>
+## <a name="b-legacy-ediscovery-policies"></a><span data-ttu-id="cd381-115">B) kebijakan eDiscovery lama</span><span class="sxs-lookup"><span data-stu-id="cd381-115">B) Legacy eDiscovery policies</span></span>
 
-- <span data-ttu-id="513c7-116">Lihat artikel [ini](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)</span><span class="sxs-lookup"><span data-stu-id="513c7-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
+- <span data-ttu-id="cd381-116">Lihat artikel [ini](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)</span><span class="sxs-lookup"><span data-stu-id="cd381-116">See [THIS](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E) article</span></span>
 
-## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="513c7-117">C) kebijakan penutupan dan penghapusan situs</span><span class="sxs-lookup"><span data-stu-id="513c7-117">C) Site closure and deletion policies</span></span>
+## <a name="c-site-closure-and-deletion-policies"></a><span data-ttu-id="cd381-117">C) kebijakan penutupan dan penghapusan situs</span><span class="sxs-lookup"><span data-stu-id="cd381-117">C) Site closure and deletion policies</span></span>
 
-- <span data-ttu-id="513c7-118">Lihat artikel [ini](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)</span><span class="sxs-lookup"><span data-stu-id="513c7-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
+- <span data-ttu-id="cd381-118">Lihat artikel [ini](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)</span><span class="sxs-lookup"><span data-stu-id="cd381-118">See [THIS](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) article</span></span>  
 
-## <a name="d-information-rights-management-irm"></a><span data-ttu-id="513c7-119">D) manajemen hak informasi (IRM)</span><span class="sxs-lookup"><span data-stu-id="513c7-119">D) Information Rights Management (IRM)</span></span>
+## <a name="d-information-rights-management-irm"></a><span data-ttu-id="cd381-119">D) manajemen hak informasi (IRM)</span><span class="sxs-lookup"><span data-stu-id="cd381-119">D) Information Rights Management (IRM)</span></span>
 
-- <span data-ttu-id="513c7-120">Lihat artikel ini</span><span class="sxs-lookup"><span data-stu-id="513c7-120">See these articles</span></span>
-  - [<span data-ttu-id="513c7-121">IRM pada daftar/perpustakaan</span><span class="sxs-lookup"><span data-stu-id="513c7-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [<span data-ttu-id="513c7-122">Ringkasan IRM</span><span class="sxs-lookup"><span data-stu-id="513c7-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- <span data-ttu-id="cd381-120">Lihat artikel ini</span><span class="sxs-lookup"><span data-stu-id="cd381-120">See these articles</span></span>
+  - [<span data-ttu-id="cd381-121">IRM pada daftar/perpustakaan</span><span class="sxs-lookup"><span data-stu-id="cd381-121">IRM on a list/Library</span></span>](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [<span data-ttu-id="cd381-122">Ringkasan IRM</span><span class="sxs-lookup"><span data-stu-id="cd381-122">IRM Overview</span></span>](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> <span data-ttu-id="513c7-123">Kami sangat menyarankan untuk beralih ke kebijakan keamanan dan kepatuhan jika Anda masih menggunakan eDiscovery Legacy atau IRM atau penutupan situs dan penghapusan.</span><span class="sxs-lookup"><span data-stu-id="513c7-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>
+> <span data-ttu-id="cd381-123">Kami sangat menyarankan untuk beralih ke kebijakan keamanan dan kepatuhan jika Anda masih menggunakan eDiscovery Legacy atau IRM atau penutupan situs dan penghapusan.</span><span class="sxs-lookup"><span data-stu-id="cd381-123">We strongly recommend moving to Security and Compliance polices if you are still using Legacy eDiscovery or IRM or Site Closure and deletion policies.</span></span>

@@ -1,9 +1,9 @@
 ---
-title: Sinkronisasi kontak di Outlook.com
+title: Sinkronkan kontak di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 6044f9d730a128de71708c131849e8ed78dd35a0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511778"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722271"
 ---
-# <a name="sync-contacts"></a><span data-ttu-id="90304-102">Menyinkronkan kontak</span><span class="sxs-lookup"><span data-stu-id="90304-102">Sync contacts</span></span>
+# <a name="sync-contacts"></a><span data-ttu-id="4d792-102">Menyelaraskan kontak</span><span class="sxs-lookup"><span data-stu-id="4d792-102">Sync contacts</span></span>
 
-<span data-ttu-id="90304-103">Outlook Sync kontak yang Anda buat di [orang-orang](https://outlook.live.com/people/) di seluruh perangkat lain dan aplikasi, seperti Outlook untuk Android dan Outlook untuk iOS.</span><span class="sxs-lookup"><span data-stu-id="90304-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="90304-104">Pelajari cara [membuat kontak](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="90304-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
+<span data-ttu-id="4d792-103">Outlook menyinkronkan kontak yang Anda buat pada [orang](https://outlook.live.com/people/) di seluruh perangkat dan aplikasi lain, seperti Outlook untuk Android dan Outlook untuk IOS.</span><span class="sxs-lookup"><span data-stu-id="4d792-103">Outlook syncs the contacts you create in [People](https://outlook.live.com/people/) across other devices and apps, such as Outlook for Android and Outlook for iOS.</span></span> <span data-ttu-id="4d792-104">Pelajari cara [membuat kontak](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span><span class="sxs-lookup"><span data-stu-id="4d792-104">Learn how to [create contacts](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).</span></span>
 
-<span data-ttu-id="90304-105">Impor kontak (misalnya, kontak dari account email lain yang Anda telah terhubung ke Outlook.com account) tidak disinkronkan.</span><span class="sxs-lookup"><span data-stu-id="90304-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="90304-106">Belajar bagaimana untuk [mengimpor kontak](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="90304-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>
+<span data-ttu-id="4d792-105">Kontak yang diimpor (misalnya, kontak dari akun email lain yang telah Anda hubungkan ke akun Outlook.com) tidak disinkronkan.</span><span class="sxs-lookup"><span data-stu-id="4d792-105">Imported contacts (for example, contacts from another email account you've connected to your Outlook.com account) aren't synced.</span></span> <span data-ttu-id="4d792-106">Pelajari cara [mengimpor kontak](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span><span class="sxs-lookup"><span data-stu-id="4d792-106">Learn how to [import contacts](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).</span></span>

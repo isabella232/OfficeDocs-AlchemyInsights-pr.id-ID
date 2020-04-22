@@ -1,9 +1,9 @@
 ---
-title: 8000066 - aturan 2 - Outlook.com hack - Spanyol
+title: 8000066-aturan 2-Outlook.com hacked-Spanyol
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: 4ea588f8d66042ee6e2f6794d6ae73bcca2027bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0149559d03e8f7ceedad9ea74a5610255b0c7ba6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536401"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760199"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="36d76-102">Han pirateado mi cuenta de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="36d76-102">Han pirateado mi cuenta de Outlook.com</span></span>
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="b82db-102">Han pirateado MI cuenta de Outlook.com</span><span class="sxs-lookup"><span data-stu-id="b82db-102">Han pirateado mi cuenta de Outlook.com</span></span>
 
-<span data-ttu-id="36d76-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener Furniture su información pribadi o enviar correo deseado tidak ada.</span><span class="sxs-lookup"><span data-stu-id="36d76-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
+<span data-ttu-id="b82db-103">Si Su cuenta se ha pirateado significa Que alguien robó La kontras y es posible Que Esté usando La cuenta para obtener Acceso sebuah Su información pribadi o enviar correo ada Deseado.</span><span class="sxs-lookup"><span data-stu-id="b82db-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
 
-[<span data-ttu-id="36d76-104">Siga las karton para recuperar su cuenta.</span><span class="sxs-lookup"><span data-stu-id="36d76-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="b82db-104">Siga Las instruciones para Recuperar Su cuenta.</span><span class="sxs-lookup"><span data-stu-id="b82db-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="36d76-105">Para restablecer la cuenta menggunakan el teléfono u lokasi lain equipo, vaya [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span><span class="sxs-lookup"><span data-stu-id="36d76-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>
+<span data-ttu-id="b82db-105">Para restablecer La cuenta dibuat El teléfono u otro Equipo, Vaya a [account.Microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span><span class="sxs-lookup"><span data-stu-id="b82db-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>

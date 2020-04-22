@@ -1,8 +1,8 @@
 ---
-title: Layanan kejadian berlangsung
+title: Insiden layanan yang sedang berlangsung
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550626"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719734"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="41a5c-102">Layanan kejadian berlangsung</span><span class="sxs-lookup"><span data-stu-id="41a5c-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="e10f6-102">Insiden layanan yang sedang berlangsung</span><span class="sxs-lookup"><span data-stu-id="e10f6-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="41a5c-103">Anda mungkin akan terpengaruh oleh insiden layanan atau penasihat yang saat ini sedang diselidiki.</span><span class="sxs-lookup"><span data-stu-id="41a5c-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="41a5c-104">Anda dapat memeriksa status terbaru dengan pergi ke halaman [Layanan kesehatan](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="41a5c-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="e10f6-103">Anda mungkin terpengaruh oleh insiden layanan atau saran yang sedang diselidiki.</span><span class="sxs-lookup"><span data-stu-id="e10f6-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="e10f6-104">Anda dapat memeriksa status terbaru dengan membuka halaman [layanan kesehatan](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="e10f6-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="41a5c-105">Untuk kenyamanan Anda, Anda dapat menemukan ringkasan dari kejadian ini di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="41a5c-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="e10f6-105">Untuk kenyamanan Anda, Anda dapat menemukan ringkasan kejadian di bawah ini:</span><span class="sxs-lookup"><span data-stu-id="e10f6-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="41a5c-106">**Kejadian nomor:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="41a5c-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="e10f6-106">**Nomor insiden:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="e10f6-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="41a5c-107">Dampak Deskripsi: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="41a5c-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="e10f6-107">Deskripsi dampak: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="e10f6-107">Impact description: {ImpactDescription}</span></span>
