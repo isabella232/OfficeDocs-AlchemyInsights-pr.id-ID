@@ -3,7 +3,7 @@ title: Pemberitahuan peringatan SharePoint tidak terkirim
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742050"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Pemberitahuan peringatan SharePoint tidak terkirim
 
@@ -26,7 +26,7 @@ Silakan periksa folder JUNK di email Anda, seperti yang terkadang peringatan mun
 
 Tentukan apakah **semua peringatan tidak terkirim** atau jika **peringatan individu** dari file atau perpustakaan tertentu tidak terkirim.
 
-- **Lansiran individual tidak terkirim**: jika peringatan individu dari file atau perpustakaan tertentu tidak terkirim, Anda dapat mencoba menghapus dan membuatnya kembali. Lihat [mengelola, melihat, atau menghapus peringatan SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) untuk membuat ulang peringatan.
+- **Lansiran individual tidak terkirim**: jika peringatan individu dari file atau perpustakaan tertentu tidak terkirim, Anda dapat mencoba menghapus dan membuatnya kembali. Lihat [mengelola, melihat, atau menghapus peringatan SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) untuk membuat ulang peringatan.
 - **Semua peringatan tidak terkirim**: jika semua peringatan dari beberapa file atau perpustakaan tidak terkirim, kunjungi [dasbor layanan kesehatan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk memeriksa setiap saran/insiden yang mungkin terjadi dengan SharePoint atau Exchange. Masalah dapat dengan kemampuan peringatan SharePoint atau penundaan dalam email melalui Exchange. Ini juga akan penting untuk dicatat Apakah email lain sedang dikirim, dan jika tidak, masalah ini mungkin dengan penundaan Exchange.
 
 FAQ pada peringatan:

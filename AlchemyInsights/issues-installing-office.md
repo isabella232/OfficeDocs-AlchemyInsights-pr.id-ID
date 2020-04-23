@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054028"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765812"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Solusi untuk masalah saat menginstal Office
 
@@ -29,7 +29,7 @@ Cobalah salah satu solusi ini untuk memperbaiki kesalahan Office:
 - Bersihkan semua sisa Office sebelumnya dan instal ulang Office menggunakan Asisten Dukungan dan Pemulihan (SaRA). 
 
     - Unduh dan instal [Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy). Setelah terbuka, dari **Menghapus instalan produk Office**, pilih versi yang ingin dihapus instalannya (jika ada) dan klik **Berikutnya**. Terus telusuri layar dan mulai ulang komputer saat diminta. Setelah memulai ulang, SaRA otomatis akan terbuka kembali untuk menyelesaikan proses penghapusan instalan.
-    - Menggunakan SaRA untuk [menginstal ulang Office](http://aka.ms/sara-officeinstall). **Catatan**: Untuk menyiapkan Visio atau Project menggunakan SaRA, gunakan [Menginstal Visio](https://aka.ms/SaRA-VisioSetupScenario) atau [Menginstal Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Menggunakan SaRA untuk [menginstal ulang Office](https://aka.ms/sara-officeinstall). **Catatan**: Untuk menyiapkan Visio atau Project menggunakan SaRA, gunakan [Menginstal Visio](https://aka.ms/SaRA-VisioSetupScenario) atau [Menginstal Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Gunakan penginstal Office offline](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) untuk menginstal Office.
 

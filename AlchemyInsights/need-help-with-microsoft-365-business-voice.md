@@ -1,5 +1,5 @@
 ---
-title: Butuh bantuan untuk Microsoft 365 Business Voice?
+title: Butuh bantuan untuk Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761961"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>Butuh bantuan untuk Microsoft 365 Business Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Butuh bantuan untuk Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Voice memudahkan organisasi kecil dan menengah untuk mengubah Microsoft teams menjadi sistem telepon yang tangguh dan fleksibel. Untuk informasi lebih lanjut tentang bisnis suara, lihat [apa yang Microsoft 365 bisnis suara?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice memudahkan organisasi kecil dan menengah untuk mengubah Microsoft teams menjadi sistem telepon yang kuat dan fleksibel. Untuk informasi lebih lanjut tentang bisnis suara, lihat [apa itu Microsoft 365 bisnis Premium suara?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Jika Anda telah memperoleh Microsoft 365 Business Voice, [Wizard memulai](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) dapat membantu Anda mendapatkan sesuatu yang terjadi. 
+Jika Anda telah memperoleh Microsoft 365 bisnis Premium suara, [Wizard memulai](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) dapat membantu Anda mendapatkan sesuatu yang terjadi. 

@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628029"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764156"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Saran untuk memecahkan "produk tanpa izin" kesalahan
 
 Untuk mengatasi kesalahan tentang "produk tanpa izin", coba hal berikut:
 
 - Periksa untuk mengetahui apakah status langgananmu telah kedaluwarsa.
-- Pastikan Anda memiliki langganan yang memungkinkan lisensi klien, seperti Office 365 bisnis atau bisnis Premium, dan [memastikan bahwa pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Pastikan Anda memiliki langganan yang memungkinkan lisensi klien, seperti Microsoft 365 aplikasi untuk bisnis atau bisnis Premium, dan [memastikan bahwa pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Pastikan pengguna masuk ke Office dengan akun yang sama yang memiliki lisensi yang ditetapkan.
-- Periksa [halaman Kesehatan Layanan Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah yang diketahui dengan layanan.
-- Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses aplikasi Office ke internet. Lihat [Office 365 URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Periksa [halaman Kesehatan Layanan](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah yang diketahui dengan layanan.
+- Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses aplikasi Office ke internet. Lihat [rentang URL dan alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Anda juga dapat mencoba tindakan pemecahan masalah berikut ini: 
 
@@ -35,7 +35,7 @@ Anda juga dapat mencoba tindakan pemecahan masalah berikut ini:
 - [Reset status aktivasi Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Melakukan perbaikan online kantor](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Untuk solusi pemecahan masalah tambahan, lihat: 
+Untuk solusi pemecahan masalah lainnya, lihat: 
 
-- [Produk tidak berlisensi dan kesalahan aktivasi di Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Maaf, kami tidak dapat terhubung ke akun Anda. Silakan coba lagi nanti "galat saat Anda mengaktifkan Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Produk Tanpa Lisensi dan kesalahan aktivasi di Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [Kesalahan "Maaf, kami tidak dapat terhubung ke akun Anda. Coba lagi nanti" saat Anda mengaktifkan Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

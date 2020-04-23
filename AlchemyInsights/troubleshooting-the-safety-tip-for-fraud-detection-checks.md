@@ -1,9 +1,9 @@
 ---
-title: Pemecahan masalah tip keselamatan untuk deteksi penipuan cek
+title: Mengatasi masalah tip keselamatan untuk pemeriksaan pendeteksian penipuan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533186"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759515"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Pemecahan masalah tip keselamatan untuk deteksi penipuan cek
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Mengatasi masalah tip keselamatan untuk pemeriksaan pendeteksian penipuan
 
-Jika Anda mendapatkan tip keselamatan yang mengatakan "pengirim gagal pemeriksaan deteksi penipuan kami dan tidak mungkin yang mereka tampak", kemudian pengirim gagal dalam mewariskan DKIM atau SPF otentikasi cek. Metode terbaik untuk memecahkan masalah ini adalah untuk pengirim untuk mengotorisasi sendiri. Jika pengirim mengirim atas nama Anda, Anda perlu wewenang mereka dengan menambahkan alamat IP pengirim ke record SPF Anda.
+Jika Anda mendapatkan tip keselamatan yang berbunyi "pengirim gagal memeriksa deteksi penipuan kami dan mungkin tidak menjadi siapa mereka tampaknya", maka pengirim gagal untuk lulus baik DKIM atau SPF otentikasi cek. Metode terbaik untuk menyelesaikan ini adalah untuk pengirim untuk mengotorisasi diri mereka sendiri. Jika pengirim mengirimkan atas nama Anda, Anda perlu mengotorisasi mereka dengan menambahkan alamat IP pengirim ke data SPF.
   
-Lihat [pemecahan masalah merah (mencurigakan) safety Tips untuk deteksi penipuan cek](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) untuk info lebih lanjut.
+Lihat [mengatasi masalah Tips keamanan merah (mencurigakan) untuk pemeriksaan deteksi penipuan](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) untuk info lebih lanjut.
   
-Berikut adalah beberapa link yang dapat membantu:
+Berikut adalah beberapa link lain yang dapat membantu:
   
-- [Bagaimana Office 365 menggunakan kerangka kebijakan pengirim (SPF) untuk mencegah spoofing](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Bagaimana Microsoft menggunakan kerangka kebijakan pengirim (SPF) untuk mencegah spoofing](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Mengatur SPF di Office 365 untuk membantu mencegah spoofing](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Menyiapkan SPF untuk membantu mencegah spoofing](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)

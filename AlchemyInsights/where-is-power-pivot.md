@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769846"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765200"
 ---
 # <a name="where-is-power-pivot"></a>Di mana daya Pivot?
 
@@ -41,4 +41,4 @@ Jika Anda bekerja di versi Excel yang mendukung Power Pivot, periksa untuk melih
 
 **Anda memiliki beberapa langganan atau akun**
   
-Anda mungkin memiliki langganan Office 365 yang berbeda yang ditetapkan ke akun pengguna yang berbeda. Pastikan Anda masuk ke akun dengan versi Excel yang mendukung Power Pivot. Periksa daftar versi yang [didukung](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), dan ikuti petunjuk untuk beralih di [antara akun Office yang berbeda](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Anda mungkin memiliki langganan Microsoft 365 yang berbeda yang ditetapkan ke akun pengguna yang berbeda. Pastikan Anda masuk ke akun dengan versi Excel yang mendukung Power Pivot. Periksa daftar versi yang [didukung](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), dan ikuti petunjuk untuk beralih di [antara akun Office yang berbeda](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

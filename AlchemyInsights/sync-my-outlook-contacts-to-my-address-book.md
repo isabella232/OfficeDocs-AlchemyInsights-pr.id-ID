@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767072"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sinkronkan kontak Outlook saya ke buku alamat saya
 
@@ -30,7 +30,7 @@ Outlook memungkinkan Anda mengekspor kontak ke aplikasi kontak default di Androi
 
 3. Alihkan penggeser **kontak sinkronisasi** ke aktif.
  
-Ekspor kontak dua arah didukung untuk Office 365, Outlook.com, dan hibrid modern otentikasi untuk pesan lokal. Dukungan dua arah memastikan bahwa setiap kontak baru yang Anda tambahkan, atau kontak yang Anda edit, akan disinkronkan antara perangkat dan akun Outlook Anda.
+Ekspor kontak dua arah didukung untuk Microsoft 365, Outlook.com, dan hibrid modern otentikasi untuk pesan lokal. Dukungan dua arah memastikan bahwa setiap kontak baru yang Anda tambahkan, atau kontak yang Anda edit, akan disinkronkan antara perangkat dan akun Outlook Anda.
  
 Untuk akun Exchange lama, Anda dapat mengekspor kontak agar disimpan ke perangkat. Ketika **kontak sinkronisasi** diaktifkan, kontak yang baru ditambahkan dan pengeditan yang dibuat ke kontak Anda di Outlook akan disimpan ke App kontak pada perangkat Anda. Namun, pengeditan yang dilakukan langsung di aplikasi kontak perangkat Anda tidak akan disimpan ke Outlook. Perhatikan bahwa kami tidak mendukung penambahan/pengeditan kontak dari Outlook untuk Android untuk account Exchange lokal, sehingga Anda perlu mengelola kontak dari klien Outlook yang berbeda.
  

@@ -3,7 +3,7 @@ title: 1490-pemecahan masalah-eDiscovery-kegagalan
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559376"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759587"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Mengatasi masalah pencarian isi
+# <a name="troubleshoot-content-search-errors"></a>Memecahkan masalah kesalahan penelusuran konten
 
-Apakah Anda mengalami masalah dengan konten Cari di Office 365 atau mendapatkan kegagalan ketika Anda mengekspor hasil pencarian?
+Apakah Anda mengalami masalah dengan penelusuran konten atau mendapatkan kegagalan saat mengekspor hasil penelusuran?
 
-Misalnya, Anda menerima berikut ketika menjalankan pencarian?
+Misalnya, Apakah Anda menerima berikut ini saat menjalankan pencarian?
 
-- Kesalahan CS008 atau CS012
+- CS008 atau CS012 kesalahan
 
-- Kesalahan Server sibuk timeout
+- Kesalahan Server sibuk/timeout
 
-- Terjadi kesalahan aplikasi
+- Terjadi galat aplikasi
 
-Atau ketika mencari atau mengekspor hasil dari sejumlah besar kotak pesan (kotak pesan lebih dari 100.000), Anda mendapatkan kesalahan ekspor?
+Atau saat mencari atau mengekspor hasil dari sejumlah besar kotak pesan (lebih dari 100.000 kotak pesan), Apakah Anda mendapatkan kesalahan ekspor?
 
-Untuk jenis kesalahan, coba lagi mencari lokasi konten yang telah gagal. Lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) untuk informasi lebih lanjut.
+Untuk jenis kesalahan ini, coba lagi pencarian lokasi konten yang gagal. Lihat [artikel ini](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) untuk informasi lebih lanjut.

@@ -1,8 +1,8 @@
 ---
-title: Langkah-langkah untuk mengatasi error pengaktifan kantor 0x80072EFD
+title: Langkah untuk menyelesaikan galat aktivasi Office 0x80072EFD
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ ms.custom:
 - "915"
 - "2000021"
 ms.assetid: d071ce0c-c29e-4917-8860-950e5efd26af
-ms.openlocfilehash: b32abb6684e8a2a4a3fdac19045073d1ba598303
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: de9969a6c4aca318887589f1553c7060eff6b6f4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559736"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763949"
 ---
-# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Langkah-langkah untuk mengatasi error pengaktifan kantor 0x80072EFD
+# <a name="steps-to-resolve-office-activation-error-0x80072efd"></a>Langkah untuk menyelesaikan galat aktivasi Office 0x80072EFD
 
-Coba solusi ini untuk memperbaiki error pengaktifan kantor:
+Coba solusi ini untuk memperbaiki galat aktivasi Office:
   
-1. Periksa Anda [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall).
+1. Periksa [firewall](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckFirewall)Anda.
 
-2. Periksa perangkat [lunak antivirus](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV).
+2. Periksa [perangkat lunak antivirus](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckAV)Anda.
 
-3. Periksa [pengaturan proxy](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)
+3. Memeriksa [setelan proxy](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380#BKMK_CheckProxy)
 
-4. Men-download dan menginstal [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeActivation-Alchemy) dan menjalankan the **Pemecah masalah aktivasi**.
+4. Unduh dan instal [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeActivation-Alchemy) dan jalankan **pemecah masalah aktivasi**.

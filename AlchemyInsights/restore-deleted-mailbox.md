@@ -1,5 +1,5 @@
 ---
-title: Mengembalikan dihapus pesan
+title: Mengembalikan kotak pesan yang dihapus
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 18e56305b60469422a154ffa1b097c238baaae16
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666375"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764659"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Memulihkan kotak pesan yang dihapus
 
-Ketika pengguna kehilangan izin Exchange Online, kotak pesan mereka dipertahankan untuk 30 hari dan dapat dipulihkan dengan hanya kembali menetapkan lisensi ke pengguna.
+Ketika pengguna kehilangan lisensi Exchange Online, kotak surat mereka dipertahankan selama 30 hari dan dapat dipulihkan dengan hanya kembali menetapkan lisensi untuk pengguna.
   
- *Ini akan bekerja hanya dalam waktu 30 hari.*  
+ *Ini akan bekerja hanya dalam 30 hari.*  
   
-1. Di pusat admin Microsoft 365, pergi ke **pengguna** \> halaman **pengguna aktif** . Pilih pengguna yang bersangkutan.
+1. Di pusat admin Microsoft 365, pergi ke **pengguna** \> **aktif** halaman. Pilih pengguna yang dimaksud.
 
-2. Pada tab **aplikasi dan lisensi** , menetapkan lisensi Exchange Online dan pilih **Simpan perubahan**.
+2. Pada tab **lisensi dan aplikasi** , tetapkan lisensi Exchange Online dan pilih **Simpan perubahan**.
 
-Jika Anda mencoba memulihkan kotak pesan bersama, hal ini juga dapat dipulihkan selama 30 hari. Anda dapat menemukan mereka di bawah **pengguna** \> **pengguna dihapus**; kotak pesan bersama tidak memerlukan lisensi. Jika Anda menyadari bahwa Anda perlu untuk mengembalikan pengguna dihapus, lihat [memulihkan pengguna di Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Jika Anda mencoba untuk memulihkan kotak surat bersama, juga dapat dipulihkan untuk 30 hari. Anda dapat menemukannya di **pengguna** \> yang **dihapus**pengguna; kotak surat bersama tidak memerlukan lisensi. Jika Anda menyadari bahwa Anda perlu mengembalikan pengguna yang dihapus, silakan lihat [memulihkan pengguna](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   
