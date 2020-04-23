@@ -28,4 +28,4 @@ Secara default, pemberitahuan hanya akan muncul untuk pesan baru di Kotak Masuk 
 
 3. Ubah Pemberitahuan Email per akun menjadi **Semua**, **Kotak Masuk Prioritas Saja**, atau **Tidak Ada**.
 
-Anda mungkin juga perlu mengubah pengaturan di Sistem Android untuk Pemberitahuan. Ini dapat berbeda untuk setiap perangkat, namun pastikan bahwa pengaturan sistem Anda mengizinkan Outlook untuk menerima pemberitahuan.
+Anda mungkin juga perlu mengubah pengaturan di Sistem Android untuk Pemberitahuan. Hal ini bisa berbeda untuk setiap perangkat, tetapi pastikan bahwa pengaturan sistem Anda mengizinkan Outlook untuk menerima pemberitahuan.

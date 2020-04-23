@@ -1,5 +1,5 @@
 ---
-title: Tidak dapat menambahkan Planner ke saluran privat Teams
+title: Tidak dapat menambahkan Planner ke saluran pribadi Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,6 +18,6 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 04/16/2020
 ms.locfileid: "43530318"
 ---
-# <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Tidak dapat menambahkan Planner ke saluran privat Teams
+# <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Tidak dapat menambahkan Planner ke saluran pribadi Teams
 
-Saat ini, saluran privat Microsoft Teams tidak mendukung penambahan Planner.  Kami sedang mengupayakan dukungan aplikasi penuhuntuk saluran privat, termasuk ekstensi dan bot perpesanan. Lihat [Saluran privat di Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) untuk informasi selengkapnya.
+Saat ini, saluran pribadi Microsoft Teams tidak mendukung penambahan Planner.  Kami sedang mengupayakan dukungan aplikasi penuh untuk saluran pribadi, termasuk ekstensi dan bot olahpesan. Lihat [Saluran pribadi di Microsoft Teams](https://docs.microsoft.com/microsoftteams/private-channels#what-you-need-to-know-about-private-channels) untuk informasi selengkapnya.

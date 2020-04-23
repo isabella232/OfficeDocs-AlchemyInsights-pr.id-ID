@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154322"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556979"
 ---
 # <a name="pstn-calling-plans"></a>Paket panggilan PSTN
 
-Panggilan ke sesama pengguna Skype for Business dan Microsoft Teams gratis, tetapi jika Anda ingin pengguna dapat melakukan panggilan ke telepon reguler dan tidak memiliki penyedia layanan untuk melakukan panggilan suara, Anda perlu membeli Paket Panggilan. 
+Jika Anda ingin pengguna dapat melakukan panggilan ke telepon reguler dan tidak memiliki penyedia layanan untuk melakukan panggilan suara, Anda perlu membeli Paket Panggilan.
 
-- Untuk memulai proses pembelian, lihat [Cara membeli Paket Panggilan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- Lihat [Cara membeli Paket Panggilan](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) untuk memulai proses pembelian.
 
-- Untuk informasi selengkapnya, lihat [Sistem Telepon dan Paket Panggilan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- Siapkan [Kredit Komunikasi](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) untuk mencegah pengguna **kehabisan menit panggilan**. Lihat tarif [di sini](https://products.office.com/microsoft-teams/voice-calling). 
+
+- Untuk informasi selengkapnya, lihat [Sistem Telepon dan Paket Panggilan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atau [Apa itu Kredit Komunikasi?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
