@@ -1,28 +1,28 @@
 ---
-title: Memperbaiki masalah pengaturan DKIM
+title: Memperbaiki masalah penyiapan DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 4d6dadbcbf71fe6e9ea56d6a82a7d8ababdd38ef
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: d725eb0d46dcbf1b5b6d77ca9f59fcafa5298bf1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765153"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717565"
 ---
-# <a name="fix-dkim-setup-issues"></a>Memperbaiki masalah pengaturan DKIM
+# <a name="fix-dkim-setup-issues"></a>Memperbaiki masalah penyiapan DKIM
 
-Jika Anda mengalami masalah yang memungkinkan DKIM untuk domain kustom, gunakan langkah-langkah berikut:
+Jika Anda mengalami masalah saat mengaktifkan DKIM untuk domain kustom, gunakan langkah berikut:
 
-- Sebagian besar masalah pengaturan DKIM yang terkait dengan data DNS yang salah. Pastikan DKIM data CNAME (**bukan** data TXT) diformat dengan benar. Untuk selengkapnya, lihat [topik](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)ini.
+- Sebagian besar masalah penyiapan DKIM terkait dengan data DNS yang salah. Verifikasi data CNAME DKIM (**bukan** data TXT) diformat dengan benar. Untuk informasi lebih lanjut, lihat [topik](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365)ini.
 
-- Setelah membuat atau memperbarui data DKIM dengan DNS pada layanan hosting DNS untuk domain Anda (biasanya, registrar domain), menunggu data DNS untuk menyebarkan.
+- Setelah membuat atau memperbarui data DNS DKIM di layanan hosting DNS untuk domain (biasanya, registrar domain), tunggu hingga data DNS diterapkan.
 
-- Jika Anda tidak dapat membuat data DKIM DNS di pusat admin, Anda dapat mengganti \<CustomDomain\> dengan domain kustom (misalnya, contoso.com) dan menjalankan perintah ini di [PowerShell Online asing](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`.
+- Jika Anda tidak dapat membuat data DNS DKIM di pusat admin, Anda dapat \<mengganti customdomain\> dengan domain kustom anda (misalnya, contoso.com) dan menjalankan perintah ini di [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell):. `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true`

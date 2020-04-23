@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719307"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Langkah-langkah yang harus dilakukan ketika akun dibobol
 
-[VIDEO: Memperbaiki akun Office 365 yang dibobol](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Memperbaiki akun yang dibobol](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [Atur ulang kata sandi pengguna](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) segera. Jangan bagikan kata sandi Anda yang baru melalui email ke pengguna akhir.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745436"
 
 5. Hapus akun pengguna dari semua [grup peran administratif](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) sampai Anda yakin bahwa akun sudah aman.
 
-Untuk meminimalkan potensi pelanggaran data dari akun yang dibobol di masa depan, kami sarankan untuk membaca [Peta strategi keamanan Office 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Untuk meminimalkan potensi pelanggaran data dari akun yang dibobol di masa depan, kami sarankan untuk membaca [Peta strategi keamanan Microsoft 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

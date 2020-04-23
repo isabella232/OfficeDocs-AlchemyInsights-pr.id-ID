@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059883"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720068"
 ---
 # <a name="update-credit-card-information"></a>Memperbarui informasi kartu kredit
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059883"
 
 Jika Anda mengalami masalah saat memuat halaman, coba buka halaman web di browser lain, atau buka halaman menggunakan jendela browser pribadi, seperti jendela InPrivate di Microsoft Edge atau jendela penyamaran di Google Chrome. 
 
-Untuk informasi selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Office 365 untuk Bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) dan [Memecahkan masalah kartu kredit dan rekening bank](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Untuk informasi selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus kartu kredit atau rekening bank di Microsoft 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) dan [Memecahkan masalah kartu kredit dan rekening bank](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
