@@ -1,9 +1,9 @@
 ---
-title: Menerima salinan penagihan Anda dalam email
+title: Menerima salinan lembar tagihan Anda di email
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724953"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Menerima salinan penagihan Office 365 Anda dalam email
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Menerima salinan lembar tagihan Anda di email
 
-Anda dapat memilih untuk menerima salinan penagihan Anda sebagai lampiran email. Jika Anda melakukannya, menyadari bahwa:
+Anda dapat memilih untuk menerima salinan laporan penagihan sebagai lampiran email. Jika Anda melakukannya, berhati-hatilah bahwa:
   
-- Email akan dikirim ke kedua alamat email utama dan alternatif untuk setiap orang yang terdaftar sebagai penerima pemberitahuan.
+- Email akan dikirim ke alamat email primer dan alternatif untuk setiap orang yang terdaftar sebagai penerima pemberitahuan.
 
-- Anda akan menerima dua email terpisah: satu yang memungkinkan Anda mengetahui bahwa tagihan Anda siap, dengan petunjuk untuk log on ke Admin center untuk melihatnya, dan kedua email yang berisi pernyataan penagihan sebagai lampiran.
+- Anda akan menerima dua email terpisah: satu yang memungkinkan Anda mengetahui bahwa tagihan Anda sudah siap, dengan petunjuk untuk masuk ke Pusat admin untuk melihatnya, dan email kedua yang berisi pernyataan penagihan sebagai lampiran.
 
-Untuk menerima penagihan Anda dalam email:
+Untuk menerima lembar tagihan Anda di email:
   
-1. Di pusat admin, pergi ke **penagihan** \> halaman [penagihan pemberitahuan](https://go.microsoft.com/fwlink/p/?linkid=853212) .
+1. Di pusat admin, buka halaman [notifikasi penagihan](https://go.microsoft.com/fwlink/p/?linkid=853212) **penagihan** \> .
 
-2. Di bawah **menerima tagihan sebagai email attachment?**, beralih beralih ke **pada**. Anda dapat berhenti menerima email pernyataan penagihan setiap saat dengan beralih beralih ke **Off**.
+2. Di bawah **menerima pernyataan penagihan sebagai lampiran email?**, alihkan tombol ke **aktif**. Anda dapat berhenti menerima email pernyataan penagihan Kapan saja dengan mengalihkan pengalihan ke **nonaktif**.

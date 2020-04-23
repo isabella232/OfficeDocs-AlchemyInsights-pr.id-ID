@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599487"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737655"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams diinstal dengan pemutakhiran Office
 
-Microsoft teams disertakan sebagai bagian dari ***penginstalan baru*** Office 365 ProPlus, Office 365 Bisnis, dan Office untuk Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan penginstalan Office baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams disertakan sebagai bagian dari ***penginstalan baru*** Microsoft 365 aplikasi untuk perusahaan, Microsoft 365 aplikasi untuk bisnis, dan Office untuk Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan penginstalan Office baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Selain itu, dimulai dengan versi 1906 di bulanan saluran, tim secara bertahap akan ditambahkan ke ***ada instalasi*** Office 365 ProPlus (dan Office 365 bisnis) pada perangkat yang menjalankan Windows saat Anda memperbarui instalasi yang sudah ada ke versi terbaru. Untuk informasi lebih lanjut, lihat [bagaimana dengan instalasi Office yang ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Selain itu, dimulai dengan versi 1906 di bulanan saluran, tim secara bertahap akan ditambahkan ke ***ada instalasi*** Microsoft 365 aplikasi untuk perusahaan (dan Microsoft 365 aplikasi untuk bisnis) pada perangkat yang menjalankan Windows ketika Anda memperbarui instalasi yang sudah ada ke versi terbaru. Untuk informasi lebih lanjut, lihat [bagaimana dengan instalasi Office yang ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Catatan:** Jika tidak ingin menunggu jadwal peluncuran ini, Anda dapat menerapkan tim sebagai mandiri untuk pengguna dengan [mengikuti petunjuk ini](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), atau Anda dapat meminta pengguna untuk menginstal teams https://teams.microsoft.com/downloads.
 

@@ -3,7 +3,7 @@ title: Memecahkan masalah sinkronisasi sandi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533810"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732513"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Memecahkan masalah sinkronisasi sandi
 
-Untuk mengatasi masalah yang mana tidak ada password disinkronisasi dengan Azure iklan menghubungkan versi 1.1.614.0 atau yang lebih baru:
+Untuk memecahkan masalah di mana sandi tidak disinkronkan dengan Azure AD menyambung versi 1.1.614.0 atau yang lebih baru:
   
-1. Buka sesi Windows PowerShell yang baru pada server Azure iklan menghubungkan Anda dengan pilihan **Jalankan sebagai Administrator** .
+1. Buka sesi Windows PowerShell baru di server Azure AD menyambung dengan opsi **Jalankan sebagai administrator** .
 
-2. Menjalankan **Set-executionpolicy tidak RemoteSigned** atau **tak Set-executionpolicy tidak dibatasi**.
+2. Jalankan **set-executionpolicy Remotesanye** atau **set-executionpolicy terbatas**.
 
-3. Mulai wizard Azure iklan terhubung.
+3. Mulai Wisaya Azure AD menyambung.
 
-4. Menavigasi ke halaman **Tambahan tugas** , pilih **mengatasi masalah**, lalu klik **berikutnya**.
+4. Navigasikan ke halaman **tugas tambahan** , pilih **pemecahan masalah**, dan klik **berikutnya**.
 
-5. Pada halaman Troubleshooting, klik menu **peluncuran untuk mulai mengatasi masalah** di PowerShell.
+5. Pada halaman pemecahan masalah, klik **Luncurkan untuk memulai menu pemecahan masalah** di PowerShell.
 
-6. Di menu utama, pilih **Memecahkan sandi sinkronisasi**.
+6. Di menu utama, pilih **memecahkan masalah sinkronisasi sandi**.
 
-7. Dalam sub menu, pilih **sinkronisasi Password tidak bekerja sama sekali**.
+7. Di sub menu, pilih **Sinkronisasi sandi tidak berfungsi sama sekali**.
 
 **Memahami hasil tugas pemecahan masalah**
   
-Pemecahan masalah tugas melakukan pemeriksaan yang berikut:
+Tugas pemecahan masalah melakukan pemeriksaan berikut ini:
   
-- Memvalidasi bahwa fitur sinkronisasi password diaktifkan untuk penyewa Azure iklan Anda.
+- Memvalidasi bahwa fitur sinkronisasi sandi diaktifkan untuk penghuni Azure AD Anda.
 
-- Memvalidasi bahwa server Azure iklan terhubung tidak berada di pementasan mode.
+- Memvalidasi bahwa server Azure AD menyambung bukan dalam mode pementasan.
 
-- Untuk setiap ada lokal Active Directory connector (yang berhubungan dengan forest Active Directory yang ada):
+- Untuk setiap konektor Active Directory lokal yang ada (yang sesuai dengan hutan direktori aktif yang ada):
 
 - 
-  - Memvalidasi bahwa fitur sinkronisasi password diaktifkan.
+  - Memvalidasi fitur sinkronisasi sandi diaktifkan.
 
-  - Pencarian untuk sandi sinkronisasi detak jantung peristiwa di log peristiwa Windows aplikasi.
+  - Mencari peristiwa heartbeat Sinkronisasi sandi di log peristiwa aplikasi Windows.
 
-  - Untuk setiap domain Active Directory di bawah konektor Active Directory lokal:
+  - Untuk setiap domain direktori aktif di bawah konektor Active Directory lokal:
 
-  - Memvalidasi bahwa domain dapat dicapai dari server Azure iklan terhubung.
+  - Memvalidasi domain dapat dicapai dari server Azure AD menyambung.
 
-  - Memvalidasi bahwa account Active Directory Domain Services (AD DS) yang digunakan oleh konektor Active Directory lokal memiliki benar username, password, dan izin yang diperlukan untuk sinkronisasi password.
+  - Memvalidasi account layanan domain direktori aktif (AD DS) yang digunakan oleh konektor Active Directory lokal memiliki nama pengguna yang benar, sandi, dan izin yang diperlukan untuk sinkronisasi sandi.
 
-Untuk bantuan lebih lanjut pemecahan masalah sinkronisasi sandi, lihat [mengatasi masalah sinkronisasi password dengan Azure iklan menyambung sinkronisasi](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Untuk bantuan lebih lanjut pemecahan masalah sinkronisasi sandi, lihat [memecahkan masalah sinkronisasi sandi dengan AZURE AD menyambung sinkronisasi](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

@@ -1,9 +1,9 @@
 ---
-title: Cara membuat tampilan Outlook.com baru seperti yang lama
+title: Cara membuat Outlook.com baru terlihat seperti yang lama
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721756"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cara membuat tampilan Outlook.com baru seperti versi lama
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Cara membuat Outlook.com baru terlihat seperti versi lama
 
-Berikut adalah beberapa pengaturan Anda dapat mengubah untuk membuat tampilan Outlook.com baru seperti versi lama:
+Berikut adalah beberapa pengaturan yang dapat Anda ubah untuk membuat Outlook.com baru terlihat seperti versi lama:
 
-1. Pergi ke [pengaturan tata letak](https://outlook.live.com/mail/options/mail/layout).
-1. **Focused inbox**, pilih **jangan Mengurutkan pesan saya**.
-1. **Organisasi pesan**, pilih **pesan terbaru di atas**.
-1. **Gambar pengirim**, pilih **jangan Tampilkan gambar pengirim**.
-1. **Panel baca**, pilih **menyembunyikan Panel Baca**.
-1. **Teks pratinjau pesan**, pilih **teks Pratinjau Tampilkan**.
-1. **Inline preview**, pilih **jangan Tampilkan lampiran dalam daftar pesan**.
+1. Buka [pengaturan tata letak](https://outlook.live.com/mail/options/mail/layout).
+1. Di bawah **kotak masuk terfokus**, pilih **jangan Urutkan pesan saya**.
+1. Di bawah **organisasi pesan**, pilih **pesan terbaru di atas**.
+1. Pada **gambar pengirim**, pilih **jangan Tampilkan gambar pengirim**.
+1. Di bawah **panel baca**, pilih **Sembunyikan panel baca**.
+1. Pada **teks pratinjau pesan**, pilih **Tampilkan teks Pratinjau**.
+1. Di bawah **pratinjau inline**, pilih **jangan Tampilkan lampiran dalam daftar pesan**.
 
-Untuk mengubah pengaturan E-mail Anda jadi inbox Anda tampak dan berperilaku seperti yang Anda inginkan, lihat [mengubah tampilan kotak pesan di Outlook.com dan pandangan baru di web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mengubah pengaturan mail agar kotak masuk terlihat dan berperilaku seperti yang Anda inginkan, lihat [mengubah tampilan kotak pesan di Outlook.com dan Outlook baru di web](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).

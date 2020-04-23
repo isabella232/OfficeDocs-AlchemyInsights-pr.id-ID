@@ -1,9 +1,9 @@
 ---
-title: Uninstall Visio
+title: Membongkar Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43728790"
 ---
-# <a name="uninstall-visio"></a>Uninstall Visio
+# <a name="uninstall-visio"></a>Membongkar Visio
 
-Download dan install [dukungan dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+Unduh dan instal [Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Ketika terbuka, dari **kantor Uninstall produk** pilih versi Visio Anda ingin uninstall dan pilih **berikutnya**. 
+1. Ketika membuka, dari **membongkar produk Office** pilih versi Visio yang ingin dibongkar dan pilih **berikutnya**. 
     
-2. Lanjutkan melalui layar dan restart komputer Anda bila diminta.
+2. Terus telusuri layar dan mulai ulang komputer saat diminta.
     
-    Setelah restart, dukungan dan asisten pemulihan secara otomatis akan kembali membuka untuk menyelesaikan proses pencopotan pemasangan.
+    Setelah restart, Asisten dukungan dan pemulihan secara otomatis membuka kembali untuk menyelesaikan proses pembongkaran.
     
-3. Ikuti petunjuk yang tersisa, dan jika Anda memiliki langganan ke Visio Online, Anda dapat menginstal ulang Visio dari kantor 365 [portal akun](https://portal.office.com/account#installs). Untuk bantuan tambahan atau bantuan untuk menginstal versi tdk berlangganan Visio seperti profesional Visio, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. Ikuti petunjuk yang tersisa, dan jika Anda memiliki langganan Visio online, Anda dapat menginstal ulang Visio dari [portal akun](https://portal.office.com/account#installs)Microsoft 365. Untuk bantuan atau bantuan tambahan tentang cara menginstal Visio versi non-langganan seperti Visio Professional, lihat [menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
-Untuk daftar pilihan uninstall lainnya, pilih [Uninstall Office dari PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+Untuk daftar opsi uninstall lainnya, pilih [uninstall Office dari PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).

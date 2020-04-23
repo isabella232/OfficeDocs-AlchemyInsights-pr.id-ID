@@ -1,9 +1,9 @@
 ---
-title: 725 menggunakan email alias di perangkat selular
+title: 725 menggunakan email alias pada perangkat seluler
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 8ac6a99cb481e6f80aeec90bd0cb51eca52bdba4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d187a6686d986efd18a486fe262bcca5409d93ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531722"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726287"
 ---
-# <a name="email-aliases-on-mobile-devices"></a>Email alias pada perangkat mobile
+# <a name="email-aliases-on-mobile-devices"></a>Email alias di perangkat seluler
 
-Email alias adalah alamat email lain yang dikonfigurasi pada kotak pesan, sehingga pesan yang dikirim ke alias pengguna akan dikirim ke kotak pesan dan akan dibaca pada perangkat mobile mereka. Tidak ada konfigurasi tambahan yang diperlukan.
+Alias email hanyalah alamat email lain yang dikonfigurasi di kotak pesan, sehingga pesan yang dikirim ke alias pengguna akan dikirim ke kotak pesan mereka dan akan dapat dibaca di perangkat seluler mereka. Tidak ada konfigurasi tambahan yang diperlukan.
 
-Tetapi, pengguna tidak dapat membalas pesan atau mengirim pesan baru menggunakan alias sebagai mereka dari alamat. Semua pesan keluar akan dari alamat email utama mereka.
+Namun, pengguna tidak dapat membalas pesan atau mengirim pesan baru menggunakan alias sebagai alamat dari mereka. Semua pesan keluar akan dari alamat email utama mereka.
