@@ -1,5 +1,5 @@
 ---
-title: Kinerja migrasi SharePoint
+title: Panduan kinerja migrasi SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537780"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789305"
 ---
-# <a name="sharepoint-migration-performance"></a><span data-ttu-id="ee164-102">Kinerja migrasi SharePoint</span><span class="sxs-lookup"><span data-stu-id="ee164-102">SharePoint migration performance</span></span>
+# <a name="sharepoint-migration-performance-guidance"></a><span data-ttu-id="89198-102">Panduan kinerja migrasi SharePoint</span><span class="sxs-lookup"><span data-stu-id="89198-102">SharePoint migration performance guidance</span></span>
 
-<span data-ttu-id="ee164-103">**Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.</span><span class="sxs-lookup"><span data-stu-id="ee164-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
+<span data-ttu-id="89198-103">Kinerja migrasi dapat dipengaruhi oleh infrastruktur jaringan, ukuran file, waktu migrasi, dan pembatasan.</span><span class="sxs-lookup"><span data-stu-id="89198-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span>
 
-<span data-ttu-id="ee164-104">**Kinerja migrasi**</span><span class="sxs-lookup"><span data-stu-id="ee164-104">**Migration performance**</span></span>
+<span data-ttu-id="89198-104">Untuk informasi selengkapnya, kunjungi:</span><span class="sxs-lookup"><span data-stu-id="89198-104">For more information, please visit:</span></span>
 
-<span data-ttu-id="ee164-105">Kinerja migrasi dapat dipengaruhi oleh infrastruktur jaringan, ukuran file, waktu migrasi, dan pembatasan.</span><span class="sxs-lookup"><span data-stu-id="ee164-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="ee164-106">Memahami hal ini akan membantu Anda dalam merencanakan dan memaksimalkan efisiensi migrasi.</span><span class="sxs-lookup"><span data-stu-id="ee164-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+- [<span data-ttu-id="89198-105">Panduan performa migrasi umum</span><span class="sxs-lookup"><span data-stu-id="89198-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-<span data-ttu-id="ee164-107">Untuk informasi selengkapnya, kunjungi tautan di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="ee164-107">For more information, please visit the links below.</span></span>
-
-- [<span data-ttu-id="ee164-108">Panduan performa migrasi umum</span><span class="sxs-lookup"><span data-stu-id="ee164-108">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-
-- [<span data-ttu-id="ee164-109">Menghindari pembatasan atau pemblokiran di SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ee164-109">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [<span data-ttu-id="ee164-110">Mengunduh dan menginstal Alat Migrasi SharePoint</span><span class="sxs-lookup"><span data-stu-id="ee164-110">Download and install the SharePoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [<span data-ttu-id="89198-106">Menghindari pembatasan atau pemblokiran di SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="89198-106">Avoid getting throttled or blocked in SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)

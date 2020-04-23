@@ -3,24 +3,24 @@ title: 8000037 tidak menerima email di Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4d2fd6d68c88407740729aecd9e4d63f5b0d712b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36538564"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761745"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="c9fa4-102">Tidak menerima email di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c9fa4-102">Not receiving mail in Outlook.com</span></span>
+# <a name="not-receiving-mail-in-outlookcom"></a><span data-ttu-id="1bccf-102">Tidak menerima email di Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1bccf-102">Not receiving mail in Outlook.com</span></span>
 
-<span data-ttu-id="c9fa4-103">Jika Anda tidak menerima email dari pengirim tertentu, seperti laporan mutasi bank atau pesan pengaturan ulang kata sandi, Anda harus menghubungi pengirim dan memberi tahu mereka bahwa Anda tidak menerima email di akun Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="c9fa4-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="c9fa4-104">Silakan merujuk pengirim ke [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), di mana mereka dapat menemukan informasi tentang praktik terbaik, merekomendasikan pemecahan masalah, dan tautan untuk menghubungi tim dukungan pengirim kami.</span><span class="sxs-lookup"><span data-stu-id="c9fa4-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
+<span data-ttu-id="1bccf-103">Jika Anda tidak menerima email dari pengirim tertentu, seperti laporan mutasi bank atau pesan pengaturan ulang kata sandi, Anda harus menghubungi pengirim dan memberi tahu mereka bahwa Anda tidak menerima email di akun Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="1bccf-103">If you're not receiving email from a specific sender, such as your bank statements or password reset messages, you'll need to contact the sender and let them know you aren't receiving email at your Outlook.com account.</span></span> <span data-ttu-id="1bccf-104">Silakan merujuk pengirim ke [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), di mana mereka dapat menemukan informasi tentang praktik terbaik, merekomendasikan pemecahan masalah, dan tautan untuk menghubungi tim dukungan pengirim kami.</span><span class="sxs-lookup"><span data-stu-id="1bccf-104">Please refer the sender to [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), where they can find information about best practices, recommend troubleshooting, and a link to contact our sender support team.</span></span>
   
-<span data-ttu-id="c9fa4-105">Jika akun Outlook.com Anda tidak menerima email sama sekali, lihat [memperbaiki masalah sinkronisasi email Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="c9fa4-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
+<span data-ttu-id="1bccf-105">Jika akun Outlook.com Anda tidak menerima email sama sekali, lihat [memperbaiki masalah sinkronisasi email Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).</span><span class="sxs-lookup"><span data-stu-id="1bccf-105">If your Outlook.com account isn't receiving email at all, see [Fix Outlook.com email sync issues](https://go.microsoft.com/fwlink/p/?linkid=874363).</span></span>
   
 
