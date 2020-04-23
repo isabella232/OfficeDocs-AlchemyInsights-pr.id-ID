@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713289"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788000"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Alat pencarian konten untuk menemukan info yang relevan
 
-Menggunakan alat pencarian konten di pusat kepatuhan & keamanan untuk cepat menemukan email di kotak surat Exchange, dokumen di situs SharePoint dan OneDrive lokasi, dan percakapan pesan instan di Skype untuk bisnis. Anda dapat menggunakan alat pencarian konten untuk mencari email, dokumen, dan percakapan pesan instan di Office 365 alat kolaborasi seperti Microsoft teams dan Office 365 grup.
+Menggunakan alat pencarian konten di pusat kepatuhan & keamanan untuk cepat menemukan email di kotak surat Exchange, dokumen di situs SharePoint dan OneDrive lokasi, dan percakapan pesan instan di Skype untuk bisnis. Anda dapat menggunakan alat pencarian konten untuk mencari email, dokumen, dan percakapan pesan instan di Microsoft 365 alat kolaborasi seperti Microsoft teams dan Office 365 grup.
 
 
 Sebelum menggunakan [pencarian konten](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) dari [pusat kepatuhan & keamanan](https://sip.protection.office.com/homepage), Anda akan ingin menyelesaikan pengaturan konfigurasi termasuk [izin konfigurasi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [pengaturan kecepatan download](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) dan [pengaturan ekspor](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
@@ -28,4 +28,4 @@ Pahami lebih lanjut tentang penelusuran konten dengan meninjau [persyaratan dan 
 
 Setelah meninjau pengaturan konfigurasi dan pembatasan pencarian konten, rujuk ke [menggunakan pencarian</a> konten untuk mencari item di tempat seperti email, dokumen, dan percakapan pesan instan di organisasi Anda](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Untuk langkah-demi-langkah lengkap pencarian konten, lihat mencari [konten di Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) untuk informasi lebih lanjut.
+Untuk menyelesaikan langkah-demi-langkah pencarian konten, lihat mencari [konten di Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) untuk informasi lebih lanjut.

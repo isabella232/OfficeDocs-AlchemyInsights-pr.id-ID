@@ -1,9 +1,9 @@
 ---
-title: Mendapatkan kunci hibrida
+title: Mendapatkan kunci hibrid
 ms.author: dstrome
 author: dstrome
 manager: dansimp
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: e679c8cded30048686cd965a2597e0447ecd21fb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d12b8e1a9b94b28d0007065446a1d55ac072e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524054"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721763"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Mendapatkan sebuah kunci hibrida Asing
+# <a name="getting-an-exchange-hybrid-key"></a>Mendapatkan kunci hibrid Exchange
 
-Untuk menghubungkan organisasi lokal ke Exchange Online pada Office 365, Anda perlu untuk membuat setidaknya satu server Exchange di organisasi lokal Anda. Server ini digunakan untuk membuat penggunaan hibrid yang menghubungkan organisasi Exchange lokal ke Exchange Online. Untuk mendapatkan kunci hibrida untuk server ini, ikuti langkah-langkah di [Wisaya distribusi kunci asing hibrida produk](https://aka.ms/hybridkey).
+Untuk menyambungkan organisasi lokal ke Exchange Online di Microsoft 365, Anda harus menyiapkan setidaknya satu server Exchange di organisasi lokal. Server ini digunakan untuk membuat hibrid yang menghubungkan organisasi Exchange lokal Anda ke Exchange Online. Untuk mendapatkan kunci hibrid untuk server ini, ikuti langkah di [Wisaya distribusi kunci produk hibrida Exchange](https://aka.ms/hybridkey).
   

@@ -3,7 +3,7 @@ title: Outlook.com tidak dapat menerima kode verifikasi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 5de84426e3b7eb0b0d755bbcd65f00f7f9eef5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b13aa78e26ff5695f83a83e967b69de2aa96b189
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537698"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760811"
 ---
-# <a name="cant-get-verification-codes"></a>Tidak bisa mendapatkan kode verifikasi
+# <a name="cant-get-verification-codes"></a>Tidak dapat memperoleh kode verifikasi
 
-Jika Anda tidak dapat mengakses email alternatif atau nomor telepon Anda, buka laman [dasar-dasar keamanan](https://account.microsoft.com/security) akun Microsoft, pilih **saya tidak memiliki salah satu dari ini** pada halaman masuk, dan ikuti petunjuk untuk mengganti info keamanan Anda.
+Jika Anda tidak dapat mengakses email atau nomor telepon alternatif, buka halaman [dasar keamanan](https://account.microsoft.com/security) akun Microsoft, pilih **saya tidak memilikinya** di halaman masuk, dan ikuti petunjuk untuk mengganti Info keamanan Anda.
 
-*Catatan:* [Aplikasi Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) tidak memerlukan koneksi internet untuk menyediakan Anda dengan kode verifikasi.
+*Catatan:* [Aplikasi Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) tidak memerlukan koneksi internet untuk menyediakan kode verifikasi.
 
-Untuk mempelajari lebih lanjut, baca [Microsoft akun info dan verifikasi kode keamanan](https://support.microsoft.com/help/12428/).
+Untuk mempelajari lebih lanjut, baca [Info keamanan akun Microsoft dan kode verifikasi](https://support.microsoft.com/help/12428/).

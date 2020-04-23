@@ -3,7 +3,7 @@ title: Berurusan dengan phishing di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,19 +11,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535801"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744922"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Bagaimana menangani phishing email
+# <a name="how-to-deal-with-a-phishing-email"></a>Cara menangani email phishing
 
-Phishing scam adalah email yang muncul sah tetapi benar-benar merupakan upaya untuk mencuri informasi pribadi atau uang Anda. Scammers juga dapat menggunakan teknik yang disebut spoofing untuk membuatnya tampak seolah-olah Anda telah menerima email dari diri Anda sendiri.
+Sebuah Scam phishing adalah email yang muncul sah tetapi sebenarnya merupakan upaya untuk mencuri informasi pribadi Anda atau uang. Penipu juga dapat menggunakan teknik yang disebut spoofing untuk membuatnya tampak seolah-olah Anda telah menerima email dari diri Anda sendiri.
 
-Jika Anda mendapatkan email yang terlihat seperti phishing scam, Anda dapat melaporkannya dengan memilih pesan dan kemudian memilih **sampah** > **Phishing**.
+Jika Anda mendapatkan email yang terlihat seperti scam phishing, Anda dapat melaporkannya dengan memilih pesan dan kemudian memilih**phishing** **sampah** > .
 
-*Catatan:* Bila Anda menandai pesan sebagai phishing, ia hanya melaporkan pengirim.Itu tidak menghalangi bahwa pengirim mengirim pesan di masa depan. Untuk memblokir pengirim, Anda perlu menambahkan pengirim ke daftar pengirim yang diblokir. Untuk selengkapnya, lihat [memblokir pengirim atau membuka Blokir pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Catatan:* Saat Anda menandai pesan sebagai phishing, hanya melaporkan pengirim.Tidak memblokir pengirim tersebut agar tidak mengirimi Anda pesan di masa mendatang. Untuk memblokir pengirim, Anda harus menambahkan pengirim ke daftar pengirim yang diblokir. Untuk informasi selengkapnya, lihat [memblokir pengirim atau membuka Blokir pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Pelajari tentang cara [menangani pelecehan, phishing, atau spoofing di Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) dan [keamanan Outlook.com yang canggih untuk pelanggan Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Pelajari tentang cara [menangani penyalahgunaan, phishing, atau pemalsuan di Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) dan [keamanan Outlook.com tingkat lanjut untuk Microsoft 365 pelanggan](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

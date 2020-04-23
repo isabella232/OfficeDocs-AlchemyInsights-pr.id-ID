@@ -1,9 +1,9 @@
 ---
-title: 603 belajar bagaimana untuk menyesuaikan pengaturan Agenda
+title: 603 Pelajari cara menyesuaikan pengaturan agenda
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: f7a08d64f2462036cdebc947d70126f43814884f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2da78e005d64ddff0466e763e75d442aaf25980
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497554"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762788"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Pelajari cara mengkonfigurasi pengaturan agenda
+# <a name="learn-how-to-configure-agenda-settings"></a>Pelajari cara mengonfigurasi setelan agenda
 
-Agenda pengaturan terletak di pengaturan **kalender** di Outlook di web. Untuk selengkapnya, lihat [pengaturan kalender di Outlook di web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Pengaturan agenda terletak di pengaturan **kalender** di Outlook di web. Untuk informasi selengkapnya, lihat [pengaturan kalender di Outlook di web](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Admin dapat menggunakan cmdlet **Set-CalendarNotification** di Exchange Online PowerShell untuk mengkonfigurasi pengaturan agenda. Untuk selengkapnya, lihat [Set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Admin dapat menggunakan cmdlet **set-CalendarNotification** di Exchange Online PowerShell untuk mengkonfigurasi pengaturan agenda. Untuk informasi selengkapnya, lihat [set-CalendarNotification](https://technet.microsoft.com/library/dd351284).

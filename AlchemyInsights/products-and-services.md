@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: ed6981629941e2f2ecc348effe98eaa6388a14d8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278930"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758793"
 ---
 # <a name="products--services"></a>Produk & Layanan
 
-Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman **** > [**produk & Layanan**](https://go.microsoft.com/fwlink/p/?linkid=842054) penagihan. Berikut adalah beberapa highlights dari Halaman ini bersama dengan link untuk info lebih lanjut pada setiap fitur:
+Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman **Billing** > [**produk & Layanan**](https://go.microsoft.com/fwlink/p/?linkid=842054) penagihan. Berikut adalah beberapa highlights dari Halaman ini bersama dengan link untuk info lebih lanjut pada setiap fitur:
 
 1. Mengelola jumlah lisensi yang telah dibeli untuk setiap langganan bersama dengan berapa banyak yang digunakan.  **Catatan**: lisensi yang tidak digunakan (tidak ditetapkan ke pengguna) masih dikenakan biaya.  Untuk tidak dikenakan biaya untuk lisensi yang tidak terpakai, kurangi jumlah lisensi yang dibeli. Untuk informasi tentang cara menambahkan atau menghapus lisensi dari langganan, lihat [cara menambahkan atau mengurangi lisensi](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Melihat tanggal perpanjangan atau kedaluwarsa langganan.  Anda dapat mengelola pembaruan dengan mengklik link **Edit** di sebelah **pembaruan/kedaluwarsa** pada tanggal.  Lihat [memperpanjang Office 365 untuk bisnis](https://go.microsoft.com/fwlink/?linkid=2119216) untuk info lebih lanjut tentang cara mengelola penagihan berulang.
+2. Melihat tanggal perpanjangan atau kedaluwarsa langganan.  Anda dapat mengelola pembaruan dengan mengklik link **Edit** di sebelah **pembaruan/kedaluwarsa** pada tanggal.  Lihat [memperpanjang Microsoft 365 untuk bisnis](https://go.microsoft.com/fwlink/?linkid=2119216) untuk informasi lebih lanjut tentang cara mengelola penagihan berulang.
 
 3. [Mengaktifkan kembali langganan kedaluwarsa atau dinonaktifkan](https://go.microsoft.com/fwlink/?linkid=2117519).
 
@@ -34,4 +34,4 @@ Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman ***
 
 6. [Membatalkan langganan](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Anda dapat membeli langganan tambahan dari halaman **** > [**Layanan pembelian**](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
+Anda dapat membeli langganan tambahan dari halaman **Billing** > [**Layanan pembelian**](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.

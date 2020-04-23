@@ -3,7 +3,7 @@ title: Terlalu banyak lisensi?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665943"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759911"
 ---
 # <a name="too-many-licenses"></a>Terlalu banyak lisensi?
 
-Jika Anda berpikir Anda akan ditagih untuk lisensi Office 365 terlalu banyak, hal ini biasanya disebabkan memiliki membeli lisensi lebih maka Anda perlu.
+Jika Anda merasa ditagih terlalu banyak lisensi, hal ini biasanya disebabkan karena membeli lebih banyak lisensi yang Anda perlukan.
   
 **Mengurangi jumlah lisensi yang dibeli**
   
-1. Di pusat admin, pergi ke **penagihan** \> [produk & Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054) halaman.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Menemukan berlangganan yang Anda ingin menghapus lisensi, kemudian pilih **Add/Remove lisensi**.
+2. Temukan langganan yang ingin Anda hapus lisensinya, lalu pilih **Tambah/Hapus lisensi**.
 
-3. Dalam kotak **Total lisensi** , masukkan jumlah lisensi yang Anda butuhkan untuk berlangganan ini, dan kemudian pilih **kirim mengubah**. Misalnya, jika Anda memiliki lisensi 110 dan Anda ingin menghapus 5 dari mereka, masukkan 105.
+3. Di kotak **Total lisensi** , masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, dan kemudian pilih **kirim perubahan**. Sebagai contoh, jika Anda memiliki lisensi 110 dan Anda ingin menghapus 5 dari mereka, masukkan 105.
 
-Untuk selengkapnya, lihat [menghapus lisensi dari Anda Office 365 untuk berlangganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Untuk mempelajari lebih lanjut, lihat [menghapus lisensi dari 365 Microsoft untuk langganan bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

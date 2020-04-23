@@ -1,8 +1,8 @@
 ---
-title: Percobaan Office 365 penyewa diblokir oleh Spamhaus
+title: Uji coba Microsoft 365 penghuni diblokir oleh SpamHaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500419"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759875"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Kesalahan saat pengguna percobaan Office 365 mengirimkan email: host klien yang diblokir menggunakan Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Galat saat pengguna percobaan 365 Microsoft mengirim email: host klien diblokir menggunakan SpamHaus
 
-Tampaknya bahwa Anda mengirim email dari organisasi percobaan baru Office 365. Untuk membantu mencegah penyalahgunaan, kami memblokir alamat IP yang diketahui telah sebelumnya dikompromikan. Cek khusus ini tidak lagi ditegakkan setelah Anda mulai menggunakan membayar lisensi. Anda mungkin bisa mendapatkan bantuan sementara dengan meminta alamat IP baru dari internet service provider (ISP), atau dengan menghapus blok dari situs [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Tampaknya Anda mengirim email dari organisasi percobaan 365 Microsoft baru. Untuk membantu mencegah penyalahgunaan, kami memblokir alamat IP yang diketahui telah dikompromikan sebelumnya. Pemeriksaan khusus ini tidak lagi diberlakukan setelah Anda mulai menggunakan lisensi berbayar. Anda mungkin bisa mendapatkan bantuan sementara dengan meminta alamat IP baru dari penyedia layanan internet (ISP), atau dengan menghapus blok dari situs web [SpamHaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .

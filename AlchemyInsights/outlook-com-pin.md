@@ -3,7 +3,7 @@ title: 9000233 Outlook.com PIN
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: a6dee75a90bb299094a9075f96aad83b5355dac2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b859967d9336306b4b0a4879a7ffd5bee24f7a5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545982"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744886"
 ---
-# <a name="change-your-pin"></a>Mengubah PIN
+# <a name="change-your-pin"></a>Mengubah PIN Anda
 
-Outlook.com tidak menggunakan PIN, tapi Anda mungkin masuk ke PC Anda dengan PIN atau Windows Halo. Untuk mengubah PIN di Windows 10:
+Outlook.com tidak menggunakan PIN, tetapi Anda mungkin masuk ke PC Anda dengan PIN atau Windows Hello. Untuk mengubah PIN Anda di Windows 10:
 
-1. Pilih tombol Start atau tekan tombol Windows di keyboard Anda, kemudian pilih **pengaturan** > **account** > **masuk pilihan**.
-2. Pilih tombol **Ubah** di bawah **PIN**.
-3. Masukkan PIN aktif, kemudian masukkan dan konfirmasikan PIN baru di bawah.
+1. Pilih tombol mulai atau tekan tombol Windows di keyboard Anda, lalu pilih **setelan** > **akun** > **masuk opsi**.
+2. Pilih tombol **Ubah** di bawah **pin**.
+3. Masukkan PIN Anda saat ini, lalu masukkan dan konfirmasikan PIN baru Anda di bawahnya.
 
-[Baca lebih lanjut tentang Windows Halo.](https://support.microsoft.com/help/17215/)
+[Baca lebih lanjut tentang Windows Hello.](https://support.microsoft.com/help/17215/)

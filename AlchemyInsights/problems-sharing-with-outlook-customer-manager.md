@@ -1,9 +1,9 @@
 ---
-title: problems-sharing-with-Outlook-customer-Manager
+title: masalah-sharing-dengan-Outlook-customer-Manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758829"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Masalah berbagi dengan Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Masalah saat berbagi dengan Outlook customer Manager
 
-Jika Anda mengalami berbagi masalah dengan Outlook Customer Manager kami sarankan bahwa Anda pertama kali mencoba membersihkan cache browser Anda. Misalnya di Internet Explorer Anda akan:
+Jika Anda mengalami masalah berbagi dengan Outlook customer Manager, sebaiknya coba hapus cache browser terlebih dahulu. Misalnya di Internet Explorer Anda akan:
 
-1. Masuk ke **pengaturan** > >**umum** pengaturan di bawah **Browsing Sejarah** > **cache dan database**.
-2. Menghapus file cache untuk situs "outlookapps.com."
+1. Buka **pengaturan** > **umum** > pengaturan pada tembolok **Riwayat** > penjelajahan**dan pangkalan data**.
+2. Hapus berkas tembolok untuk situs web "outlookapps.com."
 3. Mulai ulang Outlook.
 
-Untuk informasi lebih lanjut tentang berbagi, lihat [berbagi informasi di Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Untuk informasi selengkapnya tentang berbagi, lihat [berbagi informasi di Outlook customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
