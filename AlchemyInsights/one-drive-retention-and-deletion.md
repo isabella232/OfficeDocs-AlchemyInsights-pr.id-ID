@@ -2,7 +2,7 @@
 title: Retensi dan penghapusan OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053336"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761334"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Retensi dan penghapusan OneDrive
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053336"
 
 - Lihat [artikel ini](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) untuk mempelajari:
     - Bagaimana cara memberikan akses pengguna lain ke OneDrive pengguna yang dihapus.
-    - Apa yang terjadi pada OneDrive pengguna saat Anda menghapus akun Office 365 pengguna untuk organisasi Anda.
+    - Apa yang terjadi pada OneDrive pengguna saat Anda menghapus akun Microsoft 365 pengguna untuk organisasi Anda.
     - Cara mengkonfigurasi delegasi akses otomatis.
     - Cara kerja proses penghapusan OneDrive.
 

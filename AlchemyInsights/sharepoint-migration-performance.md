@@ -1,5 +1,5 @@
 ---
-title: Kinerja migrasi SharePoint
+title: Panduan kinerja migrasi SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537780"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789305"
 ---
-# <a name="sharepoint-migration-performance"></a>Kinerja migrasi SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Panduan kinerja migrasi SharePoint
 
-**Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.
+Kinerja migrasi dapat dipengaruhi oleh infrastruktur jaringan, ukuran file, waktu migrasi, dan pembatasan.
 
-**Kinerja migrasi**
-
-Kinerja migrasi dapat dipengaruhi oleh infrastruktur jaringan, ukuran file, waktu migrasi, dan pembatasan. Memahami hal ini akan membantu Anda dalam merencanakan dan memaksimalkan efisiensi migrasi.
-
-Untuk informasi selengkapnya, kunjungi tautan di bawah ini.
+Untuk informasi selengkapnya, kunjungi:
 
 - [Panduan performa migrasi umum](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Menghindari pembatasan atau pemblokiran di SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Mengunduh dan menginstal Alat Migrasi SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

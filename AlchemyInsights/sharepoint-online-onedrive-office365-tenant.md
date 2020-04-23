@@ -10,16 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030367"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43787373"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint online atau OneDrive "menyiapkan"
 
-Ketika pengguna ditambahkan ke penghuni Office 365 yang sudah ada, mereka mungkin melihat SharePoint online atau OneDrive untuk bisnis ikon terdaftar sebagai "pengaturan" atau "kami masih bekerja pada mendapatkan berkas penataan" sampai proses penyediaan telah selesai. Ikuti [panduan pemecahan masalah](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) ini untuk bantuan.
+Ketika pengguna ditambahkan ke penghuni yang sudah ada, mereka mungkin melihat SharePoint online atau OneDrive untuk bisnis ikon terdaftar sebagai "pengaturan" atau "kami masih bekerja pada mendapatkan berkas penataan" sampai proses penyediaan telah selesai. Ikuti [panduan pemecahan masalah](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) ini untuk bantuan.
 
 Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log kasus dukungan.
 

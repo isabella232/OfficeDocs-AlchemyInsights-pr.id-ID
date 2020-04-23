@@ -2,7 +2,7 @@
 title: Perlu menginstal Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538708"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761853"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Kantor 2013 tidak lagi didukung di langganan Office 365
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 tidak lagi didukung di Microsoft 365 langganan
 
-Sejak tanggal 28 Februari 2017, kantor 2013 tidak lagi didukung di Office 365 langganan.
+Sejak 28 Februari 2017, 2013 Office tidak lagi didukung di Microsoft 365 langganan.
   
-Untuk memastikan keamanan dari suite Office Anda dan mendapatkan semua fitur terbaru, menginstal versi terbaru dari Office gratis sebagai bagian dari langganan Office 365. Lihat [Upgrade pengguna untuk kantor klien](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Untuk memastikan keamanan Office suite Anda dan untuk mendapatkan semua fitur terbaru, Instal versi terbaru Office secara gratis sebagai bagian dari langganan Microsoft 365 Anda. Lihat [meningkatkan pengguna Anda ke klien Office terbaru](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
   

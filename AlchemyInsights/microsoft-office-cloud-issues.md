@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762356"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Mengalami masalah dengan layanan cloud?
 
@@ -23,5 +23,5 @@ Jika Anda mengalami masalah dengan layanan cloud, Anda dapat memeriksa [Kesehata
 
 **Kebijakan pemberitahuan**
 
-Saat terjadi insiden layanan, Microsoft mengakui bahwa komunikasi yang tepat waktu, bertarget, dan akurat sangat penting bagi pelanggan. Microsoft memberi tahu administrator kantor 365 dengan memperbarui layanan khusus penghuni [dasbor kesehatan (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) di Office 365 admin portal. Pembaruan insiden Layanan disediakan pada irama per jam atau, jika irama yang berbeda diperlukan, itu akan dinyatakan dalam posting komunikasi SHD. Untuk informasi lebih lanjut, lihat [bagaimana cara memeriksa Office 365 layanan kesehatan](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Saat terjadi insiden layanan, Microsoft mengakui bahwa komunikasi yang tepat waktu, bertarget, dan akurat sangat penting bagi pelanggan. Microsoft memberitahu administrator dengan memperbarui penghuni khusus [layanan kesehatan dasbor (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) di Microsoft 365 admin portal. Pembaruan insiden Layanan disediakan pada irama per jam atau, jika irama yang berbeda diperlukan, itu akan dinyatakan dalam posting komunikasi SHD. Untuk informasi lebih lanjut, lihat [bagaimana cara memeriksa kesehatan layanan Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
