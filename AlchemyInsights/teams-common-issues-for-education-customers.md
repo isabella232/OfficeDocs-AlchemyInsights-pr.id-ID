@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856801"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739439"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Masalah umum Teams untuk pelanggan pendidikan
 
@@ -45,12 +45,12 @@ Jika Anda memerlukan bantuan dalam menyebarkan Teams untuk mendukung pembelajara
     6. Di pusat admin Skype for Business, klik **konferensi audio** kemudian **pengguna**.
     7. Pilih pengguna yang dimaksud dan verifikasi apakah pengguna tersebut memiliki Nomor Tol Default.
 
-    Untuk informasi lebih lanjut, baca [Paket Panggilan untuk Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan terkait lisensi yang dimaksud.
+    Untuk informasi lebih lanjut, lihat [Paket Panggilan](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan dalam hal pertanyaan terkait lisensi.
 
     Sumber Daya Tambahan
 
     - [Rapat dan konferensi di Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Konferensi Audio di Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Konferensi Audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Kebijakan Rapat**: Kebijakan rapat digunakan untuk mengontrol fitur yang tersedia bagi peserta rapat untuk rapat yang dijadwalkan oleh pengguna di organisasi Anda. Setelah membuat kebijakan dan perubahan, Anda dapat menetapkan pengguna pada kebijakan tersebut.
 
