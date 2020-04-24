@@ -1,21 +1,21 @@
 ---
-title: Microsoft Search di Bing dan Office 365 ProPlus
+title: Microsoft Search di Bing dan Aplikasi Microsoft 365 untuk perusahaan
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551160"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762320"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Microsoft Search di Bing dan Office 365 ProPlus
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search di Bing dan Aplikasi Microsoft 365 untuk perusahaan
 
-Dimulai dengan Office 365 ProPlus Versi 2002, ekstensi untuk Microsoft Search di Bing akan diinstal sehingga menjadikan Bing sebagai mesin pencarian default untuk browser web Google Chrome hanya pada perangkat di lokasi tertentu.
+Mulai dari Versi 2002 Aplikasi Microsoft 365 untuk perusahaan, ekstensi untuk Microsoft Search di Bing akan diinstal sehingga Bing akan menjadi mesin pencarian default untuk browser web Google Chrome hanya pada perangkat di lokasi tertentu.
 
 **Jika Anda tidak ingin ekstensi tersebut terinstal, [ikuti langkah-langkah ini](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
 

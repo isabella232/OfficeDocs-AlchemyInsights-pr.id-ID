@@ -1,5 +1,5 @@
 ---
-title: Aktifasi langganan Office 365
+title: Mengaktifkan langganan Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191069"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784010"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktifasi langganan Office 365
+# <a name="activate-your-subscription"></a>Mengaktifkan langganan
 
 **Mengaktifkan langganan**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191069"
 
 **Mengaktifkan kembali langganan**
 
-Jika langganan kedaluwarsa, atau dinonaktifkan oleh Microsoft, atau jika Anda membatalkannya di tengah-tengah masa berlaku, langganan dapat diaktifkan kembali di pusat admin Office 365.
+Jika langganan kedaluwarsa, atau dinonaktifkan oleh Microsoft, atau jika Anda membatalkannya di tengah-tengah masa berlaku, langganan dapat diaktifkan kembali di pusat admin Microsoft 365.
 
-- Pada Pusat Admin Office 365, masuk ke halaman [ Langganan ](https://go.microsoft.com/fwlink/p/?linkid=842054)(atau klik **Tagihan > Langganan **).
+- Di Pusat Admin Microsoft 365, masuk ke halaman [ Langganan ](https://go.microsoft.com/fwlink/p/?linkid=842054)(atau klik **Tagihan > Langganan **).
 
 - Pilih langganan bahwa Anda ingin mengaktivasi ulang, lalu klik **Aktivasi ulang **. Jika Anda tidak melihat **Aktifkan kembali** sebagai tindakan yang tersedia, [hubungi Dukungan](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) untuk mengaktifkan kembali langganan Anda.
 
@@ -42,6 +42,6 @@ Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https:
 
 **Mengaktifkan langganan baru dengan kunci produk**
 
-- Untuk mengaktifkan langganan baru Office 365 dengan kunci produk Anda, mulai [di sini ](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Untuk mengaktifkan langganan baru Microsoft 365 dengan kunci produk Anda, mulai [di sini ](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Masukkan kunci produk Office 365 Anda lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mendapatkan masalah dengan aktifasi, lihat daftar[ kesalahan umum kunci produk d dan solusi berikut ini ](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Masukkan kunci produk Microsoft 365, lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mendapatkan masalah dengan aktifasi, lihat daftar[ kesalahan umum kunci produk d dan solusi berikut ini ](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

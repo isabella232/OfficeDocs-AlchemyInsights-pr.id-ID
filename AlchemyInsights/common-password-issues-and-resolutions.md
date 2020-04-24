@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002325"
 - "4514"
-ms.openlocfilehash: 72f5eed00e11139c445b631236e4bee2fff33238
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: bc5ce953272fb13540c340cec1ab8143af398d51
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028009"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788813"
 ---
 # <a name="common-password-issues-and-resolutions"></a>Masalah dan resolusi umum terkait sandi
 
@@ -28,10 +28,10 @@ Berikut beberapa masalah dan resolusi umum terkait sandi:
 
 - [Reset Sandi admin yang dilupakan saat sandi masih di-cache di browser](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide#reset-my-office-365-tenant-admin-password).
 
-- **Layanan Mandiri Reset Sandi**: [Memungkinkan pengguna mereset sandi mereka sendiri di Office 365 dan Azure](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset) – atau untuk detail selengkapnya, lihat [Mengizinkan pengguna mereset sandi mereka sendiri](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
+- **Pengaturan Ulang Kata Sandi Mandiri**: [Memungkinkan pengguna mengatur ulang sandi mereka di Microsoft 365 dan Azure](https://portal.office.com/adminportal/home#/SettingsMultiPivot/:/Settings/L1/SelfServiceReset) – atau untuk detail selengkapnya, lihat [Memperbolehkan pengguna mengatur ulang kata sandinya sendiri](https://docs.microsoft.com/microsoft-365/admin/add-users/let-users-reset-passwords).
 
 - [Memperbarui informasi kontak Layanan Mandiri Reset Sandi](https://go.microsoft.com/fwlink/?linkid=849451) - SSPR diaktifkan untuk admin secara default. 
 
 - **Menetapkan Kebijakan Waktu Berakhirnya Sandi**: **Pengaturan > Pengaturan > Keamanan & Privasi > [Kebijakan waktu berakhirnya sandi](https://admin.microsoft.com/AdminPortal/Home#/SettingsMultiPivot/:/Settings/L1/PasswordPolicy)**
 
-Untuk skenario selengkapnya terkait reset sandi, coba [Reset sandi Office 365 business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) atau ketikkan deskripsi masalah yang lebih spesifik.
+Untuk skenario selengkapnya terkait pengaturan ulang kata sandi, coba [Mengatur ulang kata sandi Microsoft 365 business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) atau ketikkan deskripsi masalah yang lebih spesifik.
