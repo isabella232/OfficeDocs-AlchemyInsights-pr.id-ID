@@ -1,5 +1,5 @@
 ---
-title: Membeli paket Office 365 Pendidikan
+title: Membeli paket Microsoft 365 Education
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 7773c955d8f6887f87a3c3741fa29a08e41541e0
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195238"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789377"
 ---
-# <a name="purchase-office-365-education-plans"></a>Membeli paket Office 365 Pendidikan
+# <a name="purchase-microsoft-365-education-plans"></a>Membeli paket Microsoft 365 Education
 
-Permohonan Anda untuk Office 365 Pendidikan telah disetujui.  Untuk membeli:
+Permohonan Anda untuk Microsoft 365 Education telah disetujui.  Untuk membeli:
 
 1. Navigasi ke **[Tagihan > Layanan Pembelian](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
@@ -35,6 +35,6 @@ Permohonan Anda untuk Office 365 Pendidikan telah disetujui.  Untuk membeli:
 
 **Pengajaran dan pembelajaran jarak jauh**
 
-- Lihat [Pengajaran dan pembelajaran jarak jauh di Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) untuk mempelajari panduan terbaru tentang menyiapkan rencana pembelajaran sekolah, rapat virtual, dan berbagi konten dengan siswa.
+- Lihat [Pengajaran dan pembelajaran jarak jauh di Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) untuk mempelajari panduan terbaru tentang menyiapkan rencana pembelajaran sekolah, rapat virtual, dan berbagi konten dengan siswa.
 
 - Anda dapat menemukan panduan IT yang lain di [Memulai Microsoft Teams untuk pembelajaran jarak jauh](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) dan [Melakukan transisi ke pembelajaran jarak jauh](https://www.microsoft.com/education/remote-learning).
