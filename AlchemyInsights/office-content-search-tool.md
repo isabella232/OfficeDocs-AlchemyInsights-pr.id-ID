@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788000"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912261"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Alat pencarian konten untuk menemukan info yang relevan
 
-Menggunakan alat pencarian konten di pusat kepatuhan & keamanan untuk cepat menemukan email di kotak surat Exchange, dokumen di situs SharePoint dan OneDrive lokasi, dan percakapan pesan instan di Skype untuk bisnis. Anda dapat menggunakan alat pencarian konten untuk mencari email, dokumen, dan percakapan pesan instan di Microsoft 365 alat kolaborasi seperti Microsoft teams dan Office 365 grup.
+Menggunakan alat pencarian konten di pusat kepatuhan & keamanan untuk cepat menemukan email di kotak surat Exchange, dokumen di situs SharePoint dan OneDrive lokasi, dan percakapan pesan instan di Skype untuk bisnis. Anda dapat menggunakan alat pencarian konten untuk mencari email, dokumen, dan percakapan pesan instan di Microsoft 365 alat kolaborasi seperti Microsoft teams dan Microsoft 365 grup.
 
 
 Sebelum menggunakan [pencarian konten](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) dari [pusat kepatuhan & keamanan](https://sip.protection.office.com/homepage), Anda akan ingin menyelesaikan pengaturan konfigurasi termasuk [izin konfigurasi](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [pengaturan kecepatan download](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) dan [pengaturan ekspor](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
