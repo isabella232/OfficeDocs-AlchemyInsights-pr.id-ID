@@ -11,14 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626315"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908790"
 ---
 # <a name="microsoft-teams-upgrade"></a>Upgrade Microsoft teams
+
+**Penting**: kami dapat membantu memperbaikinya untuk Anda menggunakan diagnostik dukungan, namun sepertinya Anda tidak menggunakan pusat admin baru. Untuk menggunakan pusat admin baru, geser tombol Toggle di kanan atas yang mengatakan **Pusat admin baru** ke kanan. Menggunakan pusat admin baru, klik **memerlukan bantuan?** widget, ketik "tim upgrade", kemudian ikuti petunjuk untuk menjalankan diagnostik.
 
 Baik Anda baru saja memulai tim, sudah menggunakan teams bersama Skype for Business, atau siap untuk meningkatkan, kami ingin memastikan Anda memiliki semua yang dibutuhkan untuk menavigasi perjalanan yang sukses ke teams. Untuk informasi lebih lanjut silahkan kunjungi link di bawah ini.
 

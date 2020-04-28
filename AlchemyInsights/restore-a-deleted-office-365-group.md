@@ -1,5 +1,5 @@
 ---
-title: Memulihkan grup 365 Office yang dihapus
+title: Memulihkan grup Microsoft 365 yang dihapus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758757"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912714"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>Memulihkan grup 365 Office yang dihapus
+# <a name="restore-a-deleted-microsoft-365-group"></a>Memulihkan grup Microsoft 365 yang dihapus
 
 Grup yang dihapus akan disimpan selama 30 hari. Untuk memulihkan grup yang dihapus:
   
@@ -28,5 +28,5 @@ Grup yang dihapus akan disimpan selama 30 hari. Untuk memulihkan grup yang dihap
 
 2. Pilih grup, dan kemudian klik **Pulihkan** di bilah perintah, atau klik tautan "klik di sini untuk memulihkan" di panel rincian.
 
-Untuk informasi lebih lanjut, atau untuk mempelajari cara memulihkan grup menggunakan PowerShell, lihat [memulihkan grup Office 365 yang dihapus](https://go.microsoft.com/fwlink/?linkid=867802).
+Untuk informasi lebih lanjut, atau untuk mempelajari cara memulihkan grup menggunakan PowerShell, lihat [memulihkan grup Microsoft 365 yang dihapus](https://go.microsoft.com/fwlink/?linkid=867802).
   

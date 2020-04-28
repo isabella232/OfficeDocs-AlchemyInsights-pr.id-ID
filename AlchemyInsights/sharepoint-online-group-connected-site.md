@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642147"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912969"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Masalah saat membuat grup terhubung situs di SharePoint
 
@@ -30,5 +30,5 @@ Jika Anda telah menghapus grup dan situs yang terhubung dan ingin membuat situs 
 
 1. Ada berbagai cara untuk membuat dan menggunakan grup modern dengan SharePoint.
 
-   - Anda dapat menghubungkan situs yang ada ke grup 365 Office. Untuk informasi lebih lanjut, lihat [menyambungkan grup 365 Office menggunakan antarmuka pengguna SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Untuk membuat situs yang terhubung ke grup Office 365, Anda harus membuat [situs tim](https://admin.microsoft.com/sharepoint).
+   - Anda dapat menghubungkan situs yang ada ke grup Microsoft 365. Untuk informasi lebih lanjut, lihat [menyambungkan grup Microsoft 365 menggunakan antarmuka pengguna SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Untuk membuat situs Microsoft 365 grup yang terhubung, Anda harus membuat [situs tim](https://admin.microsoft.com/sharepoint).

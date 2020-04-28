@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705016"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911583"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Hapus situs milik Grup 365 Office
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Menghapus situs yang menjadi bagian dari grup Microsoft 365
 
-Ketika pengguna membuat situs tim baru dari SharePoint Home atau Anda membuat situs tim baru dari Pusat admin SharePoint baru, grup Office 365 sesuai secara otomatis dibuat. Office 365 tim terhubung grup situs juga dibuat saat Anda membuat Office 365 grup atau tim di Microsoft teams. Untuk menghapus situs SharePoint milik Grup 365 Office, Anda harus menghapus Grup 365 Office itu sendiri. 
+Ketika pengguna membuat situs tim baru dari SharePoint Home atau Anda membuat situs tim baru dari Pusat admin SharePoint baru, grup 365 Microsoft terkait secara otomatis dibuat. Microsoft 365 tim terhubung grup situs juga dibuat saat Anda membuat Microsoft 365 grup atau tim di Microsoft teams. Untuk menghapus situs SharePoint milik Grup 365 Microsoft, Anda harus menghapus Grup 365 Microsoft itu sendiri. 
   
 1. Buka [halaman grup Pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
