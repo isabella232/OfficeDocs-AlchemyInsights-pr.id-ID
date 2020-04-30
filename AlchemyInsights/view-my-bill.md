@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665691"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947740"
 ---
 # <a name="view-my-bill"></a>Lihat tagihan saya
 
-1. Di pusat admin Microsoft 365, pergi ke **penagihan** \> halaman [tagihan & pembayaran](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. Di pusat admin Microsoft 365, buka \> halaman tagihan tagihan **Billing** [& pembayaran](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Pilih rentang tanggal dari daftar drop-down, dan kemudian memilih urutan yang ingin Anda lihat.
+2. Pilih rentang tanggal dari daftar drop-down, lalu pilih urutan yang ingin Anda lihat.
 
-Untuk informasi lebih lanjut lihat [melihat invoice atau tagihan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Untuk mencetak tagihan, download tagihan sebagai file PDF dan klik **cetak**.
+
+Untuk informasi selengkapnya, lihat [Menampilkan tagihan atau faktur](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
