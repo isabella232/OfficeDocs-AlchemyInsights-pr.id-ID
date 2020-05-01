@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912048"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943982"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>FAQ langganan dan pengelolaan lisensi Microsoft 365 E3
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912048"
 - Untuk **membatalkan** lisensi E3, buka **Tagihan > [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054)**, klik **Pengaturan & Tindakan**, lalu klik **Batalkan langganan**. Untuk informasi selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - Untuk **mengaktifkan** langganan E3, lihat [Mengaktifkan langganan Anda](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Untuk **mengaktifkan kembali** langganan E3, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Untuk memperpanjang uji coba E3, lihat [Memperpanjang uji coba Anda](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Untuk **memperpanjang** uji coba E3, lihat [Memperpanjang uji coba Anda](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
-Untuk informasi selengkapnya, lihat [ Mengelola lisensi langganan ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Untuk informasi selengkapnya, lihat [Mengelola lisensi langganan](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
