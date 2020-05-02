@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702885"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005333"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Memperpanjang uji coba untuk Microsoft 365 untuk bisnis
 
-Anda dapat memperpanjang masa uji coba selama 30 hari lagi. Anda hanya dapat melakukan ini satu kali.
+Anda dapat memperpanjang masa uji coba selama 30 hari. Setelah itu sidang Anda masuk ke [masa tenggang](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)30 hari tambahan. Ikuti langkah berikut untuk memperpanjang masa uji coba:
   
 1. Di pusat admin, buka produk **penagihan** \> [& Layanan](https://portal.office.com/adminportal/home#/subscriptions).
 

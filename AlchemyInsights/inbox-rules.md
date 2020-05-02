@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724559"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005261"
 ---
-# <a name="inbox-rules"></a>Aturan kotak masuk
+# <a name="inbox-rules-in-outlook-desktop"></a>Aturan kotak masuk di Outlook desktop
 
-Untuk informasi lebih lanjut tentang menggunakan aturan kotak masuk di kotak pesan Anda, lihat:
+1. Buka **File > Kelola aturan & peringatan** untuk membuka kotak dialog **aturan dan tanda** .
+2. Pada tab **aturan email** , klik **aturan baru**.
+3. Pilih salah satu template dari **langkah 1**. Untuk memulai dari aturan kosong, pilih **Terapkan aturan pada pesan yang saya terima atau Terapkan aturan pada pesan yang dikirim**.
+4. Dalam **langkah 2: Edit Deskripsi aturan kotak**, klik pada setiap garis bawah pilihan untuk mengaturnya. Misalnya, jika Anda memilih **Tandai pesan dari seseorang untuk ditindaklanjuti** pada langkah 1, klik **orang atau grup publik** untuk memilih pesan pengirim yang ingin Anda Tandai; kemudian klik **tindak** lanjut saat ini untuk memilih bendera dan tanggal tindak lanjut.
+5. Klik **Berikutnya**.
 
-- [Mengelola pesan email dengan menggunakan aturan di Outlook untuk PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Mengelola pesan Anda menggunakan aturan kotak masuk di Outlook di web](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Anda juga dapat mengelola aturan kotak masuk di Exchange Online PowerShell. Untuk informasi selengkapnya, lihat [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (tampilan), [baru-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (membuat), [Hapus-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Hapus), [set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (mengubah ada), [menonaktifkan-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (menonaktifkan ada), dan [mengaktifkan-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Aktifkan ada).
+Untuk informasi tambahan tentang cara bekerja dengan aturan kotak masuk silakan lihat [mengelola pesan email dengan menggunakan aturan](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
