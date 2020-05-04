@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769810"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010302"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Menghapus instalan atau mengecualikan tim dari penginstalan Office baru atau yang sudah ada
 
-Microsoft teams disertakan sebagai bagian dari Office 365 ProPlus, Office 365 Business, dan Office for Mac.
+Microsoft teams disertakan sebagai bagian dari Microsoft 365 aplikasi untuk perusahaan, Microsoft 365 aplikasi untuk bisnis, dan Office untuk Mac.
 
-- Gunakan [alat penyebaran Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) untuk mengecualikan tim dari penginstalan baru Office.
+- Gunakan [alat penyebaran Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) untuk mengecualikan tim dari penginstalan baru Office.
 - Untuk *mencopot* tim dari perangkat yang menjalankan Windows, lihat [membongkar Microsoft teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk membersihkan Microsoft teams dari beberapa mesin target atau pengguna, lihat [penyebaran Microsoft teams dibersihkan](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 - Gunakan opsi [Preventteamsinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 ) untuk mencegah Microsoft teams menginstal secara otomatis dengan Office.
