@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703898"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062539"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Mengedit profil penagihan untuk aplikasi
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Untuk mengubah profil penagihan di aplikasi
 
-1. Buka halaman[Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** > , lalu pilih tab **aplikasi** .
+1. Buka halaman **penagihan** > **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , lalu pilih tab **aplikasi** .
 
 2. Cari dan pilih aplikasi yang ingin Anda Kelola.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703898"
 
 ## <a name="edit-billing-profiles"></a>Mengedit profil penagihan
 
-1. Buka tagihan **tagihan** > [& halaman pembayaran](https://go.microsoft.com/fwlink/p/?linkid=848039) , lalu pilih **profil penagihan**.
+1. Buka tagihan **tagihan** > **[& halaman pembayaran](https://go.microsoft.com/fwlink/p/?linkid=848039)** , lalu pilih **profil penagihan**.
 
 2. Pilih profil penagihan dari daftar untuk diedit.
