@@ -8,27 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 176d56c09142fc91f2433e1bf948e8b9c550f4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759299"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063044"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Cara meningkatkan penyimpanan di OneDrive untuk bisnis
 
 Untuk mengubah penyimpanan default untuk pengguna OneDrive baru dan yang sudah ada:
   
 - Buka [halaman penyimpanan Pusat admin OneDrive](https://admin.onedrive.com/?v=StorageSettings), dan kemudian masukkan jumlah baru di GB.
-    
-Setelan ruang penyimpanan ini berlaku untuk semua pengguna yang belum menetapkan batas penyimpanan tertentu. Untuk mengubah ruang penyimpanan untuk pengguna tertentu, Anda harus menggunakan Microsoft PowerShell. Untuk informasi tentang cara melakukannya, lihat [mengubah ruang penyimpanan OneDrive pengguna menggunakan PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
-  
- **Catatan**: Sepertinya Anda tidak memiliki rencana yang mencakup penyimpanan tak terbatas. Untuk info tentang penyimpanan yang disertakan dengan setiap paket, lihat [Deskripsi Layanan OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+
+Setelan ruang penyimpanan ini berlaku untuk semua pengguna yang belum menetapkan batas penyimpanan tertentu. Untuk mengubah ruang penyimpanan untuk pengguna tertentu, Anda harus menggunakan Microsoft PowerShell. Untuk informasi tentang cara melakukannya, lihat [mengubah ruang penyimpanan OneDrive pengguna menggunakan PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+
+**Catatan**: Sepertinya Anda tidak memiliki rencana yang mencakup penyimpanan tak terbatas. Untuk info tentang penyimpanan yang disertakan dengan setiap paket, lihat [Deskripsi Layanan OneDrive for Business](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 Untuk meningkatkan penyimpanan di OneDrive untuk bisnis, pilih langganan yang mencakup **onedrive untuk rencana bisnis 2** atau **Office 365 Enterprise E3**. 
   
-Untuk mengubah rencana, di pusat admin Microsoft 365, pergi ke langganan **penagihan** \> **Subscriptions**, dan kemudian memilih **beralih rencana.**
+Untuk mengubah rencana, di pusat admin Microsoft 365, buka halaman **penagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , pilih langganan untuk mengubah, dan kemudian pilih tab **upgrade** .
   
-Untuk informasi lebih lanjut tentang beralih rencana dan OneDrive untuk bisnis penyimpanan, lihat [beralih ke berbeda Microsoft 365 untuk rencana bisnis](https://go.microsoft.com/fwlink/?LinkId=2031117) dan [OneDrive untuk Deskripsi Layanan Bisnis](https://go.microsoft.com/fwlink/?LinkId-2031122).
-  
-
+Untuk informasi lebih lanjut tentang beralih rencana dan OneDrive untuk bisnis penyimpanan, lihat [beralih ke berbeda Microsoft 365 untuk rencana bisnis](https://go.microsoft.com/fwlink/?LinkId=2031117) dan [OneDrive untuk Deskripsi Layanan Bisnis](https://go.microsoft.com/fwlink/p/?LinkId-2031122).

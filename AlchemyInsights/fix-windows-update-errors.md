@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564320"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063692"
 ---
 # <a name="fix-windows-update-errors"></a>Perbaiki kesalahan Windows Update
 
 Jika Anda mendapatkan kode galat saat men-download dan menginstal pembaruan Windows, **pemecah masalah pembaruan** dapat membantu menyelesaikan masalah.
 
-- [Download pemecah masalah pembaruan untuk Windows 10](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
+- [Download pemecah masalah pembaruan untuk Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
 - Jalankan pemecah masalah. Setelah selesai, sebaiknya nyalakan ulang perangkat Anda. Kemudian periksa pembaruan baru dengan pergi ke [mulai > pengaturan > update & keamanan > Pemutakhiran Windows](ms-settings:windowsupdate).
 
 Jika mereka masih tidak berhasil, silakan periksa [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) untuk informasi lebih lanjut.
