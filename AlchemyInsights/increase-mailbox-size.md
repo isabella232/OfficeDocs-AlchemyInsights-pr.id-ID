@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714045"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064232"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Beralih langganan untuk meningkatkan ukuran kotak surat
 
@@ -25,7 +25,7 @@ Jika ukuran kotak surat Anda sudah 100 GB, tidak ada cara untuk meningkatkannya.
   
 Jika ukuran kotak surat 50 GB, Anda dapat meningkatkan ke 100 GB dengan beralih ke [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) atau [Office 365 perusahaan E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Berikut adalah langkah untuk beralih ke langganan yang berbeda:
   
-1. Di pusat admin Microsoft 365, buka halaman [Layanan & produk](https://go.microsoft.com/fwlink/p/?linkid=842054) **penagihan** \> .
+1. Di pusat admin Microsoft 365, buka halaman **penagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Pilih langganan yang ingin Anda Tingkatkan.
 

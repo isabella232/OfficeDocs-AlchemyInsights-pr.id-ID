@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666780"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062900"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Prabayar Microsoft 365 pembaharuan
 
-1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Di pusat admin, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Temukan langganan yang ingin Anda Perluas. Di bagian **tagihan** , pilih **Perluas tanggal akhir**.
 

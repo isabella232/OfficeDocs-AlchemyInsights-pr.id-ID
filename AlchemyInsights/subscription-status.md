@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417703"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063224"
 ---
 # <a name="subscription-status"></a>Status berlangganan
 
-Status berlangganan dapat ditemukan di halaman produk dan layanan Microsoft 365 Admin Center.
+Status berlangganan dapat ditemukan di halaman **produk Anda** dari Microsoft 365 Admin Center.
 
-1. Buka produk **penagihan** > [& Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Buka **penagihan** > **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Jika ada masalah dengan status salah satu langganan, Anda akan melihat ikon peringatan merah di samping langganan, atau status "kedaluwarsa" atau "dinonaktifkan" di bagian tagihan pada detail langganan.
 
@@ -30,11 +30,11 @@ Status berlangganan dapat ditemukan di halaman produk dan layanan Microsoft 365 
 
 **Tanggal kedaluwarsa**
 
-1. Buka produk **penagihan** > [& Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Buka **penagihan** > **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Tergantung pada tampilan, tanggal kedaluwarsa akan muncul di kolom paling kanan berlabel **tanggal** atau di bagian **penagihan** rincian langganan di samping **kedaluwarsa**.
 
 **Lisensi**
 
-Jumlah lisensi yang dibeli dan digunakan dicantumkan oleh langganan pada halaman [produk & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Jumlah lisensi yang dibeli dan digunakan dicantumkan oleh langganan pada halaman **produk Anda** .
 

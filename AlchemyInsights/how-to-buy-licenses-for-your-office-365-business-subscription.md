@@ -12,18 +12,18 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709518"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063908"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Cara membeli lisensi untuk aplikasi Microsoft 365 untuk langganan bisnis
 
 Saat menetapkan lisensi kepada pengguna, Anda mungkin mendapati bahwa Anda memiliki kebutuhan untuk membeli lisensi tambahan. Untuk melakukan hal ini:
   
-1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Di pusat admin, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Temukan langganan yang ingin Anda tambahkan lisensi, dan kemudian pilih **Tambah/Hapus lisensi**.
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711562"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061674"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365?
 
@@ -24,7 +24,7 @@ Kami minta maaf untuk melihat Anda pergi, tapi di sini adalah pilihan Anda untuk
   
 - Jika Anda adalah pelanggan percobaan, tidak ada yang harus dibatalkan. Langganan uji coba kedaluwarsa secara otomatis kecuali Anda memberikan metode pembayaran.
 
-- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda dapat membatalkan langganan secara online. Buka produk **penagihan** \> [& Layanan](https://go.microsoft.com/fwlink/p/?linkid=842054). Di bagian **pengaturan & tindakan** , pilih **Batalkan langganan**.
+- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda dapat membatalkan langganan secara online. Buka **penagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Di bagian **pengaturan & tindakan** , pilih **Batalkan langganan**.
 
 - Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan, Anda dapat menghapus pengguna hingga Anda memiliki kurang dari 25, atau menggunakan opsi "Izinkan kami menghubungi Anda" untuk berbicara dengan teknisi dukungan.
 

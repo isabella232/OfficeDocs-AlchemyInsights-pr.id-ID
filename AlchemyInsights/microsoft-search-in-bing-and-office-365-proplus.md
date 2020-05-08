@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762320"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043040"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Microsoft Search di Bing dan Aplikasi Microsoft 365 untuk perusahaan
 
-Mulai dari Versi 2002 Aplikasi Microsoft 365 untuk perusahaan, ekstensi untuk Microsoft Search di Bing akan diinstal sehingga Bing akan menjadi mesin pencarian default untuk browser web Google Chrome hanya pada perangkat di lokasi tertentu.
+Ekstensi Microsoft Search ***opsional*** di Bing untuk Google Chrome tersedia dengan Aplikasi Microsoft 365 untuk perusahaan (sebelumnya bernama Office 365 ProPlus), dimulai dengan Versi 2005. Ekstensi ini tersedia di lokasi tertentu untuk perangkat yang tergabung dengan domain yang menjalankan Windows. Jika Anda memutuskan untuk menyebarkan ekstensi ini, maka Bing akan diatur sebagai mesin pencarian default.
 
-**Jika Anda tidak ingin ekstensi tersebut terinstal, [ikuti langkah-langkah ini](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Untuk menginstal ekstensi, Anda harus ***ikut serta*** dengan mengonfigurasi pengaturan di bagian Microsoft Search pusat admin Microsoft 365.
 
-Setelah ekstensi diinstal pun, pengguna Anda sendiri dapat dengan mudah berhenti menggunakan Bing sebagai mesin pencarian default dengan menggunakan tombol [Aktif/Nonaktif](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) sederhana atau Anda dapat [menghapus ekstensi](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) dari beberapa perangkat di organisasi Anda.
+Penyebaran ekstensi ***opsional*** ini juga bergantung pada layanan latar belakang, yang disertakan dengan Aplikasi Microsoft 365 untuk perusahaan, dimulai dengan Versi 2005. Jika layanan latar belakang tidak diinstal, ekstensi tidak akan diinstal.
 
-Kami memiliki artikel bantuan mendetail yang tersedia untuk membantu Anda memahami lebih lanjut tentang perubahan ini [di sini](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Bahkan setelah ekstensi diinstal, pengguna Anda dapat dengan mudah berhenti menggunakan Bing sebagai mesin pencarian default menggunakan tombol Aktif/Nonaktif sederhana.
+
+Untuk informasi selengkapnya tentang penyebaran ekstensi ***opsional*** ini, lihat [Microsoft Search di Bing dan Aplikasi Microsoft 365 untuk perusahaan](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
