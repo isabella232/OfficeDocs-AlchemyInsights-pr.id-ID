@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062467"
 ---
 # <a name="find-and-activate-my-product-key"></a>Cari dan Aktifkan kunci produk saya
@@ -32,7 +32,7 @@ Jika Anda membeli Microsoft 365 Business Premium Standard dari toko ritel, gunak
 
 **Catatan**: untuk menggunakan kunci produk untuk memperpanjang tanggal kedaluwarsa atau menambahkan lisensi untuk langganan Microsoft 365 standar bisnis premium Anda yang sudah ada, Anda memerlukan kunci baru dan tidak terpakai untuk langganan Microsoft 365 yang sama.  Memasukkan kunci produk Microsoft 365 asli tidak akan bekerja karena kunci yang telah ditukarkan tidak dapat digunakan lagi.
 
-1. Di pusat admin, buka halaman **penagihan** > **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Di pusat admin, buka halaman **penagihan**  >  **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Temukan langganan yang Anda inginkan untuk memperpanjang tanggal kedaluwarsa atau menambahkan lisensi.  Klik [Perluas tanggal akhir](https://go.microsoft.com/fwlink/p/?linkid=842054) atau [Tambahkan lebih banyak lisensi](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

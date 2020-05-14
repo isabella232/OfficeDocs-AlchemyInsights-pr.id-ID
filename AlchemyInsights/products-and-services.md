@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062864"
 ---
 # <a name="your-products"></a>Produk Anda
 
-Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman **penagihan** > **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Berikut adalah beberapa highlights dari Halaman ini bersama dengan link untuk info lebih lanjut pada setiap fitur:
+Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman **penagihan**  >  **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Berikut adalah beberapa highlights dari Halaman ini bersama dengan link untuk info lebih lanjut pada setiap fitur:
 
 1. Mengelola jumlah lisensi yang telah dibeli untuk setiap langganan bersama dengan berapa banyak yang digunakan.  **Catatan**: lisensi yang tidak digunakan (tidak ditetapkan ke pengguna) masih dikenakan biaya.  Untuk tidak dikenakan biaya untuk lisensi yang tidak terpakai, kurangi jumlah lisensi yang dibeli. Untuk informasi tentang cara menambahkan atau menghapus lisensi dari langganan, lihat [cara menambahkan atau mengurangi lisensi](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda di halaman **p
 
 6. [Membatalkan langganan](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Anda dapat membeli langganan tambahan dari halaman **Billing** > [**Layanan pembelian**](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
+Anda dapat membeli langganan tambahan dari halaman **Billing**  >  [**Layanan pembelian**](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.

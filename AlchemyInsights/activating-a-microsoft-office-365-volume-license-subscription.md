@@ -14,10 +14,10 @@ ms.custom:
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
 ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062035"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Mengaktifkan langganan lisensi volume Microsoft
@@ -30,6 +30,6 @@ ms.locfileid: "44062035"
 
 4. Email aktivasi akan menyediakan dua opsi: **Daftar**, atau **masuk**. Jika sebelumnya Anda telah membuat uji coba, pilih **masuk**. Jika Anda belum memiliki penyewa 365 Microsoft, pilih **Daftar**.
 
-5. Masuk ke Microsoft 365 Admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) menggunakan kredensial administrator yang ada. Setelah berhasil masuk, Anda akan menerima email lain yang mengonfirmasi pembelian.
+5. Masuk ke Microsoft 365 Admin Center ( [https://admin.microsoft.com](https://admin.microsoft.com) ) menggunakan kredensial administrator yang sudah ada. Setelah berhasil masuk, Anda akan menerima email lain yang mengonfirmasi pembelian.
 
 6. Setelah masuk, Anda dapat membuka halaman **penagihan** \> [produk](https://go.microsoft.com/fwlink/p/?linkid=842054) untuk memverifikasi bahwa langganan yang dibeli telah diaktifkan dalam penyewa Anda. (Anda juga dapat memilih tab **langganan** di vlsc untuk melihat rincian memverifikasi bahwa langganan Anda telah disimpan.)

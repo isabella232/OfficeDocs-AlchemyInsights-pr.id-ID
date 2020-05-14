@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061746"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Beli langganan Microsoft 365 dari uji coba gratis Anda
@@ -31,7 +31,7 @@ Anda sudah mencoba Microsoft 365, dan sekarang Anda siap untuk membeli. Anda mem
 
 **Membeli langganan yang berbeda**
   
-1. Di pusat admin, buka halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) **penagihan** \> .
+1. Di pusat admin, buka **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
 
 3. Cari langganan yang ingin Anda beli, pilih **Beli**, dan ikuti langkah untuk Check Out.
 

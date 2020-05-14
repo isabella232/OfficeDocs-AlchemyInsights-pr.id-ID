@@ -13,17 +13,17 @@ ms.custom:
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
 ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063548"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cara membuat pembelian 365 Microsoft
 
 Pembelian di Microsoft 365 dapat dibuat di pusat admin.
   
-- Untuk membeli paket, buka halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) **penagihan** \> .
+- Untuk membeli paket, buka **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
 
 - Untuk membeli lisensi tambahan, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Pilih langganan yang ingin Anda tambahkan lisensinya, dan kemudian pilih **Tambah/Hapus lisensi**.
   
