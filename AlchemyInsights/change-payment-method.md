@@ -13,21 +13,25 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 036b6f94efda76db35b2b7966bac0299db348c86
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44058683"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44221948"
 ---
-# <a name="change-payment-method"></a><span data-ttu-id="20441-102">Mengubah metode pembayaran</span><span class="sxs-lookup"><span data-stu-id="20441-102">Change payment method</span></span>
+# <a name="change-payment-method"></a><span data-ttu-id="7dc6f-102">Mengubah metode pembayaran</span><span class="sxs-lookup"><span data-stu-id="7dc6f-102">Change payment method</span></span>
 
-<span data-ttu-id="20441-103">Anda dapat mengubah metode pembayaran dari **Pusat admin Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="20441-103">You can change the payment method from the **Microsoft 365 admin center**.</span></span>
+<span data-ttu-id="7dc6f-103">Anda dapat mengubah metode pembayaran dari **Pusat admin Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-103">You can change the payment method from the **Microsoft 365 admin center**.</span></span>
   
-1. <span data-ttu-id="20441-104">Di pusat admin, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="20441-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="7dc6f-104">Di pusat admin, buka halaman **penagihan**  >  **tagihan & pembayaran**  >  [metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806) .</span><span class="sxs-lookup"><span data-stu-id="7dc6f-104">In the admin center, go to the **Billing** > **Bills & payments** > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+2. <span data-ttu-id="7dc6f-105">Pilih baris metode pembayaran yang akan diganti.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-105">Select the row of the payment method to replace.</span></span> <span data-ttu-id="7dc6f-106">Panel kanan mencantumkan semua profil penagihan dan langganan individual yang menggunakan metode pembayaran yang dipilih.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-106">The right pane lists all billing profiles and individual subscriptions that use the selected payment method.</span></span>
+3. <span data-ttu-id="7dc6f-107">Pada panel kanan, pilih **ganti metode pembayaran untuk semua item**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-107">In the right pane, select **Replace payment method for all items**.</span></span>
+4. <span data-ttu-id="7dc6f-108">Untuk menggunakan metode pembayaran yang ada, pilih salah satu dari daftar drop-down, lalu pilih **ganti**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-108">To use an existing payment method, choose one from the drop-down list, then select **Replace**.</span></span>
+    > [!NOTE]
+    > <span data-ttu-id="7dc6f-109">Jika Anda memiliki langganan yang terkait dengan profil penagihan, Anda hanya dapat menggunakan kartu kredit atau debit untuk membayarnya.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-109">If you have subscriptions associated with a billing profile, you can only use a credit or debit card to pay for them.</span></span> <span data-ttu-id="7dc6f-110">Jika Anda memiliki rekening bank yang tercantum di halaman **metode pembayaran** , mereka tidak tersedia untuk memilih dalam daftar drop-down.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-110">If you have bank accounts listed on the **Payment methods** page, they aren't available to select in the drop-down list.</span></span>
+5. <span data-ttu-id="7dc6f-111">Untuk menambahkan metode pembayaran baru, pilih **Tambahkan metode pembayaran**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-111">To add a new payment method, select **Add payment method**.</span></span>
+6. <span data-ttu-id="7dc6f-112">Di panel **Tambahkan metode pembayaran** , masukkan informasi akun, lalu pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-112">In the **Add a payment method** pane, enter the account information, then select **Save**.</span></span> <span data-ttu-id="7dc6f-113">Anda harus menggunakan metode pembayaran dari negara yang sama dengan penyewa Anda.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-113">You must use a payment method from the same country as your tenant.</span></span>
+7. <span data-ttu-id="7dc6f-114">Metode pembayaran baru sudah dipilih dalam daftar drop-down.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-114">The new payment method is already selected in the drop-down list.</span></span> <span data-ttu-id="7dc6f-115">Pilih **ganti**.</span><span class="sxs-lookup"><span data-stu-id="7dc6f-115">Select **Replace**.</span></span>
 
-2. <span data-ttu-id="20441-105">Cari langganan yang ingin Anda ubah metode pembayarannya.</span><span class="sxs-lookup"><span data-stu-id="20441-105">Find the subscription that you want to change the payment method for.</span></span> <span data-ttu-id="20441-106">Di samping metode pembayaran, klik **Edit**.</span><span class="sxs-lookup"><span data-stu-id="20441-106">Next to the payment method, click **Edit**.</span></span>
-
-3. <span data-ttu-id="20441-107">Ikuti langkah di layar untuk menyelesaikan perubahan.</span><span class="sxs-lookup"><span data-stu-id="20441-107">Follow the steps on screen to complete the change.</span></span>
-
-<span data-ttu-id="20441-108">Untuk mempelajari lebih lanjut, lihat [mengubah metode pembayaran untuk Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span><span class="sxs-lookup"><span data-stu-id="20441-108">To learn more, see [Change your payment method for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).</span></span>
+<span data-ttu-id="7dc6f-116">Untuk mempelajari lebih lanjut, lihat [mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="7dc6f-116">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
