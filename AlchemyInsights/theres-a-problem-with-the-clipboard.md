@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045456"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263880"
 ---
-# <a name="disable-excel-live-preview"></a>Menonaktifkan pratayang langsung Excel
+# <a name="resolving-excel-clipboard-error"></a>Menyelesaikan kesalahan clipboard Excel
 
-Jika Anda menerima kesalahan di Excel yang mengatakan, "ada masalah dengan clipboard, tapi Anda masih dapat menyisipkan konten Anda dalam buku ini," coba nonaktifkan fitur pratinjau hidup dengan mengikuti langkah berikut:
+Jika Anda menerima pesan kesalahan di Excel yang berbunyi, "ada masalah dengan clipboard, namun Anda masih dapat menempelkan konten di dalam buku kerja ini," coba nonaktifkan fitur pratinjau langsung dengan mengikuti langkah berikut:
 
-1. Dalam Excel, klik **File** > **pilihan**.
-3. Dalam kotak dialog **Excel pilihan** , pilih **umum**.
-4. Di bawah **pilihan antarmuka pengguna**, jelas **Mengaktifkan Live Preview**.
+1. Di Excel, klik **file**  >  **Options**.
+3. Di kotak dialog **opsi Excel** , pilih **umum**.
+4. Di bawah **opsi antarmuka pengguna**, kosongkan **Aktifkan pratinjau langsung**.
 5. Klik **OK**.
-6. Restart Excel.
+6. Mulai ulang Excel.
