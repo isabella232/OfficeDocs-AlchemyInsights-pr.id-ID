@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742050"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343084"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Pemberitahuan peringatan SharePoint tidak terkirim
 
@@ -33,15 +33,6 @@ FAQ pada peringatan:
 
 - Tidak dimungkinkan untuk mengirim peringatan ke grup distribusi, hanya grup keamanan dan O365 yang didukung.
 - Anda tidak dapat menyesuaikan template email peringatan; Anda perlu menggunakan Microsoft FLOW atau SharePoint Designer Workflow untuk mencapainya.
-
-Informasi lebih lanjut:
-
-- **Pengaturan peringatan**: untuk informasi selengkapnya tentang pengaturan peringatan, lihat [membuat peringatan untuk mendapatkan diberitahu ketika perubahan berkas atau map di SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Memecahkan masalah peringatan**: untuk informasi selengkapnya tentang pemecahan masalah peringatan, lihat [pengguna tidak menerima pemberitahuan peringatan SharePoint online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Kebijakan peringatan kepatuhan O365 lanjutan**: untuk informasi lebih lanjut tentang menyiapkan peringatan ini, lihat [kebijakan pemberitahuan kepatuhan](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Log audit SharePoint dan OneDrive**: untuk informasi selengkapnya tentang cara mengambil peristiwa ini, lihat [pencarian audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Peringatan yang dikirim oleh perlindungan ancaman lanjutan**: Lihat [ATP untuk SharePoint dan OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Peringatan yang dikirim melalui kebijakan pencegahan kehilangan data**: Lihat [notifikasi email untuk DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Topik terkait
 
