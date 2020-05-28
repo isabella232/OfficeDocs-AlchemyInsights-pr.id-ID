@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953975"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343049"
 ---
-# <a name="list-view-threshold"></a><span data-ttu-id="13c0f-102">Ambang batas tampilan daftar</span><span class="sxs-lookup"><span data-stu-id="13c0f-102">List view threshold</span></span>
+# <a name="list-view-threshold"></a><span data-ttu-id="8bad0-102">Ambang batas tampilan daftar</span><span class="sxs-lookup"><span data-stu-id="8bad0-102">List view threshold</span></span>
 
-<span data-ttu-id="13c0f-103">Daftar dan pustaka SharePoint dapat memuat hingga 30 juta item. Namun, jika berisi lebih dari 5.000 item, Anda mungkin melihat kesalahan ambang batas tampilan daftar saat mencoba mengerjakan item tersebut.</span><span class="sxs-lookup"><span data-stu-id="13c0f-103">SharePoint lists and libraries can contain up to 30 million items, but when they have more than 5,000 items, you might see a list view threshold error when you try to work with them.</span></span> <span data-ttu-id="13c0f-104">Ambang batas ini ada untuk mempertahankan kinerja layanan.</span><span class="sxs-lookup"><span data-stu-id="13c0f-104">This threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="13c0f-105">Ambang batas ini tidak dapat diubah.</span><span class="sxs-lookup"><span data-stu-id="13c0f-105">It can't be changed.</span></span> <span data-ttu-id="13c0f-106">Anda mungkin juga menerima kesalahan ini saat mencoba membagikan atau menghentikan pewarisan folder.</span><span class="sxs-lookup"><span data-stu-id="13c0f-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span>
+<span data-ttu-id="8bad0-103">Ambang tampilan daftar berada di tempat untuk mempertahankan kinerja layanan.</span><span class="sxs-lookup"><span data-stu-id="8bad0-103">The list view threshold is in place to maintain performance of the service.</span></span> <span data-ttu-id="8bad0-104">Ambang tidak dapat diubah di SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="8bad0-104">The threshold can't be changed in SharePoint Online.</span></span> <span data-ttu-id="8bad0-105">Untuk menghindari mencapai ambang batas ini, lihat [mengelola daftar besar dan Perpustakaan di SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span><span class="sxs-lookup"><span data-stu-id="8bad0-105">To avoid hitting this threshold, see [Manage large lists and libraries in SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).</span></span>
 
-<span data-ttu-id="13c0f-107">Agar tidak melampaui ambang batas ini, buka:</span><span class="sxs-lookup"><span data-stu-id="13c0f-107">To avoid hitting this threshold visit:</span></span>
-
-- [<span data-ttu-id="13c0f-108">Mengelola daftar dan pustaka berukuran besar di SharePoint</span><span class="sxs-lookup"><span data-stu-id="13c0f-108">Manage large lists and libraries in SharePoint</span></span>](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [<span data-ttu-id="13c0f-109">Kesalahan Membagikan/Menghentikan Pewarisan</span><span class="sxs-lookup"><span data-stu-id="13c0f-109">Error Share/Break Inheritance</span></span>](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+<span data-ttu-id="8bad0-106">Anda mungkin juga menerima kesalahan ini saat mencoba membagikan atau menghentikan pewarisan folder.</span><span class="sxs-lookup"><span data-stu-id="8bad0-106">You might also receive this error when trying to share or break the inheritance of a folder.</span></span> <span data-ttu-id="8bad0-107">Melihat [galat berbagi/Break warisan](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span><span class="sxs-lookup"><span data-stu-id="8bad0-107">See [Error Share/Break Inheritance](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).</span></span>
