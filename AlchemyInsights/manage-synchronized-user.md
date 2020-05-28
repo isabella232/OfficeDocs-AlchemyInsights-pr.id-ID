@@ -1,5 +1,5 @@
 ---
-title: Mengelola disinkronisasi pengguna
+title: Kelola pengguna yang disinkronkan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541999"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407353"
 ---
-# <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>Mampu mengatur alamat email utama atau mengubah atribut pengguna
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Tidak dapat menetapkan alamat email utama, mengubah atribut pengguna, atau menghapus/menghapus pengguna disinkronkan
 
-Jika bantu directory synchronization diaktifkan untuk lingkungan Anda, beberapa atribut pengguna atau objek tidak dapat diubah menggunakan Microsoft 365 admin center.
+Jika sinkronisasi direktori diaktifkan untuk lingkungan Anda, beberapa atribut pengguna atau objek tidak dapat diubah menggunakan Microsoft 365 Admin Center.
 
-Untuk sepenuhnya mengelola disinkronisasi pengguna dan semua atribut mereka, menggunakan direktori aktif lokal pengguna dan grup manajemen konsol Anda (adsiedit.msc).  
+Untuk sepenuhnya mengelola disinkronkan pengguna dan semua atribut mereka, gunakan pengguna direktori aktif lokal dan grup konsol manajemen (ADSIEDIT. MSC).  
 
-Atau, Anda dapat mengubah pengguna individu atau atribut untuk disinkronisasi pengguna menggunakan powershell seperti ditunjukkan dalam contoh-contoh umum ini: 
-- Set-MsolUser - UserPrincipalName user@yourdomain.onmicrosoft.com - AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com
-- Set-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com" - DisplayName "Pengguna uji" - LastName "Pengguna"-jabatan "Manajer"-Departemen "SDM"
-- Hapus-MsolUser - UserPrincipalName "user@yourdomain.onmicrosoft.com
+Atau, Anda dapat mengubah masing-masing pengguna atau atribut untuk disinkronkan pengguna menggunakan PowerShell seperti yang ditunjukkan dalam contoh umum ini: 
+- `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
+
+- `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
+
+- `Remove-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com`
