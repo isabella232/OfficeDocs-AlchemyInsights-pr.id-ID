@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021643"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354091"
 ---
 # <a name="teams-admin-center"></a>Pusat Admin Teams
 
@@ -30,4 +30,6 @@ Jika tidak dapat mengakses Pusat Admin Teams, lihat item berikut:
 Jika pengguna tidak muncul di Pusat Admin Teams, lihat item berikut:
 
 - Apakah Anda membuat pengguna atau menetapkan lisensi dalam 24 jam terakhir? Pastikan Anda menunggu setidaknya 24 jam sebelum membuka tiket dukungan.
-- Pastikan Anda menetapkan lisensi yang sesuai? 
+- Pastikan Anda menetapkan lisensi yang sesuai?
+- Jika Anda memiliki direktori aktif di tempat, verifikasi bahwa [nilai msRTCSIP-PrimaryUserAddress atau alamat SIP di bidang ProxyAddresses di direktori aktif lokal Anda unik dan format cocok](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**username** dari pengguna dari [Microsoft 365 Admin Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jika Anda bermaksud untuk menjaga Skype untuk penyebaran server bisnis dan memiliki pengguna di lokasi dan online: Ikuti **"Siapkan hibrida dengan tim dan Skype untuk bisnis online"** di Skype untuk panel kontrol server bisnis dan memindahkan pengguna online.

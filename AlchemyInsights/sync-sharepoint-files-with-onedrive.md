@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767036"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343212"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Memecahkan masalah “Buka dengan Explorer” di SharePoint Online
 
@@ -28,9 +28,6 @@ Untuk memecahkan masalah Buka dengan Explorer, ikuti langkah-langkah dan praktik
 - [Menyalin atau memindahkan file pustaka menggunakan Buka dengan Explorer](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **Catatan:**
+>- Buka dengan Explorer hanya didukung di Internet Explorer 10 atau 11. Buka dengan Explorer tidak dapat digunakan di Windows dengan Microsoft Edge, Google Chrome, Mozilla Firefox, atau pada platform Mac. Karena alasan ini, opsi Tampilan Explorer mungkin berwarna abu-abu.
 >
 >- Tombol Buka dengan Explorer tidak muncul dalam pengalaman pustaka yang baru. Klik menu menurun **Tampilan** di bagian kanan atas (nama menu menurun berubah menurut tampilan Anda saat ini), lalu klik **Tampilkan di File Explorer**.
->
->- Buka dengan Explorer hanya didukung di Internet Explorer 10 atau 11. Buka dengan Explorer tidak dapat digunakan di Windows dengan Microsoft Edge, Google Chrome, Mozilla Firefox, atau pada platform Mac. Karena alasan ini, opsi Tampilan Explorer mungkin berwarna abu-abu.
-
-
