@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062287"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417607"
 ---
 # <a name="declined-credit-card"></a>Kartu kredit yang ditolak
 
@@ -28,4 +28,4 @@ Untuk mempelajari lebih lanjut, lihat "Bagaimana jika kartu kredit saya telah ke
   
 Jika Anda terus melihat pesan "ditolak", hubungi bank Anda. Mungkin saja kartu kredit Anda tidak aktif — misalnya, jika Anda baru-baru ini menerima kartu kredit melalui pos dengan tanggal kedaluwarsa yang diperbarui, Anda mungkin masih perlu mengaktifkannya. Bank Anda juga dapat memberi tahu Anda jika kartu kredit Anda tidak disetujui untuk transaksi online, internasional, atau berulang.
   
-Untuk informasi tambahan, lihat [memecahkan masalah kartu kredit dan rekening bank](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Untuk informasi tambahan, lihat [mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
