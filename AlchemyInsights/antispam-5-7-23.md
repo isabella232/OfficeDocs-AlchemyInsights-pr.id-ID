@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676500"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506446"
 ---
 # <a name="fix-email-delivery-issues-for-error-code-5723"></a>Memperbaiki masalah pengiriman email untuk kode galat 5.7.23
 
 Verifikasikan data DNS SPF untuk domain Anda di pemeriksa data SPF atau DNS yang tersedia untuk umum di web.
 
-Verifikasi bahwa pesan keluar tidak diidentifikasi sebagai spam oleh Microsoft dan diarahkan melalui [Pool pengiriman berisiko tinggi](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). Pesan di Pool pengiriman berisiko tinggi tidak akan lulus pemeriksaan SPF, sehingga tidak akan diterima oleh organisasi email tujuan.
+Verifikasi bahwa pesan keluar tidak diidentifikasi sebagai spam oleh Microsoft dan diarahkan melalui [Pool pengiriman berisiko tinggi](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Pesan di Pool pengiriman berisiko tinggi tidak akan lulus pemeriksaan SPF, sehingga tidak akan diterima oleh organisasi email tujuan.
 
 Jika masalah masih terjadi, Anda mungkin perlu menghubungi admin host surat yang sedang Anda coba untuk mengirim email. Catat kesalahan eksternal terperinci yang tersedia dalam pesan pentalan. Dukungan Microsoft mungkin tidak dapat membantu lebih lanjut.

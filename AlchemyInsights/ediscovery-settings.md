@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911151"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507101"
 ---
 # <a name="ediscovery-settings"></a>Pengaturan eDiscovery
 
@@ -28,4 +28,4 @@ eDiscovery/konten pencarian memungkinkan Anda untuk mencari, tahan, dan mengeksp
 - Pelajari tentang izin yang diperlukan untuk melakukan pencarian eDiscovery dari [izin yang diperlukan untuk pencarian eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
 - Jika penelusuran Anda tidak mengembalikan hasil yang diharapkan, lihat [penelusuran tidak mengembalikan hasil yang diharapkan](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Untuk informasi lebih lanjut tentang eDiscovery, lihat [eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Untuk informasi lebih lanjut tentang eDiscovery, lihat [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

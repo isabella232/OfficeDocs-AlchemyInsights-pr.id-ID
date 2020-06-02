@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737372"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506525"
 ---
 # <a name="creating-email-signatures"></a>Membuat tanda tangan email
 
@@ -29,7 +29,7 @@ Artikel ini akan membantu Anda membuat tanda tangan email di Outlook.
 
 - Saya ingin membuat tanda tangan email menggunakan Outlook.com: [membuat dan menambahkan tanda tangan email di Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Saya ingin membuat tanda tangan email global untuk semua email yang dikirim dari perusahaan saya: [membuat tanda tangan dan sanggahan di seluruh organisasi](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
+- Saya ingin membuat tanda tangan email global untuk semua email yang dikirim dari perusahaan saya: [membuat tanda tangan dan sanggahan di seluruh organisasi](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
  **Tips:** Tanda tangan di seluruh organisasi disebut sebagai "sanggahan."
   

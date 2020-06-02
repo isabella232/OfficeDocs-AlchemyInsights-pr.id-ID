@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010257"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507589"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Menyebarkan Microsoft 365 Apps untuk perusahaan untuk digunakan bersama di RDS, terminal server, atau VDI
 
@@ -38,9 +38,9 @@ Untuk memperbaiki kesalahan yang terkait dengan aktivasi komputer bersama:
 
 Jika Anda ingin menginstal Microsoft 365 aplikasi untuk perusahaan di RDS dari Microsoft 365 Admin Center, ***yang menggunakan pengaturan instalasi default***, gunakan langkah-langkah berikut ini:
 
-1.    Periksa langganan apa yang Anda miliki. [Pelajari caranya](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Jika perlu, beralih ke langganan yang berbeda. [Pelajari caranya](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Jika Office sudah diinstal di RDS server menggunakan langganan Microsoft lainnya, bongkar. Misalnya, dengan pergi ke **Control Panel** > **Uninstall program**. Membongkar menggunakan [dukungan Microsoft dan pemulihan asisten](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda menjalankan ke masalah.
+1.    Periksa langganan apa yang Anda miliki. [Pelajari caranya](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Jika perlu, beralih ke langganan yang berbeda. [Pelajari caranya](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Jika Office sudah diinstal di RDS server menggunakan langganan Microsoft lainnya, bongkar. Sebagai contoh, dengan pergi ke **Control Panel**  >  **Uninstall program**. Membongkar menggunakan [dukungan Microsoft dan pemulihan asisten](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda menjalankan ke masalah.
 4.    Di RDS server, masuk ke Pusat admin Microsoft 365 dengan akun administrator dan [menginstal microsoft 365 aplikasi untuk perusahaan](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Setelah Office diinstal, ***jangan membuka atau masuk*** ke aplikasi Office apa pun.
 6.    Di RDS server, Aktifkan aktivasi komputer bersama dengan mengedit registri dengan mengikuti langkah berikut:

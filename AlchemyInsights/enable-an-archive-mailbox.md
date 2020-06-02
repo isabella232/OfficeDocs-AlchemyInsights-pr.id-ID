@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788669"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507029"
 ---
 # <a name="enable-an-archive-mailbox"></a>Mengaktifkan kotak pesan arsip
 
@@ -23,11 +23,11 @@ Kotak surat arsip di Microsoft 365 (juga disebut arsip *online* atau *arsip di t
   
 Berikut adalah cara membuat kotak pesan arsip:
   
-1. Pergi ke [https://protection.office.com](https://protection.office.com).
+1. Pergi ke [https://protection.office.com](https://protection.office.com) .
 
 2. Masuk ke Microsoft 365 menggunakan akun admin Anda.
 
-3. &amp; Di sebelah kiri pusat kepatuhan keamanan, pilih **Arsip** **tata kelola** \> informasi.
+3. Di sebelah kiri &amp; pusat kepatuhan keamanan, pilih Arsip **tata kelola informasi** \> **Archive**.
 
 4. Pilih pengguna kotak surat arsip yang ingin Anda Aktifkan.
 
@@ -43,7 +43,7 @@ Untuk mengaktifkan Arsip untuk kotak surat bersama:
 
 1. Buka [Pusat admin Exchange](https://outlook.office365.com/ecp) dan masuk menggunakan akun admin Anda.
 
-2. Buka **penerima** > **bersama**.
+2. Buka **penerima**  >  **bersama**.
 
 3. Pilih kotak pesan bersama.
 
@@ -51,6 +51,6 @@ Untuk mengaktifkan Arsip untuk kotak surat bersama:
 
 Untuk informasi selengkapnya, lihat:
   
-- [Mengaktifkan kotak pesan arsip](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Mengaktifkan kotak pesan arsip](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Menyiapkan kebijakan pengarsipan dan penghapusan](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

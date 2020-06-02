@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713469"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506741"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Serangan Simulator di Microsoft 365
 
 - Apakah Anda hilang Attack Simulator? Attack Simulator memerlukan **office 365 Advanced ancaman Protection Plan 2 (ATP rencana 2)** atau **Office 365 Enterprise E5**. Serangan Simulator **tidak** termasuk dalam Office 365 Advanced ancaman perlindungan rencana 1 (ATP rencana 1), Office 365 Enterprise E3, atau Microsoft 365 aplikasi untuk langganan bisnis.
 
-- Account yang Anda gunakan untuk meluncurkan simulasi serangan memerlukan global administrator atau izin administrator keamanan dan otentikasi multi faktor (MFA). Untuk informasi selengkapnya tentang persyaratan Attack Simulator, lihat [topik ini](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Account yang Anda gunakan untuk meluncurkan simulasi serangan memerlukan global administrator atau izin administrator keamanan dan otentikasi multi faktor (MFA). Untuk informasi selengkapnya tentang persyaratan Attack Simulator, lihat [topik ini](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Hal penting yang perlu diketahui tentang **Brute Force password** Attack simulasi:
 
