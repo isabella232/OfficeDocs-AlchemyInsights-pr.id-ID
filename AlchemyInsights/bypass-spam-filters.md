@@ -12,13 +12,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: bc0f5a050c74eb551282b10f43a14ae6303cb48e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712138"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506194"
 ---
 # <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Bypass Spam Filtering untuk membolehkan pesan tertentu?
 
-Sebaiknya [berhati-hatilah](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) saat membuat daftar Izinkan. Misalnya, jika Anda mengizinkan domain Anda sendiri, pengirim berbahaya akan dapat menipu dan mengirim sebagai domain Anda.  Sebagai gantinya, kami merekomendasikan [panduan pemecahan masalah positif palsu](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)ini, yang akan membantu Anda menentukan mengapa pesan sah ditandai sebagai spam, dan apa yang dapat Anda lakukan untuk mengizinkan pengiriman pesan dengan aman.
+Sebaiknya [berhati-hatilah](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) saat membuat daftar Izinkan. Misalnya, jika Anda mengizinkan domain Anda sendiri, pengirim berbahaya akan dapat menipu dan mengirim sebagai domain Anda.  Sebagai gantinya, kami merekomendasikan [panduan pemecahan masalah positif palsu](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)ini, yang akan membantu Anda menentukan mengapa pesan sah ditandai sebagai spam, dan apa yang dapat Anda lakukan untuk mengizinkan pengiriman pesan dengan aman.

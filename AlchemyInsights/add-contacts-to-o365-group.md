@@ -13,15 +13,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 95874a8d12c9ba8c5214f1a7fbb77f9cfc9a4db8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 802c9ab347033038860bb12bf6f44514698ee281
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911043"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505238"
 ---
 # <a name="add-contacts-to-an-microsoft-365-group"></a>Menambahkan kontak ke Microsoft 365 grup
 
 Pemilik Grup dapat menambahkan pengguna eksternal dan kontak e-mail di Outlook dengan mengikuti petunjuk berikut: [menambahkan dan menghapus anggota grup di Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-Anda juga dapat menambahkan atau menghapus anggota grup di admin Portal: [menambah atau menghapus anggota dari grup microsoft 365 menggunakan pusat admin microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/add-or-remove-members-from-groups)
+Anda juga dapat menambahkan atau menghapus anggota grup di admin Portal: [menambah atau menghapus anggota dari grup microsoft 365 menggunakan pusat admin microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

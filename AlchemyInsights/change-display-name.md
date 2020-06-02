@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 870b96cf04e69722690cbd50083899e32b6811b1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706974"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506122"
 ---
 # <a name="change-your-display-name"></a>Mengubah nama tampilan
   
 Untuk mengubah nama tampilan Anda di Outlook, gunakan langkah berikut.
   
-1. Di Outlook, pilih **File** \> **setelan akun** \> file pengaturan **akun**.
+1. Di Outlook, pilih setelan akun **file** pengaturan \> **Account Settings** \> **akun**.
 
 2. Pilih akun email dan kemudian pilih **Ubah**.
 
     > [!NOTE]
-    > Jika Anda tidak melihat opsi untuk mengubah nama tampilan, Anda mungkin menggunakan akun email Microsoft Exchange. Dalam hal ini, Anda perlu menghubungi administrator Anda untuk mengubah nama tampilan Anda. Lihat [mengubah nama pengguna dan alamat email](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Jika Anda tidak melihat opsi untuk mengubah nama tampilan, Anda mungkin menggunakan akun email Microsoft Exchange. Dalam hal ini, Anda perlu menghubungi administrator Anda untuk mengubah nama tampilan Anda. Lihat [mengubah nama pengguna dan alamat email](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Setelah Anda mengubah nama tampilan, klik **OK** untuk menyimpan perubahan. Diperlukan waktu beberapa jam agar perubahan Anda dapat dicerminkan di seluruh organisasi.
 
