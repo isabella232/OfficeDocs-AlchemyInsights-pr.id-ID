@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720255"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510755"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Folder item dapat dipulihkan penuh
 
@@ -35,10 +35,10 @@ Bila folder item dapat dipulihkan mencapai batas penyimpanan, fungsi kotak pesan
 
 Untuk kotak pesan yang tidak di tahan, admin dapat menggunakan `Search-Mailbox -SearchDumpsterOnly -DeleteContent` perintah di Exchange Online PowerShell untuk menghapus item dalam folder item dapat dipulihkan. Untuk informasi selengkapnya, lihat topik berikut ini:
 
-- [Mencari dan menghapus pesan](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Mencari dan menghapus pesan](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Kotak pesan penelusuran](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Untuk kotak pesan yang sedang di tahan, admin harus menghapus terus sebelum mereka dapat menghapus item dari folder Item bisa dipulihkan. Untuk selengkapnya, lihat [menghapus item di folder item dapat dipulihkan dari kotak pesan berbasis Internet yang akan ditahan](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Untuk kotak pesan yang sedang di tahan, admin harus menghapus terus sebelum mereka dapat menghapus item dari folder Item bisa dipulihkan. Untuk selengkapnya, lihat [menghapus item di folder item dapat dipulihkan dari kotak pesan berbasis Internet yang akan ditahan](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Untuk membantu mencegah folder item dapat dipulihkan menjadi penuh, admin dapat meningkatkan batas penyimpanan folder item dapat dipulihkan untuk kotak pesan yang ditangguhkan dan mengatur kebijakan retensi kotak pesan yang memindahkan item dari folder item dapat dipulihkan ke kotak pesan arsip pengguna. Lihat [meningkatkan kuota item dapat dipulihkan untuk kotak pesan yang akan ditahan](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Untuk membantu mencegah folder item dapat dipulihkan menjadi penuh, admin dapat meningkatkan batas penyimpanan folder item dapat dipulihkan untuk kotak pesan yang ditangguhkan dan mengatur kebijakan retensi kotak pesan yang memindahkan item dari folder item dapat dipulihkan ke kotak pesan arsip pengguna. Lihat [meningkatkan kuota item dapat dipulihkan untuk kotak pesan yang akan ditahan](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

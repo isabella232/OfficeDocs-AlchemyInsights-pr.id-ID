@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911834"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510179"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan pencarian konten dan pencarian eDiscovery
 
@@ -32,6 +32,6 @@ Menggunakan alat pencarian konten di pusat kepatuhan & keamanan untuk cepat mene
 4. Masukkan kondisi pencarian yang diperlukan termasuk kata kunci dan lokasi konten.  
 5. Klik **simpan & Jalankan** untuk menamai pencarian, mulai, lalu pratinjau hasilnya.
 
-Untuk petunjuk terperinci tentang penelusuran konten, mengekspor hasil, dan membuat kasus eDiscovery untuk menahan data, lihat [penelusuran konten](https://docs.microsoft.com/office365/securitycompliance/content-search) dan [kasus eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Untuk petunjuk terperinci tentang penelusuran konten, mengekspor hasil, dan membuat kasus eDiscovery untuk menahan data, lihat [penelusuran konten](https://docs.microsoft.com/microsoft-365/compliance/content-search) dan [kasus eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Pahami lebih lanjut tentang penelusuran konten dengan meninjau [persyaratan dan batasan](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) serta [menyelidiki item yang diindeks sebagian](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) dan hasil lainnya yang harus diperhatikan.
+Pahami lebih lanjut tentang penelusuran konten dengan meninjau [persyaratan dan batasan](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) serta [menyelidiki item yang diindeks sebagian](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) dan hasil lainnya yang harus diperhatikan.

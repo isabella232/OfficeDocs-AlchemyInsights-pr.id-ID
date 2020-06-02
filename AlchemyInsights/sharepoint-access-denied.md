@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742146"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510503"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Memecahkan masalah Akses ditolak pesan
 
@@ -21,7 +21,7 @@ Jika Anda menerima pesan Akses ditolak saat berusaha menjelajah situs SharePoint
 
 **Tambahkan dan lisensi pengguna**
 
-Pastikan bahwa Anda [menetapkan lisensi untuk pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Pastikan bahwa Anda [menetapkan lisensi untuk pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Menetapkan izin**
 
