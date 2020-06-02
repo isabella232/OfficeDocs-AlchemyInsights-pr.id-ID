@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d00e9a23-6443-4f4d-8ea7-bb75fb590b74
-ms.openlocfilehash: 4102041ee808918e5bc19c40f7ea10be934216a2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7569a7c4a6a6393cf7a9a3b54208c6b20b56d243
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766892"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509783"
 ---
-# <a name="set-up-domain-and-users"></a><span data-ttu-id="c65f4-102">Menyiapkan domain dan pengguna</span><span class="sxs-lookup"><span data-stu-id="c65f4-102">Set up domain and users</span></span>
+# <a name="set-up-domain-and-users"></a><span data-ttu-id="ddba8-102">Menyiapkan domain dan pengguna</span><span class="sxs-lookup"><span data-stu-id="ddba8-102">Set up domain and users</span></span>
 
-<span data-ttu-id="c65f4-103">Saat Anda siap menyiapkan domain dan pengguna, Tonton video singkat ini:</span><span class="sxs-lookup"><span data-stu-id="c65f4-103">When you're ready to set up your domain and users, watch this quick video:</span></span>
+<span data-ttu-id="ddba8-103">Saat Anda siap menyiapkan domain dan pengguna, Tonton video singkat ini:</span><span class="sxs-lookup"><span data-stu-id="ddba8-103">When you're ready to set up your domain and users, watch this quick video:</span></span>
   
 ![Browser Anda tidak mendukung video.](media/MSN_Video_Widget.gif)
   
-<span data-ttu-id="c65f4-106">Untuk informasi selengkapnya, lihat [FAQ domain.](https://docs.microsoft.com/office365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="c65f4-106">For more information, see the [Domains FAQ.](https://docs.microsoft.com/office365/admin/setup/domains-faq)</span></span>
+<span data-ttu-id="ddba8-106">Untuk informasi selengkapnya, lihat [FAQ domain.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span><span class="sxs-lookup"><span data-stu-id="ddba8-106">For more information, see the [Domains FAQ.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)</span></span>
