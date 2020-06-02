@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671244"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508775"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Apa yang harus dilakukan jika ukuran kotak surat Anda sudah 100GB
 
@@ -30,8 +30,8 @@ Untuk mengaktifkan pengarsipan email:
     
 3. Di panel rincian di bawah **arsip di tempat**, pilih **Aktifkan**. 
     
-4. Setelah beberapa menit, folder baru akan muncul di Outlook pengguna di web yang disebut *arsip di tempat* , atau di aplikasi Outlook yang disebut * \<nama\> Arsip online* . Pengguna Anda dapat menyeret dan menjatuhkan email ke arsip. 
+4. Setelah beberapa menit, folder baru akan muncul di Outlook pengguna di web yang disebut *arsip di tempat* , atau di aplikasi Outlook yang disebut * \<name\> Arsip online-* . Pengguna Anda dapat menyeret dan menjatuhkan email ke arsip. 
     
-Anda dapat mengakses penyimpanan dalam jumlah yang tidak terbatas untuk pengarsipan. Untuk mempelajari lebih lanjut, lihat [mengaktifkan pengarsipan tak terbatas](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Anda dapat mengakses penyimpanan dalam jumlah yang tidak terbatas untuk pengarsipan. Untuk mempelajari lebih lanjut, lihat [mengaktifkan pengarsipan tak terbatas](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 

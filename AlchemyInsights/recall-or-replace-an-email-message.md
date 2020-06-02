@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742758"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509459"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Ingat atau ganti pesan email di Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742758"
 
 1. Di panel folder di sebelah kiri jendela Outlook, pilih folder Item Terkirim.
 2. Buka pesan yang ingin Anda ingat. Anda harus mengklik dua kali untuk membuka pesan. Memilih pesan sehingga muncul di panel baca tidak akan memungkinkan Anda untuk mengingat pesan.
-3. Dari tab Pesan, pilih **tindakan** > yang**mengingat pesan ini**.
+3. Dari tab Pesan, pilih **tindakan**yang  >  **mengingat pesan ini**.
 4. Pilih **Hapus salinan pesan ini yang belum dibaca** atau **Hapus salinan yang belum dibaca dan ganti dengan pesan baru**, lalu pilih **OK**.
 5. Jika Anda mengirim pesan pengganti, tulis pesan, lalu pilih **kirim**.
 6. Keberhasilan atau kegagalan pesan ingat tergantung pada pengaturan penerima di Outlook.
@@ -39,7 +39,7 @@ Untuk informasi lebih lanjut, termasuk cara memeriksa Recall, lihat [ingat atau 
 
 Mencari ***dan menghapus pesan email di organisasi Anda*** Untuk mencari dan menghapus pesan email di organisasi Anda, sangat mudah jika Anda adalah admin global. Jika Anda bukan admin global, akun Anda harus ditambahkan ke grup peran pengelola eDiscovery, atau ke peran manajemen penelusuran kepatuhan. Untuk menghapus pesan, Anda harus bergabung dengan grup peran manajemen organisasi atau peran manajemen pencarian dan pembersihan. Izin untuk peran ini ditetapkan di [pusat kepatuhan & keamanan](https://protection.office.com/).
 
-1. [Membuat pencarian konten](https://docs.microsoft.com/office365/securitycompliance/content-search) untuk menemukan pesan yang akan dihapus.
+1. [Membuat pencarian konten](https://docs.microsoft.com/microsoft-365/compliance/content-search) untuk menemukan pesan yang akan dihapus.
 2. [Menyambung ke keamanan & kepatuhan pusat PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
 Jika Anda menggunakan MFA, lihat [tersambung ke Microsoft 365 keamanan & pusat kepatuhan PowerShell menggunakan otentikasi multi faktor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

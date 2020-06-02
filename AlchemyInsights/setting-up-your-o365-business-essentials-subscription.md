@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767792"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509351"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Menyiapkan langganan O365 bisnis Essentials Anda
 
@@ -23,11 +23,11 @@ Buat akun Microsoft 365 dan tambahkan domain Anda
     
 - Kunjungi [Pusat admin Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Untuk memulai Wisaya, pilih **pergi ke penataan**. Untuk mempelajari lebih lanjut, lihat [menambahkan domain ke Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Untuk memulai Wisaya, pilih **pergi ke penataan**. Untuk mempelajari lebih lanjut, lihat [menambahkan domain ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Impor email
   
-- Pindahkan email dan kontak yang ada dari sistem email lain ke kotak surat Microsoft 365 sehingga Anda dapat melihat semuanya di satu tempat. Untuk opsi migrasi, [migrasikan email dan kontak ke Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Pindahkan email dan kontak yang ada dari sistem email lain ke kotak surat Microsoft 365 sehingga Anda dapat melihat semuanya di satu tempat. Untuk opsi migrasi, [migrasikan email dan kontak ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Menyambungkan akun email
     
@@ -41,6 +41,6 @@ Menyimpan file secara online
   
 - Untuk mempelajari lokasi penyimpanan mana yang terbaik untuk bisnis Anda, lihat [di mana Anda dapat menyimpan file di Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Semua orang mendapatkan lokasi penyimpanan awan **OneDrive** secara otomatis saat Anda membuat akun Microsoft 365 untuk mereka. Dengan OneDrive, Anda dapat mengakses file di seluruh komputer, ponsel, dan tablet. 
     
-Rincian langkah untuk penataan dapat ditemukan di [artikel ini](https://docs.microsoft.com/office365/admin/setup/setup).
+Rincian langkah untuk penataan dapat ditemukan di [artikel ini](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

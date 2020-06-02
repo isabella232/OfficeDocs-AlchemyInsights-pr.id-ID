@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716463"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508955"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Mengidentifikasi saat penerusan email eksternal dikonfigurasi pada kotak pesan
 
@@ -25,7 +25,7 @@ Ketika pengguna 365 Microsoft mengkonfigurasi penerusan email eksternal di kotak
 
 1. Masuk ke [Microsoft 365 keamanan & Compliance Center](https://protection.office.com/).
 
-2. Buka halaman pencarian **Search** > **log audit** penelusuran.
+2. Buka halaman penelusuran **Search**  >  **log audit** penelusuran.
 
 3. Pilih rentang tanggal di kolom tanggal **mulai** dan **tanggal akhir** . Anda tidak perlu menentukan nama pengguna. Verifikasi bidang **aktivitas** diatur untuk **Menampilkan hasil untuk semua aktivitas**.
 
@@ -39,4 +39,4 @@ Di hasil, klik **filter hasil** dan ketik **set-kotak surat** di kotak filter ak
 
 - **Userid**: pengguna yang dikonfigurasi penerusan email di kotak surat di kolom **ObjectID** .
 
-Untuk selengkapnya, lihat [menentukan siapa yang mengatur penerusan email untuk kotak pesan](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Untuk selengkapnya, lihat [menentukan siapa yang mengatur penerusan email untuk kotak pesan](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

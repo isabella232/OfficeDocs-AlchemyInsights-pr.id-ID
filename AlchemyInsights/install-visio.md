@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765992"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508667"
 ---
 # <a name="install-visio"></a>Menginstal Visio
 
@@ -25,7 +25,7 @@ Visio dijual sebagai aplikasi yang berdiri sendiri jadi jika Anda belum memiliki
 
 **Catatan**: Visio online paket 1 tidak termasuk versi desktop Visio, jadi tidak ada penginstalan yang mungkin dilakukan.
 
-Jika Anda memiliki langganan Visio online paket 2, Anda harus [menetapkan lisensi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) untuk pengguna atau mereka tidak memiliki opsi untuk menginstal Visio dari **penginstalan saya** di [portal akun saya](https://portal.office.com/account#installs). 
+Jika Anda memiliki langganan Visio online paket 2, Anda harus [menetapkan lisensi](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) untuk pengguna atau mereka tidak memiliki opsi untuk menginstal Visio dari **penginstalan saya** di [portal akun saya](https://portal.office.com/account#installs). 
 
 Versi lisensi non-Borongan Visio Standard atau Visio Professional dikaitkan dengan akun Microsoft dan tidak dapat dikelola di pusat admin. Untuk menginstal versi ini, pengguna harus masuk ke [account.Microsoft.com](https://account.microsoft.com) dengan akun Microsoft yang terkait dengan versi Visio.
 
