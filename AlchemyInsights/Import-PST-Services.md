@@ -13,12 +13,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 054203a196fc9ea7157a3eb2c99efc6f98a191aa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687765"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502538"
 ---
 # <a name="microsoft-365-import-service"></a>Layanan Microsoft 365 impor
 
@@ -32,8 +32,8 @@ Untuk mengakses Layanan Impor dan memulai proses impor:
 
 3. Pada halaman **impor** , klik **pekerjaan impor baru**.
 
-4. Untuk menyelesaikan langkah di Wisaya, ikuti [petunjuk langkah demi langkah](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)ini.
+4. Untuk menyelesaikan langkah di Wisaya, ikuti [petunjuk langkah demi langkah](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)ini.
 
-**Penting**: untuk mengakses halaman **impor** di pusat kepatuhan & keamanan, Anda telah diberi [izin yang sesuai](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Penting**: untuk mengakses halaman **impor** di pusat kepatuhan & keamanan, Anda telah diberi [izin yang sesuai](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
 Jika Anda hanya ingin mengimpor PST ke kotak surat Anda, lihat [artikel ini](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

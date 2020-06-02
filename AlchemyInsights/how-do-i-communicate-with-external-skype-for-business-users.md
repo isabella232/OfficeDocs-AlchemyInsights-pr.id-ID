@@ -12,20 +12,20 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265091"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496278"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Izinkan komunikasi eksternal dengan Skype for Business 
 
 Apakah Anda ingin mengizinkan pengguna Skype for Business Anda untuk menghubungi pengguna di luar organisasi Anda? Lihat [mengizinkan pengguna menghubungi pengguna eksternal Skype for Business](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Data DNS harus disiapkan dengan benar untuk komunikasi eksternal agar berfungsi dengan baik. Periksa [di sini](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) untuk melihat apakah kami memiliki petunjuk khusus tentang cara mengatur data DNS dengan penyedia Anda. 
+Data DNS harus disiapkan dengan benar untuk komunikasi eksternal agar berfungsi dengan baik. Periksa [di sini](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) untuk melihat apakah kami memiliki petunjuk khusus tentang cara mengatur data DNS dengan penyedia Anda. 
 
-Apakah Anda hanya ingin mengaktifkan pengguna Skype for Business untuk menghubungi pengguna konsumen Skype? Melihat:
+Apakah Anda hanya ingin mengaktifkan pengguna Skype for Business untuk menghubungi pengguna konsumen Skype? Lihat:
 
 - [Biarkan pengguna Skype for Business menambahkan kontak Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
