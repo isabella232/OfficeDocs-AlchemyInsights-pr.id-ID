@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571263"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511979"
 ---
 # <a name="unable-to-delete-items"></a>Tidak dapat menghapus item
 
-Kebijakan retensi dapat menyebabkan ini, Anda perlu menonaktifkan atau mengecualikan masing-masing memegang yang menyebabkan masalah ini. Setelah kebijakan retensi atau tahan dihapus, mungkin diperlukan waktu hingga 24 jam agar perubahan diterapkan. Pastikan bahwa tidak ada pengaturan [kebijakan penyimpanan](https://docs.microsoft.com/office365/securitycompliance/retention-policies) pada item.
+Kebijakan retensi dapat menyebabkan ini, Anda perlu menonaktifkan atau mengecualikan masing-masing memegang yang menyebabkan masalah ini. Setelah kebijakan retensi atau tahan dihapus, mungkin diperlukan waktu hingga 24 jam agar perubahan diterapkan. Pastikan bahwa tidak ada pengaturan [kebijakan penyimpanan](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) pada item.
 
 Situs mungkin telah melebihi batas penyimpanan, meningkatkan [kuota situs](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) dan menghapus item.
 

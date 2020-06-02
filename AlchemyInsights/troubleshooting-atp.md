@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: c90c8e9cb23cba93883cc1148fcbca77c9e92408
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732405"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512593"
 ---
 # <a name="troubleshooting-office-365-advanced-threat-protection"></a>Pemecahan masalah Office 365 lanjut ancaman perlindungan
 
-- Apakah Anda melihat keterlambatan pengiriman pesan? Gunakan opsi [pengiriman dinamis](https://docs.microsoft.com/office365/securitycompliance/dynamic-delivery-and-previewing) di kebijakan lampiran aman ATP. Ini akan membantu menghindari penundaan pesan sekaligus melindungi penerima dari file berbahaya.
+- Apakah Anda melihat keterlambatan pengiriman pesan? Gunakan opsi [pengiriman dinamis](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) di kebijakan lampiran aman ATP. Ini akan membantu menghindari penundaan pesan sekaligus melindungi penerima dari file berbahaya.
 
 - Apakah Anda ingin melaporkan positif palsu atau negatif palsu ke Microsoft? Gunakan [link](https://www.microsoft.com/wdsi/filesubmission/) ini untuk mengirimkan file untuk analisis.
 

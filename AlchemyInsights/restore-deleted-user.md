@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784190"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511259"
 ---
 # <a name="restore-a-user"></a>Memulihkan pengguna
 
@@ -32,4 +32,4 @@ Memulihkan pengguna yang menggunakan langkah berikut:
 
 4. Klik **kirim email dan tutup**, dan Anda sudah selesai!
 
-Bukankah itu mudah? Untuk detail dan langkah lebih lanjut dengan cuplikan layar, bacalah artikel ini: [Pulihkan pengguna](https://docs.microsoft.com/office365/admin/add-users/restore-user). Jika Anda menyadari bahwa Anda perlu memulihkan kotak pesan pengguna, lihat: [menghapus atau memulihkan kotak pesan pengguna di Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Bukankah itu mudah? Untuk detail dan langkah lebih lanjut dengan cuplikan layar, bacalah artikel ini: [Pulihkan pengguna](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Jika Anda menyadari bahwa Anda perlu memulihkan kotak pesan pengguna, lihat: [menghapus atau memulihkan kotak pesan pengguna di Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
