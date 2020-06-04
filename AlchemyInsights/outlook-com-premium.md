@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6f82c9fc69e8c5fcb68be53ca49e70131bf02802
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 060c4e75961e77038ae3cfc4236d075e713ed521
+ms.sourcegitcommit: cd5283431f0b4ce289427c63cd27e5b36173a9da
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744772"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44545773"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
@@ -27,4 +27,4 @@ ms.locfileid: "43744772"
 **Pelanggan Baru**
 
 - Kami minta maaf, tapi Outlook.com Premium sekarang ditutup untuk pelanggan baru.
-- Banyak [fitur dan manfaat](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) sekarang disertakan dengan [langganan ke Office 365 Home dan Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Banyak [fitur dan manfaat](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) sekarang disertakan dengan [langganan Microsoft 365 Home dan Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
