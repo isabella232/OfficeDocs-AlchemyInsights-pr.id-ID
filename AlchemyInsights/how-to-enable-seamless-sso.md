@@ -1,5 +1,5 @@
 ---
-title: Cara mengaktifkan SSO mulus
+title: Cara mengaktifkan Seamless SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663866"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Cara mengaktifkan SSO mulus
+# <a name="how-to-enable-seamless-sso"></a>Cara mengaktifkan Seamless SSO
 
-Mengaktifkan SSO mulus melalui [iklan Azure terhubung](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Aktifkan SSO Seamless melalui [AZURE AD menyambung](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Jika Anda melakukan instalasi baru Azure iklan Connect, memilih [jalur instalasi kustom](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Pada halaman **pengguna masuk** , pilih opsi **mengaktifkan akses terusan** .
+Jika Anda melakukan instalasi baru Azure AD menyambung, pilih [jalur penginstalan kustom](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Di halaman **login pengguna** , pilih opsi **Aktifkan single sign-on** .
   
-Untuk memverifikasi bahwa Anda telah mengaktifkan SSO mulus dengan benar:
+Untuk memverifikasi bahwa Anda telah mengaktifkan Seamless SSO dengan benar:
   
-1. Masuk ke [pusat administrasi Azure Active Directory](https://aad.portal.azure.com) sebagai global admin.
+1. Masuk ke [Azure Active Directory pusat administrasi](https://aad.portal.azure.com) sebagai global admin.
 
-2. Pilih **Azure Active Directory** dalam pane kiri.
+2. Pilih **Azure Active Directory** di sebelah kiri.
 
-3. Verifikasikan bahwa mulus akses terusan **diaktifkan**.
+3. Pastikan bahwa akses terusan yang mulus **diaktifkan**.
 
-Untuk selengkapnya, lihat [Azure aktif direktori mulus Single Sign-On: cepat mulai](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Untuk mempelajari lebih lanjut, lihat [Azure Active Directory Seamless single sign-on: mulai cepat](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559484"
 ---
 # <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Mengirimkan permintaan dukungan PowerApps atau Microsoft Flow
 
-Jika Anda **PowerApps** atau pelanggan **Microsoft aliran** silahkan kirimkan tiket Anda melalui [platform kekuasaan Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)baru. Portal baru menyediakan jalur yang lebih langsung untuk dukungan berbantuan yang dioptimalkan untuk PowerApps dan produk-produk platform kekuasaan lainnya.
+Jika Anda adalah pelanggan **Powerapps** atau **Microsoft Flow** , kirimkan tiket Anda melalui [Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)yang baru. Portal baru menyediakan jalur yang lebih langsung untuk dukungan dibantu yang dioptimalkan untuk PowerApps dan produk Power platform lainnya.
 
-[Kirim permintaan dukungan Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Mengirimkan permintaan dukungan Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
