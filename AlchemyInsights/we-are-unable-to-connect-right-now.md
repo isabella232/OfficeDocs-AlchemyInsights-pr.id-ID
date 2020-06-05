@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716175"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581878"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Memperbaiki aplikasi Office "kami tidak dapat terhubung sekarang" pesan
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Memperbaiki aplikasi Microsoft 365 "kami tidak dapat terhubung sekarang" pesan
 
 Jika Anda menerima pesan ini, cobalah berikut ini:
 
-1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Office. Lihat [Microsoft URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Microsoft 365. Lihat [Microsoft URL dan kisaran alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Pergi ke **mulai** > **menjalankan**, dan kemudian ketik **Services. MSC**. Pastikan bahwa layanan berikut ini berjalan:
+2. Pergi ke **mulai**  >  **menjalankan**, dan kemudian ketik **Services. MSC**. Pastikan bahwa layanan berikut ini berjalan:
     - Jaringan tersambung perangkat Auto-setup
     - Layanan daftar jaringan
     - Kesadaran lokasi jaringan

@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511655"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581018"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Label sensitivitas tidak muncul
 
 Label sensitivitas memungkinkan Anda untuk mengklasifikasikan dan membantu melindungi konten sensitif Anda. Mereka dapat dibuat di Microsoft 365 kepatuhan pusat, Microsoft 365 pusat keamanan, atau Microsoft 365 keamanan & Compliance Center di bawah klasifikasi > sensitivitas label. Untuk mempelajari lebih lanjut tentang fitur ini, lihat [Ikhtisar label sensitivitas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Jika Anda mengonfigurasi label sensitivitas namun tidak muncul di aplikasi Office, periksa hal berikut:
+Jika Anda mengonfigurasi label sensitivitas namun tidak muncul di aplikasi Microsoft 365, periksa hal berikut:
 
 - Konfirmasikan bahwa label sensitivitas telah [dipublikasikan](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) ke pengguna dan grup yang Anda inginkan.
 

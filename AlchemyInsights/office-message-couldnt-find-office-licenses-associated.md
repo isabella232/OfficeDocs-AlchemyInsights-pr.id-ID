@@ -1,5 +1,5 @@
 ---
-title: Pesan aplikasi Office - Tidak dapat menemukan lisensi Office yang dikaitkan
+title: Pesan aplikasi Microsoft 365-tidak dapat menemukan lisensi Office yang terkait
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505094"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581654"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Pesan aplikasi Office - Tidak dapat menemukan lisensi Office yang dikaitkan
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Pesan aplikasi Microsoft 365-tidak dapat menemukan lisensi Office yang terkait
 
 Untuk memperbaiki kesalahan ini, coba hal berikut ini:
 
@@ -38,7 +38,7 @@ Jika masalah masih terjadi, cobalah langkah-langkah berikut:
 
 - Atur ulang status aktivasi Office. Lihat [Mengatur ulang status aktivasi Aplikasi Microsoft 365 untuk perusahaan](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Periksa firewall Anda, perangkat lunak antivirus, dan pengaturan proxy untuk memastikan mereka tidak memblokir akses aplikasi ke internet. 
+- Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy Anda untuk mengonfirmasi bahwa mereka tidak memblokir Microsoft 365 aplikasi akses ke internet. 
 
 Untuk solusi pemecahan masalah lainnya, lihat:
 

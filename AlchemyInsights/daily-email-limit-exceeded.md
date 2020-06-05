@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908707"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580336"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Melebihi batas email harian. Alur kerja ditangguhkan.
 
@@ -27,7 +27,7 @@ Galat ini mungkin diterima dalam skenario berikut:
 - Ketika Anda menjalankan alur kerja, pesan email tidak dikirim, dan Anda melihat perilaku berikut ini:
     - Untuk alur kerja menggunakan jenis platform SharePoint 2013, menjelajah ke halaman **status alur kerja** . Pada halaman status alur kerja, **status internal** diatur untuk **memulai**, dan informasi balon menampilkan **tidak dapat mengirim ke penerima**.
 
-Untuk mengatasi masalah ini, konfigurasikan alur kerja Anda untuk mengirim pesan email tanpa melebihi [batas pengirim Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Misalnya, gunakan jeda dalam alur kerja, mengirim email ke grup 365 Microsoft, grup distribusi atau grup keamanan Surat diaktifkan, atau mengirim pesan ke kurang dari 200 Penerima pada suatu waktu.
+Untuk mengatasi masalah ini, konfigurasikan alur kerja Anda untuk mengirim pesan email tanpa melebihi [batas pengirim Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Misalnya, gunakan jeda dalam alur kerja, mengirim email ke grup 365 Microsoft, grup distribusi atau grup keamanan Surat diaktifkan, atau mengirim pesan ke kurang dari 200 Penerima pada waktu.
 
 
 Untuk informasi selengkapnya, lihat [artikel](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)berikut ini.
