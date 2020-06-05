@@ -1,5 +1,5 @@
 ---
-title: Aplikasi Office tidak memulai/memulai
+title: Aplikasi Microsoft 365 tidak memulai/memulai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2531"
 - "9000572"
-ms.openlocfilehash: bed29ce271df96afe229275a079b9769591924a1
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: d30030995bbc495c21537620c9b4a3d5b8c34804
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908783"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576851"
 ---
-# <a name="office-apps-crash-stop-responding-or-dont-launch"></a>Aplikasi Office macet, berhenti merespons, atau tidak memulai
+# <a name="microsoft-365-apps-crash-stop-responding-or-dont-launch"></a>Microsoft 365 aplikasi crash, berhenti merespons, atau tidak memulai
 
-Untuk memperbaiki aplikasi Office macet atau lumpuh, cobalah opsi berikut ini:
+Untuk memperbaiki Microsoft 365 aplikasi macet atau lumpuh, cobalah opsi berikut ini:
 
 - [Menyelidiki kemungkinan masalah dengan Add-in yang](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d#bkmk_addins) diinstal untuk Office
-- Memeriksa apakah [perangkat lunak antivirus konflik](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) dengan aplikasi Office
+- Periksa apakah [perangkat lunak antivirus bertentangan](https://support.office.com/article/powerpoint-isn-t-responding-hangs-or-freezes-652ede6e-e3d2-449a-a07f-8c800dfb948d?ocmsassetID#bkmk_conflict) dengan aplikasi Microsoft 365
 - Verifikasi atau [instal pemutakhiran terbaru untuk Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
 - [Perbaiki Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) menggunakan panel kontrol
 - [Membongkar](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) dan menginstal ulang Office

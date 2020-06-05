@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 077d1d69f0c317d958163dcf07239cbdf35edcdb
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912897"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579436"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Izin pengguna di SharePoint dan OneDrive
 
@@ -27,7 +27,7 @@ Jika pengguna di organisasi Anda tidak dapat mengakses SharePoint atau OneDrive,
   
 1. Buka situs di browser web.
     
-2. Jika situs milik Grup 365 Microsoft, klik ikon pengaturan di kanan atas, dan kemudian klik **izin situs**. Klik **mengundang orang**, dan kemudian memilih untuk menambahkan anggota ke grup Microsoft 365 atau berbagi hanya situs. 
+2. Jika situs milik Grup Microsoft 365, klik ikon pengaturan di kanan atas, dan kemudian klik **izin situs**. Klik **mengundang orang**, dan kemudian memilih untuk menambahkan anggota ke grup Microsoft 365 atau berbagi hanya situs. 
     
     Untuk situs komunikasi, klik **bagikan situs** di kanan atas, masukkan nama orang tersebut, lalu pilih tingkat izin (baca, Edit, atau kontrol penuh). 
     

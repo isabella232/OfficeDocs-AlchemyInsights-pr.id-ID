@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 02368d6a06df90d76ee1bd5448819e7ffe12c18c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908347"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580012"
 ---
 # <a name="hide-microsoft-365-group-from-address-list-gal"></a>Sembunyikan Microsoft 365 grup dari daftar alamat (GAL)
 
-Untuk menyembunyikan grup Microsoft 365 dari daftar alamat (GAL) klien Exchange (seperti Outlook atau OWA), gunakan perintah berikut di EXO Shell:
+Untuk menyembunyikan Microsoft 365 grup dari alamat daftar (GAL) klien Exchange (seperti Outlook atau OWA), gunakan perintah berikut di EXO Shell:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 

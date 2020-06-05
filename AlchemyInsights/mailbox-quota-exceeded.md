@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 72449f1edff38ad0c7100da0d144b59f3072c1c3
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784694"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579796"
 ---
 # <a name="mailbox-quota-exceeded"></a>Kuota kotak pesan terlampaui
 
@@ -30,4 +30,4 @@ Anda telah melebihi kuota kotak pesan untuk akun Anda. Ada beberapa langkah yang
 
 4. Simpan lampiran Anda ke OneDrive sehingga tidak disimpan di kotak pesan. Lihat [batas penyimpanan di Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) untuk informasi lebih lanjut. 
 
-Jika Anda adalah pengguna Microsoft 365, Anda juga dapat meminta peningkatan kotak pesan dari admin IT.
+Jika Anda adalah pengguna Microsoft 365, Anda juga dapat meminta peningkatan kotak pesan dari admin IT Anda.
