@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki aplikasi Office Maaf, kami mengalami pesan masalah server sementara
+title: Memperbaiki aplikasi Microsoft 365 Maaf, kami mengalami pesan masalah server sementara
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6db04a437de8e50af349b5c690791981ae872f14
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764120"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582706"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Memperbaiki aplikasi Office "Maaf, kami mengalami masalah server sementara" pesan
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Memperbaiki aplikasi Microsoft 365 "Maaf, kami mengalami masalah server sementara" pesan
 
 Jika Anda menerima pesan ini, cobalah berikut ini:
 
-1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Office. Lihat [rentang URL dan alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy untuk mengonfirmasi bahwa mereka tidak memblokir akses internet ke aplikasi Microsoft 365. Lihat [rentang URL dan alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Pergi ke **mulai** > **menjalankan**, dan kemudian ketik **Services. MSC**. Pastikan bahwa layanan berikut ini berjalan:
+2. Pergi ke **mulai**  >  **menjalankan**, dan kemudian ketik **Services. MSC**. Pastikan bahwa layanan berikut ini berjalan:
     - Jaringan tersambung perangkat Auto-setup
     - Layanan daftar jaringan
     - Kesadaran lokasi jaringan

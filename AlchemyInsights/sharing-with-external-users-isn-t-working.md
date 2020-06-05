@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913005"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582778"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Memperbaiki masalah saat berbagi konten SharePoint dengan pengguna eksternal
 
 Pastikan berbagi eksternal diaktifkan untuk organisasi Anda:
   
-1. Buka [Halaman Add- &amp; in layanan di pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), dan klik **situs**.
+1. Buka [ &amp; Halaman Add-in layanan di pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), dan klik **situs**.
     
 2. Pastikan setelan diubah menjadi "aktif". Jika "hanya ada pengguna eksternal" dipilih, pastikan pengguna eksternal tercantum di pusat admin Microsoft 365.
     
@@ -32,7 +32,7 @@ Pastikan berbagi eksternal diaktifkan untuk situs. Untuk koleksi situs klasik:
     
 2. Pilih situs atau situs, dan pada pita, klik **berbagi**.
     
-Untuk situs tim yang dimiliki oleh grup 365 Microsoft, atau situs komunikasi:
+Untuk situs tim milik Grup 365 Microsoft, atau situs komunikasi:
   
 - Jenis situs baru ini memiliki setelan berbagi yang sama dengan setelan di seluruh organisasi, kecuali jika setelan di seluruh organisasi memungkinkan berbagi file menggunakan tautan yang tidak memerlukan masuk. Dalam hal ini, situs memungkinkan berbagi dengan pengguna eksternal baru dan yang ada yang masuk. Untuk mengubah pengaturan untuk situs tertentu, gunakan Pusat admin SharePoint baru atau PowerShell. [Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=871863).
     
