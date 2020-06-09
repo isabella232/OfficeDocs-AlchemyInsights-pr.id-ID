@@ -10,15 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: b56a676181ec551bc7943d5eea0c49cd279d9e37
-ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
+ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "41855780"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618013"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Galat: aturan pada komputer ini tidak cocok
 
-Ini adalah masalah yang diketahui dengan Outlook desktop. Tim Outlook menerapkan perbaikan awal di versi 12228,20332 yang dirilis pada 12/3/2019. Perbaikan tersebut tidak ditujukan untuk semua laporan yang kami terima.
-
 Untuk melihat status diperbarui masalah ini diketahui, lihat [aturan pada komputer ini tidak cocok aturan pada Microsoft Exchange](https://support.office.com/article/d032e037-b224-429e-b325-633afde9b5f0)
+
+Tim Outlook telah menerapkan perbaikan dalam membangun 12928,10000. Perbaikan ini sudah di Insider Fast dan akan pergi ke bulanan Channel pada akhir Juni 2020. Setelah Anda memiliki membangun tetap Anda mungkin mendapatkan prompt "aturan mana yang ingin Anda Simpan" satu terakhir kali. Pilih server ketika diminta dan kemudian kembali di Outlook dan mengaktifkan kembali aturan yang telah dinonaktifkan.
+
+Sampai perbaikan tersedia silakan gunakan trik berikut:
+
+**Penyelesaian**: dalam laporan terbaru, masalah telah terjadi bagi mereka yang hanya membuat aturan klien di Outlook desktop. Jika Anda terus mengalami masalah, pertimbangkan menghapus aturan dan kemudian membuat dan mengedit aturan hanya di OWA (Outlook Web App) hingga masalah teratasi.
+
+Jika Anda tidak dapat menghapus aturan secara manual Anda dapat menjalankan perintah Outlook saat Anda memulai Outlook dengan menjalankan Outlook. exe/cleanrules. Ini akan menghapus aturan klien dan server. Ini akan menghapus semua aturan untuk semua account di profil Outlook. Perintah ini selanjutnya didokumentasikan dalam artikel switch baris perintah.

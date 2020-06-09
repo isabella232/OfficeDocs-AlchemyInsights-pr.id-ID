@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010834"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617968"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams diinstal dengan pemutakhiran Office
 
 Microsoft teams disertakan sebagai bagian dari ***penginstalan baru*** Microsoft 365 aplikasi untuk perusahaan, Microsoft 365 aplikasi untuk bisnis, dan Office untuk Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan penginstalan Office baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Selain itu, dimulai dengan versi 1906 di bulanan saluran, tim secara bertahap akan ditambahkan ke ***ada instalasi*** Microsoft 365 aplikasi untuk perusahaan (dan Microsoft 365 aplikasi untuk bisnis) pada perangkat yang menjalankan Windows ketika Anda memperbarui instalasi yang sudah ada ke versi terbaru. Untuk informasi lebih lanjut, lihat [bagaimana dengan instalasi Office yang ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Selain itu, dimulai dengan versi 1906 di saluran saat ini, tim akan secara bertahap ditambahkan ke ***instalasi*** Microsoft 365 aplikasi untuk perusahaan (dan Microsoft 365 aplikasi untuk bisnis) pada perangkat yang menjalankan Windows saat Anda memperbarui instalasi yang sudah ada ke versi terbaru. Untuk informasi lebih lanjut, lihat [bagaimana dengan instalasi Office yang ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Catatan:** Jika tidak ingin menunggu jadwal peluncuran ini, Anda dapat menerapkan tim sebagai mandiri untuk pengguna dengan [mengikuti petunjuk ini](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), atau Anda dapat meminta pengguna untuk menginstal teams https://teams.microsoft.com/downloads.
+**Catatan:** Jika tidak ingin menunggu jadwal peluncuran ini, Anda dapat menerapkan tim sebagai mandiri untuk pengguna dengan [mengikuti petunjuk ini](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), atau Anda dapat meminta pengguna untuk menginstal teams https://teams.microsoft.com/downloads .
 
 Jika organisasi Anda belum siap untuk menggunakan teams, Anda dapat ***mengecualikan tim*** dari penginstalan Office [baru](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) atau [yang sudah ada](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) . Jika Anda ingin teams diinstal, namun tidak ingin tim memulai secara otomatis untuk pengguna setelah terinstal, lihat [mencegah Microsoft teams dimulai secara otomatis setelah penginstalan](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
