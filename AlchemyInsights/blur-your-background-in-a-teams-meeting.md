@@ -22,8 +22,8 @@ ms.locfileid: "42707714"
 
 Memburamkan latar belakang hanya dapat dilakukan dalam rapat yang dijadwalkan.
 
-- Untuk memulai rapat dengan memburamkan latar belakang, pindahkan penggeser buram—di sebelah kanan penggeser video—di sebelah kanan tampilan Pilih pengaturan audio dan video saat bergabung dalam rapat.
+- Untuk memulai rapat dengan memburamkan latar belakang, pindahkan penggeser buram, yakni penggeser di sebelah kanan penggeser video, ke kanan pada layar Pilih pengaturan audio dan video saat bergabung dalam rapat.
 
-- Untuk mengaktifkan latar belakang buram selama rapat, klik tombol **Opsi lainnya > Opsi lainnya** **> buramkan latar belakang saya**.
+- Untuk mengaktifkan latar belakang buram selama rapat, klik tombol **Opsi lainnya > Opsi lainnya** **> Buramkan latar belakang saya**.
 
-Untuk informasi lebih lanjut, lihat [Memburamkan latar belakang dalam rapat Teams](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Untuk informasi selengkapnya, lihat [Memburamkan latar belakang dalam rapat Teams](https://support.office.com/article/Blur-your-background-in-a-Teams-meeting-f77a2381-443a-499d-825e-509a140f4780).

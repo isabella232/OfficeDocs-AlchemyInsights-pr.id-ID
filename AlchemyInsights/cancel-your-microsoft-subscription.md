@@ -22,8 +22,8 @@ ms.locfileid: "42707746"
 
 1. Kunjungi [Layanan & langganan](https://account.microsoft.com/services/), lalu masuk dengan akun Microsoft yang Anda gunakan ketika membeli langganan.
 
-2. Temukan langganan Anda lalu klik **Kelola**. Jika Anda melihat **Aktifkan penagihan berulang**, bukan **mengelola**, lewati ke bagian Pemecahan masalah;  Atau, lanjutkan ke langkah 3.
+2. Temukan langganan Anda lalu klik **Kelola**. Jika Anda melihat **Aktifkan penagihan berulang**, bukan **Kelola**, lompat ke bagian Pemecahan masalah;  atau, lanjutkan ke langkah 3.
 
-3. Pada halaman berikutnya, klik **Batalkan** atau **Mutakhiran atau Batalkan**, tergantung tipe langganan Anda.
+3. Pada halaman berikutnya, klik **Batalkan** atau **Mutakhirkan atau Batalkan**, tergantung tipe langganan Anda.
 
 4. Ikuti instruksi di halaman untuk melanjutkan pembatalan.

@@ -21,9 +21,9 @@ ms.locfileid: "42707446"
 ---
 # <a name="increase-microsoft-365-security"></a>Meningkatkan Keamanan Microsoft 365
 
-Tinjau [konfigurasi keamanan yang disarankan](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) untuk Penyewa Microsoft 365 Anda.
+Tinjau [konfigurasi keamanan yang disarankan](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) untuk Penyewa Microsoft 365.
 
-- Pelajari [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) dan [ambil tindakan](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) untuk **meningkatkan skor Anda**.
+- Pelajari [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) dan [ambil tindakan](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) untuk **meningkatkan skor**.
 
 - Pelajari tentang [Merespons Insiden Keamanan](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), termasuk **akun yang diretas**.
 
