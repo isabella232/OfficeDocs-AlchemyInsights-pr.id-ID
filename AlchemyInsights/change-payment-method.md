@@ -2,7 +2,7 @@
 title: Mengubah metode pembayaran
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "277"
 - "4852"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: a0bbc046c28ec246090dbc275f6acb3ccbce8622
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: cf12baf7a9b40b56549f0d3c63f7a6be8d8a7cb9
+ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44221948"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154521"
 ---
 # <a name="change-payment-method"></a>Mengubah metode pembayaran
 
@@ -35,3 +35,5 @@ Anda dapat mengubah metode pembayaran dari **Pusat admin Microsoft 365**.
 7. Metode pembayaran baru sudah dipilih dalam daftar drop-down. Pilih **ganti**.
 
 Untuk mempelajari lebih lanjut, lihat [mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+
+Untuk mempelajari cara mengubah dari membayar dengan kartu kredit untuk pembayaran faktur, lihat [mengubah dari kartu kredit atau rekening bank untuk faktur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
