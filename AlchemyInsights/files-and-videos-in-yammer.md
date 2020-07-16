@@ -1,0 +1,38 @@
+---
+title: File dan video di heboh
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/15/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "6040"
+- "9003112"
+ms.openlocfilehash: e34e522f777d6228d8732ac88b5cfd2f5d1c3bdf
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.translationtype: MT
+ms.contentlocale: id-ID
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148351"
+---
+# <a name="files-and-videos-in-yammer"></a><span data-ttu-id="6a47c-102">File dan video di heboh</span><span class="sxs-lookup"><span data-stu-id="6a47c-102">Files and videos in Yammer</span></span>
+
+<span data-ttu-id="6a47c-103">File dapat dilampirkan ke pesan di heboh atau upload langsung ke grup.</span><span class="sxs-lookup"><span data-stu-id="6a47c-103">Files can be attached to messages in Yammer or uploaded directly to groups.</span></span> <span data-ttu-id="6a47c-104">Pengalaman pengguna sedikit berbeda antara heboh klasik dan baru, tapi file mendapatkan upload ke lokasi yang sama.</span><span class="sxs-lookup"><span data-stu-id="6a47c-104">The user experience differs slightly between classic and new Yammer, but the files get uploaded to the same locations.</span></span> <span data-ttu-id="6a47c-105">Untuk informasi lebih lanjut, lihat [melampirkan file atau gambar ke pesan heboh](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span><span class="sxs-lookup"><span data-stu-id="6a47c-105">For more info, see [Attach a file or image to a Yammer message](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-message-f576d4d1-ad66-4ce4-9c43-46cf75978dbf),</span></span>  
+
+<span data-ttu-id="6a47c-106">Saat pengguna mengalami masalah, coba upload dari browser atau perangkat lain.</span><span class="sxs-lookup"><span data-stu-id="6a47c-106">When users experience issues, try the upload from another browser or device.</span></span> <span data-ttu-id="6a47c-107">Gunakan koneksi jaringan tercepat dan browser terbaru yang tersedia.</span><span class="sxs-lookup"><span data-stu-id="6a47c-107">Use the fastest network connection and the most recent browser available.</span></span> <span data-ttu-id="6a47c-108">Menggunakan jendela browser baru untuk masuk lagi dapat membantu memastikan bahwa token Azure AD benar tersedia.</span><span class="sxs-lookup"><span data-stu-id="6a47c-108">Using a fresh browser window to sign in again can help ensure that the correct Azure AD tokens are available.</span></span>
+
+<span data-ttu-id="6a47c-109">Video upload ke heboh memerlukan meng-upload dan encoding.</span><span class="sxs-lookup"><span data-stu-id="6a47c-109">Video uploads to Yammer require upload and encoding.</span></span> <span data-ttu-id="6a47c-110">Untuk info lebih lanjut, lihat [video Posts in heboh meng-upload dan encode secara terpisah](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span><span class="sxs-lookup"><span data-stu-id="6a47c-110">For more info, see [Video posts in Yammer upload and encode separately](https://support.microsoft.com/office/video-posts-in-yammer-upload-and-encode-separately-5b3a348e-3a0a-4c4b-95b1-eabdf245ba25).</span></span> <span data-ttu-id="6a47c-111">Tergantung pada ukuran video, pengkodean dapat memakan waktu untuk menyelesaikan.</span><span class="sxs-lookup"><span data-stu-id="6a47c-111">Depending on video size, the encoding can take time to complete.</span></span> <span data-ttu-id="6a47c-112">Pertimbangkan untuk menggunakan [Microsoft Stream](https://docs.microsoft.com/stream/overview) untuk mengupload video yang Anda bagikan di Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6a47c-112">Consider using [Microsoft Stream](https://docs.microsoft.com/stream/overview) to upload videos you're sharing across Microsoft 365.</span></span>
+
+<span data-ttu-id="6a47c-113">**Membatasi unggahan file dan gambar**</span><span class="sxs-lookup"><span data-stu-id="6a47c-113">**Restricting file and image uploads**</span></span>
+
+<span data-ttu-id="6a47c-114">Heboh memungkinkan upload dari semua jenis file secara default.</span><span class="sxs-lookup"><span data-stu-id="6a47c-114">Yammer allows uploads of all file types by default.</span></span> <span data-ttu-id="6a47c-115">Administrator dapat mengubah pengaturan untuk memblokir upload file ke heboh.</span><span class="sxs-lookup"><span data-stu-id="6a47c-115">Administrators can change settings to block file uploads to Yammer.</span></span> <span data-ttu-id="6a47c-116">Untuk info lebih lanjut, lihat [membatasi siapa yang dapat mengunggah file dan membatasi format file](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span><span class="sxs-lookup"><span data-stu-id="6a47c-116">For more info, see [Restrict who can upload files and limit file formats](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#restrict-who-can-upload-files-and-limit-file-formats).</span></span> <span data-ttu-id="6a47c-117">Setelan terkait tersedia untuk membatasi GIF di Yammer.</span><span class="sxs-lookup"><span data-stu-id="6a47c-117">A related setting is available for restricting GIFs in Yammer.</span></span> <span data-ttu-id="6a47c-118">Untuk info selengkapnya, lihat [mengizinkan GIF tenor dalam pesan](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span><span class="sxs-lookup"><span data-stu-id="6a47c-118">For more info, see [Allow Tenor GIFs in messages](https://docs.microsoft.com/yammer/configure-your-yammer-network/configure-yammer#allow-tenor-gifs-in-messages).</span></span>
+
+<span data-ttu-id="6a47c-119">**Penyimpanan file Yammer**</span><span class="sxs-lookup"><span data-stu-id="6a47c-119">**Yammer file storage**</span></span>
+
+<span data-ttu-id="6a47c-120">Heboh terintegrasi dengan Microsoft 365 dan menggunakan SharePoint online untuk upload file.</span><span class="sxs-lookup"><span data-stu-id="6a47c-120">Yammer is integrated with Microsoft 365 and uses SharePoint Online for file uploads.</span></span> <span data-ttu-id="6a47c-121">Untuk informasi lebih lanjut, lihat [Yammer penyimpanan file Ikhtisar](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span><span class="sxs-lookup"><span data-stu-id="6a47c-121">For more info, see [Yammer file storage overview](https://docs.microsoft.com/yammer/get-started-with-yammer/file-storage).</span></span> 
+
+<span data-ttu-id="6a47c-122">Untuk pengalaman terbaik migrasi file ke SharePoint online, kami menyarankan mengkonfigurasi jaringan heboh Anda untuk mode asli.</span><span class="sxs-lookup"><span data-stu-id="6a47c-122">For the best experience migrating files to SharePoint Online, we advise configuring your Yammer network for Native Mode.</span></span> <span data-ttu-id="6a47c-123">Untuk informasi lebih lanjut, lihat [Ikhtisar mode asli](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span><span class="sxs-lookup"><span data-stu-id="6a47c-123">For more info, see [Overview of Native Mode](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).</span></span> 
