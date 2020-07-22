@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705808"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205306"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Menyambung ke Exchange Online PowerShell saat MFA diaktifkan
 
-Jika akun Anda memiliki otentikasi multi faktor (MFA) diaktifkan, Anda harus mengikuti petunjuk ini untuk menyambung ke Exchange Online PowerShell: [menyambung ke Exchange Online PowerShell menggunakan otentikasi multi faktor](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Catatan**: meskipun Anda telah tersambung ke Exchange Online PowerShell di masa lalu menggunakan [petunjuk sambungan reguler](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), Anda harus menggunakan petunjuk sambungan MFA setelah MFA diaktifkan untuk akun Anda.
+Jika akun Anda memiliki otentikasi multi faktor (MFA) diaktifkan, Anda harus mengikuti petunjuk ini untuk menyambung ke Exchange Online PowerShell: [gunakan Exchange Online PowerShell dengan otentikasi modern menggunakan modul v2](https://aka.ms/exops-docs). Silakan Cari petunjuk MFA/multi Factor otentikasi pada halaman tersebut.
