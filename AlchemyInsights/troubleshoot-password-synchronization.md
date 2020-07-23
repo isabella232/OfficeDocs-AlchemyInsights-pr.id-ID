@@ -2,7 +2,7 @@
 title: Memecahkan masalah sinkronisasi sandi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,51 +13,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
+ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732513"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45387880"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="fcf69-102">Memecahkan masalah sinkronisasi sandi</span><span class="sxs-lookup"><span data-stu-id="fcf69-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="cbb17-102">Memecahkan masalah sinkronisasi sandi</span><span class="sxs-lookup"><span data-stu-id="cbb17-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="fcf69-103">Untuk memecahkan masalah di mana sandi tidak disinkronkan dengan Azure AD menyambung versi 1.1.614.0 atau yang lebih baru:</span><span class="sxs-lookup"><span data-stu-id="fcf69-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
-  
-1. <span data-ttu-id="fcf69-104">Buka sesi Windows PowerShell baru di server Azure AD menyambung dengan opsi **Jalankan sebagai administrator** .</span><span class="sxs-lookup"><span data-stu-id="fcf69-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span>
+<span data-ttu-id="cbb17-103">Untuk memecahkan masalah sinkronisasi sandi, mulai menggunakan tugas pemecahan masalah AAD menghubungkan ini untuk menentukan mengapa sandi tidak menyinkronkan.</span><span class="sxs-lookup"><span data-stu-id="cbb17-103">To troubleshoot password synchronization issues, start by using this AAD Connect troubleshooting task to determine why passwords are not syncing.</span></span> <span data-ttu-id="cbb17-104">Untuk memulai, buka [mengelola sinkronisasi langsung](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span><span class="sxs-lookup"><span data-stu-id="cbb17-104">To begin, go to [Manage direct sync](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).</span></span>  
 
-2. <span data-ttu-id="fcf69-105">Jalankan **set-executionpolicy Remotesanye** atau **set-executionpolicy terbatas**.</span><span class="sxs-lookup"><span data-stu-id="fcf69-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span>
+1. <span data-ttu-id="cbb17-105">Buka sesi Windows PowerShell baru di server Azure AD menyambung, dan pilih opsi **Jalankan sebagai administrator** .</span><span class="sxs-lookup"><span data-stu-id="cbb17-105">Open a new Windows PowerShell session on your Azure AD Connect server, and select the **Run as Administrator** option.</span></span>
 
-3. <span data-ttu-id="fcf69-106">Mulai Wisaya Azure AD menyambung.</span><span class="sxs-lookup"><span data-stu-id="fcf69-106">Start the Azure AD Connect wizard.</span></span>
+2. <span data-ttu-id="cbb17-106">Jalankan set-ExecutionPolicy Remotesanye atau set-ExecutionPolicy terbatas.</span><span class="sxs-lookup"><span data-stu-id="cbb17-106">Run Set-ExecutionPolicy RemoteSigned or Set-ExecutionPolicy Unrestricted.</span></span>
 
-4. <span data-ttu-id="fcf69-107">Navigasikan ke halaman **tugas tambahan** , pilih **pemecahan masalah**, dan klik **berikutnya**.</span><span class="sxs-lookup"><span data-stu-id="fcf69-107">Navigate to the **Additional Tasks** page, select **Troubleshoot**, and click **Next**.</span></span>
+3. <span data-ttu-id="cbb17-107">Mulai Wisaya Azure AD menyambung.</span><span class="sxs-lookup"><span data-stu-id="cbb17-107">Start the Azure AD Connect wizard.</span></span>
 
-5. <span data-ttu-id="fcf69-108">Pada halaman pemecahan masalah, klik **Luncurkan untuk memulai menu pemecahan masalah** di PowerShell.</span><span class="sxs-lookup"><span data-stu-id="fcf69-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span>
+4. <span data-ttu-id="cbb17-108">Buka halaman tugas tambahan > **memecahkan masalah**  >  **berikutnya**.</span><span class="sxs-lookup"><span data-stu-id="cbb17-108">Go to the Additional Tasks page > **Troubleshoot** > **Next**.</span></span>
 
-6. <span data-ttu-id="fcf69-109">Di menu utama, pilih **memecahkan masalah sinkronisasi sandi**.</span><span class="sxs-lookup"><span data-stu-id="fcf69-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span>
+5. <span data-ttu-id="cbb17-109">Pilih **Luncurkan** untuk membuka menu pemecahan masalah PowerShell.</span><span class="sxs-lookup"><span data-stu-id="cbb17-109">Select **Launch** to open the PowerShell troubleshooting menu.</span></span>
 
-7. <span data-ttu-id="fcf69-110">Di sub menu, pilih **Sinkronisasi sandi tidak berfungsi sama sekali**.</span><span class="sxs-lookup"><span data-stu-id="fcf69-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span>
+6. <span data-ttu-id="cbb17-110">Pilih **memecahkan masalah sinkronisasi sandi**.</span><span class="sxs-lookup"><span data-stu-id="cbb17-110">Select **Troubleshoot Password Synchronization**.</span></span>
 
-<span data-ttu-id="fcf69-111">**Memahami hasil tugas pemecahan masalah**</span><span class="sxs-lookup"><span data-stu-id="fcf69-111">**Understand the results of the troubleshooting task**</span></span>
-  
-<span data-ttu-id="fcf69-112">Tugas pemecahan masalah melakukan pemeriksaan berikut ini:</span><span class="sxs-lookup"><span data-stu-id="fcf69-112">The troubleshooting task performs the following checks:</span></span>
-  
-- <span data-ttu-id="fcf69-113">Memvalidasi bahwa fitur sinkronisasi sandi diaktifkan untuk penghuni Azure AD Anda.</span><span class="sxs-lookup"><span data-stu-id="fcf69-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+    <span data-ttu-id="cbb17-111">Masalah ini biasanya bahwa sandi tidak disinkronkan untuk akun pengguna tertentu.</span><span class="sxs-lookup"><span data-stu-id="cbb17-111">The issue is usually that a password is not synchronized for a specific user account.</span></span>
 
-- <span data-ttu-id="fcf69-114">Memvalidasi bahwa server Azure AD menyambung bukan dalam mode pementasan.</span><span class="sxs-lookup"><span data-stu-id="fcf69-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+    <span data-ttu-id="cbb17-112">**Notes** Sinkronisasi sandi gagal jika Sinkronisasi sandi berhasil terakhir adalah beberapa waktu yang lalu.</span><span class="sxs-lookup"><span data-stu-id="cbb17-112">**Notes** Password synchronization fails if the last successful password sync was some time ago.</span></span>
 
-- <span data-ttu-id="fcf69-115">Untuk setiap konektor Active Directory lokal yang ada (yang sesuai dengan hutan direktori aktif yang ada):</span><span class="sxs-lookup"><span data-stu-id="fcf69-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
-
-- 
-  - <span data-ttu-id="fcf69-116">Memvalidasi fitur sinkronisasi sandi diaktifkan.</span><span class="sxs-lookup"><span data-stu-id="fcf69-116">Validates that the password synchronization feature is enabled.</span></span>
-
-  - <span data-ttu-id="fcf69-117">Mencari peristiwa heartbeat Sinkronisasi sandi di log peristiwa aplikasi Windows.</span><span class="sxs-lookup"><span data-stu-id="fcf69-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
-
-  - <span data-ttu-id="fcf69-118">Untuk setiap domain direktori aktif di bawah konektor Active Directory lokal:</span><span class="sxs-lookup"><span data-stu-id="fcf69-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
-
-  - <span data-ttu-id="fcf69-119">Memvalidasi domain dapat dicapai dari server Azure AD menyambung.</span><span class="sxs-lookup"><span data-stu-id="fcf69-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
-
-  - <span data-ttu-id="fcf69-120">Memvalidasi account layanan domain direktori aktif (AD DS) yang digunakan oleh konektor Active Directory lokal memiliki nama pengguna yang benar, sandi, dan izin yang diperlukan untuk sinkronisasi sandi.</span><span class="sxs-lookup"><span data-stu-id="fcf69-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
-
-<span data-ttu-id="fcf69-121">Untuk bantuan lebih lanjut pemecahan masalah sinkronisasi sandi, lihat [memecahkan masalah sinkronisasi sandi dengan AZURE AD menyambung sinkronisasi](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="fcf69-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
-  
+<span data-ttu-id="cbb17-113">Untuk bantuan lebih lanjut pemecahan masalah sinkronisasi sandi, lihat [memecahkan masalah sinkronisasi hash sandi dengan AZURE AD menyambung sinkronisasi](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span><span class="sxs-lookup"><span data-stu-id="cbb17-113">For more help troubleshooting password synchronization, see [Troubleshoot password hash synchronization with Azure AD Connect sync](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).</span></span>
