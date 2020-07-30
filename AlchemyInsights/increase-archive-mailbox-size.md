@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508811"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522846"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Meningkatkan ukuran kotak surat Arsip
+
+
+Jika Anda ingin kami menjalankan pemeriksaan otomatis untuk pengaturan yang disebutkan di bawah, pilih tombol kembali <--di bagian atas Halaman ini, dan kemudian masukkan alamat email pengguna yang memerlukan ukuran kotak surat arsip mereka meningkat.
 
 Microsoft 365 [membatasi](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) ukuran kotak pesan arsip berdasarkan lisensi yang ditetapkan ke akun pengguna. Ketika kotak surat Arsip mencapai 90% dari ukuran yang diizinkan, pengguna akan menerima pemberitahuan email. Bila kotak pesan arsip mencapai batas ukurannya, pengguna tidak dapat memindahkan item lainnya ke kotak pesan arsip. 365 Microsoft tidak akan meningkatkan ukuran kotak surat Arsip setelah batas ukuran tercapai. Sebaliknya, pengguna dapat mengambil tindakan berikut ini untuk mengosongkan ruang di kotak surat Arsip:
 
