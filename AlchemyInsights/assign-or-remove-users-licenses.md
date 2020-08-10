@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506374"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603413"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Menetapkan atau menghapus lisensi pengguna
+# <a name="assign-or-remove-user-licenses"></a>Menetapkan atau menghapus lisensi pengguna
 
-Sebagai admin, Anda dapat menyesuaikan lisensi pengguna sesuai kebutuhan. Artikel di bawah ini akan menunjukkan cara mengelola lisensi pengguna, termasuk:
+Sebagai admin, Anda dapat menyesuaikan lisensi pengguna sesuai kebutuhan. Artikel ini memperlihatkan kepada Anda cara mengelola lisensi pengguna Anda:
   
-- [Menetapkan lisensi untuk pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Unassign lisensi dari pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Menghapus penetapan lisensi dari pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-Tidak menjawab pertanyaan Anda? Tidak ada masalah! Gunakan tombol "butuh bantuan" untuk berbicara dengan teknisi dukungan.
+Tidak menjawab pertanyaan Anda? Tidak ada masalah! Gunakan tombol "perlu bantuan" untuk berbicara dengan teknisi dukungan.
