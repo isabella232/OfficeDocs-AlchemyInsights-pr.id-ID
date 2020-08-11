@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509027"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634309"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="65337-102">Cara memverifikasi domain Anda</span><span class="sxs-lookup"><span data-stu-id="65337-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="cee60-102">Cara memverifikasi domain Anda</span><span class="sxs-lookup"><span data-stu-id="cee60-102">How to verify your domain</span></span>
 
-<span data-ttu-id="65337-103">Untuk memverifikasi domain, Anda harus menambahkan data TXT ke registrar domain untuk memverifikasi bahwa Anda adalah pemilik domain.</span><span class="sxs-lookup"><span data-stu-id="65337-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="65337-104">Pertama, ikuti [Wisaya Tambah domain](https://portal.office.com/adminportal/home#/Domains/Wizard) dengan meng-klik **penataan** \> **domain**, dan kemudian **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="65337-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="65337-105">Ikuti petunjuk dalam [membuat data DNS di penyedia hosting DNS apa pun](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) untuk MENAMBAHKAN data TXT guna memverifikasi domain Anda.</span><span class="sxs-lookup"><span data-stu-id="65337-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="cee60-103">Untuk memverifikasi domain, ikuti [panduan Tambahkan domain](https://portal.office.com/adminportal/home#/Domains/Wizard), atau masuk secara manual ke domain **penyetelan**  >  **Domains**  >  **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="cee60-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="65337-106">Untuk masalah domain lainnya, coba [FAQ domain](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="65337-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="cee60-104">Untuk informasi selengkapnya tentang cara menambahkan catatan TXT untuk memverifikasi domain Anda, lihat instruksi di [menambahkan catatan DNS untuk menyambungkan domain Anda](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="cee60-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="cee60-105">Untuk pertanyaan domain lainnya, lihat [FAQ domain](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="cee60-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
