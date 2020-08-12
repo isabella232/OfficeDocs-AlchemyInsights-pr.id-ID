@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
-ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: id-ID
 ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634309"
+ms.locfileid: "46636696"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="cee60-102">Cara memverifikasi domain Anda</span><span class="sxs-lookup"><span data-stu-id="cee60-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="3ff98-102">Cara memverifikasi domain Anda</span><span class="sxs-lookup"><span data-stu-id="3ff98-102">How to verify your domain</span></span>
 
-<span data-ttu-id="cee60-103">Untuk memverifikasi domain, ikuti [panduan Tambahkan domain](https://portal.office.com/adminportal/home#/Domains/Wizard), atau masuk secara manual ke domain **penyetelan**  >  **Domains**  >  **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="cee60-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="3ff98-103">Untuk memverifikasi domain, ikuti [panduan Tambahkan domain](https://portal.office.com/adminportal/home#/Domains/Wizard), atau masuk secara manual ke domain **penyetelan**  >  **Domains**  >  **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="3ff98-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="cee60-104">Untuk informasi selengkapnya tentang cara menambahkan catatan TXT untuk memverifikasi domain Anda, lihat instruksi di [menambahkan catatan DNS untuk menyambungkan domain Anda](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="cee60-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="3ff98-104">Untuk informasi selengkapnya tentang perubahan DNS yang diperlukan untuk memverifikasi domain Anda, lihat instruksi dalam [menambahkan catatan DNS untuk menyambungkan domain Anda](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="3ff98-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="cee60-105">Untuk pertanyaan domain lainnya, lihat [FAQ domain](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="cee60-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="3ff98-105">Untuk pertanyaan domain lainnya, lihat [FAQ domain](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="3ff98-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
