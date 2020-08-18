@@ -1,5 +1,5 @@
 ---
-title: Membuat situs SharePoint
+title: Membuat tipe konten kustom
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.custom:
 - "5792"
 - "9003050"
-ms.openlocfilehash: 0c04ef44f7c2c783d61fd234413263b250481604
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 2b21f95ddf6e27ed113d9f45ecfad99487095d96
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569320"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786244"
 ---
-# <a name="create-custom-content-types"></a>Membuat jenis konten kustom
+# <a name="create-custom-content-types"></a>Membuat tipe konten kustom
 
-1. Pilih daftar yang ingin Anda kerjakan di luncur cepat, atau klik **setelan** (ikon roda gigi) lalu klik **setelan situs**.
-2. Klik jenis **konten situs** di bawah **Web Designer Galleries**.
-3. Pada halaman jenis konten situs, klik buat.
-4. Pada halaman jenis konten situs baru, isi informasi untuk jenis konten kustom Anda.
+1. Pilih daftar yang ingin Anda kerjakan di luncur cepat, atau klik **pengaturan**  (ikon gerigi) lalu klik  **pengaturan situs**.
+2. Klik tipe **konten situs**  di bawah  **Galeri desainer web**.
+3. Pada halaman tipe konten situs, klik buat.
+4. Pada halaman tipe konten situs baru, isi informasi untuk tipe konten kustom Anda.
 
-Untuk info lebih lanjut, lihat [jenis konten kustom](https://support.microsoft.com/office/e1277a2e-a1e8-4473-9126-91a0647766e5#__toc323548991).
+Untuk informasi selengkapnya, lihat  [tipe konten kustom](https://support.microsoft.com/office/e1277a2e-a1e8-4473-9126-91a0647766e5#__toc323548991).
