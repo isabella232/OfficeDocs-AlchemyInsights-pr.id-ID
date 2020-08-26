@@ -1,5 +1,5 @@
 ---
-title: Pensiun Legacy eDiscovery alat
+title: Pensiun alat eDiscovery lawas
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650571"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902623"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensiun Legacy eDiscovery alat
+# <a name="retirement-of-legacy-ediscovery-tools"></a>Pensiun alat eDiscovery lawas
 
-Sebagai hasil dari fungsionalitas eDiscovery baru dan ditingkatkan di Microsoft 365 kepatuhan pusat, alat eDiscovery warisan berikut ini dan commandlets akan dihentikan dalam beberapa bulan mendatang:
+Sebagai hasil dari fungsionalitas eDiscovery yang baru dan disempurnakan di pusat kepatuhan Microsoft 365, alat dan commandlet eDiscovery berikut ini akan dihentikan dalam bulan yang akan datang:
 
-- [EDiscovery di tempat](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) dan [pembekuan di tempat](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) di pusat admin Exchange.
+- [EDiscovery di tempat](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) dan [penangguhan di tempat](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) di pusat admin Exchange.
 
-- Cmdlet Exchange Online PowerShell yang mendukung eDiscovery di tempat dan pembekuan di tempat. (Cmdlet ini secara kolektif diidentifikasi sebagai *-MailboxSearch cmdlet.) Ini termasuk cmdlet berikut:
+- Cmdlet PowerShell Exchange Online yang mendukung eDiscovery di tempat dan penangguhan di tempat. (Cmdlet ini secara keseluruhan diidentifikasi sebagai cmdlet *-MailboxSearch.) Ini termasuk cmdlet berikut:
 
-    - [Baru-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [MailboxSearch baru](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
     - [Mulai-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Hentikan MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Cmdlet [pencarian-kotak surat](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) di Exchange Online PowerShell.
-- Operasi berikut ini di Exchange Web Services API:
+- Cmdlet [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) di Exchange Online PowerShell.
+- Operasi berikut ini di API Layanan web Exchange:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [Setholdonmailbox](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonmailbox](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Lanjut eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [V 1.0 eDiscovery tingkat lanjut](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Timeline untuk pensiun**:
-- 1 April 2020: Anda tidak akan dapat membuat penelusuran dan penangguhan baru, namun Anda masih dapat menjalankan, mengedit, dan menghapus penelusuran yang ada dengan risiko Anda sendiri. Dukungan Microsoft tidak lagi mendukung eDiscovery di tempat & pembekuan dalam EAC.
+**Garis waktu untuk pensiun**:
+- **1 juli 2020** Anda tidak lagi dapat membuat pencarian dan penangguhan baru, tapi Anda bisa menjalankan, mengedit, dan menghapus pencarian yang sudah ada dengan risiko Anda sendiri. Dukungan Microsoft tidak lagi mendukung penangguhan & tempat eDiscovery di EAC.
+    
+- **1 oktober 2020** & eDiscovery di tempat yang memegang fungsi di EAC akan ditempatkan dalam mode baca-saja, jadi Anda hanya dapat menghapus pencarian dan penangguhan yang sudah ada.
 
-- 1 Juli 2020: eDiscovery di tempat & memegang fungsionalitas di EAC akan ditempatkan dalam mode baca-saja. Artinya, Anda hanya dapat menghapus penelusuran dan penangguhan yang ada.
+**Untuk informasi selengkapnya, lihat**:
 
-**Untuk informasi lebih lanjut, lihat**:
-
- - [Migrasi pencarian eDiscovery warisan dan memegang pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Pensiun alat eDiscovery warisan](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Pertanyaan umum tentang eDiscovery di tempat dan pembekuan di tempat](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Melakukan migrasi pencarian eDiscovery warisan dan pembekuan ke pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Pensiun alat eDiscovery lawas](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Tanya jawab umum tentang eDiscovery di tempat dan penangguhan di tempat](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
