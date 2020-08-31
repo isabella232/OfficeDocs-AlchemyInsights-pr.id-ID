@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005441"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316202"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Saluran pribadi di Microsoft teams
+# <a name="private-channels-in-microsoft-teams"></a>Saluran privat di Microsoft teams
 
-Saluran privat adalah fitur baru di Microsoft teams. Perhatikan bahwa saluran pribadi tidak dapat dikonversi dari saluran standar atau sebaliknya.
+Saluran privat di Microsoft teams membuat ruang yang difokuskan untuk kolaborasi dalam tim Anda. Hanya pengguna di tim yang merupakan pemilik atau anggota saluran privat yang dapat mengakses saluran ini. Siapa pun, termasuk tamu, bisa ditambahkan sebagai anggota saluran pribadi selama mereka menjadi anggota tim.
 
-Untuk rincian tentang saluran pribadi, seperti informasi tentang [pembuatan saluran pribadi dan keanggotaan](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) dan [situs SharePoint saluran pribadi](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), lihat [saluran pribadi di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+Untuk mempelajari selengkapnya, mulai dengan [saluran pribadi di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). Ini mencakup informasi seperti [pembuatan saluran pribadi dan situs keanggotaan](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) dan [saluran pribadi SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**Catatan:** Karena konfigurasi untuk retensi pesan saluran pribadi belum didukung, penyewa dengan kebijakan retensi diaktifkan tidak akan memiliki saluran pribadi diaktifkan secara default. Saluran pribadi dapat diaktifkan di pusat admin teams. Selain itu, perhatikan bahwa meskipun retensi pesan pribadi saluran tidak didukung, Penyimpanan file yang dibagi di saluran pribadi didukung.
+**Perlu pemilik tim baru?**
 
-**Butuh pemilik tim baru?**
+Jika pemilik saluran pribadi meninggalkan organisasi Anda atau dihapus dari grup, anggota saluran pribadi akan secara otomatis dipromosikan menjadi pemilik saluran privat.
 
-Jika pemilik Channel pribadi Anda keluar, Anda dapat menambahkan pemilik tim baru melalui teams PowerShell.
-
-
-- Buka [di sini](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) untuk menginstal tim PowerShell.
-
-Berikut adalah cmdlet Anda akan perlu:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Untuk informasi selengkapnya tentang teams PowerShell, lihat [ringkasan teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Admin juga bisa melihat [mengelola siklus hidup saluran pribadi di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) untuk mempelajari selengkapnya tentang kebijakan untuk mengelola siapa yang dapat membuat saluran privat, serta cara-cara untuk membantu menyusun kueri untuk eDiscovery atau penangguhan hukum.
