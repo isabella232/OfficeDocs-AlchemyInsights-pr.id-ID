@@ -11,25 +11,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
-ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
+ms.openlocfilehash: d63a193585cb73c2ce8e160d413db4e837100d33
+ms.sourcegitcommit: d3ace2376195d54229ee1e232daf8133ba4e58a9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42891752"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341406"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook tidak dapat menyambung ke folder publik
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook tidak dapat tersambung ke folder publik
 
-Jika akses folder publik tidak bekerja untuk beberapa pengguna, cobalah berikut ini:
+Jika akses folder publik tidak berfungsi untuk beberapa pengguna, cobalah hal berikut:
 
-Sambungkan ke EXO PowerShell dan konfigurasikan parameter DefaultPublicFolderMailbox pada account pengguna masalah untuk mencocokkan parameter pada akun pengguna bekerja.
+Sambungkan ke EXO PowerShell dan konfigurasikan parameter DefaultPublicFolderMailbox pada akun pengguna bermasalah untuk mencocokkan parameter pada akun pengguna yang bekerja.
 
-Contoh:
+Misalnya
 
-Get-kotak surat WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Dapatkan-kotak surat pengguna | Kotak surat ft Defaultpublicfolder, EffectivePublicFolderMailbox
 
-Set-kotak surat ProblemUser-DefaultPublicFolderMailbox \<nilai dari perintah sebelumnya>
+Set-kotak surat ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
 
 Tunggu setidaknya satu jam agar perubahan diterapkan.
 
-Jika masalah tetap ada, ikuti [prosedur ini](https://aka.ms/pfcte) untuk memecahkan masalah akses folder publik menggunakan Outlook.
+Jika masalah tetap terjadi, ikuti [prosedur ini](https://aka.ms/pfcte) untuk memecahkan masalah akses folder publik menggunakan Outlook.
+ 
+**Untuk mengontrol pengguna mana yang bisa mengakses folder publik menggunakan Outlook**:
+
+1.  Menggunakan Set-CASMailbox <mailboxname> -publicfolderclientaccess $True atau $false  
+      
+    $true: Izinkan pengguna mengakses folder publik di Outlook  
+      
+    $false: mencegah akses pengguna ke folder publik di Outlook. Ini adalah nilai default.  
+        
+2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+      
+**Catatan** Prosedur ini hanya dapat mengontrol koneksi dengan klien Outlook desktop untuk Windows. Pengguna bisa terus mengakses folder publik menggunakan OWA atau Outlook untuk Mac.
+ 
+Untuk informasi selengkapnya, lihat [mengumumkan dukungan untuk koneksi terkendali ke folder publik di Outlook](https://aka.ms/controlpf).
