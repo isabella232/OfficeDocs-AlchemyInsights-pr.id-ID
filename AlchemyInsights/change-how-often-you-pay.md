@@ -2,7 +2,7 @@
 title: Mengubah seberapa sering Anda membayar
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939658"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364590"
 ---
 # <a name="change-how-often-you-pay"></a>Mengubah seberapa sering Anda membayar
 
-Untuk mengubah seberapa sering Anda Anda ditagih dan membayar untuk berlangganan, selesaikan langkah berikut di pusat admin Microsoft 365. 
-1. Buka **Tagihan > [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Temukan langganan yang ingin Anda ubah. Di bagian **tagihan** , di samping **ditagih bulanan** atau **ditagih per tahun**, klik **Edit**. 
-3. Pilih opsi untuk seberapa sering Anda ingin ditagih, lalu klik **Ubah**.
+Untuk mengubah seberapa sering Anda ditagih dan membayar langganan, selesaikan langkah-langkah berikut ini di pusat admin Microsoft 365.
 
-**Catatan**: penagihan bulanan atau tahunan adalah satu-satunya pilihan.
+1. Buka **Billing**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pada tab **produk** , pilih langganan yang ingin Anda ubah. 
+3. Pada halaman detail langganan, di bagian **pengaturan langganan dan pembayaran** , pilih **Edit frekuensi penagihan**.
+4. Di panel **Edit frekuensi tagihan** , tekan Opsi untuk seberapa sering Anda ingin ditagih, lalu pilih **Ubah**.
 
-Untuk info lebih lanjut, lihat [mengubah frekuensi pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Catatan**: tagihan bulanan atau tahunan adalah satu-satunya opsi.
+
+Untuk informasi selengkapnya, lihat [Mengubah frekuensi tagihan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
