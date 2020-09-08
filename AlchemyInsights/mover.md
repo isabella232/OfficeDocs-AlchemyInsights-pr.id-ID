@@ -1,5 +1,5 @@
 ---
-title: Penggerak
+title: Alat pemindahan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157619"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406329"
 ---
-# <a name="mover"></a><span data-ttu-id="329d3-102">Penggerak</span><span class="sxs-lookup"><span data-stu-id="329d3-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="03398-102">Alat pemindahan</span><span class="sxs-lookup"><span data-stu-id="03398-102">Mover</span></span>
 
-<span data-ttu-id="329d3-103">Pada tanggal 21 Oktober 2019, Microsoft mengakuisisi **penggerak**, penyedia utama migrasi file awan.</span><span class="sxs-lookup"><span data-stu-id="329d3-103">On October 21, 2019, Microsoft acquired **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="03398-103">Pada tanggal 21 Oktober 2019, Microsoft mengakuisisi  **Mover**, penyedia migrasi file awan.</span><span class="sxs-lookup"><span data-stu-id="03398-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
 
-<span data-ttu-id="329d3-104">Untuk informasi lebih lanjut tentang penggerak, silakan referensi artikel berikut ini:</span><span class="sxs-lookup"><span data-stu-id="329d3-104">For more information on Mover, please reference the following articles:</span></span>
+<span data-ttu-id="03398-104">Pada saat ini, [silakan mengarahkan permintaan dukungan](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **di sini**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="03398-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
 
-- [<span data-ttu-id="329d3-105">Panduan migrasi penggerak</span><span class="sxs-lookup"><span data-stu-id="329d3-105">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="329d3-106">FAQ migrasi umum</span><span class="sxs-lookup"><span data-stu-id="329d3-106">General Migration FAQ</span></span>](https://mover.io/guides/general/)
-- [<span data-ttu-id="329d3-107">Konektor penggerak</span><span class="sxs-lookup"><span data-stu-id="329d3-107">Mover Connectors</span></span>](https://mover.io/connectors/)
+<span data-ttu-id="03398-105">Untuk informasi selengkapnya tentang Mover, silakan rujuk artikel berikut ini:</span><span class="sxs-lookup"><span data-stu-id="03398-105">For more information on Mover, please reference the following articles:</span></span>
 
-<span data-ttu-id="329d3-108">Pada saat ini, **Silakan langsung setiap permintaan dukungan untuk** [support@mover.io](mailto:support@mover.io) untuk bantuan dengan produk.</span><span class="sxs-lookup"><span data-stu-id="329d3-108">At the current time, **please direct any support requests to** [support@mover.io](mailto:support@mover.io) for help with the product.</span></span> 
-
- 
+- [<span data-ttu-id="03398-106">Panduan migrasi Mover</span><span class="sxs-lookup"><span data-stu-id="03398-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
+- [<span data-ttu-id="03398-107">Tanya Jawab Umum migrasi</span><span class="sxs-lookup"><span data-stu-id="03398-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
