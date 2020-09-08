@@ -1,5 +1,5 @@
 ---
-title: Penggerak
+title: Alat pemindahan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157619"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406329"
 ---
-# <a name="mover"></a>Penggerak
+# <a name="mover"></a>Alat pemindahan
 
-Pada tanggal 21 Oktober 2019, Microsoft mengakuisisi **penggerak**, penyedia utama migrasi file awan.
+Pada tanggal 21 Oktober 2019, Microsoft mengakuisisi  **Mover**, penyedia migrasi file awan.
 
-Untuk informasi lebih lanjut tentang penggerak, silakan referensi artikel berikut ini:
+Pada saat ini, [silakan mengarahkan permintaan dukungan](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **di sini**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Panduan migrasi penggerak](https://mover.io/guides/)
-- [FAQ migrasi umum](https://mover.io/guides/general/)
-- [Konektor penggerak](https://mover.io/connectors/)
+Untuk informasi selengkapnya tentang Mover, silakan rujuk artikel berikut ini:
 
-Pada saat ini, **Silakan langsung setiap permintaan dukungan untuk** [support@mover.io](mailto:support@mover.io) untuk bantuan dengan produk. 
-
- 
+- [Panduan migrasi Mover](https://mover.io/guides/)
+- [Tanya Jawab Umum migrasi](https://mover.io/guides/general/)

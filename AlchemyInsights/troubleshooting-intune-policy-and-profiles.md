@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766676"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406293"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Pemecahan masalah Intune kebijakan dan profil
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Pemecahan masalah kebijakan dan profil Intune
 
-Untuk melihat kebijakan yang ada, memecahkan masalah konflik, meninjau data log, dan melihat pertanyaan dan masalah umum, panduan berikut dapat membantu.
+Untuk melihat kebijakan yang sudah ada, memecahkan masalah konflik, meninjau data log, dan melihat pertanyaan dan masalah umum, panduan berikut dapat membantu.
 
-- [Memecahkan masalah kebijakan dan profil di Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Memecahkan masalah kebijakan dan profil di Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Pertanyaan umum, masalah, dan resolusi dengan kebijakan dan profil perangkat di Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Pertanyaan umum, masalah, dan resolusi dengan kebijakan perangkat dan profil di Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Memantau profil konfigurasi perangkat dan melihat konflik di Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Memantau profil konfigurasi perangkat dan menampilkan konflik di Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
 - [Memecahkan masalah kepatuhan perangkat dan akses bersyarat di Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Memantau kebijakan kepatuhan dan melihat konflik di Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Memantau kebijakan kepatuhan dan menampilkan konflik di Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Mengirim data log Intune ke penyimpanan Azure, hub peristiwa, atau analitik log](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Mengirim data log Intune ke penyimpanan Azure, hub kejadian, atau analitik log](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Lihat Ikhtisar untuk [mengonfigurasi perangkat](https://docs.microsoft.com/intune/device-profiles) atau [menggunakan kebijakan kepatuhan](https://docs.microsoft.com/intune/device-compliance-get-started).
+Lihat gambaran umum untuk [mengonfigurasi perangkat](https://docs.microsoft.com/intune/device-profiles) atau [menggunakan kebijakan kepatuhan](https://docs.microsoft.com/intune/device-compliance-get-started).
