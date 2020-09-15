@@ -1,40 +1,40 @@
 ---
-title: Auto-menerapkan label sensitivitas
+title: Menerapkan label sensitivitas otomatis
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715168"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Auto-menerapkan label sensitivitas
+# <a name="auto-apply-sensitivity-labels"></a>Menerapkan label sensitivitas otomatis
 
-Label sensitivitas dapat diterapkan secara manual ke konten oleh pengguna, atau Anda dapat mengonfigurasikannya agar diterapkan secara otomatis ke konten.
+Label sensitivitas dapat diterapkan secara manual ke konten oleh pengguna, atau Anda bisa mengonfigurasinya untuk diterapkan secara otomatis ke konten.
 
-Secara otomatis menerapkan label sensitivitas menghilangkan kebutuhan untuk melatih pengguna tentang bagaimana untuk mengklasifikasikan konten dan kebutuhan untuk memberitahu mereka tentang konfigurasi kebijakan.
+Secara otomatis menerapkan label sensitivitas menghapus kebutuhan untuk melatih pengguna tentang cara mengklasifikasikan konten dan kebutuhan untuk memberi tahu konfigurasi kebijakan.
 
-Untuk menerapkan label secara otomatis, diperlukan berikut ini:
+Untuk menerapkan label secara otomatis, berikut ini diperlukan:
 
-- Langganan perlindungan informasi Azure P2
-- [Unduh dan instal perlindungan informasi Azure terpadu pelabelan klien](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Langganan P2 perlindungan informasi Azure
+- [Mengunduh dan menginstal klien pelabelan terpadu proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Kami sedang bekerja pada dukungan asli yang tidak memerlukan perlindungan informasi Azure terpadu pelabelan klien di masa mendatang.
+Kami sedang mengupayakan dukungan asli yang tidak memerlukan klien pelabelan terpadu proteksi informasi Azure di masa mendatang.
 
-Saat ini, hanya Windows mendukung klien pelabelan terpadu.  Fitur ini belum didukung di Mac, iOS dan Android.
+Saat ini, hanya Windows yang mendukung klien pelabelan terpadu.  Fitur ini belum didukung di Mac, iOS, dan Android.
 
-Untuk informasi lebih lanjut tentang label sensitivitas dan menerapkannya secara otomatis ke konten, lihat:
+Untuk informasi selengkapnya tentang label sensitivitas dan menerapkannya secara otomatis ke konten, lihat:
 
-- [Ikhtisar label sensitivitas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Menerapkan label sensitivitas untuk konten secara otomatis](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Gambaran umum label sensitivitas](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [Menerapkan label sensitivitas ke konten secara otomatis](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
