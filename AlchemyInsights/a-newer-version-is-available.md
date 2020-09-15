@@ -5,19 +5,20 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000694"
 - "2597"
-ms.openlocfilehash: 42f82c873e8674b41975782b33aefe55b821ca39
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: ce38d96381c5be7a10459313df18e586e5dd6267
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045457"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663885"
 ---
-# <a name="delete-the-office-document-cache"></a><span data-ttu-id="8ec54-102">Menghapus Cache dokumen Office</span><span class="sxs-lookup"><span data-stu-id="8ec54-102">Delete the Office Document Cache</span></span>
+# <a name="delete-the-office-document-cache"></a><span data-ttu-id="39891-102">Menghapus Singgahan dokumen Office</span><span class="sxs-lookup"><span data-stu-id="39891-102">Delete the Office Document Cache</span></span>
 
-<span data-ttu-id="8ec54-103">Jika Anda menerima prompt Excel yang **versi terbaru dari file tersedia**, mencoba menghapus Cache dokumen Office dengan mengikuti petunjuk dalam [menghapus tembolok dokumen kantor](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="8ec54-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="8ec54-104">Kemudian mencoba membuka kembali file.</span><span class="sxs-lookup"><span data-stu-id="8ec54-104">Then try reopening the file.</span></span>
+<span data-ttu-id="39891-103">Jika Anda menerima perintah Excel bahwa **versi file yang lebih baru tersedia**, coba hapus Singgahan dokumen Office dengan mengikuti instruksi di [Hapus singgahan dokumen Office Anda](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="39891-103">If you received an Excel prompt that **a newer version of the file is available**, try deleting the Office Document Cache by following the instructions in [Delete your Office Document Cache](https://support.office.com/article/b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span> <span data-ttu-id="39891-104">Lalu Cobalah membuka kembali file tersebut.</span><span class="sxs-lookup"><span data-stu-id="39891-104">Then try reopening the file.</span></span>

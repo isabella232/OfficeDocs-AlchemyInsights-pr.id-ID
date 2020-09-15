@@ -1,10 +1,11 @@
 ---
-title: Perlindungan ancaman tingkat lanjut di SharePoint dan OneDrive
+title: Proteksi ancaman tingkat lanjut di SharePoint dan OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: af100836a666a220d8fb77e9dc480993c71e3741
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2cf3455fb545ce2b89d9f4278bf9474db0b07ce8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508487"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663336"
 ---
-# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="04529-102">Advanced ancaman Protection (ATP) di SharePoint dan OneDrive</span><span class="sxs-lookup"><span data-stu-id="04529-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
+# <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a><span data-ttu-id="b9104-102">Advanced Threat Protection (ATP) di SharePoint dan OneDrive</span><span class="sxs-lookup"><span data-stu-id="b9104-102">Advanced Threat Protection (ATP) in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="04529-103">Lihat yang berikut ini:</span><span class="sxs-lookup"><span data-stu-id="04529-103">See the following:</span></span>
-- [<span data-ttu-id="04529-104">ATP untuk SharePoint, OneDrive dan tim</span><span class="sxs-lookup"><span data-stu-id="04529-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [<span data-ttu-id="04529-105">Threat Explorer dan realtime deteksi</span><span class="sxs-lookup"><span data-stu-id="04529-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
+<span data-ttu-id="b9104-103">Lihat yang berikut ini:</span><span class="sxs-lookup"><span data-stu-id="b9104-103">See the following:</span></span>
+- [<span data-ttu-id="b9104-104">ATP untuk SharePoint, OneDrive, dan teams</span><span class="sxs-lookup"><span data-stu-id="b9104-104">ATP for SharePoint, OneDrive and Teams</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [<span data-ttu-id="b9104-105">Explorer ancaman dan deteksi realtime</span><span class="sxs-lookup"><span data-stu-id="b9104-105">Threat Explorer and Realtime detections</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
-<span data-ttu-id="04529-106">Informasi Tambahan:</span><span class="sxs-lookup"><span data-stu-id="04529-106">Additional Information:</span></span>
+<span data-ttu-id="b9104-106">Informasi Tambahan:</span><span class="sxs-lookup"><span data-stu-id="b9104-106">Additional Information:</span></span>
 
-- [<span data-ttu-id="04529-107">Deteksi Virus di SPO</span><span class="sxs-lookup"><span data-stu-id="04529-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [<span data-ttu-id="04529-108">Enkripsi data dalam ODB dan SPO</span><span class="sxs-lookup"><span data-stu-id="04529-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [<span data-ttu-id="04529-109">Menjaga data Anda di SharePoint</span><span class="sxs-lookup"><span data-stu-id="04529-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
-- [<span data-ttu-id="04529-110">Deteksi Ransomware dan memulihkan file</span><span class="sxs-lookup"><span data-stu-id="04529-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
+- [<span data-ttu-id="b9104-107">Deteksi virus dalam SPO</span><span class="sxs-lookup"><span data-stu-id="b9104-107">Virus Detection in SPO</span></span>](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [<span data-ttu-id="b9104-108">Enkripsi data di ODB dan SPO</span><span class="sxs-lookup"><span data-stu-id="b9104-108">Data Encryption in ODB and SPO</span></span>](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [<span data-ttu-id="b9104-109">Mengamankan data Anda di SharePoint</span><span class="sxs-lookup"><span data-stu-id="b9104-109">Safeguarding your data in SharePoint</span></span>](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
+- [<span data-ttu-id="b9104-110">Deteksi Ransomware dan pemulihan file</span><span class="sxs-lookup"><span data-stu-id="b9104-110">Ransomware Detection and recovering files</span></span>](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)
