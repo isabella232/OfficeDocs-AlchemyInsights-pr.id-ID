@@ -1,33 +1,34 @@
 ---
-title: 'Heboh-mengelola Microsoft 365 kelompok '
+title: 'Yammer-kelola grup Microsoft 365 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9e920cc7a873d01cfc9a4625a6b6ef018636e814
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913041"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668890"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>Mengelola Microsoft 365 grup di Yammer
+# <a name="manage-microsoft-365-groups-in-yammer"></a>Mengelola grup Microsoft 365 di Yammer
 
-Berikut adalah beberapa jawaban untuk masalah yang paling umum dengan Microsoft 365 grup di Yammer.
+Berikut adalah beberapa jawaban atas masalah paling umum dengan grup Microsoft 365 di Yammer.
 
-* **Microsoft 365 grup** adalah ruang kerja bersama untuk email, percakapan, file, dan acara di mana anggota grup dapat berkolaborasi. Dengan heboh, Microsoft 365 kelompok memiliki banyak keuntungan lebih dari non-terhubung heboh kelompok. Misalnya, Anda dapat membuat dan meng-host acara Live, memulihkan grup yang dihapus, menggunakan keanggotaan grup dinamis, arsip otomatis, dan mengakses sumber daya bersama seperti SharePoint, OneNote, dan perencana.
+* **Grup Microsoft 365** adalah ruang kerja bersama untuk email, percakapan, file, dan acara di mana anggota grup bisa berkolaborasi. Dengan Yammer, grup Microsoft 365 memiliki banyak keuntungan dibandingkan grup Yammer yang tidak tersambung. Misalnya, Anda dapat membuat dan menghosting acara Live, memulihkan grup yang dihapus, menggunakan keanggotaan grup dinamis, arsip otomatis, dan mengakses sumber daya bersama seperti SharePoint, OneNote, dan Planner.
 
-* Anda dapat mengetahui apakah heboh grup terhubung dengan Microsoft 365 grup ketika Anda melihat bagian **Office 365 sumber daya** (SharePoint, OneNote, perencana) di navigasi kanan grup. Jika sumber daya tidak tersedia, periksa berikut ini.
+* Anda bisa mengetahui jika grup Yammer tersambung dengan grup Microsoft 365 saat Anda melihat bagian **sumber daya Office 365** (SharePoint, OneNote, Planner) di navigasi kanan grup. Jika sumber daya tidak tersedia, periksa hal berikut ini.
 
-  1. Jaringan heboh harus dalam 1 penyewa: 1 konfigurasi jaringan. untuk memverifikasi bahwa Anda berada dalam konfigurasi 1:1, gunakan **alat jaringan migrasi** seperti yang dijelaskan dalam [migrasi jaringan-menggabungkan beberapa jaringan heboh](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Jaringan Yammer harus berada dalam penyewa 1:1 konfigurasi jaringan. untuk memverifikasi bahwa Anda berada dalam konfigurasi 1:1, gunakan **alat migrasi jaringan** seperti yang diuraikan dalam [migrasi jaringan-menggabungkan beberapa jaringan Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Browse ke **admin jaringan, pengaturan keamanan**, dan memastikan bahwa **Office 365 identitas** diberlakukan untuk pengguna heboh.
+  2. Telusuri ke **admin jaringan, pengaturan keamanan**, dan pastikan **identitas 365 Office** diberlakukan untuk pengguna Yammer.
 
-Untuk informasi lebih lanjut tentang Microsoft 365 grup dan heboh, silakan lihat [heboh dan microsoft 365 grup](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Untuk informasi tentang mengelola grup, lihat [mengelola grup di Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Untuk informasi selengkapnya tentang grup Microsoft 365 dan Yammer, lihat [grup yammer dan microsoft 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Untuk informasi tentang mengelola grup, lihat [mengelola grup di Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
