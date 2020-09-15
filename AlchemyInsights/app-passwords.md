@@ -1,11 +1,12 @@
 ---
-title: 500 sandi aplikasi
+title: kata sandi aplikasi 500
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 6f924f15a29864543c221265e734a5eec7aa2ba2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707842"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717040"
 ---
 # <a name="app-passwords"></a>Kata sandi aplikasi
 
-Kata sandi aplikasi adalah kode yang memberikan izin aplikasi atau perangkat untuk mengakses akun kantor atau sekolah Microsoft Anda. Jika akun Anda memerlukan autentikasi multifaktor (MFA), dan aplikasi terhubung ke akun Anda, Anda perlu membuat kata sandi aplikasi sehingga aplikasi dapat terhubung ke Microsoft. Sebagai contoh, Outlook 2016 dan versi sebelumnya Outlook memerlukan sandi aplikasi.
+Kata sandi aplikasi adalah kode yang memberikan izin aplikasi atau perangkat untuk mengakses akun kerja atau sekolah Microsoft Anda. Jika akun Anda memerlukan multi-Factor Authentication (MFA), dan aplikasi tersambung ke akun Anda, Anda perlu membuat kata sandi aplikasi sehingga aplikasi dapat tersambung ke Microsoft. Misalnya, Outlook 2016 dan versi Outlook yang lebih lama memerlukan kata sandi aplikasi.
 
- **Catatan**: sebelum Anda mencoba langkah berikut, verifikasi dengan Microsoft 365 admin yang MFA diperlukan untuk akun Anda. Jika tidak, opsi yang dijelaskan dalam langkah tidak akan tersedia untuk Anda.
+ **Catatan**: sebelum Anda mencoba langkah-langkah berikut ini, verifikasi dengan admin Microsoft 365 Anda bahwa MFA diperlukan untuk akun Anda. Jika tidak, opsi yang diuraikan dalam langkah-langkah tidak akan tersedia untuk Anda.
 
-1. Masuk dengan akun kantor atau sekolah dan kata sandi Anda.
+1. Masuk dengan akun kerja atau sekolah dan kata sandi Anda.
 
-2. Pilih **Atur sekarang**.
+2. Pilih **Siapkan sekarang**.
 
-3. Pilih metode autentikasi Anda dan ikuti petunjuknya.
+3. Pilih metode autentikasi Anda dan ikuti perintahNya.
 
 4. Setelah Anda memverifikasi metode kontak alternatif, pilih **berikutnya**.
 
-5. Anda akan mendapatkan sandi aplikasi yang dapat digunakan dengan Outlook, Apple Mail, dan aplikasi lain yang memerlukannya. Pilih **Salin** untuk menyalin sandi sehingga Anda dapat menempelkannya di tempat lain (Anda tidak perlu menghafalkannya).
+5. Anda akan mendapatkan kata sandi aplikasi yang bisa Anda gunakan dengan Outlook, Apple Mail, dan aplikasi lainnya yang memerlukannya. Pilih **Salin** untuk menyalin kata sandi sehingga Anda dapat menempelkannya di tempat lain (Anda tidak perlu menghafalkannya).
