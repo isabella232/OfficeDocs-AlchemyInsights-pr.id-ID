@@ -1,26 +1,27 @@
 ---
-title: Paparan data terbaru
+title: Eksposur data terbaru
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: 21d34bb8a1c2139cdc4ccbdda62a07c65b6b0a56
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724917"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693234"
 ---
-# <a name="recent-data-exposure"></a>Paparan data terbaru
+# <a name="recent-data-exposure"></a>Eksposur data terbaru
 
-Microsoft telah diberitahu oleh peneliti pihak ketiga bahwa database hosting disunting Microsoft data dukungan dapat diakses tanpa otentikasi. Pada tanggal 31 Desember 2019, Microsoft mengamankan pangkalan data.
+Microsoft telah diwaspadai oleh peneliti pihak ketiga bahwa database hosting yang disunting data dukungan Microsoft dapat diakses tanpa autentikasi. Pada 31 Desember 2019, Microsoft mengamankan database.
 
-Kami berkomitmen terhadap privasi dan keamanan pelanggan kami dan mengambil tindakan untuk mencegah terjadinya masalah ini di masa mendatang. Kami telah mulai pemberitahuan kepada pelanggan data yang hadir dalam database disunting ini. Untuk informasi lebih lanjut, silakan kunjungi [informasi kesadaran pelanggan terkait dengan paparan informasi terbaru](https://aka.ms/privacyinfo).
+Kami berkomitmen pada privasi dan keamanan pelanggan kami dan mengambil tindakan untuk mencegah kemunculan mendatang masalah ini. Kami telah mulai pemberitahuan kepada pelanggan yang datanya ada dalam database yang disunting. Untuk informasi selengkapnya, silakan kunjungi [informasi kesadaran pelanggan yang terkait dengan eksposur informasi terbaru](https://aka.ms/privacyinfo).

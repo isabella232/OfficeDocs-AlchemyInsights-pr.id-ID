@@ -1,10 +1,11 @@
 ---
-title: Menyetel ulang atau mengubah sandi
+title: Mereset atau mengubah kata sandi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 715918b88a8340ea722ffe75999e6afaa48dbc31
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511439"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692154"
 ---
-# <a name="reset-or-change-passwords"></a>Menyetel ulang atau mengubah sandi
+# <a name="reset-or-change-passwords"></a>Mereset atau mengubah kata sandi
 
-Pengguna dapat mengubah sandi mereka sendiri dari **akun saya**  >  [keamanan & privasi](https://portal.office.com/account/#security).
+Pengguna dapat mengubah kata sandi mereka sendiri dari **My account**  >  [keamanan akun & privasi](https://portal.office.com/account/#security).
   
-Jika pengguna lupa sandinya, admin dapat menyetel ulang sandi dengan membuka pengguna **Users**  >  [aktif](https://portal.office.com/adminportal/home#/users)pengguna, memilih pengguna, dan mengklik **setel ulang sandi**.
+Jika pengguna lupa kata sandinya, admin dapat mengatur ulang kata sandi dengan **masuk ke pengguna**  >  [aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, lalu klik **reset kata sandi**.
   
-[Klik di sini untuk mempelajari lebih lanjut](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), atau membiarkan pengguna me-reset password mereka sendiri dilupakan.
+[Klik di sini untuk mempelajari selengkapnya](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), atau membiarkan pengguna mengatur ulang kata sandi yang terlupakan.

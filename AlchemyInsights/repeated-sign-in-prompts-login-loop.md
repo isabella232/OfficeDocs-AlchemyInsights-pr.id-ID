@@ -1,10 +1,11 @@
 ---
-title: Perintah masuk berulang/pengulangan login
+title: Pengulangan masuk prompt/log masuk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3a5103607cd80b1b02c5e999e80965f23b6cbc18
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582418"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692766"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Berulang masuk prompt di Microsoft 365 aplikasi
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Perintah masuk berulang di aplikasi Microsoft 365
 
-Untuk memecahkan masalah berulang masuk prompt di Microsoft 365 aplikasi, lihat:
+Untuk memecahkan masalah perintah masuk berulang dalam aplikasi Microsoft 365, lihat:
 
 - [Cara memecahkan masalah aplikasi non-browser yang tidak dapat masuk ke Microsoft 365, Azure, atau Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- ["Akses ditolak", atau pengguna berulang kali diminakan kredensial saat menyambung ke Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Pengguna gabungan berulang kali diminta untuk kredensial selama masuk ke Microsoft 365, Azure atau Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- ["Akses ditolak", atau pengguna berulang kali dimintai kredensial saat menyambungkan ke Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Pengguna gabungan berulang kali dimintai kredensial selama masuk ke Microsoft 365, Azure atau Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
