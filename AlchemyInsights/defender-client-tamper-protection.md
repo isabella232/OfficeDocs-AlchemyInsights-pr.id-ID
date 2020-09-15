@@ -1,32 +1,33 @@
 ---
-title: 'Klien Defender perlindungan Tamper '
+title: 'Proteksi Tamper klien Defender '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738502"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680507"
 ---
-# <a name="defender-tamper-protection"></a><span data-ttu-id="f07fb-102">Perlindungan Tamper bek</span><span class="sxs-lookup"><span data-stu-id="f07fb-102">Defender Tamper Protection</span></span> 
+# <a name="defender-tamper-protection"></a><span data-ttu-id="eb43b-102">Proteksi Tamper Defender</span><span class="sxs-lookup"><span data-stu-id="eb43b-102">Defender Tamper Protection</span></span> 
 
-<span data-ttu-id="f07fb-103">Dengan Tamper Protection, aplikasi berbahaya dicegah untuk mengambil tindakan seperti berikut:</span><span class="sxs-lookup"><span data-stu-id="f07fb-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
+<span data-ttu-id="eb43b-103">Dengan proteksi Tamper, aplikasi berbahaya dicegah dari tindakan seperti ini:</span><span class="sxs-lookup"><span data-stu-id="eb43b-103">With Tamper Protection, malicious apps are prevented from taking actions such as these:</span></span>
 
-- <span data-ttu-id="f07fb-104">Menonaktifkan virus dan perlindungan ancaman</span><span class="sxs-lookup"><span data-stu-id="f07fb-104">Disabling virus and threat protection</span></span>
-- <span data-ttu-id="f07fb-105">Menonaktifkan perlindungan real-time</span><span class="sxs-lookup"><span data-stu-id="f07fb-105">Disabling real-time protection</span></span>
-- <span data-ttu-id="f07fb-106">Menonaktifkan pemantauan perilaku</span><span class="sxs-lookup"><span data-stu-id="f07fb-106">Turning off behavior monitoring</span></span>
-- <span data-ttu-id="f07fb-107">Menonaktifkan antivirus (seperti IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="f07fb-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
-- <span data-ttu-id="f07fb-108">Menonaktifkan perlindungan yang dikirimkan melalui Cloud</span><span class="sxs-lookup"><span data-stu-id="f07fb-108">Disabling cloud-delivered protection</span></span>
-- <span data-ttu-id="f07fb-109">Menghapus pembaruan intelijen keamanan</span><span class="sxs-lookup"><span data-stu-id="f07fb-109">Removing security intelligence updates</span></span>
+- <span data-ttu-id="eb43b-104">Menonaktifkan proteksi virus dan ancaman</span><span class="sxs-lookup"><span data-stu-id="eb43b-104">Disabling virus and threat protection</span></span>
+- <span data-ttu-id="eb43b-105">Menonaktifkan proteksi real-time</span><span class="sxs-lookup"><span data-stu-id="eb43b-105">Disabling real-time protection</span></span>
+- <span data-ttu-id="eb43b-106">Menonaktifkan pemantauan perilaku</span><span class="sxs-lookup"><span data-stu-id="eb43b-106">Turning off behavior monitoring</span></span>
+- <span data-ttu-id="eb43b-107">Menonaktifkan antivirus (seperti IOfficeAntivirus (IOAV))</span><span class="sxs-lookup"><span data-stu-id="eb43b-107">Disabling antivirus (such as IOfficeAntivirus (IOAV))</span></span>
+- <span data-ttu-id="eb43b-108">Menonaktifkan proteksi yang dikirim melalui awan</span><span class="sxs-lookup"><span data-stu-id="eb43b-108">Disabling cloud-delivered protection</span></span>
+- <span data-ttu-id="eb43b-109">Menghapus pembaruan kecerdasan keamanan</span><span class="sxs-lookup"><span data-stu-id="eb43b-109">Removing security intelligence updates</span></span>
 
-<span data-ttu-id="f07fb-110">Untuk detail selengkapnya, lihat [melindungi pengaturan keamanan dengan Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="f07fb-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
+<span data-ttu-id="eb43b-110">Untuk detail selengkapnya, lihat [memproteksi pengaturan keamanan dengan proteksi Tamper](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span><span class="sxs-lookup"><span data-stu-id="eb43b-110">For more details, see [Protect security settings with Tamper Protection](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).</span></span>
