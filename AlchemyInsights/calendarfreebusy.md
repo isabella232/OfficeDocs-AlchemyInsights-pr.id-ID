@@ -1,21 +1,22 @@
 ---
-title: 400 kalender-FreeBusy
+title: Kalender 400-FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711850"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684053"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="aafa5-102">Masalah melihat informasi bebas/sibuk kalender</span><span class="sxs-lookup"><span data-stu-id="aafa5-102">Issues seeing calendar free/busy information</span></span>
+# <a name="issues-seeing-calendar-freebusy-information"></a><span data-ttu-id="09cca-102">Masalah melihat informasi bebas/sibuk kalender</span><span class="sxs-lookup"><span data-stu-id="09cca-102">Issues seeing calendar free/busy information</span></span>
 
-<span data-ttu-id="aafa5-103">Jika Anda tidak dapat melihat informasi bebas/sibuk kalender di kalender Outlook lainnya, atau jika orang lain tidak dapat melihat informasi bebas/sibuk di kalender Anda, gunakan [dukungan Microsoft dan asisten pemulihan untuk Microsoft 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="aafa5-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="09cca-103">Jika Anda tidak bisa melihat informasi bebas/sibuk kalender di kalender Outlook lainnya, atau jika orang lain tidak bisa melihat informasi bebas/sibuk di kalender Anda, gunakan [asisten dukungan dan pemulihan Microsoft untuk microsoft 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="09cca-103">If you can't see calendar free/busy information in other Outlook calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
