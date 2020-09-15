@@ -1,10 +1,11 @@
 ---
-title: 182 silakan Jalankan SaRA untuk mendiagnosis dan menyelesaikan masalah otentikasi Outlook
+title: 182 silakan Jalankan SaRA untuk mendiagnosis dan mengatasi masalah autentikasi Outlook
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: e14042fa80be802e646db4e30cd3d5b69b81a1d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765534"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802024"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Menggunakan SaRA untuk mendiagnosis dan mengatasi masalah autentikasi Outlook
 
-**Catatan**: Harap periksa untuk melihat apakah [default keamanan](https://aka.ms/securitydefaults) diaktifkan untuk organisasi Anda. Jika penghuni Anda dibuat setelah 21 Oktober 2019 dan Outlook berulang kali meminta Anda untuk sandi, Anda mungkin memiliki **default keamanan** diaktifkan di penyewa.
+**Catatan**: Silakan periksa apakah [keamanan default](https://aka.ms/securitydefaults) diaktifkan untuk organisasi Anda. Jika penyewa Anda dibuat setelah tanggal 21 Oktober, 2019 dan Outlook berulang kali meminta kata sandi, Anda mungkin mengaktifkan **keamanan default** di penyewa Anda.
 
-Kami sangat menyarankan Anda menggunakan [Outlook terus meminta sandi](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) diagnostik pada mesin terpengaruh untuk memecahkan masalah di mana Outlook terus-menerus meminta sandi. Ini [SaRA](https://diagnostics.office.com/#/) diagnostik melakukan pemeriksaan otomatis dan mengembalikan solusi yang mungkin untuk Anda gunakan untuk mengatasi masalah yang terdeteksi.
+Kami sangat menyarankan agar Anda menggunakan [Outlook tetap meminta diagnostik kata sandi saya](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) pada komputer yang terpengaruh untuk memecahkan masalah di mana Outlook terus meminta kata sandi. Diagnostik [SaRA](https://diagnostics.office.com/#/) ini melakukan pemeriksaan otomatis dan mengembalikan solusi yang memungkinkan untuk Anda gunakan untuk mengatasi masalah yang terdeteksi.

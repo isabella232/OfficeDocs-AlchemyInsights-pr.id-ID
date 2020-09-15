@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: c28c8b10cae72550fe7fe8ebf6cebc3635d28459
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44289565"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801880"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Mencetak pada kedua sisi kertas (pencetakan dupleks)
 
 **Apakah printer saya mampu mencetak dupleks?**
 
-Ringkasan atau Panduan fitur pencetak Anda harus memberi tahu Anda apakah ia mampu mencetak di kedua sisi kertas, juga dikenal sebagai "pencetakan dupleks." Jika Anda memiliki Microsoft Office, cara lain untuk mengetahui adalah dengan membuka aplikasi Office seperti Word atau Excel, pergi ke **File > Print**, memastikan printer yang tepat dipilih, dan mencari kemampuan di bagian Settings. Misalnya: 
+Ringkasan fitur atau manual printer Anda harus memberi tahu Anda Apakah alat ini mampu mencetak pada kedua sisi kertas, juga dikenal sebagai "pencetakan dupleks." Jika Anda memiliki Microsoft Office, cara lain untuk mengetahuinya adalah dengan membuka aplikasi Office seperti Word atau Excel, masuk ke **File > cetak**, pastikan printer yang tepat dipilih, dan Cari kapabilitas di bagian pengaturan. Misalnya: 
 
-![Setelan pencetak](media/print-settings.png)
+![Pengaturan printer](media/print-settings.png)
 
 **Pencetakan dupleks di Microsoft Office**
 
-Jika printer Anda mampu mencetak pada kedua sisi, ketika Anda pergi ke **File > Print** di aplikasi Office, Anda akan melihat pilihan untuk "Print di kedua sisi," seperti ditunjukkan pada contoh di atas.  Pilih jenis pencetakan dupleks yang Anda inginkan (flip pada tepi panjang, atau flip pada tepi pendek), dan klik **cetak** untuk memulai cetakan.
+Jika printer Anda mampu mencetak pada kedua sisi, saat Anda masuk ke **File > mencetak** di aplikasi Office, Anda akan melihat opsi untuk "mencetak pada kedua sisi," seperti yang diperlihatkan dalam contoh di atas.  Pilih tipe pencetakan dupleks yang Anda inginkan (balikkan pada tepi yang panjang, atau balikkan pada tepi pendek), dan klik **cetak** untuk memulai hasil cetak.
 
-**Pencetakan dupleks dari aplikasi apa saja**
+**Pencetakan dupleks dari aplikasi apa pun**
 
-Di banyak aplikasi saat Anda mencetak, Anda akan melihat dialog cetak umum yang terlihat seperti ini: 
+Dalam banyak aplikasi saat Anda mencetak, Anda akan melihat dialog cetak umum yang terlihat seperti ini: 
 
 ![Dialog cetak](media/print-dialog.png)
 
-Pastikan Pencetak yang tepat dipilih, lalu klik **preferensi** untuk membuka jendela preferensi pencetak. Jika printer mampu mencetak dupleks, kemampuan untuk mengaktifkan ini untuk pekerjaan pencetakan saat ini akan ditampilkan di jendela tersebut.
+Pastikan printer yang tepat dipilih, lalu klik **preferensi** untuk membuka jendela preferensi printer. Jika printer mampu mencetak dupleks, kemampuan untuk mengaktifkan ini untuk pekerjaan pencetakan saat ini akan diperlihatkan di jendela tersebut.

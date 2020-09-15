@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e5d08462e8662fa1651ad81235d0efd5fc4bac58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721297"
 ---
-# <a name="teams-policies"></a>Kebijakan tim
+# <a name="teams-policies"></a>Kebijakan teams
 
-Pengaturan Microsoft teams dikontrol oleh kebijakan. Untuk membuat perubahan, Anda harus mengkonfigurasi kebijakan yang sesuai, dan kemudian menerapkannya ke pengguna. Cara tercepat untuk melakukan hal ini untuk semua pengguna Anda adalah untuk memodifikasi Kebijakan default bernama global. 
+Pengaturan Microsoft teams dikontrol oleh kebijakan. Untuk membuat perubahan, Anda harus mengonfigurasi kebijakan yang sesuai, lalu menerapkannya ke pengguna. Cara tercepat untuk melakukan ini untuk semua pengguna Anda adalah dengan mengubah kebijakan default bernama global. 
 
-**Catatan** Perubahan kebijakan memerlukan waktu ***setidaknya 4 hingga 48 jam untuk diterapkan***. Jika Anda membuat kebijakan khusus, Anda harus menunggu setidaknya 4 jam sebelum Anda dapat membuat perubahan tambahan. Kemudian Anda dapat menerapkan kebijakan itu kepada pengguna. Ini berarti bahwa kebijakan kustom dapat memerlukan waktu hingga 48 jam untuk diterapkan. Kebijakan global ditetapkan sebagai default untuk semua pengguna, dan perubahan kebijakan global dapat memerlukan waktu hingga 24 jam untuk diterapkan. Jika Anda telah membuat kebijakan khusus, menerapkannya ke pengguna, dan masih belum berlaku setelah 48 jam, atau Anda telah memodifikasi Kebijakan global dan menunggu setidaknya 24 Jam, silakan buka kasus dukungan.
+**Catatan** Perubahan kebijakan memakan waktu ***setidaknya 4 hingga 48 jam untuk***diterapkan. Jika Anda membuat kebijakan kustom, Anda harus menunggu setidaknya 4 jam sebelum Anda bisa membuat perubahan tambahan untuk itu. Lalu Anda dapat menerapkan kebijakan tersebut kepada pengguna. Ini berarti bahwa kebijakan kustom dapat memakan waktu hingga 48 jam untuk diterapkan. Kebijakan global diatur sebagai default untuk semua pengguna, dan perubahan pada kebijakan global dapat memakan waktu hingga 24 jam agar diterapkan. Jika Anda telah membuat kebijakan kustom, menerapkannya ke pengguna, dan masih belum diterapkan setelah 48 jam, atau Anda telah mengubah kebijakan global dan menunggu setidaknya 24 Jam, silakan buka kasus dukungan.
 
-Kebijakan tim dibagi ke dalam area berikut:
+Kebijakan teams dibagi menjadi area berikut:
 
-- [Kebijakan tim](https://docs.microsoft.com/MicrosoftTeams/teams-policies) mengontrol penemuan pengguna tim pribadi dalam pencarian dan pembuatan saluran pribadi.  
-- [Kebijakan Rapat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan Rapat tim, termasuk mengontrol lobi. Untuk bantuan terkait masalah di lobi, seperti mengonfigurasi tim untuk mengakui semua orang, lihat [mengontrol setelan lobi dan tingkat partisipasi](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
-- [Kebijakan pesan](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan chat dan pesan, termasuk mengaktifkan atau menonaktifkan chat, menghapus chat, meminta tanda terima baca, menggunakan giphys dan stiker, dan banyak lagi.
-- [Kebijakan penyiapan aplikasi](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) mengontrol aplikasi mana yang tersedia bagi pengguna, termasuk aplikasi khusus dan pihak ketiga, serta urutan iklan tersebut muncul.  
-- [Kebijakan penyimpanan](https://docs.microsoft.com/microsoftteams/retention-policies) data untuk teams ditemukan di Microsoft 365 keamanan dan kepatuhan pusat.
-- Kebijakan buku alamat teams diatur melalui [pencarian direktori scoped](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).
+- [Kebijakan teams](https://docs.microsoft.com/MicrosoftTeams/teams-policies) mengontrol penemuan pengguna tim privat dalam pencarian dan pembuatan saluran pribadi.  
+- [Kebijakan Rapat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan Rapat teams, termasuk mengontrol lobi. Untuk bantuan dengan masalah lobi, seperti mengonfigurasi tim untuk mengakuinya, lihat [mengontrol pengaturan lobi dan tingkat partisipasi](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
+- [Kebijakan pesan](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) mengontrol apa yang dapat dilakukan pengguna dengan obrolan dan pesan, termasuk mengaktifkan atau menonaktifkan obrolan, menghapus obrolan, meminta tanda terima baca, menggunakan gipai dan stiker, dan lainnya.
+- [Kebijakan penyetelan aplikasi](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) mengontrol aplikasi yang tersedia untuk pengguna, termasuk aplikasi kustom dan pihak ketiga, serta urutan yang muncul.  
+- [Kebijakan penyimpanan](https://docs.microsoft.com/microsoftteams/retention-policies) data untuk teams ditemukan di pusat kepatuhan dan keamanan Microsoft 365.
+- Kebijakan buku alamat tim diatur melalui [pencarian direktori scophe](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

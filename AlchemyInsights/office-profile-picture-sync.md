@@ -1,33 +1,34 @@
 ---
-title: Menyelaraskan gambar profil pengguna
+title: Menyinkronkan gambar profil pengguna
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: f2f1950f3f0f7b307b0adf50a3cc873f04b66883
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f243a68b5eb7f23f096183a923a32c1eb7b9508e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713217"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694785"
 ---
-# <a name="sync-a-users-profile-picture"></a>Menyelaraskan gambar profil pengguna
+# <a name="sync-a-users-profile-picture"></a>Menyinkronkan gambar profil pengguna
 
-Anda dapat menambahkan atau mengubah foto profil Anda di Microsoft 365 dari [Office.com](https://www.office.com), atau saat menggunakan aplikasi Microsoft di komputer Anda atau di browser pada ponsel Anda. Foto Anda akan muncul di mana-mana ada lingkaran foto profil di Microsoft 365.
+Anda bisa menambahkan atau mengubah foto profil Anda di Microsoft 365 dari [Office.com](https://www.office.com), atau saat menggunakan aplikasi Microsoft di komputer Anda atau di browser di ponsel Anda. Foto Anda akan muncul di mana-mana lingkaran foto profil di Microsoft 365.
 
-Untuk menambahkan foto profil Anda ke Microsoft 365 untuk bisnis
+Untuk menambahkan foto profil Anda ke Microsoft 365 for Business
 
-- Temukan foto yang ingin Anda gunakan dan Simpan di komputer Anda, OneDrive, atau lokasi lain yang dapat Anda peroleh
+- Temukan foto yang ingin Anda gunakan dan Simpan di komputer, OneDrive, atau lokasi lain yang bisa Anda peroleh
 
-- Masuk ke Microsoft 365 dengan akun kantor atau sekolah Anda di [Office.com](https://www.office.com).
+- Masuk ke Microsoft 365 dengan akun kerja atau sekolah di [Office.com](https://www.office.com).
 
-- Pilih lingkaran di sudut kanan atas halaman yang menampilkan inisial atau ikon dari seseorang.
+- Pilih lingkaran di sudut kanan atas halaman yang memperlihatkan inisial Anda atau ikon orang.
 
-- Di panel akun saya, pilih lingkaran yang menampilkan inisial atau ikon seseorang. Ubah foto Anda di pop-up yang muncul.
+- Di panel akun saya, pilih lingkaran yang memperlihatkan inisial Anda atau ikon seseorang. Ubah foto Anda dalam pop-up yang muncul.
 
 Catatan: jika Anda telah mengunggah gambar, Anda mungkin ingin mencoba mengklik ubin SharePoint atau OneDrive untuk menyinkronkan ulang gambar tersebut.
 
-Untuk informasi selengkapnya, silakan kunjungi [informasi tentang profil gambar sinkronisasi di Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Untuk informasi selengkapnya, silakan kunjungi [informasi tentang sinkronisasi gambar profil di Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).

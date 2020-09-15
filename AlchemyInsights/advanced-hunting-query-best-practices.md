@@ -1,28 +1,29 @@
 ---
-title: Praktik terbaik permintaan berburu lanjutan
+title: Praktik terbaik kueri berburu lanjutan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: e9752434b5f525e442ed73a30ae349edf0d12400
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599307"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696660"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Praktik terbaik permintaan berburu lanjutan
+# <a name="advanced-hunting-query-best-practices"></a>Praktik terbaik kueri berburu lanjutan
 
-Silakan lihat artikel lengkap [praktek berburu lanjutan terbaik](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) untuk rekomendasi rinci dan bimbingan pada:
-- Mengoptimalkan performa query.
-- Query Tips dan perangkap.
-- Query dengan baris perintah.
+Silakan lihat artikel selengkapnya tentang [praktik terbaik kueri berburu](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) lengkap untuk saran dan panduan mendetail tentang:
+- Mengoptimalkan kinerja kueri.
+- Tips dan perangkap kueri.
+- Kueri dengan baris perintah.
 
 
