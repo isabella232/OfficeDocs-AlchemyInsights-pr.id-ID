@@ -1,29 +1,30 @@
 ---
-title: Memperbaiki masalah pencetak
+title: Memperbaiki masalah printer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 3da19ce8f44cdc08aed708e9bf238350764843f4
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37976056"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677679"
 ---
-# <a name="troubleshoot-your-printer"></a>Memecahkan masalah printer
+# <a name="troubleshoot-your-printer"></a>Mengatasi masalah printer Anda
 
-Jika Anda mengalami masalah pencetak, pertama coba lakukan **siklus daya pencetak**. Ikuti langkah berikut:
+Jika Anda mengalami masalah printer, coba terlebih dahulu **siklus Power printer**. Ikuti langkah-langkah ini:
 
-1. Matikan pencetak Anda dan cabut kabel dayanya.
+1. Matikan printer Anda dan cabut kabel daya.
 2. Tunggu 30 detik.
-3. Sambungkan kembali pencetak dan nyalakan kembali pencetak.
+3. Colokkan kembali kabel printer lalu nyalakan printer.
 
-Jika itu tidak menyelesaikan masalah Anda, menjalankan pemecah masalah printer dengan pergi untuk **memulai** > **pengaturan** > **pembaruan &** > **masalah**keamanan. Pilih **printer**, dan kemudian pilih **Jalankan pemecah masalah**.
+Jika itu tidak mengatasi masalah Anda, jalankan pemecah masalah printer dengan masuk ke **Start**  >  **pengaturan**mulai  >  **Perbarui &**  >  **pemecahan masalah**keamanan. Pilih **printer**, lalu pilih **Jalankan pemecah masalah**.

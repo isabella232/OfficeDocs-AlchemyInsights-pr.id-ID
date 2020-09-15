@@ -6,18 +6,19 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507409"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679444"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>Masalah DLP dengan nomor kartu kredit
 
@@ -25,19 +26,19 @@ ms.locfileid: "44507409"
 
 **Masalah DLP dengan nomor kartu kredit**
 
-Apakah Anda mengalami masalah dengan **pencegahan kehilangan data (DLP)** tidak bekerja untuk konten yang berisi **nomor kartu kredit** saat menggunakan jenis informasi sensitif DLP di O365? Jika demikian, pastikan konten Anda berisi informasi yang diperlukan untuk memicu kebijakan DLP ketika dievaluasi. Misalnya, untuk **kebijakan kartu kredit** yang dikonfigurasi dengan tingkat kepercayaan 85%, berikut dievaluasi dan harus terdeteksi untuk aturan untuk memicu:
+Apakah Anda mengalami masalah dengan **pencegahan kehilangan data (DLP)** tidak berfungsi untuk konten yang berisi **nomor kartu kredit** ketika menggunakan tipe informasi sensitif DLP di O365? Jika demikian, pastikan konten Anda berisi informasi yang diperlukan untuk memicu kebijakan DLP saat dievaluasi. Misalnya, untuk **kebijakan kartu kredit** yang dikonfigurasikan dengan tingkat kepercayaan 85%, hal berikut dievaluasi dan harus dideteksi agar aturan dipicu:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 digit yang dapat diformat atau belum diformat (dddddddddddddddd) dan harus lulus tes Luhn.
+- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 digit yang bisa diformat atau tidak diformat (dddddddddddddddd) dan harus lulus uji Luhn.
 
-- **[Pola:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Pola yang sangat kompleks dan kuat yang mendeteksi kartu dari semua merek utama di seluruh dunia, termasuk Visa, MasterCard, Discover Card, JCB, American Express, kartu hadiah, dan kartu restoran.
+- **[Pola:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Pola yang sangat kompleks dan kuat yang mendeteksi kartu dari semua merek utama di seluruh dunia, termasuk Visa, MasterCard, Kartu Discover, JCB, kartu American Express, Gift Cards, dan Diner.
 
 - **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Ya, checksum Luhn
 
-- **[Definisi:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Sebuah kebijakan DLP adalah 85% yakin bahwa hal itu terdeteksi jenis informasi sensitif jika, dalam kedekatan 300 karakter:
+- **[Definisi:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Kebijakan DLP adalah 85% yakin bahwa kebijakan ini mendeteksi tipe informasi sensitif ini jika, dalam kedekatan karakter 300:
 
-  - Fungsi Func_credit_card menemukan konten yang sesuai dengan pola.
+  - Fungsi Func_credit_card menemukan konten yang cocok dengan pola.
 
-  - Salah satu dari berikut ini benar:
+  - Salah satu hal berikut ini benar:
 
   - Kata kunci dari Keyword_cc_verification ditemukan.
 
@@ -45,15 +46,15 @@ Apakah Anda mengalami masalah dengan **pencegahan kehilangan data (DLP)** tidak 
 
   - Fungsi Func_expiration_date menemukan tanggal dalam format tanggal yang tepat.
 
-  - Checksum lolos
+  - Tanda titik lewat
 
-    Sebagai contoh, contoh berikut akan memicu untuk kebijakan nomor kartu kredit DLP:
+    Misalnya, sampel berikut ini akan memicu kebijakan nomor kartu kredit DLP:
 
   - Visa: 4485 3647 3952 7352
   
   - Berakhir: 2/2009
 
-Untuk informasi lebih lanjut tentang apa yang diperlukan untuk **nomor kartu kredit** akan terdeteksi untuk konten Anda, lihat bagian berikut dalam artikel ini: [apa jenis informasi sensitif mencari kartu kredit #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Untuk informasi selengkapnya tentang apa yang diperlukan untuk **nomor kartu kredit** yang akan terdeteksi untuk konten Anda, lihat bagian berikut ini di artikel ini: [apa tipe informasi sensitif Cari kartu kredit #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Menggunakan jenis informasi sensitif internal yang berbeda, lihat artikel berikut untuk informasi tentang apa yang diperlukan untuk jenis lain: [apa jenis informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) mencari
+Menggunakan tipe informasi sensitif bawaan yang berbeda, lihat artikel berikut ini untuk informasi tentang apa yang diperlukan untuk tipe lainnya: [apa yang dicari tipe informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

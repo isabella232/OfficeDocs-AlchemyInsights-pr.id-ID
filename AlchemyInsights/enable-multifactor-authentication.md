@@ -1,5 +1,5 @@
 ---
-title: Aktifkan autentikasi multifaktor
+title: Mengaktifkan autentikasi multifaktor
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678039"
 ---
 # <a name="enable-multi-factor-authentication"></a>Mengaktifkan autentikasi multifaktor
 
-Untuk mengaktifkan otentikasi multi faktor di Microsoft 365 Admin Center:
+Untuk mengaktifkan multi-Factor Authentication di pusat admin Microsoft 365:
 
-1. Buka halaman pengguna **aktif** users. **Users** \>
+1. Masuk ke halaman **Users** pengguna \> **aktif** pengguna.
     
 2. Di bagian atas halaman, pilih **autentikasi multifaktor**. 
     
-3. Temukan pengguna atau pengguna yang ingin Anda Aktifkan untuk autentikasi multifaktor. Untuk melihat semua pengguna, Anda mungkin perlu mengubah **multi-Factor Auth filter status** di bagian atas.
+3. Temukan pengguna atau pengguna yang ingin Anda Aktifkan untuk autentikasi multifaktor. Untuk melihat semua pengguna, Anda mungkin perlu mengubah filter **status autentikasi multifaktor** di bagian atas.
     
-4. Pilih kotak centang di samping pengguna yang akan diaktifkan.
+4. Pilih kotak centang di samping pengguna yang ingin Anda Aktifkan.
     
-5.  Di panel Info pengguna yang tepat, dalam **langkah cepat**, pilih **Aktifkan**. 
+5.  Di panel Info pengguna yang tepat, di bawah **langkah cepat**, pilih **Aktifkan**. 
     
-6. Di kotak dialog yang terbuka, pilih **mengaktifkan otentikasi multi faktor**. 
+6. Dalam kotak dialog yang terbuka, pilih **Aktifkan multi-Factor Auth**. 
     
 
