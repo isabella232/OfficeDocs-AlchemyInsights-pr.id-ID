@@ -1,29 +1,30 @@
 ---
-title: 'Pesan galat Word: Word tidak dapat membuat berkas kerja'
+title: 'Pesan kesalahan Word: Word tidak dapat membuat file kerja'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "3185"
-ms.openlocfilehash: cfcf7c57cd6e908040cb8865b6929c243f74b063
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0a84bcc8be84f89df7f110de03f7b34b46a8b60a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964201"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657495"
 ---
-# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Mengatasi pesan galat "Word tidak dapat membuat berkas kerja"
+# <a name="resolve-the-word-could-not-create-the-work-file-error-message"></a>Mengatasi pesan kesalahan "Word tidak dapat membuat file kerja"
 
-Untuk memperbaiki kesalahan ini, lihat ["Word tidak dapat membuat berkas bekerja" pesan galat ketika Anda menyimpan dokumen di Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).
+Untuk memperbaiki kesalahan ini, lihat [pesan kesalahan "Word tidak dapat membuat file kerja" ketika Anda menyimpan dokumen di Microsoft Word](https://docs.microsoft.com/office/troubleshoot/word/word-could-not-create-the-work-file).
 
-Jika Anda mengalami masalah saat membuka dokumen Word, coba hal berikut:
+Jika Anda mengalami masalah dalam membuka dokumen Word, cobalah yang berikut ini:
 
-- [Menginstal pemutakhiran Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Untuk daftar pemutakhiran Office terbaru, lihat [pembaruan terbaru](https://docs.microsoft.com/officeupdates/office-updates-msi).
+- [Instal pembaruan Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Untuk daftar pembaruan Office terbaru, lihat [pembaruan terkini](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Memecahkan masalah dokumen yang rusak di Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
-- [Memperbaiki aplikasi Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [Perbaiki aplikasi Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
