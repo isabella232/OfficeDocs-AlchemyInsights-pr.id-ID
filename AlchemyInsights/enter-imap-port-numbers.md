@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: 8557902e9ea73892eab24c3073784abf29df0fa9
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709442"
 ---
 # <a name="enter-imap-port-numbers"></a>Masukkan nomor port IMAP
 
-Masuk melalui layar setup muka dan menambahkan rincian Port Anda di belakang usus besar sejalan dengan alamat server masuk dan keluar. (Anda bisa mendapatkan rincian ini dari penyedia layanan email Anda.) 
+Masuk melalui layar penyetelan tingkat lanjut dan tambahkan detail Port Anda di belakang tanda titik dua sesuai dengan alamat server masuk dan keluar Anda. (Anda bisa mendapatkan detail ini dari penyedia layanan email Anda.) 
 
-Buka **pengaturan** > **Tambah** > **IMAP** akun > dan klik **Tampilkan Setelan lanjutan**; kemudian masukkan rincian Anda. 
+Masuk ke **pengaturan**  >  **Tambahkan**  >  >**IMAP** akun dan klik **Perlihatkan pengaturan tingkat lanjut**; lalu masukkan detail Anda. 
 
-*Mail server masuk*: IMAP.ServerName.com:000 (biasanya 993 atau 143) 
+*Server email masuk*: IMAP.ServerName.com:000 (biasanya 993 atau 143) 
 
-*Outgoing Mail Server*: SMTP.ServerName.com:000 (biasanya 465 atau 25) 
+*Server email keluar*: SMTP.ServerName.com:000 (biasanya 465 atau 25) 
 
-Perlu diingat bahwa usus besar adalah penting. 
+Ingatlah titik dua adalah hal penting. 

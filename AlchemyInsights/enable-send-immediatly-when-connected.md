@@ -1,10 +1,11 @@
 ---
-title: Aktifkan kirim segera ketika terhubung
+title: Mengaktifkan kirim langsung ketika tersambung
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 6daf26a899519d16711548113d4a04de0a563fee
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569190"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709586"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Aktifkan kirim segera ketika terhubung
+# <a name="enable-send-immediately-when-connected"></a>Mengaktifkan kirim langsung ketika tersambung
  
-1. Pada file tab, klik **opsi**.
+1. Pada tab file, klik **opsi**.
 
-2. Di kotak dialog Opsi Outlook, klik **lanjut**.
+2. Dalam kotak dialog Opsi Outlook, klik **tingkat lanjut**.
 
-3. Di bagian kirim dan terima, klik untuk mengaktifkan **kirim segera ketika tersambung**. Klik **OK**.
+3. Di bagian kirim dan terima, klik untuk mengaktifkan **kirim segera saat tersambung**. Klik **OK**.
 
 Untuk detail selengkapnya, lihat:
-- [Video: mengirim atau menghapus email yang macet](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Email tetap berada di folder kotak keluar sampai Anda secara manual memulai operasi kirim/terima di Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [Video: mengirim atau menghapus email yang terhenti](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [Email tetap berada di folder kotak keluar hingga Anda memulai operasi kirim/terima secara manual di Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
