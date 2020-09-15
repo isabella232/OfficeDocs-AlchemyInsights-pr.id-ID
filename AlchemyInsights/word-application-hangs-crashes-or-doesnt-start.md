@@ -1,38 +1,39 @@
 ---
-title: Word-aplikasi macet, lumpuh, atau tidak dimulai
+title: Aplikasi Word macet, crash, atau tidak dimulai
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 2105984bd6a9b04762e7e9153120c8c394c0b599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582634"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698829"
 ---
-# <a name="word-crashes-or-doesnt-respond"></a>Word macet atau tidak merespons
+# <a name="word-crashes-or-doesnt-respond"></a>Word mengalami crash atau tidak merespons
 
-Sering crash di Word dapat disebabkan oleh salah Add-in. Anda dapat menonaktifkan Add-in Word dengan mengikuti petunjuk berikut:
+Crash yang sering terjadi di Word dapat disebabkan oleh Add-in yang salah. Anda dapat menonaktifkan Add-in Word dengan mengikuti instruksi berikut:
 
-1. Buka opsi **berkas**  >  **Options**  >  **Add-in**.
-2. Dalam daftar **Kelola** , pilih **Add-in com**, dan kemudian pilih **Lanjutkan**.
-3. Di kotak **Add-in tersedia** , kosongkan kotak centang di samping Add-in yang Anda inginkan untuk menonaktifkan, dan pilih **OK**.
+1. Masuk ke **File**  >  **Options**  >  **Add-in**opsi file.
+2. Di daftar **Kelola** , pilih **Add-in com**, lalu pilih **masuk**.
+3. Dalam kotak **Add-in tersedia** , kosongkan kotak centang di samping Add-in yang ingin Anda Nonaktifkan, lalu pilih **OK**.
 
-Jika Word tidak dimulai, cobalah berikut ini:
+Jika Word tidak dimulai, cobalah hal berikut:
 
-1.   Pada Windows Desktop, tutup Outlook dan tekan CTRL + ALT + DEL untuk membuka pengelola tugas. 
-2. Pada tab **proses** , jika proses Word berjalan, pilih mereka dan pilih **Akhiri tugas**. Hal ini juga merekomendasikan bahwa Anda reboot untuk menghapus segalanya dari memori.
+1.   Di desktop Windows, tutup Outlook dan tekan CTRL + ALT + DEL untuk membuka manajer tugas. 
+2. Pada tab **proses** , jika proses Word berjalan, pilih mereka dan pilih **Akhiri tugas**. Juga menyarankan agar Anda melakukan reboot untuk menghapus semuanya dari memori.
 
-    Jika Word terus crash atau macet selama peluncuran, lihat [buka Microsoft 365 aplikasi dalam mode aman pada Windows PC](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) untuk memulai dalam mode aman.
+    Jika Word terus mengalami crash atau macet selama peluncuran, lihat [membuka aplikasi Microsoft 365 dalam mode aman di PC Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) untuk menjalankannya dalam mode aman.
 
 Jika Anda masih mengalami masalah, lihat artikel berikut ini: 
-- [Saya mendapatkan kesalahan "berhenti bekerja" ketika saya memulai aplikasi Office di PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Perbaikan atau penyelesaian untuk masalah terbaru di Word untuk Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)
+- [Saya mendapatkan kesalahan "berhenti bekerja" saat memulai aplikasi Office di PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
+- [Perbaikan atau solusi untuk masalah terbaru di Word untuk Windows](https://support.office.com/article/bf6bf17c-2807-4871-83ce-e337ae8f0b86)

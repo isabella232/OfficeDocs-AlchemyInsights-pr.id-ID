@@ -5,40 +5,41 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582850"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699738"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Tidak dapat menambahkan 2010 persetujuan alur kerja
 
-Dalam koleksi situs Microsoft SharePoint, Anda tidak dapat menambahkan alur kerja global Reusable (seperti "persetujuan-SharePoint 2010") ke daftar atau Perpustakaan.
+Dalam kumpulan situs Microsoft SharePoint, Anda tidak bisa menambahkan alur kerja yang dapat digunakan kembali secara global (seperti "persetujuan-SharePoint 2010") ke daftar atau pustaka.
   
-Untuk mengatasi masalah ini, ikuti langkah berikut: 
+Untuk mengatasi masalah ini, ikuti langkah-langkah berikut: 
   
-1. Buka situs akar koleksi situs di 2013 SharePoint Designer.
+1. Buka situs web akar kumpulan situs di SharePoint Designer 2013.
   
 2. Di bawah **objek situs**, pilih **alur kerja**. 
   
-3. Di bagian **baru** pita **alur kerja** , pilih **alur kerja dapat digunakan kembali**. 
+3. Di bagian **baru** pita **alur kerja** , pilih **alur kerja yang dapat digunakan kembali**. 
   
-4. Pada formulir **buat alur kerja yang dapat digunakan kembali** , masukkan nama * * *Repair2010* * *. Untuk **jenis platform**, klik **alur kerja SharePoint 2010**, dan kemudian klik **OK**. 
+4. Pada formulir **buat alur kerja yang dapat digunakan kembali** , masukkan nama * * *Repair2010* * *. Untuk **tipe platform**, klik **alur kerja SharePoint 2010**, lalu klik **OK**. 
   
-1. Di bagian **Simpan** pita **alur kerja** , pilih **terbitkan**. 
+1. Di bagian **Simpan** pada pita **alur kerja** , pilih **terbitkan**. 
   
-2. Di bagian **Kelola** pita **alur kerja** , pilih **terbitkan secara global**. Di kotak dialog konfirmasi yang muncul, pilih **OK**. 
+2. Di bagian **Kelola** dari pita **alur kerja** , pilih **terbitkan secara global**. Dalam kotak dialog konfirmasi yang muncul, pilih **OK**. 
   
-3. Di web browser, temukan situs akar koleksi situs, dan kemudian akses situs **pengaturan** \> **situs koleksi fitur**. Beralih fitur **alur kerja** : 
+3. Di browser web, temukan situs web akar dari kumpulan situs, lalu akses **Site Settings** \> **fitur kumpulan situs**pengaturan situs. Mengaktifkan fitur **alur kerja** : 
   
-· Jika fitur *diaktifkan* , klik **Nonaktifkan,** dan kemudian klik **Aktifkan**. 
+· Jika fitur  *diaktifkan*  , klik **Nonaktifkan,** lalu klik **Aktifkan**. 
   
-· Jika fitur *dinonaktifkan* , klik **Aktifkan**. 
+· Jika fitur  *dinonaktifkan*  , klik **Aktifkan**. 
   
-Untuk informasi lebih lanjut, silakan merujuk ke [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)berikut.
+Untuk informasi selengkapnya, lihat [artikel](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409)berikut ini.
   
 
