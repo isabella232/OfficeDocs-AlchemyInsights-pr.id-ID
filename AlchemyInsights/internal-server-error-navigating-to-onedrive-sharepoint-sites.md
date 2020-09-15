@@ -5,32 +5,33 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763148"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677173"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="2417b-102">Galat internal Server ketika menavigasi ke situs SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="2417b-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="6a415-102">Kesalahan server internal ketika menavigasi ke situs SharePoint atau OneDrive</span><span class="sxs-lookup"><span data-stu-id="6a415-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
 
-<span data-ttu-id="2417b-103">Pengguna akan menerima galat internal Server 500 ketika mencoba untuk menavigasi ke situs SharePoint atau OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2417b-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
+<span data-ttu-id="6a415-103">Pengguna mungkin menerima kesalahan server internal 500 saat mencoba menavigasi ke situs SharePoint atau OneDrive.</span><span class="sxs-lookup"><span data-stu-id="6a415-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
 
-<span data-ttu-id="2417b-104">Silakan mencoba untuk menghapus cache browser sebelum menavigasi ke situs.</span><span class="sxs-lookup"><span data-stu-id="2417b-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="6a415-104">Coba Kosongkan tembolok browser sebelum menavigasi ke situs.</span><span class="sxs-lookup"><span data-stu-id="6a415-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
 
 
-1. <span data-ttu-id="2417b-105">Di browser Microsoft Edge, pergi ke selebihnya... > pengaturan</span><span class="sxs-lookup"><span data-stu-id="2417b-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
+1. <span data-ttu-id="6a415-105">Di browser Microsoft Edge, masuk ke selengkapnya... pengaturan ></span><span class="sxs-lookup"><span data-stu-id="6a415-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
 
-2. <span data-ttu-id="2417b-106">Di bawah data browsing yang jelas, pilih **pilih yang akan**</span><span class="sxs-lookup"><span data-stu-id="2417b-106">Under Clear browsing data, select **Choose what to clear**</span></span>
+2. <span data-ttu-id="6a415-106">Di bawah Hapus data penelusuran, pilih **pilih apa yang harus dihapus**</span><span class="sxs-lookup"><span data-stu-id="6a415-106">Under Clear browsing data, select **Choose what to clear**</span></span>
 
-3. <span data-ttu-id="2417b-107">Pilih kotak centang Cookie dan data situs web yang disimpan, lalu pilih **Hapus**.</span><span class="sxs-lookup"><span data-stu-id="2417b-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
+3. <span data-ttu-id="6a415-107">Pilih kotak centang Cookie dan data situs web yang disimpan, lalu pilih **Hapus**.</span><span class="sxs-lookup"><span data-stu-id="6a415-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
 
-<span data-ttu-id="2417b-108">Catatan: langkah ini mungkin berbeda bila menggunakan browser lain seperti Firefox atau Chrome.</span><span class="sxs-lookup"><span data-stu-id="2417b-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
+<span data-ttu-id="6a415-108">Catatan: langkah-langkah ini mungkin berbeda ketika menggunakan browser lain seperti Firefox atau Chrome.</span><span class="sxs-lookup"><span data-stu-id="6a415-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
 
-<span data-ttu-id="2417b-109">Jika ini tidak menyelesaikan masalah, Anda dapat memeriksa apakah ada pemeliharaan aktif yang terjadi pada penyewa Anda dengan menavigasi ke [pusat pesan](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="2417b-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
+<span data-ttu-id="6a415-109">Jika ini tidak mengatasi masalah, Anda bisa memeriksa apakah ada pemeliharaan aktif yang terjadi pada penyewa Anda dengan menavigasi ke [pusat pesan](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="6a415-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
 
-<span data-ttu-id="2417b-110">Akhirnya, pastikan Anda mengunjungi halaman [layanan kesehatan](https://portal.office.com/adminportal/home#/servicehealth) untuk memeriksa setiap saran/insiden yang mungkin terjadi.</span><span class="sxs-lookup"><span data-stu-id="2417b-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
+<span data-ttu-id="6a415-110">Terakhir, pastikan Anda mengunjungi halaman [Kesehatan Layanan](https://portal.office.com/adminportal/home#/servicehealth) untuk memeriksa setiap saran/kejadian yang mungkin terjadi.</span><span class="sxs-lookup"><span data-stu-id="6a415-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
 

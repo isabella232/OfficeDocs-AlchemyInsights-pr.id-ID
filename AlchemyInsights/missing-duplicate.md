@@ -1,23 +1,24 @@
 ---
-title: Tidak ada-duplikat
+title: Hilang-duplikat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 0987a5c66e6853f457624f251a53a9c4a842e4b9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627433"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673753"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="dfc7a-102">Pemecahan masalah item kalender hilang dan duplikat</span><span class="sxs-lookup"><span data-stu-id="dfc7a-102">Troubleshooting missing and duplicate calendar items</span></span>
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a><span data-ttu-id="00d06-102">Pemecahan masalah item kalender yang hilang dan duplikat</span><span class="sxs-lookup"><span data-stu-id="00d06-102">Troubleshooting missing and duplicate calendar items</span></span>
 
-<span data-ttu-id="dfc7a-103">Untuk informasi tentang cara memecahkan masalah dengan janji temu hilang dan duplikat ketika Anda menggunakan Microsoft Outlook dan Microsoft Exchange Server, lihat [bagaimana cara memecahkan masalah janji temu hilang dan duplikat di Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="dfc7a-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>
+<span data-ttu-id="00d06-103">Untuk informasi tentang cara memecahkan masalah dengan janji hilang dan duplikat saat Anda menggunakan Microsoft Outlook dan Microsoft Exchange Server, lihat [cara memecahkan masalah janji yang hilang dan duplikat di Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="00d06-103">For information on how to troubleshoot problems with missing and duplicate appointments when you use Microsoft Outlook and Microsoft Exchange Server, see [How to troubleshoot missing and duplicate appointments in Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).</span></span>
