@@ -1,30 +1,31 @@
 ---
-title: AntiSpam 5.4.1 DBEB menangkap-semua
+title: Anti spam 5.4.1 DBEB Catch-All
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707914"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717364"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Memperbaiki masalah pengiriman kode galat 550 5.4.1 akses relay ditolak
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Memperbaiki masalah pengiriman untuk kode kesalahan 550 5.4.1 relay Access ditolak
 
-Masalah ini terjadi saat [memeriksa untuk melihat jika alamat email yang valid untuk mencegah bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) ketika memasuki jaringan Microsoft. Coba langkah berikut:
+Masalah ini terjadi ketika [memeriksa untuk melihat apakah alamat email valid untuk mencegah bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) saat memasukkan jaringan Microsoft. Cobalah hal berikut:
 
-1. Tentukan apakah masalah khusus untuk seluruh domain atau satu alamat email:
-    - Seluruh domain: terkadang domain perlu disinkronkan; Coba [Atur domain ke internal dan kemudian kembali ke otoritatif](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Alamat email tunggal: terkadang alamat harus disinkronkan; mengubah alamat SMTP proxy dan kemudian mengubahnya kembali dapat membantu.
-2. Tentukan apakah masalah khusus untuk grup atau folder publik. Untuk beberapa jenis objek, objek mungkin perlu secara manual dibuat di Azure Active Directory.
+1. Tentukan apakah masalah spesifik untuk seluruh domain atau satu alamat email:
+    - Seluruh domain: terkadang domain perlu disinkronkan; Coba [Atur domain ke internal lalu kembali ke otoritatif](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Alamat email tunggal: terkadang alamat perlu disinkronkan; mengubah alamat proksi SMTP lalu mengubahnya kembali bisa membantu.
+2. Menentukan apakah masalah tersebut spesifik untuk grup atau folder publik. Untuk beberapa tipe objek, objek mungkin harus dibuat secara manual di Azure Active Directory.
 
-Jika Anda memerlukan bantuan tambahan, silakan buka tiket dukungan dan tentukan cakupan masalah (termasuk jenis objek yang Anda kirim ke) sehingga kami dapat membantu Anda dengan lebih baik.
+Jika Anda memerlukan bantuan tambahan, silakan buka tiket dukungan dan tentukan lingkup masalah (termasuk tipe objek yang Anda kirim) agar kami bisa membantu Anda lebih baik.

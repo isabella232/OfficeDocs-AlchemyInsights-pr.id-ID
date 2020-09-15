@@ -5,6 +5,7 @@ author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768263"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718120"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Izinkan pengguna mengirim email sebagai grup distribusi
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Memperbolehkan pengguna untuk mengirim email sebagai grup distribusi
 
-Untuk mengizinkan pengguna mengirim pesan yang muncul berasal dari grup distribusi yang ada, ikuti langkah berikut:
+Untuk memperbolehkan pengguna mengirim pesan yang tampak berasal dari grup distribusi yang sudah ada, ikuti langkah-langkah berikut:
 
-1. Di [Pusat admin Exchange](https://outlook.office365.com/ecp/), buka **grup** **penerima** \> .
+1. Di [Pusat admin Exchange](https://outlook.office365.com/ecp/), masuk ke grup **penerima** \> **Groups**.
 
 2. Pilih grup distribusi yang ingin Anda ubah, lalu klik **Edit**.
 
-3. Di properti grup, pergi ke tab **delegasi grup** untuk menentukan pengguna yang dapat mengirim sebagai atau kirim atas nama grup distribusi.
+3. Dalam properti grup, masuk ke tab **delegasi grup** untuk menentukan pengguna yang dapat mengirim atau mengirim atas nama grup distribusi.
 
-Untuk informasi lebih lanjut, lihat [opsi email](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Untuk informasi selengkapnya, lihat [opsi email](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
