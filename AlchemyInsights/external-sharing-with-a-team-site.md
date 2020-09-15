@@ -5,28 +5,29 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: 05dc591bec1414fbc9f6eca9efcd0fdbf93bd9b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0f5d72493c219ebc007d33d48246e0fd009c6644
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702849"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708470"
 ---
 # <a name="external-sharing-with-a-team-site"></a>Berbagi eksternal dengan situs tim
 
-Untuk mengaktifkan berbagi pengguna eksternal untuk situs tim, ikuti langkah berikut: 
+Untuk mengaktifkan berbagi pengguna eksternal untuk situs tim, ikuti langkah-langkah berikut: 
   
 1. Di pusat admin SharePoint baru, klik **situs aktif**.
   
-2. Pilih situs yang memiliki template **situs tim** . 
+2. Pilih situs yang memiliki Templat **situs tim** . 
   
 3. Pilih tombol **berbagi** dari menu atas. 
   
- **Catatan**: secara default, ketika situs tim modern dibuat, opsi berbagi eksternal akan ditetapkan ke pengguna eksternal baru dan yang sudah ada. 
+ **Catatan**: secara default, ketika situs tim modern dibuat, opsi berbagi eksternal akan diatur ke pengguna eksternal baru dan yang sudah ada. 
   
- **Catatan:** Jika Anda memiliki lebih dari satu situs yang dipilih, tombol **berbagi** akan muncul dinonaktifkan. Pilih hanya satu situs. 
+ **Catatan:** Jika Anda memiliki lebih dari satu situs yang dipilih, tombol **berbagi** akan terlihat nonaktif. Pilih hanya satu situs. 
   
 
