@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 3effadb7fcd509c557beffccafc2ba3394bac88f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 18505cb08b54a51f9c75424386217b8676467333
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766280"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689309"
 ---
-# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="6d18a-102">Memverifikasi domain Anda dengan GoDaddy</span><span class="sxs-lookup"><span data-stu-id="6d18a-102">Verify your domain with GoDaddy</span></span>
+# <a name="verify-your-domain-with-godaddy"></a><span data-ttu-id="97910-102">Memverifikasi domain Anda dengan GoDaddy</span><span class="sxs-lookup"><span data-stu-id="97910-102">Verify your domain with GoDaddy</span></span>
 
-<span data-ttu-id="6d18a-103">Untuk memverifikasi domain, Anda harus menambahkan data TXT ke registrar domain untuk memverifikasi bahwa Anda adalah pemilik domain.</span><span class="sxs-lookup"><span data-stu-id="6d18a-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="97910-103">Untuk memverifikasi domain, Anda perlu menambahkan rekaman TXT ke pendaftar domain untuk memverifikasi bahwa Anda adalah pemilik domain.</span><span class="sxs-lookup"><span data-stu-id="97910-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="6d18a-104">Pertama, ikuti [Wisaya Tambah domain](https://portal.office.com/adminportal/home#/Domains) dengan memilih **tataan** \> **domain**, dan kemudian **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="6d18a-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="97910-104">Pertama, ikuti [panduan Tambahkan domain](https://portal.office.com/adminportal/home#/Domains) dengan memilih **pengaturan** domain \> **Domains**, lalu **Tambahkan domain**.</span><span class="sxs-lookup"><span data-stu-id="97910-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="6d18a-105">Lihat [membuat data DNS di GoDaddy untuk Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) untuk petunjuk langkah demi langkah.</span><span class="sxs-lookup"><span data-stu-id="6d18a-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>
+<span data-ttu-id="97910-105">Lihat [membuat catatan DNS di GoDaddy untuk Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) untuk instruksi langkah demi langkah.</span><span class="sxs-lookup"><span data-stu-id="97910-105">See [Create DNS records at GoDaddy for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-godaddy) for step-by-step instructions.</span></span>

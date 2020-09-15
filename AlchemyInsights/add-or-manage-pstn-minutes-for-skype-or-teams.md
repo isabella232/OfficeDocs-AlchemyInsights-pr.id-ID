@@ -1,23 +1,24 @@
 ---
-title: Menambahkan atau mengelola PSTN menit untuk Skype atau tim
+title: Menambahkan atau mengelola PSTN menit untuk Skype atau teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 7c729574ba04366d3574ece97cc2fc01700a659c
-ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
+ms.openlocfilehash: 71b96ba17bdad438a62cbf3e6b80dff34fda32f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573100"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688049"
 ---
-# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a><span data-ttu-id="247fc-102">Menambahkan atau mengelola PSTN menit untuk Skype atau tim</span><span class="sxs-lookup"><span data-stu-id="247fc-102">Add or Manage PSTN Minutes for Skype or Teams</span></span>
+# <a name="add-or-manage-pstn-minutes-for-skype-or-teams"></a><span data-ttu-id="120fa-102">Menambahkan atau mengelola PSTN menit untuk Skype atau teams</span><span class="sxs-lookup"><span data-stu-id="120fa-102">Add or Manage PSTN Minutes for Skype or Teams</span></span>
 
-<span data-ttu-id="247fc-103">Jika Anda telah menerima pemberitahuan peringatan bahwa menit Skype atau teams Anda hampir digunakan, harap Tinjau cara [menambahkan dana dan mengelola kredit komunikasi untuk penyewa Anda](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span><span class="sxs-lookup"><span data-stu-id="247fc-103">If you have received a warning notification that your Skype or Teams minutes are almost used, please review how to [add funds and manage communication credits for your tenant](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span></span>
+<span data-ttu-id="120fa-103">Jika Anda telah menerima pemberitahuan peringatan bahwa menit Skype atau teams Anda hampir digunakan, silakan Tinjau cara [menambahkan dana dan mengelola kredit komunikasi untuk penyewa Anda](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span><span class="sxs-lookup"><span data-stu-id="120fa-103">If you have received a warning notification that your Skype or Teams minutes are almost used, please review how to [add funds and manage communication credits for your tenant](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits).</span></span>
