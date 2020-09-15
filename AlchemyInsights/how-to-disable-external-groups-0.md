@@ -1,33 +1,34 @@
 ---
-title: Cara menonaktifkan eksternal grup
+title: Cara menonaktifkan grup eksternal
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: b62d53d1698f0afd3d89139f2cc2711a8a9b8ba6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769054"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704168"
 ---
-# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cara memberikan akses ke pengguna eksternal di heboh
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cara memberi akses ke pengguna eksternal di Yammer
 
-Ada empat cara pengguna eksternal dapat mengakses jaringan Anda di heboh.
+Ada empat cara pengguna eksternal bisa mengakses jaringan Anda di Yammer.
   
-1. **Tamu pengguna** -heboh admin dapat mengundang kontak dari domain eksternal sebagai pengguna di jaringan rumah. Pengguna ini akan melihat feed semua perusahaan dan dapat bergabung dengan kelompok lain dalam jaringan juga.
+1. **Pengguna tamu** -admin Yammer dapat mengundang kontak dari domain eksternal sebagai pengguna di jaringan rumah. Pengguna ini akan melihat umpan semua perusahaan dan juga bisa bergabung dalam grup lain dalam jaringan.
 
-2. **Pengguna eksternal di grup eksternal** -grup eksternal memungkinkan pengguna eksternal. Cakupan akses pengguna eksternal terbatas pada grup eksternal. Dengan grup eksternal, Anda hanya dapat mengundang kontak dari jaringan heboh yang memungkinkan pengguna untuk berpartisipasi dalam percakapan eksternal.
+2. **Pengguna eksternal dalam grup eksternal** -grup eksternal memperbolehkan pengguna eksternal. Lingkup akses pengguna eksternal terbatas pada grup eksternal. Dengan grup eksternal, Anda hanya bisa mengundang kontak dari jaringan Yammer yang memungkinkan pengguna untuk berpartisipasi dalam percakapan eksternal.
 
-3. **Pengguna eksternal dalam percakapan heboh dalam kelompok internal** -opsi ini memungkinkan peserta eksternal untuk ditambahkan ke percakapan tertentu. Peserta eksternal hanya dapat berpartisipasi dalam percakapan mereka secara eksplisit diundang untuk dan untuk setiap lampiran dalam percakapan. Mereka mengakses percakapan ini melalui kotak masuk heboh mereka (pada jaringan mereka). Mereka tidak memiliki akses ke seluruh jaringan Anda.
+3. **Pengguna eksternal dalam percakapan Yammer dalam grup internal** -opsi ini memperbolehkan peserta eksternal untuk ditambahkan ke percakapan tertentu. Peserta eksternal hanya dapat berpartisipasi dalam percakapan yang telah diundang secara eksplisit ke dan ke lampiran apa pun dalam percakapan tersebut. Mereka mengakses percakapan ini melalui kotak masuk Yammer mereka (di jaringan mereka). Mereka tidak memiliki akses ke seluruh jaringan Anda.
 
-4. **Jaringan eksternal** -opsi ini memungkinkan Anda untuk mengundang pengguna eksternal ke jaringan eksternal yang diverifikasi admin dapat membuat di jaringan Anda. Pilihan ini paling cocok untuk hosting komunitas eksternal.
+4. **Jaringan eksternal** -opsi ini memungkinkan Anda mengundang pengguna eksternal ke jaringan eksternal yang dapat dibuat admin terverifikasi di jaringan Anda. Opsi ini paling cocok untuk hosting komunitas eksternal.
 
-Untuk informasi lebih lanjut, silakan lihat [menambahkan peserta pesan eksternal untuk percakapan heboh Anda](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) dan [FAQ pesan eksternal (heboh)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Untuk informasi selengkapnya, lihat [menambahkan peserta pesan eksternal ke percakapan Yammer Anda](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) dan [FAQ pesan eksternal (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

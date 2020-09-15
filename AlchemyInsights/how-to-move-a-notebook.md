@@ -1,27 +1,28 @@
 ---
-title: Bagaimana memindahkan Notebook
+title: Cara memindahkan buku catatan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: 6f9ff3992544b5c36db6928fed17e38b9d47f322
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540004"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703736"
 ---
-# <a name="how-to-move-a-onenote-notebook"></a>Bagaimana memindahkan OneNote notebook
+# <a name="how-to-move-a-onenote-notebook"></a>Cara memindahkan buku catatan OneNote
 
-* Untuk memindahkan OneNote notebook ke OneDrive, pergi ke **File** > **berbagi** > **Notebook bergerak** pada OneNote 2016. Melihat [bergerak OneNote notebook untuk OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) untuk informasi lebih lanjut.
+* Untuk memindahkan buku catatan OneNote ke OneDrive, masuk ke **file**  >  **Share**  >  **Pindahkan buku catatan** di OneNote 2016. Lihat [memindahkan buku catatan OneNote ke OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) untuk informasi selengkapnya.
 
-* Untuk informasi tambahan mengenai praktek-praktek terbaik saat Anda mempersiapkan untuk memindahkan notebook, lihat [OneNote sinkronisasi praktik terbaik](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices).
+* Untuk informasi tambahan mengenai praktik terbaik saat Anda bersiap untuk memindahkan buku catatan, lihat [praktik terbaik untuk menyinkronkan OneNote](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices).
 
-* [Memindahkan notebook OneNote untuk Windows yang Anda berbagi dengan orang lain](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) menyediakan informasi lebih lanjut di bergerak bersama notebook.
+* [Memindahkan buku catatan OneNote untuk Windows yang telah Anda bagikan dengan orang lain](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) menyediakan informasi selengkapnya tentang memindahkan buku catatan bersama.
