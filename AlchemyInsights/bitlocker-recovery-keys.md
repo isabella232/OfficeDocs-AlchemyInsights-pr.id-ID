@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908818"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685889"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Mengakses kunci pemulihan BitLocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Mengakses tombol pemulihan BitLocker
 
-Saat mengonfigurasi pengaturan BitLocker kebijakan perlindungan akhir Intune, dimungkinkan untuk menentukan apakah informasi pemulihan BitLocker harus disimpan di Azure Active Directory.
+Saat mengonfigurasi pengaturan BitLocker kebijakan proteksi titik akhir, dimungkinkan untuk menentukan apakah informasi pemulihan BitLocker akan disimpan dalam direktori aktif Azure.
 
-Jika pengaturan yang dikonfigurasi, data pemulihan disimpan harus terlihat admin Intune sebagai bagian dari perangkat data catatan di Intune perangkat pisau dalam dua cara:
+Jika pengaturan tersebut dikonfigurasi, data pemulihan yang disimpan harus terlihat oleh admin Intune sebagai bagian dari data catatan perangkat di Intune Device Blade dengan dua cara:
 
 Perangkat-perangkat Azure AD-> "perangkat" atau perangkat-> semua perangkat-> "perangkat"-> tombol pemulihan
 
-Selain itu, jika ada akses administratif ke perangkat itu sendiri, kunci pemulihan (sandi) dapat dilihat dengan menjalankan perintah berikut ini dari wantian perintah yang ditampilkan:
+Alternatifnya, jika ada akses administratif ke perangkat itu sendiri, kunci pemulihan (kata sandi) dapat dilihat dengan menjalankan perintah berikut ini dari wantian perintah yang ditinggikan:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Jika perangkat dienkripsi sebelum pendaftaran di Intune, kunci pemulihan mungkin telah dikaitkan dengan "akun Microsoft" (MSA) yang digunakan untuk masuk ke perangkat selama proses OOBE. Jika itu masalahnya, mengakses https://onedrive.live.com/recoverykey dan masuk dengan MSA tersebut harus menampilkan perangkat yang menyimpan kunci pemulihan.
+Jika perangkat telah dienkripsi sebelum pendaftaran di Intune, kunci pemulihan mungkin telah terkait dengan "akun Microsoft" (MSA) yang digunakan untuk masuk ke perangkat selama proses OOBE. Jika demikian, mengakses  https://onedrive.live.com/recoverykey dan masuk dengan bahwa MSA harus memperlihatkan perangkat yang disimpan.
  
-Jika perangkat dienkripsi sebagai akibat dari konfigurasi melalui kebijakan grup berbasis domain, informasi pemulihan dapat disimpan di direktori aktif di tempat.
+Jika perangkat telah dienkripsi sebagai hasil dari konfigurasi melalui kebijakan grup domain, informasi pemulihan mungkin disimpan di direktori aktif di tempat.
  
 

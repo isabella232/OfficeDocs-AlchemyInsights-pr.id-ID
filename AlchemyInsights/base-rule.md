@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: f28ef015b6f8d890cf6d679a43c45720aedd9ab1
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549687"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686357"
 ---
 # <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a>Memecahkan masalah dengan otoritas MDM di Microsoft Intune
 
-Berikut adalah beberapa artikel bermanfaat tentang memulai dengan Intune:
+Berikut beberapa artikel yang membantu mulai menggunakan Intune:
 
 - [Apa itu Intune?](https://docs.microsoft.com/intune/what-is-intune)
-- [Cara menata Intune untuk pertama kalinya](https://docs.microsoft.com/intune/setup-steps)
+- [Cara menyiapkan Intune untuk pertama kalinya](https://docs.microsoft.com/intune/setup-steps)
 - [Menggunakan dan menavigasi Intune](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-Jika Anda mengalami masalah dengan otoritas MDM Anda, lihat untuk [mengubah INTUNE Mdm otoritas](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).
+Jika Anda mengalami masalah dengan otoritas MDM Anda, rujuk ke untuk [mengubah otoritas Mdm Intune](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).

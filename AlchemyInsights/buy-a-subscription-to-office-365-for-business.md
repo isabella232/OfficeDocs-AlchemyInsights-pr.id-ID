@@ -1,10 +1,11 @@
 ---
-title: Beli langganan Microsoft 365 untuk bisnis dari uji coba gratis Anda
+title: Beli langganan untuk Microsoft 365 untuk bisnis dari uji coba gratis Anda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506266"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684989"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Beli langganan Microsoft 365 dari uji coba gratis Anda
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Beli langganan untuk Microsoft 365 dari uji coba gratis Anda
 
-Anda sudah mencoba Microsoft 365, dan sekarang Anda siap untuk membeli. Anda memiliki dua opsi saat membeli Microsoft 365 dari versi uji coba:
+Anda telah mencoba Microsoft 365, dan sekarang Anda siap untuk membeli. Anda memiliki dua opsi saat membeli Microsoft 365 dari versi uji coba Anda:
   
- **Beli rencana yang sama dengan uji coba Anda**
+ **Membeli paket yang sama dengan percobaan Anda**
   
-1. Di pusat admin, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Di pusat admin, masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. Cari langganan yang ingin dibeli. Di bagian **lisensi** , pilih **Beli langganan**, dan ikuti langkah-langkahnya untuk memeriksa.
+2. Temukan langganan yang ingin Anda beli. Di bagian **lisensi** , pilih **langganan pembelian**, dan ikuti langkah-langkah untuk Check Out.
 
 **Membeli langganan yang berbeda**
   
-1. Di pusat admin, buka **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
+1. Di pusat admin, masuk ke **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) tagihan.
 
-3. Cari langganan yang ingin Anda beli, pilih **Beli**, dan ikuti langkah untuk Check Out.
+3. Temukan langganan yang ingin Anda beli, pilih **Beli**, dan ikuti langkah-langkah untuk Check Out.
 
-Untuk mempelajari lebih lanjut, lihat [membeli langganan Microsoft 365 untuk bisnis dari uji coba gratis Anda](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Untuk mempelajari selengkapnya, lihat [membeli langganan untuk Microsoft 365 untuk bisnis dari uji coba gratis Anda](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **Pemecahan masalah**
 
