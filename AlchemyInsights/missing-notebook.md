@@ -1,27 +1,28 @@
 ---
-title: Hilang Notebook
+title: Buku catatan yang hilang
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800420"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667161"
 ---
-# <a name="recover-missing-notebook"></a><span data-ttu-id="1d833-102">Memulihkan hilang Notebook</span><span class="sxs-lookup"><span data-stu-id="1d833-102">Recover Missing Notebook</span></span>
+# <a name="recover-missing-notebook"></a><span data-ttu-id="c116b-102">Memulihkan buku catatan yang hilang</span><span class="sxs-lookup"><span data-stu-id="c116b-102">Recover Missing Notebook</span></span>
 
-<span data-ttu-id="1d833-103">Jika notebook pada OneDrive secara tidak sengaja dihapus, Anda dapat memulihkannya dengan mengikuti langkah-langkah dalam [memulihkan dihapus file atau folder dalam OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="1d833-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
+<span data-ttu-id="c116b-103">Jika buku catatan di OneDrive dihapus secara tidak sengaja, Anda dapat memulihkannya dengan mengikuti langkah-langkah dalam [memulihkan file atau folder yang dihapus di onedrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span><span class="sxs-lookup"><span data-stu-id="c116b-103">If the notebook on OneDrive was accidentally deleted, you can recover it by following the steps in [Restore deleted files or folders in OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)</span></span>
 
-<span data-ttu-id="1d833-104">Anda dapat memulihkan notebook OneDrive yang dihapus dalam waktu 30 hari secara default berikut langkah-langkah dalam [memulihkan dihapus OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="1d833-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
+<span data-ttu-id="c116b-104">Anda dapat memulihkan buku catatan di OneDrive yang dihapus dalam 30 hari secara default dengan langkah berikut dalam [memulihkan onedrive yang dihapus](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span><span class="sxs-lookup"><span data-stu-id="c116b-104">You can recover notebook on a deleted OneDrive within 30 days by default by followings the steps in [Restore a deleted OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)</span></span>
 
-<span data-ttu-id="1d833-105">OneNote mungkin menggunakan akun yang berbeda dari yang Anda harapkan.</span><span class="sxs-lookup"><span data-stu-id="1d833-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="1d833-106">Jika Anda memiliki pekerjaan atau sekolah yang disediakan account selain account Microsoft pribadi, Anda harus menambahkan account Anda yang lain untuk melihat semua notebook Anda (Lihat petunjuk tentang cara untuk [Menambahkan Account di OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="1d833-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
+<span data-ttu-id="c116b-105">OneNote mungkin menggunakan akun yang berbeda dari yang Anda harapkan.</span><span class="sxs-lookup"><span data-stu-id="c116b-105">OneNote may be using a different account than you expect.</span></span> <span data-ttu-id="c116b-106">Jika Anda memiliki akun kantor atau sekolah yang disediakan selain akun Microsoft pribadi Anda, Anda harus menambahkan akun lain untuk menampilkan semua buku catatan Anda (Lihat instruksi tentang cara [menambahkan akun di OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span><span class="sxs-lookup"><span data-stu-id="c116b-106">If you have a work or school-provided account in addition to your personal Microsoft account, you'll need to add your other account to view all your notebooks (refer to instructions on how to [Add Account in OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).</span></span>
