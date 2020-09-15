@@ -1,11 +1,12 @@
 ---
-title: Bandingkan langganan Microsoft
+title: Membandingkan langganan Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 060d72e059188f0bda094eeb174b5f7071a9f9c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058430"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713710"
 ---
-# <a name="compare-upgrade-or-purchase-subscriptions"></a>Membandingkan, meningkatkan, atau membeli langganan
+# <a name="compare-upgrade-or-purchase-subscriptions"></a>Membandingkan, memutakhirkan, atau membeli langganan
   
-Tersedia langganan untuk [bisnis](https://products.office.com/compare-all-microsoft-office-products?tab=2), dan bisnis [tingkat perusahaan](https://products.office.com/business/compare-more-office-365-for-business-plans). Selain itu, Microsoft 365 tersedia untuk [lembaga akademik](https://products.office.com/academic/compare-office-365-education-plans), [organisasi pemerintah](https://products.office.com/government/compare-office-365-government-plans), dan [lembaga Nonprofit](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Langganan tersedia untuk [bisnis](https://products.office.com/compare-all-microsoft-office-products?tab=2), dan [bisnis tingkat perusahaan](https://products.office.com/business/compare-more-office-365-for-business-plans). Selain itu, Microsoft 365 tersedia untuk [lembaga akademis](https://products.office.com/academic/compare-office-365-education-plans), [organisasi pemerintah](https://products.office.com/government/compare-office-365-government-plans), dan organisasi [nirlaba](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
   
 Jika organisasi Anda tertarik untuk membandingkan semua paket dan harga, Tinjau [Bandingkan semua langganan](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Jika organisasi Anda telah membeli langganan dan tertarik untuk mengubah paket yang berbeda, Anda dapat melakukannya dari Pusat admin Microsoft 365. Buka halaman **penagihan** \> [produk](https://go.microsoft.com/fwlink/p/?linkid=842054) , pilih langganan yang ingin diubah, lalu pilih tab **upgrade** untuk melihat daftar paket baru yang tersedia.
+Jika organisasi Anda telah membeli langganan dan ingin mengubah ke paket yang berbeda Anda bisa melakukannya dari Pusat admin Microsoft 365. Masuk ke halaman **tagihan** \> [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) , pilih langganan yang ingin Anda ubah, lalu pilih tab **pemutakhiran** untuk menampilkan daftar paket baru yang tersedia.
   
-Organisasi Anda juga dapat mencampur dan mencocokkan langganan untuk memenuhi kebutuhan dan persyaratan fitur pengguna. Dari Pusat admin, buka **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) penagihan.
+Organisasi Anda juga bisa mencampur dan mencocokkan langganan untuk memenuhi kebutuhan dan persyaratan fitur pengguna. Dari Pusat admin, masuk ke **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) tagihan.

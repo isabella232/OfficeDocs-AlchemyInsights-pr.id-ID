@@ -1,34 +1,35 @@
 ---
-title: Unggah dokumen
+title: Mengunggah dokumen
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ace29990-1bf3-4378-833d-22e418f0fba7
-ms.openlocfilehash: ff7000773a628001c71debf1c4365f1f551a91df
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2797c6d0f9de274e016523ae0e71f59eb1cfc742
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769414"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711935"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Unggah file ke OneDrive atau SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Mengunggah file ke OneDrive atau SharePoint
 
-1. Di browser web, buka lokasi tempat Anda ingin mengupload file.
+1. Di browser web Anda, masuk ke lokasi tempat Anda ingin mengunggah file.
     
-2. Buka file Explorer dan Browse ke file yang ingin Anda upload.
+2. Buka file Explorer dan telusuri file yang ingin Anda Unggah.
     
-3. Pilih file dan seret ke lokasi di OneDrive atau SharePoint. Catatan: jika Anda menggunakan Microsoft Edge, Mozilla FireFox, atau Google Chrome, Anda juga dapat mengunggah folder dan semua file di dalamnya.
+3. Pilih file dan seret ke lokasi di OneDrive atau SharePoint. Catatan: jika Anda menggunakan Microsoft Edge, Mozilla FireFox, atau Google Chrome, Anda juga bisa mengunggah folder dan semua file di dalamnya.
     
-**Catatan:**
+**Catatan**
 
-- Anda dapat mengunggah file berukuran hingga 15 GB. 
-- Lintasan penuh untuk berkas (termasuk nama berkas) tidak boleh lebih dari 400 karakter panjang. 
-- Jika Anda perlu mengunggah lebih dari 100 berkas, [Gunakan klien sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+- Anda dapat mengunggah file hingga berukuran 15 GB. 
+- Jalur lengkap untuk file (termasuk nama file) tidak boleh lebih dari 400 karakter. 
+- Jika Anda perlu mengunggah lebih dari file 100, [Gunakan klien sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

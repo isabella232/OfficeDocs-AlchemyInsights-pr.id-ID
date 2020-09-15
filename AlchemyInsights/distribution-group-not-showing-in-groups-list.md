@@ -1,11 +1,12 @@
 ---
-title: Grup distribusi tidak ditampilkan dalam daftar Grup
+title: Grup distribusi tidak tampil dalam daftar Grup
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 6cfb844f640ec30ebf595f985e001b9acc93e813
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2e836c416daa0fc78576f4e50cea6a63b6723b9f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715081"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712079"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Grup distribusi tidak ditampilkan dalam daftar Grup
+# <a name="distribution-group-not-showing-in-groups-list"></a>Grup distribusi tidak tampil dalam daftar Grup
 
-Dapat memakan waktu hingga 60 menit sebelum daftar distribusi baru muncul di pusat admin.
+Diperlukan waktu hingga 60 menit sebelum daftar distribusi baru muncul di pusat admin.
   
-Jika Anda ingin menambahkan anggota atau melakukan pengeditan lain sekarang, silakan gunakan fitur grup di [Pusat admin Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
+Jika Anda ingin menambahkan anggota atau melakukan pengeditan saat ini, silakan gunakan fitur grup di [Pusat admin Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
   
