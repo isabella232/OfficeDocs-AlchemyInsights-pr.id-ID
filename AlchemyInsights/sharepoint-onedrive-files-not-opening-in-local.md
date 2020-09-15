@@ -1,33 +1,34 @@
 ---
-title: Buka Perpustakaan SharePoint di file Explorer
+title: Membuka pustaka SharePoint di file Explorer
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 42435d6970a71b57f16188ce6c92b0471e7121f3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0d2d73fd425e213289b627703c987c2e9a987e55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051320"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670907"
 ---
-# <a name="problems-opening-office-files-from-sharepoint"></a><span data-ttu-id="5f884-102">Masalah membuka file Office dari SharePoint</span><span class="sxs-lookup"><span data-stu-id="5f884-102">Problems opening Office files from SharePoint</span></span>
+# <a name="problems-opening-office-files-from-sharepoint"></a><span data-ttu-id="b7419-102">Masalah dalam membuka file Office dari SharePoint</span><span class="sxs-lookup"><span data-stu-id="b7419-102">Problems opening Office files from SharePoint</span></span>
 
-<span data-ttu-id="5f884-103">Jika Anda memiliki masalah membuka file Office dan dokumen dari SharePoint di klien Office lokal Anda, silakan Tinjau link di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="5f884-103">If you have problems opening Office files and documents from SharePoint in your local Office clients, please review the links below.</span></span> 
+<span data-ttu-id="b7419-103">Jika mengalami masalah dalam membuka file dan dokumen Office dari SharePoint di klien Office lokal Anda, silakan Tinjau link di bawah ini.</span><span class="sxs-lookup"><span data-stu-id="b7419-103">If you have problems opening Office files and documents from SharePoint in your local Office clients, please review the links below.</span></span> 
 
-- <span data-ttu-id="5f884-104">[Memeriksa batasan file untuk memastikan file didukung](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span><span class="sxs-lookup"><span data-stu-id="5f884-104">[Check file limitations to ensure the file is supported](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
+- <span data-ttu-id="b7419-104">[Periksa keterbatasan file untuk memastikan file didukung](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span><span class="sxs-lookup"><span data-stu-id="b7419-104">[Check file limitations to ensure the file is supported](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).</span></span>
 
-- <span data-ttu-id="5f884-105">[Hapus tembolok dokumen Office Anda](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="5f884-105">[Delete your office document cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span>
+- <span data-ttu-id="b7419-105">[Hapus singgahan dokumen Office Anda](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span><span class="sxs-lookup"><span data-stu-id="b7419-105">[Delete your office document cache](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d).</span></span>
 
-- <span data-ttu-id="5f884-106">[Menjalankan perbaikan di kantor](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="5f884-106">[Run a repair on Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+- <span data-ttu-id="b7419-106">[Jalankan perbaikan di Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="b7419-106">[Run a repair on Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-<span data-ttu-id="5f884-107">Untuk informasi lebih lanjut atau rincian silahkan referensi artikel, [memperbaiki masalah membuka dokumen di Perpustakaan SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="5f884-107">For more information or details please reference the article, [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>
+<span data-ttu-id="b7419-107">Untuk informasi atau detail selengkapnya, referensi artikel, [memperbaiki masalah dalam membuka dokumen di pustaka SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span><span class="sxs-lookup"><span data-stu-id="b7419-107">For more information or details please reference the article, [Fix problems opening documents in SharePoint libraries](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).</span></span>
 
-<span data-ttu-id="5f884-108">**Catatan:** Jika Anda mengalami masalah dengan membuka dokumen di browser atau klien secara default, Anda mungkin perlu mengubah pengaturan Perpustakaan.</span><span class="sxs-lookup"><span data-stu-id="5f884-108">**Note:** If you are having issues with documents opening in the browser or client by default, you may need to change the library setting.</span></span> <span data-ttu-id="5f884-109">Untuk melakukannya, navigasikan ke Perpustakaan mengalami masalah > ikon aksesoris di sudut kanan atas > setelan **Perpustakaan pengaturan** >  **lanjut** > **membuka dokumen di browser**.</span><span class="sxs-lookup"><span data-stu-id="5f884-109">To do this, navigate to the Library having issues > Gear Icon in upper right corner > **Library Settings** >  **Advanced settings** > **Opening Documents in the Browser**.</span></span>
+<span data-ttu-id="b7419-108">**Catatan:** Jika Anda mengalami masalah dengan pembukaan dokumen di browser atau klien secara default, Anda mungkin perlu mengubah pengaturan pustaka.</span><span class="sxs-lookup"><span data-stu-id="b7419-108">**Note:** If you are having issues with documents opening in the browser or client by default, you may need to change the library setting.</span></span> <span data-ttu-id="b7419-109">Untuk melakukan ini, navigasikan ke pustaka yang memiliki masalah > ikon gerigi di sudut kanan **Library Settings**atas > pengaturan  >   **tingkat lanjut**pengaturan pustaka  >  **membuka dokumen di browser**.</span><span class="sxs-lookup"><span data-stu-id="b7419-109">To do this, navigate to the Library having issues > Gear Icon in upper right corner > **Library Settings** >  **Advanced settings** > **Opening Documents in the Browser**.</span></span>
 
