@@ -1,11 +1,12 @@
 ---
-title: 124 mendapatkan galat izin saat mengakses kotak surat bersama di OWA?
+title: 124 mendapatkan kesalahan izin saat mengakses kotak surat bersama di OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: 9305f9b1ec49ea705450a7fdf04e3e12f3f02649
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499190"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706706"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Mendapatkan galat izin saat membuka kotak surat bersama di Outlook di web?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Mendapatkan kesalahan izin saat membuka kotak surat bersama di Outlook di web?
 
-Jika Anda mendapatkan kesalahan **sesuatu yang salah. Anda tidak memiliki izin untuk membuka kotak pesan ini.** Ketika Anda mencoba membuka kotak surat bersama di Outlook di web, akun Anda mungkin tidak memiliki izin untuk mengakses kotak surat bersama. Administrator organisasi dapat menetapkan izin akun ke kotak pesan bersama dengan mengikuti petunjuk dalam topik [membuat kotak pesan bersama](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Jika kesalahan **terjadi, terjadi kesalahan. Anda tidak memiliki izin untuk membuka kotak surat ini.** saat Anda mencoba membuka kotak surat bersama di Outlook di web, akun Anda mungkin tidak memiliki izin untuk mengakses kotak surat bersama. Administrator organisasi Anda bisa menetapkan izin akun Anda ke kotak surat bersama dengan mengikuti instruksi dalam topik [membuat kotak surat bersama](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   

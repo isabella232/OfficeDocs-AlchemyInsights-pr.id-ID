@@ -1,27 +1,28 @@
 ---
-title: Memulai dengan Intune
+title: Mulai menggunakan Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706346"
 ---
-# <a name="getting-started-with-intune"></a>Memulai dengan Intune
+# <a name="getting-started-with-intune"></a>Mulai menggunakan Intune
 
-Untuk tur singkat Intune dan konsol admin, lihat [panduan Intune di Azure portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Untuk tur cepat Intune dan konsol admin, lihat [panduan Intune di portal Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
 
-Jika Anda ingin mencoba Intune atau mengatur percobaan, Tinjau [Quickstart: Coba Microsoft Intune secara gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Jika Anda ingin mencoba Intune atau menyiapkan percobaan, Tinjau [mulai cepat: Coba Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Jika Anda sudah memiliki Intune dan siap untuk mulai menggunakannya, Tinjau kami mengatur panduan [Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Jika Anda sudah memiliki Intune dan siap untuk mulai menggunakannya, Tinjau panduan [menyiapkan Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) kami. 
