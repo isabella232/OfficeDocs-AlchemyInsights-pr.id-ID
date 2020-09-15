@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697632"
 ---
 # <a name="active-directory-not-syncing"></a>Direktori aktif tidak disinkronkan
 
-Jika Anda menerima galat sinkronisasi, seperti "tidak ada sinkronisasi baru", atau melihat status sinkronisasi direktori di portal admin Office mengatakan, "terakhir disinkronkan lebih dari 3 hari yang lalu," mungkin AADConnect memiliki pengaturan yang salah atau tidak mencukupi izin untuk melakukan sinkronisasi.  
+Jika Anda menerima kesalahan sinkronisasi, seperti "tidak ada sinkronisasi terkini," atau pemberitahuan status sinkronisasi direktori di portal admin Office mengatakan, "terakhir disinkronkan lebih dari 3 hari yang lalu," mungkin ada yang tidak memiliki pengaturan yang salah atau izin yang tidak mencukupi untuk melakukan sinkronisasi.  
 
-Menginstal ulang AADConnect dengan menggunakan pengaturan Express dapat mengatasi masalah dengan cepat:
+Menginstal ulang AADConnect dengan menggunakan pengaturan kilat mungkin mengatasi masalah dengan cepat:
 
-1. [Download versi terbaru dari AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Unduh versi terbaru dari AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Ikuti petunjuk untuk instalasi Ekspres](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Ikuti instruksi untuk penginstalan Ekspresikan](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Untuk informasi selengkapnya tentang akun Layanan AADConnect, lihat [AZURE AD menyambung: akun dan izin](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Untuk informasi selengkapnya tentang akun Layanan AADConnect, lihat [AZURE AD Connect: akun dan izin](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
