@@ -1,36 +1,37 @@
 ---
-title: 646 cara mengkonfigurasi AADConnect
+title: 646 cara mengonfigurasi AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722563"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704492"
 ---
-# <a name="configure-sync-features"></a>Mengkonfigurasi fitur sinkronisasi
+# <a name="configure-sync-features"></a>Mengonfigurasi fitur sinkronisasi
 
-Azure AD menyambung mencakup beberapa fitur yang diaktifkan secara default, atau bahwa Anda dapat mengaktifkan kemudian. Beberapa fitur memerlukan konfigurasi tambahan di lingkungan tertentu.
+Azure AD Connect menyertakan beberapa fitur yang diaktifkan secara default, atau yang dapat Anda Aktifkan nanti. Beberapa fitur memerlukan konfigurasi tambahan dalam lingkungan tertentu.
 
-- [Penyaringan](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) membatasi objek disinkronkan ke Azure AD. Secara default, semua pengguna, kontak, grup, dan akun komputer Windows 10 disinkronkan. Anda dapat menyertakan atau mengecualikan objek berdasarkan domain, ou, atau atribut lainnya.
+- [Pemfilteran](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) membatasi objek disinkronkan ke Azure AD. Secara default, semua pengguna, kontak, grup, dan akun komputer Windows 10 disinkronisasi. Anda bisa menyertakan atau mengecualikan objek berdasarkan domain, ou, atau atribut lainnya.
 
-- [Sinkronisasi hash sandi](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) menyinkronkan hash sandi dari Active Directory lokal ke Azure AD. Hal ini memungkinkan pengelolaan sandi di satu lokasi, namun menggunakan sandi yang sama di lingkungan lokal dan Cloud. Karena Active Directory adalah sumber otoritatif, Anda dapat menggunakan kebijakan sandi Anda sendiri.
+- [Sinkronisasi hash kata](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) sandi menyinkronkan hash kata sandi dari direktori aktif lokal ke Azure AD. Ini memungkinkan manajemen kata sandi dalam satu lokasi, tetapi penggunaan kata sandi yang sama di lingkungan lokal dan awan. Karena direktori aktif adalah sumber otoritatif, Anda dapat menggunakan kebijakan kata sandi Anda sendiri.
 
-- [Pengaturan ulang kata sandi layanan mandiri (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) memungkinkan pengguna menyetel ulang sandi mereka di Cloud saat masih menerapkan kebijakan sandi lokal.
+- [Reset kata sandi layanan mandiri (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) memungkinkan pengguna untuk mengatur ulang kata sandi mereka sendiri di awan saat masih menerapkan kebijakan kata sandi lokal Anda.
 
-- [Perangkat tulis balik](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) memungkinkan perangkat terdaftar di Azure AD untuk ditulis kembali ke direktori aktif di tempat sehingga mereka dapat digunakan untuk akses bersyarat.
+- [Alat tulis balik perangkat](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) memungkinkan perangkat terdaftar di Azure AD untuk ditulis kembali ke direktori aktif di tempat sehingga dapat digunakan untuk akses bersyarat.
 
-- [Mencegah menghapus disengaja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) diaktifkan secara default untuk membantu mencegah terlalu banyak penghapusan objek simultan (lebih dari 500 objek per sinkronisasi). Anda dapat mengubah pengaturan ini untuk memenuhi kebutuhan organisasi Anda.
+- [Mencegah penghapusan disengaja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) diaktifkan secara default untuk membantu mencegah terlalu banyak penghapusan objek bersamaan (lebih dari 500 objek per sinkronisasi). Anda dapat mengubah pengaturan ini untuk memenuhi kebutuhan organisasi Anda.
 
-- [Peningkatan otomatis](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) diaktifkan secara default untuk instalasi Ekspres dan membantu memastikan bahwa versi Azure AD Connect selalu terkini.
+- [Pemutakhiran otomatis](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) diaktifkan secara default untuk penginstalan kilat dan membantu memastikan versi Azure AD Connect selalu terkini.
