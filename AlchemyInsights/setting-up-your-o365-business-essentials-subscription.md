@@ -1,46 +1,47 @@
 ---
-title: Menyiapkan langganan O365 bisnis Essentials Anda
-ms.author: v-crytho
+title: Menyiapkan langganan O365 bisnis esensial Anda
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509351"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740118"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Menyiapkan langganan O365 bisnis Essentials Anda
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Menyiapkan langganan O365 bisnis esensial Anda
 
-Buat akun Microsoft 365 dan tambahkan domain Anda
+Membuat akun Microsoft 365 dan menambahkan domain Anda
   
-- Pada langkah ini, Anda menggunakan Wisaya penataan untuk membuat akun Microsoft 365 untuk pengguna Anda dan menambahkan domain Anda sendiri. Wizard ini memungkinkan Anda mempersonalisasi ID pengguna dan email untuk bisnis Anda, seperti [Rob@contoso.com](mailto:rob@contoso.com).
+- Dalam langkah ini, Anda menggunakan panduan penyiapan untuk membuat akun Microsoft 365 untuk pengguna Anda dan menambahkan domain Anda sendiri. Panduan ini memungkinkan Anda mempersonalisasi ID pengguna dan email untuk bisnis Anda, seperti [Rob@contoso.com](mailto:rob@contoso.com).
     
-- Kunjungi [Pusat admin Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Masuk ke [Pusat admin Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Untuk memulai Wisaya, pilih **pergi ke penataan**. Untuk mempelajari lebih lanjut, lihat [menambahkan domain ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- Untuk memulai panduan, pilih **masuk ke penyiapan**. Untuk mempelajari selengkapnya, lihat [menambahkan domain ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
-Impor email
+Mengimpor email
   
-- Pindahkan email dan kontak yang ada dari sistem email lain ke kotak surat Microsoft 365 sehingga Anda dapat melihat semuanya di satu tempat. Untuk opsi migrasi, [migrasikan email dan kontak ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
+- Pindahkan email dan kontak yang ada dari sistem email lain ke kotak surat Microsoft 365 agar Anda bisa melihat semuanya di satu tempat. Untuk opsi migrasi, [migrasi email dan kontak ke Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Menyambungkan akun email
     
-  - Selain mengelola email Anda di Outlook, Anda dapat menghubungkan akun email lain ke Outlook, juga, seperti akun Gmail dan Yahoo Anda. Hal ini memungkinkan Anda mengelola semua email Anda di satu tempat. Anda dapat menghubungkan hingga 5 akun email ke Outlook. Lihat [menghubungkan akun email di Outlook Web (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) untuk rincian lebih lanjut. 
+  - Selain mengelola email Anda di Outlook, Anda juga dapat menyambungkan akun email lain ke Outlook, seperti akun Gmail dan Yahoo. Ini memungkinkan Anda mengelola semua email Anda di satu tempat. Anda dapat menyambungkan hingga 5 akun email ke Outlook. Lihat [menyambungkan akun email dalam Outlook di web (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) untuk detail selengkapnya. 
     
-Instal Skype untuk bisnis
+Menginstal Skype for Business
   
-- Anda dan anggota tim dapat [mengunduh dan menginstal Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) di semua PC, Mac, tablet, dan ponsel. Kemudian Anda akan dapat melihat status online rekan kerja Anda, mulai chatting dari aplikasi Office lainnya, dan host video meeting dengan hingga 250 orang. 
+- Anggota tim Anda dan Anda dapat [mengunduh dan menginstal Skype for Business](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) di semua PC, Mac, tablet, dan ponsel Anda. Maka Anda akan bisa melihat status online rekan kerja Anda, memulai obrolan dari aplikasi Office lainnya, dan mengadakan Rapat video dengan hingga 250 orang. 
     
 Menyimpan file secara online
   
-- Untuk mempelajari lokasi penyimpanan mana yang terbaik untuk bisnis Anda, lihat [di mana Anda dapat menyimpan file di Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Semua orang mendapatkan lokasi penyimpanan awan **OneDrive** secara otomatis saat Anda membuat akun Microsoft 365 untuk mereka. Dengan OneDrive, Anda dapat mengakses file di seluruh komputer, ponsel, dan tablet. 
+- Untuk mempelajari lokasi penyimpanan yang paling baik untuk bisnis Anda, lihat [tempat Anda bisa menyimpan file di Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Setiap orang mendapatkan lokasi penyimpanan awan **OneDrive** secara otomatis saat Anda membuat akun Microsoft 365. Dengan OneDrive, Anda bisa mengakses file di komputer, ponsel, dan tablet Anda. 
     
-Rincian langkah untuk penataan dapat ditemukan di [artikel ini](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Langkah mendetail untuk penyiapan bisa ditemukan di [artikel ini](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

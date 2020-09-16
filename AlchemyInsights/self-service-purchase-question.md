@@ -1,28 +1,29 @@
 ---
-title: Pertanyaan pembelian swalayan
+title: Pertanyaan pembelian layanan mandiri
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 14218f995430a8a5c7a2f4a0db51fe79c59824d0
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913566"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740008"
 ---
-# <a name="self-service-purchase"></a>Pembelian swalayan
+# <a name="self-service-purchase"></a>Pembelian layanan mandiri
 
-**Kemampuan apa yang dimiliki admin untuk pembelian swalayan?**
+**Kemampuan apa yang dimiliki admin untuk pembelian layanan mandiri?**
 
-Admin dapat melihat semua pembelian layanan mandiri yang dibuat di organisasi mereka di pusat admin Microsoft 365. Mereka dapat melihat produk, nama pembeli, langganan yang dibeli, tanggal kedaluwarsa, Riwayat pesanan, harga pembelian, dan pengguna yang ditetapkan untuk setiap pembelian layanan mandiri.  Jika diperlukan untuk organisasi mereka, admin akan dapat menonaktifkan pembelian layanan mandiri secara per produk melalui PowerShell.  Admin memiliki data yang sama manajemen dan akses kebijakan atas produk yang dibeli melalui layanan mandiri pembelian atau terpusat.
+Admin bisa menampilkan semua pembelian layanan mandiri yang dilakukan di organisasi mereka di pusat admin Microsoft 365. Mereka bisa melihat produk, nama pembeli, langganan yang dibeli, tanggal kedaluwarsa, Riwayat pesanan, harga pembelian, dan pengguna yang ditetapkan untuk setiap pembelian layanan mandiri.  Jika diperlukan untuk organisasi mereka, admin akan bisa menonaktifkan pembelian layanan mandiri per produk melalui PowerShell.  Admin memiliki kebijakan manajemen data dan akses yang sama dengan produk yang dibeli melalui pembelian mandiri atau terpusat.
 
-[FAQ pembelian layanan mandiri](https://aka.ms/self-service-purchase-faq)
+[Tanya jawab pembelian layanan mandiri](https://aka.ms/self-service-purchase-faq)
 
