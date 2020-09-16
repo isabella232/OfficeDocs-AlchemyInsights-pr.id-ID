@@ -1,29 +1,30 @@
 ---
-title: Microsoft grafik konektor
+title: Konektor Microsoft graph
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: d985aa25ba14b0f00a3c405ac55fa2c369e13c48
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724906"
 ---
-# <a name="microsoft-graph-connectors"></a>Microsoft grafik konektor
+# <a name="microsoft-graph-connectors"></a>Konektor Microsoft graph
 
-Dengan konektor Microsoft graph, organisasi Anda dapat mengindeks data pihak ketiga untuk ditampilkan di hasil Microsoft Search.
+Dengan konektor Microsoft graph, organisasi Anda bisa mengindeks data pihak ketiga untuk muncul di hasil pencarian Microsoft.
 
-- [Konektor oleh Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Konektor dengan Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
 - [Konektor oleh mitra kami](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Untuk informasi lebih lanjut, lihat [Ikhtisar konektor Microsoft graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Untuk informasi selengkapnya, lihat  [gambaran umum tentang konektor Microsoft graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
