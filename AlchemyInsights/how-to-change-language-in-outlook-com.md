@@ -1,11 +1,12 @@
 ---
-title: Bagaimana mengubah bahasa di Outlook.com
+title: Cara mengubah bahasa di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711274"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780854"
 ---
-# <a name="change-your-language"></a><span data-ttu-id="2a95a-102">Mengubah bahasa Anda</span><span class="sxs-lookup"><span data-stu-id="2a95a-102">Change your language</span></span>
+# <a name="change-your-language"></a><span data-ttu-id="38c30-102">Mengubah bahasa Anda</span><span class="sxs-lookup"><span data-stu-id="38c30-102">Change your language</span></span>
 
-1. <span data-ttu-id="2a95a-103">Ke Chang bahasa di Outlook, pergi ke pengaturan [**bahasa dan waktu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**pengaturan** \> **Lihat semua pengaturan** > Outlook bahasa**umum** > **dan waktu**).</span><span class="sxs-lookup"><span data-stu-id="2a95a-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
+1. <span data-ttu-id="38c30-103">Untuk Chang bahasa di Outlook, masuk ke pengaturan [**bahasa dan waktu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**pengaturan** \> **Tampilkan semua pengaturan**  >  **General**  >  **bahasa dan waktu**umum Outlook).</span><span class="sxs-lookup"><span data-stu-id="38c30-103">To chang the language in Outlook, go to [**Language and time**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) settings (**Settings** \> **View all Outlook settings** > **General** > **Language and time**).</span></span>
 
-2. <span data-ttu-id="2a95a-104">Pilih bahasa Anda.</span><span class="sxs-lookup"><span data-stu-id="2a95a-104">Choose your language.</span></span>
+2. <span data-ttu-id="38c30-104">Pilih bahasa Anda.</span><span class="sxs-lookup"><span data-stu-id="38c30-104">Choose your language.</span></span>
 
-3. <span data-ttu-id="2a95a-105">Pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="2a95a-105">Select **Save**.</span></span>
+3. <span data-ttu-id="38c30-105">Pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="38c30-105">Select **Save**.</span></span>
 
-<span data-ttu-id="2a95a-106">Untuk mempelajari lebih lanjut, lihat [mengubah pengaturan zona waktu dan bahasa di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="2a95a-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
+<span data-ttu-id="38c30-106">Untuk mempelajari selengkapnya, lihat [mengubah pengaturan zona waktu dan bahasa di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span><span class="sxs-lookup"><span data-stu-id="38c30-106">To learn more, see [Change the time zone and language settings in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).</span></span>
