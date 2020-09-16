@@ -1,27 +1,28 @@
 ---
-title: 1800018 menemukan pengaturan server POP dan IMAP
+title: 1800018 menemukan pengaturan server POP dan IMAP Anda
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 76d1dadc2bfcb0589ae26fc4051acbbf913d19a7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: be134f40a60859e74dd449553a6d3a9795be118a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716067"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730234"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="08ced-102">Menemukan setelan server POP atau IMAP</span><span class="sxs-lookup"><span data-stu-id="08ced-102">Find your POP or IMAP server settings</span></span>
+# <a name="find-your-pop-or-imap-server-settings"></a><span data-ttu-id="efad8-102">Menemukan pengaturan server POP atau IMAP Anda</span><span class="sxs-lookup"><span data-stu-id="efad8-102">Find your POP or IMAP server settings</span></span>
 
-<span data-ttu-id="08ced-103">Jika Anda tidak tahu pengaturan apa yang Anda butuhkan untuk menambahkan akun POP atau IMAP ke Outlook, Anda dapat mencarinya di [pengaturan email pop dan IMAP untuk Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="08ced-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
+<span data-ttu-id="efad8-103">Jika tidak mengetahui pengaturan yang diperlukan untuk menambahkan akun POP atau IMAP ke Outlook, Anda dapat mencarinya di [pengaturan email pop dan IMAP untuk Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span><span class="sxs-lookup"><span data-stu-id="efad8-103">If you don't know what settings you need to add your POP or IMAP account to Outlook, you can look them up in our [POP and IMAP email settings for Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="08ced-104">Tahukah Anda bahwa Anda dapat [mengaktifkan dan MENGKONFIGURASI POP3 di server Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span><span class="sxs-lookup"><span data-stu-id="08ced-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
+> <span data-ttu-id="efad8-104">Apakah Anda tahu bahwa Anda bisa [mengaktifkan dan mengonfigurasikan POP3 di server Exchange 2016](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span><span class="sxs-lookup"><span data-stu-id="efad8-104">Did you know you can [Enable and configure POP3 on an Exchange 2016 server](https://technet.microsoft.com/library/bb124934%28v=exchg.160%29.aspx)?</span></span>
   
