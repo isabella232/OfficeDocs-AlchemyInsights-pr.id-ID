@@ -5,27 +5,28 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 978df2785967eac4b951fa3facdac0b8c2833d1a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7bb2110898e8b5b9aa9a73fb04698f759b5959b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704780"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731044"
 ---
 # <a name="delete-a-site"></a>Menghapus situs
 
-Bila Anda menghapus situs, lokasi tersebut akan dipindahkan ke situs yang dihapus dan disimpan selama 93 hari. Untuk menghapus situs, buka [situs aktif](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Saat Anda menghapus situs, situs tersebut dipindahkan ke situs yang dihapus dan dipertahankan untuk 93 hari. Untuk menghapus situs, masuk ke [situs aktif](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Bila Anda menghapus situs, segala sesuatu di dalamnya akan dihapus, termasuk:
+Saat Anda menghapus situs, semua yang ada di dalamnya dihapus, termasuk:
 
-- Perpustakaan dokumen dan file.
-- List dan daftar data.
+- Pustaka dokumen dan file.
+- Daftar dan data daftar.
 - Pengaturan situs dan Riwayat.
-- Setiap sub-situs dan isinya.
+- Subsitus dan kontennya.
 
-Anda harus memberi tahu admin situs dan pemilik sub-situs sebelum menghapus situs agar mereka dapat memindahkan datanya ke lokasi lain, dan juga memberi tahu pengguna saat situs akan dihapus.
+Anda harus memberi tahu admin situs dan pemilik subsitus sebelum Anda menghapus situs sehingga mereka dapat memindahkan datanya ke lokasi lain, dan juga memberi tahu pengguna saat situs tersebut akan dihapus.
 
-Untuk informasi lebih lanjut, lihat [menghapus situs](https://docs.microsoft.com/sharepoint/delete-site-collection).
+Untuk informasi selengkapnya, lihat [menghapus situs](https://docs.microsoft.com/sharepoint/delete-site-collection).

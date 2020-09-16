@@ -1,33 +1,34 @@
 ---
-title: Menghapus gambar akun
+title: Hapus gambar akun
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 5226da86643db58b39687735b67118796e9c40ad
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796181"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730954"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Menghapus gambar akun di Windows 10
 
-Windows dirancang untuk memungkinkan Anda beralih di antara tiga gambar terbaru. Jika Anda perlu menghapus salah satu gambar akun Anda:
+Windows dirancang untuk memungkinkan Anda beralih antara tiga gambar paling baru. Jika Anda perlu menghapus salah satu gambar akun Anda:
 
-1. Buka file Explorer dari taskbar. Jika Anda tidak melihat file Explorer (ikon folder) pada taskbar, pilih **mulai** dan ketik **file Explorer**.
+1. Buka file Explorer dari bilah tugas. Jika Anda tidak melihat file Explorer (ikon folder) di taskbar, pilih **mulai** dan ketikkan **file Explorer**.
 
-2. Buka c:\Users\\*yourname*\appdata\roaming\microsoft\windows\accountyang. 
-    - Ganti *yourname* dengan nama akun Anda.
-    - Jika Anda tidak dapat menemukan AppData folder di file Explorer, mungkin tersembunyi. Pilih **tampilan** pengaturan, dan pilih item yang **tersembunyi** kotak centang untuk menampilkan semua item dalam folder.
+2. Masuk ke \\ C:\usernama\appdata\roaming\microsoft\windows\accountber.*yourname* 
+    - Ganti *nama dengan nama akun* Anda.
+    - Jika tidak dapat menemukan folder AppData di file Explorer, folder mungkin disembunyikan. Pilih pengaturan **tampilan** , dan pilih kotak centang **item tersembunyi** untuk memperlihatkan semua item dalam folder.
 
-3. Hapus gambar akun yang tidak ingin Anda gunakan lagi.
+3. Hapus gambar akun yang tidak lagi ingin Anda gunakan.
  
  
