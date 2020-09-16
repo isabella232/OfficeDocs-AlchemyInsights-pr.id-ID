@@ -1,24 +1,25 @@
 ---
-title: 924 batasan aturan
+title: batas aturan 924
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 185f19f58a9efd3c83f5f3c0ec2682a0849b6675
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681863"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727642"
 ---
-# <a name="rule-limits"></a><span data-ttu-id="122dd-102">Batas aturan</span><span class="sxs-lookup"><span data-stu-id="122dd-102">Rule limits</span></span>
+# <a name="rule-limits"></a><span data-ttu-id="35401-102">Batas aturan</span><span class="sxs-lookup"><span data-stu-id="35401-102">Rule limits</span></span>
 
-<span data-ttu-id="122dd-103">Batas aturan dapat bervariasi di seluruh opsi rencana dan opsi mandiri.</span><span class="sxs-lookup"><span data-stu-id="122dd-103">Rule limits might vary across plan options and standalone options.</span></span> <span data-ttu-id="122dd-104">Untuk informasi selengkapnya, lihat [batas aturan jurnal, transportasi, dan kotak masuk](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="122dd-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
+<span data-ttu-id="35401-103">Batas aturan mungkin berbeda-beda di seluruh opsi paket dan opsi mandiri.</span><span class="sxs-lookup"><span data-stu-id="35401-103">Rule limits might vary across plan options and standalone options.</span></span> <span data-ttu-id="35401-104">Untuk informasi selengkapnya, lihat [batas aturan jurnal, transportasi, dan kotak masuk](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span><span class="sxs-lookup"><span data-stu-id="35401-104">For more information, see [Journal, Transport, and Inbox rule limits](https://technet.microsoft.com/library/exchange-online-limits.aspx).</span></span>
