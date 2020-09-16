@@ -1,30 +1,31 @@
 ---
-title: Wisaya konfigurasi hibrid
+title: Panduan konfigurasi hibrid
 ms.author: dstrome
 author: dstrome
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 5e9469bce87338978b79e37baad1d16ea3bb0310
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717031"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743766"
 ---
-# <a name="hybrid-configuration-wizard"></a>Wisaya konfigurasi hibrid
+# <a name="hybrid-configuration-wizard"></a>Panduan konfigurasi hibrid
 
-Wisaya konfigurasi hibrid adalah aplikasi yang membantu Anda mengatur hibrid baru antara organisasi Exchange lokal dan Microsoft 365. Jika Anda telah menyiapkan hibrid, Wisaya membantu Anda memperbarui pengaturan penggunaan hibrid. Untuk informasi lebih lanjut, bacalah:
+Panduan konfigurasi hibrid adalah aplikasi yang membantu Anda menyiapkan penyebaran hibrid baru antara organisasi Exchange di tempat dan Microsoft 365. Jika Anda sudah menyiapkan hibrid, panduan tersebut membantu Anda memperbarui pengaturan penyebaran hibrid Anda. Untuk informasi selengkapnya, lihat:
   
-- [Wisaya konfigurasi hibrid Run](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Menjalankan panduan konfigurasi hibrid](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Wisaya konfigurasi hibrid](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Panduan konfigurasi hibrid](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [FAQ Wisaya konfigurasi hibrid](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Tanya Jawab Umum panduan konfigurasi hibrid](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)

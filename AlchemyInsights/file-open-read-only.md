@@ -1,54 +1,55 @@
 ---
-title: File terbuka baca-saja
+title: File Buka baca-saja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702777"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745589"
 ---
-# <a name="file-open-read-only"></a>File terbuka baca-saja
+# <a name="file-open-read-only"></a>File Buka baca-saja
 
-Anda mungkin menemukan bahwa ketika Anda membuka berkas, mereka membuka sebagai baca-saja. Dalam beberapa kasus, ini untuk keamanan tambahan, seperti ketika Anda membuka file dari internet, dan lain kali, hal ini dapat disebabkan oleh pengaturan yang dapat diubah. Berikut adalah beberapa skenario di mana file terbuka baca-saja dan beberapa langkah yang dapat Anda ambil untuk mengubahnya.
+Anda mungkin menemukan bahwa saat Anda membuka file, mereka membuka sebagai baca-saja. Dalam beberapa kasus, ini adalah untuk keamanan tambahan, seperti saat Anda membuka file dari internet, dan waktu lainnya, ini bisa disebabkan pengaturan yang bisa diubah. Berikut adalah beberapa skenario di mana file membuka baca-saja dan beberapa langkah yang bisa Anda lakukan untuk mengubahnya.
   
- **Antivirus saya menyebabkan mereka untuk membuka Read-Only**
+ **Antivirus saya menyebabkan mereka membuka baca-saja**
   
-Beberapa program antivirus dapat melindungi Anda dari file yang berpotensi tidak aman dengan membukanya hanya-baca. Anda mungkin harus memeriksa dengan penyedia antivirus untuk mempelajari cara menyesuaikan pengaturan ini. BitDefender, misalnya, memiliki konten untuk menambahkan aplikasi pengecualian di sini: [cara menambahkan aplikasi atau proses pengecualian di BitDefender Control Center](https://aka.ms/AA6098i).
+Beberapa program antivirus mungkin memproteksi Anda dari file yang berpotensi tidak aman dengan membukanya baca-saja. Anda mungkin perlu memeriksa penyedia antivirus untuk mempelajari cara menyesuaikan pengaturan ini. BitDefender, misalnya, memiliki konten untuk menambahkan pengecualian aplikasi di sini: [cara menambahkan pengecualian aplikasi atau proses di pusat kontrol BitDefender](https://aka.ms/AA6098i).
   
  **Apakah properti file diatur ke baca-saja?**
   
-Anda dapat memeriksa properti file dengan mengklik kanan pada file dan memilih Properties. Jika atribut baca-saja dicentang, Anda dapat menghapus centang dan mengklik OK.
+Anda dapat memeriksa properti file dengan mengklik kanan file dan memilih properti. Jika atribut baca-saja dicentang, Anda bisa menghapus centang dan klik OK.
   
- **Konten dalam tampilan terlindungi**
+ **Konten dalam tampilan terproteksi**
   
-File dari internet dan lokasi lain yang berpotensi tidak aman dapat berisi virus, worm, atau jenis malware lain yang dapat membahayakan komputer Anda. Hal ini juga biasanya terjadi dengan lampiran email atau file yang telah didownload. Untuk membantu melindungi komputer Anda, file dari lokasi yang berpotensi tidak aman ini dibuka dalam tampilan terlindungi. Dengan menggunakan Protected View, Anda dapat membaca file dan melihat isinya sambil mengurangi risiko. Untuk informasi lebih lanjut tentang tampilan terlindungi dan cara mengubah pengaturan, lihat artikel ini: [apa yang dimaksud dengan tampilan terlindungi?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+File dari internet dan dari lokasi yang berpotensi tidak aman lainnya dapat berisi virus, worm, atau jenis malware lainnya yang bisa membahayakan komputer Anda. Ini juga sering terjadi pada lampiran email atau file yang telah Anda unduh. Untuk membantu melindungi komputer Anda, file dari lokasi yang berpotensi tidak aman dibuka dalam tampilan terproteksi. Dengan menggunakan tampilan terproteksi, Anda bisa membaca file dan melihat kontennya sambil mengurangi risiko. Untuk informasi selengkapnya tentang tampilan terproteksi dan cara mengubah pengaturan, lihat artikel ini: [apa itu tampilan terproteksi?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Apakah OneDrive penuh?**
+ **Apakah OneDrive sudah penuh?**
   
-Jika file disimpan di OneDrive dan ruang penyimpanan OneDrive Anda penuh, Anda tidak akan dapat menyimpan dokumen tersebut sampai Anda berada di bawah ruang yang Anda berikan. Anda dapat memeriksa ruang kosong Anda di OneDrive dengan mengklik ikon OneDrive di pusat pemberitahuan dan memilih Kelola penyimpanan, atau Anda dapat pergi ke [https://onedrive.live.com](https://onedrive.live.com), masuk, dan catat jumlah ruang yang digunakan di kiri bawah layar.
+Jika file disimpan di OneDrive dan ruang penyimpanan OneDrive Anda penuh, Anda tidak akan bisa menyimpan dokumen hingga Anda berada di bawah ruang yang dialokasikan. Anda bisa memeriksa ruang kosong Anda di OneDrive dengan mengklik ikon OneDrive di pusat pemberitahuan dan memilih Kelola penyimpanan, atau Anda bisa masuk ke [https://onedrive.live.com](https://onedrive.live.com) , masuk, dan catat jumlah ruang yang digunakan di bagian kiri bawah layar.
   
  **Apakah Office diaktifkan?**
   
-Jika Office tidak diaktifkan, atau jika langganan Anda telah kedaluwarsa, Anda dapat berada dalam mode fungsi hanya-baca berkurang. Untuk informasi tentang cara mengaktifkan Office, lihat: [tidak berlisensi produk dan kesalahan aktivasi di Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jika Office tidak diaktifkan, atau jika langganan Anda telah kedaluwarsa, Anda mungkin berada dalam mode fungsionalitas yang dikurangi baca-saja. Untuk informasi tentang cara mengaktifkan Office, lihat: [produk tanpa lisensi dan kesalahan aktivasi di Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
- **Jika semua yang lain gagal...**
+ **Jika semuanya gagal...**
   
-- Coba nyalakan ulang komputer
+- Coba mulai ulang komputer
     
-- Menginstal pemutakhiran Office
+- Menginstal pembaruan Office
     
-- Melakukan perbaikan online Office
+- Menjalankan perbaikan online Office
     
 

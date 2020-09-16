@@ -1,32 +1,33 @@
 ---
-title: Perbaiki kesalahan 0x8004de40 di OneDrive
+title: Memperbaiki kesalahan 0x8004de40 di OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716031"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745133"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Perbaiki kesalahan 0x8004de40 di OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Memperbaiki kesalahan 0x8004de40 di OneDrive
 
-Jika Anda menerima galat 0x8004de40 dengan OneDrive:
+Jika Anda menerima kesalahan 0x8004de40 dengan OneDrive:
 
 - Reboot komputer yang terpengaruh saat tersambung ke domain direktori Acitve Anda.
-- Jika reboot tidak memperbaiki masalah, keluar dan bergabung kembali perangkat Anda dari Azure AD. 
+- Jika reboot tidak memperbaiki masalah, berhenti bergabung dan bergabung kembali dengan perangkat Anda dari Azure AD. 
 
-**Catatan**: Anda harus berada di jaringan korporat Anda saat melakukan langkah ini. Jangan lakukan langkah ini ketika Anda tidak dapat terhubung ke infrastruktur perusahaan Anda (misalnya, saat bepergian). 
+**Catatan**: Anda harus berada di jaringan perusahaan Anda saat melakukan langkah-langkah ini. Jangan melakukan langkah-langkah ini saat Anda tidak bisa menyambungkan ke infrastruktur perusahaan Anda (misalnya, saat bepergian). 
 
 - Buka wantian perintah yang ditinggikan. 
-- Untuk membuka wantian perintah yang ditinggikan, klik- **mulai**, klik kanan **wantian perintah**, dan kemudian klik **Jalankan sebagai administrator**.
+- Untuk membuka wantian perintah yang ditinggikan, klik- **mulai**, klik kanan **prompt perintah**, lalu klik **Jalankan sebagai administrator**.
 - Ketik *dsregcmd/Leave* dan tekan **Enter**.
-- Setelah selesai, ketik *dsregcmd/Join* dan tekan **Enter**.
+- Bila sudah selesai, ketikkan *dsregcmd/Join* dan tekan **Enter**.
 - Setelah selesai, tutup wantian perintah.
-- Reboot komputer, dan masuk ke OneDrive.
+- Hidupkan ulang komputer, dan masuk ke OneDrive.
