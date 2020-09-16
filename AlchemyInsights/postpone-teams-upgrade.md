@@ -1,29 +1,30 @@
 ---
-title: Postpone tim upgrade
+title: Menunda pemutakhiran tim
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: fcf724e335bd6a7cb4801d9b2789447befc06ff7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912514"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741774"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Cara menunda upgrade tim berbasis Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Cara menunda pemutakhiran tim yang didukung Microsoft
 
-**Penting**: kami dapat membantu memperbaikinya untuk Anda menggunakan diagnostik dukungan, namun sepertinya Anda tidak menggunakan pusat admin baru. Untuk menggunakan pusat admin baru, geser tombol Toggle di kanan atas yang mengatakan **Pusat admin baru** ke kanan. Menggunakan pusat admin baru, klik **perlu bantuan?** widget, ketik "Postpone teams upgrade", kemudian ikuti petunjuk untuk menjalankan diagnostik.
+**Penting**: kami bisa membantu memperbaiki hal ini untuk Anda menggunakan diagnostik dukungan, tapi kelihatannya Anda tidak menggunakan pusat admin baru. Untuk menggunakan pusat admin baru, geser tombol alih di bagian kanan atas yang bertuliskan **Pusat admin baru** ke kanan. Menggunakan pusat admin baru, klik widget **perlu bantuan?** , ketikkan "tunda pemutakhiran tim", lalu ikuti perintah untuk menjalankan diagnostik.
 
-Jika Anda menerima komunikasi tentang peningkatan otomatis didorong Microsoft dari Skype untuk bisnis untuk Microsoft teams, dan Anda ingin menunda upgrade otomatis ke tanggal kemudian, Anda global admin dapat masuk ke [portal admin tim](https://admin.teams.microsoft.com/dashboard) dan, setelah memilih tombol **status refresh** pada Microsoft teams upgrade, pilih tombol **tunda** . Untuk melihat tanggal baru untuk upgrade otomatis penyewa Anda ke Microsoft teams, Segarkan halaman portal admin teams.
+Jika Anda menerima komunikasi tentang pemutakhiran otomatis berbasis Microsoft dari Skype for Business ke Microsoft teams, dan Anda ingin menunda pemutakhiran otomatis ke yang lebih baru, admin global Anda bisa masuk ke [portal admin teams](https://admin.teams.microsoft.com/dashboard) dan, setelah memilih tombol **refresh status** di bawah Pemutakhiran Microsoft teams, pilih tombol **tunda** . Untuk melihat tanggal baru untuk pemutakhiran otomatis penyewa Anda ke Microsoft teams, refresh halaman portal admin teams.
 
-**Catatan:** Tombol **Postpone** hanya akan tersedia jika Anda telah menerima pemberitahuan pusat pesan mengenai peningkatan otomatis. 
+**Catatan:** Tombol **tunda** hanya akan tersedia jika Anda telah menerima pemberitahuan pusat pesan tentang pemutakhiran otomatis. 
 
-Global admin juga dapat menjalankan [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) untuk mempelajari lebih lanjut tentang status upgrade mereka saat ini.
+Admin global juga bisa menjalankan [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) untuk mempelajari selengkapnya tentang status pemutakhiran mereka saat ini.
