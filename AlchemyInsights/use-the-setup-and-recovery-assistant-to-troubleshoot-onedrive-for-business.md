@@ -1,28 +1,29 @@
 ---
-title: Menggunakan penataan dan asisten pemulihan untuk memecahkan masalah OneDrive untuk bisnis
+title: Menggunakan Asisten penyiapan dan pemulihan untuk memecahkan masalah OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710626"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749337"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Perbaiki masalah sinkronisasi OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Memperbaiki masalah sinkronisasi OneDrive
 
-Dukungan dan pemulihan asisten aplikasi dapat membantu Anda mengidentifikasi dan memperbaiki masalah umum dengan menyinkronkan berkas OneDrive. 
+Aplikasi asisten dukungan dan pemulihan dapat membantu Anda mengidentifikasi dan memperbaiki masalah umum dalam menyinkronkan file OneDrive. 
   
-[Unduh asisten dukungan dan pemulihan](https://aka.ms/sara), masuk dengan akun kantor atau sekolah Anda, dan ikuti petunjuk di aplikasi untuk memecahkan masalah OneDrive for Business. 
+[Unduh asisten dukungan dan pemulihan](https://aka.ms/sara), masuk dengan akun kerja atau sekolah Anda, dan ikuti instruksi di aplikasi untuk memecahkan masalah OneDrive for Business. 
   
 [Langkah pemecahan masalah lainnya](https://go.microsoft.com/fwlink/?linkid=872097)
   
