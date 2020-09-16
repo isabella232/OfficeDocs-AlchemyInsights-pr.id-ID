@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510467"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736030"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="f7a98-102">Terlalu banyak lisensi?</span><span class="sxs-lookup"><span data-stu-id="f7a98-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="0c551-102">Terlalu banyak lisensi?</span><span class="sxs-lookup"><span data-stu-id="0c551-102">Too many licenses?</span></span>
 
-<span data-ttu-id="f7a98-103">Jika Anda merasa ditagih terlalu banyak lisensi, hal ini biasanya disebabkan karena membeli lebih banyak lisensi yang Anda perlukan.</span><span class="sxs-lookup"><span data-stu-id="f7a98-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="0c551-103">Jika Anda merasa dikenakan biaya terlalu banyak lisensi, ini biasanya disebabkan karena telah membeli lebih banyak lisensi, maka Anda memerlukan.</span><span class="sxs-lookup"><span data-stu-id="0c551-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="f7a98-104">**Mengurangi jumlah lisensi yang dibeli**</span><span class="sxs-lookup"><span data-stu-id="f7a98-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="0c551-104">**Mengurangi jumlah lisensi yang dibeli**</span><span class="sxs-lookup"><span data-stu-id="0c551-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="f7a98-105">Di pusat admin, buka halaman **penagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="f7a98-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="0c551-105">Di pusat admin, masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="0c551-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="f7a98-106">Temukan langganan yang ingin Anda hapus lisensinya, lalu pilih **Tambah/Hapus lisensi**.</span><span class="sxs-lookup"><span data-stu-id="f7a98-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="0c551-106">Temukan langganan yang ingin Anda hapus lisensinya, lalu pilih **Tambahkan/Hapus lisensi**.</span><span class="sxs-lookup"><span data-stu-id="0c551-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="f7a98-107">Di kotak **Total lisensi** , masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, dan kemudian pilih **kirim perubahan**.</span><span class="sxs-lookup"><span data-stu-id="f7a98-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="f7a98-108">Sebagai contoh, jika Anda memiliki lisensi 110 dan Anda ingin menghapus 5 dari mereka, masukkan 105.</span><span class="sxs-lookup"><span data-stu-id="f7a98-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
+3. <span data-ttu-id="0c551-107">Dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, lalu pilih **kirim perubahan**.</span><span class="sxs-lookup"><span data-stu-id="0c551-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="0c551-108">Misalnya, jika Anda memiliki lisensi 110 dan Anda ingin menghapusnya 5 darinya, masukkan 105.</span><span class="sxs-lookup"><span data-stu-id="0c551-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-<span data-ttu-id="f7a98-109">Untuk mempelajari lebih lanjut, lihat [menghapus lisensi dari 365 Microsoft untuk langganan bisnis](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="f7a98-109">To learn more, see [Remove licenses from your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
+<span data-ttu-id="0c551-109">Untuk mempelajari selengkapnya, lihat [menghapus lisensi dari langganan Microsoft 365 untuk bisnis Anda](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="0c551-109">To learn more, see [Remove licenses from your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
