@@ -6,38 +6,39 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: e9550e1b70b00307101f9fa5feb0899c4c77541f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 91004b3f74fb147905d5083cf7c426bc7f3f58ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742334"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739036"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Berbagi file di OneDrive dengan orang di luar organisasi Anda
 
-1. Gunakan peluncur aplikasi untuk pergi ke OneDrive di browser web Anda. 
+1. Gunakan peluncur aplikasi untuk masuk ke OneDrive di browser web Anda. 
     
 2. Pilih file atau folder yang ingin Anda bagikan, lalu pilih **bagikan**. 
     
-3. Jika jenis tautan disetel ke "orang di \<organisasi\>Anda", klik panah bawah dan pilih salah satu dari berikut ini: 
+3. Jika tipe link diatur ke "People in \<your organization\> ," klik panah bawah dan pilih salah satu hal berikut ini: 
     
-  - **Siapapun** memberikan akses kepada siapa saja yang menerima link ini, apakah mereka menerimanya langsung dari Anda atau diteruskan dari orang lain. Ini mungkin termasuk orang di luar organisasi Anda. 
+  - **Siapa pun** memberi akses ke siapa pun yang menerima link ini, baik mereka menerimanya secara langsung dari Anda maupun diteruskan dari orang lain. Ini mungkin termasuk orang di luar organisasi Anda. 
     
-  - **Orang tertentu** memberikan akses hanya kepada orang yang Anda tentukan, meskipun orang lain mungkin sudah memiliki akses. Jika orang meneruskan undangan berbagi, hanya orang yang sudah memiliki akses ke item yang akan dapat menggunakan link tersebut. 
+  - **Orang tertentu** hanya memberi akses kepada orang yang Anda tentukan, meskipun orang lain mungkin sudah memiliki Access. Jika orang meneruskan undangan berbagi, hanya orang yang memiliki akses ke item yang dapat menggunakan tautan tersebut. 
     
     > [!NOTE]
-    > Jika salah satu opsi ini tidak tersedia, atau jika Anda ingin jenis tautan yang berbeda muncul secara default, Anda dapat mengubah setelan di seluruh organisasi dengan membuka Pusat admin OneDrive dan mengeklik **berbagi** di panel kiri. [Pelajari lebih lanjut](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Jika salah satu opsi ini tidak tersedia, atau jika Anda ingin tipe tautan yang berbeda muncul secara default, Anda bisa mengubah pengaturan di seluruh organisasi dengan masuk ke Pusat admin OneDrive dan mengklik **berbagi** di panel kiri. [Pelajari lebih lanjut](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Secara default, **Izinkan pengeditan** diaktifkan. Jika Anda ingin orang hanya melihat file Anda, Hapus centang pada kotak centang. 
+4. Secara default, **Izinkan pengeditan** diaktifkan. Jika Anda ingin orang-orang hanya melihat file Anda, kosongkan kotak centang. 
     
-5. Masukkan nama orang yang ingin Anda bagikan dan pesan, jika Anda mau.
+5. Masukkan nama orang yang ingin Anda bagikan dan pesan, jika menginginkannya.
     
-6. Saat Anda siap mengirim tautan, klik **kirim**. 
+6. Saat Anda siap untuk mengirim link, klik **kirim**. 
     
 [Pelajari lebih lanjut](https://go.microsoft.com/fwlink/?linkid=871861)
   

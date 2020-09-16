@@ -1,36 +1,37 @@
 ---
-title: Solusi untuk masalah di sekitar menginstal Office di terminal server
+title: Solusi untuk masalah seputar menginstal Office di server terminal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010905"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738460"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Solusi untuk masalah di sekitar menginstal Office di terminal server
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Solusi untuk masalah seputar menginstal Office di server terminal
 
-Untuk menggunakan aktivasi komputer bersama, Anda harus memiliki langganan yang mencakup Microsoft 365 aplikasi untuk perusahaan.
+Untuk menggunakan aktivasi komputer bersama, Anda harus memiliki langganan yang menyertakan aplikasi Microsoft 365 untuk perusahaan.
   
-- Verifikasi bahwa komputer bersama aktivasi diaktifkan
-- Verifikasi bahwa aktivasi berhasil
-- Tinjau pesan kesalahan untuk aktivasi komputer bersama:
-- "Produk yang kami temukan di akun Anda tidak dapat digunakan untuk mengaktifkan Office dalam skenario komputer bersama"
+- Verifikasi bahwa aktivasi komputer bersama diaktifkan
+- Memverifikasi bahwa aktivasi berhasil
+- Meninjau pesan kesalahan untuk aktivasi komputer bersama:
+- "Produk yang kami temukan dalam akun Anda tidak bisa digunakan untuk mengaktifkan Office dalam skenario komputer bersama"
   
-Galat ini berarti bahwa Anda tidak memiliki langganan yang mencakup Microsoft 365 aplikasi untuk perusahaan.
+Kesalahan ini berarti Anda tidak memiliki langganan yang menyertakan aplikasi Microsoft 365 untuk perusahaan.
 
-"Produk tanpa izin"
+"Produk tanpa lisensi"
 
-- Periksa bahwa pengguna ditetapkan lisensi untuk Microsoft 365 aplikasi untuk perusahaan.
-- Periksa apakah pengguna login dengan akun pengguna mereka.
+- Periksa bahwa pengguna diberi lisensi untuk aplikasi Microsoft 365 untuk perusahaan.
+- Periksa apakah pengguna masuk dengan akun pengguna mereka.
 - Periksa bahwa ada konektivitas antara komputer bersama dan internet.
 
 Untuk tips pemecahan masalah lainnya, silakan lihat: [memecahkan masalah dengan aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

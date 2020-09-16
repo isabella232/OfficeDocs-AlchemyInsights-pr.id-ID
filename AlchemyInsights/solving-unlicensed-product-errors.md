@@ -1,39 +1,40 @@
 ---
-title: Memecahkan kesalahan produk tidak berlisensi
+title: Memecahkan kesalahan produk tanpa lisensi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582742"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737956"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Saran untuk memecahkan "produk tanpa izin" kesalahan
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Saran untuk memecahkan kesalahan "produk tanpa lisensi"
 
-Untuk mengatasi kesalahan tentang "produk tanpa izin", coba hal berikut:
+Untuk mengatasi kesalahan tentang "produk tanpa lisensi," Cobalah hal berikut:
 
-- Periksa untuk mengetahui apakah status langgananmu telah kedaluwarsa.
-- Pastikan Anda memiliki langganan yang memungkinkan lisensi klien, seperti Microsoft 365 aplikasi untuk bisnis atau bisnis Premium, dan [memastikan bahwa pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- Periksa untuk melihat apakah status langganan Anda telah kedaluwarsa.
+- Pastikan Anda memiliki langganan yang memperbolehkan lisensi klien, seperti aplikasi Microsoft 365 untuk bisnis atau bisnis Premium, dan [pastikan bahwa pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Pastikan pengguna masuk ke Office dengan akun yang sama yang memiliki lisensi yang ditetapkan.
 - Periksa [halaman Kesehatan Layanan](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah yang diketahui dengan layanan.
-- Periksa firewall, perangkat lunak antivirus, dan pengaturan proxy Anda untuk mengkonfirmasi bahwa mereka tidak memblokir Microsoft 365 aplikasi akses ke internet. Lihat [rentang URL dan alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Periksa firewall, perangkat lunak antivirus, dan pengaturan proksi Anda untuk mengonfirmasi bahwa mereka tidak memblokir akses aplikasi Microsoft 365 ke internet. Lihat [URL dan rentang alamat IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Anda juga dapat mencoba tindakan pemecahan masalah berikut ini: 
 
-- Buka aplikasi Office dan keluar dari akun [pengguna yang ada](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) . [Menghapus](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) dan [menetapkan ulang](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lisensi Office, dan kemudian [masuk ke Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) menggunakan akun pengguna yang dipakai.
-- Jalankan [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy).
-- [Reset status aktivasi Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
-- [Melakukan perbaikan online kantor](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- Buka aplikasi Office dan keluar dari semua akun [pengguna yang sudah](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) ada. [Hapus](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) dan [tetapkan kembali](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) lisensi Office, lalu [masuk ke Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) menggunakan akun pengguna yang terpengaruh.
+- Menjalankan [pemecah masalah aktivasi](https://aka.ms/SARA-OfficeActivation-Alchemy).
+- [Mereset status aktivasi Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
+- [Menjalankan perbaikan online Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 Untuk solusi pemecahan masalah lainnya, lihat: 
 

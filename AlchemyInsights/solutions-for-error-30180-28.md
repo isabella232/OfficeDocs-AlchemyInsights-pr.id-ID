@@ -6,23 +6,24 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
 ms.custom:
 - "832"
 - "2000020"
-ms.openlocfilehash: 1a30df2a78a838ddeb7be83b8ddebc9114bccabb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 75a0fe3459fdf2cfd83b7889a28440e7a9cb3b27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767118"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738424"
 ---
 # <a name="solutions-for-error-30180-28"></a>Solusi untuk kesalahan 30180-28
 
-Anda mungkin melihat [galat 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) selama pemutakhiran Office jika Anda memiliki sambungan internet yang buruk. Berikut adalah beberapa hal yang dapat Anda coba untuk memperbaiki masalah.
+Anda mungkin melihat [kesalahan 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) selama pembaruan Office jika Anda memiliki koneksi internet yang buruk. Berikut adalah beberapa hal yang bisa Anda coba untuk memperbaiki masalah tersebut.
   
-- Restart komputer Anda dan kemudian [Perbarui Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
+- Mulai ulang komputer Anda lalu [Perbarui Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
 
-- Ikuti langkah di atas, namun gunakan sambungan kabel saat memperbarui Office.
+- Ikuti langkah-langkah di atas, namun gunakan koneksi berkabel saat memperbarui Office.
