@@ -1,27 +1,28 @@
 ---
-title: Peran pengguna komersial modern
+title: Peran pengguna perdagangan modern
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748843"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667017"
 ---
-# <a name="modern-commerce-user-role"></a>Peran pengguna komersial modern
+# <a name="modern-commerce-user-role"></a>Peran pengguna perdagangan modern
 
-Peran pengguna komersial modern memberikan izin pengguna tertentu untuk mengakses Microsoft 365 Admin Center dan melihat entri navigasi kiri untuk **rumah**, **penagihan**, dan **dukungan**. Konten yang tersedia di area ini dikontrol oleh peran khusus perdagangan yang ditetapkan kepada pengguna untuk mengelola produk yang mereka beli untuk diri mereka sendiri atau organisasi Anda. Ini mungkin mencakup tugas seperti membayar tagihan, atau untuk akses ke akun penagihan dan profil penagihan.
+Peran pengguna perdagangan modern memberi pengguna tertentu izin untuk mengakses pusat admin Microsoft 365 dan melihat entri navigasi kiri untuk **Beranda**, **tagihan**, dan **dukungan**. Konten yang tersedia di area ini dikontrol oleh peran komersial yang ditetapkan kepada pengguna untuk mengelola produk yang mereka beli untuk mereka sendiri atau organisasi Anda. Ini mungkin termasuk tugas seperti membayar tagihan, atau untuk akses ke akun tagihan dan profil tagihan.
 
-Pengguna dengan peran pengguna modern Commerce biasanya memiliki izin administratif di sistem pembelian Microsoft lainnya, namun tidak memiliki administrator global atau hak istimewa administrator penagihan.
+Pengguna dengan peran pengguna perdagangan modern biasanya memiliki izin administratif di sistem pembelian Microsoft lainnya, tetapi tidak memiliki hak istimewa administrator global atau administrator tagihan.
 
-Untuk mempelajari selengkapnya tentang hal ini dan peran administratif lainnya, lihat [izin peran administrator di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Untuk mempelajari selengkapnya tentang ini dan peran administratif lainnya, lihat [izin peran administrator di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
