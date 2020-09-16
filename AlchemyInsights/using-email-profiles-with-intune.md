@@ -6,37 +6,38 @@ manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555253"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653291"
 ---
 # <a name="using-email-profiles-with-intune"></a>Menggunakan profil email dengan Intune
 
-Intune dapat digunakan untuk membuat dan menyebarkan profil email untuk klien email Native (built-in) pada beberapa platform perangkat.
+Intune dapat digunakan untuk membuat dan menggunakan profil email untuk klien email bawaan (bawaan) di beberapa platform perangkat.
 
-Untuk informasi tentang beberapa pembatasan yang terkait dengan profil email, termasuk bagaimana keberadaan profil yang ada ditangani dan cara menghapus profil email, lihat [menambahkan pengaturan email ke perangkat menggunakan Intune](https://docs.microsoft.com/intune/email-settings-configure).
+Untuk informasi tentang beberapa larangan yang terkait dengan profil email, termasuk bagaimana kehadiran profil yang sudah ditangani dan cara menghapus profil email, lihat [menambahkan pengaturan email ke perangkat yang menggunakan Intune](https://docs.microsoft.com/intune/email-settings-configure).
 
-Untuk informasi lebih lanjut tentang cara membuat profil email untuk setiap platform perangkat, lihat:
+Untuk informasi selengkapnya tentang cara membuat profil email untuk setiap platform perangkat, lihat:
 
-[Pengaturan perangkat Android untuk mengkonfigurasi email, otentikasi, dan sinkronisasi di Intune](https://docs.microsoft.com/intune/email-settings-android)  
-[Menambahkan pengaturan e-mail untuk perangkat iOS dan iPadOS di Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[Tataan profil email di Microsoft Intune untuk perangkat yang menjalankan Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Pengaturan perangkat Android untuk mengonfigurasi email, autentikasi, dan sinkronisasi di Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[Menambahkan pengaturan email untuk perangkat iOS dan iPadOS di Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Pengaturan profil email di Microsoft Intune untuk perangkat yang menjalankan Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
 [Pengaturan profil email untuk perangkat yang menjalankan Windows 10 di Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **Masalah sinkronisasi Umum**
 
-**Sebuah KNOX pada profil email Android mencegah pengguna kontak, kalender, dan tugas, dari yang akan disinkronkan ke perangkat pengguna.**
+**KNOX pada profil email Android mencegah kontak, kalender, dan tugas pengguna, agar tidak disinkronkan dengan perangkat pengguna.**
 
-The KNOX di profil email Android KNOX menawarkan admin pilihan untuk memutuskan jenis konten yang akan disinkronkan ke perangkat dengan menetapkan masing-masing untuk diaktifkan.
+Profil email KNOX di Android KNOX menawarkan admin opsi untuk memutuskan tipe konten mana yang disinkronkan ke perangkat dengan mengatur masing-masing untuk diaktifkan.
 
-Jika setelan untuk jenis konten apa pun diatur ke **tidak dikonfigurasi** (default), jenis konten tersebut tidak disinkronkan secara otomatis. Pengguna dapat mengaktifkan jenis konten yang mereka inginkan secara langsung pada perangkat secara manual, tetapi konfigurasi yang akan ditimpa oleh Intune pengaturan kebijakan, dan sinkronisasi berhenti untuk jenis konten tersebut.
+Jika pengaturan untuk salah satu tipe konten diatur ke **tidak dikonfigurasi** (default), tipe konten tersebut tidak disinkronkan secara otomatis. Pengguna mungkin mengaktifkan tipe konten yang mereka inginkan secara langsung di perangkat secara manual, tapi konfigurasi tersebut ditimpa dengan pengaturan kebijakan Intune, dan sinkronisasi berhenti untuk tipe konten tersebut.
 
