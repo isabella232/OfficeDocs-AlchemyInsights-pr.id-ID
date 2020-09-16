@@ -1,10 +1,11 @@
 ---
-title: Tidak cocok untuk OneDrive PUID
+title: OneDrive PUID tidak cocok
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: e1fc50afa5b2e3d625c9136aac9bcb8ff24e00d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713145"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754342"
 ---
-# <a name="onedrive-puid-mismatch"></a>Tidak cocok untuk OneDrive PUID
-Tampaknya Anda mengalami [ketidakcocokan Puid](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) di OneDrive untuk bisnis. Silakan ikuti langkah di bawah ini agar kami dapat membantu Anda sesegera mungkin:
+# <a name="onedrive-puid-mismatch"></a>OneDrive PUID tidak cocok
+Tampaknya Anda mengalami [ketidakcocokan Puid](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) di OneDrive for Business. Ikuti langkah-langkah di bawah ini agar kami dapat segera membantu Anda:
 
-1. Klik **Hubungi dukungan**, dan kemudian **permintaan layanan baru**.
-2. Tinggalkan judul dan deskripsi sebagai **Puid ketidakcocokan di situs OneDrive**.
-3. Setelah tiket diserahkan, silakan update dengan informasi berikut:
-    - OneDrive situs URL yang terpengaruh.
-    - Pimpinan (UPN nama pengguna) pengguna yang dipakai.
+1. Klik **dukungan kontak**, lalu **permintaan layanan baru**.
+2. Biarkan judul dan deskripsi sebagai **ketidakcocokan Puid di situs OneDrive**.
+3. Setelah tiket dikirimkan, silakan memperbaruinya dengan informasi berikut:
+    - URL situs OneDrive yang terpengaruh.
+    - Nama prinsip pengguna (UPN) pengguna yang terpengaruh.
 
 
 

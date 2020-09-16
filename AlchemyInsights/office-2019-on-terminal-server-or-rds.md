@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796182"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754568"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Menyebarkan Office 2019 untuk digunakan bersama di RDS, terminal server, atau VDI
 
-Jika Office sudah diinstal di RDS server menggunakan rencana Office lainnya, bongkar. Sebagai contoh, pergi ke **Control Panel** > **Uninstall program**. Jika Anda mengalami masalah, bongkar menggunakan [dukungan Microsoft dan asisten pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Jika Office telah terinstal di server RDS menggunakan paket Office lainnya, Hapus instalasinya. Misalnya, masuk ke **panel kontrol**  >  **hapus instalan program**. Jika Anda mengalami masalah, hapus instalan menggunakan [asisten dukungan dan pemulihan Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Gunakan alat penyebaran Office (ODT) untuk menginstal Office. Untuk rincian langkah, lihat [menyebarkan Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Gunakan Office Deployment Tool (ODT) untuk menginstal Office. Untuk langkah mendetail, lihat [menyebarkan Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Untuk aktivasi, lihat [Ikhtisar aktivasi volume Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Untuk aktivasi, lihat [gambaran umum aktivasi volume Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
