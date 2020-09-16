@@ -1,29 +1,30 @@
 ---
-title: Urungkan pemindahan atau penghapusan di Outlook.com
+title: Batalkan memindahkan atau menghapus di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: 30288247b1f00e1347744357bb97faced2a2ff31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ba733325365febb273769869108cc18d360a9fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719425"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751930"
 ---
-# <a name="action-confirmations"></a>Konfirmasi aksi
+# <a name="action-confirmations"></a>Konfirmasi tindakan
 
-Jika Anda tidak sengaja memindahkan atau menghapus pesan di Outlook.com, Anda dapat mengurungkan tindakan tersebut. Dialog Urungkan muncul di bagian bawah layar selama sekitar 5 detik. Pilih **Urungkan** untuk membatalkan tindakan pemindahan atau penghapusan.
+Jika Anda secara tidak sengaja memindahkan atau menghapus pesan di Outlook.com, Anda dapat membatalkan tindakan tersebut. Dialog Batalkan muncul di bagian bawah layar selama sekitar 5 detik. Pilih **Batalkan** untuk membatalkan tindakan Pindahkan atau Hapus.
 
-Anda dapat mematikan fitur ini dalam [konfirmasi tindakan](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Pengaturan** > **Lihat semua** > **General** > **notifikasi**umum pengaturan Outlook).
+Anda dapat menonaktifkan fitur ini dalam [konfirmasi tindakan](https://outlook.live.com/mail/options/general/notifications) (<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Pengaturan**  >  **Tampilkan semua pengaturan Outlook**  >  **Umum**  >  **Pemberitahuan**).
 
-Catatan: setelah pesan terkirim, Anda tidak dapat mengurungkan tindakan tersebut. Untuk informasi lebih lanjut, lihat [saya ingin mengingat pesan di Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Catatan: setelah pesan dikirim, Anda tidak dapat membatalkan tindakan tersebut. Untuk informasi selengkapnya, lihat [saya ingin mengingat pesan di Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
