@@ -1,39 +1,40 @@
 ---
-title: Sinkronkan kontak Outlook saya ke buku alamat saya
+title: Menyinkronkan kontak Outlook saya ke buku alamat saya
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767072"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737380"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sinkronkan kontak Outlook saya ke buku alamat saya
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Menyinkronkan kontak Outlook saya ke buku alamat saya
 
-Outlook memungkinkan Anda mengekspor kontak ke aplikasi kontak default di Android. Hal ini memungkinkan Anda untuk melihat nama kontak ketika Anda menerima panggilan atau pesan teks, dan melihat semua informasi kontak mereka secara langsung di aplikasi kontak default.
+Outlook memungkinkan Anda mengekspor kontak ke aplikasi kontak default di Android. Ini memungkinkan Anda melihat nama kontak saat Anda menerima panggilan atau pesan teks, dan menampilkan semua informasi kontaknya secara langsung di aplikasi kontak default.
  
 **Untuk mengaktifkan fitur ini**:
  
-1. Di perangkat, buka **pengaturan**.
+1. Di perangkat Anda, masuk ke **pengaturan**.
 
-2. Pada **akun**, ketuk akun yang ingin disinkronkan dengan kontak.
+2. Di bawah **akun**, ketuk akun yang ingin Anda sinkronkan kontak.
 
-3. Alihkan penggeser **kontak sinkronisasi** ke aktif.
+3. Aktifkan slider **kontak sinkronisasi** .
  
-Ekspor kontak dua arah didukung untuk Microsoft 365, Outlook.com, dan hibrid modern otentikasi untuk pesan lokal. Dukungan dua arah memastikan bahwa setiap kontak baru yang Anda tambahkan, atau kontak yang Anda edit, akan disinkronkan antara perangkat dan akun Outlook Anda.
+Ekspor kontak dua arah didukung untuk autentikasi modern Microsoft 365, Outlook.com, dan hibrid untuk kotak surat lokal. Dukungan dua arah memastikan bahwa setiap kontak baru yang Anda tambahkan, atau kontak yang sudah Anda edit, akan disinkronkan antara perangkat dan akun Outlook Anda.
  
-Untuk akun Exchange lama, Anda dapat mengekspor kontak agar disimpan ke perangkat. Ketika **kontak sinkronisasi** diaktifkan, kontak yang baru ditambahkan dan pengeditan yang dibuat ke kontak Anda di Outlook akan disimpan ke App kontak pada perangkat Anda. Namun, pengeditan yang dilakukan langsung di aplikasi kontak perangkat Anda tidak akan disimpan ke Outlook. Perhatikan bahwa kami tidak mendukung penambahan/pengeditan kontak dari Outlook untuk Android untuk account Exchange lokal, sehingga Anda perlu mengelola kontak dari klien Outlook yang berbeda.
+Untuk akun Exchange warisan, Anda bisa mengekspor kontak Anda untuk disimpan ke perangkat. Saat **kontak sinkronisasi** diaktifkan, kontak dan pengeditan yang baru ditambahkan ke kontak Anda di Outlook akan disimpan ke aplikasi kontak di perangkat Anda. Namun, pengeditan yang dilakukan secara langsung di aplikasi kontak perangkat Anda tidak akan disimpan ke Outlook. Perhatikan bahwa kami tidak mendukung menambahkan/mengedit kontak dari Outlook untuk Android untuk akun Exchange lokal, jadi Anda perlu mengelola kontak Anda dari klien Outlook yang berbeda.
  
 Untuk saat ini, sinkronisasi kontak untuk GMAIL dan iCloud tidak didukung.
  
-Jika Anda ingin menghapus kontak yang disinkronkan ini, Anda dapat beralih **kontak sinkronisasi** setiap saat dan mereka akan dihapus dari buku alamat Anda.
+Jika Anda ingin menghapus kontak yang disinkronkan ini, Anda bisa mengalihkan **kontak sinkronisasi** Kapan saja dan mereka akan dihapus dari buku alamat Anda.

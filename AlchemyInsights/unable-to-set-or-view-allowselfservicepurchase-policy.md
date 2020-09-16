@@ -1,39 +1,40 @@
 ---
-title: Tidak dapat menetapkan atau melihat kebijakan AllowSelfServicePurchase
+title: Tidak dapat mengatur atau menampilkan kebijakan AllowSelfServicePurchase
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158564"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735202"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Tidak dapat menetapkan atau melihat kebijakan AllowSelfServicePurchase
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Tidak dapat mengatur atau menampilkan kebijakan AllowSelfServicePurchase
 
-Ketika mencoba untuk menetapkan atau melihat kebijakan AllowSelfServicePurchase, Anda menerima pesan galat berikut:
+Saat mencoba mengatur atau menampilkan kebijakan AllowSelfServicePurchase, Anda menerima pesan kesalahan berikut:
 
-*HandleError: gagal untuk mengambil kebijakan produk dengan PolicyId ' AllowSelfServicePurchase ', ErrorMessage-yang mendasari sambungan ditutup: galat tak terduga terjadi pada kirim.*
+*Saperkesalahan: gagal untuk mengambil kebijakan produk dengan PolicyId ' AllowSelfServicePurchase ', ErrorMessage-The underlying Connection ditutup: kesalahan yang tidak diharapkan terjadi pada kirim.*
 
-Hal ini mungkin karena versi lama Transport Layer Security (TLS). Untuk menyambungkan Layanan MSCommerce, Anda harus menggunakan TLS 1,2 atau yang lebih baru.  
+Ini mungkin karena versi lama Transport Layer Security (TLS). Untuk menyambungkan Layanan MSCommerce, Anda harus menggunakan TLS 1,2 atau yang lebih baru.  
 
-Cobalah langkah berikut untuk mengaktifkan/menetapkan protokol TLS ke 1,2, verifikasi, dan coba lagi.
- 1. Pada PowerShell prompt perintah (PS C:\) masukkan perintah berikut ini untuk menetapkan protokol TLS ke versi 1,2:
+Cobalah langkah-langkah berikut untuk mengaktifkan/mengatur protokol TLS ke 1,2, memverifikasi, dan coba lagi.
+ 1. Pada prompt perintah PowerShell (PS C: \) Masukkan perintah berikut ini untuk mengatur protokol TLS ke versi 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Verifikasi protokol TLS yang digunakan, dengan perintah berikut:
+2. Verifikasi protokol TLS yang digunakan, dengan perintah berikut ini:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Coba lagi perintah Get atau update sesuai kebutuhan.
+3. Coba lagi perintah Dapatkan atau Perbarui sesuai keperluan.
 

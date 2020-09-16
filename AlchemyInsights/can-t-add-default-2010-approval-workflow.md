@@ -1,29 +1,29 @@
 ---
-title: Tidak dapat menambahkan default 2010 persetujuan alur kerja
+title: Tidak dapat menambahkan alur kerja persetujuan 2010 default
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 5c064467e195a9776907861aa946d7cbf91878e8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ddc49a027a8d98cf31e6a319383d73d2680e6508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711706"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734014"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>Tidak dapat menambahkan default 2010 persetujuan alur kerja
+# <a name="cant-add-default-2010-approval-workflow"></a>Tidak dapat menambahkan alur kerja persetujuan 2010 default
 
-Dalam koleksi situs Microsoft SharePoint, Anda tidak dapat menambahkan alur kerja global Reusable (seperti "persetujuan-SharePoint 2010") ke daftar atau Perpustakaan. Alur kerja persetujuan mungkin hilang. Untuk mengatasi masalah ini, rujuk ke [tidak dapat menambahkan alur kerja global dapat digunakan kembali ke daftar atau Perpustakaan SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+Dalam kumpulan situs Microsoft SharePoint, Anda tidak bisa menambahkan alur kerja yang dapat digunakan kembali secara global (seperti "persetujuan-SharePoint 2010") ke daftar atau pustaka. Alur kerja persetujuan mungkin tidak ditemukan. Untuk mengatasi masalah ini, lihat [tidak dapat menambahkan alur kerja yang dapat digunakan kembali secara global ke daftar atau pustaka SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Untuk informasi lebih lanjut tentang persetujuan alur kerja, lihat [semua tentang persetujuan alur kerja](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Untuk informasi selengkapnya tentang persetujuan alur kerja, lihat [semua tentang alur kerja persetujuan](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Pelajari lebih lanjut tentang [persetujuan modern dalam Flow](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Pelajari selengkapnya tentang [persetujuan modern dalam Flow](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   
