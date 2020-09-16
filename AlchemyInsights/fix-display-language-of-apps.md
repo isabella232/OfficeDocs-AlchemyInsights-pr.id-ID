@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: 07dc04b7b79017da6b2a195077722108a945b967
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584834"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730090"
 ---
 # <a name="fix-the-display-language-of-apps"></a>Memperbaiki bahasa tampilan aplikasi
 
-Setelah Anda mengubah bahasa tampilan di Windows 10, beberapa aplikasi masih dapat menggunakan bahasa sebelumnya saat Anda membukanya. Hal ini terjadi karena versi baru aplikasi untuk bahasa tersebut harus didownload dari Bursa. Untuk memperbaiki masalah ini, Anda dapat menunggu pembaruan otomatis, atau Anda dapat secara manual menginstal versi terbaru dari aplikasi.
+Setelah Anda mengubah bahasa tampilan di Windows 10, beberapa aplikasi masih dapat menggunakan bahasa sebelumnya saat Anda membukanya. Hal ini terjadi karena versi baru aplikasi untuk bahasa tersebut harus diunduh dari Bursa. Untuk memperbaiki masalah ini, Anda bisa menunggu pembaruan otomatis, atau Anda bisa menginstal versi aplikasi yang diperbarui secara manual.
 
-Untuk menginstal pemutakhiran secara manual, buka **Microsoft Store** dan klik **unduhan dan pembaruan** di sudut kanan atas. Setelah itu, klik **Dapatkan pembaruan**. Jika bahasa tidak berubah setelah pembaruan selesai, coba nyalakan ulang PC Anda.
+Untuk menginstal pembaruan secara manual, buka **Microsoft Store** dan klik **unduhan dan pembaruan** di sudut kanan atas. Lalu klik **Dapatkan pembaruan**. Jika bahasa tidak berubah setelah pembaruan selesai, coba mulai ulang PC Anda.
 
-![Dapatkan update.](media/get-updates.png)
+![Dapatkan pembaruan.](media/get-updates.png)
 
-Untuk membaca lebih lanjut tentang pengaturan input dan tampilan bahasa, lihat [mengelola pengaturan input dan tampilan bahasa di Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Untuk membaca selengkapnya tentang pengaturan bahasa input dan tampilan, lihat [mengelola pengaturan input dan tampilan bahasa Anda di Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).

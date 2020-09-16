@@ -1,43 +1,44 @@
 ---
-title: Perbaiki masalah Bluetooth pada Windows 10
+title: Memperbaiki masalah Bluetooth di Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001475"
 - "3506"
-ms.openlocfilehash: 94dda7a42632f57ce3aef5f467b87df1033b8d49
-ms.sourcegitcommit: 9a35768444824cde9e192f1d9daafc9157437244
+ms.openlocfilehash: 7e7a397a1f6777972a81bcbb6bffa1c98d8370a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42268636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730162"
 ---
-# <a name="fix-bluetooth-problems-in-windows-10"></a>Perbaiki masalah Bluetooth pada Windows 10
+# <a name="fix-bluetooth-problems-in-windows-10"></a>Memperbaiki masalah Bluetooth di Windows 10
 
-Jika ikon Bluetooth hilang atau Bluetooth tidak dapat diaktifkan atau dinonaktifkan, Anda mungkin ingin menjalankan pemecah masalah Bluetooth. [Buka pengaturan pemecahan masalah](ms-settings:troubleshoot), klik **Bluetooth** di bawah **menemukan dan memperbaiki masalah lainnya**, klik **Jalankan pemecah**masalah.
+Jika ikon Bluetooth hilang atau tidak dapat diaktifkan atau dinonaktifkan, Anda mungkin ingin menjalankan pemecah masalah Bluetooth. [Buka pengaturan pemecahan masalah](ms-settings:troubleshoot), klik **Bluetooth** di bawah **Temukan dan Perbaiki masalah lainnya**, klik **Jalankan pemecah**masalah.
 
-Jika Anda tidak melihat ikon Bluetooth, namun Bluetooth muncul di pengelola perangkat:
+Jika Anda tidak melihat ikon Bluetooth, tapi Bluetooth muncul di manajer perangkat:
 
-1. Pada pengelola perangkat, klik **Bluetooth**. Tekan dan tahan (atau klik kanan) nama adapter Bluetooth dan klik **bongkar perangkat**.
+1. Di manajer perangkat, klik **Bluetooth**. Tekan dan tahan (atau klik kanan) nama adaptor Bluetooth dan klik **hapus instalan perangkat**.
 
-2. Matikan perangkat Windows Anda, tunggu beberapa detik, dan kemudian nyalakan kembali. Windows akan mencoba untuk menginstal ulang pengandar.
+2. Matikan perangkat Windows Anda, tunggu beberapa detik, lalu nyalakan kembali. Windows akan mencoba menginstal ulang driver.
 
-Jika Anda baru saja menginstal Windows 10 update atau upgrade ke Windows 10, Anda mungkin ingin memeriksa update driver:
+Jika Anda baru saja menginstal pembaruan Windows 10 atau memutakhirkan ke Windows 10, Anda mungkin ingin memeriksa pembaruan driver:
 
-1. Pada pengelola perangkat, klik **Bluetooth**, dan kemudian klik nama adaptor Bluetooth (yang dapat mencakup kata "radio").
+1. Di manajer perangkat, klik **Bluetooth**, lalu klik nama adaptor Bluetooth (yang mungkin menyertakan kata "radio").
 
-2. Tekan dan tahan (atau klik kanan) Bluetooth adapter, dan kemudian klik **update driver** > **pencarian secara otomatis untuk memperbarui perangkat lunak pengandar**. Ikuti langkah-langkahnya, lalu klik **tutup**.
+2. Tekan dan tahan (atau klik kanan) adapter Bluetooth, lalu klik **Perbarui**  >  **pencarian driver secara otomatis untuk perangkat lunak driver yang diperbarui**. Ikuti langkah-langkahnya, lalu klik **tutup**.
 
-      - Jika Windows tidak dapat menemukan pengandar Bluetooth baru, kunjungi situs web produsen PC dan Unduh pengandar Bluetooth terbaru dari sana.
+      - Jika Windows tidak dapat menemukan driver Bluetooth baru, kunjungi situs web pabrikan PC dan Unduh driver Bluetooth terbaru dari sana.
 
-    - Setelah Anda men-download, klik **update driver** > **Browse komputer saya untuk perangkat lunak** > **pengandar Jelajahi** lokasi di mana berkas pengandar yang disimpan > **OK** > **Selanjutnya**, dan ikuti langkah untuk menginstal.
+    - Setelah Anda mengunduhnya, klik **Perbarui pengandar**  >  **Telusuri komputer saya untuk menelusuri perangkat lunak pengandar**  >  **Browse** untuk lokasi tempat file pengandar disimpan > **OK**  >  **berikutnya**, dan ikuti langkah-langkah untuk menginstal.
 
-3. Setelah menginstal pengandar yang dimutakhirkan, mulai ulang mesin, dan kemudian periksa apakah yang memperbaiki masalah sambungan.
+3. Setelah menginstal driver yang diperbarui, mulai ulang komputer, lalu Periksa apakah masalah koneksi telah diperbaiki.
 
-Untuk rincian lebih lanjut tentang cara memecahkan masalah Bluetooth, silakan lihat artikel lengkap, [memperbaiki masalah Bluetooth pada Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).
+Untuk detail selengkapnya tentang cara memecahkan masalah Bluetooth, silakan lihat artikel lengkapnya, [Perbaiki masalah Bluetooth di Windows 10](https://support.microsoft.com/help/14169/windows-10-fix-bluetooth-problems).

@@ -1,29 +1,30 @@
 ---
-title: Perangkat berada di negara menunggu pendaftaran
+title: Perangkat sedang dalam status pendaftaran menunggu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770318"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730738"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Perangkat berada dalam keadaan "menunggu pendaftaran"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Perangkat berada dalam status "menunggu pendaftaran"
 
-Desktop Analytics tidak memiliki data diagnostik untuk perangkat ini. 
+Analitik desktop tidak memiliki data diagnostik untuk perangkat ini. 
 
-Masalah ini dapat terjadi karena Anda baru saja menambahkan perangkat target koleksi dan belum dikirim data. Hal ini juga dapat berarti perangkat tidak benar berkomunikasi dengan layanan, dan data diagnostik terbaru lebih dari 28 hari.
+Masalah ini dapat terjadi karena Anda baru saja menambahkan perangkat ke kumpulan target dan belum mengirimkan data. Ini juga bisa berarti perangkat tidak berkomunikasi dengan layanan dengan benar, dan data diagnostik terbaru lebih dari 28 hari.
 
 Pastikan perangkat dapat berkomunikasi dengan layanan. Untuk informasi selengkapnya, lihat [titik akhir](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Untuk informasi lebih lanjut tentang status pendaftaran menunggu, lihat [monitor kesehatan sambungan](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Untuk informasi selengkapnya tentang status pendaftaran menunggu, lihat [memantau kesehatan koneksi](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

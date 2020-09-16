@@ -1,33 +1,34 @@
 ---
-title: OneNote - Log kesalahan ketika membuka notebook
+title: OneNote-kesalahan masuk saat membuka buku catatan
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.collection: Adm_O365
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: 960d5d5b4349490f774c4e280dac3445bb2b8c48
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643903"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729298"
 ---
-# <a name="issues-signing-in-to-onenote-notebooks"></a>Isu-isu yang masuk ke OneNote notebook
+# <a name="issues-signing-in-to-onenote-notebooks"></a>Masalah masuk ke buku catatan OneNote
 
-Jika Anda menerima kesalahan login atau password ketika mencoba untuk membuka notebook Anda, cobalah berikut ini:
+Jika Anda menerima kesalahan login atau kata sandi saat mencoba membuka buku catatan, cobalah hal berikut:
 
-- Jika notebook yang tidak akan buka disimpan pada OneDrive atau SharePoint Online, coba buka notebook di OneNote untuk web (di www.onenote.com). Jika notebook tidak tercantum, Anda mungkin tidak memiliki izin untuk itu. Jika notebook bersama, tanyakan pemilik untuk berbagi dan memastikan bahwa Anda menggunakan akun yang benar untuk log in.
+- Jika buku catatan yang tidak dapat dibuka disimpan di OneDrive atau SharePoint online, coba buka buku catatan di OneNote untuk web (di www.onenote.com). Jika buku catatan tidak tercantum, Anda mungkin tidak memiliki izin untuk buku catatan tersebut. Jika buku catatan dibagikan, mintalah pemilik untuk membagikannya dan memastikan bahwa Anda menggunakan akun yang benar untuk masuk.
 
-- Jika notebook terbuka pada OneNote untuk web, pastikan Anda log in dengan kredensial saat ini di OneNote. 
+- Jika buku catatan terbuka di OneNote untuk web, pastikan Anda masuk dengan kredensial saat ini di OneNote. 
 
-- Jelas [kantor kredensial](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) menggunakan [Windows Credential Manager](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
+- Kosongkan [kredensial Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) menggunakan [pengelola kredensial Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager).
 
-- Tahun OneNote 2016, pilih **File** > **Account** dan **Sign Out** dari semua account. Masuk lagi menggunakan account pengguna dengan lisensi berlaku. Untuk informasi rinci, lihat [account di kantor](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Di OneNote 2016, pilih **File**  >  **akun** file dan **keluar** dari semua akun. Masuk lagi menggunakan akun pengguna dengan lisensi yang valid. Untuk informasi mendetail, lihat [ akun di Office ](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Di OneNote untuk Windows, pilih elipsis (****...) di bagian atas kanan dari layar, pilih **pengaturan** > **account**, dan memastikan bahwa rekening kantor atau sekolah yang terdaftar.
+- Di OneNote untuk Windows, pilih elipsis (**...**) di bagian kanan atas layar, pilih **pengaturan**  >  **akun**, dan pastikan akun kerja atau sekolah dicantumkan.
