@@ -1,10 +1,11 @@
 ---
-title: Insiden layanan yang sedang berlangsung
-ms.author: v-crytho
+title: Insiden Layanan sedang berlangsung
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
@@ -17,18 +18,18 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8da7304ca776700322dff9db351a6ee60cca71dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716247"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767912"
 ---
-# <a name="service-incident-in-progress"></a>Insiden layanan yang sedang berlangsung
+# <a name="service-incident-in-progress"></a>Insiden Layanan sedang berlangsung
 
-Anda mungkin terpengaruh oleh insiden layanan atau saran yang sedang diselidiki. Anda dapat memeriksa status terbaru dengan membuka halaman [layanan kesehatan](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Anda mungkin terpengaruh oleh insiden layanan atau penasihat yang saat ini sedang diselidiki. Anda dapat memeriksa status terbaru dengan masuk ke halaman [Kesehatan Layanan](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Untuk kenyamanan Anda, Anda dapat menemukan ringkasan kejadian di bawah ini:
+Demi kenyamanan Anda, Anda dapat menemukan ringkasan insiden ini di bawah ini:
   
 > **Nomor insiden:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
