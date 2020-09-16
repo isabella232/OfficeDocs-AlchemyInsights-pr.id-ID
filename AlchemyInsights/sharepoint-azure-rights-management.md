@@ -4,30 +4,31 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 77f9938fe40d9f693ccce1dac3581625ed7e424a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509567"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800899"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>Perlindungan IRM ke file SharePoint
+# <a name="irm-protection-to-sharepoint-files"></a>Proteksi IRM ke file SharePoint
 
 
-Dalam SharePoint online, Perlindungan IRM diterapkan ke berkas di tingkat daftar dan perpustakaan. Sebelum organisasi dapat menggunakan Perlindungan IRM, Anda harus terlebih dahulu mengatur manajemen hak. IRM bergantung pada layanan pengelolaan hak Azure dari perlindungan informasi Azure untuk mengenkripsi dan menetapkan pembatasan penggunaan. Beberapa langganan Microsoft 365 mencakup manajemen hak Azure, tetapi tidak semua. 
+Dalam SharePoint online, proteksi IRM diterapkan ke file pada tingkat daftar dan pustaka. Sebelum organisasi Anda dapat menggunakan Perlindungan IRM, Anda harus terlebih dahulu menyiapkan manajemen hak. IRM bergantung pada layanan manajemen hak Azure dari perlindungan informasi Azure untuk mengenkripsi dan menetapkan pembatasan penggunaan. Beberapa langganan Microsoft 365 menyertakan manajemen hak Azure, namun tidak semua. 
 
 Untuk mempelajari selengkapnya, lihat:
 
-- [Bagaimana aplikasi dan layanan Office mendukung Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [Cara aplikasi dan layanan Office mendukung manajemen hak Azure](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [Menyiapkan manajemen hak informasi (IRM) di pusat admin SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [Siapkan manajemen hak informasi (IRM) di pusat admin SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
 
-- [IRM-Aktifkan perpustakaan dokumen SharePoint dan daftar](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-Aktifkan pustaka dokumen dan daftar SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [Manajemen hak informasi di kantor](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [Manajemen hak informasi di Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
 - [Manajemen hak informasi di Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).
 
