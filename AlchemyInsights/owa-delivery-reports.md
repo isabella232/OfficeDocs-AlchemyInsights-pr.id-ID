@@ -1,22 +1,23 @@
 ---
-title: Laporan tidak terkirim di Outlook di web
+title: Laporan tidak terkirim dalam Outlook di web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768548"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721918"
 ---
-# <a name="issues-with-email-delivery"></a>Masalah pada pengiriman email
+# <a name="issues-with-email-delivery"></a>Masalah pengiriman email
 
-Ketika ada masalah mengirimkan pesan email yang Anda kirim, Microsoft 365 mengirim email untuk memberi tahu Anda. Email yang Anda terima adalah pemberitahuan status pengiriman, juga dikenal sebagai DSN atau pesan pentalan. Jenis yang paling umum disebut laporan tidak terkirim (NDR), yang memberi tahu Anda bahwa pesan tidak terkirim. Non-pengiriman dapat disebabkan oleh sesuatu yang sederhana seperti kesalahan ketik di alamat email. NDR termasuk kode galat yang menunjukkan mengapa email Anda tidak terkirim, solusi untuk membantu Anda mendapatkan email Anda disampaikan, link untuk lebih banyak bantuan di web, dan rincian teknis untuk administrator.
+Saat ada masalah pengiriman pesan email yang Anda kirim, Microsoft 365 mengirimkan email untuk memberi tahu Anda. Email yang Anda terima adalah pemberitahuan status pengiriman, yang juga dikenal sebagai DSN atau pesan pantulan. Tipe paling umum disebut laporan tidak terkirim (NDR), yang memberi tahu Anda bahwa pesan tidak terkirim. Non-pengiriman bisa disebabkan oleh sesuatu yang sederhana seperti kesalahan ketik dalam alamat email. NDR menyertakan kode kesalahan yang menunjukkan mengapa email tidak terkirim, solusi untuk membantu Anda mendapatkan email yang dikirimkan, link ke bantuan lainnya di web, dan detail teknis untuk administrator.
 
-Untuk melihat daftar NDR dan mencari tahu mengapa pesan Anda tidak terkirim, lihat [laporan tidak terkirim email di Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Untuk melihat daftar NDR dan mencari tahu alasan pesan tidak terkirim, lihat [laporan email tidak terkirim di Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
