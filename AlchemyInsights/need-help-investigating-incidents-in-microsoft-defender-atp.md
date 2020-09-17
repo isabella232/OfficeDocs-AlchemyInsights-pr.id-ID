@@ -6,25 +6,26 @@ manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198042"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803320"
 ---
 # <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>Perlu bantuan menyelidiki insiden di Microsoft Defender ATP
 
-Jika Anda memerlukan bantuan untuk menyelidiki insiden di Microsoft Defender ATP layanan, ikuti langkah berikut.
+Jika Anda memerlukan bantuan menyelidiki insiden di layanan Microsoft Defender ATP, ikuti langkah-langkah ini.
 
-1. Pilih insiden dan Tinjau pemberitahuan yang dikelompokkan dengan insiden tersebut. Pilih setiap lansiran untuk meninjau detailnya. Untuk petunjuk, lihat [menyelidiki peringatan perlindungan ancaman lanjutan Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
-2. Tinjau perangkat yang merupakan bagian dari, atau terkait dengan, insiden. Untuk petunjuk, lihat [menyelidiki perangkat di Daftar perangkat Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
+1. Pilih insiden dan Tinjau pemberitahuan yang dikelompokkan dengan insiden. Pilih setiap pemberitahuan untuk meninjau detailnya. Untuk instruksi, lihat [menyelidiki pemberitahuan proteksi ancaman tingkat lanjut Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
+2. Tinjau perangkat yang merupakan bagian dari, atau terkait dengan, insiden tersebut. Untuk instruksi, lihat [menyelidiki perangkat dalam daftar perangkat Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
  
-    Tab investigasi memungkinkan Anda untuk melihat semua investigasi otomatis yang diluncurkan oleh sistem sebagai tanggapan terhadap peringatan insiden.
-3. Gunakan grafik insiden untuk mengidentifikasi titik masuk, indikasi kompromi, dan aktivitas mencurigakan lainnya yang diamati pada perangkat. Untuk info lebih lanjut, lihat [ancaman CyberSecurity terkait visualisasi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
+    Tab investigasi memungkinkan Anda melihat semua investigasi otomatis yang diluncurkan oleh sistem sebagai respons terhadap pemberitahuan insiden.
+3. Gunakan grafik insiden untuk mengidentifikasi titik entri, indikasi kompromi, dan aktivitas mencurigakan lainnya yang diamati pada perangkat. Untuk informasi selengkapnya, lihat [visualisasi ancaman keamanan Cyber terkait](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
