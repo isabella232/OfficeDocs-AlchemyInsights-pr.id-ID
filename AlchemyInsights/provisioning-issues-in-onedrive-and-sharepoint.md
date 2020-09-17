@@ -1,21 +1,22 @@
 ---
-title: Penyediaan masalah dalam OneDrive dan SharePoint
+title: Masalah penyediaan di OneDrive dan SharePoint
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: d3eda12d4fff625325cc55251444b489459f09fa
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: aee565878fe2d879f0d74cd20dcff044e08abc12
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767936"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801547"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Penyediaan masalah dalam OneDrive dan SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Masalah penyediaan di OneDrive dan SharePoint
 
-Ketika pengguna ditambahkan ke penghuni yang sudah ada, mereka mungkin melihat SharePoint online atau OneDrive untuk bisnis ikon terdaftar sebagai "pengaturan" sampai proses penyediaan telah selesai. Untuk akun yang baru dibuat, pengguna harus masuk ke Microsoft 365 Admin Center dengan akun mereka sendiri, dan kemudian klik OneDrive untuk secara manual memulai penyediaan situs OneDrive.
+Saat pengguna ditambahkan ke penyewa yang sudah ada, mereka mungkin melihat ikon SharePoint online atau OneDrive for Business yang tercantum sebagai "penyetelan" hingga proses penyediaan telah selesai. Untuk akun yang baru dibuat, pengguna harus masuk ke Pusat admin Microsoft 365 dengan akun mereka sendiri, lalu klik OneDrive untuk memulai penyediaan situs OneDrive secara manual.
   
-Jika lebih dari 24 jam telah berlalu sejak Anda pertama kali melihat masalah ini, silakan log kasus dukungan. Dalam banyak kasus, kami telah bekerja pada solusi. Tolong beri kami setidaknya 24 jam untuk menyelesaikan solusi.
+Jika lebih dari 24 jam telah berlalu sejak pertama kali melihat masalah ini, silakan log kasus dukungan. Dalam banyak kasus, kami sedang mengupayakan solusi. Harap Beri kami setidaknya 24 jam untuk menyelesaikan solusi.
   

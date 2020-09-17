@@ -1,27 +1,28 @@
 ---
-title: Masalah dengan email sampah yang mengklaim berasal dari LinkedIn
+title: Masalah dengan email sampah yang mengaku berasal dari LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: 1cac908edee18c92219a46d24e38f9aed7cb2249
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715923"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799459"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Masalah dengan email sampah yang mengklaim berasal dari LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Masalah dengan email sampah yang mengaku berasal dari LinkedIn
 
-Kami menyadari bahwa beberapa pengguna menerima email sampah yang mengaku dari LinkedIn.
+Kami menyadari bahwa beberapa pengguna menerima email sampah yang mengaku berasal dari LinkedIn.
 
 Sebaiknya gunakan aturan kotak masuk untuk memfilter email ini.
 
