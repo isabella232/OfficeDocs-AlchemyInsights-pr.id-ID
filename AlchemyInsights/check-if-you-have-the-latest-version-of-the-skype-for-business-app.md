@@ -1,23 +1,24 @@
 ---
-title: Periksa apakah Anda memiliki versi terbaru Skype untuk bisnis
+title: Periksa apakah Anda memiliki versi Skype for Business terbaru
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000550"
 - "2388"
-ms.openlocfilehash: 233563a54053a105fe0efa40bfe78af479ae6676
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 976b09a057c4edb634645fd63729f74bf34454cd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328638"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812406"
 ---
-# <a name="check-for-skype-for-business-updates"></a><span data-ttu-id="07718-102">Periksa pembaruan Skype untuk bisnis</span><span class="sxs-lookup"><span data-stu-id="07718-102">Check for Skype for Business updates</span></span>
+# <a name="check-for-skype-for-business-updates"></a><span data-ttu-id="b8afb-102">Periksa pembaruan Skype for Business</span><span class="sxs-lookup"><span data-stu-id="b8afb-102">Check for Skype for Business updates</span></span>
 
-<span data-ttu-id="07718-103">Untuk informasi tentang pembaruan terbaru untuk Skype untuk aplikasi bisnis di semua platform (Mac, Windows, Mobile), lihat [mengikuti pembaruan terbaru di Skype untuk bisnis](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).</span><span class="sxs-lookup"><span data-stu-id="07718-103">For information about the latest updates for the Skype for Business apps across all platforms (Mac, Windows, Mobile), see [Follow the latest updates in Skype for Business](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).</span></span>
+<span data-ttu-id="b8afb-103">Untuk informasi tentang pembaruan terbaru untuk aplikasi Skype for Business di seluruh platform (Mac, Windows, ponsel), lihat [mengikuti pembaruan terbaru di Skype for Business](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).</span><span class="sxs-lookup"><span data-stu-id="b8afb-103">For information about the latest updates for the Skype for Business apps across all platforms (Mac, Windows, Mobile), see [Follow the latest updates in Skype for Business](https://support.office.com/article/follow-the-latest-updates-in-skype-for-business-cece9f93-add1-4d93-9a38-56cc598e5781).</span></span>
