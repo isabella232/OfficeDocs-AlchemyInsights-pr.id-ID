@@ -5,6 +5,7 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512629"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773742"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="9edad-102">Mengelola penyimpanan SharePoint online</span><span class="sxs-lookup"><span data-stu-id="9edad-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="be18b-102">Mengelola penyimpanan SharePoint online Anda</span><span class="sxs-lookup"><span data-stu-id="be18b-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="9edad-103">Pelajari cara [penyimpanan tenant dihitung](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) berdasarkan paket Anda.</span><span class="sxs-lookup"><span data-stu-id="9edad-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="be18b-103">Pelajari bagaimana [penyimpanan penyewa dihitung](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) berdasarkan paket Anda.</span><span class="sxs-lookup"><span data-stu-id="be18b-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="9edad-104">Untuk sebagian besar organisasi, Penyimpanan SharePoint dikelola secara otomatis, sehingga Anda tidak perlu menetapkan batas per koleksi situs.</span><span class="sxs-lookup"><span data-stu-id="9edad-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="be18b-104">Untuk sebagian besar organisasi, Penyimpanan SharePoint dikelola secara otomatis, sehingga Anda tidak perlu mengatur batas per kumpulan situs.</span><span class="sxs-lookup"><span data-stu-id="be18b-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
 
-<span data-ttu-id="9edad-105">Pelajari cara [melihat ruang penyimpanan total dan yang tersedia untuk organisasi Anda](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="9edad-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+<span data-ttu-id="be18b-105">Pelajari cara [menampilkan Total ruang penyimpanan yang tersedia untuk organisasi Anda](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="be18b-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
 
-<span data-ttu-id="9edad-106">Pelajari cara [mengelola batas penyimpanan koleksi situs individual](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="9edad-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+<span data-ttu-id="be18b-106">Pelajari cara [mengelola batas penyimpanan kumpulan situs individual](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="be18b-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
 
-<span data-ttu-id="9edad-107">Jika situs Anda berada di luar ruang atau Anda ingin mempelajari perpustakaan atau daftar yang memanfaatkan ruang, pergi ke **situs pengaturan**  >  **penyimpanan metrik** (izin administrator koleksi situs diperlukan).</span><span class="sxs-lookup"><span data-stu-id="9edad-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="be18b-107">Jika situs Anda kehabisan ruang atau Anda ingin mempelajari pustaka atau daftar mana yang memanfaatkan ruang tersebut, buka **Site Settings**  >  **metrik penyimpanan** pengaturan situs (izin administrator kumpulan situs diperlukan).</span><span class="sxs-lookup"><span data-stu-id="be18b-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="9edad-108">Pelajari cara [memantau batas penyimpanan situs menggunakan PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="9edad-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="be18b-108">Pelajari cara [memantau batas penyimpanan situs dengan menggunakan PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="be18b-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
 
-<span data-ttu-id="9edad-109">Pelajari cara [membeli penyimpanan ekstra](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="9edad-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
+<span data-ttu-id="be18b-109">Pelajari cara [membeli penyimpanan ekstra](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="be18b-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
   
