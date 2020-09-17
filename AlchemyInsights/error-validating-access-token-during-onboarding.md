@@ -1,25 +1,26 @@
 ---
-title: Ada kesalahan memvalidasi galat token akses selama desktop Analytics on-boarding
+title: Ada kesalahan validasi kesalahan token Access selama analitik desktop di dalam pesawat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741202"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783554"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Galat "ada kesalahan memvalidasi akses token" selama desktop Analytics onboarding
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Kesalahan "terjadi kesalahan validasi token Access" selama orientasi analitik desktop
 
-Galat ini biasanya diamati saat token otentikasi kedaluwarsa. Biasanya, menyegarkan halaman menyegarkan Token. Namun, masalah ini dapat bertahan jika ada kebijakan akses bersyarat yang diterapkan ke akun yang digunakan untuk di papan desktop Analytics. Anda dapat meninjau Azure AD masuk log di Azure portal untuk melihat apakah ada kegagalan masuk untuk akun yang digunakan untuk onboarding desktop Analytics.
+Kesalahan ini biasanya diamati ketika token autentikasi kedaluwarsa. Biasanya, refresh halaman me-refresh Token. Namun, masalah ini bisa terjadi jika ada kebijakan akses bersyarat yang diterapkan ke akun yang digunakan untuk analitik desktop di papan. Anda bisa meninjau log masuk Azure AD di Azure portal untuk melihat apakah ada kegagalan masuk untuk akun yang digunakan untuk orientasi analitik desktop.
 
-Untuk informasi lebih lanjut tentang akses bersyarat, kunjungi [rencanakan penyebaran akses bersyarat Anda](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Untuk informasi selengkapnya tentang akses bersyarat, kunjungi [merencanakan penggunaan akses bersyarat Anda](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
