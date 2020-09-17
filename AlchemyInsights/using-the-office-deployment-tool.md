@@ -5,41 +5,38 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 9698aa12ad73a021a3cc12c8517c1712c48d8385
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010870"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794914"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Menggunakan alat penyebaran Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Menggunakan Office Deployment Tool (ODT)
 
-Anda menggunakan alat penyebaran Office (ODT) untuk menyebarkan Office 365 versi Office. Alat penyebaran Office (setup. exe) dijalankan dari baris perintah dan menggunakan konfigurasi XML file untuk menentukan apa pengaturan untuk menerapkan saat menyebarkan Office.
+Anda menggunakan Office Deployment Tool (ODT) untuk menggunakan Office versi 365 Office. Office Deployment Tool (setup.exe) dijalankan dari baris perintah dan menggunakan file XML konfigurasi untuk menentukan pengaturan apa yang diterapkan saat menyebarkan Office.
   
-1. Download versi terbaru dari alat penyebaran Office dari [Microsoft download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Unduh versi terbaru Office Deployment tool dari [Microsoft download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Gunakan [alat kustomisasi Office (Oct)](https://config.office.com) untuk memilih preferensi penyebaran dan membuat file XML konfigurasi. Ekspor file konfigurasi dan tempatkan secara lokal pada folder yang sama di mana setup. exe berada.
+2. Gunakan [alat kustomisasi Office (Oct)](https://config.office.com) untuk memilih preferensi penggunaan dan membuat file XML konfigurasi. Ekspor file konfigurasi dan tempatkan secara lokal di folder yang sama tempat setup.exe berada.
 
-    **Catatan:** Masalah penginstalan Office biasanya terjadi karena berkas konfigurasi yang salah dikonfigurasi atau terformat. Untuk menghindari masalah tersebut, kami sarankan Anda menggunakan alat kustomisasi Office untuk membuat berkas konfigurasi. Anda juga dapat mengimpor berkas konfigurasi yang ada ke alat kustomisasi Office.
+    **Catatan:** Masalah penginstalan Office umumnya terjadi karena file konfigurasi yang salah dikonfigurasi atau tidak diformat. Untuk menghindari masalah tersebut, kami menyarankan agar Anda menggunakan alat kustomisasi Office untuk membuat file konfigurasi. Anda juga dapat mengimpor file konfigurasi yang sudah ada ke alat kustomisasi Office.
 
-3. Dari wantian perintah yang ditinggikan, beralih ke lokasi di mana setup. exe berada dan menjalankan alat penyebaran Office dalam mode download dan menentukan file konfigurasi yang baru saja Anda simpan. Dalam contoh ini, berkas konfigurasi bernama Configuration. xml:
-    
-  ```
-  setup.exe /download Configuration.xml  
-  ```
+3. Dari wantian perintah yang ditinggikan, alihkan ke lokasi tempat setup.exe berada dan jalankan alat penyebaran Office dalam mode Unduh dan tentukan file konfigurasi yang baru saja Anda simpan. Dalam contoh ini, file konfigurasi bernama Configuration.xml:
 
-4. Jalankan alat penyebaran Office dalam mode konfigurasi dan menentukan berkas konfigurasi.
-    
-  ```
-  setup.exe /configure Configuration.xml
-  ```
+```setup.exe /download Configuration.xml```
 
-    **Catatan:** Anda harus menjalankan langkah ini dari komputer klien di mana Anda ingin menginstal Office dan Anda harus memiliki izin administrator lokal di komputer.
+4. Jalankan alat penyebaran Office dalam mode konfigurasi dan tentukan file konfigurasinya.
 
-Untuk mempelajari selengkapnya tentang cara menggunakan alat penyebaran Office untuk Microsoft 365 aplikasi untuk skenario penyebaran perusahaan, lihat [Ikhtisar alat penyebaran Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Untuk rincian lebih lanjut tentang cara menggunakan alat kustomisasi Office, lihat [Ikhtisar alat kustomisasi Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+```setup.exe /configure Configuration.xml```
+
+**Catatan:** Anda harus menjalankan langkah ini dari komputer klien yang ingin Anda instal Office dan Anda harus memiliki izin administrator lokal di komputer tersebut.
+
+Untuk mempelajari selengkapnya tentang menggunakan Office Deployment Tool untuk aplikasi Microsoft 365 Anda untuk skenario penggunaan perusahaan, lihat [gambaran umum tentang alat penyebaran Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Untuk detail selengkapnya tentang cara menggunakan alat kustomisasi Office, lihat [gambaran umum alat kustomisasi Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

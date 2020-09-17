@@ -1,28 +1,29 @@
 ---
-title: 1489-hak akses-diperlukan-untuk-eDiscovery-pencarian
+title: 1489-izin-diperlukan-untuk-eDiscovery-pencarian
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510143"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795823"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Izin yang diperlukan untuk pencarian eDiscovery
 
-Untuk melakukan pencarian konten di pusat kepatuhan & keamanan, pengguna harus setidaknya menjadi anggota grup peran Manajer eDiscovery, yang memungkinkan mereka untuk melakukan pencarian dan tempat memegang kotak surat, situs SharePoint, dan OneDrive lokasi. Anggota juga dapat membuat dan mengelola kasus eDiscovery, menambah dan menghapus anggota ke kasus, membuat dan mengedit penelusuran konten, serta mengakses data kasus di eDiscovery tingkat lanjut.
+Untuk melakukan pencarian konten di pusat kepatuhan & keamanan, pengguna harus setidaknya menjadi anggota grup peran Manajer eDiscovery, yang memungkinkan mereka melakukan pencarian dan tempat yang dipegang pada kotak surat, situs SharePoint, dan lokasi OneDrive. Anggota juga dapat membuat dan mengelola kasus eDiscovery, menambahkan dan menghapus anggota ke suatu kasus, membuat dan mengedit pencarian konten, dan mengakses data kasus di eDiscovery tingkat lanjut.
 
-Untuk melakukan pencarian eDiscovery di tempat di Exchange Admin Center (EAC), pengguna harus menjadi anggota grup peran manajemen pencarian di Exchange Online.
+Untuk melakukan pencarian eDiscovery di tempat di pusat admin Exchange (EAC), pengguna harus menjadi anggota grup peran manajemen pencarian di Exchange Online.
 
 Untuk informasi selengkapnya tentang izin eDiscovery, lihat: 
 
@@ -30,4 +31,4 @@ Untuk informasi selengkapnya tentang izin eDiscovery, lihat:
 
 - [Menetapkan izin eDiscovery di Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Catatan**: setelah menetapkan izin eDiscovery, Anda mungkin perlu menunggu beberapa menit untuk izin untuk menyebarkan.
+**Catatan**: setelah menetapkan izin eDiscovery, Anda mungkin harus menunggu beberapa menit agar izin disebarkan.

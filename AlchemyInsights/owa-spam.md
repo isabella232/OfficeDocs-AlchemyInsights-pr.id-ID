@@ -1,28 +1,29 @@
 ---
-title: Berurusan dengan spam dan junk di Outlook di web
+title: Menangani spam dan sampah di Outlook di web
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: c972537cb4f00c9310edeaa589391d5bbd8ebc62
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4a12668ee95aa4dd3c07b0d781a3935f69792211
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768260"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795895"
 ---
-# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Tandai pesan email sebagai junk di Outlook di web
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>Menandai pesan email sebagai sampah dalam Outlook di web
 
-Untuk menandai pesan sebagai junk atau spam **, pilih pesan** > dalam daftar pesan Anda dan pilih junk**junk**.
+Untuk menandai pesan sebagai sampah atau spam, pilih pesan dalam daftar pesan Anda **dan pilih junk junk**  >  **Junk**.
 
-Untuk memblokir semua pesan dari alamat email tertentu, pilih pesan atau pesan di daftar pesan, lalu pilih**blokir** **sampah** > .
+Untuk memblokir semua pesan dari alamat email tertentu, pilih pesan atau pesan dalam daftar pesan Anda lalu pilih **Junk**  >  **blokir**junk.
 
-Jika Anda**tidak**sengaja menandai pesan sebagai junk, pilih pesan di folder email sampah Anda dan pilih **bukan junk** > . (*Catatan:* item di folder email sampah akan dihapus setelah 30 hari.)
+Jika Anda secara tidak sengaja menandai pesan sebagai sampah, pilih pesan dalam folder email sampah Anda, lalu pilih **bukan**sampah  >  **bukan sampah**. (*Catatan:* item dalam folder email sampah dihapus setelah 30 hari.)
 
-Pelajari lebih lanjut tentang cara [membantu menjaga spam dan email sampah dari Outlook Anda di kotak masuk web.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
+Pelajari selengkapnya tentang cara [membantu mencegah spam dan email sampah dari Outlook di kotak masuk web Anda.](https://support.office.com/article/db786e79-54e2-40cc-904f-d89d57b7f41d)
