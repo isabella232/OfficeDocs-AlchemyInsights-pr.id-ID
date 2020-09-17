@@ -1,29 +1,30 @@
 ---
-title: Bergabung dengan Rapat tim
+title: Bergabung dalam Rapat teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627613"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772914"
 ---
-# <a name="join-a-meeting-in-teams"></a>Bergabung ke suatu rapat di teams
+# <a name="join-a-meeting-in-teams"></a>Bergabung dalam Rapat di teams
 
-Untuk bergabung dengan Rapat tim, tetapkan kebijakan Rapat terlebih dahulu, lalu arahkan pengguna untuk bergabung dari perangkat pilihan mereka:
+Untuk bergabung dalam Rapat teams, pertama-tama Atur kebijakan Rapat, lalu pengguna langsung untuk bergabung dari perangkat pilihan mereka:
 
-- Tetapkan kebijakan Rapat yang mengontrol siapa yang akan dapat bergabung dalam Rapat sebagai [peserta atau tamu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Mengatur kebijakan Rapat yang mengontrol siapa yang akan bisa bergabung dalam Rapat sebagai [peserta atau tamu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Menggunakan [Cmdlet PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft teams untuk membuat perubahan kebijakan.    
+- Gunakan cmdlet Microsoft teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) untuk membuat perubahan kebijakan.    
 
 **Catatan:** Diperlukan waktu hingga 24 jam agar perubahan kebijakan diterapkan.

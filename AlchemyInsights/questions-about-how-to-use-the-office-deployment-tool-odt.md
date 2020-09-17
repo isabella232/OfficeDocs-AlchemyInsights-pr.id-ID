@@ -1,30 +1,31 @@
 ---
-title: Pertanyaan tentang cara menggunakan alat penyebaran Office (ODT)
+title: Pertanyaan tentang cara menggunakan Office Deployment Tool (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 4aef42df4dde17d15863fca67e41f0ff23e506dc
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e9f7581fd21cf5ca2d712038c4b73b67d08f3a76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010752"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774894"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Pertanyaan tentang cara menggunakan alat penyebaran Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Pertanyaan tentang cara menggunakan Office Deployment Tool (ODT)
 
-Unduh alat penyebaran Office dari [Microsoft download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+Unduh alat penyebaran Office dari [Pusat Unduhan Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
   
-Setelah men-download file, jalankan mengekstrak sendiri berkas yang dapat dijalankan, yang berisi alat penyebaran Office yang dapat dijalankan (setup. exe) dan berkas konfigurasi contoh (Configuration. xml).
+Setelah mengunduh file, Jalankan file eksekusi ekstraksi mandiri, yang berisi alat penyebaran Office yang dapat dijalankan (setup.exe) dan file konfigurasi sampel (configuration.xml).
   
- **Untuk mengecualikan atau menghapus Microsoft 365 aplikasi untuk produk perusahaan dari komputer klien:**
+ **Untuk mengecualikan atau menghapus aplikasi Microsoft 365 untuk produk perusahaan dari komputer klien:**
   
-Saat memasang Microsoft 365 aplikasi untuk perusahaan, Anda dapat mengecualikan produk tertentu. Untuk melakukannya, ikuti langkah untuk menginstal Office dengan ODT, namun sertakan elemen ExcludeApp di file konfigurasi Anda. Sebagai contoh, berkas konfigurasi ini menginstal semua aplikasi Microsoft 365 untuk produk perusahaan kecuali Publisher:
+Saat menginstal aplikasi Microsoft 365 untuk perusahaan, Anda bisa mengecualikan produk tertentu. Untuk melakukannya, ikuti langkah-langkah untuk menginstal Office dengan ODT, tapi sertakan elemen ExcludeApp dalam file konfigurasi Anda. Misalnya, file konfigurasi ini menginstal semua aplikasi Microsoft 365 untuk produk perusahaan kecuali Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +36,6 @@ Saat memasang Microsoft 365 aplikasi untuk perusahaan, Anda dapat mengecualikan 
 </Add>
 ```
 
-[Ikhtisar alat penyebaran Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Gambaran umum tentang alat penyebaran Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

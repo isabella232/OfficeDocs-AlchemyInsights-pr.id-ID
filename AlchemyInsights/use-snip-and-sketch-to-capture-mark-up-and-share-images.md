@@ -1,39 +1,40 @@
 ---
-title: Gunakan snip & Sketch untuk menangkap, menandai, dan berbagi gambar
+title: Menggunakan snip & Sketch untuk merekam, menandai ke atas, dan berbagi gambar
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584480"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773202"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Gunakan snip & Sketch untuk menangkap, menandai, dan berbagi gambar
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Menggunakan snip & Sketch untuk merekam, menandai ke atas, dan berbagi gambar
 
-Sketsa layar sekarang disebut **snip & Sketch**. **Untuk cepat mengambil snip**:
+Sketsa layar kini disebut **snip & Sketch**. **Untuk mengambil snip dengan cepat**:
 
-1. Tekan **tombol logo Windows + Shift + S**. Anda akan melihat layar menggelapkan dan kursor ditampilkan sebagai silang. 
+1. Tekan **tombol logo Windows + Shift + S**. Anda akan melihat layar gelap dan kursor ditampilkan sebagai silang. 
 
-2. Pilih titik di tepi area yang ingin disalin, lalu klik kiri kursor. 
+2. Pilih titik di tepi area yang ingin Anda salin dan klik kiri kursor. 
 
-3. Gerakkan kursor Anda untuk menyorot area yang ingin Anda tangkap. Area yang Anda tangkap akan muncul di layar.
+3. Pindahkan kursor Anda untuk menyoroti area yang ingin Anda Rekam. Area yang Anda ambil akan muncul di layar.
 
    ![gambar pilihan yang disorot](media/snipone.png)
 
-Gambar yang Anda dipotong disimpan ke clipboard Anda, siap untuk menempel ke email atau dokumen. 
+Gambar yang Anda potong disimpan ke clipboard, siap untuk ditempelkan ke email atau dokumen. 
 
-**Jika Anda ingin mengedit atau melihat gambar**: 
+**Jika Anda ingin mengedit atau menampilkan gambar**: 
 
-- Klik ikon pemberitahuan di sisi paling kanan taskbar; lalu klik gambar yang baru saja Anda tangkap. Snip Anda terbuka di aplikasi snip & Sketch.
+- Klik ikon pemberitahuan di sisi kanan taskbar; lalu klik gambar yang baru saja Anda potret. Snip Anda terbuka di aplikasi & sketsa snip.
 
-   ![gambar yang ditampilkan dalam potongan App](media/sniptwo.png)
+   ![gambar tampilan gambar dalam aplikasi pemotong](media/sniptwo.png)
