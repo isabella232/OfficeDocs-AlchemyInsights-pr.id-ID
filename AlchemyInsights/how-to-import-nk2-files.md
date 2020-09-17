@@ -1,11 +1,12 @@
 ---
-title: Bagaimana-untuk-impor-nk2-file
+title: cara-cara-mengimpor-nk2-file
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,28 +14,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a823f6e0c4c46de64dd7b70fb40c76255d78ec1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759335"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780062"
 ---
-# <a name="how-to-import-nk2-files"></a>Cara mengimpor berkas. nk2 
+# <a name="how-to-import-nk2-files"></a>Cara mengimpor file. nk2 
 
-Ketika Anda memulai Microsoft Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365 untuk yang pertama kalinya, tembolok nama panggilan Anda (disimpan dalam nama *profilberkas*. nk2) diimpor ke pesan tersembunyi di penyimpanan pesan asali.
+Saat Anda memulai Microsoft Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365 untuk pertama kalinya, tembolok nama panggilan Anda (disimpan dalam file *namaprofil*. nk2) diimpor ke dalam pesan tersembunyi di penyimpanan pesan default Anda.
 
-Untuk mengimpor berkas. nk2 ke Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365, pastikan bahwa berkas. nk2 berada di folder berikut ini:%appdata%\Microsoft\Outlook
+Untuk mengimpor file. nk2 ke dalam Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365, pastikan bahwa file. nk2 ada di folder berikut:%appdata%\Microsoft\Outlook
 
-**Catatan**: berkas. nk2 harus memiliki nama yang sama sebagai Anda saat ini 2013 atau Outlook 2016 profil. Secara default, nama profil adalah "Outlook." Untuk memeriksa nama profil, ikuti langkah berikut: 
-1. Klik **mulai**, dan kemudian klik **panel kontrol**.
-2. Klik dua kali **e-mail**.
-3. Di kotak dialog Pengaturan E-mail, pilih **Tampilkan profil**.
-4. Pilih **mulai** > **Jalankan**.
-5. Di kotak **buka** , ketik *Outlook. exe/importnk2*, dan kemudian pilih **OK**. 
+**Catatan**: file. nk2 harus memiliki nama yang sama dengan profil Outlook 2013 atau Outlook 2016 Anda saat ini. Secara default, nama profil adalah "Outlook." Untuk memeriksa nama profil, ikuti langkah-langkah berikut: 
+1. Klik **mulai**, lalu klik **panel kontrol**.
+2. Klik ganda **email**.
+3. Dalam kotak dialog penyetelan email, pilih **Perlihatkan profil**.
+4. Pilih **mulai**  >  **Jalankan**.
+5. Dalam kotak **buka** , ketik *outlook.exe/importnk2*, lalu pilih **OK**. 
 
-Setelah mengimpor berkas. nk2, konten berkas digabungkan ke tembolok nama panggilan yang ada yang disimpan di kotak surat Anda.
+Setelah Anda mengimpor file. nk2, konten file digabungkan ke dalam tembolok nama panggilan yang sudah ada yang disimpan di kotak surat Anda.
 
-**Catatan**: berkas. nk2 diubah namanya dengan ekstensi nama berkas. Old saat berikutnya Anda memulai Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365. Jika ingin mengimpor ulang berkas. nk2, Hapus ekstensi nama berkas. Old terlebih dahulu.
+**Catatan**: file. nk2 dinamai ulang dengan ekstensi nama file. Old saat Anda memulai Outlook 2013, Outlook 2016, Outlook 2019 atau Outlook untuk Microsoft 365. Jika ingin mengimpor ulang file. nk2, Hapus ekstensi nama file. Old terlebih dahulu.
 
-Untuk informasi selengkapnya, lihat [mengimpor atau menyalin daftar selesaikan otomatis ke komputer lain](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Untuk informasi selengkapnya, lihat [mengimpor atau menyalin daftar lengkapi-otomatis ke komputer lain](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

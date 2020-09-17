@@ -1,27 +1,28 @@
 ---
-title: Cara resmi mengakhiri pertemuan
+title: Cara secara resmi mengakhiri Rapat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 1d11e4421559aefd50638555d1309bfcae12d50f
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708701"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780422"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Cara resmi mengakhiri pertemuan
+# <a name="how-to-formally-end-a-meeting"></a>Cara secara resmi mengakhiri Rapat
 
-Penyelenggara Rapat dapat mengakhiri pertemuan untuk semua peserta rapat di teams dengan mengklik **Akhiri Rapat** di kontrol Rapat dalam Rapat.  
+Penyelenggara Rapat bisa mengakhiri Rapat untuk semua peserta rapat di teams dengan mengklik **Akhiri** Rapat dalam kontrol Rapat dalam Rapat.  
 
-Untuk mengakhiri pertemuan dalam proses untuk semua peserta, pilih kontrol pertemuan, pilih ikon 3-titik, dan klik pada Akhiri pertemuan. Anda akan diminta untuk mengonfirmasi pilihan Anda. Mengonfirmasi pilihan Anda akan mengakhiri pertemuan untuk semua orang.
+Untuk mengakhiri Rapat dalam proses untuk semua peserta, pilih kontrol Rapat, pilih ikon 3 titik, dan klik pada akhir Rapat. Anda akan diminta untuk mengonfirmasi pilihan Anda. Mengonfirmasi pilihan Anda akan mengakhiri Rapat untuk semua orang.
 
-Catatan: hanya penyelenggara pertemuan dapat "mengakhiri" pertemuan.
+Catatan: hanya penyelenggara Rapat yang bisa "mengakhiri" Rapat.
