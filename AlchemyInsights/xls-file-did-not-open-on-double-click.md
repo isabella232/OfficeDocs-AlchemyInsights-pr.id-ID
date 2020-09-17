@@ -1,49 +1,50 @@
 ---
-title: File XLS tidak terbuka di klik dua kali
+title: File XLS tidak terbuka pada klik ganda
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530750"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796327"
 ---
 # <a name="excel-file-doesnt-open"></a>File Excel tidak terbuka
 
-Coba salah satu saran berikut:
+Cobalah salah satu dari saran berikut:
 
 **Pilih Excel sebagai default**
 
-* Klik kanan pada worksheet, pilih **Open With**, lalu pilih **Excel**
+* Klik kanan pada lembar kerja, pilih **buka dengan**, lalu pilih **Excel**
 
-**Jalankan perbaikan cepat**
+**Menjalankan perbaikan cepat**
 
-1. Pergi ke **Control Panel > program > program dan fitur**.
+1. Buka **panel kontrol > program > program dan fitur**.
 
-2. Pilih produk Office yang ingin diperbaiki, dan kemudian pilih **Ubah**.
+2. Pilih produk Office yang ingin Anda Perbaiki, lalu pilih **Ubah**.
 
-3. Pilih opsi **perbaikan cepat** , dan kemudian memilih **perbaikan**.
+3. Pilih opsi **perbaikan cepat** , lalu pilih **Perbaiki**.
 
-**Hapus instalan versi Office yang tidak digunakan**
+**Menghapus instalan versi Office yang tidak Anda gunakan**
 
-1. Pergi ke **Control Panel > Uninstall program**, dan kemudian pilih versi Office yang ingin Anda hapus.
+1. Buka **panel kontrol > hapus instalan program**, lalu pilih versi Office yang ingin Anda hapus.
 
-2. Klik **bongkar**.
+2. Klik **hapus instalan**.
 
-3. Hidupkan ulang komputer.
+3. Mulai ulang komputer Anda.
 
-**Jalankan pemecah masalah ini untuk mengatur ekstensi file Office agar terbuka di Office**
+**Menjalankan pemecah masalah ini untuk mengatur ekstensi file Office untuk dibuka di Office**
 
-1. Jalankan pemecah masalah ini https://aka.ms/diag_officefile:.
+1. Jalankan pemecah masalah ini: https://aka.ms/diag_officefile .
 
-2. Tergantung pada browser Anda, **buka** atau **Simpan** pemecah masalah ke desktop Anda, dan kemudian **menjalankannya** .
+2. Bergantung pada browser Anda, **buka** atau **Simpan** pemecah masalah ke desktop Anda, lalu **Jalankan** .

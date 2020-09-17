@@ -1,10 +1,11 @@
 ---
-title: Ikhtisar proses Unggah di Microsoft Stream
+title: Gambaran umum proses Unggah di Microsoft Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: dc04f964c2f8e8b5b0432edd097d37238a43c5f8
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: b86d899a58279697aab8ca1a6ec4ceba13105df6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282842"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798595"
 ---
-# <a name="upload-process-overview-in-microsoft-stream"></a>Ikhtisar proses Unggah di Microsoft Stream
+# <a name="upload-process-overview-in-microsoft-stream"></a>Gambaran umum proses Unggah di Microsoft Stream
 
-Setiap kali Anda meng-upload video, Microsoft Stream secara otomatis encode ke beberapa bitrate sehingga video dapat dialirkan menggunakan bitrate adaptif streaming. Microsoft Stream mengoptimalkan bitrate dan kualitas video yang diputar berdasarkan bandwidth yang tersedia.
+Setiap kali Anda mengunggah video, Microsoft Stream secara otomatis mengodekannya ke dalam beberapa bitrate sehingga video bisa dialirkan menggunakan streaming bitrate adaptif. Microsoft Stream mengoptimalkan bitrate dan kualitas pemutaran video berdasarkan bandwidth yang tersedia.
 
-- [Ikhtisar proses Unggah di Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)
+- [Gambaran umum proses Unggah di Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)
