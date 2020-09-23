@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676993"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236128"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Masalah masuk ke aplikasi Microsoft 365
 
@@ -25,6 +25,8 @@ Untuk memperbaiki masalah masuk dengan aplikasi Microsoft 365, cobalah opsi beri
 
 - Untuk Windows, lihat [rekomendasi tentang mengatasi masalah masuk umum](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Untuk Mac, lihat  [tidak dapat masuk ke aplikasi Office 2016 untuk Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Tips** Di komputer Windows, kami bisa mendiagnosis dan memperbaiki beberapa masalah masuk Office umum untuk Anda secara otomatis. Unduh dan jalankan  **[asisten dukungan dan pemulihan Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** untuk menggunakan alat otomatis kami.
 
 **Catatan:** Menonaktifkan autentikasi modern (ADAL) atau manajemen akun web (WAM) untuk memperbaiki masalah masuk atau aktivasi  **tidak disarankan**. Jika kesalahan terjadi saat menyambungkan ke Microsoft 365 menggunakan Office 2013, pastikan bahwa Anda [mengaktifkan autentikasi modern](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  untuk klien Office.
 
