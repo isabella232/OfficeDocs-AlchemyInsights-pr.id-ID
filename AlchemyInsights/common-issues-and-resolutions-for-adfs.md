@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812298"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213030"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Masalah dan resolusi umum untuk ADFS
 
 Konfigurasi domain gabungan dapat diperbarui seperti yang diuraikan dalam artikel Pangkalan Pengetahuan Microsoft berikut ini.
 
 - [Sertifikat Federasi ADFS kedaluwarsa](adfs-federation-certificate-expiring.md)
+
+- [Menyetel ADFS untuk Office 365 untuk masuk tunggal](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "ada masalah saat mengakses situs" kesalahan dari AD FS ketika pengguna gabungan masuk ke Microsoft 365, Azure, atau Intune.
 
