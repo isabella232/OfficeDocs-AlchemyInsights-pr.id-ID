@@ -2,7 +2,7 @@
 title: Mengaktifkan atau mengaktifkan kembali langganan
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,37 +13,36 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f486846cb3fd509785a99c70f3dbbcf7dcbed242
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698352"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286781"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Mengaktifkan atau mengaktifkan kembali langganan
 
 **Mengaktifkan langganan**
 
-- Untuk memberikan pengguna akses ke layanan, tetapkan lisensi bagi pengguna. Untuk petunjuk tentang menetapkan lisensi, lihat [Menetapkan Lisensi untuk Pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-
-- Jika Anda sudah memiliki lisensi yang ditetapkan, Anda dapat menemukan aplikasi yang dapat Anda unduh di halaman [Akun Saya](https://portal.office.com/account/#installs). Halaman ini menyediakan daftar aplikasi yang tersedia untuk Anda unduh berdasarkan lisensi yang telah ditetapkan.
-
-- Jika Anda sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi dengan akun kantor atau sekolah Anda. Anda dapat melakukannya di semua aplikasi Office (Word, Excel, dll.) dengan mengklik **File > Akun ** (dekat bagian bawah). Di bawah Informasi Pengguna, klik **Beralih Akun **. Untuk informasi selengkapnya Baca [menginstal aplikasi Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Untuk memberikan pengguna akses ke layanan, tetapkan lisensi bagi pengguna. Untuk mempelajari caranya, lihat [menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Jika Anda sudah memiliki lisensi yang diberikan kepada Anda, Anda bisa menemukan aplikasi yang dapat Anda unduh dari [halaman akun saya](https://portal.office.com/account/#installs). Halaman ini menyediakan daftar aplikasi yang tersedia untuk Anda unduh berdasarkan lisensi yang telah ditetapkan.
+- Jika Anda sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi dengan akun kantor atau sekolah Anda. Anda dapat melakukannya di aplikasi Office apa pun (Word, Excel, dsb.) dengan mengklik akun **file**  >  **Office** (di dekat bagian bawah). Di bawah **informasi pengguna**, pilih **Alihkan akun**. Untuk informasi selengkapnya, lihat [menginstal aplikasi Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Mengaktifkan kembali langganan**
 
 Jika langganan Anda kedaluwarsa, dinonaktifkan oleh Microsoft, atau Anda membatalkannya di tengah-tengah masa langganan, Anda bisa mengaktifkannya kembali di pusat admin.
   
-1. Di pusat admin Microsoft 365, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-
-2. Pilih langganan yang ingin Anda aktifkan kembali, lalu pilih **aktifkan kembali**. Jika Anda tidak melihat **Aktifkan kembali** sebagai tindakan yang tersedia, [hubungi Dukungan](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) untuk mengaktifkan kembali langganan Anda.
-
-3. Masukkan detail pembayaran Anda. Anda bisa [memperbarui informasi pembayaran Anda yang sudah ada ](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) di sini.
+1. Di pusat admin, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pada tab **produk** , temukan langganan yang ingin Anda aktifkan kembali.
+3. Pilih **tindakan lainnya** (tiga titik), lalu pilih **aktifkan kembali langganan ini**.
+    > [!IMPORTANT]
+    > Jika Anda tidak melihat **aktifkan kembali langganan ini** sebagai tindakan yang tersedia, [Hubungi dukungan](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) untuk mengaktifkan kembali langganan Anda.
+4. Di panel **aktifkan kembali langganan ini** , pilih metode pembayaran yang sudah ada atau pilih **Tambahkan metode pembayaran**.
+5. Pilih **aktifkan kembali**.
 
 Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Mengaktifkan langganan baru dengan kunci produk**
 
-1. Untuk mengaktifkan langganan baru Microsoft 365 dengan kunci produk Anda, mulai [di sini ](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-
-2. Masukkan kunci produk Microsoft 365, lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mendapatkan masalah dengan aktifasi, lihat daftar[ kesalahan umum kunci produk d dan solusi berikut ini ](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+1. Untuk mengaktifkan langganan baru Microsoft 365 dengan kunci produk Anda, lihat [tempat untuk memasukkan kunci produk Office Anda](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+2. Masukkan kunci produk Microsoft 365, lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mengalami masalah dengan aktivasi, lihat daftar [kesalahan kunci produk Umum dan solusi](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

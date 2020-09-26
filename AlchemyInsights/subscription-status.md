@@ -2,7 +2,7 @@
 title: Status langganan
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773490"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286961"
 ---
 # <a name="subscription-status"></a>Status langganan
 
-Status langganan dapat ditemukan di halaman **produk Anda** di pusat admin Microsoft 365.
+Status langganan, tanggal kedaluwarsa, dan jumlah lisensi bisa ditemukan di halaman **produk Anda** di pusat admin Microsoft 365.
 
-1. Buka **tagihan**  >  **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Jika terdapat masalah dengan status salah satu langganan, Anda akan melihat ikon peringatan berwarna merah di samping langganan, atau status "kedaluwarsa" atau "nonaktif" di bagian tagihan dari detail langganan.
-
-3. Jika Anda ingin mengaktifkan kembali langganan yang kedaluwarsa atau dinonaktifkan, klik **aktifkan kembali sekarang**.
-
-**Tanggal kedaluwarsa**
-
-1. Buka **tagihan**  >  **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-2. Tergantung pada tampilan, tanggal kedaluwarsa akan muncul di kolom paling kanan berlabel **tanggal** atau di bagian **tagihan** dari detail langganan **di samping kedaluwarsa**.
-
-**IJ**
-
-Jumlah lisensi yang dibeli dan digunakan telah dicantumkan oleh langganan pada halaman **produk Anda** .
-
+1. Di pusat admin, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pada tab **produk** , secara default, Anda melihat semua langganan dan statusnya (aktif, kedaluwarsa, dinonaktifkan, atau dihapus). Untuk melihat subset dari semua langganan, pilih ikon filter, lalu pilih **status langganan** yang ingin Anda lihat.
+3. Untuk mengaktifkan kembali langganan yang kedaluwarsa atau dinonaktifkan, pilih **tindakan lainnya** (tiga titik), lalu pilih **aktifkan kembali langganan ini**.
+4. Halaman **produk Anda** juga menampilkan informasi berikut ini:
+    - Jumlah lisensi yang ditetapkan untuk pengguna ditampilkan di kolom lisensi yang **ditetapkan** .
+    - Jumlah total lisensi yang disertakan dalam langganan ditampilkan di kolom **kuantitas yang dibeli** .
+    - Tanggal kedaluwarsa atau pembaruan di kolom **status langganan** .
+    - Metode pembayaran yang digunakan untuk membayar setiap langganan ditampilkan di kolom **dibayar dengan** .
+    - Akun tagihan yang terkait dengan setiap langganan ditampilkan di kolom **akun tagihan** .
+5. Untuk menambahkan atau menghapus kolom, pilih pilih **kolom**.

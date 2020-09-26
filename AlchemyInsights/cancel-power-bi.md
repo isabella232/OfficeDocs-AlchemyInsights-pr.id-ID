@@ -2,7 +2,7 @@
 title: Membatalkan Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683477"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287177"
 ---
 # <a name="cancel-power-bi"></a>Membatalkan Power BI
 
-Power BI dapat dibatalkan di **Pusat admin Microsoft 365**.  
+Power BI dapat dibatalkan di pusat admin Microsoft 365.
 
-1. Buka **tagihan > halaman [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-
-2. Temukan paket Power BI untuk membatalkan.
-
-3. Klik **Batalkan langganan**.
+1. Di pusat admin, masuk ke **> tagihan halaman [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
+2. Pada tab **produk** , temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+3. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+4. Pilih **Simpan**.
 
 **Pengembalian dana: kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.**
 
-**Catatan**: jika Anda tidak melihat opsi untuk membatalkan, klik langganan untuk menampilkan detail dan Anda akan melihat opsi **Batalkan langganan** dalam **pengaturan & tindakan**.
+> [!NOTE]
+> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **pengaturan langganan dan pembayaran** , pilih **Batalkan langganan**.
 
 Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

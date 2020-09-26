@@ -1,8 +1,8 @@
 ---
 title: Manajemen lisensi proteksi ancaman tingkat lanjut
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715384"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287105"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Manajemen lisensi proteksi ancaman tingkat lanjut
 
 Manajemen lisensi Office 365 Advance Threat Protection (ATP) dapat diselesaikan di  **Pusat admin Microsoft 365**.
 
-- Untuk membeli perlindungan ancaman Office 365 Advance, masuk ke **Billing**  >  [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)tagihan, pilih Halaman **add-on** dari **kategori lain yang mungkin menarik bagi Anda**, pilih paket proteksi ancaman tingkat lanjut yang ingin Anda beli, dan pilih jumlah pengguna yang akan menggunakan proteksi ancaman tingkat lanjut. Untuk informasi selengkapnya, lihat [membeli langganan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Untuk menetapkan lisensi perlindungan ancaman Office 365 Advance, masuk ke **Billing**  >  **lisensi**tagihan. Untuk informasi selengkapnya, lihat  [menetapkan lisensi](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Untuk menambahkan/menghapus lisensi perlindungan ancaman Office 365 Advance, buka masuk untuk **menagih**  >  **produk Anda**, temukan langganan yang ingin Anda tambahkan atau Hapus lisensinya, lalu pilih **Tambahkan/Hapus lisensi**.  
-- Untuk informasi selengkapnya, lihat [menambahkan atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)dari langganan bisnis Anda.
+- Untuk membeli perlindungan ancaman Office 365 Advance:
+    1. Masuk ke **Billing**  >  [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)tagihan.
+    2. Di bagian bawah halaman, pilih **add-on**.
+    3. Pada halaman **Layanan pembelian** , pilih paket proteksi ancaman tingkat lanjut yang ingin Anda beli, masukkan jumlah pengguna yang memerlukan lisensi, lalu pilih **cek keluar sekarang**. Untuk informasi selengkapnya, lihat [membeli add-on](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Untuk menetapkan lisensi perlindungan ancaman Office 365 Advance, masuk ke **Billing**  >  **lisensi**tagihan. Untuk informasi selengkapnya, lihat [menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Untuk menambah atau menghapus lisensi dari proteksi ancaman tingkat lanjut Office 365, buka **menagih**  >  **produk Anda**. Pilih langganan yang ingin Anda perbarui, lalu pilih **Beli lisensi** atau ***Hapus lisensi**. Untuk informasi selengkapnya, lihat [membeli atau menghapus lisensi langganan](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
