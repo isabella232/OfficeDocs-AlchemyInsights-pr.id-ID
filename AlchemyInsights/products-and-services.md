@@ -1,8 +1,8 @@
 ---
 title: Produk Anda
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799243"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307021"
 ---
 # <a name="your-products"></a>Produk Anda
 
-Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda pada halaman **tagihan**  >  **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Berikut adalah beberapa highlights Halaman ini bersama dengan link untuk informasi selengkapnya tentang setiap fitur:
+Anda dapat menemukan langganan yang dimiliki oleh organisasi Anda pada halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) . Berikut adalah beberapa highlights Halaman ini bersama dengan link untuk informasi selengkapnya tentang setiap fitur:
 
-1. Mengelola jumlah lisensi yang telah dibeli untuk setiap langganan bersama dengan berapa banyak yang digunakan.  **Catatan**: lisensi yang tidak sedang digunakan (tidak ditetapkan untuk pengguna) masih dikenakan biaya.  Untuk tidak dikenakan biaya atas lisensi yang tidak terpakai, kurangi jumlah lisensi yang dibeli. Untuk informasi tentang cara menambahkan atau menghapus lisensi dari langganan, lihat [cara menambahkan atau mengurangi lisensi](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
-
-2. Menampilkan pembaruan atau tanggal kedaluwarsa langganan.  Anda dapat mengelola pembaruan dengan mengklik link **Edit** di samping pembaruan **/kedaluwarsa** pada tanggal.  Lihat [memperpanjang Microsoft 365 for Business](https://go.microsoft.com/fwlink/?linkid=2119216) untuk informasi selengkapnya tentang cara mengelola tagihan berulang.
-
-3. [Mengaktifkan kembali langganan yang kedaluwarsa atau dinonaktifkan](https://go.microsoft.com/fwlink/?linkid=2117519).
-
-4. [Edit metode pembayaran yang digunakan untuk membayar langganan](https://go.microsoft.com/fwlink/?linkid=2117167).
-
-5. [Ubah seberapa sering Anda ditagih](https://go.microsoft.com/fwlink/?linkid=2119112).
-
+1. Tampilkan jumlah lisensi yang ditetapkan, dan berapa banyak lisensi yang dibeli untuk setiap langganan.
+    > [!NOTE]
+    > Anda masih dikenakan biaya untuk lisensi yang tidak digunakan (tidak ditetapkan untuk pengguna). Untuk tidak dikenakan biaya atas lisensi yang tidak terpakai, kurangi jumlah lisensi yang dibeli. Untuk informasi tentang cara menambahkan atau menghapus lisensi dari langganan, lihat [cara menambahkan atau mengurangi lisensi](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+2. Tampilkan status setiap langganan. Untuk mempelajari cara mengaktifkan kembali langganan, lihat [mengaktifkan kembali langganan Anda](reactivate-your-subscription.md).
+3. Menampilkan pembaruan atau tanggal kedaluwarsa setiap langganan. Anda dapat mengelola pembaruan dengan memilih langganan, lalu memilih **Edit tagihan berulang**. Untuk mempelajari cara mengelola tagihan berulang, lihat [mengelola tagihan berulang](manage-auto-renewal.md).
+4. Tampilkan metode pembayaran yang digunakan untuk setiap langganan. Untuk mempelajari cara mengubah metode pembayaran, lihat [mengubah metode pembayaran](change-payment-method.md).
+5. [Ubah seberapa sering Anda membayar](change-how-often-you-pay.md).
 6. [Batalkan langganan](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Anda dapat membeli langganan tambahan dari halaman **Billing**  >  [**Layanan pembelian**](https://go.microsoft.com/fwlink/p/?linkid=868433) tagihan.
+Anda dapat membeli langganan tambahan dari halaman **Billing**  >  [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) tagihan.

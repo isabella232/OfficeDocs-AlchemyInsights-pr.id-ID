@@ -2,7 +2,7 @@
 title: Membeli lisensi tambahan
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725554"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307200"
 ---
 # <a name="buy-additional-licenses"></a>Membeli lisensi tambahan
 
-1. Di pusat admin, masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. Di pusat admin, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pada tab **produk** , temukan langganan yang ingin Anda beli atau Hapus lisensinya. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Beli lisensi**.
+3. Jika Anda ingin mengurangi jumlah lisensi, di bagian atas panel **Beli lisensi** , pilih **Hapus lisensi**.
+4. Untuk membeli atau menghapus lisensi, di bawah **jumlah baru** dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika Anda memiliki 100 lisensi dan ingin menambahkan 25 lainnya, masukkan 125. Jika Anda ingin menghapus 25 lisensi, masukkan 75.
+5. Pilih **Simpan**.
 
-2. Temukan langganan yang ingin Anda tambahkan lisensinya, lalu pilih **Tambahkan/Hapus lisensi**.
-
-    [Bagaimana jika saya tidak melihat tautan Tambahkan/Hapus?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-3. Dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, lalu pilih **kirim perubahan**. Misalnya, jika Anda memiliki lisensi 100 dan Anda perlu menambahkan 5 lagi, masukkan 105.
-
-    > [!NOTE]
-    > Jika Anda membayar langganan dengan kartu kredit atau rekening bank, setiap lisensi baru yang Anda beli tersedia segera setelah Anda menerima konfirmasi pesanan. Jika Anda membayar dengan faktur, Anda mungkin harus menunggu pemeriksaan kredit sebelum lisensi baru Anda tersedia untuk digunakan.
-
-Untuk mempelajari selengkapnya, lihat [membeli lisensi untuk langganan Microsoft 365 untuk bisnis Anda](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
+Untuk mempelajari selengkapnya, lihat [membeli lisensi untuk langganan Microsoft 365 untuk bisnis Anda](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Sumber Daya Tambahan**
 
-- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

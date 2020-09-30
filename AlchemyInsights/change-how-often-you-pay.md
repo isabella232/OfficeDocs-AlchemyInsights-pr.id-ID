@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733631"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307345"
 ---
 # <a name="change-how-often-you-pay"></a>Mengubah seberapa sering Anda membayar
 
 Untuk mengubah seberapa sering Anda ditagih dan membayar langganan, selesaikan langkah-langkah berikut ini di pusat admin Microsoft 365.
 
 1. Buka **Billing**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , pilih langganan yang ingin Anda ubah. 
+2. Pada tab **produk** , pilih langganan yang ingin Anda ubah.
 3. Pada halaman detail langganan, di bagian **pengaturan langganan dan pembayaran** , pilih **Edit frekuensi penagihan**.
-4. Di panel **Edit frekuensi tagihan** , tekan Opsi untuk seberapa sering Anda ingin ditagih, lalu pilih **Ubah**.
+4. Di panel **Edit frekuensi tagihan** , pilih opsi untuk seberapa sering Anda ingin ditagih, lalu pilih **Ubah**.
 
-**Catatan**: tagihan bulanan atau tahunan adalah satu-satunya opsi.
+> [!NOTE]
+> Tagihan bulanan atau tahunan adalah satu-satunya opsi.
 
 Untuk informasi selengkapnya, lihat [Mengubah frekuensi tagihan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
