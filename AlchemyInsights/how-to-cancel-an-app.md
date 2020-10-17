@@ -2,8 +2,8 @@
 title: Cara membatalkan aplikasi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780998"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488848"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Cara membatalkan aplikasi perangkat lunak-sebagai-a-Layanan 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Cara membatalkan aplikasi perangkat lunak-sebagai-a-Layanan
 
-1. Di pusat admin Microsoft 365, ke **Billing**  >  halaman**[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , lalu pilih tab **aplikasi** .
-
-2. Temukan dan pilih aplikasi yang ingin Anda Kelola.
-
-3. Di bawah **pengaturan & tindakan**, pilih **Batalkan langganan**.
+1. Di pusat admin, ke **Billing**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Pada halaman **produk** , gulir ke bawah ke bagian **aplikasi** , dan temukan langganan yang ingin Anda batalkan. 
+3. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+4. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+5. Pilih **Simpan**.

@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
-ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
+ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
+ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48219858"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473104"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Memblokir atau membuka blokir penerusan email
 
 Untuk mengaktifkan atau menonaktifkan penerusan email untuk kotak surat tertentu, lihat [mengonfigurasi penerusan email](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Pada tingkat penyewa, kontrol pengalihan eksternal dilakukan menggunakan kebijakan anti spam keluar. Jika diatur ke nonaktif atau otomatis, mungkin blokir penerusan email dengan kesalahan 550 "akses 5.7.520 ditolak, organisasi Anda tidak memperbolehkan penerusan eksternal". Selanjutnya, jika pengalihan diatur ke diblokir, itu adalah kesalahan yang akan dilihat pengguna Anda.
+Pada tingkat penyewa, kontrol pengalihan eksternal dilakukan menggunakan kebijakan spam keluar. Anda dapat memeriksa kebijakan filter spam keluar dari pusat keamanan dan kepatuhan [di sini] ( https://protection.office.com/antispam) atau dengan menggunakan [perintah Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-Jika pengalihan sedang diblokir, pastikan kebijakan dikonfigurasi untuk mengaktifkan penerusan otomatis eksternal. Anda dapat memeriksa kebijakan filter spam keluar dari pusat keamanan dan kepatuhan atau dengan menjalankan perintah Get-HostedOutboundSpamFilterPolicy | FL Name, AutoForwardingMode. Jika Anda ingin menyetel pemblokiran otomatis, perintah yang sama akan memberi tahu status kebijakan Anda sekarang.
+Jika Anda mendapatkan kesalahan berikut: **"550 5.7.520 Access ditolak, organisasi Anda tidak memperbolehkan penerusan eksternal"**, pastikan kebijakan dikonfigurasi untuk mengaktifkan penerusan otomatis eksternal.
 
-Catatan: disarankan untuk menyimpan otomatis eksternal yang dinonaktifkan pada kebijakan filter spam keluar default Anda dan mengaktifkannya hanya untuk pengguna yang memerlukan penerusan eksternal dengan membuat kebijakan kustom untuk pengguna tersebut. Anda dapat membaca selengkapnya dalam [mengonfigurasi penerusan email eksternal di Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Catatan:** Disarankan untuk menyimpan otomatis eksternal dinonaktifkan pada kebijakan filter spam keluar default Anda dan mengaktifkannya hanya untuk pengguna yang memerlukan penerusan eksternal dengan membuat kebijakan kustom untuk pengguna tersebut. Anda dapat membaca selengkapnya dalam [mengonfigurasi penerusan email eksternal di Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

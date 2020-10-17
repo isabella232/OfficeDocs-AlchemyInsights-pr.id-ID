@@ -1,8 +1,8 @@
 ---
 title: Menangguhkan atau menjeda lisensi
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800179"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488920"
 ---
 # <a name="suspend-or-pause-licenses"></a>Menangguhkan atau menjeda lisensi
 
-Untuk menangguhkan atau menjeda lisensi pengguna Anda untuk sementara waktu, Anda bisa menghapus lisensi dari **Pusat admin Microsoft 365** dan menambahkannya kembali nanti.
+Untuk menangguhkan atau menjeda penggunaan lisensi Anda untuk sementara waktu, Anda bisa menghapus lisensi dari Pusat admin Microsoft 365, lalu menambahkannya kembali nanti.
 
-1. Anda harus terlebih dahulu [membatalkan penetapan lisensi](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) dari pengguna, sebelum menghapusnya dari langganan Anda.
+1. Sebelum menghapus lisensi dari langganan Anda, Anda harus terlebih dahulu [membatalkan penetapan lisensi dari pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+2. Berikutnya, **masuk ke**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+3. Pada tab **produk** , pilih langganan yang ingin Anda perbarui.
+4. Pada halaman detail langganan, pilih **Hapus lisensi**.
+5. Di panel **Hapus lisensi** , dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini, lalu pilih **Simpan**. Misalnya, jika Anda memiliki 100 lisensi dan ingin menangguhkan atau menjeda 25, maka masukkan 75 sebagai lisensi total untuk langganan Anda.
 
-2. Lalu masuk ke **tagihan > [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-
-3. Pada halaman **produk Anda** , temukan langganan yang ingin Anda hapus lisensinya, dan klik **Tambahkan/Hapus lisensi**.
-
-4. Dalam kotak lisensi Total, masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, lalu klik **kirim perubahan**. Misalnya, jika Anda memiliki 100 lisensi dan ingin menangguhkan atau menjeda 50, maka masukkan 50 sebagai lisensi total untuk langganan Anda.
-
-Untuk informasi selengkapnya, lihat [ Mengelola lisensi langganan ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Untuk informasi selengkapnya, lihat [ Mengelola lisensi langganan ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
