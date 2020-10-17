@@ -1,8 +1,8 @@
 ---
 title: Menangguhkan atau menjeda lisensi
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 7d92f1c7a03eb9eb5c195b0d3a866e1da003f45d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800179"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488920"
 ---
-# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="2aef4-102">Menangguhkan atau menjeda lisensi</span><span class="sxs-lookup"><span data-stu-id="2aef4-102">Suspend or pause licenses</span></span>
+# <a name="suspend-or-pause-licenses"></a><span data-ttu-id="8ca5f-102">Menangguhkan atau menjeda lisensi</span><span class="sxs-lookup"><span data-stu-id="8ca5f-102">Suspend or pause licenses</span></span>
 
-<span data-ttu-id="2aef4-103">Untuk menangguhkan atau menjeda lisensi pengguna Anda untuk sementara waktu, Anda bisa menghapus lisensi dari **Pusat admin Microsoft 365** dan menambahkannya kembali nanti.</span><span class="sxs-lookup"><span data-stu-id="2aef4-103">To suspend or pause your user licenses temporarily, you can remove licenses from the **Microsoft 365 admin center** and add them back at a later time.</span></span>
+<span data-ttu-id="8ca5f-103">Untuk menangguhkan atau menjeda penggunaan lisensi Anda untuk sementara waktu, Anda bisa menghapus lisensi dari Pusat admin Microsoft 365, lalu menambahkannya kembali nanti.</span><span class="sxs-lookup"><span data-stu-id="8ca5f-103">To suspend or pause your license usage temporarily, you can remove licenses from the Microsoft 365 admin center, and then add them back at a later time.</span></span>
 
-1. <span data-ttu-id="2aef4-104">Anda harus terlebih dahulu [membatalkan penetapan lisensi](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) dari pengguna, sebelum menghapusnya dari langganan Anda.</span><span class="sxs-lookup"><span data-stu-id="2aef4-104">You need to first [unassign licenses](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide) from users, before removing them from your subscription.</span></span>
+1. <span data-ttu-id="8ca5f-104">Sebelum menghapus lisensi dari langganan Anda, Anda harus terlebih dahulu [membatalkan penetapan lisensi dari pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="8ca5f-104">Before removing licenses from your subscription, you must first [unassign licenses from users](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).</span></span>
+2. <span data-ttu-id="8ca5f-105">Berikutnya, **masuk ke**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="8ca5f-105">Next, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+3. <span data-ttu-id="8ca5f-106">Pada tab **produk** , pilih langganan yang ingin Anda perbarui.</span><span class="sxs-lookup"><span data-stu-id="8ca5f-106">On the **Products** tab, select the subscription that you want to update.</span></span>
+4. <span data-ttu-id="8ca5f-107">Pada halaman detail langganan, pilih **Hapus lisensi**.</span><span class="sxs-lookup"><span data-stu-id="8ca5f-107">On the subscription details page, select **Remove licenses**.</span></span>
+5. <span data-ttu-id="8ca5f-108">Di panel **Hapus lisensi** , dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini, lalu pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="8ca5f-108">In the **Remove licenses** pane, in the **Total licenses** box, enter the total number of licenses that you want for this subscription, then select **Save**.</span></span> <span data-ttu-id="8ca5f-109">Misalnya, jika Anda memiliki 100 lisensi dan ingin menangguhkan atau menjeda 25, maka masukkan 75 sebagai lisensi total untuk langganan Anda.</span><span class="sxs-lookup"><span data-stu-id="8ca5f-109">For example, if you have 100 licenses and want to suspend or pause 25, then enter 75 as the total licenses for your subscription.</span></span>
 
-2. <span data-ttu-id="2aef4-105">Lalu masuk ke **tagihan > [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="2aef4-105">Then go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-3. <span data-ttu-id="2aef4-106">Pada halaman **produk Anda** , temukan langganan yang ingin Anda hapus lisensinya, dan klik **Tambahkan/Hapus lisensi**.</span><span class="sxs-lookup"><span data-stu-id="2aef4-106">On the **Your products** page, find the subscription you want to remove licenses for, and click **Add/Remove licenses**.</span></span>
-
-4. <span data-ttu-id="2aef4-107">Dalam kotak lisensi Total, masukkan jumlah total lisensi yang Anda perlukan untuk langganan ini, lalu klik **kirim perubahan**.</span><span class="sxs-lookup"><span data-stu-id="2aef4-107">In the total licenses box, enter the total number of licenses that you need for this subscription, and then click **Submit change**.</span></span> <span data-ttu-id="2aef4-108">Misalnya, jika Anda memiliki 100 lisensi dan ingin menangguhkan atau menjeda 50, maka masukkan 50 sebagai lisensi total untuk langganan Anda.</span><span class="sxs-lookup"><span data-stu-id="2aef4-108">For example, if you have 100 licenses and want to suspend or pause 50, then enter 50 as the total licenses for your subscription.</span></span>
-
-<span data-ttu-id="2aef4-109">Untuk informasi selengkapnya, lihat [ Mengelola lisensi langganan ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="2aef4-109">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).</span></span>
+<span data-ttu-id="8ca5f-110">Untuk informasi selengkapnya, lihat [ Mengelola lisensi langganan ](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="8ca5f-110">For more info, see [Manage subscription licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
