@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709910"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801051"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktifkan proteksi ancaman tingkat lanjut Office 365 untuk SharePoint online, OneDrive, dan Microsoft teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Mengaktifkan Microsoft Defender untuk Office 365 untuk SharePoint online, OneDrive, dan Microsoft teams
 
 1. Masuk ke https://protection.office.com dan masuk.
-2. Pilih **Threat management**  >  **Policy**  >  **lampiran aman**kebijakan manajemen ancaman.
-3. Pilih **Aktifkan ATP untuk SharePoint, OneDrive, dan Microsoft teams**, lalu klik **Simpan**.
-4. Telah Sebagai administrator global atau administrator SharePoint online, Jalankan cmdlet [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) dengan set parameter **Disallowinfecfiledownload** ke *True*.
+2. Pilih **Threat management**  >  **Policy**  >  **lampiran aman** kebijakan manajemen ancaman.
+3. Pilih **Aktifkan ATP untuk SharePoint, OneDrive, dan Microsoft teams** , lalu klik **Simpan** .
+4. Telah Sebagai administrator global atau administrator SharePoint online, Jalankan cmdlet [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) dengan set parameter **Disallowinfecfiledownload** ke *True* .
 5. Telah [Siapkan pemberitahuan](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) untuk file yang terdeteksi.
 
 > [!NOTE]

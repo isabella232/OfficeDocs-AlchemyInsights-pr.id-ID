@@ -14,12 +14,12 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48299881"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801518"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Pendeteksian kustom berburu tingkat lanjut
 
@@ -30,6 +30,6 @@ Jika Anda menggunakan Microsoft Defender ATP, lihat topik berikut ini untuk deta
 - [Membuat aturan deteksi kustom](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [Menampilkan dan mengelola aturan deteksi kustom](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Jika Anda menggunakan perlindungan ancaman Microsoft, lihat topik berikut ini untuk detailnya: 
+Jika Anda menggunakan Microsoft 365 Defender, lihat topik berikut ini untuk detailnya: 
 - [Gambaran umum pendeteksian kustom](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
 - [Membuat dan mengelola aturan pendeteksian kustom](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
