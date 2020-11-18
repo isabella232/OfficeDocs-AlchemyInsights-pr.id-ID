@@ -2,8 +2,7 @@
 title: Membatalkan langganan Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811860"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348632"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365 Anda?
+# <a name="canceling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365 Anda?
 
-Kami minta maaf melihat Anda pergi, tapi berikut adalah opsi Anda untuk membatalkan langganan Anda:
+Kami minta maaf melihat Anda pergi, tapi jika Anda ingin membatalkan langganan Anda, berikut adalah opsi Anda:
   
 - Jika Anda adalah pelanggan percobaan, tidak ada yang dapat dibatalkan. Langganan uji coba akan kedaluwarsa secara otomatis kecuali Anda menyediakan metode pembayaran.
+- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda bisa membatalkan langganan Anda secara online. Masuk ke halaman **tagihan** \> [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) , dan temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+- Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan untuk pengguna, [Hubungi dukungan untuk membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda bisa membatalkan langganan Anda secara online. Buka **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Di bagian **tindakan & pengaturan** , pilih **Batalkan langganan**.
+**Pengembalian dana: kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.**
 
-- Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan, Anda bisa menghapus pengguna hingga Anda memiliki kurang dari 25, atau menggunakan opsi "Izinkan kami menghubungi Anda" untuk berbicara dengan teknisi dukungan.
+> [!NOTE]
+> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **pengaturan langganan dan pembayaran** , pilih **Batalkan langganan**.
 
 Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
