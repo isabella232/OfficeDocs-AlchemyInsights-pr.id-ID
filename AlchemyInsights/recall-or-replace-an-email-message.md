@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799207"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353509"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Memanggil kembali atau mengganti pesan email di Microsoft 365
 
-- Anda **hanya bisa mengingat pesan yang dikirim ke orang di dalam organisasi Anda**. Jika pesan dikirim ke alamat Gmail, misalnya, Anda tidak bisa mengingatnya.
-- Anda **hanya dapat mengingat pesan yang dikirim dari Outlook 2016 untuk PC**. Jika pengguna mengirim pesan menggunakan Outlook untuk Mac atau Outlook di web, Anda tidak bisa mengingatnya.
-- Jika Anda adalah seorang admin, Anda bisa **memanggil kembali pesan atas nama pengguna menggunakan PowerShell**. Anda tidak bisa mengingat pesan dari Pusat admin. Gulir ke bawah ke "Cari dan Hapus pesan email di organisasi Anda" untuk informasi selengkapnya.
+- Anda **hanya bisa mengingat pesan yang dikirim ke orang di dalam organisasi Anda**. Misalnya, jika pesan dikirim ke alamat Gmail, Anda tidak dapat mengingatnya.
+- Anda **hanya dapat mengingat pesan yang dikirim dari Outlook untuk PC**. Jika pengguna mengirim pesan menggunakan Outlook untuk Mac atau Outlook di web, Anda tidak bisa mengingatnya.
+- Sebagai administrator penyewa, Anda bisa **mengingat pesan atas nama pengguna menggunakan PowerShell** (untuk informasi selengkapnya, lihat: [mencari dan menghapus pesan email](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- Anda tidak bisa mengingat pesan dari Pusat admin. Gulir ke bawah ke "Cari dan Hapus pesan email di organisasi Anda" untuk informasi selengkapnya.
 
 **Memanggil kembali atau mengganti pesan email yang Anda kirim**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799207"
 
 Untuk informasi selengkapnya, termasuk cara memeriksa penarikan kembali, lihat memanggil kembali [atau mengganti pesan email yang Anda kirim](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Mencari dan menghapus pesan email di organisasi Anda*** Untuk mencari dan menghapus pesan email di organisasi Anda, sangat mudah jika Anda adalah admin global. Jika Anda bukan admin global, akun Anda harus ditambahkan ke grup peran Manajer eDiscovery, atau ke peran manajemen pencarian kepatuhan. Untuk menghapus pesan, Anda harus bergabung dalam grup peran manajemen organisasi atau peran manajemen pencarian dan penghapusan. Izin untuk peran ini ditetapkan di [pusat kepatuhan & keamanan](https://protection.office.com/).
+**_Untuk mencari dan menghapus pesan email di organisasi Anda_**, sangat mudah jika Anda adalah admin global. Jika Anda bukan admin global, akun Anda harus ditambahkan ke grup peran Manajer eDiscovery, atau ke peran manajemen pencarian kepatuhan. Untuk menghapus pesan, Anda harus bergabung dalam grup peran manajemen organisasi atau peran manajemen pencarian dan penghapusan. Izin untuk peran ini ditetapkan di [pusat kepatuhan & keamanan](https://protection.office.com/).
 
 1. [Buat pencarian konten](https://docs.microsoft.com/microsoft-365/compliance/content-search) untuk menemukan pesan yang akan dihapus.
-2. [Sambungkan ke pusat kepatuhan & keamanan PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [Sambungkan ke pusat kepatuhan & keamanan PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-Jika Anda menggunakan MFA, lihat [menyambungkan ke Microsoft 365 security & Compliance Center PowerShell menggunakan autentikasi multifaktor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Jika Anda menggunakan MFA (multi-Factor Authentication), lihat [menyambungkan ke Microsoft 365 Security & pusat kepatuhan PowerShell menggunakan autentikasi multifaktor](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
