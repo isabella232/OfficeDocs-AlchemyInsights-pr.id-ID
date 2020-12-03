@@ -1,5 +1,5 @@
 ---
-title: Pembukaan dokumen dalam baca-saja
+title: Dokumen dibuka dalam baca-saja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 5544ea676412d26b87bcf4c20637910f3a4d20c4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088753"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49528985"
 ---
-# <a name="documents-opening-in-read-only"></a>Dokumen yang dibuka dalam baca-saja
+# <a name="documents-opening-in-read-only"></a>Dokumen dibuka dalam baca-saja
 
-Anda dapat menemukan file yang Anda buka menjadi baca-saja. Dalam beberapa kasus, kondisi ini berfungsi sebagai keamanan tambahan, seperti saat Anda membuka file dari internet, dan waktu lainnya, kondisi ini bisa disebabkan pengaturan yang bisa diubah.
+Anda mungkin menemukan file yang dibuka untuk dibaca-saja. Dalam beberapa kasus, hal ini dilakukan untuk keamanan tambahan, seperti ketika Anda membuka file dari internet, atau di lain waktu, mungkin dikarenakan pengaturan yang dapat diubah.
 
-- [File SharePoint terbuka sebagai baca-saja](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [File SharePoint dibuka sebagai dibaca-saja](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Jika pelanggan meyakini bahwa penyebab yang disebutkan seperti mekanisme penyempurnaan keamanan atau pengaturan tidak berubah bukan merupakan salah satu skenario desain yang diuraikan dalam [file SharePoint yang dibuka sebagai baca-saja](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), berikut ini solusi umum lainnya untuk membuka dokumen dalam mode baca saja.
+Jika pelanggan percaya bahwa penyebab yang dinyatakan seperti mekanisme peningkatan keamanan atau pengaturan yang tidak berubah bukanlah salah satu dari skenario desain yang diuraikan di [file SharePoint dibuka sebagai dibaca-saja](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), berikut adalah solusi umum lainnya untuk dokumen yang dibuka dalam mode baca saja.
 
 - Mulai ulang komputer.
 - Instal pembaruan Office.
 - Periksa antivirus di komputer.
-- Pastikan situs tersebut berada di zona situs tepercaya di Internet Explorer.
-- Menjalankan perbaikan Office.
-- Kosongkan [Singgahan dokumen Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Pastikan situs berada dalam zona Situs Tepercaya di Internet Explorer.
+- Lakukan perbaikan Office.
+- Bersihkan [Singgahan Dokumen Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
