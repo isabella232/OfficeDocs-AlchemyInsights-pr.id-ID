@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815536"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683869"
 ---
 # <a name="how-to-verify-your-domain"></a>Cara memverifikasi domain Anda
 
-Untuk memverifikasi domain, ikuti [panduan Tambahkan domain](https://admin.microsoft.com/Adminportal#/Domains/Wizard), atau masuk secara manual ke domain **penyetelan**  >  **Domains**  >  **Tambahkan domain**.
+Untuk memverifikasi domain, ikuti [panduan Tambahkan domain](https://admin.microsoft.com/Adminportal#/Domains/Wizard), atau masuk secara manual ke domain **penyetelan**  >    >  **Tambahkan domain**.
 
 Untuk informasi selengkapnya tentang perubahan DNS yang diperlukan untuk memverifikasi domain Anda, lihat instruksi dalam [menambahkan catatan DNS untuk menyambungkan domain Anda](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
