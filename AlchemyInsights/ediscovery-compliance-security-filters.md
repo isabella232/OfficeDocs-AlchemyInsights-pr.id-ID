@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678679"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727226"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Tidak ada hasil yang dikembalikan selama pencarian konten/ekspor
 
@@ -26,7 +26,7 @@ Jika Anda mengalami masalah dengan skenario eDiscovery berikut:
 - Pencarian konten/ekspor mengembalikan data atau data tidak terduga
 - Pencarian eDiscovery atau gagal mengekspor
 
-Ini mungkin disebabkan karena filter keamanan kepatuhan tertentu yang disiapkan oleh admin tertentu dan tidak dikomunikasikan kepada semua admin.
+Ini mungkin disebabkan oleh filter keamanan kepatuhan tertentu yang disiapkan oleh admin tertentu dan tidak dikomunikasikan kepada semua admin.
 
 Untuk mengatasi masalah ini, periksa apakah ada filter keamanan kepatuhan yang mungkin menyebabkan masalah ini:
 
