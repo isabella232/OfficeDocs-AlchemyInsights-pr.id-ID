@@ -1,5 +1,5 @@
 ---
-title: Cara menambahkan dan mengelola admin-MCA FL/CL
+title: Cara menambahkan dan mengelola admin
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692316"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755498"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Cara menambahkan dan mengelola admin-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Cara menambahkan dan mengelola admin
+
+Berdasarkan Deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan dapat mengatasi masalah mereka sendiri setelah mengikuti dokumentasi kami.
 
 Untuk mengelola akun tagihan Anda untuk perjanjian pelanggan Microsoft (MCA), Anda bisa menggunakan peran berbeda dengan tingkat akses yang diinginkan. Peran ini selain peran Layanan Azure bawaan yang membantu Anda mengontrol sumber daya Anda.
 
@@ -32,7 +34,7 @@ Untuk mengelola akun tagihan Anda untuk perjanjian pelanggan Microsoft (MCA), An
 5. Untuk memberi akses ke pengguna, pilih **Tambahkan** dari bagian atas halaman. Dalam daftar turun bawah *peran* , pilih peran. Masukkan alamat email pengguna yang ingin Anda beri akses. Pilih **Simpan** untuk menetapkan peran.
 6. Untuk menghapus akses bagi pengguna, pilih pengguna dengan tugas peran yang ingin Anda hapus. Pilih **Hapus**.
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
 - [Definisi peran tagihan](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
 - [Peran dan tugas akun penagihan](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles#billing-account-roles-and-tasks)

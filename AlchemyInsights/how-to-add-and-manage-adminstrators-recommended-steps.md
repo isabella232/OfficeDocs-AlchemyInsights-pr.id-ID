@@ -1,5 +1,5 @@
 ---
-title: Cara menambahkan dan mengelola langkah yang direkomendasikan oleh adminstrators
+title: Cara menambahkan dan mengelola langkah-langkah yang direkomendasikan administrator
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677801"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755838"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Cara menambahkan dan mengelola langkah yang direkomendasikan oleh adminstrators
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cara menambahkan dan mengelola langkah-langkah yang direkomendasikan administrator
+
+Berdasarkan Deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan dapat mengatasi masalah mereka sendiri setelah mengikuti dokumentasi kami.
 
 **Mengedit administrator langganan atau administrator bersama**
 

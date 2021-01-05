@@ -1,5 +1,5 @@
 ---
-title: Beralih ke faktur bayar (transfer cek/Wire)-Legacy WD
+title: Beralih ke bayar dengan faktur (transfer cek/Wire)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726124"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755406"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Beralih ke faktur bayar (transfer cek/Wire)-Legacy WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Beralih ke bayar dengan faktur (transfer cek/Wire)
+
+Berdasarkan Deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan dapat mengatasi masalah mereka sendiri setelah mengikuti dokumentasi kami.
 
 Jika Anda beralih ke bayar dengan faktur, itu berarti Anda akan membayar tagihan Anda dalam waktu 30 hari dari tanggal faktur. Agar memenuhi syarat untuk membayar langganan Azure Anda melalui faktur, kirimkan permintaan ke dukungan Azure. Setelah permintaan disetujui, Anda dapat mengalihkan langganan untuk membayar faktur di [Azure portal](https://portal.azure.com/).
 
@@ -39,7 +41,7 @@ Untuk melakukan itu:
 2. Pilih langganan yang ingin Anda Alihkan ke pembayaran faktur. Pilih **metode pembayaran**.
 3. Di bilah perintah, klik tombol **bayar menurut faktur** .
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
 - [Meminta/mengunduh/menampilkan faktur penagihan dan data penggunaan Azure Anda](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Cara mengirim email Azure Invoice langsung ke kotak masuk Anda](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
