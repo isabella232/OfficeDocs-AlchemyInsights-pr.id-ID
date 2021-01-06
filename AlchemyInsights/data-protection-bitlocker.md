@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731242"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768820"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Mengaktifkan enkripsi BitLocker dengan Intune
 
@@ -30,10 +30,12 @@ Untuk informasi tentang pemecahan masalah BitLocker, lihat [memecahkan masalah k
  
 **FAQ**
 
- P: yang edisi enkripsi perangkat dukungan Windows menggunakan kebijakan perlindungan titik akhir?<br>
- A: pengaturan dalam kebijakan perlindungan titik akhir Intune diimplementasikan menggunakan [CSP CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Tidak semua edisi atau Build Windows mendukung BitLocker CSP. <br><br>
-      Saat ini, edisi Windows berikut ini didukung: Enterprise, Education, Mobile, Mobile Enterprise, dan Professional (Build 1809 dan yang lebih baru).
- 
+P: yang edisi enkripsi perangkat dukungan Windows menggunakan kebijakan perlindungan titik akhir?<br>
+A: pengaturan dalam kebijakan perlindungan titik akhir Intune diimplementasikan menggunakan [CSP CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Tidak semua edisi atau Build Windows mendukung BitLocker CSP. <br><br>
+
+P: Bagaimana cara BitLocker diaktifkan di perangkat tanpa memerlukan interaksi pengguna akhir?<br>
+A: selama prasyarat yang diperlukan terpenuhi, dimungkinkan untuk mengaktifkan BitLocker "Silent Encryption" melalui Intune. Lihat detail persyaratan perangkat dan pengaturan kebijakan contoh untuk mengaktifkan enkripsi hening dalam dokumen berikut: [mengaktifkan diam-diam enkripsi BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 P: jika perangkat telah dienkripsi dengan BitLocker menggunakan pengaturan default OS untuk metode enkripsi dan kekuatan cipher (XTS-AES-128), akan menerapkan kebijakan dengan pengaturan yang berbeda secara otomatis memicu enkripsi ulang drive dengan pengaturan baru?<br>
 J: Tidak. Untuk menerapkan pengaturan penyandian baru, drive harus didekripsi terlebih dahulu.<br><br>
 **Catatan:** Untuk perangkat yang terdaftar dengan autopilot, enkripsi otomatis yang akan terjadi selama OOBE tidak dipicu hingga kebijakan Intune dievaluasi, yang memungkinkan pengaturan berbasis kebijakan digunakan di tempat default OS.
