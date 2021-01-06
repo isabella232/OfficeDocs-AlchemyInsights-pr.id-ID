@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736881"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755550"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Mentransfer kepemilikan tagihan Azure
 
 Masuk ke [portal Azure](https://portal.azure.com/) sebagai administrator akun tagihan yang memiliki langganan yang ingin Anda transfer. Jika Anda tidak yakin apakah Anda merupakan administrator, atau jika Anda perlu menentukan siapa, lihat [Menentukan administrator tagihan akun](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Cari di _Manajemen Biaya + Tagihan_.
+1. Cari _Manajemen Biaya + Tagihan_.
 1. Pilih **Langganan** dari panel kiri. Bergantung pada akses, Anda mungkin perlu memilih cakupan tagihan kemudian **Langganan** atau **langganan Azure**.
 1. Pilih **Transfer kepemilikan tagihan** untuk langganan yang ingin Anda transfer.
 1. Masukkan alamat email pengguna yang merupakan administrator tagihan akun yang akan menjadi pemilik baru untuk langganan kemudian pilih **kirim permintaan transfer**.
