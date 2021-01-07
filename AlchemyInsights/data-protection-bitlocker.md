@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768820"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778196"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Mengaktifkan enkripsi BitLocker dengan Intune
 
- Kebijakan proteksi titik akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi BitLocker untuk perangkat Windows. Untuk informasi selengkapnya, lihat [pengaturan Windows 10 (dan yang lebih baru) untuk memproteksi perangkat menggunakan Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Kebijakan proteksi titik akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi BitLocker untuk perangkat Windows. Untuk informasi selengkapnya, lihat [pengaturan Windows 10 (dan yang lebih baru) untuk memproteksi perangkat menggunakan Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Selain kebijakan perlindungan titik akhir, ada juga laporan enkripsi yang memberikan tampilan status enkripsi yang lebih mendetail untuk perangkat. Laporan ini bisa diakses dari MEM portal di bawah **perangkat > monitor**, lalu di bawah **konfigurasi** pilih [laporan enkripsi](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Jika Anda menemukan BitLocker gagal untuk diaktifkan seperti yang diharapkan atau bahwa profil yang digunakan untuk mengaktifkan BitLocker dalam keadaan kesalahan, silakan Tinjau laporan enkripsi untuk mendapatkan pemahaman yang lebih baik tentang mengapa perilaku tersebut terjadi.
+
+Untuk menemukan detail tentang cara menginterpretasikan laporan termasuk berbagai nilai status enkripsi, lihat [memantau enkripsi perangkat dengan Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Anda harus mengetahui bahwa banyak perangkat yang lebih baru yang menjalankan Windows 10 mendukung enkripsi BitLocker otomatis, yang dipicu tanpa penerapan kebijakan MDM. Hal ini dapat berdampak pada penerapan kebijakan jika pengaturan non-default dikonfigurasikan. Lihat Tanya Jawab Umum berikut untuk detail selengkapnya.
- 
+
 Untuk informasi tentang pemecahan masalah BitLocker, lihat [memecahkan masalah kebijakan BitLocker di Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
