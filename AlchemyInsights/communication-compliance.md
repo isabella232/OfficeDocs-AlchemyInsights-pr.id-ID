@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a002ca92a0ef8bf124ea66267392b30c35ebf95b
+ms.sourcegitcommit: 5e4c60a3f0eb51f4794b40c7a8802f3ad70c56b7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713854"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49875127"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Kepatuhan komunikasi di Microsoft 365
 
@@ -42,3 +42,6 @@ Persyaratan Lisensi: pengguna yang dipantau oleh kebijakan komunikasi harus memi
 - Langganan Office 365 Enterprise E5
 
 Jika Anda tidak memiliki salah satu hal di atas dan ingin mencoba kepatuhan komunikasi, **[Daftar untuk uji coba Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+
+> [!NOTE]
+> Mungkin butuh waktu hingga 24 jam agar pesan email diproses sepenuhnya dalam kebijakan. Komunikasi di Microsoft teams, Yammer, dan platform pihak ketiga dapat memakan waktu hingga 48 jam untuk memproses sepenuhnya dalam kebijakan.
