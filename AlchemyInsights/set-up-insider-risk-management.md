@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 90655fea0b8a7debabdd986bf0f89244d509e8d9
+ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784550"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "49951828"
 ---
 # <a name="set-up-insider-risk-management"></a>Menyiapkan manajemen risiko insider
 
-Gunakan kebijakan manajemen risiko insider untuk mengidentifikasi aktivitas berisiko dan alat manajemen guna melakukan tindakan terhadap peringatan risiko di organisasi Anda. Sebelum memulai manajemen risiko insider, Anda harus mengonfirmasi **langganan Microsoft 365**. Untuk mengakses dan menggunakan manajemen risiko insider, organisasi Anda **harus** memiliki salah satu langganan berikut:
+Untuk mengakses dan menggunakan manajemen risiko insider, organisasi Anda **harus** memiliki salah satu langganan berikut:
 
 - Langgan **Microsoft 365 E5**.
 
@@ -28,16 +29,10 @@ Gunakan kebijakan manajemen risiko insider untuk mengidentifikasi aktivitas beri
 
 Jika saat ini tidak memiliki paket **Microsoft 365 E5** dan ingin mencoba manajemen risiko insider, Anda dapat menambahkan Microsoft 365 ke langganan sekarang atau Mendaftar untuk uji coba Microsoft 365 Enterprise E5.
 
-Langkah-langkah dasar untuk menggunakan Manajemen Risiko Insider meliputi:
-
-1. Mengaktifkan izin untuk manajemen risiko insider.
-
-2. Mengaktifkan log audit.
-
-3. Mengonfigurasi prasyarat untuk templat (opsional).
-
-4. Mengonfigurasi pengaturan risiko insider.
-
-5. Membuat kebijakan manajemen risiko insider.
+> [!TIPS]
+- > Menggunakan Templat "Kebocoran Data": Pastikan Anda paling tidak memiliki satu kebijakan DLP yang dikonfigurasi.
+- > Admin Tidak melihat Pemberitahuan: Pastikan pengguna ditetapkan ke salah satu grup berikut ini:
+    - >**Analis Manajemen Risiko Dari Dalam**
+    - >**Penyelidik Manajemen Risiko Dari Dalam**
 
 Untuk informasi selengkapnya cara kebijakan risiko insider dapat membantu Anda mengelola risiko di Organisasi Anda, lihat [Management risiko Insider di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
