@@ -12,20 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 9a50525540d7b591c9272bc39714105cd1aa121f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43868418752d9274aa0b30fc32fd233224a3bc61
+ms.sourcegitcommit: 41ddd8e65e9bfdacb6d8a96e0d42426998ffd2d0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702762"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49986301"
 ---
-# <a name="mover"></a><span data-ttu-id="66b8c-102">Alat pemindahan</span><span class="sxs-lookup"><span data-stu-id="66b8c-102">Mover</span></span>
+# <a name="mover"></a><span data-ttu-id="bc640-102">Alat pemindahan</span><span class="sxs-lookup"><span data-stu-id="bc640-102">Mover</span></span>
 
-<span data-ttu-id="66b8c-103">Pada tanggal 21 Oktober 2019, Microsoft mengakuisisi  **Mover**, penyedia migrasi file awan.</span><span class="sxs-lookup"><span data-stu-id="66b8c-103">On October 21, 2019, Microsoft acquired  **Mover**, a leading provider of cloud file migration.</span></span>
+<span data-ttu-id="bc640-103">Untuk informasi tentang Mover, silakan lihat artikel berikut ini:</span><span class="sxs-lookup"><span data-stu-id="bc640-103">For information on Mover, please see the following articles:</span></span>
 
-<span data-ttu-id="66b8c-104">Pada saat ini, [silakan mengarahkan permintaan dukungan](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **di sini**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span><span class="sxs-lookup"><span data-stu-id="66b8c-104">At the current time,  [please direct any support requests](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [**here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)</span></span>  
-
-<span data-ttu-id="66b8c-105">Untuk informasi selengkapnya tentang Mover, silakan rujuk artikel berikut ini:</span><span class="sxs-lookup"><span data-stu-id="66b8c-105">For more information on Mover, please reference the following articles:</span></span>
-
-- [<span data-ttu-id="66b8c-106">Panduan migrasi Mover</span><span class="sxs-lookup"><span data-stu-id="66b8c-106">Mover Migration Guides</span></span>](https://mover.io/guides/)
-- [<span data-ttu-id="66b8c-107">Tanya Jawab Umum migrasi</span><span class="sxs-lookup"><span data-stu-id="66b8c-107">General Migration FAQ</span></span>](https://mover.io/guides/general/)
+- [<span data-ttu-id="bc640-104">Rencanakan migrasi Anda dengan Mover</span><span class="sxs-lookup"><span data-stu-id="bc640-104">Plan your Migration with Mover</span></span>](https://docs.microsoft.com/sharepointmigration/mover-plan-migration)
+- [<span data-ttu-id="bc640-105">Mengelola konektor</span><span class="sxs-lookup"><span data-stu-id="bc640-105">Manage Connectors</span></span>](https://docs.microsoft.com/sharepointmigration/mover-manage-connectors)
+- [<span data-ttu-id="bc640-106">Menjalankan migrasi Mover</span><span class="sxs-lookup"><span data-stu-id="bc640-106">Running the Mover migration</span></span>](https://docs.microsoft.com/sharepointmigration/mover-running-migration)
