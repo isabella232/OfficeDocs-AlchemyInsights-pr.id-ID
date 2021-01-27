@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: id-ID
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974486"
+ms.locfileid: "49976852"
 ---
 # <a name="authentication-issues"></a>Masalah autentikasi
 
-**Mencari informasi tentang kode kesalahan AADSTS yang dikembalikan dari layanan token keamanan (STS) Azure Active Directory (Azure AD)?** Lihat [kode kesalahan autentikasi dan autentikasi AZURE AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) untuk menemukan deskripsi kesalahan, perbaikan, dan beberapa solusi yang disarankan.
+**Mencari informasi tentang kode kesalahan AADSTS yang dikembalikan dari layanan token keamanan (STS) Azure Active Directory (Azure AD)?** Lihat [kode kesalahan Otorisasi dan Autentikasi Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) untuk menemukan deskripsi kesalahan AADSTS, perbaikan, dan beberapa solusi yang disarankan.
 
-Kesalahan otorisasi dapat berupa beberapa masalah yang berbeda, yang sebagian besar menghasilkan kesalahan 401 atau 403. Misalnya, masalah berikut ini bisa menyebabkan kesalahan otorisasi:
+Kesalahan otorisasi dapat merupakan akibat dari beberapa masalah yang berbeda, yang sebagian besar menghasilkan kesalahan 401 atau 403. Misalnya, masalah berikut ini semua dapat mengakibatkan kesalahan otorisasi:
 
-- [Aliran akuisisi token akses](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) tidak benar 
-- [Lingkup izin](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) yang dikonfigurasi dengan buruk 
+- Kesalahan [aliran akuisisi token akses](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- [Lingkup izin](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) dikonfigurasi dengan buruk 
 - Kurangnya [persetujuan](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-Untuk mengatasi kesalahan otorisasi umum, coba langkah yang diberikan di bawah ini yang paling cocok dengan kesalahan yang Anda terima. Lebih dari satu langkah mungkin berlaku untuk kesalahan yang Anda terima.
+Untuk mengatasi kesalahan otorisasi umum, cobalah langkah-langkah yang disediakan di bawah ini yang paling sesuai dengan kesalahan yang Anda terima. Lebih dari satu langkah dapat diterapkan untuk kesalahan yang Anda terima.
 
-- **kesalahan tidak sah 401: Apakah token Anda valid?**
+**Kesalahan tidak sah 401: Apakah token Anda valid?**
 
-Pastikan bahwa aplikasi Anda menyajikan token akses yang valid ke Microsoft graph sebagai bagian dari permintaan. Kesalahan ini sering kali berarti token Access mungkin tidak ditemukan dalam header permintaan autentikasi HTTP atau token tidak valid atau telah kedaluwarsa. Kami sangat menyarankan agar Anda menggunakan Microsoft Authentication Library (MSAL) untuk akuisisi token Access. Selain itu, kesalahan ini dapat terjadi jika Anda mencoba menggunakan token akses delegasi yang diberikan ke akun Microsoft pribadi untuk mengakses API yang hanya mendukung akun kerja atau sekolah (akun organisasi).
+Pastikan bahwa aplikasi Anda menyajikan token akses valid ke Microsoft Graph sebagai bagian dari permintaan. Kesalahan ini sering kali berarti bahwa token akses mungkin hilang di header permintaan autentikasi HTTP atau token tidak valid atau telah kedaluwarsa. Kami sangat menyarankan agar Anda menggunakan Pustaka Autentikasi Microsoft (MSAL) untuk akuisisi token akses. Selain itu, kesalahan ini dapat terjadi jika Anda mencoba menggunakan token akses terdelegasi yang diberikan ke akun Microsoft pribadi untuk mengakses API yang hanya mendukung akun kerja atau sekolah (akun organisasi).
 
-**kesalahan Forbidden 403: Apakah Anda telah memilih kumpulan izin yang tepat?**
+**Kesalahan terlarang 403: Sudahkah Anda memilih set izin yang tepat?**
 
-Pastikan bahwa Anda telah meminta kumpulan izin yang benar berdasarkan Microsoft graph melakukan panggilan aplikasi Anda. Izin paling tidak-istimewa yang direkomendasikan disediakan dalam semua topik metode referensi API Microsoft graph. Selain itu, izin tersebut harus diberikan kepada aplikasi oleh pengguna atau administrator. Pemberian izin biasanya terjadi melalui halaman persetujuan atau penggunaan Blade registrasi aplikasi Azure portal. Dari bilah **pengaturan** untuk aplikasi, klik izin yang **diperlukan**, lalu klik **Berikan izin**. Untuk informasi selengkapnya, lihat:
+Pastikan bahwa Anda telah meminta set izin yang benar berdasarkan API Microsoft Graph untuk panggilan aplikasi. Izin paling tidak istimewa yang disarankan disediakan di semua topik metode referensi API Microsoft Graph. Selain itu, izin tersebut harus diberikan pada aplikasi oleh pengguna atau administrator. Memberikan izin biasanya terjadi melalui halaman persetujuan atau penggunaan blade pendaftaran aplikasi Azure Portal. Dari blade **Pengaturan** untuk aplikasi tersebut, klik **Izin yang Diperlukan**, lalu klik **Berikan Izin**. Untuk informasi selengkapnya, lihat:
 
-- [Izin Microsoft graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [Memahami izin dan izin Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
+- [Izin Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
+- [Memahami izin dan persetujuan Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**kesalahan Forbidden 403: Apakah aplikasi Anda mendapatkan token untuk mencocokkan izin yang dipilih?**
+**Kesalahan terlarang 403: Apakah aplikasi Anda mendapatkan token untuk mencocokkan izin yang dipilih?**
 
-Pastikan bahwa tipe izin yang diminta atau diberikan sesuai dengan tipe token Access yang diperoleh aplikasi Anda. Anda mungkin meminta dan memberikan izin aplikasi tapi menggunakan aliran kode interaktif terdelegasi bukan token aliran kredensial klien, atau meminta dan memberikan izin yang didelegasikan tetapi menggunakan token aliran kredensial klien dan bukan token aliran kode terdelegasi.
+Pastikan bahwa tipe izin yang diminta atau diberikan sesuai dengan tipe token akses yang diperoleh aplikasi Anda. Anda mungkin meminta dan memberikan izin aplikasi, tetapi menggunakan token alur kode interaktif yang didelegasikan, bukan token alur kredensial klien, atau meminta dan memberikan izin delegasi tetapi menggunakan token alur kredensial klien, bukan token alur kode yang didelegasikan.
 
-Untuk informasi selengkapnya yang terkait dengan perolehan token, lihat:
+Untuk informasi selengkapnya terkait memperoleh token, lihat:
 
-- [Mendapatkan akses atas nama pengguna dan izin yang didelegasikan](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v 2.0-alur kode otorisasi OAuth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Dapatkan akses atas nama pengguna dan izin yang didelegasikan](https://docs.microsoft.com/graph/auth-v2-user) 
+- [Azure AD v2.0 - alur kode otorisasi OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
 - [Dapatkan akses tanpa pengguna (layanan daemon) dan izin aplikasi](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0-aliran kredensial klien 2,0 OAuth](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Azure AD v2.0 - alur kredensial klien OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**kesalahan terlarang 403: mereset kata sandi**
+**Kesalahan terlarang 403: Mengatur ulang kata sandi**
 
-Saat ini, tidak ada izin layanan daemon izin aplikasi ke layanan yang memperbolehkan mereset kata sandi pengguna. Api ini hanya didukung menggunakan alur kode delegasi interaktif dengan administrator masuk. Untuk informasi selengkapnya, lihat [izin Microsoft graph](https://docs.microsoft.com/graph/permissions-reference).
+Saat ini, tidak ada izin layanan-ke-layanan daemon izin aplikasi yang mengizinkan pengaturan ulang kata sandi pengguna. API ini hanya didukung menggunakan alur kode interaktif yang didelegasikan dengan administrator yang masuk. Untuk informasi selengkapnya, lihat [izin Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 dilarang: Apakah pengguna memiliki akses dan apakah mereka memiliki lisensi?**
+**Terlarang 403: Apakah pengguna memiliki akses dan apakah dilisensikan?**
 
-Untuk alur kode terdelegasi, Microsoft graph mengevaluasi apakah permintaan telah diizinkan berdasarkan izin yang diberikan kepada aplikasi dan izin yang dimiliki pengguna yang masuk. Secara umum, kesalahan ini menunjukkan bahwa pengguna tidak cukup istimewa untuk melakukan permintaan **atau** pengguna tidak dilisensikan untuk data yang sedang diakses. Hanya pengguna dengan izin atau lisensi yang diperlukan yang dapat membuat permintaan berhasil.
+Untuk alur kode yang didelegasikan, Microsoft Graph mengevaluasi apakah permintaan telah diizinkan berdasarkan izin yang diberikan ke aplikasi dan izin yang dimiliki pengguna yang masuk. Secara umum, kesalahan ini menunjukkan bahwa pengguna tidak memiliki hak istimewa untuk melakukan permintaan **atau** pengguna tidak dilisensikan untuk data yang diakses. Hanya pengguna dengan izin atau lisensi yang diperlukan yang dapat membuat permintaan berhasil.
 
-**403 dilarang: Apakah Anda memilih API sumber daya yang benar?**
+**Terlarang 403: Apakah Anda memilih API sumber daya yang benar?**
 
-Layanan API seperti Microsoft graph memeriksa bahwa klaim *AUD* (audiens) dalam token akses diterima sesuai dengan nilai yang diharapkan untuk dirinya sendiri, dan jika tidak, terjadi kesalahan 403 Forbidden. Kesalahan umum yang mengakibatkan kesalahan ini mencoba menggunakan token yang diperoleh untuk api Azure AD graph, api Outlook, atau SharePoint/OneDrive api untuk memanggil Microsoft graph (atau sebaliknya). Pastikan bahwa sumber daya (atau lingkup) yang diperoleh aplikasi Anda untuk mendapatkan token sesuai dengan API yang sedang dihubungi aplikasi.
+Layanan API seperti Microsoft Graph memeriksa klaim *aud* (audiens) di token akses yang diterima cocok dengan nilai yang diharapkannya, dan jika tidak, Kesalahan terlarang 403 terjadi. Kesalahan umum yang mengakibatkan kesalahan ini adalah mencoba menggunakan token yang diperoleh untuk API Grafik Azure AD, API Outlook, atau API SharePoint/OneDrive untuk menghubungi Microsoft Graph (atau sebaliknya). Pastikan sumber daya (atau lingkup) yang aplikasi Anda memperoleh token cocok dengan API yang dihubungi aplikasi.
 
-**400 Bad request atau 403 Forbidden: Apakah pengguna mematuhi kebijakan conditional Access (CA) organisasi mereka?**
+**Permintaan Buruk 400 atau Terlarang 403: Apakah pengguna mematuhi kebijakan akses bersyarat (CA) organisasinya?**
 
-Berdasarkan kebijakan akses bersyarat (CA) organisasi, pengguna yang mengakses sumber daya Microsoft graph melalui aplikasi Anda mungkin ditantang untuk informasi tambahan yang tidak ada dalam token Access yang diperoleh aplikasi Anda. Dalam kasus ini, aplikasi Anda menerima **400 dengan kesalahan *interaction_required*** selama akuisisi token Access atau **403 dengan kesalahan *insufficient_claims*** saat memanggil Microsoft graph. Dalam kedua kasus, respons kesalahan berisi informasi tambahan yang dapat disajikan ke titik akhir resmi untuk menantang pengguna untuk informasi tambahan (seperti autentikasi multi-faktor atau pendaftaran perangkat).
+Berdasarkan kebijakan akses bersyarat (CA) organisasi, pengguna yang mengakses sumber daya Microsoft Graph melalui aplikasi Anda mungkin akan diminta informasi tambahan yang tidak ada dalam token akses yang awalnya diperoleh aplikasi Anda. Dalam kasus ini, aplikasi Anda menerima **400 dengan kesalahan *interaction_required*** selama proses akuisisi token akses atau **403 dengan kesalahan *insufficient_claims*** ketika menghubungi Microsoft Graph. Dalam kedua kasus, respons kesalahan berisi informasi tambahan yang dapat diberikan pada titik akhir yang sah untuk meminta pengguna informasi tambahan (seperti autentikasi multifaktor atau pendaftaran perangkat).
 
-Untuk informasi lebih lanjut terkait dengan akses bersyarat, lihat:
+Untuk informasi selengkapnya yang terkait dengan akses bersyarat, lihat:
 
 - [Menangani tantangan akses bersyarat menggunakan MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Panduan pengembang untuk akses bersyarat Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Akhir dukungan untuk Azure Active Directory Authentication Library (ADAL) dan AZURE AD GRAPH api (GRAF AAD)_* _
+**_Akhir dukungan untuk Pustaka Autentikasi Azure Active Directory (ADAL) dan API Grafik Azure AD (Grafik AAD)_* _
 
-- Mulai tanggal 30 Juni 2020, kami tidak akan lagi menambahkan fitur baru ke pustaka autentikasi direktori aktif Azure (ADAL) dan Azure AD graph API (Graf AAD). Kami akan terus menyediakan dukungan teknis dan pembaruan keamanan tetapi tidak lagi menyediakan pembaruan fitur.
-- Mulai 30 Juni 2022, kami akan mengakhiri dukungan untuk Graf ADAL dan AAD dan tidak lagi menyediakan dukungan teknis atau pembaruan keamanan.
-    - Aplikasi yang menggunakan ADAL pada versi OS yang sudah ada akan terus berfungsi setelah waktu ini tetapi tidak akan mendapatkan dukungan teknis atau pembaruan keamanan apa pun.
-    - Aplikasi menggunakan grafik AAD setelah waktu ini mungkin tidak lagi menerima respons dari titik akhir Graf AAD.
+- Mulai tanggal 30 Juni 2020, kami tidak akan lagi menambahkan fitur baru ke Pustaka Autentikasi Azure Active Directory (ADAL) dan API Grafik Azure AD (Grafik AAD). Kami akan terus menyediakan dukungan teknis dan pembaruan keamanan, namun tidak akan lagi menyediakan pembaruan fitur.
+- Mulai tanggal 30 Juni 2022, kami akan mengakhiri dukungan untuk ADAL dan Grafik AAD dan tidak akan lagi menyediakan dukungan teknis atau pembaruan keamanan.
+    - Aplikasi yang menggunakan ADAL di versi OS yang sudah ada akan terus berfungsi setelah waktu ini, tetapi tidak akan mendapatkan dukungan teknis atau pembaruan keamanan apa pun.
+    - Aplikasi yang menggunakan Grafik AAD setelah waktu ini mungkin tidak lagi menerima respons dari titik akhir Grafik AAD.
 
 _ *Migrasi ADAL**
 
-Sebaiknya Perbarui ke [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), yang memiliki fitur dan pembaruan keamanan terbaru. Rekomendasi ini dalam konteks Microsoft melakukan migrasi aplikasinya ke MSAL pada batas akhir dukungan. Tujuan migrasi Microsoft Apps ke MSAL adalah memastikan bahwa aplikasi tersebut mendapatkan manfaat dari penyempurnaan fitur dan keamanan yang sedang berlangsung.
+Kami merekomendasikan Anda memperbarui ke [Pustaka Autentikasi Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), yang memiliki fitur dan pembaruan keamanan terbaru. Rekomendasi ini sesuai dengan konteks Microsoft yang melakukan migrasi aplikasinya ke MSAL pada tenggat waktu akhir dukungan. Tujuan migrasi aplikasi Microsoft ke MSAL adalah untuk memastikan bahwa aplikasi mendapatkan manfaat dari penyempurnaan fitur dan keamanan MSAL yang sedang berlangsung.
 
-- [Membaca FAQ ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Pelajari tentang cara melakukan migrasi aplikasi secara per platform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Jika Anda memerlukan bantuan untuk memahami aplikasi mana yang menggunakan ADAL, kami menyarankan agar Anda meninjau semua kode sumber aplikasi Anda, dan jika ada, hubungi vendor perangkat lunak independen (ISVs) atau penyedia aplikasi lainnya. Dukungan Microsoft juga bisa memberi Anda daftar semua aplikasi non-Microsoft ADAL di penyewa Anda.
+- [Baca FAQ ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Pelajari tentang cara melakukan migrasi aplikasi pada basis per platform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Jika memerlukan bantuan untuk memahami aplikasi mana yang menggunakan ADAL, kami menyarankan Anda meninjau semua kode sumber aplikasi, dan jika memungkinkan, hubungi vendor perangkat lunak independen (ISVs) atau penyedia aplikasi. Dukungan Microsoft juga dapat menyediakan daftar semua aplikasi non-Microsoft ADAL di penyewa Anda.
 
-**Migrasi Graf AAD**
+**Migrasi Grafik AAD**
 
-Untuk aplikasi yang menggunakan grafik AAD, ikuti panduan kami untuk melakukan [migrasi aplikasi AZURE AD graph ke Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+Untuk aplikasi yang menggunakan Grafik AAD, ikuti panduan kami untuk [melakukan migrasi aplikasi Grafik Azure AD ke Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Daftar Periksa migrasi kami menyediakan titik mulai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- Portal pendaftaran aplikasi Azure memperlihatkan aplikasi mana yang menggunakan grafik AAD. Kami menyarankan agar Anda meninjau semua kode sumber aplikasi, dan jika ada, hubungi penyedia ISVs atau aplikasi apa pun. Dukungan Microsoft juga bisa memberi Anda informasi tentang semua penggunaan grafik AAD dalam penyewa Anda.
+- [Daftar periksa migrasi kami menyediakan poin memulai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Portal pendaftaran aplikasi Azure Anda memperlihatkan aplikasi mana yang menggunakan Grafik AAD. Kami menyarankan Anda meninjau semua kode sumber aplikasi, dan jika memungkinkan, hubungi semua ISV atau penyedia aplikasi. Dukungan Microsoft juga dapat menyediakan informasi semua penggunaan Grafik AAD di penyewa Anda.
 
  
 
