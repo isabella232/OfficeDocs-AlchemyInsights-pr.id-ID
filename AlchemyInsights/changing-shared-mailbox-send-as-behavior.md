@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793653"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075864"
 ---
 # <a name="changing-shared-mailbox-send-as-behavior"></a>Mengubah kotak surat bersama sebagai perilaku
 
 Secara default, pesan yang dikirim dari kotak surat bersama tidak disimpan ke folder Item Terkirim dari kotak surat bersama. Sebagai gantinya, mereka disimpan ke folder Item Terkirim dari orang yang mengirim pesan.
   
-Jika Anda ingin semua anggota melihat email terkirim, di pusat admin Microsoft 365, Edit detail kotak surat bersama, dan pilih Edit **item terkirim** \> **Edit**.
+Jika Anda ingin semua anggota melihat email terkirim, di pusat admin Microsoft 365, Edit detail kotak surat bersama, dan pilih Edit **item terkirim** \> .
   
-Untuk membaca selengkapnya, lihat [membuat kotak surat bersama](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+Untuk membaca selengkapnya, lihat [mengonfigurasi pengaturan kotak surat bersama](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies).
   
