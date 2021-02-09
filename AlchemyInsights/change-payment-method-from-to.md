@@ -1,30 +1,29 @@
 ---
 title: Mengubah metode pembayaran
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933407"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152597"
 ---
 # <a name="change-payment-method-fromto"></a>Mengubah metode pembayaran dari/ke
 
 1. **Mengubah dari faktur ke kartu kredit atau rekening bank**
 
-    - Saat beralih dari membayar menggunakan faktur ke membayar dengan kartu kredit atau rekening bank, kami membuat langganan baru untuk Anda secara otomatis, memindahkan pengguna ke langganan baru tersebut, kemudian menonaktifkan langganan lama. Jangan khawatir, pengguna Anda tidak akan mengalami gangguan dalam layanan dan semua informasi mereka akan tersedia dalam langganan baru. 
-
-    - Ikuti langkah-langkah terdokumentasi di [Mengubah dari faktur ke kartu kredit atau rekening bank](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Anda tidak dapat secara otomatis mengubah pembayaran dengan faktur menjadi pembayaran dengan metode lain. Sebaliknya, Anda harus [membeli langganan lain](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) yang dibayar dengan kartu kredit atau debit atau rekening bank, [pindahkan semua pengguna ke langganan baru](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription), lalu [batalkan langganan lama](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Mengubah dari kartu kredit atau rekening bank ke faktur**
 
@@ -32,6 +31,6 @@ ms.locfileid: "43933407"
 
     - Jika kuantitas pesanan terlalu tinggi, pemeriksaan kredit mungkin diperlukan. Jika demikian, Anda akan melihat pesan "Tidak memenuhi syarat untuk mengubah ke faktur. Pesanan Anda memerlukan pemeriksaan kredit". Dalam hal ini, Anda beralih untuk membayar dengan faktur secara manual.
 
-    - Ikuti langkah-langkah terdokumentasi [Mengubah kartu kredit atau rekening bank ke faktur](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) untuk menyelesaikan perubahan manual.
+    - Ikuti langkah-langkah di [Bagaimana cara mengubah pembayaran dengan kartu kredit menjadi faktur?](how-do-i-change-from-credit-card-payments-to-invoice.md) untuk menyelesaikan perubahan manual.
 
-Untuk informasi selengkapnya, lihat [Mengubah metode pembayaran Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Untuk informasi selengkapnya, lihat [Cara membayar langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
