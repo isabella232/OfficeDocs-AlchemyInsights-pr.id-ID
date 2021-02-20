@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 9476b3a4cd38879fa4c4000d3ba603fbb4cc6bff
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692601"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291759"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>Buat Tim berskala organisasi yang mencakup semua orang dalam organisasi Anda
 
 Anda mungkin dapat membuat Tim yang mencakup semua anggota perusahaan atau organisasi Anda, yang disebut juga sebagai [Tim berskala organisasi](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Apakah organisasi Anda memiliki **kurang daripada 5000 pengguna**? Saat ini, tim berskala organisasi hanya untuk organisasi dengan 5000 pengguna atau lebih sedikit. Kami berusaha untuk meningkatkan batas ini di masa mendatang.
+- Apakah organisasi Anda memiliki **kurang dari 10.000 pengguna**? Saat ini, tim di tingkat organisasi dibatasi hanya untuk organisasi dengan 10.000 pengguna atau kurang. Kami berusaha untuk meningkatkan batas ini di masa mendatang.
 
 - Tim berskala organisasi **saat ini tidak tersedia** untuk **Teams untuk Pendidikan**.
 
