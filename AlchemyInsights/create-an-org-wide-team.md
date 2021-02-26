@@ -23,7 +23,7 @@ ms.locfileid: "50291759"
 
 Anda mungkin dapat membuat Tim yang mencakup semua anggota perusahaan atau organisasi Anda, yang disebut juga sebagai [Tim berskala organisasi](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- Apakah organisasi Anda memiliki **kurang dari 10.000 pengguna**? Saat ini, tim di tingkat organisasi dibatasi hanya untuk organisasi dengan 10.000 pengguna atau kurang. Kami berusaha untuk meningkatkan batas ini di masa mendatang.
+- Apakah organisasi Anda memiliki **kurang dari 10.000 pengguna**? Saat ini, tim di berskala organisasi dibatasi untuk organisasi dengan 10.000 pengguna atau kurang. Kami berusaha untuk meningkatkan batas ini di masa mendatang.
 
 - Tim berskala organisasi **saat ini tidak tersedia** untuk **Teams untuk Pendidikan**.
 

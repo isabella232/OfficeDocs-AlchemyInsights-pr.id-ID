@@ -1,5 +1,5 @@
 ---
-title: Bantuan dengan Kehadiran di Microsoft Teams
+title: Bantuan terkait Kehadiran di Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -20,12 +20,12 @@ ms.contentlocale: id-ID
 ms.lasthandoff: 02/18/2021
 ms.locfileid: "50291723"
 ---
-# <a name="help-with-presence-in-microsoft-teams"></a>Bantuan dengan Kehadiran di Microsoft Teams
+# <a name="help-with-presence-in-microsoft-teams"></a>Bantuan terkait Kehadiran di Microsoft Teams
 
 Kehadiran adalah bagian dari profil pengguna di Microsoft Teams (dan di seluruh Microsoft 365 atau Office 365). 
 
-Status kehadiran Anda saat ini berubah menjadi **Tidak Di Tempat**  ketika mengunci komputer atau ketika memasuki mode diam atau tidur. Di perangkat seluler, status kehadiran Anda berubah menjadi **Tidak Di Tempat**  setiap kali aplikasi Teams berjalan di latar belakang. Jika status kehadiran tidak terlihat di Teams setelah Anda keluar dari mode diam, pastikan bahwa Anda memiliki versi terbaru Teams dan tunggu selama 3 menit hingga status diperbarui. Untuk informasi selengkapnya, lihat [Status kehadiran aktual Anda tidak tercermin dalam Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
+Status kehadiran Anda saat ini berubah menjadi **Tidak Di Tempat** ketika Anda mengunci komputer atau ketika komputer memasuki mode diam atau tidur. Di perangkat seluler, status kehadiran Anda berubah menjadi **Tidak Di Tempat** setiap kali aplikasi Teams berjalan di latar belakang. Jika status kehadiran tidak terlihat di Teams setelah Anda keluar dari status diam, pastikan bahwa Anda memiliki versi terbaru Teams dan tunggu selama 3 menit hingga status diperbarui. Untuk informasi selengkapnya, lihat [Status kehadiran aktual Anda tidak terlihat di Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
 
-Jika status kontak ditampilkan sebagai tidak diketahui, ikuti langkah-langkah https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown untuk mengatasi masalah.
+Jika status kontak ditampilkan sebagai tidak diketahui, ikuti langkah-langkah di https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown untuk mengatasi masalah.
 Untuk informasi selengkapnya tentang status kehadiran, lihat [Kehadiran pengguna di Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
 
