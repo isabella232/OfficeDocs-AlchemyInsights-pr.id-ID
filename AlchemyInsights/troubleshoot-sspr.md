@@ -1,0 +1,52 @@
+---
+title: Memecahkan masalah SSID
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: id-ID
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430211"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="c0a03-102">Memecahkan masalah SSID</span><span class="sxs-lookup"><span data-stu-id="c0a03-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="c0a03-103">**Saya mengalami masalah saat mengonfigurasi penyetelan ulang kata sandi**</span><span class="sxs-lookup"><span data-stu-id="c0a03-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="c0a03-104">Jika Anda administrator dan mencari cara untuk mengaktifkan penyetelan ulang kata sandi layanan mandiri, lihat [tutorial mengaktifkan SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), untuk mengonfigurasi pengaturan ulang kata sandi untuk organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="c0a03-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="c0a03-105">Anda mungkin juga ingin meninjau [persyaratan lisensi](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="c0a03-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="c0a03-106">Anda harus memiliki setidaknya satu lisensi yang ditetapkan di organisasi Anda.</span><span class="sxs-lookup"><span data-stu-id="c0a03-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="c0a03-107">**Pengguna awan saja** -SKU Office 365 (O365) berbayar apa pun, atau Azure AD Basic</span><span class="sxs-lookup"><span data-stu-id="c0a03-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="c0a03-108">**Pengguna awan dan/atau di** tempat-Azure AD Premium P1 atau P2, mobilitas perusahaan + keamanan (EMS), atau mengamankan perusahaan produktif (SPE)</span><span class="sxs-lookup"><span data-stu-id="c0a03-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="c0a03-109">Untuk pertanyaan tambahan tentang pengaturan ulang kata sandi layanan mandiri, Tinjau [tanya jawab umum kami](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="c0a03-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="c0a03-110">**Saya mendapatkan pesan kesalahan**</span><span class="sxs-lookup"><span data-stu-id="c0a03-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="c0a03-111">Tinjau artikel ini untuk menemukan kesalahan umum dan solusinya: [memecahkan masalah penyetelan ulang kata sandi layanan mandiri](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="c0a03-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="c0a03-112">**Saya mengalami masalah dengan kebijakan penyetelan ulang kata sandi**</span><span class="sxs-lookup"><span data-stu-id="c0a03-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="c0a03-113">Jika kebijakan penyetelan ulang kata sandi tidak sesuai harapan, atau jika Anda memiliki pertanyaan tentang kebijakan penyetelan ulang kata sandi, lihat artikel ini: [kebijakan dan pembatasan kata sandi di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="c0a03-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="c0a03-114">Kebijakan penyetelan ulang kata sandi tidak berlaku untuk administrator.</span><span class="sxs-lookup"><span data-stu-id="c0a03-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="c0a03-115">Microsoft memberlakukan kebijakan penyetelan ulang kata sandi default yang kuat untuk setiap peran administrator Azure.</span><span class="sxs-lookup"><span data-stu-id="c0a03-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="c0a03-116">Pastikan bahwa Anda menguji dengan pengguna yang bukan administrator.</span><span class="sxs-lookup"><span data-stu-id="c0a03-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="c0a03-117">Untuk informasi selengkapnya tentang kebijakan tata ulang administrator, lihat artikel ini: [perbedaan kebijakan penyetelan ulang administrator](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span><span class="sxs-lookup"><span data-stu-id="c0a03-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="c0a03-118">**Saya tidak ingin pengguna saya mendaftarkan Info keamanan tambahan untuk mereset kata sandi**</span><span class="sxs-lookup"><span data-stu-id="c0a03-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="c0a03-119">Anda bisa melakukan pra-isi data (email dan atribut telepon) untuk pengguna Anda menggunakan API, PowerShell, atau Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="c0a03-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="c0a03-120">Untuk mempelajari cara baca:</span><span class="sxs-lookup"><span data-stu-id="c0a03-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="c0a03-121">Menyebarkan penyetelan ulang kata sandi tanpa mengharuskan pengguna untuk mendaftar</span><span class="sxs-lookup"><span data-stu-id="c0a03-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="c0a03-122">Data apa yang digunakan oleh reset kata sandi</span><span class="sxs-lookup"><span data-stu-id="c0a03-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="c0a03-123">**Saya ingin pengguna saya mendaftarkan Info keamanan tambahan untuk mereset kata sandi**</span><span class="sxs-lookup"><span data-stu-id="c0a03-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="c0a03-124">Minta pengguna Anda mendaftarkan Info keamanannya untuk pengaturan ulang kata sandi layanan mandiri dengan mengarahkan mereka ke [AKA.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span><span class="sxs-lookup"><span data-stu-id="c0a03-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="c0a03-125">Setelah data diisi untuk pengguna (oleh pengguna atau oleh admin), arahkan pengguna Anda ke [AKA.ms/sspr](https://passwordreset.microsoftonline.com/) sehingga pengguna Anda dapat diberdayakan untuk mereset kata sandi mereka sendiri.</span><span class="sxs-lookup"><span data-stu-id="c0a03-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="c0a03-126">Jika pengguna masih mengalami masalah, **kemungkinan besar pengguna menggabungkan atau** **hash kata sandi** .</span><span class="sxs-lookup"><span data-stu-id="c0a03-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="c0a03-127">Ini berarti kemungkinan ada masalah dengan layanan tulis balik kata sandi.</span><span class="sxs-lookup"><span data-stu-id="c0a03-127">This means there is likely a problem with the Password Writeback service.</span></span>
