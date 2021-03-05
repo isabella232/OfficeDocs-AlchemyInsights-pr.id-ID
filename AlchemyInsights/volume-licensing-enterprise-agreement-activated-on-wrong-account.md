@@ -2,8 +2,7 @@
 title: Perjanjian Enterprise lisensi Borongan diaktifkan pada akun yang salah
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726129"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468909"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="202d5-102">Perjanjian Enterprise lisensi Borongan diaktifkan pada akun yang salah atau mentransfer lisensi dari satu akun ke akun lainnya</span><span class="sxs-lookup"><span data-stu-id="202d5-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="6c635-102">Perjanjian Enterprise lisensi Borongan diaktifkan pada akun yang salah atau mentransfer lisensi dari satu akun ke akun lainnya</span><span class="sxs-lookup"><span data-stu-id="6c635-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="202d5-103">Jika Anda menemukan langganan yang dibeli melalui **perjanjian perusahaan lisensi Borongan** telah diaktifkan pada **penyewa yang salah**, atau Anda ingin **mentransfer lisensi** dari satu penyewa ke yang lainnya, silakan hubungi [pusat layanan lisensi volume Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span><span class="sxs-lookup"><span data-stu-id="202d5-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
+<span data-ttu-id="6c635-103">Jika Anda menemukan langganan yang dibeli melalui **perjanjian perusahaan lisensi Borongan** telah diaktifkan pada **penyewa yang salah**, atau Anda ingin **mentransfer lisensi** dari satu penyewa ke yang lainnya, [Hubungi dukungan](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="6c635-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
