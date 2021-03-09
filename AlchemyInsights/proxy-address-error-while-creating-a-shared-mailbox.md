@@ -12,18 +12,22 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: 368241a08b6bd1b5eeaf6e5c59ac68e27f761a46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab491e883ab294f08d0b5d2e686dc059b468d29f
+ms.sourcegitcommit: bd6a9cb5d357baee5134c0dea430afc2a035c810
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768430"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50568293"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>Kesalahan alamat proksi saat membuat kotak surat bersama
+# <a name="proxy-address-error-while-creating-a-mailbox-or-other-email-enabled-object"></a>Kesalahan alamat proksi saat membuat kotak surat atau objek diaktifkan email lainnya
 
-Jika Anda mencoba membuat kotak surat bersama dan menerima kesalahan ini "alamat proksi" SMTP:alias@domain.com "sudah digunakan...", alamat email yang Anda pilih sudah diambil oleh kotak surat lain di organisasi Anda.
+Jika Anda mencoba membuat objek yang didukung email (kotak surat, kotak surat bersama, dsb.) dan menerima kesalahan "alamat proksi" SMTP:alias@domain.com "sudah digunakan...", alamat email yang Anda pilih sudah diambil oleh objek yang didukung email lain di organisasi Anda.
   
-Anda perlu menemukan pengguna, grup, atau kotak surat bersama yang memiliki alamat email ini dan menghapusnya atau mengubah alamat emailnya. Lalu Anda dapat membuat kotak surat bersama dengan alamat email yang dibebaskan. Gunakan pencarian di halaman Beranda untuk menemukannya.
+Anda perlu menemukan pengguna, grup, kotak surat bersama atau folder publik yang memiliki alamat email ini dan menghapusnya atau mengubah alamat emailnya. Lalu Anda dapat membuat objek yang didukung email baru dengan alamat email yang dibebaskan. Gunakan pencarian di halaman Beranda untuk menemukannya. Anda juga dapat menggunakan perintah Exchange Online PowerShell berikut ini untuk mencarinya:
+
+`
+    Get-EXORecipient -Filter "EmailAddresses -eq 'email@contoso.onmicrosoft.com'"
+`
   
-Jika Anda tidak ingin menghapus alamat email yang sudah ada, pilih alamat email baru untuk kotak surat bersama Anda.
+Jika Anda tidak ingin menghapus alamat email yang sudah ada, pilih alamat email baru untuk objek baru yang Anda buat.
   
