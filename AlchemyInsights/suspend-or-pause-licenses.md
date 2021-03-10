@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470009"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600989"
 ---
 # <a name="suspend-or-pause-licenses"></a>Menangguhkan atau menjeda lisensi
 
@@ -32,4 +31,4 @@ Untuk menangguhkan atau menjeda penggunaan lisensi Anda untuk sementara waktu, A
 4. Pada halaman detail langganan, pilih **Hapus lisensi**.
 5. Di panel **Hapus lisensi** , dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini, lalu pilih **Simpan**. Misalnya, jika Anda memiliki 100 lisensi dan ingin menangguhkan atau menjeda 25, maka masukkan 75 sebagai lisensi total untuk langganan Anda.
 
-Untuk informasi selengkapnya, lihat [membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Untuk informasi selengkapnya, lihat [Membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
