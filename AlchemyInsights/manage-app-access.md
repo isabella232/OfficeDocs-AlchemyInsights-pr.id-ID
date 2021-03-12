@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014866"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708317"
 ---
 # <a name="manage-application-access"></a>Mengelola akses aplikasi
 
@@ -26,7 +26,7 @@ ms.locfileid: "50014866"
     - Untuk menetapkan satu atau beberapa pengguna ke aplikasi secara langsung, lihat [mulai cepat: menetapkan pengguna ke aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
 1. Untuk mengelola akses melalui izin dan persetujuan, lihat
     - [Mengonfigurasi cara pengguna akhir menyetujui aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal). 
-    - [Mengonfigurasi alur kerja izin admin (pratinjau)](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow). 
+    - [Mengonfigurasi alur kerja izin admin (pratinjau)](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow). 
     - Untuk mempelajari cara menyederhanakan pengalaman pengguna dengan memberikan izin admin penyewa-lebar ke aplikasi, lihat [memberikan izin admin penyewa-lebar pada aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent). 
 1. Untuk mengelola akses ke aplikasi melalui pembatasan penyewa, lihat [menggunakan pembatasan penyewa untuk mengelola akses ke aplikasi Cloud SaaS](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions). 
 1. Memecahkan masalah [manajemen Access](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)Office 365.

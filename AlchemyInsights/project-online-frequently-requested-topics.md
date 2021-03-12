@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 610f5b28bd557a67d45e85714d93e7074760452c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 847cfa73c98905dbd87004ea51b5005c59298545
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801691"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708137"
 ---
 # <a name="project-online-frequently-requested-topics"></a>Topik yang sering diminta Project online
 
@@ -26,7 +26,7 @@ Berikut adalah beberapa topik yang sering diminta dengan Project:
 
 Berikut adalah topik yang sering diminta untuk Project:
 1.  Memulai: 
-    -   [Mulai menggunakan Project online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [Mulai menggunakan Project online](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
     -   [Dokumentasi admin Project online](https://docs.microsoft.com/projectonline/project-online) 
     -   [Project online: batas dan batasan perangkat lunak](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
 2.  [Tambahkan orang, grup, dan sumber daya, lalu bagikan Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 

@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 641702f433c7b2d96198154500393b66e20e65c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736543"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708209"
 ---
 # <a name="id-like-to-sign-up-for-teams-for-free"></a>Saya ingin mendaftar ke teams secara gratis
 
 Tim tersedia secara gratis melalui beberapa program yang berbeda. Karena Anda menghubungi dukungan dengan permintaan ini, Anda sudah memiliki penyewa Microsoft 365 yang sudah ada, yang berarti Anda sudah memiliki Microsoft teams.
 
-Biasanya, teams diaktifkan secara default untuk semua pengguna Anda. Setelah diaktifkan, pengguna Anda dapat menjalankan teams, baik dengan menginstal klien [desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   dan [seluler](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) , atau [dari browser](https://docs.microsoft.com/MicrosoftTeams/get-clients#web-client)   di <https://teams.microsoft.com.>
+Biasanya, teams diaktifkan secara default untuk semua pengguna Anda. Setelah diaktifkan, pengguna Anda dapat menjalankan teams, baik dengan menginstal klien [desktop](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   dan [seluler](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) , atau [dari browser](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)   di [Microsoft teams](https://www.microsoft.com/microsoft-teams/teams-for-work).
 
 Pengecualian untuk ini adalah Microsoft teams untuk pendidikan (EDU). Jika memiliki lisensi EDU, Anda harus mengaktifkan Microsoft teams secara manual. Untuk melakukannya, masuk ke Pusat admin Microsoft 365 **> dan Add-in > Microsoft teams**. Jika Anda menggunakan pusat admin teams baru, Anda harus menonaktifkan **coba Pusat admin baru**   untuk menemukan **layanan dan Add-in**. PENTING: Anda mungkin harus menunggu hingga 24 jam agar perubahan dapat diterapkan.
 
