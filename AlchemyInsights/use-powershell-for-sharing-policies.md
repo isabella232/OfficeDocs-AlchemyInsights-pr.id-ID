@@ -1,30 +1,31 @@
 ---
-title: Menggunakan PowerShell untuk berbagi kebijakan dan relasi organisasi
+title: Menggunakan Windows PowerShell untuk kebijakan Berbagi dan hubungan Organisasi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862089"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709469"
 ---
-# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Menggunakan PowerShell untuk berbagi kebijakan dan relasi organisasi
+# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Menggunakan Windows PowerShell untuk kebijakan Berbagi dan hubungan Organisasi
 
 
-Untuk hubungan organisasi silakan Tinjau informasi rinci sintaks dan parameter untuk: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship) dan [Hapus-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
+Untuk hubungan Organisasi, tinjau detail informasi sintaksis dan parameter mendetail untuk: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship)  DAN  [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
 
-Untuk membuat kebijakan berbagi menggunakan [baru-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Untuk [menerapkan kebijakan berbagi ke kotak pesan atau pengguna](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy%23use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes) , Anda harus menggunakan kombinasi [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) dan [Get-kotak surat](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) dengan kebijakan yang baru dibuat. Untuk [mengubah, menonaktifkan atau menghapus kebijakan berbagi](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy) Anda perlu menggunakan [set-sharingpolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) dan [Hapus-sharingpolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
+Untuk membuat kebijakan berbagi, gunakan [New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Untuk  [menerapkan kebijakan berbagi ke kotak surat atau pengguna](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy#use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes),  Anda perlu menggunakan kombinasi  [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) dan [Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) dengan kebijakan yang baru dibuat. Untuk  [mengubah, menonaktifkan, atau menghapus kebijakan berbagi](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy),  Anda perlu menggunakan  [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) dan [Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
 
-**Untuk pemahaman penuh tentang topik ini silahkan baca:**
+**Untuk pemahaman menyeluruh tentang topik ini, silakan baca:**
 
 [Berbagi di Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)

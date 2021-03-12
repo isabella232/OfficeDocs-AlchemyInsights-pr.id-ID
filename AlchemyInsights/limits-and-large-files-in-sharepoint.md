@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 568ac18e98e49524832c144164c2fef7915f73bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675769"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709181"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>File yang tidak dapat diunggah ke SharePoint online
 
@@ -29,6 +29,6 @@ Jika file tidak dapat diunggah ke SharePoint online, pastikan:
     
 - Nama file tidak berisi karakter " \* : \< \> ? / \ | dan tidak ada dalam daftar [nama yang tidak valid](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Jika Anda mencoba mengunggah file menggunakan aplikasi desktop OneDrive, lihat [pembatasan dan keterbatasan saat Anda menyinkronkan file dan folder](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) atau [memperbaiki masalah sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Jika Anda mencoba mengunggah file menggunakan aplikasi desktop OneDrive, lihat [pembatasan dan keterbatasan saat Anda menyinkronkan file dan folder](https://go.microsoft.com/fwlink/p/?LinkID=717734) atau [memperbaiki masalah sinkronisasi OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

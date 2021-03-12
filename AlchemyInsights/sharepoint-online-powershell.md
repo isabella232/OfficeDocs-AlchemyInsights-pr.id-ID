@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: d90b60de72cf87a56e3b7f6a792708693f31af00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7580f0e609d21bdc13fc07fda0bfd15bdb7a7ca
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770842"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709073"
 ---
 # <a name="sharepoint-online-powershell"></a>SharePoint online PowerShell
 
@@ -28,6 +28,6 @@ Bekerja dengan PowerShell atau skrip dalam SharePoint online? Kunjungi link di b
 - [SharePoint Patterns and Practices (PNP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) berisi pustaka perintah PowerShell yang memungkinkan Anda melakukan tindakan manajemen KOMPLEKS menuju SPO.
 
 > [!NOTE]
-> - Jika Anda mengalami masalah saat menyambungkan ke shell manajemen SPO, pastikan bahwa Anda telah memperbarui ke versi terbaru dan mencoba [mengimpor ulang modul](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) menggunakan *"modul impor Microsoft. online. SharePoint. PowerShell".*
+> - Jika Anda mengalami masalah saat menyambungkan ke shell manajemen SPO, pastikan bahwa Anda telah memperbarui ke versi terbaru dan mencoba [mengimpor ulang modul](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) menggunakan *"modul impor Microsoft. online. SharePoint. PowerShell".*
 > - Jika Anda mencoba menjalankan skrip objek sisi klien, Anda harus memiliki [SDK komponen klien SharePoint online](https://www.microsoft.com/download/details.aspx?id=42038) yang terinstal di komputer lokal Anda.
 > - Jika Anda mengalami masalah dalam menjalankan skrip dari PowerShell, Anda mungkin ingin mempertimbangkan menjalankan PowerShell sebagai administrator dan mengubah [kebijakan eksekusi](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
