@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746762"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704645"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Membuat kebijakan dan profil Intune
 
@@ -43,4 +43,4 @@ Link yang berguna:
 
 - [Pertanyaan umum, masalah, dan resolusi dengan kebijakan perangkat dan profil di Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Memecahkan masalah kebijakan dan profil di Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Memecahkan masalah kebijakan dan profil di Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

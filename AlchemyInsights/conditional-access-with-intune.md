@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807662"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704789"
 ---
 # <a name="conditional-access-with-intune"></a>Akses bersyarat dengan Intune
 
@@ -30,7 +30,7 @@ Menggunakan  **akses bersyarat**  dengan Intune memerlukan 3 langkah:
 
 [Pemecahan masalah CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Kebijakan pemecahan masalah](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Kebijakan pemecahan masalah](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 Untuk melindungi email (Exchange Online) dari akses dengan perangkat yang tidak patuh, kedua dokumen harus diikuti:
 
