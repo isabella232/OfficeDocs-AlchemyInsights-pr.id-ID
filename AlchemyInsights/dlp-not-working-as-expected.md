@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679696"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707813"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP tidak berfungsi seperti yang diharapkan
 
@@ -28,7 +28,7 @@ ms.locfileid: "47679696"
 
 Apakah Anda mengalami masalah dengan **pencegahan kehilangan data (DLP)** di Office 365 tidak berfungsi seperti yang diharapkan? Jika demikian, pastikan bahwa **kebijakan DLP** Anda disetel dengan benar, dan bahwa data Anda berisi apa yang dicari **kebijakan DLP** saat dievaluasi.
   
-Kebijakan DLP memungkinkan Anda mengidentifikasi dan melindungi informasi sensitif di organisasi Anda. Untuk menyetel kebijakan DLP, gunakan informasi [di sini](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Kebijakan DLP memungkinkan Anda mengidentifikasi dan melindungi informasi sensitif di organisasi Anda. Untuk menyetel kebijakan DLP, gunakan informasi [di sini](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
   
  **Apa yang dicari kebijakan DLP**
   
@@ -44,7 +44,7 @@ Saat menggunakan **tipe informasi sensitif bawaan** di pusat keamanan dan kepatu
 
 **Menguji kebijakan DLP**
 
-Untuk menguji data Anda dengan tipe informasi sensitif bawaan atau kustom, gunakan opsi **tipe uji** di bawah tipe informasi sensitif **klasifikasi**  >  **Sensitive info types**. Untuk informasi selengkapnya, lihat [menguji tipe informasi sensitif kustom](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Untuk menguji data Anda dengan tipe informasi sensitif bawaan atau kustom, gunakan opsi **tipe uji** di bawah tipe informasi sensitif **klasifikasi**  >  . Untuk informasi selengkapnya, lihat [menguji tipe informasi sensitif kustom](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Melaporkan**
   
