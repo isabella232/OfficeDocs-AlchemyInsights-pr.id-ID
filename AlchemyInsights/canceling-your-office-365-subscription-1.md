@@ -2,9 +2,9 @@
 title: Membatalkan langganan Microsoft 365 Anda?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
-ms.audience: Admin
+manager: scotv
+ms.date: ''
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 3d044424282eb03bc1a9469dafac0d9daf365171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757231"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837421"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="e5ab4-102">Membatalkan langganan Microsoft 365 Anda?</span><span class="sxs-lookup"><span data-stu-id="e5ab4-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="1ade4-102">Membatalkan langganan Microsoft 365 Anda?</span><span class="sxs-lookup"><span data-stu-id="1ade4-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="e5ab4-103">Kami minta maaf melihat Anda pergi, tapi berikut adalah opsi Anda untuk membatalkan langganan Anda:</span><span class="sxs-lookup"><span data-stu-id="e5ab4-103">We're sorry to see you go, but here are your options to cancel your subscription:</span></span>
-  
-- <span data-ttu-id="e5ab4-104">**Berdasarkan data organisasi Anda, kami yakin bahwa langganan Anda saat ini adalah langganan percobaan. Tidak perlu secara eksplisit membatalkan langganan percobaan karena langganan percobaan tidak memerlukan pembayaran, dan tidak ada kewajiban setelah percobaan berakhir.**</span><span class="sxs-lookup"><span data-stu-id="e5ab4-104">**Based on your organization data, we believe all your current subscriptions are Trial subscriptions. There is no need to explicitly cancel a Trial subscription because Trial subscriptions require no payments, and there is no obligation after the trial ends.**</span></span>
+<span data-ttu-id="1ade4-103">Kami minta maaf melihat Anda pergi, berikut adalah langkah-langkah untuk membatalkan langganan Anda:</span><span class="sxs-lookup"><span data-stu-id="1ade4-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-- <span data-ttu-id="e5ab4-105">Untuk mempelajari selengkapnya tentang membatalkan langganan, atau untuk instruksi langkah demi langkah, lihat artikel ini: [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span><span class="sxs-lookup"><span data-stu-id="e5ab4-105">To learn more about canceling a subscription, or for step-by-step instructions, see this article: [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)</span></span>
+1. <span data-ttu-id="1ade4-104">Di pusat admin, **masuk ke**  >  halaman **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , lalu pilih tab **produk** .</span><span class="sxs-lookup"><span data-stu-id="1ade4-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="1ade4-105">Temukan langganan yang ingin Anda batalkan.</span><span class="sxs-lookup"><span data-stu-id="1ade4-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="1ade4-106">Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.</span><span class="sxs-lookup"><span data-stu-id="1ade4-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="1ade4-107">Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan.</span><span class="sxs-lookup"><span data-stu-id="1ade4-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="1ade4-108">Secara opsional, Berikan umpan balik.</span><span class="sxs-lookup"><span data-stu-id="1ade4-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="1ade4-109">Pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="1ade4-109">Select **Save**.</span></span>
+
+<span data-ttu-id="1ade4-110">Untuk mempelajari selengkapnya tentang membatalkan langganan, atau opsi, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="1ade4-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
