@@ -3,7 +3,7 @@ title: Membatalkan langganan Anda?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348668"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837385"
 ---
 # <a name="canceling-your-subscription"></a>Membatalkan langganan Anda?
 
 Kami minta maaf melihat Anda pergi, tapi jika Anda ingin membatalkan langganan Anda, berikut adalah opsi Anda:
   
-- Jika Anda adalah pelanggan percobaan, tidak ada yang dapat dibatalkan. Langganan uji coba akan kedaluwarsa secara otomatis kecuali Anda menyediakan metode pembayaran.
-- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda bisa membatalkan langganan Anda secara online. Masuk ke halaman **tagihan** \> [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) , dan temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda bisa membatalkan langganan Anda secara online. Masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , dan temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
 - Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan untuk pengguna, [Hubungi dukungan untuk membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
 **Pengembalian dana: kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.**
