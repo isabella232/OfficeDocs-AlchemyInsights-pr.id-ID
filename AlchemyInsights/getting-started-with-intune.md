@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706346"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897086"
 ---
 # <a name="getting-started-with-intune"></a>Mulai menggunakan Intune
 
-Untuk tur cepat Intune dan konsol admin, lihat [panduan Intune di portal Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Untuk tur cepat Intune dan konsol admin, lihat [panduan Intune di portal Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
 
 Jika Anda ingin mencoba Intune atau menyiapkan percobaan, Tinjau [mulai cepat: Coba Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Jika Anda sudah memiliki Intune dan siap untuk mulai menggunakannya, Tinjau panduan [menyiapkan Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) kami. 
+Jika Anda siap untuk mulai menggunakan Intune, Tinjau [Siapkan Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Untuk pengalaman penyetelan Berpanduan, lihat [panduan penyetelan Intune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).
