@@ -1,29 +1,31 @@
 ---
-title: Masalah dengan mesin onboarding
+title: Masalah dengan komputer onboarding hingga Pertahanan Microsoft untuk Titik Akhir
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141652"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901570"
 ---
-# <a name="issues-with-onboarding-machines"></a>Masalah dengan mesin onboarding
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Masalah dengan komputer onboarding hingga Pertahanan Microsoft untuk Titik Akhir
 
-Anda mungkin memiliki masalah dengan mesin onboarding untuk layanan MDATP. Jika Anda dapat mengakses mesin pengguna akhir, ikuti langkah berikut:
+Anda mungkin mengalami masalah dengan komputer onboarding hingga layanan MDE. Jika Anda dapat mengakses komputer pengguna akhir, ikuti langkah-langkah ini:
 
-1. Unduh alat diagnostik [Penganalisis konektivitas klien](https://aka.ms/mdatpanalyzer) .
-2. Ekstrak dan jalankan MDATPAnalyzer. CMD.
-3. Temukan log diagnostik di folder yang disebut MDATPClientAnalyzerResult, folder yang sama di mana alat Analyzer diunduh.
-4. Tinjau file log, MDATPClientAnalyzer.txt, untuk menemukan masalah konektivitas atau pengaturan proxy Internet.
+1. Unduh versi pratinjau terbaru alat diagnosis [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) Anda.
+2. Klik kanan **MDEClientAnalyzer.cmd** dan pilih ‘Jalankan sebagai administrator’.
+3. Ikuti semua panduan yang disarankan di **MDEClientAnalyzer.htm**.
+4. Untuk log verbose lainnya, tinjau sub folder yang dibuat bernama **MDEClientAnalyzerResult**.
+5. Jika perlu panduan yang lain, hubungi [dukungan Pertahanan Microsoft untuk Titik Akhir](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) dan sediakan file MDEClientAnalyzerResult.zip yang dihasilkan untuk analisis.
