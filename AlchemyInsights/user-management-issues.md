@@ -1,0 +1,57 @@
+---
+title: Masalah manajemen pengguna
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9209"
+- "9005371"
+ms.openlocfilehash: 4b61686381de0cafa38857ca7a96b3a81aa191ec
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: id-ID
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51036284"
+---
+# <a name="user-management-issues"></a><span data-ttu-id="f92fc-102">Masalah manajemen pengguna</span><span class="sxs-lookup"><span data-stu-id="f92fc-102">User management issues</span></span>
+
+<span data-ttu-id="f92fc-103">**Apa yang terjadi pada pengguna yang ditetapkan saat ini ke aplikasi jika saya menonaktifkan ' penetapan pengguna yang diperlukan ' (Atur properti ini ke tidak)?**</span><span class="sxs-lookup"><span data-stu-id="f92fc-103">**What happens to current assigned users to the application if I disable the property ‘User assignment required’ (set this property to No)?**</span></span>
+
+<span data-ttu-id="f92fc-104">Penonaktifan **penetapan pengguna yang diperlukan** tidak mempengaruhi pengguna yang saat ini ditetapkan.</span><span class="sxs-lookup"><span data-stu-id="f92fc-104">Disabling **User assignment required** does NOT affect the currently assigned users.</span></span> <span data-ttu-id="f92fc-105">Menonaktifkan properti ini hanya akan memperbolehkan semua pengguna mengakses aplikasi.</span><span class="sxs-lookup"><span data-stu-id="f92fc-105">Disabling this property will only allow all users to access the application.</span></span> <span data-ttu-id="f92fc-106">Semua pengguna yang tercantum dan pengguna yang ditetapkan ke grup dalam aplikasi masih valid.</span><span class="sxs-lookup"><span data-stu-id="f92fc-106">All the listed users and those users assigned to groups in the application will still be valid.</span></span>
+
+- <span data-ttu-id="f92fc-107">Untuk membatasi aplikasi Anda ke kumpulan pengguna tertentu, lihat- [membatasi aplikasi AZURE AD ke sekumpulan pengguna-platform Microsoft Identity | Dokumen Microsoft](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span><span class="sxs-lookup"><span data-stu-id="f92fc-107">To restrict your app to specific set of users, see - [Restrict Azure AD app to a set of users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span></span>
+- <span data-ttu-id="f92fc-108">Untuk menetapkan pengguna dan grup, ke aplikasi perusahaan di Azure Active Directory (Azure AD), baik dari dalam portal Azure atau dengan menggunakan PowerShell, lihat [mengelola penetapan pengguna untuk aplikasi di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span><span class="sxs-lookup"><span data-stu-id="f92fc-108">To assign users and groups, to enterprise applications in Azure Active Directory (Azure AD), either from within the Azure portal or by using PowerShell, see [Manage user assignment for an app in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span></span>
+- <span data-ttu-id="f92fc-109">Untuk mendelegasikan izin pembuatan dan manajemen aplikasi, lihat [mendelegasikan izin administrator manajemen aplikasi-AZURE AD | Dokumen Microsoft](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span><span class="sxs-lookup"><span data-stu-id="f92fc-109">To delegate Application creation and management permissions, see [Delegate application management administrator permissions - Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span></span>
+- <span data-ttu-id="f92fc-110">**Sembunyikan aplikasi perusahaan tertentu dari pengguna** -gunakan langkah-langkah berikut ini untuk menyembunyikan semua aplikasi Microsoft 365 dari panel **myapps** .</span><span class="sxs-lookup"><span data-stu-id="f92fc-110">**Hide specific enterprise apps from users** - Use the following steps to hide all Microsoft 365 apps from the **MyApps** panel.</span></span> <span data-ttu-id="f92fc-111">Aplikasi masih akan terlihat di Portal Office 365.</span><span class="sxs-lookup"><span data-stu-id="f92fc-111">The apps will still be visible in the Office 365 portal.</span></span>
+
+ 1. <span data-ttu-id="f92fc-112">Masuk ke Azure Portal sebagai administrator global untuk direktori Anda.</span><span class="sxs-lookup"><span data-stu-id="f92fc-112">Sign-in to the Azure portal as a global administrator for your directory.</span></span> 
+ 2. <span data-ttu-id="f92fc-113">Pilih **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-113">Select **Azure Active Directory**.</span></span> 
+ 3. <span data-ttu-id="f92fc-114">Pilih **pengguna**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-114">Select **Users**.</span></span> 
+ 4. <span data-ttu-id="f92fc-115">Pilih **pengaturan pengguna**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-115">Select **User settings**.</span></span> 
+ 5. <span data-ttu-id="f92fc-116">Di bawah **aplikasi perusahaan**, klik **Kelola bagaimana pengguna akhir meluncurkan dan menampilkan aplikasinya**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-116">Under **Enterprise applications**, click **Manage how end users launch and view their applications**.</span></span> 
+ 6. <span data-ttu-id="f92fc-117">Untuk **pengguna hanya bisa melihat aplikasi office 365 di portal office 365**, klik **ya**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-117">For **Users can only see Office 365 apps in the Office 365 portal**, click **Yes**.</span></span> 
+ 7. <span data-ttu-id="f92fc-118">Klik **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-118">Click **Save**.</span></span> 
+ 8. <span data-ttu-id="f92fc-119">Untuk detail selengkapnya, lihat [menyembunyikan aplikasi perusahaan dari pengalaman pengguna di AZURE AD | Dokumen Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span><span class="sxs-lookup"><span data-stu-id="f92fc-119">For more details, see [Hide an Enterprise application from user's experience in Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span></span>
+
+- <span data-ttu-id="f92fc-120">Jika Anda menawarkan aplikasi perangkat lunak sebagai layanan (SaaS) ke banyak organisasi, Anda bisa mengonfigurasi aplikasi Anda untuk menerima masuk dari penyewa Azure Active Directory (Azure AD) apa pun.</span><span class="sxs-lookup"><span data-stu-id="f92fc-120">If you offer a Software as a Service (SaaS) app to many organizations, you can configure your app to accept sign-ins from any Azure Active Directory (Azure AD) tenant.</span></span> <span data-ttu-id="f92fc-121">Konfigurasi ini disebut "membuat multi-penyewa aplikasi Anda".</span><span class="sxs-lookup"><span data-stu-id="f92fc-121">This configuration is called "making your application multi-tenant".</span></span> <span data-ttu-id="f92fc-122">Pengguna dalam penyewa Azure AD akan bisa masuk ke aplikasi Anda setelah setuju untuk menggunakan akunnya dengan aplikasi Anda.</span><span class="sxs-lookup"><span data-stu-id="f92fc-122">Users in any Azure AD tenant will be able to sign-in to your app after consenting to use their account with your app.</span></span> <span data-ttu-id="f92fc-123">Untuk informasi selengkapnya, lihat [aplikasi Build yang masuk ke pengguna AZURE AD-platform Microsoft Identity | Dokumen Microsoft](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span><span class="sxs-lookup"><span data-stu-id="f92fc-123">For more information, see [Build apps that sign in Azure AD users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span></span>
+
+- <span data-ttu-id="f92fc-124">**Bagaimana cara pengguna akhir mengakses aplikasi setelah ia ditetapkan ke aplikasi?**</span><span class="sxs-lookup"><span data-stu-id="f92fc-124">**How can an end user access the application once he/she is assigned to the application?**</span></span>
+
+<span data-ttu-id="f92fc-125">Setiap aplikasi di bilah aplikasi perusahaan memiliki link untuk pengguna akhir untuk mengakses.</span><span class="sxs-lookup"><span data-stu-id="f92fc-125">Each app in Enterprise application blade has a link for end users to access.</span></span> <span data-ttu-id="f92fc-126">Pengguna juga bisa mengakses aplikasi melalui portal **Myapps** dengan cara yang mudah.</span><span class="sxs-lookup"><span data-stu-id="f92fc-126">Users can also access the app through **Myapps** portal in an easy way.</span></span>
+
+- <span data-ttu-id="f92fc-127">**Ingin mengetahui aplikasi dan tipe aplikasi mana yang digunakan oleh pengguna?**</span><span class="sxs-lookup"><span data-stu-id="f92fc-127">**Want to know which applications and type of applications are being used by users?**</span></span>
+
+<span data-ttu-id="f92fc-128">Anda dapat mengunduh laporan masuk untuk 30 hari terakhir dari **portal.azure.com > Azure Active directory> pendaftaran> mengunduh laporan**.</span><span class="sxs-lookup"><span data-stu-id="f92fc-128">You can download sign-in reports for the last 30 days from **portal.azure.com > Azure Active directory> Signins> download reports**.</span></span>
+
+- <span data-ttu-id="f92fc-129">Pelajari cara [memberikan izin kepada penyewa yang luas ke aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) dan [mengonfigurasi cara pengguna akhir menyetujui aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span><span class="sxs-lookup"><span data-stu-id="f92fc-129">Learn how to [Grant tenant wide admin consent to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) and [Configure how end users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span></span>
+
+- <span data-ttu-id="f92fc-130">Pahami [cara kerja persetujuan](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) dan [Kelola persetujuan untuk aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span><span class="sxs-lookup"><span data-stu-id="f92fc-130">Understand [how consent works](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) and [Manage consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span></span>
+
+
