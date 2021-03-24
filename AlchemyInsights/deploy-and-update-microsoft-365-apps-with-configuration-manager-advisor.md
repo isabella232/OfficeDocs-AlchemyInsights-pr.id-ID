@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fe3cc8693e41639de590450fc4b678c44bd9e784
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678077"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122882"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="da586-102">Menyebarkan dan memperbarui aplikasi Microsoft 365 dengan penasihat manajer konfigurasi</span><span class="sxs-lookup"><span data-stu-id="da586-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a><span data-ttu-id="c7a1d-102">Menyebarkan dan memperbarui aplikasi Microsoft 365 dengan penasihat manajer konfigurasi</span><span class="sxs-lookup"><span data-stu-id="c7a1d-102">Deploy and update Microsoft 365 apps with Configuration Manager advisor</span></span>
 
-<span data-ttu-id="da586-103">Untuk organisasi yang menggunakan Manajer konfigurasi, Anda bisa menggunakan [aplikasi penyebarluasan dan Pembaruan Microsoft 365 dengan penasihat manajer konfigurasi](https://admin.microsoft.com/adminportal/home#/oppinstall) untuk menghasilkan skrip yang akan mengonfigurasi penggunaan aplikasi Microsoft 365 Anda dengan praktik terbaik yang direkomendasikan oleh teknisi fasttrack.</span><span class="sxs-lookup"><span data-stu-id="da586-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://admin.microsoft.com/adminportal/home#/oppinstall) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
+<span data-ttu-id="c7a1d-103">Untuk organisasi yang menggunakan Manajer konfigurasi, Anda bisa menggunakan [aplikasi penyebarluasan dan Pembaruan Microsoft 365 dengan penasihat manajer konfigurasi](https://go.microsoft.com/fwlink/?linkid=2146549) untuk menghasilkan skrip yang akan mengonfigurasi penggunaan aplikasi Microsoft 365 Anda dengan praktik terbaik yang direkomendasikan oleh teknisi fasttrack.</span><span class="sxs-lookup"><span data-stu-id="c7a1d-103">For organizations using Configuration Manager, you can use the [Deploy and update Microsoft 365 Apps with Configuration Manager advisor](https://go.microsoft.com/fwlink/?linkid=2146549) to generate a script that will automatically configure your Microsoft 365 Apps deployment using best practices recommended by FastTrack engineers.</span></span>
 
-<span data-ttu-id="da586-104">Gunakan panduan ini untuk membuat grup penyebaran, mengkustomisasi aplikasi dan fitur Office Anda, mengonfigurasi penginstalan dinamis atau ramping, lalu menjalankan skrip untuk membuat aplikasi, aturan penerapan otomatis, dan kumpulan perangkat yang diperlukan untuk menargetkan penggunaan.</span><span class="sxs-lookup"><span data-stu-id="da586-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
+<span data-ttu-id="c7a1d-104">Gunakan panduan ini untuk membuat grup penyebaran, mengkustomisasi aplikasi dan fitur Office Anda, mengonfigurasi penginstalan dinamis atau ramping, lalu menjalankan skrip untuk membuat aplikasi, aturan penerapan otomatis, dan kumpulan perangkat yang diperlukan untuk menargetkan penggunaan.</span><span class="sxs-lookup"><span data-stu-id="c7a1d-104">Use this guide to build your deployment groups, customize your Office apps and features, configure dynamic or lean installations, and then run the script to create the applications, automatic deployment rules, and device collections you need to target your deployment.</span></span>
