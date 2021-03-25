@@ -2,7 +2,7 @@
 title: Cara menginstal Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,27 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707741"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200640"
 ---
-# <a name="how-to-install-office"></a><span data-ttu-id="a5eca-102">Cara menginstal Office</span><span class="sxs-lookup"><span data-stu-id="a5eca-102">How to install Office</span></span>
+# <a name="how-to-install-office"></a><span data-ttu-id="ad228-102">Cara menginstal Office</span><span class="sxs-lookup"><span data-stu-id="ad228-102">How to install Office</span></span>
 
-<span data-ttu-id="a5eca-103">Untuk menginstal aplikasi klien Office, pastikan Anda memiliki langganan bisnis seperti Microsoft 365 Business Premium Standard, Aplikasi Microsoft 365 untuk bisnis, Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="a5eca-103">To install the Office client apps, ensure you have a business subscription such as Microsoft 365 Business Premium Standard, Microsoft 365 Apps for business, or Office 365 Education.</span></span>
+<span data-ttu-id="ad228-103">Untuk menginstal aplikasi klien Office, pastikan Anda memiliki langganan bisnis seperti Microsoft 365 Business Standard, Aplikasi Microsoft 365 untuk bisnis, atau Office 365 Education.</span><span class="sxs-lookup"><span data-stu-id="ad228-103">To install the Office client apps, ensure you have a business subscription such as Microsoft 365 Business Standard, Microsoft 365 Apps for business, or Office 365 Education.</span></span>
   
-<span data-ttu-id="a5eca-104">*CATATAN: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) adalah produk [Office untuk di rumah](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) dan bukan bagian dari langganan bisnis. Untuk instruksi khusus Visio atau Project, lihat [Menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) atau [Menginstal Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.</span><span class="sxs-lookup"><span data-stu-id="a5eca-104">*NOTE: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) is an [Office for home](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) product and not part of a business subscription. For specific instructions on Visio or Project, see [Install Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) or [Install Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.</span></span>
+> [!NOTE]
+> <span data-ttu-id="ad228-104">[Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) merupakan produk [Office untuk rumahan](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) dan bukan bagian dari langganan bisnis.</span><span class="sxs-lookup"><span data-stu-id="ad228-104">[Office Home and Business](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) is an [Office for home](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) product and not part of a business subscription.</span></span> <span data-ttu-id="ad228-105">Untuk membaca instruksi khusus tentang Visio atau Project, lihat [Menginstal Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) atau [Menginstal Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ad228-105">For specific instructions on Visio or Project, see [Install Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) or [Install Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-<span data-ttu-id="a5eca-105">Buat akun dan tambahkan domain Anda.</span><span class="sxs-lookup"><span data-stu-id="a5eca-105">Create the user accounts and add your domain.</span></span> <span data-ttu-id="a5eca-106">Pastikan bahwa pengguna memiliki [lisensi yang ditetapkan](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="a5eca-106">Make sure the user has an [assigned license](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
+<span data-ttu-id="ad228-106">Buat akun dan tambahkan domain Anda.</span><span class="sxs-lookup"><span data-stu-id="ad228-106">Create the user accounts and add your domain.</span></span> <span data-ttu-id="ad228-107">Pastikan bahwa pengguna memiliki [lisensi yang ditetapkan](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="ad228-107">Make sure the user has an [assigned license](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).</span></span>
 
-<span data-ttu-id="a5eca-107">Minta setiap pengguna:</span><span class="sxs-lookup"><span data-stu-id="a5eca-107">Have each user:</span></span>
+<span data-ttu-id="ad228-108">Minta setiap pengguna:</span><span class="sxs-lookup"><span data-stu-id="ad228-108">Have each user:</span></span>
 
-1. <span data-ttu-id="a5eca-108">Masuk ke halaman portal: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="a5eca-108">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
-2. <span data-ttu-id="a5eca-109">Masuk dengan akun kerja atau sekolah mereka jika belum masuk.</span><span class="sxs-lookup"><span data-stu-id="a5eca-109">Sign in with their work or school account if not already signed in.</span></span>
-3. <span data-ttu-id="a5eca-110">Di bawah bagian Office, pilih bahasa.</span><span class="sxs-lookup"><span data-stu-id="a5eca-110">Under the Office section, select the language.</span></span> <span data-ttu-id="a5eca-111">Pilih **Tingkat Lanjut** untuk memilih versi 32-bit atau 64-bit.</span><span class="sxs-lookup"><span data-stu-id="a5eca-111">Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span>
-4. <span data-ttu-id="a5eca-112">Pilih **Instal**.</span><span class="sxs-lookup"><span data-stu-id="a5eca-112">Select **Install**.</span></span>
+1. <span data-ttu-id="ad228-109">Masuk ke halaman portal: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="ad228-109">Go to the portal page: [https://portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+2. <span data-ttu-id="ad228-110">Masuk dengan akun kerja atau sekolah mereka jika belum masuk.</span><span class="sxs-lookup"><span data-stu-id="ad228-110">Sign in with their work or school account if not already signed in.</span></span>
+3. <span data-ttu-id="ad228-111">Di bawah bagian Office, pilih bahasa.</span><span class="sxs-lookup"><span data-stu-id="ad228-111">Under the Office section, select the language.</span></span> <span data-ttu-id="ad228-112">Pilih **Tingkat Lanjut** untuk memilih versi 32-bit atau 64-bit.</span><span class="sxs-lookup"><span data-stu-id="ad228-112">Select **Advanced** to choose the 32-bit version or 64-bit version.</span></span>
+4. <span data-ttu-id="ad228-113">Pilih **Instal**.</span><span class="sxs-lookup"><span data-stu-id="ad228-113">Select **Install**.</span></span>
 
-<span data-ttu-id="a5eca-113">Untuk melihat langkah detail dan solusi pemecahan masalah saat menginstal Office, lihat: [Mengunduh dan menginstal atau menginstal ulang Office di PC atau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="a5eca-113">For detailed steps and troubleshooting solutions when installing Office, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="ad228-114">Untuk melihat langkah detail dan solusi pemecahan masalah saat menginstal Office, lihat: [Mengunduh dan menginstal atau menginstal ulang Office di PC atau Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="ad228-114">For detailed steps and troubleshooting solutions when installing Office, see [Download and install or reinstall Office on a PC or Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).</span></span>
