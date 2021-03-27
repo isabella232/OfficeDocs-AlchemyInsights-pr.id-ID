@@ -1,5 +1,5 @@
 ---
-title: Bagaimana Microsoft Edge menggunakan SmartScreen Microsoft Defender?
+title: Bagaimana Microsoft Edge menggunakan SmartScreen Pertahanan Microsoft?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003847"
 - "6897"
-ms.openlocfilehash: 2a08bd507c77e9735028b30f7bf7bc8f8f018cad
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8331"
+- "9004625"
+ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583432"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398624"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Cara Microsoft Edge menggunakan SmartScreen Microsoft Defender
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>Bagaimana Microsoft Edge menggunakan SmartScreen Pertahanan Microsoft
 
-Agar Anda tetap aman di web, Microsoft Edge menggunakan SmartScreen Microsoft Defender sebagai sistem peringatan dini terhadap situs web yang membuat serangan Pengelabuan dan menyebarkan perangkat lunak perusak melalui serangan yang difokuskan.
+Untuk menjaga keamanan Anda di web, Microsoft Edge menggunakan SmartScreen Pertahanan Microsoft sebagai sistem peringatan awal terhadap situs web yang bersaing dalam serangan pengelabuan dan mendistribusikan malware melalui serangan berfokus.
 
-Admin bisa mengonfigurasi SmartScreen Microsoft Defender menggunakan pengaturan kebijakan grup, Microsoft Intune, atau manajemen perangkat seluler (MDM). Berdasarkan cara Anda menyiapkan SmartScreen Microsoft Defender, Anda bisa memperlihatkan halaman peringatan kepada pengguna dan membiarkannya berlanjut ke situs atau memblokir situs tersebut seluruhnya.
+Admin dapat mengonfigurasi SmartScreen Pertahanan Microsoft menggunakan pengaturan Kebijakan Grup, Microsoft Intune, atau manajemen perangkat seluler (MDM). Berdasarkan cara menyiapkan SmartScreen Pertahanan Microsoft, Anda dapat menampilkan halaman peringatan kepada pengguna dan mengizinkan mereka terus ke situs atau memblokir seluruhnya.
 
-Untuk mempelajari selengkapnya, lihat [dukungan Microsoft Edge untuk SmartScreen Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2133081) dan [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
+Untuk mempelajari selengkapnya, [lihat Dukungan Microsoft Edge untuk SmartScreen Pertahanan](https://go.microsoft.com/fwlink/?linkid=2133081) Microsoft dan Application Guard Pertahanan [Microsoft.](https://go.microsoft.com/fwlink/?linkid=2132839)

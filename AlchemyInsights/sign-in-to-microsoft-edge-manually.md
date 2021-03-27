@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677787"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398660"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>Masuk ke Microsoft Edge secara manual
 
-Jika pengguna tidak masuk secara otomatis selama pengalaman pertama, pengguna bisa masuk secara manual melalui pengaturan browser atau Flyout identitas. Untuk mengelola masuk, gunakan kebijakan berikut ini:
+Jika pengguna tidak masuk secara otomatis selama pengalaman pertama, pengguna bisa masuk secara manual melalui pengaturan browser atau flyout identitas. Untuk mengelola masuk, gunakan kebijakan berikut ini:
 
-1. [Nonremovableprofilemaktifkan](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -untuk memastikan bahwa pengguna selalu memiliki profil kerja di Microsoft Edge.
-2. [Restrictsignintopattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) -untuk membatasi masuk ke sekumpulan akun tepercaya.
-3. [Browsersignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) -untuk menonaktifkan masuk atau memaksa pengguna untuk masuk.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - Untuk memastikan bahwa pengguna selalu memiliki profil kerja di Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - Untuk membatasi masuk ke kumpulan akun tepercaya.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - Untuk menonaktifkan masuk atau untuk memaksa pengguna untuk masuk.
 

@@ -1,5 +1,5 @@
 ---
-title: Menggunakan Microsoft Edge untuk debug perangkat Android jarak jauh dari komputer pengembangan
+title: Menggunakan Microsoft Edge untuk melakukan debug perangkat Android dari komputer pengembangan dari jarak jauh
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583539"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398696"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Menggunakan Microsoft Edge untuk debug perangkat Android jarak jauh dari komputer pengembangan
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Menggunakan Microsoft Edge untuk melakukan debug perangkat Android dari komputer pengembangan dari jarak jauh
 
 Untuk melakukan debug konten langsung dari jarak jauh di perangkat Android dari komputer Anda:
 
-1. Siapkan perangkat Android untuk debugging jarak jauh dan temukan dari komputer pengembangan.
-2. Dari komputer pengembangan, inspeksi dan debug konten langsung di perangkat Android.
-3. Screencast konten langsung dari perangkat Android ke instance DevTools di komputer pengembangan.
+1. Menyiapkan perangkat Android untuk penelusuran kesalahan jarak jauh dan menemukannya dari komputer pengembangan.
+2. Dari komputer pengembangan, periksa dan debug konten langsung pada perangkat Android.
+3. Konten langsung Screencast dari perangkat Android ke instans DevTools di komputer pengembangan.
