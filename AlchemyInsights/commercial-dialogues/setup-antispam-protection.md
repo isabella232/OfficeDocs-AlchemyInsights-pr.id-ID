@@ -1,9 +1,9 @@
 ---
-title: Menyiapkan Proteksi anti-spam
+title: Menyiapkan proteksi anti spam
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 3a9408f94b72770669e75272307c932303666d6b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482131"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401838"
 ---
-# <a name="set-up-an-anti-spam-protection"></a>Menyiapkan Proteksi anti-spam
+# <a name="set-up-an-anti-spam-protection"></a>Menyiapkan proteksi anti spam
 
-Berikut ini cara melakukan ini:
+Berikut cara melakukannya:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Navigasikan ke kebijakan **manajemen ancaman**  >  , dan klik **[anti-spam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Pada tab **kustom** , Aktifkan pengaturan **kustom** .
-1. Perluas **kebijakan filter spam default**, klik **Edit kebijakan**, lalu Tentukan pengaturan berikut ini:
-    1. Di bagian **tindakan spam dan massal** , atur ambang batas ke nilai 5 atau 6.
+1. Masuk ke Pusat [Kepatuhan & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Navigasi ke **Kebijakan Manajemen**  >  **Ancaman,** dan klik **[Anti-spam.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
+1. Pada **tab** Kustom, aktifkan **Pengaturan** kustom.
+1. Perluas **Kebijakan filter spam default**, klik Edit **kebijakan,** lalu tentukan pengaturan berikut ini:
+    1. Di bagian **Spam dan tindakan massal,** atur ambang batas ke nilai 5 atau 6.
 1. Klik **Simpan**.
 
-Untuk mempelajari selengkapnya tentang opsi kebijakan anti spam Anda, lihat [mengonfigurasi kebijakan anti spam](https://go.microsoft.com/fwlink/?linkid=2092051).
+Untuk mempelajari selengkapnya tentang opsi kebijakan anti spam, lihat [Mengonfigurasi kebijakan anti spam](https://go.microsoft.com/fwlink/?linkid=2092051).

@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583444"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402378"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Mengonfigurasi pengaturan kebijakan Microsoft Edge di Windows
 
-Untuk mengonfigurasi pengaturan kebijakan dan pembaruan terkelola untuk Microsoft Edge, gunakan objek kebijakan grup (GPO). Anda juga bisa menyediakan kebijakan melalui registri; ini akan sesuai untuk (1) perangkat Windows yang digabungkan dengan domain direktori aktif Microsoft dan untuk (2) Windows 10 Pro dan instance Enterprise yang terdaftar untuk manajemen perangkat di Microsoft Intune.
+Untuk mengonfigurasi pengaturan kebijakan dan pembaruan terkelola untuk Microsoft Edge, gunakan Objek Kebijakan Grup (GPOS, Group Policy Objects). Anda juga bisa menyediakan kebijakan melalui registri; hal ini akan sesuai untuk (1) perangkat Windows yang tergabung dalam domain Direktori Aktif Microsoft dan untuk (2) instans Windows 10 Pro dan Enterprise yang terdaftar untuk manajemen perangkat di Microsoft Intune.
 
-Untuk mengonfigurasi Microsoft Edge dengan menggunakan GPO, lakukan hal berikut:
+Untuk mengonfigurasi Microsoft Edge dengan menggunakan GPOS, lakukan hal berikut:
 
-1. Ke penyimpanan terpusat kebijakan grup di domain direktori aktif Anda, atau ke folder Templat definisi kebijakan di komputer individual, Instal semua Templat administratif yang menambahkan aturan dan pengaturan untuk Microsoft Edge.
+1. Masuk ke Pusat Penyimpanan Kebijakan Grup di domain Direktori Aktif Anda, atau ke folder templat Definisi Kebijakan di komputer individual, instal semua templat administratif yang menambahkan aturan dan pengaturan untuk Microsoft Edge.
 2. Mengonfigurasi kebijakan tertentu yang ingin Anda atur.
 
-Untuk mempelajari selengkapnya, lihat [mengonfigurasi pengaturan kebijakan Microsoft Edge di Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Untuk mempelajari selengkapnya, lihat [Mengonfigurasi pengaturan kebijakan Microsoft Edge di Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

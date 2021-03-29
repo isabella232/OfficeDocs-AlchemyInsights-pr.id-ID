@@ -1,9 +1,9 @@
 ---
-title: Membuka blokir akun menggunakan manajemen ancaman
+title: Membuka blokir akun dengan menggunakan manajemen ancaman
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5092f87abb99c8b8612d3aa0384dcb65a7c56912
-ms.sourcegitcommit: 9181153a51a8624d5e83ca5824c3865c85d0644e
+ms.openlocfilehash: 56df5d66df9559663fbb34ae2349d3e6d01dd678
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50841608"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403026"
 ---
-# <a name="unblock-an-account-by-using-threat-management"></a>Membuka blokir akun menggunakan manajemen ancaman
+# <a name="unblock-an-account-by-using-threat-management"></a>Membuka blokir akun dengan menggunakan manajemen ancaman
 
-Berikut ini cara melakukan ini: 
+Berikut cara melakukannya: 
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pilih **peninjauan manajemen ancaman**  >  . Pada halaman **Tinjau** , pilih **[pengguna terbatas](https://go.microsoft.com/fwlink/?linkid=2103514)**.
-1. Jika akun yang dikompromikan muncul dalam daftar, klik **buka blokir akun**. Akun harus dapat mengirim pesan lagi, biasanya dalam satu jam.
+1. Masuk ke Pusat [Kepatuhan & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Pilih **Peninjauan manajemen**  >  **ancaman**. Pada halaman **Tinjau,** pilih **[Pengguna Terbatas.](https://go.microsoft.com/fwlink/?linkid=2103514)**
+1. Jika akun yang dibobol muncul dalam daftar, klik Buka **Blokir Akun.** Akun tersebut akan dapat mengirim pesan lagi, biasanya dalam waktu satu jam.
