@@ -1,24 +1,35 @@
 ---
-title: Memecahkan masalah hibrid Azure AD Join
+title: Memecahkan masalah gabungan Hybrid Microsoft Azure AD
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: 74791503e1ec876c2beb57d895c93ceac465a26a
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
-ms.translationtype: MT
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46629643"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401910"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>Memecahkan masalah hibrid Azure AD Join
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>Memecahkan masalah gabungan Hybrid Microsoft Azure AD
 
-Untuk mengatasi masalah umum dengan gabungan hibrid Azure Active Directory (AD), lihat [FAQ Gabung hibrid AZURE AD](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
+Sangat Disarankan untuk Memastikan bahwa perangkat dapat mengakses titik akhir Pendaftaran Perangkat di bawah akun sistem dengan menggunakan [skrip Konektivitas Pendaftaran Perangkat Uji](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/).
+
+1. Jika Anda menyiapkan pendaftaran perangkat untuk pertama kalinya, pastikan untuk meninjau [Pengenalan manajemen perangkat di Azure Active Directory](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) untuk mempelajari cara mendapatkan perangkat di bawah kontrol Azure AD.
+1. Jika Anda mendaftarkan perangkat ke Microsoft Azure AD secara langsung dan mendaftarkannya ke Intune, pastikan Anda telah [mengonfigurasi Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) dan memiliki [lisensinya](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) terlebih dahulu.
+1. Pastikan Anda telah mendapatkan izin untuk melakukan operasi di Microsoft Azure AD dan AD lokal. Hanya administrator global di Microsoft Azure AD yang dapat mengelola pengaturan untuk pendaftaran perangkat. Selain itu, jika Anda menyiapkan pendaftaran otomatis di Active Directory lokal, Anda perlu menjadi administrator Active Directory dan AD FS (jika berlaku).
+
+Untuk detail selengkapnya tentang mengatasi potensi masalah dengan gabungan Hibrid, lihat[Mengatasi Masalah Gabungan Hibrid](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current) dan untuk menyiapkan hibrid Azure AD yang tergabung serta Mengelola Perangkat menggunakan portal Microsoft Azure AD, lihat[Menyiapkan perangkat gabungan hibrid Microsoft Azure AD (bergabung dengan domain lokal)](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) dan [Mengelola perangkat menggunakan portal Azure](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+Untuk mengatasi masalah umum dengan gabungan Hibrid Azure Active Directory (AD), lihat [FAQ gabungan Hibrid Azure AD](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
