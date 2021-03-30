@@ -1,5 +1,5 @@
 ---
-title: Cara berbagi file atau folder SharePoint
+title: Cara berbagi file atau folder SharePoint atau OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779018"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408117"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Cara berbagi file atau folder SharePoint
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Cara berbagi file atau folder SharePoint atau OneDrive
 
-File yang Anda simpan di situs SharePoint biasanya tersedia untuk semua orang dengan izin ke situs, tetapi Anda mungkin ingin berbagi file atau folder tertentu dengan orang yang tidak memiliki akses ke situs tersebut. Saat Anda berbagi file dan folder, Anda bisa memutuskan apakah memperbolehkan orang mengedit atau hanya menampilkannya.
+File yang Anda simpan di situs SharePoint biasanya tersedia bagi setiap orang dengan izin ke situs, tapi Anda mungkin ingin berbagi file atau folder tertentu dengan orang yang tidak mempunyai akses ke situs. Saat Anda berbagi file dan folder, Anda bisa memutuskan akan memungkinkan orang mengeditnya, atau menampilkannya saja. Untuk informasi selengkapnya, lihat:
 
 [Berbagi file atau folder SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Berbagi file dan folder OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
