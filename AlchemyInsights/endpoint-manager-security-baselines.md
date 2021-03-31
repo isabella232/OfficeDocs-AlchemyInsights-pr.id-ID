@@ -1,5 +1,5 @@
 ---
-title: Manajer EndPoint - Baseline keamanan
+title: EndPoint Manager - Garis dasar keamanan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421094"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440887"
 ---
-# <a name="endpoint-manager---security-baselines"></a>Manajer EndPoint - Baseline keamanan
+# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Garis dasar keamanan
 
-Baseline keamanan adalah grup Windows yang sudah dikonfigurasi sebelumnya yang membantu Anda menerapkan pengaturan keamanan yang direkomendasikan oleh tim keamanan yang relevan. Baseline ini dapat dikustomisasi untuk memberikan pengaturan dan nilai yang diinginkan saja. Untuk informasi selengkapnya tentang baseline keamanan, lihat [Menggunakan baseline keamanan untuk mengonfigurasi perangkat Windows 10 di Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
+Garis dasar keamanan adalah grup pengaturan Windows yang telah dikonfigurasi sebelumnya yang membantu Anda menerapkan pengaturan keamanan yang disarankan oleh tim keamanan terkait. Garis dasar ini dapat disesuaikan untuk menampilkan pengaturan dan nilai yang diinginkan saja. Untuk informasi selengkapnya tentang garis dasar keamanan, lihat [Menggunakan garis dasar keamanan untuk mengonfigurasi perangkat Windows 10 di Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Saat ini ada baseline untuk produk ini:
+Saat ini, garis dasar tersedia untuk produk berikut:
 
 - Pengaturan Keamanan Windows MDM
-- Pertahanan Microsoft untuk Keamanan EndPoint
+- Pertahanan Microsoft untuk Keamanan Titik Akhir
 - Microsoft Edge
 
-Setiap garis dasar diperbarui secara berkala dan dirilis dalam versi bertahap. Setiap versi menambahkan dan atau menghapus pengaturan dari versi sebelumnya untuk memastikan bahwa garis dasar memenuhi panduan saat ini. Konsol dasar keamanan di Keamanan Titik Akhir memungkinkan versi yang berbeda dibandingkan dengan membuat perubahan dari versi ke versi terlihat.
+Setiap garis dasar diperbarui secara berkala dan dirilis dalam versi bertahap. Setiap versi menambahkan dan atau menghapus pengaturan dari versi sebelumnya untuk memastikan bahwa garis dasar tersebut sesuai dengan panduan saat ini. Konsol Garis dasar keamanan di Keamanan Titik Akhir memungkinkan perbandingan berbagai versi dengan menjadikan perubahan dari versi ke versi terlihat.
 
-Untuk panduan tentang cara paling efektif mengubah versi baseline yang digunakan, lihat Mengelola profil [garis dasar keamanan di Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
+Untuk panduan tentang cara paling efektif mengubah versi garis dasar mana yang disebarkan, lihat [Mengelola profil garis dasar keamanan di Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Setelah menggunakan baseline keamanan, Anda bisa memantau status penggunaan dan meninjau pengaturan pada basis perangkat demi perangkat.
+Setelah menyebarkan garis dasar keamanan, Anda dapat memantau status penyebaran dan meninjau pengaturan di masing-masing perangkat.
 
-**Catatan:** Data pelaporan untuk baseline mungkin memakan waktu hingga 24 jam agar muncul dari penggunaan awal ke perangkat dan hingga 6 jam untuk pembaruan lebih lanjut. 
+**Catatan:** Data pelaporan garis dasar mungkin baru muncul 24 jam setelah penyebaran awal ke perangkat, dan hingga 6 jam untuk pembaruan selanjutnya. 
 
-Penyebab paling umum dari pengaturan garis dasar yang tidak diterapkan adalah karena pengaturan yang sama yang digunakan di profil berbeda. Skenario ini dapat diselidiki untuk perangkat tertentu dengan memilih perangkat tersebut dari dalam node Status Perangkat di profil Garis Dasar Keamanan. Untuk detailnya, [lihat Mengatasi konflik untuk baseline keamanan.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Penyebab paling umum mengapa pengaturan garis dasar tidak diterapkan adalah karena pengaturan yang sama sedang digunakan di profil berbeda. Skenario ini dapat diselidiki untuk perangkat tertentu dengan memilih perangkat tersebut dari dalam node Status Perangkat pada profil Garis Dasar Keamanan. Untuk selengkapnya, baca [Mengatasi konflik untuk garis dasar keamanan](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
