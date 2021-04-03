@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774705"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505689"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Memulihkan grup Microsoft 365 yang dihapus
 
-Grup yang dihapus dipertahankan selama 30 hari. Untuk memulihkan grup yang dihapus:
-  
-1. Di [Pusat admin Exchange](https://outlook.office365.com/ecp/), pilih **penerima** di panel kiri, lalu pilih **grup**. Jika grup dihapus kurang dari 30 hari yang lalu, maka akan muncul dalam daftar dan kolom STATUS akan mencantumkan tanggal yang dihapus.
+Anda dapat memulihkan grup Microsoft 365 yang dihapus atau Microsoft Teams dalam 30 hari dari penghapusan.
 
-2. Pilih grup, lalu klik **Pulihkan** di bilah perintah, atau klik link "klik di sini untuk memulihkan" di panel detail.
+1. Untuk masuk ke pusat admin Microsoft 365 serta mencantumkan grup dan tim yang dihapus, masuk ke pusat [admin Microsoft 365.](https://aka.ms/RestoreDeletedGroup)
 
-Untuk informasi selengkapnya, atau untuk mempelajari cara memulihkan grup menggunakan PowerShell, lihat [memulihkan grup Microsoft 365 yang dihapus](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Catatan:** Masuk menggunakan akun yang ditetapkan untuk administrator penyewa atau peran admin grup.
+
+1. Pilih grup/Teams Microsoft 365 yang dihapus untuk dipulihkan, lalu klik **pulihkan grup.**
+
+    Jika grup tidak bisa dipulihkan karena alamat SMTP yang berkonflik, gunakan perintah berikut untuk menemukan objek yang menyebabkan konflik dan menghapus alamat SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Catatan:** Dalam beberapa kasus, mungkin akan memakan waktu hingga 24 jam agar grup dan semua datanya dipulihkan.
+
+    Untuk informasi selengkapnya, atau untuk mempelajari cara memulihkan grup menggunakan PowerShell, [lihat Memulihkan grup Microsoft 365 yang dihapus.](https://go.microsoft.com/fwlink/?linkid=867802)

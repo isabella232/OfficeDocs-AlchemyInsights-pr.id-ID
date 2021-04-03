@@ -1,5 +1,5 @@
 ---
-title: Menambahkan ekstensi ke Microsoft Edge dari Chrome web Store
+title: Menambahkan ekstensi ke Microsoft Edge dari toko web Chrome
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003868"
 - "6922"
-ms.openlocfilehash: b11a1304ce6c82c6182dfdcc13716d295ab802d3
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "8312"
+- "9004621"
+ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678063"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505029"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Menambahkan ekstensi ke Microsoft Edge dari Chrome web Store
+# <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Menambahkan ekstensi ke Microsoft Edge dari toko web Chrome
 
-Untuk menambahkan ekstensi ke Microsoft Edge dari Chrome web Store, selesaikan langkah-langkah berikut:
+Untuk menambahkan ekstensi ke Microsoft Edge dari toko web Chrome, selesaikan langkah-langkah berikut ini:
 
-1. Masuk ke Chrome web Store.
-2. Di banner di bagian atas halaman, pilih **Izinkan ekstensi dari toko lain**.
-3. Pilih ekstensi yang ingin Anda tambahkan, lalu klik **Tambahkan ke Chrome**.
-4. Dalam dialog konfirmasi, Tinjau dengan saksama perubahan yang mungkin dilakukan ekstensi, lalu klik **Tambahkan ekstensi**.
-Dialog akhir akan mengonfirmasi bahwa ekstensi telah ditambahkan.
+1. Masuk ke Chrome Web Store.
+2. Di banner di bagian atas halaman, pilih **Perbolehkan ekstensi dari toko lain**.
+3. Pilih ekstensi yang ingin Anda tambahkan, lalu klik Tambahkan **ke Chrome.**
+4. Dalam dialog konfirmasi, tinjau dengan saksama modifikasi yang mungkin dilakukan ekstensi, lalu klik **Tambahkan ekstensi**.
+Dialog terakhir akan mengonfirmasi bahwa ekstensi telah ditambahkan.
