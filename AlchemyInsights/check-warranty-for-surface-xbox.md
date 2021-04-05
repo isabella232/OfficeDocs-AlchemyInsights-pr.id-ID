@@ -1,5 +1,5 @@
 ---
-title: Memeriksa status garansi untuk perangkat Surface atau Xbox
+title: Periksa status jaminan untuk perangkat Surface atau Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035916"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505323"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Memeriksa status garansi untuk perangkat Surface atau Xbox
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a>Periksa status jaminan untuk perangkat Surface atau Xbox
 
-Jika Anda memiliki perangkat Surface atau Xbox, Anda bisa menggunakan akun Microsoft untuk memeriksa garansi Anda. Begini caranya:
+Jika memiliki perangkat Surface atau Xbox, Anda dapat menggunakan akun Microsoft untuk memeriksa status jaminan. Berikut caranya:
 
-1. Masuk ke akun Microsoft Anda. 
+1. Masuk ke [akun Microsoft](https://account.microsoft.com/devices/). 
 
-1. Pilih perangkat yang ingin Anda periksa garansi.
+1. Pilih perangkat yang jaminannya ingin Anda periksa.
 
-1. Dalam **cakupan perangkat**, Anda akan melihat cakupan garansi apa yang dimiliki perangkat Anda dan berapa banyak waktu yang tersisa.
+1. Di **Cakupan perangkat**, Anda akan melihat cakupan jaminan yang tersedia untuk perangkat serta waktu yang tersisa untuk jaminan tersebut.
 
-**Catatan** Perangkat Anda harus didaftarkan sebelum Anda bisa memeriksa garansi atau mendapatkan layanan. Jika Anda perlu mendaftarkan perangkat Anda atau tidak melihat perangkat Anda terdaftar setelah Anda masuk ke akun Anda, buka [mendaftarkan permukaan atau Xbox Anda](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).
+**Catatan** Perangkat harus didaftarkan sebelum Anda dapat memeriksa jaminan atau mendapatkan layanan. Jika perlu mendaftarkan perangkat atau tidak melihat perangkat Anda tercantum setelah masuk ke akun, buka [Daftarkan Surface atau Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).

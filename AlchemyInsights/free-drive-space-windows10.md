@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036588"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505359"
 ---
 # <a name="free-up-drive-space-in-windows-10"></a>Mengosongkan ruang drive di Windows 10
 
-Berikut adalah dua opsi untuk mengosongkan ruang drive di Windows:
+Ada dua opsi untuk mengosongkan ruang drive di Windows:
 
 - Mengosongkan ruang drive di Windows 10.
-- Mengosongkan ruang untuk pembaruan Windows 10 dengan perangkat penyimpanan eksternal.
+- Kosongkan ruang untuk pembaruan Windows 10 dengan perangkat penyimpanan eksternal.
 
-Jika Anda masih memiliki ruang disk yang rendah setelah menggunakan pembersihan disk, ada kemungkinan folder Temp Anda mengisi dengan file Application (. Appx) yang digunakan oleh Microsoft Store. Untuk memperbaiki masalah ini, reset penyimpanan, kosongkan tembolok penyimpanan, lalu jalankan pemecah masalah pembaruan Windows. Pastikan Microsoft Store ditutup sebelum Anda melanjutkan langkah-langkah ini.
+Jika ruang disk masih rendah setelah menggunakan Pembersihan Disk, kemungkinan folder Temp Anda dengan cepat terisi file aplikasi (.appx) yang digunakan oleh Microsoft Store. Untuk memperbaiki masalah ini, atur ulang Store, bersihkan cache Store, lalu jalankan pemecah masalah Windows Update. Pastikan Microsoft Store ditutup sebelum Anda melanjutkan ke langkah-langkah berikut.
 
-**Langkah 1: mereset Microsoft Store**
+**Langkah 1: Atur ulang Microsoft Store**
 
-**Catatan** Ini menghapus data aplikasi secara permanen pada perangkat, termasuk preferensi dan detail masuk Anda.
+**Catatan** Tindakan ini akan menghapus permanen data aplikasi di perangkat, termasuk preferensi Anda dan detail masuk.
 
-1. Pilih **mulai**  >  **pengaturan**  >  **aplikasi** aplikasi  >  **& fitur**.
+1. Pilih **Mulai** > **Pengaturan** > **Aplikasi** > **Aplikasi & fitur**.
 
 1. Di daftar aplikasi, temukan dan pilih Microsoft Store.
 
-1. Pilih **opsi tingkat lanjut**.
+1. Pilih **Opsi lanjutan**.
 
-1. Gulir ke bawah dan pilih **reset**, lalu **konfirmasikan ulang**.
+1. Gulir ke bawah dan pilih **Atur Ulang**, lalu **Konfirmasi Atur Ulang**.
 
-**Langkah 2: Kosongkan singgahan penyimpanan Microsoft**
+**Langkah 2: Bersihkan cache Microsoft Store**
 
-1. Tekan tombol logo Windows + R untuk membuka kotak dialog Jalankan.
+1. Tekan Tombol Logo Windows + R untuk membuka Jalankan kotak dialog.
 
-1. Ketik wsreset.exe dan pilih **OK**.
+1. Ketik wsreset.exe lalu pilih **OK**.
 
-1. Jendela prompt perintah kosong terbuka. Setelah sekitar 10 detik, jendela tertutup dan penyimpanan akan terbuka secara otomatis.
+1. Jendela Perintah kosong akan terbuka. Setelah sekitar 10 detik, jendela tersebut akan tertutup dan Store akan terbuka secara otomatis.
 
-**Langkah 3: reset pembaruan Windows**
+**Langkah 3: Atur Ulang Windows Update**
 
-1. Pilih **mulai**  >  **pengaturan**  >  **pembaruan &**  >  **pemecahan masalah** keamanan.
+1. Pilih **Mulai** > **Pengaturan** > **Pembaruan & Keamanan** > **Pemecahan Masalah**.
 
 1. Gulir ke bawah dan pilih **Windows Update** dari daftar, lalu pilih **Jalankan pemecah masalah**.
 
-1. Hidupkan ulang komputer Anda dan periksa apakah Anda masih mengalami masalah tersebut.
+1. Boot ulang komputer, lalu periksa apakah Anda masih mengalami masalah tersebut.
 
