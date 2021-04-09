@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694392"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645170"
 ---
 # <a name="issues-when-installing-exchange-server-updates"></a>Masalah saat menginstal pembaruan Exchange Server
 
-Sebelum menginstal pembaruan Exchange Server, lihat bagian ' praktik terbaik ' dari artikel yang [memutakhirkan ke pembaruan kumulatif terbaru](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Sangat penting untuk menginstal pembaruan menggunakan perintah CMD yang ditinggikan (kecuali pembaruan diinstal melalui Microsoft update). Ini berlaku untuk pembaruan kumulatif dan keamanan!
+Jika Anda perlu memperbarui ke Pembaruan Kumulatif (CU) terbaru untuk Server Exchange, Anda bisa menggunakan untuk mendapatkan kumpulan langkah-langkah mendetail untuk memperbarui dari CU Anda saat ini ke [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) CU target.
 
-Jika Anda melihat kesalahan saat menginstal pembaruan keamanan atau setelah pembaruan telah terinstal, lihat [artikel ini tentang pemecahan masalah penginstalan yang gagal](https://aka.ms/exupdatefaq).
+Jika ada kesalahan selama atau setelah instalasi pembaruan Exchange Server, lihat bagian 'Praktik Terbaik' dari artikel [Memutakhirkan Exchange ke Pembaruan Kumulatif terbaru.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Sangat penting untuk menginstal pembaruan keamanan menggunakan perintah CMD yang ditinggikan (jika pembaruan tidak diinstal melalui Microsoft Update).
+
+Jika Anda melihat kesalahan ketika menginstal pembaruan keamanan atau setelah pembaruan diinstal, lihat Perbaikan [gagal menginstal pembaruan Kumulatif Exchange dan Keamanan.](https://aka.ms/exupdatefaq)
