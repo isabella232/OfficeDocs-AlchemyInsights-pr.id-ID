@@ -1,5 +1,5 @@
 ---
-title: Bagaimana cara mengonfigurasikan perutean langsung teams
+title: Bagaimana cara mengonfigurasi Perutean Langsung Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704897"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692145"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Perutean langsung sistem telepon untuk Microsoft teams
+# <a name="direct-routing-for-microsoft-teams"></a>Perutean Langsung untuk Microsoft Teams
 
-Tinjau artikel berikut ini untuk mempelajari selengkapnya tentang [perutean langsung sistem telepon untuk Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Tinjau artikel berikut ini untuk mempelajari selengkapnya tentang [Perutean Langsung untuk Microsoft Teams:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
-- [Merencanakan perutean langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
-- [Mengonfigurasi perutean langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Memantau dan memecahkan masalah perutean langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Rencanakan Perutean Langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [Konfigurasi Perutean Langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
+- [Memantau dan memecahkan masalah Perutean Langsung](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Catatan:** Anda juga bisa melihat video [langsung tim Akademi langsung](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) .
+**Catatan:** Anda juga dapat melihat video [Teams Academy Direct Routing](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) YouTube.

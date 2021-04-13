@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662508"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692469"
 ---
 # <a name="pstn-calling-plans"></a>Paket panggilan PSTN
 
@@ -28,4 +28,4 @@ Jika Anda ingin pengguna dapat melakukan panggilan ke telepon reguler dan tidak 
 
 - Siapkan [Kredit Komunikasi](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) untuk mencegah pengguna **kehabisan menit panggilan**. Lihat tarif [di sini](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Untuk informasi selengkapnya, lihat [Sistem Telepon dan Paket Panggilan](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atau [Apa itu Kredit Komunikasi?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Untuk informasi selengkapnya, lihat [Paket Panggilan Microsoft Teams Phone dan Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) atau Apa itu Kredit [Komunikasi?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

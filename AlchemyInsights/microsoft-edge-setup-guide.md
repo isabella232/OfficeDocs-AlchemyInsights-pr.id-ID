@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678385"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692757"
 ---
 # <a name="start-using-microsoft-edge"></a>Mulai menggunakan Microsoft Edge
 
-Microsoft telah merilis Microsoft Edge yang baru, yang merupakan generasi berikutnya dari browser web-nya. Ini dibangun pada fondasi open-source Chromium dan telah dioptimalkan untuk bekerja dengan produk Microsoft, seperti SharePoint dan OneDrive.
+Microsoft telah merilis Microsoft Edge baru, yang merupakan generasi browser web berikutnya. Dilengkapi dengan dasar sumber terbuka Chromium dan telah dioptimalkan untuk berfungsi dengan produk Microsoft, seperti SharePoint dan OneDrive.
 
-Jika Anda mengalami masalah dengan Google Chrome, Mozilla Firefox, atau Safari, sebaiknya gunakan Microsoft Edge.
+Jika Mengalami masalah dengan Google Chrome, Mozilla Firefox, atau Safari, sebaiknya gunakan Microsoft Edge.
 
-Jika Anda adalah admin organisasi besar, gunakan [panduan penyetelan Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) kami untuk memulai.
+Jika Anda adalah admin dari organisasi besar, gunakan panduan [penyiapan Microsoft Edge kami](https://go.microsoft.com/fwlink/?linkid=2142423) untuk memulai.
 
-Untuk mengunduh Microsoft Edge di satu perangkat dalam sekali waktu, masuk ke [memperkenalkan Microsoft Edge yang baru](https://go.microsoft.com/fwlink/?linkid=2141049).
+Untuk mengunduh Microsoft Edge di satu perangkat sekaligus, buka [Memperkenalkan Microsoft Edge baru](https://go.microsoft.com/fwlink/?linkid=2141049).
