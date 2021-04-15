@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002264"
 - "4385"
-ms.openlocfilehash: 6282139c8ea88c45f5990019fb9ef4cf62c34b66
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
+ms.openlocfilehash: 0ab3ee85866795b655d7838884658d6f4727503f
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953943"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692809"
 ---
-# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="df2b8-102">Menyiapkan jembatan konferensi untuk Teams</span><span class="sxs-lookup"><span data-stu-id="df2b8-102">Set up a conferencing bridge for Teams</span></span>
+# <a name="set-up-a-conferencing-bridge-for-teams"></a><span data-ttu-id="eef9b-102">Menyiapkan jembatan konferensi untuk Teams</span><span class="sxs-lookup"><span data-stu-id="eef9b-102">Set up a conferencing bridge for Teams</span></span>
 
-<span data-ttu-id="df2b8-103">Anda hanya perlu menyiapkan Konferensi Audio untuk orang yang berencana menjadwalkan atau memimpin rapat.</span><span class="sxs-lookup"><span data-stu-id="df2b8-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="df2b8-104">Kami menyediakan proses langkah demi langkah untuk menyelesaikan penyiapan sistem telepon.</span><span class="sxs-lookup"><span data-stu-id="df2b8-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="df2b8-105">Tinjau [Menyiapkan Sistem Telepon di organisasi Anda](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="df2b8-105">Please review [Setting up Phone System in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>
+<span data-ttu-id="eef9b-103">Anda hanya perlu menyiapkan Konferensi Audio untuk orang yang berencana menjadwalkan atau memimpin rapat.</span><span class="sxs-lookup"><span data-stu-id="eef9b-103">You only need to set up Audio Conferencing for people who plan to schedule or lead meetings.</span></span> <span data-ttu-id="eef9b-104">Kami menyediakan proses langkah demi langkah untuk menyelesaikan penyiapan sistem telepon.</span><span class="sxs-lookup"><span data-stu-id="eef9b-104">We've provided a step-by-step process to complete the phone system setup.</span></span> <span data-ttu-id="eef9b-105">Harap tinjau [Menyiapkan Telepon Microsoft Teams di organisasi Anda](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span><span class="sxs-lookup"><span data-stu-id="eef9b-105">Please review [Setting up Microsoft Teams Phone in your organization](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).</span></span>
