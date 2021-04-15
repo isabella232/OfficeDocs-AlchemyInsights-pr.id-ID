@@ -1,8 +1,8 @@
 ---
-title: Eksposur data terbaru
+title: Paparan data terbaru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789363"
 ---
-# <a name="recent-data-exposure"></a>Eksposur data terbaru
+# <a name="recent-data-exposure"></a>Paparan data terbaru
 
-Microsoft telah diwaspadai oleh peneliti pihak ketiga bahwa database hosting yang disunting data dukungan Microsoft dapat diakses tanpa autentikasi. Pada 31 Desember 2019, Microsoft mengamankan database.
+Microsoft telah menyadarinya oleh peneliti pihak ketiga bahwa hosting database yang menerima kembali data dukungan Microsoft dapat diakses tanpa autentikasi. Pada tanggal 31 Desember 2019, Microsoft mengamankan database tersebut.
 
-Kami berkomitmen pada privasi dan keamanan pelanggan kami dan mengambil tindakan untuk mencegah kemunculan mendatang masalah ini. Kami telah mulai pemberitahuan kepada pelanggan yang datanya ada dalam database yang disunting. Untuk informasi selengkapnya, silakan kunjungi [informasi kesadaran pelanggan yang terkait dengan eksposur informasi terbaru](https://aka.ms/privacyinfo).
+Kami berkomitmen pada privasi dan keamanan pelanggan kami dan sedang melakukan tindakan untuk mencegah munculnya masalah ini di masa mendatang. Kami telah memulai pemberitahuan kepada pelanggan yang datanya ada dalam database yang diberlakukan kembali ini. Untuk informasi selengkapnya, silakan buka [Informasi kesadaran pelanggan terkait keterpaparan informasi terbaru](https://aka.ms/privacyinfo).

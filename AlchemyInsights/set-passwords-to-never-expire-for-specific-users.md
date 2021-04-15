@@ -2,7 +2,7 @@
 title: Menyiapkan SPF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295609"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788994"
 ---
-# <a name="set-passwords-to-never-expire"></a>Menyetel kata sandi agar tidak pernah kedaluwarsa
+# <a name="set-passwords-to-never-expire"></a>Mengatur kata sandi agar tidak pernah kedaluwarsa
 
-Untuk mengatur semua kata sandi agar tidak pernah kedaluwarsa, di pusat admin Microsoft 365, masuk ke **Settings**  >  **pengaturan organisasi pengaturan > kebijakan [keamanan dan privasi](https://portal.office.com/adminportal/home#/settings/security)  >  [kedaluwarsa kata sandi](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) ** dan Hapus centang "Atur kata sandi pengguna agar kedaluwarsa setelah beberapa hari".
+Untuk mengatur SEMUA kata sandi agar tidak pernah kedaluwarsa, di pusat admin Microsoft 365, masuk ke Pengaturan Organisasi Pengaturan > Keamanan dan privasi Kebijakan Kedaluwarsa Kata Sandi dan kosongkan centang "Setel kata sandi pengguna agar kedaluwarsa setelah beberapa  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** hari".
   
-Untuk informasi mendetail selengkapnya, lihat:
+Untuk informasi lebih detail, lihat:
 
-- [Mengatur kebijakan kedaluwarsa kata sandi untuk organisasi Anda.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [Menetapkan kebijakan kedaluwarsa kata sandi untuk organisasi Anda.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
 - [Mengatur kata sandi agar tidak pernah kedaluwarsa untuk pengguna tertentu](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 

@@ -2,7 +2,7 @@
 title: Menyiapkan penerusan email
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037188"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787140"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Memeriksa pengaturan penerusan email untuk kotak surat
 
-Pertama, penerusan email harus diaktifkan pada tingkat penyewa. Jika Anda telah menyetel penerusan email pada kotak surat, tetapi tidak berfungsi (Anda mendapatkan kesalahan **"550 5.7.520 Access ditolak, organisasi Anda tidak memperbolehkan penerusan eksternal"**) Lihat [mengontrol penerusan email eksternal otomatis di Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Pertama, penerusan email harus diaktifkan pada tingkat penyewa. Jika telah menyiapkan penerusan email di kotak surat tetapi tidak berhasil (Anda mendapatkan kesalahan **"Akses 550 5.7.520 ditolak,** Organisasi Anda tidak mengizinkan penerusan eksternal") silakan lihat Mengontrol penerusan email eksternal otomatis di [Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
-Sangat mudah untuk memverifikasi pengaturan penerusan email pada kotak surat! Cukup ikuti langkah-langkah ini.
+Memverifikasi pengaturan penerusan email di kotak surat adalah hal yang mudah! Cukup ikuti langkah-langkah ini.
   
-> Jika ini adalah kotak surat pengguna, **masuk ke pengguna** \> **aktif** pengguna dan pilih pengguna yang kotak surat yang Anda penerusan. Pada tab **email** , pilih **Kelola penerusan email**.
+> Jika ini adalah kotak surat pengguna, masuk **ke Pengguna** \> **Aktif** dan pilih pengguna yang kotak suratnya Anda teruskan. Pada tab **Email,** pilih **Kelola penerusan email**.
 
-> Jika ini adalah kotak surat bersama, masuk ke **grup** \> **kotak surat bersama** dan pilih kotak surat bersama yang sedang Anda penerusan. Pilih **Edit** untuk penerusan email.
+> Jika ini adalah kotak surat bersama, masuk **ke kotak** \> **surat Bersama** Grup, lalu pilih kotak surat bersama yang Anda teruskan. Pilih **Edit** untuk penerusan email.
 
-Untuk informasi selengkapnya, lihat [mengonfigurasi penerusan email di Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Untuk informasi selengkapnya, lihat [Mengonfigurasi penerusan email di Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
-Untuk mengirim instruksi ke pengguna Anda sehingga mereka bisa menyetel penerusan email pada kotak surat mereka sendiri, mengarahkan mereka untuk [meneruskan email dari Microsoft 365 ke akun email lain](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Perhatikan bahwa Anda hanya dapat meneruskan ke satu alamat email. Jika Anda perlu menyiapkan penerusan ke sekelompok orang, buat daftar distribusi (di bawah **grup**), Tambahkan pengguna Anda ke dalamnya, lalu konfigurasikan penerusan ke grup tersebut.
+Untuk mengirim instruksi kepada pengguna Anda agar mereka dapat menyiapkan penerusan email pada kotak surat mereka sendiri, arahkan mereka untuk membuka Meneruskan email dari [Microsoft 365 ke akun email lain.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Harap diperhatikan bahwa Anda hanya bisa meneruskan ke satu alamat email. Jika perlu menyiapkan penerusan ke sekelompok orang, buat daftar distribusi (di bawah Grup **),** tambahkan pengguna Anda ke dalamnya, lalu konfigurasi penerusan ke grup tersebut.
   
-Apakah Anda telah meninggalkan karyawan? Lihat [menghapus mantan karyawan dari Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) untuk langkah yang dianjurkan.
+Apakah ada karyawan yang keluar dari perusahaan Anda? Lihat [Menghapus mantan karyawan dari Microsoft 365 untuk mengetahui](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) langkah-langkah yang disarankan.

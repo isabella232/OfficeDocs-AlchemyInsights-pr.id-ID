@@ -1,8 +1,8 @@
 ---
-title: Memperbarui pengaturan privasi kamera Anda
+title: Memperbarui Pengaturan Privasi Kamera Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: b4731cb8abc7cc8b146a752940fa954138ddb188
-ms.sourcegitcommit: 56e0cd81b44ae8fe7a63810a043a452f407e87d6
+ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48274841"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782658"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Memperbarui pengaturan privasi kamera Anda
+# <a name="update-your-cameras-privacy-settings"></a>Memperbarui Pengaturan Privasi Kamera Anda
 
-Kode kesalahan ini berarti bahwa pengaturan privasi kamera Anda berdampak pada aplikasi. Ikuti langkah-langkah ini untuk memperbarui pengaturan privasi kamera Anda:
+Kode kesalahan ini berarti bahwa pengaturan privasi kamera berdampak pada aplikasi tersebut. Ikuti langkah-langkah berikut untuk memperbarui pengaturan privasi kamera Anda:
 
-- Buka **tombol mulai > pengaturan > > kamera privasi**.
-- Di bawah **Izinkan akses ke kamera di perangkat ini**, pilih **Ubah**. Pastikan tombol alih **diaktifkan.**
-- Berikutnya, di bawah **Izinkan aplikasi untuk mengakses kamera Anda**, pastikan tombol alih **diaktifkan.**
-- Lalu, di bawah **pilih aplikasi mana yang bisa mengakses kamera Anda**, pastikan bahwa tombol di samping aplikasi yang Anda inginkan diaktifkan juga.
+- Buka **tombol Mulai > Pengaturan > Privasi > Kamera.**
+- Di **bawah Perbolehkan akses ke kamera di perangkat ini**, pilih **Ubah**. Pastikan tombol alih **dinyalakan**.
+- Berikutnya, di **bawah Izinkan aplikasi mengakses kamera Anda**, pastikan tombol alih dinyalakan **.**
+- Kemudian, **pada Pilih aplikasi mana yang dapat mengakses kamera**, pastikan tombol alih di samping aplikasi yang Anda inginkan juga aktif.

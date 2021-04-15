@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764372"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692685"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Menyiapkan konferensi audio untuk Teams
 
@@ -42,4 +43,4 @@ Untuk memverifikasi apakah pengguna memiliki lisensi Konferensi Audio dan memili
 
 7. Pilih pengguna yang dimaksud dan verifikasi apakah pengguna tersebut memiliki **Nomor Tol Default**.
 
-Untuk informasi lebih lanjut, baca [Paket Panggilan untuk Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan terkait lisensi yang dimaksud.
+Untuk informasi lebih lanjut, baca [Paket Panggilan Microsoft Teams untuk Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan terkait lisensi yang dimaksud.
