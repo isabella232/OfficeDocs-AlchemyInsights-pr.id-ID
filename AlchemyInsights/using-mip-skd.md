@@ -1,40 +1,41 @@
 ---
-title: Menggunakan MIP SKD
+title: Menggunakan SDK MIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770958"
 ---
-# <a name="using-mip-skd"></a>Menggunakan MIP SKD
+# <a name="using-mip-skd"></a>Menggunakan SDK MIP
 
-Untuk menggunakan MIP SDK, ada beberapa langkah yang diperlukan untuk setup dan mengkonfigurasi Office 365 langganan dan klien workstation. Langkah ini meliputi:
+Untuk menggunakan SDK MIP, ada beberapa langkah yang diperlukan untuk menyiapkan dan mengonfigurasi langganan Office 365 dan stasiun kerja klien. Langkah-langkah ini mencakup:
 
-- Mendaftar untuk berlangganan Office 365.
+- Daftar langganan Office 365.
 - Konfigurasikan label sensitivitas.
-- Konfigurasikan workstation klien Anda.
-- Daftarkan aplikasi klien dengan Azure Active Directory.
-- Permintaan perjanjian integrasi perlindungan informasi (IPIA).
+- Konfigurasikan stasiun kerja klien.
+- Daftar aplikasi klien di Azure Active Directory.
+- Minta Perjanjian Integrasi Perlindungan Informasi (IPIA).
 - Pastikan aplikasi Anda memiliki runtime yang diperlukan.
 
-Untuk informasi lebih lanjut tentang langkah tesis, lihat [setup dan mengkonfigurasi MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Untuk informasi selengkapnya tentang langkah-langkah ini, lihat [Menyiapkan dan Mengonfigurasi SDK MIP](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
 Untuk sumber daya tambahan, lihat:
 
-- [Dokumentasi SDK perlindungan informasi Microsoft](https://docs.microsoft.com/information-protection/develop/)
-- [Panduan pengembang perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Unduh kit pengembangan perangkat lunak perlindungan informasi Microsoft](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Penataan dan konfigurasi perlindungan informasi Microsoft (MIP) SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Sampel kode Azure untuk MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Dokumentasi SDK Microsoft Information Protection](https://docs.microsoft.com/information-protection/develop/)
+- [Panduan Pengembang Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Mengunduh Kit Pengembangan Perangkat Lunak Microsoft Information Protection](https://www.microsoft.com/download/details.aspx?id=57392)
+- [ Penyiapan dan konfigurasi SDK Microsoft Information Protection (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Contoh Kode Azure untuk SDK MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
