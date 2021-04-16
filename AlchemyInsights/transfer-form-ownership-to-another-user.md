@@ -2,7 +2,7 @@
 title: Mentransfer kepemilikan formulir ke pengguna lain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700134"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809046"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="ca3f6-102">Mentransfer kepemilikan formulir Microsoft</span><span class="sxs-lookup"><span data-stu-id="ca3f6-102">Transfer ownership of a Microsoft Form</span></span>
+# <a name="transfer-ownership-of-a-microsoft-form"></a><span data-ttu-id="d2013-102">Mentransfer kepemilikan Microsoft Form</span><span class="sxs-lookup"><span data-stu-id="d2013-102">Transfer ownership of a Microsoft Form</span></span>
 
-<span data-ttu-id="ca3f6-103">Anda dapat memindahkan survei, kuis, atau polling di Microsoft forms ke grup agar semua orang di grup Anda menjadi pemilik formulir tersebut.</span><span class="sxs-lookup"><span data-stu-id="ca3f6-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="ca3f6-104">Anda juga dapat mentransfer kepemilikan formulir kepada pengguna lain jika pemilik sebelumnya telah meninggalkan organisasi.</span><span class="sxs-lookup"><span data-stu-id="ca3f6-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
+<span data-ttu-id="d2013-103">Anda dapat memindahkan survei, kuis, atau polling di Microsoft Forms ke grup sehingga semua orang dalam grup dapat menjadi pemilik formulir tersebut.</span><span class="sxs-lookup"><span data-stu-id="d2013-103">You can move a survey, quiz, or poll in Microsoft Forms to a group so everyone in your group becomes owners of that form.</span></span> <span data-ttu-id="d2013-104">Anda juga bisa mentransfer kepemilikan formulir ke pengguna lain jika pemilik sebelumnya telah meninggalkan organisasi.</span><span class="sxs-lookup"><span data-stu-id="d2013-104">You can also transfer form ownership to another user if the previous owner has left the organization.</span></span>
 
-<span data-ttu-id="ca3f6-105">Untuk informasi selengkapnya, lihat [mentransfer kepemilikan formulir](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span><span class="sxs-lookup"><span data-stu-id="ca3f6-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
+<span data-ttu-id="d2013-105">Untuk informasi selengkapnya, [lihat Mentransfer kepemilikan formulir.](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4)</span><span class="sxs-lookup"><span data-stu-id="d2013-105">For more information, see [Transfer ownership of a form](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).</span></span>
