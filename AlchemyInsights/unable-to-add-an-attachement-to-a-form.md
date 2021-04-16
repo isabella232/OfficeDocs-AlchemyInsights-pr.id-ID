@@ -1,8 +1,8 @@
 ---
-title: Tidak dapat menambahkan lampiran ke formulir yang menghadapi eksternal
+title: Tidak dapat menambahkan lampiran ke formulir yang menghadap ke eksternal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749409"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797328"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Tidak dapat menambahkan lampiran ke formulir yang menghadapi eksternal
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Tidak dapat menambahkan lampiran ke formulir yang menghadap ke eksternal
 
-Jika Anda mencoba menambahkan lampiran ke survei Microsoft forms eksternal, fitur tersebut belum tersedia. Untuk melacak status permintaan fitur tersebut, masuk ke [entri UserVoice ini](https://go.microsoft.com/fwlink/?linkid=2133069), dan tambahkan suara Anda.
+Jika Anda mencoba menambahkan lampiran ke survei Microsoft Forms eksternal, fitur tersebut belum tersedia. Untuk melacak status permintaan fitur tersebut, masuk ke entri [UserVoice ini,](https://go.microsoft.com/fwlink/?linkid=2133069)lalu tambahkan suara Anda.

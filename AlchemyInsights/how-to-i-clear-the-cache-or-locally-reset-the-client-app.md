@@ -1,8 +1,8 @@
 ---
-title: Bagaimana cara menghapus tembolok atau mengatur ulang/refresh klien/aplikasi secara lokal?
+title: Bagaimana cara menghapus singgahan atau secara lokal mereset/merefresh klien/aplikasi?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795951"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Bagaimana cara menghapus tembolok atau mengatur ulang/refresh klien/aplikasi secara lokal?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Bagaimana cara menghapus singgahan atau secara lokal mereset/merefresh klien/aplikasi?
 
-Jika Anda melihat data yang tidak lengkap atau salah, coba tutup dan buka kembali aplikasi.  
+Jika Anda melihat data yang tidak lengkap atau tidak benar, coba paksa tutup dan buka kembali aplikasi.  
 
-Jika tidak berhasil, Anda bisa mencoba mengatur ulang Akun di perangkat.
+Jika tidak berhasil, Anda dapat mencoba mengatur ulang akun di perangkat.
  
-Buka aplikasi, masuk ke **pengaturan**, pilih akun email, dan pilih **Atur ulang Akun**.
+Buka aplikasi, masuk ke **Pengaturan**, pilih akun email, dan pilih Reset **Akun**.

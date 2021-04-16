@@ -1,8 +1,8 @@
 ---
-title: Masalah aktivasi-akun tidak memperbolehkan pengeditan di Mac
+title: Masalah aktivasi - Akun tidak mengizinkan pengeditan di Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748832"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795987"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Memperbaiki aplikasi Microsoft 365 "akun Anda tidak memperbolehkan pengeditan pada Mac" pesan
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Memperbaiki pesan "Akun Anda tidak mengizinkan pengeditan di Mac" aplikasi Microsoft 365
 
 Jika Anda menerima pesan ini, cobalah hal berikut:
 
