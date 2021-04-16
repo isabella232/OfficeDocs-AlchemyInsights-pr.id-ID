@@ -2,7 +2,7 @@
 title: Berbagi file melalui jaringan di Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745394"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813151"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Berbagi file melalui jaringan di Windows 10
 
-**Catatan**: jika sebelumnya Anda menggunakan homegroup untuk berbagi file, harap perhatikan bahwa homegroup telah dihapus dari Windows 10 (versi 1803). Kini Anda dapat berbagi printer dan file dengan menggunakan fitur bawaan di Windows 10.
+**Catatan**: Jika Anda sebelumnya menggunakan HomeGroup untuk berbagi file, harap diperhatikan bahwa HomeGroup telah dihapus dari Windows 10 (Versi 1803). Kini Anda dapat berbagi printer dan file menggunakan fitur bawaan di Windows 10.
 
 **Untuk berbagi file atau folder melalui jaringan**
 
-- Di **file Explorer**, pilih file > klik tab **bagikan** di bagian > atas di bagian **berbagi dengan** , klik **orang tertentu**.
+- Di **File Explorer**, pilih file > **tab** Bagikan di bagian atas > bagian Bagikan dengan, klik Orang **tertentu.** 
 
     ![Berbagi file dengan orang tertentu.](media/share-with-specific-people.png)
           
-- Jika Anda memilih beberapa file sekaligus, Anda bisa membagikannya dengan cara yang sama. Juga berfungsi untuk folder.
+- Jika Anda memilih beberapa file sekaligus, Anda dapat membagikan semuanya dengan cara yang sama. Berfungsi juga untuk folder.
 
-**Untuk melihat perangkat pada jaringan yang berbagi file**
+**Untuk melihat perangkat di jaringan yang berbagi file**
 
-- Di **file Explorer**, masuk ke **jaringan**. Jika penemuan jaringan tidak diaktifkan, Anda akan melihat pesan kesalahan "penemuan jaringan dimatikan..."
+- Di **File Explorer**, masuk ke **Jaringan**. Jika Penemuan jaringan tidak diaktifkan, Anda akan melihat pesan kesalahan "Penemuan jaringan dinonaktifkan..."
 
-- Klik **penemuan jaringan** dinonaktifkan banner, lalu klik **Aktifkan penemuan jaringan dan berbagi file**.
+- Klik **banner Penemuan jaringan dinonaktifkan,** lalu klik Aktifkan **penemuan jaringan dan berbagi file.**
 
-    ![Mengaktifkan penemuan jaringan dan berbagi file.](media/turn-on-network-discovery.png)
+    ![Aktifkan penemuan jaringan dan berbagi file.](media/turn-on-network-discovery.png)
 
 [Baca selengkapnya tentang berbagi file melalui jaringan](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Berbagi file menggunakan aplikasi, OneDrive, email, dan lainnya](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Berbagi file menggunakan aplikasi, OneDrive, email, dan banyak lagi](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

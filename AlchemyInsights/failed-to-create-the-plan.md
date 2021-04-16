@@ -2,7 +2,7 @@
 title: Gagal membuat rencana
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3157"
 - "9000727"
-ms.openlocfilehash: a5090d6d74a3e8f1cdaf52f54d420ccc7c90c107
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b5a2a88a82d837ae953f88866cf778fd74a2b6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782618"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813223"
 ---
-# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Kesalahan "gagal membuat rencana" ketika mencoba membuat tab Planner di Microsoft teams
+# <a name="failed-to-create-the-plan-error-when-trying-to-create-a-planner-tab-in-microsoft-teams"></a>Kesalahan "Gagal membuat rencana" ketika mencoba membuat tab Planner di Microsoft Teams
 
-Jika Anda menerima kesalahan "gagal membuat rencana" ketika mencoba membuat tab Planner di Microsoft teams, pastikan admin adalah anggota grup tersebut dengan mengikuti langkah-langkah berikut:
+Jika menerima kesalahan "Gagal membuat rencana" ketika mencoba membuat tab Planner di Microsoft Teams, pastikan admin adalah Anggota grup dengan mengikuti langkah-langkah berikut:
 
-1. Di pusat admin, masuk ke grup **grup**  >  [Groups](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
-2. Pilih grup, lalu pada tab **anggota** , pilih **Tampilkan semua dan Kelola anggota**.
-3. Tambahkan anggota dan pilih **Simpan**.
+1. Di pusat admin, masuk ke **Grup**  >  [Grup](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). 
+2. Pilih grup, lalu pada tab **Anggota,** pilih Tampilkan **semua dan kelola anggota**.
+3. Tambahkan anggota dan pilih **Simpan.**

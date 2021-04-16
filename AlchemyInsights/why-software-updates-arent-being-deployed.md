@@ -1,8 +1,8 @@
 ---
-title: Mengapa pembaruan perangkat lunak tidak sedang digunakan?
+title: Mengapa pembaruan perangkat lunak tidak disebarkan?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805689"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Mengapa pembaruan perangkat lunak tidak sedang digunakan?
+# <a name="why-software-updates-are-not-being-deployed"></a>Mengapa pembaruan perangkat lunak tidak disebarkan?
 
-Tinjau yang berikut ini jika Anda mengonfigurasi pembaruan perangkat lunak melalui cincin pembaruan Windows 10 tapi pembaruan tidak disebarkan:  
+Tinjau hal berikut jika Anda mengonfigurasi pembaruan perangkat lunak melalui lingkaran pembaruan Windows 10 namun pembaruan tidak disebarkan:  
 
-- Pertimbangkan mengubah layanan Windows dari tipe rilis  **saluran semi tahunan**  ke tipe rilis yang lebih ketat dan lebih sering  
-- Periksa periode penangguhan pembaruan  **pembaruan kualitas**  dan  **fitur**. Periode penangguhan dapat mengakibatkan pembaruan hingga 180 hari.
+- Pertimbangkan untuk mengubah pelayanan Windows dari tipe rilis **Saluran Semi-Tahunan** menjadi tipe rilis yang lebih ketat dan lebih sering  
+- Periksa periode penangguhan untuk **Pembaruan kualitas** dan **Pembaruan fitur**. Periode penangguhan dapat mengakibatkan penundaan dalam pembaruan hingga 180 hari.

@@ -1,8 +1,8 @@
 ---
-title: Ada kesalahan validasi kesalahan token Access selama analitik desktop di dalam pesawat
+title: Terdapat kesalahan validasi kesalahan token akses selama on-boarding Analitik Desktop
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783554"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813691"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Kesalahan "terjadi kesalahan validasi token Access" selama orientasi analitik desktop
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Kesalahan "Terdapat kesalahan memvalidasi token akses" selama onboarding Analitik Desktop
 
-Kesalahan ini biasanya diamati ketika token autentikasi kedaluwarsa. Biasanya, refresh halaman me-refresh Token. Namun, masalah ini bisa terjadi jika ada kebijakan akses bersyarat yang diterapkan ke akun yang digunakan untuk analitik desktop di papan. Anda bisa meninjau log masuk Azure AD di Azure portal untuk melihat apakah ada kegagalan masuk untuk akun yang digunakan untuk orientasi analitik desktop.
+Kesalahan ini biasanya terlihat ketika token autentikasi kedaluwarsa. Biasanya, me-refresh halaman merefresh token. Namun, masalah ini dapat terjadi jika terdapat kebijakan Akses Kondisional apa pun yang diterapkan ke akun yang sedang digunakan untuk Analitik Desktop di papan. Anda dapat meninjau log Masuk Azure AD di Portal Azure untuk melihat apakah ada kegagalan masuk untuk akun yang sedang digunakan untuk onboarding Analitik Desktop.
 
-Untuk informasi selengkapnya tentang akses bersyarat, kunjungi [merencanakan penggunaan akses bersyarat Anda](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Untuk informasi selengkapnya tentang Akses Bersyarat, kunjungi [Merencanakan penggunaan Akses Bersyarat Anda.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)
