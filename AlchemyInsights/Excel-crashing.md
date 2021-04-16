@@ -1,8 +1,8 @@
 ---
-title: Excel menabrak?
+title: Excel mengalami crash?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804816"
 ---
-# <a name="frequent-excel-crashes"></a>Sering crash Excel?
+# <a name="frequent-excel-crashes"></a>Excel sering mengalami crash?
 
-Sering crash di Excel dapat disebabkan oleh rusak add-in. Anda dapat menonaktifkan Excel add-in dengan mengikuti petunjuk berikut:
+Crash yang sering terjadi di Excel dapat disebabkan oleh add-in yang rusak. Anda dapat menonaktifkan add-in Excel dengan mengikuti instruksi berikut:
   
-1. Pilih **File** \> **pilihan**, \> **Add-in**.
+1. Pilih **Opsi** \> **File**, \> **Add-In**.
 
-2. Dalam **mengelola** kotak, pilih **COM Add-in**, dan kemudian klik **pergi**.
+2. Dalam **kotak Kelola,** pilih **Add-in COM,** lalu klik **Buka.**
 
-3. Dalam kotak Add-in tersedia, Hapus centang pada kotak di sebelah add-in yang Anda ingin menonaktifkan, dan kemudian klik **OK**.
+3. Dalam kotak Add-Ins yang tersedia, kosongkan kotak centang di samping add-in yang ingin Anda nonaktifkan, lalu klik **OK.**
 
 > [!NOTE]
-> Jika Excel crash selama peluncuran, silahkan memulai itu dalam mode aman dengan menekan menekan Ctrl ketika Anda mulai program.
+> Jika Excel mengalami crash saat diluncurkan, silakan luncurkan dalam mode Aman dengan menekan dan menahan Ctrl saat Anda memulai program.
   
-Jika Anda masih mengalami masalah, lihat artikel berikut:
+Jika Anda masih mengalami masalah, lihat artikel berikut ini:
   
-- [Saya mendapatkan error "berhenti bekerja" ketika aku mulai 2016 kantor atau 2013 aplikasi pada PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Saya mendapatkan kesalahan "berhenti berfungsi" ketika memulai aplikasi Office 2016 atau 2013 di PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Cara memecahkan masalah menabrak dan tidak menanggapi dengan Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Cara memecahkan masalah crash dan tidak merespons dengan Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel tidak menanggapi, Hang, membeku atau berhenti bekerja](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel tidak merespons, berhenti, beku atau berhenti bekerja](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

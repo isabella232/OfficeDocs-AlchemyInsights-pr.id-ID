@@ -2,7 +2,7 @@
 title: Masalah dan resolusi umum terkait Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002428"
 - "4712"
-ms.openlocfilehash: 4ecd8b34830f53670145068398f28d16e820efd2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d4856271c7cdb4993dce90bdee7086e440b72ac9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657567"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805473"
 ---
 # <a name="yammer-common-issues-and-resolutions"></a>Masalah dan resolusi umum terkait Yammer
 
@@ -29,7 +29,7 @@ Berikut adalah beberapa topik yang sering diminta untuk Yammer:
 
 - **Acara Langsung**: Pertemukan komunitas Anda dengan [Acara Langsung](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-live-events). Dapatkan [bantuan dan panduan tambahan](https://resources.techcommunity.microsoft.com/live-events/assistance/) untuk memastikan keberhasilan acara. 
 
-- **eDiscovery**: Jalankan [alat Perataan Mode Asli ](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) untuk mempersiapkan[eDiscovery di jaringan Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
+- **eDiscovery**: Jalankan [alat Perataan Mode Asli](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode) untuk mempersiapkan [eDiscovery di jaringan Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery). 
 
 - **Kepatuhan**: Atur [kebijakan penggunaan](https://docs.microsoft.com/yammer/manage-security-and-compliance/set-up-a-usage-policy) untuk pengguna, [ekspor data Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data), pahami [cara menangani permintaan GDPR](https://docs.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise) untuk Yammer, dan [temukan tempat data Yammer dihosting](https://docs.microsoft.com/yammer/manage-security-and-compliance/data-residency). [Nonaktifkan](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) akses Yammer, jika diperlukan.
 

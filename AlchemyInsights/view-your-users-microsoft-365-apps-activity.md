@@ -2,7 +2,7 @@
 title: Menampilkan aktivitas aplikasi Microsoft 365 pengguna Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664641"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806625"
 ---
 # <a name="view-your-users-microsoft-365-apps-activity"></a>Menampilkan aktivitas aplikasi Microsoft 365 pengguna Anda
 
-[Laporan aktivasi Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) memberi Anda tampilan yang telah diinstal dan diaktifkan oleh pengguna Microsoft 365 di setidaknya satu perangkat.
+Laporan [Aktivasi Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) memberi Anda tampilan mengenai pengguna mana yang telah menginstal dan mengaktifkan aplikasi Microsoft 365 di setidaknya satu perangkat.
 
-Selain itu, Anda bisa mendapatkan tampilan ke aktivitas aplikasi Microsoft 365 pengguna Anda dengan menggunakan [laporan penggunaan aplikasi microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).
+Selain itu, Anda dapat melihat aktivitas Aplikasi Microsoft 365 pengguna menggunakan laporan [penggunaan Aplikasi Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
