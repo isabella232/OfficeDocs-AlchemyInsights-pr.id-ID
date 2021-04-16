@@ -1,8 +1,8 @@
 ---
-title: Menjadikan akun lain sebagai administrator
+title: Membuat akun lain menjadi administrator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794697"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795015"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Mengubah akun pengguna standar menjadi administrator di Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>Mengubah akun pengguna standar ke administrator di Windows 10
 
-Berikut adalah cara untuk mengubah akun pengguna standar menjadi administrator di Windows 10:
+Berikut cara mengubah akun pengguna standar menjadi administrator di Windows 10:
 
-1. Masuk ke **akun mulai**  >  **pengaturan**  >  **Account**  >  **keluarga & orang lain** (atau **orang lain**, jika Anda menggunakan Windows 10 Enterprise).
+1. Masuk ke **Mulai**  >  **Pengaturan**  >  **Akun**  >  **Keluarga & orang lain** **(atau Orang lain**, jika Anda menggunakan Windows 10 Enterprise).
 2. Pilih akun yang ingin Anda jadikan administrator, lalu pilih **Ubah akun**.
-3. Di bawah **tipe akun**, pilih **administrator**, lalu pilih **OK**.
+3. Di **bawah Tipe** akun , pilih **Administrator**, lalu pilih **OK.**
 
-**Catatan:** Anda hanya bisa mengubah akun ke administrator dari akun administrator yang sudah ada.
+**Catatan:** Anda hanya bisa mengubah akun menjadi administrator dari akun administrator yang sudah ada.
