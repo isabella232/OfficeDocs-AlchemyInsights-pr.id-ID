@@ -1,8 +1,8 @@
 ---
-title: Office 2019 di terminal server atau RDS
+title: Office 2019 di Terminal Server atau RDS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790983"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Menyebarkan Office 2019 untuk digunakan bersama di RDS, terminal server, atau VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Menyebarkan Office 2019 untuk penggunaan bersama di RDS, Terminal Server, atau VDI
 
-Jika Office telah terinstal di server RDS menggunakan paket Office lainnya, Hapus instalasinya. Misalnya, masuk ke **panel kontrol**  >  **hapus instalan program**. Jika Anda mengalami masalah, hapus instalan menggunakan [asisten dukungan dan pemulihan Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Jika Office sudah diinstal di server RDS menggunakan paket Office lain, hapus instalasinya. Misalnya, masuk ke **Panel Kontrol Hapus**  >  **instalan program**. Jika mengalami masalah, hapus instalan menggunakan [Asisten Dukungan dan Pemulihan Microsoft.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Gunakan Office Deployment Tool (ODT) untuk menginstal Office. Untuk langkah mendetail, lihat [menyebarkan Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Gunakan Office Deployment Tool (ODT) untuk menginstal Office. Untuk langkah detailnya, lihat [Menyebarkan Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Untuk aktivasi, lihat [gambaran umum aktivasi volume Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Untuk aktivasi, lihat [Gambaran umum aktivasi volume Office.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
