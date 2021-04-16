@@ -1,27 +1,26 @@
 ---
-title: Baru menggunakan Microsoft Teams
+title: Menyiapkan Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509148"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786204"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="fb609-102">Baru menggunakan Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="fb609-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="afa5b-102">Menyiapkan Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="afa5b-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="fb609-103">Baca  [Mulai Menggunakan Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="fb609-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="fb609-104">Pastikan untuk melihat Dek dan Video Pelatihan Admin TI Microsoft Teams, dan banyak lagi.</span><span class="sxs-lookup"><span data-stu-id="fb609-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="afa5b-103">[Panduan penyiapan Microsoft Teams](https://aka.ms/teamsguidance) menyediakan panduan bagi organisasi Anda untuk menyiapkan ruang kerja tim yang menyelenggarakan percakapan real-time melalui pesan, panggilan, dan rapat audio atau video baik untuk tim maupun komunikasi pribadi.</span><span class="sxs-lookup"><span data-stu-id="afa5b-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="afa5b-104">Anda akan menerima petunjuk untuk menentukan persyaratan jaringan organisasi menggunakan alat Perencana Jaringan dan Advsior untuk Teams dalam pusat admin Teams.</span><span class="sxs-lookup"><span data-stu-id="afa5b-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="afa5b-105">Setelah penyebaran Anda selesai, panduan menyertakan sumber daya yang bermanfaat untuk mulai menggunakan Teams.</span><span class="sxs-lookup"><span data-stu-id="afa5b-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="fb609-105">Jika memerlukan bantuan terkait penerapan Teams untuk mendukung Pekerja Jarak Jauh (WFH) karena COVID-19, tinjau [Dukungan pekerja jarak jauh yang menggunakan Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span><span class="sxs-lookup"><span data-stu-id="fb609-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="fb609-106">Selain itu, Anda mungkin memenuhi syarat untuk mendapatkan bantuan penerapan dari program FastTrack Microsoft 365 - kunjungi [Pusat FastTrack](https://www.microsoft.com/fasttrack) untuk mengirimkan permintaan.</span><span class="sxs-lookup"><span data-stu-id="fb609-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="fb609-107">**Penting**: Dikarenakan peningkatan penggunaan Teams baru-baru ini, Anda mungkin akan butuh waktu sekitar 24 jam untuk menyelesaikan penyiapan penetapan lisensi ke pengguna.</span><span class="sxs-lookup"><span data-stu-id="fb609-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="fb609-108">Sampai saat itu, Anda tidak akan dapat menetapkan kebijakan Teams kepada mereka, dan mereka mungkin tidak memiliki akses ke beberapa fitur tim seperti konferensi panggilan dan audio.</span><span class="sxs-lookup"><span data-stu-id="fb609-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="afa5b-106">Untuk informasi tambahan, lihat [Memulai Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="afa5b-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>

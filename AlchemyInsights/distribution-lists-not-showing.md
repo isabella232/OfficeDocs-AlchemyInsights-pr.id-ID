@@ -2,7 +2,7 @@
 title: Daftar distribusi tidak muncul
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
-ms.openlocfilehash: 7e681274bb58ac2f64a923999504f22074dd2c52
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74fc4adc75492e3b8728ac3d5ac009e096db746d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711971"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815033"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="3ea26-102">Grup distribusi tidak tampil dalam daftar Grup</span><span class="sxs-lookup"><span data-stu-id="3ea26-102">Distribution Group not showing in Groups list</span></span>
+# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="2b4c7-102">Grup Distribusi tidak muncul dalam daftar Grup</span><span class="sxs-lookup"><span data-stu-id="2b4c7-102">Distribution Group not showing in Groups list</span></span>
 
-<span data-ttu-id="3ea26-103">Diperlukan waktu hingga 60 menit sebelum daftar distribusi baru muncul di pusat pusat admin Exchange.</span><span class="sxs-lookup"><span data-stu-id="3ea26-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
+<span data-ttu-id="2b4c7-103">Daftar Distribusi baru akan muncul di pusat Exchange admin center dapat memakan waktu hingga 60 menit.</span><span class="sxs-lookup"><span data-stu-id="2b4c7-103">It can take up to 60 minutes before your new Distribution List appears in the Exchange admin center center.</span></span>
   
-<span data-ttu-id="3ea26-104">Jika Anda ingin menambahkan anggota atau melakukan pengeditan saat ini, silakan gunakan fitur grup di [Pusat admin Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span><span class="sxs-lookup"><span data-stu-id="3ea26-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
+<span data-ttu-id="2b4c7-104">Jika Anda ingin menambahkan anggota atau melakukan pengeditan saat ini, silakan gunakan fitur Grup di [Pusat Admin Exchange.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)</span><span class="sxs-lookup"><span data-stu-id="2b4c7-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).</span></span>
   
 

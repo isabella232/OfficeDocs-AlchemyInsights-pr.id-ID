@@ -2,24 +2,25 @@
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "3816"
-ms.openlocfilehash: 5ebd3b02c4b8911b2a925ac827cca5436e1f156e
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 248a1baac87b09b4c6f29c160beadb52ed0d3983
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932047"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813259"
 ---
-# <a name="failed_to_auto_discover_domain"></a><span data-ttu-id="2f8a3-102">FAILED_TO_AUTO_DISCOVER_DOMAIN</span><span class="sxs-lookup"><span data-stu-id="2f8a3-102">FAILED_TO_AUTO_DISCOVER_DOMAIN</span></span>
+# <a name="failed_to_auto_discover_domain"></a><span data-ttu-id="ff2ba-102">FAILED_TO_AUTO_DISCOVER_DOMAIN</span><span class="sxs-lookup"><span data-stu-id="ff2ba-102">FAILED_TO_AUTO_DISCOVER_DOMAIN</span></span>
 
-<span data-ttu-id="2f8a3-103">Insiden Layanan Aktif mungkin terjadi dan membuat Anda tidak dapat mengakses pusat Admin Teams.</span><span class="sxs-lookup"><span data-stu-id="2f8a3-103">An Active Service Incident might be occurring and causing you to not access Teams Admin center.</span></span> <span data-ttu-id="2f8a3-104">Silakan kunjungi **Dasbor Layanan Kesehatan** untuk melihat detail.</span><span class="sxs-lookup"><span data-stu-id="2f8a3-104">Please check your **Service Health Dash** for details.</span></span>
+<span data-ttu-id="ff2ba-103">Insiden Layanan Aktif mungkin terjadi dan membuat Anda tidak dapat mengakses pusat Admin Teams.</span><span class="sxs-lookup"><span data-stu-id="ff2ba-103">An Active Service Incident might be occurring and causing you to not access Teams Admin center.</span></span> <span data-ttu-id="ff2ba-104">Silakan kunjungi **Dasbor Layanan Kesehatan** untuk melihat detail.</span><span class="sxs-lookup"><span data-stu-id="ff2ba-104">Please check your **Service Health Dash** for details.</span></span>
 
-<span data-ttu-id="2f8a3-105">Untuk langkah pemecahan masalah mendetail, lihat kesalahan FAILED_TO_AUTO_DISCOVER_DOMAIN di pusat admin Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="2f8a3-105">For detailed troubleshooting steps, see FAILED_TO_AUTO_DISCOVER_DOMAIN error in Microsoft Teams admin center.</span></span>
+<span data-ttu-id="ff2ba-105">Untuk langkah pemecahan masalah mendetail, lihat kesalahan FAILED_TO_AUTO_DISCOVER_DOMAIN di pusat admin Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="ff2ba-105">For detailed troubleshooting steps, see FAILED_TO_AUTO_DISCOVER_DOMAIN error in Microsoft Teams admin center.</span></span>
