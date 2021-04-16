@@ -1,8 +1,8 @@
 ---
-title: Memperbaiki kesalahan pembaruan Windows
+title: Memperbaiki kesalahan Windows Update
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744665"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812647"
 ---
-# <a name="fix-windows-update-errors"></a>Memperbaiki kesalahan pembaruan Windows
+# <a name="fix-windows-update-errors"></a>Memperbaiki kesalahan Windows Update
 
-Jika Anda mendapatkan kode kesalahan saat mengunduh dan menginstal Windows Update, pemecah masalah **pembaruan** bisa membantu mengatasi masalah tersebut.
+Jika Anda mendapatkan kode kesalahan saat mengunduh dan menginstal pembaruan Windows, **Pemecah Masalah** Pembaruan dapat membantu mengatasi masalah tersebut.
 
-- [Mengunduh pemecah masalah pembaruan untuk Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Menjalankan pemecah masalah. Setelah selesai, sebaiknya mulai ulang perangkat Anda. Lalu Periksa pembaruan baru dengan masuk ke [mulai > pengaturan > perbarui & keamanan > pembaruan Windows](ms-settings:windowsupdate).
+- [Mengunduh Pemecah Masalah Pembaruan untuk Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Jalankan pemecah masalah. Setelah selesai, lebih baik menghidupkan ulang perangkat Anda. Lalu periksa pembaruan baru dengan masuk ke [Mulai > Pengaturan > Pembaruan & keamanan > Windows Update.](ms-settings:windowsupdate)
 
-Jika mereka masih tidak berhasil, silakan periksa [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) untuk informasi selengkapnya.
+Jika tetap tidak berhasil, silakan lihat Windows [Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) untuk informasi selengkapnya.

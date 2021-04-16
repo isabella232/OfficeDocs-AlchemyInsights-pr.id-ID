@@ -2,7 +2,7 @@
 title: Membantu memahami pajak pertambahan nilai (PPN)
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7222f1e9b53504f34f5136c815c1dff8e2d2e7cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705496"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811639"
 ---
 # <a name="help-understanding-value-added-tax-vat"></a>Membantu memahami pajak pertambahan nilai (PPN)
 
-Jika Anda berada di negara yang menggunakan pajak pertambahan nilai (PPN), seperti Inggris, faktur Microsoft menghitung PPN untuk Anda, dan menerapkan jumlah ke faktur Anda.
+Jika berada di negara yang menggunakan pajak pertambahan nilai, seperti Kerajaan Inggris Bersatu, Microsoft Invoicing akan menghitung PPN untuk Anda dan menerapkan jumlah tersebut ke faktur.
   
-Untuk alasan pajak, Anda juga harus menentukan nomor pendaftaran PPN Anda dalam pengaturan untuk faktur.
+Untuk alasan pajak, Anda juga harus menentukan nomor pendaftaran PPN dalam pengaturan untuk Invoicing.
   
-Anda tidak bisa menambahkan atau menghapus TARIF PPN, tapi Anda bisa mengubah tingkat PPN default di pengaturan. Secara default, faktur menggunakan layanan untuk memvalidasi nomor pendaftaran PPN, namun kami menyarankan agar Anda membaca [sanggahan Viden](https://go.microsoft.com/fwlink/?LinkID=841741) yang diterbitkan oleh Komisi Eropa. Jika Anda memilih untuk menonaktifkan layanan, Anda harus memverifikasi semua nomor pendaftaran PPN.
+Anda tidak dapat menambahkan atau menghapus tarif PPN, tetapi dapat mengubah tarif default PPN dalam Pengaturan. Secara default, Invoicing menggunakan layanan untuk memvalidasi nomor PPN, tetapi sebaiknya Anda membaca sanggahan [VIES](https://go.microsoft.com/fwlink/?LinkID=841741) yang diterbitkan oleh Komisi Eropa. Jika memilih untuk menonaktifkan layanan ini, Anda harus memverifikasi semua nomor PPN.

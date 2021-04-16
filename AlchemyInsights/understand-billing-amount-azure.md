@@ -2,7 +2,7 @@
 title: Memahami tagihan Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808312"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782694"
 ---
-# <a name="understand-billing-amount"></a>Memahami jumlah tagihan
+# <a name="understand-billing-amount"></a>Memahami konsep tagihan
 
-Penawaran akun gratis Azure meliputi $200 kredit Azure (akan digunakan dalam 30 hari pertama pendaftaran) dan 12 bulan dari Pilih layanan gratis (dapat berubah)
+Penawaran Akun Gratis Azure menyertakan kredit Azure sebesar $200 (yang akan digunakan dalam 30 hari pertama pendaftaran) dan 12 bulan layanan gratis tertentu (dapat berubah)
 
-Penawaran ini terbatas pada satu pendaftaran per pelanggan yang memenuhi syarat dan tidak bisa dikombinasikan dengan Penawaran lainnya kecuali diizinkan oleh Microsoft
+Penawaran ini dibatasi untuk satu pendaftaran per pelanggan yang memenuhi syarat dan tidak dapat digabungkan dengan penawaran lain kecuali jika diizinkan oleh Microsoft
 
-Dalam 30 hari sejak pendaftaran atau pada kelelahan kredit pelanggan (apa pun yang terjadi terlebih dahulu), pelanggan harus memutakhirkan ke akun prabayar dengan menghapus batas pembelanjaan. Hal ini memungkinkan kelanjutan penggunaan akun gratis Azure untuk sisa 11 bulan. Setelah pelanggan memutakhirkan, penggunaan di luar kredit awal dan pilih layanan gratis akan dikenakan tarif prabayar. Jika pelanggan memilih untuk tidak memutakhirkan, langganan akun gratis akan dinonaktifkan.
+Dalam 30 hari setelah mendaftar atau setelah kredit pelanggan habis (yang pertama terjadi), pelanggan harus memutakhirkan ke akun Pay-As-You-Go dengan menghapus Batas Pengeluaran. Hal ini memungkinkan penggunaan Akun Gratis Azure untuk 11 bulan yang tersisa. Setelah pelanggan dimutakhirkan, penggunaan di luar kredit awal dan layanan gratis tertentu akan ditagihkan pada tarif Pay-As-You-Go. Jika pelanggan memilih untuk tidak memutakhirkan, langganan Akun Gratis akan dinonaktifkan.
 
-Pelajari selengkapnya: [produk tersedia bulanan gratis di bawah akun Azure gratis](https://azure.microsoft.com/free/free-account-faq/)
+Pelajari selengkapnya: [Produk tersedia bulanan secara gratis di bawah akun gratis Azure](https://azure.microsoft.com/free/free-account-faq/)
 
-**Mengaktifkan kembali langganan dinonaktifkan setelah 30 hari**
+**Mengaktifkan Kembali Langganan yang dinonaktifkan setelah 30 hari**
 
-- Setelah Anda mengaktifkan kembali dan mengonversi langganan uji coba gratis Anda ke layanan PAYG gratis yang disertakan harus dimulai dari waktu langganan diaktifkan. Selain itu, jika Anda mengonversikan akun Azure gratis ke X Offer (selain PAYG) secara tidak sengaja, Anda masih akan menerima manfaat.
+- Setelah Anda mengaktifkan kembali dan mengonversi langganan uji coba gratis Anda ke Layanan Yang Disertakan GRATIS PAYG akan dimulai dari saat langganan diaktifkan. Selain itu, jika mengonversikan akun gratis Azure ke penawaran X (selain PAYG) secara tidak sengaja, Anda masih akan terus menerima manfaatnya.
 
-Pelajari lebih lanjut: 
-- [Mengaktifkan kembali langganan](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Pelajari selengkapnya: 
+- [Aktifkan kembali langganan](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Membatalkan langganan Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Biaya tak terduga ke akun**
+**Biaya yang tidak diharapkan ke akun**
 
-- Jika Anda melihat biaya yang tidak terduga di akun Anda, Unduh data penggunaan Anda dan verifikasi Apakah Anda memiliki layanan yang tidak diinginkan atau sumber daya yang berjalan
-- Pelajari selengkapnya: [mengunduh data penggunaan Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
+- Jika Anda melihat biaya yang tidak diharapkan di akun Anda, unduh data penggunaan Anda dan verifikasi apakah Anda memiliki layanan atau sumber daya yang tidak diinginkan yang berjalan
+- Pelajari selengkapnya: [Mengunduh data penggunaan Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Tanya Jawab Umum:**
+**Tanya Jawab**
 
-**Apakah saya membayar apa pun saat saya menggunakan akun gratis Azure?**
+**Apakah saya membayar apa pun saat menggunakan Akun Gratis Azure?**
 
-Anda akan dikenakan biaya hanya jika Anda menggunakan layanan yang tidak disertakan dalam akun gratis Azure. Hanya setelah Anda menguras kredit $200 atau mencapai periode 30 hari (mana saja yang lebih dulu), akan Anda mulai dikenakan tarif prabayar.
+Anda hanya akan dikenakan biaya jika menyebarkan layanan yang tidak disertakan dalam Akun Gratis Azure. Hanya setelah kredit $200 habis atau mencapai periode 30 hari (yang pertama) Anda mulai ditagih sesuai tarif Pay-As-You-Go.
 
-**Berapa banyak langganan akun gratis Azure yang diperbolehkan untuk digunakan di akun saya?**  
+**Berapa banyak langganan Akun Gratis Azure yang diperbolehkan untuk saya gunakan di akun saya?**  
 
-Terdapat batas satu langganan akun gratis Azure per akun.
+Terdapat batas satu langganan Akun Gratis Azure per akun.
 
-**Bagaimana cara kerja akun Azure Free dengan pelanggan Enterprise Agreement (EA)?**  
+**Bagaimana cara kerja Akun Gratis Azure dengan pelanggan Enterprise Agreement (EA)?**  
 
-Penawaran ini tidak tersedia untuk pelanggan EA. Namun, jika pelanggan memiliki akun gratis dan mengonversi ke tier EA nanti, manfaat akun gratis akan berlanjut selama 12 bulan dari waktu pendaftaran akun gratis.
+Penawaran ini tidak tersedia untuk pelanggan EA. Namun, jika pelanggan memiliki Akun Gratis dan mengonversi ke tingkat EA nantinya, manfaat Akun Gratis akan berlanjut selama 12 bulan sejak waktu pendaftaran Akun Gratis.
 
-**Apakah layanan yang ditawarkan dalam konsumsi tingkat gratis dari kredit $200 awal?**  
+**Apakah layanan yang ditawarkan dalam tingkat gratis menghabiskan kredit awal $200?**  
 
-Tidak. Pelanggan mendapatkan jumlah tetap layanan tingkat gratis dan kredit $200 untuk 30 hari pertama. Jadi, pelanggan bisa menggunakan kredit $200 pada layanan tier non-gratis lainnya.
+Tidak. Pelanggan mendapatkan hitungan tetap layanan Tingkat Gratis dan kredit $200 untuk 30 hari pertama. Sehingga, pelanggan dapat menggunakan kredit $200 untuk layanan Tingkat Non-Gratis lainnya.
 
-**Bisakah saya melihat detail sponsor saya?**
+**Dapatkah saya menampilkan detail sponsor saya?**
 
-- Membuka jendela browser pribadi/penyamaran (Ctrl + Shift + P di Edge)
-- Menavigasi ke [sponsor Azure](http://www.microsoftazuresponsorships.com/)
-- Klik link Periksa saldo Anda
-- Masuk menggunakan kredensial akun yang disponsori pemerintah Azure Anda (login harus menggunakan format user.name@xxxx.onmicrosoft.com)
-- Anda akan diarahkan ke halaman yang menampilkan informasi berikut ini: tanggal mulai, tanggal akhir, jumlah sponsor, digunakan, saldo sisa
+- Buka jendela browser pribadi/incognito (Ctrl + Shift + P di Edge)
+- Navigasi ke [sponsor Azure](http://www.microsoftazuresponsorships.com/)
+- Klik link Periksa Saldo Anda
+- Masuk menggunakan kredensial akun Azure Government Sponsored (Masuk harus menggunakan user.name@xxxx.onmicrosoft.com format)
+- Anda akan diarahkan ke halaman yang menampilkan informasi berikut: Tanggal Mulai, Tanggal Akhir, Jumlah Item, Digunakan, Saldo Tersisa
 
-**Bagaimana cara memverifikasi layanan gratis aktif atau kapan mereka akan kedaluwarsa?**
+**Bagaimana cara memverifikasi layanan gratis yang aktif atau kapan layanan akan kedaluwarsa?**
 
-Di halaman> portal Ibiza > gambaran umum langganan > gulir ke bawah ke layanan gratis selama 12 bulan dan klik ikon informasi. Ini akan menampilkan tanggal ketika layanan gratis kedaluwarsa **catatan** : tidak ada layanan v1 yang merupakan bagian dari layanan Azure gratis yang disertakan. Untuk daftar layanan gratis yang paling baru, lihat [produk mana yang gratis untuk 12 bulan](http://www.microsoftazuresponsorships.com/)
+Di Portal Ibiza > Langganan > Gambaran Umum > gulir bawah ke layanan Gratis selama 12 bulan, lalu klik ikon Informasi. Langkah ini akan menampilkan tanggal saat layanan Gratis kedaluwarsa **Catatan**: Tidak ada layanan V1 yang merupakan bagian dari Layanan Disertakan Gratis Azure. Untuk daftar paling baru Layanan Gratis, lihat [Produk mana yang gratis selama 12 bulan](http://www.microsoftazuresponsorships.com/)
 
-Tanya Jawab Umum: [FAQ akun gratis](https://azure.microsoft.com/free/free-account-faq/)
+FAQ Tambahan: [FAQ akun gratis](https://azure.microsoft.com/free/free-account-faq/)
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
-- [Ketentuan Penawaran akun gratis Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Ketentuan Penawaran Akun Gratis Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
 - [Harga Azure](https://azure.microsoft.com/pricing/)

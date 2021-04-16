@@ -2,7 +2,7 @@
 title: Menemukan halaman yang memperlihatkan kontak saya
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff3fca5a12c08314388fdb494c598c3e03d5db8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745277"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812989"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>Menemukan halaman yang memperlihatkan kontak saya
 
-Anda dapat mencari kontak dengan cara yang sama dengan pencarian email.
+Cari kontak Anda dengan cara yang sama saat mencari email.
  
-Ketuk ikon pencarian kaca pembesar, lalu ketik permintaan pencarian kontak Anda ke dalam kotak di bagian atas layar Anda. (**Protip**: Anda bisa mengetuk dua kali pada kaca pembesar untuk membawa fokus ke kotak pencarian.) Hasil Anda akan muncul di bagian kontak.
+Ketuk ikon pencarian kaca pembesar, lalu ketik permintaan pencarian kontak Anda ke dalam kotak di bagian atas layar Anda. (**Tips** Protip : Anda bisa mengetuk ganda di kaca pembesar untuk membawa fokus ke kotak pencarian.) Hasil Anda akan muncul di bagian Kontak.

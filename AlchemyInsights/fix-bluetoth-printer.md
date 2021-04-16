@@ -2,7 +2,7 @@
 title: Memperbaiki printer Bluetooth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744917"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812899"
 ---
 # <a name="fix-bluetooth-printer-connection-issues"></a>Memperbaiki masalah koneksi printer Bluetooth
 
-Coba langkah pemecahan masalah ini untuk membuat printer Bluetooth berfungsi lagi:
+Coba langkah-langkah pemecahan masalah ini agar printer Bluetooth Anda berfungsi kembali:
 
 
-1. Periksa untuk memastikan Bluetooth diaktifkan:
-    1. Pilih **mulai**  >  **pengaturan**  >  **perangkat**  >  **Bluetooth & perangkat lain**.
-    2. **Aktifkan tombol alih Bluetooth**.
+1. Periksa untuk memastikan Bluetooth telah diaktifkan:
+    1. Pilih **Mulai**  >  **Pengaturan**  >  **Perangkat**  >  **Bluetooth & perangkat lain**.
+    2. Alihkan tombol Bluetooth **ke Aktif**.
 2. Jalankan pemecah masalah Bluetooth. <br>
-    Pilih **mulai**, ketikkan **pengaturan pemecahan masalah**, lalu pilih opsi **Atasi masalah pengaturan** . Pilih **Bluetooth** dari menu dan **Jalankan pemecah masalah**.
+    Pilih **Mulai**, ketik **pengaturan pemecahan** masalah , lalu pilih opsi Pemecahan **masalah** pengaturan. Pilih **Bluetooth** dari menu **dan Jalankan pemecah masalah**.
 
-Jika itu tidak berhasil, coba hapus dan instal ulang printer Bluetooth Anda:
+Jika tidak berhasil, coba hapus dan instal ulang printer Bluetooth Anda:
 
-1. Menghapus printer dalam pengaturan:
-    1. Pilih **mulai**  >  **pengaturan**  >  **perangkat**  >  **printer & scanner**.
-    2. Di bawah **pemindai & scanner**, pilih printer yang sedang Anda pemecahan masalah. Pilih **Hapus perangkat**. Ikuti petunjuk untuk menghapus printer sepenuhnya.
-2. Hapus perangkat lunak produsen printer pihak ketiga apa pun:
-    1. Pilih **mulai**  >  **Settings**  >  **aplikasi**pengaturan.
-    2. Di bawah **fitur & aplikasi**, gulir untuk menemukan perangkat lunak apa pun yang terinstal dari pabrik printer Anda (seperti HP, Canon, atau Epson).
+1. Hapus printer di Pengaturan:
+    1. Pilih **Mulai**  >  **Pengaturan**  >    >  **Printer Perangkat & pemindai**.
+    2. Di **bawah Printer & pemindai**, pilih printer yang Anda pemecahan masalah. Pilih **Hapus perangkat.** Ikuti petunjuk untuk menghapus printer sepenuhnya.
+2. Hapus perangkat lunak produsen printer pihak ketiga:
+    1. Pilih **Mulai**  >  **Pengaturan**  >  **Aplikasi**.
+    2. Di **bawah & printer**, gulir untuk menemukan perangkat lunak yang diinstal dari produsen printer Anda (seperti HP, Canon, atau Epson).
 3. Matikan dan mulai ulang printer Anda.
    1. Matikan printer Anda dan cabut kabel daya. Tunggu 30 detik. 
    2. Colokkan kembali kabel printer lalu nyalakan printer.
-4. Instal ulang printer Anda di pengaturan:
-    1. Pilih **mulai**  >  **pengaturan**  >  **perangkat**  >  **printer & scanner**.
-    2. Pilih link **Tambahkan printer atau pemindai** di bagian atas layar dan ikuti instruksi untuk menginstal ulang printer Anda.
+4. Instal ulang printer di Pengaturan:
+    1. Pilih **Mulai**  >  **Pengaturan**  >    >  **Printer Perangkat & pemindai**.
+    2. Pilih **tautan Tambahkan printer atau** pemindai di bagian atas layar, lalu ikuti instruksi untuk menginstal ulang printer.

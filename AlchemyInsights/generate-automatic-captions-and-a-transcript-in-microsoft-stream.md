@@ -1,8 +1,8 @@
 ---
-title: Membuat keterangan otomatis dan transkrip di Microsoft Stream
+title: Membuat keterangan dan transkrip otomatis di Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707786"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812393"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Membuat keterangan otomatis dan transkrip di Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Membuat keterangan dan transkrip otomatis di Microsoft Stream
 
-Streaming bisa secara otomatis menghasilkan keterangan menggunakan teknologi pengenalan ucapan otomatis, dan Anda bisa menampilkan jendela transkripsi yang bergulir untuk menavigasi dan mengikuti dengan mudah dengan konten video lisan.
+Stream dapat secara otomatis menghasilkan keterangan menggunakan teknologi Pengenalan Ucapan Otomatis, dan Anda dapat melihat jendela transkrip gulir untuk menavigasi dan mengikutinya dengan konten video yang diucapkan.
 
-- [Membuat teks otomatis dan transkrip untuk video streaming Microsoft Anda](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Menghasilkan keterangan dan transkrip otomatis untuk video Microsoft Stream Anda](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Memperlihatkan jendela transkripsi untuk video di Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Menampilkan jendela transkrip pengguliran untuk video di Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

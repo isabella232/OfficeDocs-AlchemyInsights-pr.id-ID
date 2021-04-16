@@ -1,8 +1,8 @@
 ---
-title: Mulai menggunakan Intune
+title: Mulai Menggunakan Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 101459172ba6c1ae1229280e99060512b7a79fc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897086"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811927"
 ---
-# <a name="getting-started-with-intune"></a>Mulai menggunakan Intune
+# <a name="getting-started-with-intune"></a>Mulai Menggunakan Intune
 
-Untuk tur cepat Intune dan konsol admin, lihat [panduan Intune di portal Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
+Untuk tur cepat tentang Intune dan konsol Admin, lihat [Panduan Tentang Intune di Portal Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
 
-Jika Anda ingin mencoba Intune atau menyiapkan percobaan, Tinjau [mulai cepat: Coba Microsoft Intune gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+Jika ingin mencoba Intune atau menyiapkan uji coba, tinjau Mulai [Cepat: Coba Microsoft Intune secara gratis](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Jika Anda siap untuk mulai menggunakan Intune, Tinjau [Siapkan Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Untuk pengalaman penyetelan Berpanduan, lihat [panduan penyetelan Intune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).
+Jika sudah siap untuk mulai menggunakan Intune, [tinjau Menyiapkan Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Untuk pengalaman penyiapan yang dipandu, lihat [Panduan penyiapan Intune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).
