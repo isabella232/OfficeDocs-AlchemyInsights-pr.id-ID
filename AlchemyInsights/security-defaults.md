@@ -2,7 +2,7 @@
 title: Default keamanan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740333"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809190"
 ---
 # <a name="security-defaults"></a>Default keamanan
 
-Untuk informasi tentang keamanan default, lihat [apa itu default keamanan?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Untuk informasi tentang Default keamanan, lihat [Apa itu default keamanan?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-Default keamanan di Azure Active Directory (Azure AD) memudahkan untuk aman dan membantu melindungi organisasi Anda. Default keamanan berisi pengaturan keamanan yang telah dikonfigurasikan sebelumnya untuk serangan umum.
+Keamanan default di Azure Active Directory (Azure AD) memudahkan untuk mengamankan dan membantu melindungi organisasi Anda. Default keamanan berisi pengaturan keamanan yang telah dikonfigurasi sebelumnya untuk serangan umum.
 
-Microsoft membuat default keamanan tersedia untuk semua orang. Tujuannya adalah memastikan bahwa semua organisasi memiliki tingkat keamanan dasar yang diaktifkan tanpa biaya tambahan. Anda mengaktifkan default keamanan di Azure portal.
+Microsoft membuat pengaturan keamanan tersedia bagi semua orang. Tujuannya untuk memastikan bahwa semua organisasi memiliki tingkat keamanan dasar yang diaktifkan tanpa biaya tambahan. Anda mengaktifkan default keamanan di portal Azure.

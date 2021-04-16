@@ -1,8 +1,8 @@
 ---
-title: Paket dan harga Office 365 untuk nirlaba
+title: Paket dan harga Office 365 untuk Nirlaba
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 120428310815dd90b1fa0e4a32a4ee2f1eccc588
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 683995071a6902276e041e914453df211cf54fd4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803104"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810307"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Paket dan harga Office 365 untuk nirlaba
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Paket dan harga Office 365 untuk Nirlaba
 
-Organisasi nirlaba yang memenuhi syarat dapat menerima Office 365 nirlaba sebagai donasi atau memutakhirkan ke fitur tingkat lanjut dengan diskon yang signifikan. Untuk memenuhi syarat untuk paket nirlaba Office 365, Anda harus memegang [status amal yang dikenali](https://go.microsoft.com/fwlink/p/?LinkID=330253) di negara Anda dan menandatangani kebijakan non-diskriminasi Microsoft. Microsoft berhak memverifikasi kelayakan Kapan saja dan menangguhkan layanan untuk organisasi yang tidak memenuhi syarat.
+Organisasi nirlaba yang memenuhi syarat dapat menerima Office 365 Nirlaba sebagai donasi atau memutakhirkan ke fitur-fitur tingkat lanjut dengan diskon yang signifikan. Agar dapat memiliki paket Office 365 Nirlaba, Anda harus memiliki [status](https://go.microsoft.com/fwlink/p/?LinkID=330253) amal yang diakui di negara Anda dan menandatangani kebijakan nondiskriminasi Microsoft. Microsoft berhak memverifikasi kelayakan setiap saat dan menangguhkan layanan untuk organisasi yang tidak memenuhi syarat.
   
-Lihat [tanya jawab umum](https://products.office.com/nonprofit/office-365-nonprofit) untuk pertanyaan tambahan tentang penawaran ini.
+Lihat [FAQ untuk](https://products.office.com/nonprofit/office-365-nonprofit) pertanyaan tambahan tentang penawaran ini.
   
-- [Meninjau paket nirlaba](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [Meninjau paket Nirlaba](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Membandingkan semua langganan Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Bandingkan semua langganan Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

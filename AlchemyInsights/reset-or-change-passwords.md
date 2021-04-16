@@ -1,8 +1,8 @@
 ---
-title: Mereset atau mengubah kata sandi
+title: Mengatur ulang atau mengubah kata sandi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810199"
 ---
-# <a name="reset-or-change-passwords"></a>Mereset atau mengubah kata sandi
+# <a name="reset-or-change-passwords"></a>Mengatur ulang atau mengubah kata sandi
 
-Pengguna dapat mengubah kata sandi mereka sendiri dari **My account**  >  [keamanan akun & privasi](https://portal.office.com/account/#security).
+Pengguna dapat mengubah kata sandi mereka sendiri **dari Akun saya Keamanan**&  >  [privasi](https://portal.office.com/account/#security).
   
-Jika pengguna lupa kata sandinya, admin dapat mengatur ulang kata sandi dengan **masuk ke pengguna**  >  [aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, lalu klik **reset kata sandi**.
+Jika pengguna lupa kata sandinya, admin bisa mereset kata sandi dengan masuk ke **Pengguna** Aktif pengguna , pilih pengguna, dan klik Reset  >  [](https://portal.office.com/adminportal/home#/users) **kata sandi.**
   
-[Klik di sini untuk mempelajari selengkapnya](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), atau membiarkan pengguna mengatur ulang kata sandi yang terlupakan.
+[Klik di sini untuk mempelajari selengkapnya,](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)atau untuk memungkinkan pengguna mengatur ulang sendiri kata sandi yang lupa.

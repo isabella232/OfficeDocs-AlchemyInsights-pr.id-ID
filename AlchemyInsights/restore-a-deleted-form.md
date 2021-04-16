@@ -2,7 +2,7 @@
 title: Memulihkan formulir yang dihapus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 6923c15c3cce90c98ae79181e978fba273ab6059
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48018accc23a504c34b5469c198d6f29929d25c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662436"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809478"
 ---
 # <a name="restore-a-deleted-form"></a>Memulihkan formulir yang dihapus
 
-Jika Anda menghapus formulir di Microsoft forms secara tidak sengaja, Anda bisa memulihkannya. Masuk ke Microsoft forms sebagai pemilik formulir yang dihapus. Pilih **keranjang sampah**, lalu pilih formulir yang ingin Anda Pulihkan dan pilih **Pulihkan**. Setelah dipulihkan, pilih panah **halaman bentuk kembali ke formulir saya** .
+Jika menghapus formulir di Microsoft Forms secara tidak sengaja, Anda dapat memulihkannya kembali. Masuk ke Microsoft Forms sebagai pemilik formulir yang dihapus. Pilih Keranjang **Sampah**, lalu pilih formulir yang ingin Anda pulihkan dan pilih **Pulihkan**. Setelah dipulihkan, pilih panah **kembali ke halaman Formulir** saya.
 
-Hanya pemilik formulir yang dapat memulihkannya. Jika akun pemilik formulir dinonaktifkan atau dihapus dari penyewa, hanya administrator global yang bisa memulihkan formulir tersebut. Administrator global harus memiliki lisensi formulir untuk melakukan pemulihan. Hanya formulir yang dibuat dalam 30 hari dari akun pengguna yang dinonaktifkan atau dihapus dari penyewa yang dapat dipulihkan.
+Hanya pemilik formulir yang dapat memulihkannya. Jika akun pemilik formulir dinonaktifkan atau dihapus dari penyewa, hanya Administrator Global yang bisa memulihkan formulir tersebut. Administrator Global harus memiliki lisensi Forms untuk melakukan pemulihan. Hanya formulir yang dibuat dalam 30 hari setelah akun pengguna dinonaktifkan atau dihapus dari penyewa yang bisa dipulihkan.
 
-Jika Anda adalah administrator global penyewa, dan Anda ingin memulihkan formulir dari akun yang telah dihapus atau dinonaktifkan, ganti [alamat email] dengan alamat email pengguna yang dihapus atau dinonaktifkan di URL berikut: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [alamat email]** misalnya, jika alamat email Anda adalah johndoe@contoso.com, URL akan menjadi: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
+Jika Anda adalah Administrator Global penyewa, dan ingin memulihkan formulir dari akun yang dihapus atau dinonaktifkan, ganti [alamat email] dengan alamat email pengguna yang dihapus atau dinonaktifkan dalam URL berikut: **https://forms.office.com/Pages/delegatepage.aspx?originalowner= [alamat email]** Misalnya, jika alamat email Anda johndoe@contoso.com, URL-nya adalah: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Setelah Anda memiliki akses ke formulir pengguna yang dihapus, pilih formulir yang ingin Anda Pindahkan, lalu pilih **tindakan formulir lainnya**yang akan  >  **dipindahkan**.
+Setelah anda memiliki akses ke formulir yang dihapus pengguna, pilih formulir yang ingin Anda pindahkan, lalu pilih Tindakan **Formulir**  >  **Lainnya Pindahkan**.
 
-Jika Anda ingin memulihkan formulir tempat file dihapus dan pengguna dihapus dari organisasi, administrator global dapat memilih untuk memulihkan pengguna, mengatur ulang kata sandi untuk pengguna tersebut, lalu saat masuk sebagai pengguna tersebut, mengakses formulir untuk memindahkannya ke pengguna aktif lainnya. 
+Jika ingin memulihkan formulir tempat formulir dihapus dan pengguna dihapus dari organisasi, Administrator Global dapat memilih untuk memulihkan pengguna, mengatur ulang kata sandi untuk pengguna tersebut, lalu masuk sebagai pengguna tersebut, mengakses formulir untuk memindahkannya ke pengguna aktif lain. 
