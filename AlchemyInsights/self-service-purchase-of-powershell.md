@@ -1,8 +1,8 @@
 ---
-title: Pembelian mandiri PowerShell
+title: Pembelian layanan mandiri PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797724"
 ---
-# <a name="self-service-purchase-of-powershell"></a><span data-ttu-id="f993f-102">Pembelian mandiri PowerShell</span><span class="sxs-lookup"><span data-stu-id="f993f-102">Self-service purchase of PowerShell</span></span>
+# <a name="self-service-purchase-of-powershell"></a><span data-ttu-id="0404e-102">Pembelian layanan mandiri PowerShell</span><span class="sxs-lookup"><span data-stu-id="0404e-102">Self-service purchase of PowerShell</span></span>
 
-<span data-ttu-id="f993f-103">Untuk menggunakan modul MSCommerce PowerShell, Anda harus menginstalnya di perangkat Windows 10 dengan TLS 1,2 (izin administrator lokal diperlukan).</span><span class="sxs-lookup"><span data-stu-id="f993f-103">To use the MSCommerce PowerShell module, you need to install it on a Windows 10 device with TLS 1.2 (local administrator permissions required).</span></span>  <span data-ttu-id="f993f-104">Mengimpor dan menyambungkan ke modul MSCommerce.</span><span class="sxs-lookup"><span data-stu-id="f993f-104">Import and connect to the MSCommerce module.</span></span>  <span data-ttu-id="f993f-105">Saat diminta untuk masuk, Anda perlu menggunakan kredensial peran admin global atau tagihan.</span><span class="sxs-lookup"><span data-stu-id="f993f-105">When prompted to log in, you will need to use Global or Billing Admin role credentials.</span></span>  
+<span data-ttu-id="0404e-103">Untuk menggunakan modul PowerShell MSCommerce, Anda perlu menginstalnya di perangkat Windows 10 dengan TLS 1.2 (izin administrator lokal diperlukan).</span><span class="sxs-lookup"><span data-stu-id="0404e-103">To use the MSCommerce PowerShell module, you need to install it on a Windows 10 device with TLS 1.2 (local administrator permissions required).</span></span>  <span data-ttu-id="0404e-104">Impor dan sambungkan ke modul MSCommerce.</span><span class="sxs-lookup"><span data-stu-id="0404e-104">Import and connect to the MSCommerce module.</span></span>  <span data-ttu-id="0404e-105">Saat diminta untuk masuk, Anda perlu menggunakan kredensial peran Global atau Admin Tagihan.</span><span class="sxs-lookup"><span data-stu-id="0404e-105">When prompted to log in, you will need to use Global or Billing Admin role credentials.</span></span>  
 
-<span data-ttu-id="f993f-106">Jika Anda tidak memiliki TLS 1,2, Anda mungkin menerima kesalahan berikut ini saat mencoba mendapatkan atau memperbarui kebijakan:</span><span class="sxs-lookup"><span data-stu-id="f993f-106">If you don't have TLS 1.2, you may receive the following error when attempting to get or update the policy:</span></span>
+<span data-ttu-id="0404e-106">Jika tidak memiliki TLS 1.2, Anda mungkin menerima kesalahan berikut saat mencoba mendapatkan atau memperbarui kebijakan:</span><span class="sxs-lookup"><span data-stu-id="0404e-106">If you don't have TLS 1.2, you may receive the following error when attempting to get or update the policy:</span></span>
 
-<span data-ttu-id="f993f-107">*ErrorMessage-koneksi yang mendasari ditutup: kesalahan yang tidak diharapkan terjadi pada kirim*.</span><span class="sxs-lookup"><span data-stu-id="f993f-107">*ErrorMessage -The underlying connection was closed: An unexpected error occurred on a send*.</span></span>
+<span data-ttu-id="0404e-107">*ErrorMessage -Koneksi yang mendasari ditutup: Terjadi kesalahan yang tidak terduga pada pengiriman.*</span><span class="sxs-lookup"><span data-stu-id="0404e-107">*ErrorMessage -The underlying connection was closed: An unexpected error occurred on a send*.</span></span>
 
 
 
