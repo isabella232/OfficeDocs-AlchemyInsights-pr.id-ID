@@ -1,8 +1,8 @@
 ---
-title: File Word tidak terbuka pada klik ganda
+title: File Word tidak terbuka saat mengklik dua kali
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794806"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834122"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a><span data-ttu-id="acbc0-102">Dokumen Word dibuka di aplikasi yang salah atau tidak terbuka</span><span class="sxs-lookup"><span data-stu-id="acbc0-102">Word document opened in the wrong app or didn't open</span></span>
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a><span data-ttu-id="83040-102">Dokumen Word dibuka dalam aplikasi yang salah atau tidak dibuka</span><span class="sxs-lookup"><span data-stu-id="83040-102">Word document opened in the wrong app or didn't open</span></span>
 
-<span data-ttu-id="acbc0-103">Cobalah salah satu dari saran berikut:</span><span class="sxs-lookup"><span data-stu-id="acbc0-103">Try one of these suggestions:</span></span>
+<span data-ttu-id="83040-103">Cobalah salah satu saran ini:</span><span class="sxs-lookup"><span data-stu-id="83040-103">Try one of these suggestions:</span></span>
 
-<span data-ttu-id="acbc0-104">**Memilih Word sebagai default**</span><span class="sxs-lookup"><span data-stu-id="acbc0-104">**Choose Word as the default**</span></span>
+<span data-ttu-id="83040-104">**Pilih Word sebagai default**</span><span class="sxs-lookup"><span data-stu-id="83040-104">**Choose Word as the default**</span></span>
 
-- <span data-ttu-id="acbc0-105">Klik kanan dokumen, pilih **buka dengan**, lalu pilih **Word**</span><span class="sxs-lookup"><span data-stu-id="acbc0-105">Right-click on the document, choose **Open with**, and then choose **Word**</span></span>
+- <span data-ttu-id="83040-105">Klik kanan pada dokumen, pilih **Buka dengan**, lalu pilih **Word**</span><span class="sxs-lookup"><span data-stu-id="83040-105">Right-click on the document, choose **Open with**, and then choose **Word**</span></span>
 
-<span data-ttu-id="acbc0-106">**Menjalankan perbaikan cepat**</span><span class="sxs-lookup"><span data-stu-id="acbc0-106">**Run a Quick Repair**</span></span>
+<span data-ttu-id="83040-106">**Jalankan Perbaikan Cepat**</span><span class="sxs-lookup"><span data-stu-id="83040-106">**Run a Quick Repair**</span></span>
 
-1. <span data-ttu-id="acbc0-107">Buka **panel kontrol > program > program dan fitur**.</span><span class="sxs-lookup"><span data-stu-id="acbc0-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
+1. <span data-ttu-id="83040-107">Masuk ke **Panel Kontrol > Program > Dan Fitur**.</span><span class="sxs-lookup"><span data-stu-id="83040-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
 
-2. <span data-ttu-id="acbc0-108">Pilih produk Office yang ingin Anda Perbaiki, lalu pilih **Ubah**.</span><span class="sxs-lookup"><span data-stu-id="acbc0-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
+2. <span data-ttu-id="83040-108">Pilih produk Office yang ingin diperbaiki, lalu pilih **Ubah**.</span><span class="sxs-lookup"><span data-stu-id="83040-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
 
-3. <span data-ttu-id="acbc0-109">Pilih opsi **perbaikan cepat** , lalu pilih **Perbaiki**.</span><span class="sxs-lookup"><span data-stu-id="acbc0-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
+3. <span data-ttu-id="83040-109">Pilih opsi **Perbaikan** Cepat, lalu pilih **Perbaiki.**</span><span class="sxs-lookup"><span data-stu-id="83040-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
 
-<span data-ttu-id="acbc0-110">**Menghapus instalan versi Office yang tidak Anda gunakan**</span><span class="sxs-lookup"><span data-stu-id="acbc0-110">**Uninstall versions of Office you don't use**</span></span>
+<span data-ttu-id="83040-110">**Menghapus instalan versi Office yang tidak Anda gunakan**</span><span class="sxs-lookup"><span data-stu-id="83040-110">**Uninstall versions of Office you don't use**</span></span>
 
-1. <span data-ttu-id="acbc0-111">Buka **panel kontrol > hapus instalan program**, lalu pilih versi Office yang ingin Anda hapus.</span><span class="sxs-lookup"><span data-stu-id="acbc0-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
+1. <span data-ttu-id="83040-111">Masuk ke **Panel Kontrol > Hapus Instalan Program**, lalu pilih versi Office yang ingin Anda hapus.</span><span class="sxs-lookup"><span data-stu-id="83040-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
 
-2. <span data-ttu-id="acbc0-112">Klik **hapus instalan**.</span><span class="sxs-lookup"><span data-stu-id="acbc0-112">Click **Uninstall**.</span></span>
+2. <span data-ttu-id="83040-112">Klik **Hapus Instalan**.</span><span class="sxs-lookup"><span data-stu-id="83040-112">Click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="acbc0-113">Mulai ulang komputer Anda.</span><span class="sxs-lookup"><span data-stu-id="acbc0-113">Restart your computer.</span></span>
+3. <span data-ttu-id="83040-113">Hidupkan ulang komputer Anda.</span><span class="sxs-lookup"><span data-stu-id="83040-113">Restart your computer.</span></span>
 
-<span data-ttu-id="acbc0-114">**Menjalankan pemecah masalah ini untuk mengatur ekstensi file Office untuk dibuka di Office**</span><span class="sxs-lookup"><span data-stu-id="acbc0-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
+<span data-ttu-id="83040-114">**Jalankan pemecah masalah ini untuk mengatur ekstensi file Office agar terbuka di Office**</span><span class="sxs-lookup"><span data-stu-id="83040-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
 
-1. <span data-ttu-id="acbc0-115">Jalankan pemecah masalah ini: https://aka.ms/diag_officefile .</span><span class="sxs-lookup"><span data-stu-id="acbc0-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
+1. <span data-ttu-id="83040-115">Jalankan pemecah masalah ini: https://aka.ms/diag_officefile .</span><span class="sxs-lookup"><span data-stu-id="83040-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
 
-2. <span data-ttu-id="acbc0-116">Bergantung pada browser Anda, **buka** atau **Simpan** pemecah masalah ke desktop Anda, lalu **Jalankan** .</span><span class="sxs-lookup"><span data-stu-id="acbc0-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
+2. <span data-ttu-id="83040-116">Bergantung pada browser Anda, **Buka** **atau Simpan** pemecah masalah ke desktop Anda, lalu **Jalankan.**</span><span class="sxs-lookup"><span data-stu-id="83040-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
