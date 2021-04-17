@@ -2,7 +2,7 @@
 title: Faktur email Azure modern
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820829"
 ---
 # <a name="email-invoicing-in-azure"></a>Faktur email di Azure
 
-Anda harus memiliki pemilik atau peran kontributor pada profil tagihan atau akun tagihan untuk memperbarui preferensi faktur email. Setelah Anda memilih ikut, semua pengguna dengan pemilik, kontributor, pembaca, dan peran Manajer faktur pada profil tagihan akan menerima faktur di email.
+Anda harus memiliki peran pemilik atau kontributor di profil tagihan atau akun tagihannya untuk memperbarui preferensi faktur email. Setelah memilih ikut, semua pengguna dengan peran pemilik, kontributor, pembaca, dan manajer faktur di profil tagihan akan mendapatkan faktur dalam email.
 
-1. Masuk ke [Azure portal](https://portal.azure.com/).
-2. Cari **biaya manajemen + tagihan**.
-3. Pilih **faktur** dari sisi kiri, lalu pilih **faktur email** dari bagian atas halaman.
-4. Jika Anda memiliki beberapa profil tagihan, pilih profil tagihan lalu pilih pilih **masuk**.
+1. Masuk ke [portal Microsoft Azure](https://portal.azure.com/).
+2. Cari **Manajemen Biaya + Tagihan**.
+3. Pilih **Faktur** dari sisi kiri, lalu pilih **Faktur Email** dari bagian atas halaman.
+4. Jika memiliki beberapa profil tagihan, pilih sebuah profil tagihan, lalu pilih **Ikut**.
 
 5. Pilih **Perbarui**.
-6. Jika Anda memiliki beberapa profil tagihan, pilih profil tagihan lalu pilih pilih **masuk**.
+6. Jika memiliki beberapa profil tagihan, pilih sebuah profil tagihan, lalu pilih **Ikut**.
 
-Anda memberikan akses kepada orang lain untuk menampilkan, mengunduh, dan membayar faktur dengan menetapkan peran Manajer faktur untuk profil tagihan MCA atau MPA. Jika Anda memilih untuk mendapatkan faktur Anda dalam email, pengguna juga mendapatkan faktur dalam email.
+Anda memberi orang lain akses untuk melihat, mengunduh, dan membayar faktur dengan menetapkan peran manajer faktur kepada mereka untuk profil tagihan MCA atau MPA. Jika Anda memilih mendapatkan faktur dalam email, pengguna juga akan mendapatkan faktur dalam email.
 
-1. Masuk ke [Azure portal](https://portal.azure.com/).
-2. Cari **biaya manajemen + tagihan**.
-3. Pilih **profil tagihan** dari sisi kiri. Dari daftar profil tagihan, pilih sebuah profil tagihan yang ingin Anda tetapkan peran Manajer faktur.
-4. Pilih **kontrol akses (iam)** dari sisi kiri, lalu pilih **Tambahkan** dari bagian atas halaman.
+1. Masuk ke [portal Microsoft Azure](https://portal.azure.com/).
+2. Cari **Manajemen Biaya + Tagihan**.
+3. Pilih **Profil tagihan** dari sisi kiri. Dari daftar profil tagihan, pilih profil tagihan yang ingin ditetapkan peran manajer faktur.
+4. Pilih **Kontrol Akses (IAM)** dari sisi kiri, lalu pilih **Tambahkan** dari bagian atas halaman.
 
-Dalam daftar turun bawah peran, pilih **manajer faktur**. Masukkan alamat email pengguna untuk memberi akses. Pilih **Simpan** untuk menetapkan peran.
+Di daftar menurun Peran, pilih **Manajer Faktur**. Masukkan alamat email pengguna untuk memberikan akses. Pilih **Simpan** untuk menetapkan peran.

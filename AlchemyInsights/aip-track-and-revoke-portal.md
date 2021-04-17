@@ -1,8 +1,8 @@
 ---
-title: 'AIP: melacak dan mencabut portal'
+title: 'AIP: Melacak dan mencabut portal'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663156"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821594"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: melacak dan mencabut portal
+# <a name="aip-track-and-revoke-portal"></a>AIP: Melacak dan mencabut portal
 
-Gunakan **situs Pelacakan dokumen** di portal Azure untuk melacak dan mencabut dokumen saat menggunakan perlindungan informasi Azure. Aplikasi Office (Word, Excel, dan PowerPoint) serta file Explorer juga dapat digunakan untuk melacak dan mencabut dokumen.
+Gunakan situs **pelacakan dokumen di** Portal Azure untuk melacak dan mencabut dokumen saat menggunakan Perlindungan Informasi Azure. Aplikasi Office (Word, Excel dan PowerPoint) dan File Explorer juga bisa digunakan untuk melacak dan mencabut dokumen.
 
-1. Di situs Pelacakan dokumen, klik **Batalkan akses**. Mencabut dokumen menghapus akses dari pengguna yang sah; dokumen tidak dihapus.
+1. Di situs pelacakan dokumen, klik **Cabut akses.** Mencabut dokumen akan menghapus akses dari pengguna yang sah; dokumen tidak dihapus.
 2. Di aplikasi Office:
-    - Buka dokumen yang diproteksi yang ingin dilacak atau dicabut.
-    - Pada tab **Beranda** , di grup **proteksi** , klik **proteksi > Lacak dan cabut**.
+    - Buka dokumen yang diproteksi yang ingin Anda lacak atau cabut.
+    - Pada tab **Beranda,** dalam grup **Proteksi,** klik Proteksi, > **Lacak dan Cabut.**
 
-- Untuk informasi tambahan tentang melacak dan mencabut dokumen, lihat [melacak dan mencabut](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Untuk informasi tambahan tentang pelacakan dan pencabutan dokumen, lihat Melacak [dan Mencabut](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-Untuk informasi tentang menggunakan PowerShell untuk mengelola situs Pelacakan dokumen, informasi pembuatan log, lihat yang berikut ini:
-- [Panduan pengguna: melacak dan mencabut dokumen saat Anda menggunakan perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Panduan admin: mengonfigurasi dan menggunakan pelacakan dokumen untuk proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Lisensi penggunaan hak manajemen](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Meninjau fitur dan langganan proteksi informasi Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Persyaratan untuk proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Tutorial mulai cepat untuk proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Untuk informasi tentang cara menggunakan PowerShell untuk mengelola situs pelacakan dokumen, informasi pembuatan log, lihat yang berikut ini:
+- [Panduan Pengguna: Melacak dan mencabut dokumen ketika Anda menggunakan Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Panduan Admin: Mengonfigurasi dan menggunakan pelacakan dokumen untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Lisensi penggunaan Manajemen Hak](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Tinjau langganan dan fitur Perlindungan Informasi Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [Persyaratan untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Tutorial mulai cepat untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

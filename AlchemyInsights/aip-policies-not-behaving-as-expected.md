@@ -1,8 +1,8 @@
 ---
-title: 'AIP: kebijakan tidak berperilaku seperti yang diharapkan'
+title: 'AIP: Kebijakan tidak seperti yang diharapkan'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663192"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821630"
 ---
-# <a name="aip-policies-not-behaving-as-expected"></a>AIP: kebijakan tidak berperilaku seperti yang diharapkan
+# <a name="aip-policies-not-behaving-as-expected"></a>AIP: Kebijakan tidak seperti yang diharapkan
 
-Perlindungan informasi Azure: kebijakan tidak berperilaku seperti yang diharapkan, lihat berikut ini untuk panduan yang direkomendasikan untuk berbagai masalah kebijakan:
+Perlindungan Informasi Azure: Kebijakan yang tidak seperti yang diharapkan, lihat panduan yang disarankan untuk berbagai masalah kebijakan:
 
-1. Jika Anda mengalami masalah dengan tanda visual, silakan Tinjau [Kapan tanda visual diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Jika Anda mengalami masalah dengan pelabelan otomatis, silakan Tinjau [cara mengonfigurasi ketentuan untuk klasifikasi otomatis dan yang direkomendasikan untuk proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) dan [apa yang dicari tipe informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-3. Jika Anda mengalami masalah dengan proteksi Native/Pfile, silakan Tinjau [konfigurasi file api](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
-4. Periksa apakah Anda menggunakan kebijakan lingkup yang tidak dikonfigurasi dengan benar: [cara mengonfigurasi kebijakan perlindungan informasi Azure untuk pengguna tertentu dengan menggunakan kebijakan lingkup](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-5. Jika label otomatis tidak berfungsi untuk Outlook saat melampirkan dokumen berlabel, pastikan bahwa DRMEncryptProperty tidak ditentukan seperti yang diuraikan di sini: [pengaturan registri IRM untuk keamanan](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+1. Jika Anda mengalami masalah dengan penandaan visual, [tinjau Ketika penandaan visual diterapkan.](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied)
+2. Jika Anda mengalami masalah dengan label otomatis, silakan tinjau Cara mengonfigurasi persyaratan klasifikasi otomatis dan direkomendasikan untuk Perlindungan Informasi [Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) dan Apa tipe informasi [sensitif mencari](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+3. Jika mengalami masalah dengan perlindungan Native/Pfile, silakan [tinjau konfigurasi File API](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
+4. Periksa apakah Anda menggunakan kebijakan dengan lingkup yang tidak dikonfigurasi dengan benar: Cara mengonfigurasi kebijakan Perlindungan Informasi Azure untuk pengguna tertentu dengan menggunakan [kebijakan yang di lingkup.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
+5. Jika label otomatis tidak berfungsi untuk Outlook saat melampirkan dokumen berlabel, verifikasi bahwa DRMEncryptProperty tidak didefinisikan seperti yang diuraikan di sini: [Pengaturan registri IRM untuk keamanan.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 
-Jika Anda masih mengalami masalah, silakan kumpulkan log klien proteksi informasi Azure dan lampirkan log yang diekspor ke tiket ini.
+Jika Anda masih mengalami masalah, silakan kumpulkan log klien Perlindungan Informasi Azure dan lampirkan log yang diekspor ke tiket ini.
 
 1. Buka dokumen Office atau buat email baru di Outlook.
-2. Klik **proteksi/kepekaan**  >  **bantuan dan umpan balik**.
-3. Klik **ekspor log**.
-4. Simpan log ke pilihan lokasi Anda, lalu Lampirkan ke permintaan layanan ini.
+2. Klik **Proteksi/Bantuan**  >  **Sensitivitas dan umpan balik.**
+3. Klik **Ekspor Log.**
+4. Simpan log ke lokasi pilihan Anda, dan lampirkan log ke permintaan layanan ini.
 
 Sumber daya tambahan:
 
-- [Cara mengonfigurasikan label untuk tanda visual untuk proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Meninjau dokumentasi perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Menggunakan label sensitivitas dalam aplikasi Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Cara mengonfigurasi label untuk penandaan visual untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Tinjau dokumentasi Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Menggunakan label sensitivitas di aplikasi Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

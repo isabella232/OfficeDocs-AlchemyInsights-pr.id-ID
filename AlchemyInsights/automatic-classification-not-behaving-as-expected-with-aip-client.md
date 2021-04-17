@@ -2,44 +2,45 @@
 title: Klasifikasi otomatis tidak berperilaku seperti yang diharapkan dengan klien AIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508379"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820901"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Klasifikasi otomatis tidak berperilaku seperti yang diharapkan dengan klien AIP
 
-Klasifikasi otomatis tidak berperilaku seperti yang diharapkan, gunakan panduan direkomendasikan berikut ini:
+Klasifikasi otomatis tidak berperilaku seperti yang diharapkan, gunakan panduan yang disarankan berikut ini:
 
-1. Jika Anda mengalami masalah dengan pelabelan otomatis, lihat [cara mengkonfigurasi kondisi untuk klasifikasi otomatis dan direkomendasikan untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) dan [apa yang dicari jenis informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Periksa apakah Anda menggunakan kebijakan scoped yang tidak dikonfigurasi dengan benar: [cara mengkonfigurasi kebijakan perlindungan informasi Azure untuk pengguna tertentu dengan menggunakan kebijakan scoped](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-3. Jika pelabelan otomatis tidak bekerja untuk Outlook saat melampirkan dokumen berlabel, verifikasi yang `DRMEncryptProperty` tidak ditetapkan seperti yang dijelaskan di sini: [pengaturan registri IRM untuk keamanan](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Jika Anda menggunakan [jenis informasi internal](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) untuk kebijakan perlindungan informasi Azure, Verifikasikan bahwa konten Anda sesuai dengan format yang diharapkan.
-5. Verifikasi bahwa label dikonfigurasi dengan benar untuk **otomatis** atau **direkomendasikan**. (Pelabelan**otomatis** tersedia untuk semua aplikasi Office, sedangkan **disarankan** tersedia untuk semua aplikasi Office kecuali untuk Outlook.)
-6. Anda tidak dapat menggunakan klasifikasi otomatis untuk dokumen dan email yang sebelumnya diberi label secara manual atau sebelumnya secara otomatis diberi label dengan klasifikasi yang lebih tinggi.  Untuk informasi lebih lanjut, lihat: [bagaimana label otomatis atau rekomendasi diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Jika Anda masih mengalami masalah, silakan mengumpulkan log klien perlindungan informasi Azure dan melampirkan log yang diekspor ke tiket dukungan Anda. Untuk mengekspor log perlindungan informasi Azure:
+1. Jika Anda mengalami masalah dengan label otomatis, lihat [Cara mengonfigurasi kondisi untuk klasifikasi otomatis dan direkomendasikan untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) dan [Apa yang dilihat tipe informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+2. Periksa apakah Anda menggunakan kebijakan terinvestigasi yang tidak dikonfigurasi dengan benar: [Cara mengonfigurasi kebijakan Perlindungan Informasi Azure untuk pengguna tertentu dengan menggunakan kebijakan terinvestigasi](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+3. Jika label otomatis tidak berfungsi untuk Outlook saat melampirkan dokumen berlabel, verifikasi bahwa `DRMEncryptProperty` tidak ditentukan seperti yang diuraikan di sini: [pengaturan registri IRM untuk keamanan](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+4. Jika menggunakan [tipe informasi bawaan](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) untuk kebijakan Perlindungan Informasi Azure, verifikasi bahwa konten Anda cocok dengan format yang diharapkan.
+5. Verifikasi bahwa label dikonfigurasi dengan tepat untuk **Otomatis** atau **Disarankan**. (Label **otomatis** tersedia untuk semua aplikasi Microsoft 365, sedangkan **Yang Disarankan** tersedia untuk semua aplikasi Microsoft 365 kecuali Outlook.)
+6. Anda tidak dapat menggunakan klasifikasi otomatis untuk dokumen dan email yang sebelumnya diberi label secara manual atau sebelumnya diberi label secara otomatis dengan klasifikasi yang lebih tinggi.  Untuk informasi selengkapnya, lihat: [Bagaimana label otomatis atau label yang direkomendasikan diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
+7. Jika masih mengalami masalah, silakan kumpulkan log klien Perlindungan Informasi Azure lalu lampirkan log yang diekspor ke tiket dukungan Anda. Untuk mengekspor log Perlindungan Informasi Azure:
     - Buka dokumen Office atau buat email baru di Outlook.
-    - Klik **Lindungi/sensitivitas**  >  **bantuan dan umpan balik**.
-    - Klik **ekspor log**.
-    - Simpan log ke pilihan lokasi Anda, dan pasangkan ke permintaan layanan Anda.
+    - Klik **Proteksi/Sensitivitas** > **Bantuan dan umpan balik**.
+    - Klik **Ekspor Log**.
+    - Simpan log ke lokasi pilihan, lalu lampirkan ke permintaan layanan Anda.
 
 Untuk informasi tambahan, lihat:
 
-- [Cara mengkonfigurasi kondisi untuk klasifikasi otomatis dan direkomendasikan untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Panduan cara untuk skenario umum yang menggunakan perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Tinjau dokumentasi perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Meninjau langganan dan fitur perlindungan informasi Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Persyaratan untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Tutorial memulai cepat untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Unduh klien perlindungan informasi Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Cara mengonfigurasi kondisi untuk klasifikasi otomatis dan rekomendasi untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Panduan untuk skenario umum yang menggunakan Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Tinjau dokumentasi Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Tinjau langganan dan fitur Perlindungan Informasi Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [Persyaratan untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Tutorial mulai cepat untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Unduh klien Perlindungan Informasi Azure](https://www.microsoft.com/download/details.aspx?id=53018)

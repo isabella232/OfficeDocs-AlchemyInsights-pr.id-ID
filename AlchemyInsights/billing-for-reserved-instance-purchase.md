@@ -1,8 +1,8 @@
 ---
-title: Tagihan untuk pembelian Instans reserved
+title: Tagihan untuk pembelian Instans Cadangan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823078"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820325"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Tagihan untuk pembelian Instans reserved
+# <a name="billing-for-reserved-instance-purchase"></a>Tagihan untuk pembelian Instans Cadangan
 
-Pembelian instans cadangan dibebankan ke metode pembayaran yang terkait dengan langganan yang Anda pilih pada waktu pembelian. Tipe langganan harus merupakan perjanjian perusahaan (nomor Penawaran: MS-AZR-0017P), Pay-As-You-Go (nomor Penawaran: MS-AZR-0003P), perjanjian pelanggan Microsoft atau CSP.
+Pembelian instans cadangan dikenakan biaya ke metode pembayaran yang terikat dengan langganan yang Anda pilih pada saat pembelian. Tipe langganan harus merupakan perjanjian perusahaan (nomor penawaran: MS-AZR-0017P), Pay-As-You-Go (nomor penawaran: MS-AZR-0003P), Perjanjian Pelanggan Microsoft atau CSP.
 
-- Untuk langganan Enterprise, biaya dipotong dari saldo komitmen moneter pendaftaran atau dibebankan sebagai melebihi batas
-- Untuk langganan prabayar, biaya akan ditagihkan ke metode pembayaran kartu kredit atau faktur pada langganan
+- Untuk langganan perusahaan, biaya akan dikurangi dari saldo komitmen keuangan pendaftaran atau dikenakan sebagai overage
+- Untuk langganan Pay-As-You-Go, biaya akan ditagih ke metode pembayaran kartu kredit atau faktur pada langganan tersebut
 
-**Membatalkan reservasi**
+**Membatalkan Reservasi**
 
-- **Layanan mandiri:** Anda dapat membatalkan atau menukarkan instans cadangan sendiri menggunakan [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih reservasi dan klik pengembalian uang atau Exchange. Perhatikan bahwa Anda harus memiliki akses pemilik pada pesanan Pemesanan untuk bertukar atau mengembalikan dana. Akses hanya ke reservasi tidak memperbolehkan Anda melanjutkan dengan pengembalian uang atau Exchange. Tanyakan pemilik pesanan reservasi untuk memberi Anda akses pemilik ke pesanan Pemesanan
-- **Kebijakan Exchange:** Anda bisa bertukar reservasi untuk reservasi lainnya dengan tipe yang sama – tidak ada **penalti** pada Exchange reservasi. Komitmen total dengan reservasi baru harus lebih besar dari jumlah jumlah pengembalian dana Pemesanan yang ditukar dan pembayaran bulanan mendatang (jika ada)
-- **Kebijakan pengembalian dana:** Jumlah pengembalian dana dan pembayaran yang dibatalkan tidak dapat melebihi $50.000 USD dalam 12 bulan bergulir. **Saat ini kami tidak mengenakan denda** atas pengembalian dana, namun dapat membebankan biaya pada pengembalian dana mendatang
+- **Layanan mandiri:** Anda dapat membatalkan atau menukar instans khusus Anda sendiri [menggunakan portal Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih reservasi dan klik pengembalian dana atau penukaran. Perhatikan bahwa Anda harus memiliki akses pemilik pada Pesanan Pemesanan untuk melakukan penukaran atau pengembalian dana. Akses hanya ke Reservasi tidak akan mengizinkan Anda melanjutkan pengembalian dana atau penukaran. Mintalah pemilik Pesanan Reservasi untuk memberi Anda akses pemilik ke Pesanan Reservasi
+- **Kebijakan Exchange:** Anda dapat menukarkan reservasi untuk pemesanan lain dengan tipe yang sama – tidak **ada perubahan pada** perubahan reservasi. Total komitmen dengan reservasi baru harus lebih besar dari jumlah pengembalian dana reservasi exchange dan pembayaran bulanan di masa mendatang (jika ada)
+- **Kebijakan pengembalian dana:** Jumlah pengembalian dana dan pembayaran mendatang yang dibatalkan tidak boleh melebihi $50.000 USD dalam jendela pengembalian 12 bulan. Saat ini **kami tidak sedang melakukan pemesanan untuk pengembalian dana,** tetapi dapat membebankan biaya pada pengembalian dana mendatang
 
-**Pengecualian:** Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS
+**Pengecualian:** Pertukaran layanan mandiri dan membatalkan kapabilitas tidak tersedia untuk pelanggan Perjanjian Perusahaan Pemerintah AS
 
-- Dukungan **api/PS/CLI** tidak tersedia untuk pembatalan dan pengembalian dana [layanan mandiri dan pengembalian dana untuk reservasi Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS. Tipe langganan pemerintah AS lainnya termasuk Pay-As-You-Go dan CSP didukung
+- **DUKUNGAN API / PS / CLI** tidak tersedia untuk pembatalan dan pengembalian dana Pertukaran layanan mandiri dan pengembalian [dana untuk Azure Reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Kemampuan pertukaran dan pembatalan layanan mandiri tidak tersedia untuk pelanggan Perjanjian Perusahaan Pemerintah AS. Tipe langganan Pemerintah AS lainnya termasuk Pay-As-You-Go dan CSP didukung
 
-Pelajari selengkapnya: [bagaimana pengembalian dan transaksi Exchange diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Pelajari selengkapnya: [kebijakan Exchange dan pengembalian dana](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) pertanyaan lain: [kunjungi dokumen contoh Reserved](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Pelajari selengkapnya : [Bagaimana transaksi pengembalian dan penukaran diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Pelajari selengkapnya : Kebijakan Exchange dan [Pengembalian](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) DanaTanya jawab lain: Kunjungi dokumen [instans khusus](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Bertukar contoh Reserved yang sudah ada (layanan mandiri)**
+**Bertukar instans khusus yang sudah ada (Layanan mandiri)**
 
-Anda dapat bertukar reservasi untuk reservasi lainnya dengan tipe yang sama. Anda juga dapat mengembalikan dana reservasi, hingga $50.000 USD per tahun, jika Anda tidak membutuhkannya lagi. Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS. Tipe langganan pemerintah AS lainnya termasuk Pay-As-You-Go dan CSP didukung. Anda harus memiliki akses pemilik pada pesanan Pemesanan untuk menukarkan atau mengembalikan kembali Pemesanan yang sudah ada.
+Anda dapat menukarkan reservasi untuk pemesanan lain dengan tipe yang sama. Anda juga dapat mengembalikan dana reservasi hingga $50.000 USD per tahun, jika tidak lagi memerlukannya. Kemampuan pertukaran dan pembatalan layanan mandiri tidak tersedia untuk pelanggan Perjanjian Perusahaan Pemerintah AS. Tipe langganan Pemerintah AS lainnya termasuk Bayar-Saat-Lalu dan CSP didukung. Anda harus memiliki akses pemilik pada Pesanan Reservasi untuk menukar atau mengembalikan dana reservasi yang sudah ada.
 
-Langkah-langkah berikut ini akan memandu prosedur untuk menyelesaikan transaksi
+Langkah-langkah berikut akan memandu prosedur untuk menyelesaikan transaksi
 
-1. masuk ke [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)Anda. Pilih reservasi yang ingin Anda kembalikan danklik **Exchange** 2. Pilih produk VM yang ingin Anda beli dan ketikkan kuantitas. Pastikan bahwa total pembelian baru lebih dari total hasil yang [menentukan ukuran yang tepat sebelum Anda membeli](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
-3. tinjau dan selesaikan transaksi
+1.Masuk ke [portal Azure Anda](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih pemesanan yang ingin Anda kembalikan dan klik **Exchange** 2.Pilih produk VM yang ingin dibeli, lalu ketikkan kuantitas. Pastikan bahwa total pembelian baru lebih dari total pengembalian Tentukan [ukuran yang tepat sebelum Anda membeli.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.Meninjau dan menyelesaikan transaksi
 
 **Pengembalian dana untuk instans cadangan**
 
-Untuk mengembalikan dana reservasi, masuk ke **detail reservasi** dan klik **Refund**
+Untuk mengembalikan dana reservasi, buka Detail **Reservasi, lalu** klik Pengembalian **Dana**
 
-**Nilai pengembalian dana Pro:**
+**Pengembalian dana pro-rata:**
 
-**Contoh Pro-Ration dan persyaratan minimum untuk pengembalian dana dan Exchange** Contoh reservasi dimuka:
+**Pro-ration dan contoh persyaratan minimum untuk pengembalian dana dan penukaran** Contoh reservasi di muka:
 
-- Anda membeli istilah RI untuk $120 pada tanggal 1 Januari
-- Pada tanggal 7 April Anda ingin mengembalikan atau menukarkan reservasi ini
-- Karena reservasi telah aktif untuk 97 hari, Anda akan mendapatkan (1-97/365) * $120 kembali. (yaitu $88,1). Saat ini tidak ada denda untuk pengembalian dana
-- Jika bertukar, pembelian baru Anda harus lebih besar dari $88,1
-- Tidak ada penalti pada pengembalian dana saat ini
+- Anda membeli RI jangka waktu satu tahun seharga $120 pada 1 Januari
+- Pada tanggal 7 April, Anda ingin mengembalikan dana atau menukarkan reservasi ini
+- Karena reservasi telah ada selama 97 hari, Anda akan mendapatkan (1-97/365) * $120 kembali. (misalnya $88,1). Saat ini belum ada informasi terkait pengembalian dana
+- Jika exchanging, pembelian baru Anda harus lebih besar dari $88,1
+- Belum ada keseringaan terkait pengembalian dana saat ini
 
 **Contoh reservasi paket tagihan:**
 
-- Anda membeli istilah satu tahun RI untuk $10 per bulan
-- Pada tanggal 7 April Anda ingin mengembalikan atau menukarkan reservasi ini
-- Sejak pembayaran terakhir terjadi 7 hari, Anda akan mendapatkan (1-7/31) * $10. (yaitu $7,74)
-- Pembayaran yang akan dibatalkan adalah $80. Saat ini tidak ada denda untuk pengembalian dana
-- Pembatalan ini akan mengurangi $87,74 dari Anda batas pengembalian dana $50.000
-- Jika bertukar, nilai total pembelian baru harus lebih besar dari $87,74
+- Anda membeli RI jangka waktu satu tahun seharga $10 per bulan
+- Pada tanggal 7 April, Anda ingin mengembalikan dana atau menukarkan reservasi ini
+- Sejak pembayaran terakhir terjadi 7 hari, Anda akan mendapatkan (1-7/31) * $10 kembali. (misalnya $7,74)
+- Pembayaran yang akan datang dibatalkan adalah $ 80. Saat ini belum ada informasi terkait pengembalian dana
+- Pembatalan ini akan dikurangi $87,74 jika Anda adalah batas pengembalian dana $50.000
+- Jika berubah, nilai total pembelian baru akan lebih besar dari $87,74
 
 **Tidak dapat melihat faktur untuk periode tagihan terakhir**
 
 Beberapa kemungkinan alasan Anda tidak melihat faktur:
 
-- Anda memiliki jumlah kredit bulanan dengan langganan yang tidak melebihi atau Anda memiliki uji coba gratis. Faktur hanya dihasilkan jika Anda berutang uang
-- Tidak lebih dari 30 hari dari hari langganan Anda ke Azure
-- Faktur belum dibuat. Tunggu hingga akhir periode penagihan
-- Jika Anda bukan administrator akun, faktur yang lebih lama mungkin tidak tersedia untuk Anda
+- Anda memiliki jumlah kredit bulanan dengan langganan yang belum Anda melebihi atau Anda memiliki Uji Coba Gratis. Faktur hanya dibuat jika Anda harus menerima uang
+- Kurang dari 30 hari sejak Anda berlangganan Azure
+- Faktur belum dibuat. Tunggu hingga akhir periode tagihan
+- Jika Anda bukan Administrator Akun, faktur yang lebih lama mungkin tidak tersedia untuk Anda
 
-**Mengunduh faktur Anda dari Azure portal (. pdf)**
+**Unduh faktur dari portal Azure (.pdf)**
 
-- Pilih langganan Anda dari halaman [langganan](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) di Azure Portal sebagai [pengguna dengan akses ke faktur](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Pilih **faktur**
-- Klik **Unduh faktur** untuk menampilkan salinan faktur PDF Anda. Jika dikatakan **tidak tersedia** , lihat [mengapa saya tidak melihat faktur untuk periode tagihan terakhir?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Pilih langganan Anda [dari halaman Langganan](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) di portal Azure sebagai pengguna dengan akses ke [faktur](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- **Pilih Faktur**
+- Klik **Unduh Faktur** untuk menampilkan salinan faktur PDF Anda. Jika **tersedia, lihat** [Mengapa saya tidak melihat faktur untuk periode tagihan terakhir?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Menerima faktur Anda dalam email (. pdf)**
+**Menerima faktur Anda dalam email (.pdf)**
 
-- Pilih langganan Anda dari halaman [langganan](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) . Klik **faktur** lalu kirim faktur saya
-- Klik **pilih** dan terima ketentuan. Anda harus memilih untuk setiap metode berlangganan yang Anda miliki
+- Pilih langganan Anda [dari halaman](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Langganan. Klik **Faktur lalu** Emailkan faktur saya
+- Klik **setujui** dan terima persyaratannya. Anda harus memilih setiap langganan yang Anda miliki
 
-Catatan: jika Anda tidak mendapatkan email setelah mengikuti langkah-langkah tersebut, pastikan alamat email Anda sudah benar di [preferensi komunikasi pada profil Anda](https://account.windowsazure.com/profile)
+Catatan: Jika Anda tidak mendapatkan email setelah mengikuti langkah-langkah tersebut, pastikan alamat email Anda sudah benar dalam [preferensi komunikasi di profil Anda](https://account.windowsazure.com/profile)
 
-**Mengunduh data penggunaan Anda dari portal Azure**
+**Unduh data penggunaan Anda dari portal Azure**
 
-- Masuk ke [pusat akun Azure](https://account.windowsazure.com/Subscriptions) sebagai [admin akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- Pilih langganan yang Anda inginkan dan informasi penggunaan faktur
-- Memilih **Riwayat tagihan**
-- Pilih **Tampilkan pernyataan saat ini** untuk melihat perkiraan biaya Anda pada saat perkiraan tersebut dihasilkan
-- Pilih **penggunaan unduhan** untuk mengunduh data penggunaan harian sebagai file CSV. Jika Anda melihat dua versi yang tersedia, Unduh versi 2
+- Masuk ke [Pusat Akun Azure](https://account.windowsazure.com/Subscriptions) sebagai Admin [Akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- Pilih langganan yang ingin Anda gunakan faktur dan informasi penggunaan
+- Pilih **Riwayat Tagihan**
+- Pilih **Tampilkan Pernyataan** Saat Ini untuk melihat perkiraan biaya Anda saat perkiraan dihasilkan
+- Pilih **Unduh Penggunaan** untuk mengunduh data penggunaan harian sebagai file CSV. Jika Anda melihat dua versi tersedia, unduh versi 2
 
-Pertanyaan lain: [kunjungi dokumen contoh Reserved](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Pertanyaan lain: [Kunjungi dokumen instans khusus](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
 - [Dasar-dasar tagihan](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Memahami cara diskon contoh Reserved diterapkan](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Mengunduh atau menampilkan faktur penagihan Azure dan data penggunaan harian Anda](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Memahami cara diskon contoh Reserved diterapkan](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Memahami penggunaan Instans Reserved untuk langganan bayar sesuai pemakaian Anda](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Memahami penggunaan Instans Reserved untuk pendaftaran perusahaan Anda](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Biaya perangkat lunak Windows tidak disertakan dengan instans cadangan](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Contoh Reserved dalam program mitra Cloud Central Solution Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Memahami cara diskon Instans Cadangan diterapkan](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Unduh atau tampilkan faktur tagihan dan data penggunaan harian Azure Anda](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Memahami cara diskon Instans Cadangan diterapkan](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Memahami penggunaan Instans Cadangan untuk langganan Bayar-Saat-Anda-Masuk](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Memahami penggunaan Instans Khusus untuk pendaftaran Enterprise Anda](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Biaya perangkat lunak Windows tidak disertakan dengan instans Khusus](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Instans Khusus dalam program Penyedia Solusi Awan Pusat Mitra (CSP, Central Cloud Solution Provider)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
