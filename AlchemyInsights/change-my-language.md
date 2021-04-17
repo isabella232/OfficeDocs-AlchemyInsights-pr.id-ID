@@ -2,7 +2,7 @@
 title: Mengubah bahasa saya
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87738a913841908e3d0075fb9aa2aacea1db0d70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818975"
 ---
-# <a name="change-my-language"></a><span data-ttu-id="cd8b8-102">Mengubah bahasa saya</span><span class="sxs-lookup"><span data-stu-id="cd8b8-102">Change my language</span></span>
+# <a name="change-my-language"></a><span data-ttu-id="01895-102">Mengubah bahasa saya</span><span class="sxs-lookup"><span data-stu-id="01895-102">Change my language</span></span>
 
-<span data-ttu-id="cd8b8-103">Aplikasi Outlook secara otomatis diterjemahkan ke dalam bahasa yang diatur oleh perangkat Anda.</span><span class="sxs-lookup"><span data-stu-id="cd8b8-103">The Outlook app is automatically translated into the language your device is set to.</span></span> 
+<span data-ttu-id="01895-103">Aplikasi Outlook otomatis diterjemahkan ke dalam bahasa yang diatur untuk perangkat Anda.</span><span class="sxs-lookup"><span data-stu-id="01895-103">The Outlook app is automatically translated into the language your device is set to.</span></span> 
 
-<span data-ttu-id="cd8b8-104">(Lihat [Daftar bahasa yang didukung di Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span><span class="sxs-lookup"><span data-stu-id="cd8b8-104">(See a [list of languages supported in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span></span> 
+<span data-ttu-id="01895-104">(Lihat [daftar bahasa yang didukung di Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span><span class="sxs-lookup"><span data-stu-id="01895-104">(See a [list of languages supported in Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).)</span></span> 
 
-<span data-ttu-id="cd8b8-105">**Untuk mengubah bahasa di perangkat Anda**:</span><span class="sxs-lookup"><span data-stu-id="cd8b8-105">**To change the language on your device**:</span></span> 
+<span data-ttu-id="01895-105">**Untuk mengubah bahasa di perangkat Anda:**</span><span class="sxs-lookup"><span data-stu-id="01895-105">**To change the language on your device**:</span></span> 
 
-<span data-ttu-id="cd8b8-106">**Di Android**:</span><span class="sxs-lookup"><span data-stu-id="cd8b8-106">**On Android**:</span></span> 
+<span data-ttu-id="01895-106">**Di Android**:</span><span class="sxs-lookup"><span data-stu-id="01895-106">**On Android**:</span></span> 
 
-- <span data-ttu-id="cd8b8-107">Pengaturan perangkat > bahasa dan input</span><span class="sxs-lookup"><span data-stu-id="cd8b8-107">Device Settings > Language and input</span></span> 
+- <span data-ttu-id="01895-107">Pengaturan Perangkat > Bahasa dan input</span><span class="sxs-lookup"><span data-stu-id="01895-107">Device Settings > Language and input</span></span> 
 
-<span data-ttu-id="cd8b8-108">**Di IOS**:</span><span class="sxs-lookup"><span data-stu-id="cd8b8-108">**On iOS**:</span></span> 
+<span data-ttu-id="01895-108">**Di iOS**:</span><span class="sxs-lookup"><span data-stu-id="01895-108">**On iOS**:</span></span> 
 
-- <span data-ttu-id="cd8b8-109">Pengaturan perangkat > kawasan & bahasa > Umum</span><span class="sxs-lookup"><span data-stu-id="cd8b8-109">Device Settings > General > Language & Region</span></span> 
+- <span data-ttu-id="01895-109">Pengaturan Perangkat > Umum > Kawasan & Umum</span><span class="sxs-lookup"><span data-stu-id="01895-109">Device Settings > General > Language & Region</span></span> 

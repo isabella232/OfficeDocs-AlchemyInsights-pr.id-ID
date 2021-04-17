@@ -1,8 +1,8 @@
 ---
-title: Mengubah latar belakang layar kunci Anda
+title: Mengubah latar belakang layar penguncian Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714475"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818111"
 ---
-# <a name="change-your-lock-screen-background"></a><span data-ttu-id="4ee5e-102">Mengubah latar belakang layar kunci Anda</span><span class="sxs-lookup"><span data-stu-id="4ee5e-102">Change your lock screen background</span></span>
+# <a name="change-your-lock-screen-background"></a><span data-ttu-id="b80e7-102">Mengubah latar belakang layar penguncian Anda</span><span class="sxs-lookup"><span data-stu-id="b80e7-102">Change your lock screen background</span></span>
 
-- <span data-ttu-id="4ee5e-103">Buka **Settings**  >  **Personalization**  >  **layar kunci**personalisasi pengaturan.</span><span class="sxs-lookup"><span data-stu-id="4ee5e-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="4ee5e-104">Atau klik atau ketuk [di sini](ms-settings:lockscreen?activationSource=GetHelp).</span><span class="sxs-lookup"><span data-stu-id="4ee5e-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
+- <span data-ttu-id="b80e7-103">Masuk ke **Layar**  >  **Kunci Personalisasi**  >  **Pengaturan**.</span><span class="sxs-lookup"><span data-stu-id="b80e7-103">Go to **Settings** > **Personalization** > **Lock screen**.</span></span> <span data-ttu-id="b80e7-104">Atau klik atau ketuk di [sini](ms-settings:lockscreen?activationSource=GetHelp).</span><span class="sxs-lookup"><span data-stu-id="b80e7-104">Or click or tap [here](ms-settings:lockscreen?activationSource=GetHelp).</span></span>
 
-- <span data-ttu-id="4ee5e-105">Untuk mengatur gambar latar belakang kustom, pilih **gambar** dari **latar belakang** daftar turun bawah, dan pilih atau **Telusuri** ke gambar.</span><span class="sxs-lookup"><span data-stu-id="4ee5e-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
+- <span data-ttu-id="b80e7-105">Untuk mengatur gambar latar belakang kustom, **pilih Gambar** **dari daftar** turun bawah Latar belakang, dan pilih **atau** Telusuri gambar.</span><span class="sxs-lookup"><span data-stu-id="b80e7-105">To set a custom background picture, select **Picture** from the **Background** drop-down list, and choose or **Browse** to the picture.</span></span>
 
   ![Mengatur gambar latar belakang kustom.](media/set-custom-background-pic.png)
 
-- <span data-ttu-id="4ee5e-107">Untuk menyetel peragaan slide gambar kustom, pilih **peragaan slide** dari daftar menurun **latar belakang** , dan pilih album atau tambahkan folder yang berisi gambar untuk slideshow tersebut.</span><span class="sxs-lookup"><span data-stu-id="4ee5e-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
+- <span data-ttu-id="b80e7-107">Untuk menyiapkan peragaan slide  gambar kustom, pilih Peragaan Slide dari daftar turun bawah Latar Belakang, dan pilih album atau tambahkan folder yang berisi gambar untuk peragaan slide. </span><span class="sxs-lookup"><span data-stu-id="b80e7-107">To set up a slideshow of custom pictures, select **Slideshow** from the **Background** drop-down list, and choose an album or add a folder that contains the pictures for the slideshow.</span></span>
 
-  ![Siapkan peragaan slide gambar kustom.](media/set-up-slideshow-background.png)
+  ![Menyiapkan peragaan slide gambar kustom.](media/set-up-slideshow-background.png)

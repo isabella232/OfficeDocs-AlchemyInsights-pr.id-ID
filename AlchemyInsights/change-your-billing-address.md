@@ -1,8 +1,8 @@
 ---
-title: Mengubah alamat tagihan Anda
+title: Ubah alamat tagihan Anda
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714439"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818211"
 ---
-# <a name="change-your-billing-address"></a><span data-ttu-id="77b23-102">Mengubah alamat tagihan Anda</span><span class="sxs-lookup"><span data-stu-id="77b23-102">Change your billing address</span></span>
+# <a name="change-your-billing-address"></a><span data-ttu-id="88631-102">Ubah alamat tagihan Anda</span><span class="sxs-lookup"><span data-stu-id="88631-102">Change your billing address</span></span>
 
-<span data-ttu-id="77b23-103">Tagihan atau faktur Anda berisi tiga alamat.</span><span class="sxs-lookup"><span data-stu-id="77b23-103">Your bill or invoice contains three addresses.</span></span>
+<span data-ttu-id="88631-103">Tagihan atau faktur Anda berisi tiga alamat.</span><span class="sxs-lookup"><span data-stu-id="88631-103">Your bill or invoice contains three addresses.</span></span>
 
-<span data-ttu-id="77b23-104">**Mengubah alamat penagihan untuk metode pembayaran**</span><span class="sxs-lookup"><span data-stu-id="77b23-104">**Change the billing address for a payment method**</span></span>
+<span data-ttu-id="88631-104">**Mengubah alamat tagihan untuk metode pembayaran**</span><span class="sxs-lookup"><span data-stu-id="88631-104">**Change the billing address for a payment method**</span></span>
 
-1. <span data-ttu-id="77b23-105">Di pusat admin, buka \*\* [metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)> tagihan\*\*.</span><span class="sxs-lookup"><span data-stu-id="77b23-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
-2. <span data-ttu-id="77b23-106">Pilih kartu kredit atau rekening bank yang ingin Anda ubah.</span><span class="sxs-lookup"><span data-stu-id="77b23-106">Select the credit card or bank account that you want to change.</span></span>
-3. <span data-ttu-id="77b23-107">Pada halaman **detail metode pembayaran** , klik **Edit**.</span><span class="sxs-lookup"><span data-stu-id="77b23-107">On the **Payment method details** page, click **Edit**.</span></span>
-4. <span data-ttu-id="77b23-108">Perbarui alamat tagihan Anda, lalu klik **simpan > selesai**.</span><span class="sxs-lookup"><span data-stu-id="77b23-108">Update your billing address, then click **Save > Done**.</span></span>
+1. <span data-ttu-id="88631-105">Di pusat admin, masuk ke **Tagihan > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span><span class="sxs-lookup"><span data-stu-id="88631-105">In the admin center, go to **Billing > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.</span></span>
+2. <span data-ttu-id="88631-106">Pilih kartu kredit atau rekening bank yang ingin Anda ubah.</span><span class="sxs-lookup"><span data-stu-id="88631-106">Select the credit card or bank account that you want to change.</span></span>
+3. <span data-ttu-id="88631-107">Pada halaman **Detail metode pembayaran,** klik **Edit.**</span><span class="sxs-lookup"><span data-stu-id="88631-107">On the **Payment method details** page, click **Edit**.</span></span>
+4. <span data-ttu-id="88631-108">Perbarui alamat tagihan Anda, lalu klik **Simpan > Selesai.**</span><span class="sxs-lookup"><span data-stu-id="88631-108">Update your billing address, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="77b23-109">Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, lihat [mengubah alamat tagihan untuk Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="77b23-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
+<span data-ttu-id="88631-109">Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, lihat [Mengubah alamat tagihan Microsoft 365 untuk bisnis Anda.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="88631-109">For more info about address and notification changes, see [Change your billing addresses for Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).</span></span>
 
-<span data-ttu-id="77b23-110">**Mengubah informasi akun tagihan**</span><span class="sxs-lookup"><span data-stu-id="77b23-110">**Change the billing account information**</span></span>
+<span data-ttu-id="88631-110">**Mengubah informasi akun tagihan**</span><span class="sxs-lookup"><span data-stu-id="88631-110">**Change the billing account information**</span></span>
 
-1. <span data-ttu-id="77b23-111">Di pusat admin, buka **tagihan > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)** tagihan.</span><span class="sxs-lookup"><span data-stu-id="77b23-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
-2. <span data-ttu-id="77b23-112">Pilih **edit informasi akun penagihan**.</span><span class="sxs-lookup"><span data-stu-id="77b23-112">Select **Edit billing account information**.</span></span>
-3. <span data-ttu-id="77b23-113">Perbarui informasi akun tagihan, lalu klik **simpan > selesai**.</span><span class="sxs-lookup"><span data-stu-id="77b23-113">Update the billing account information, then click **Save > Done**.</span></span>
+1. <span data-ttu-id="88631-111">Di pusat admin, masuk ke **Tagihan > [akun Tagihan.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**</span><span class="sxs-lookup"><span data-stu-id="88631-111">In the admin center, go to **Billing > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.</span></span>
+2. <span data-ttu-id="88631-112">Pilih **Edit informasi akun tagihan.**</span><span class="sxs-lookup"><span data-stu-id="88631-112">Select **Edit billing account information**.</span></span>
+3. <span data-ttu-id="88631-113">Perbarui informasi akun tagihan, lalu klik **Simpan > Selesai.**</span><span class="sxs-lookup"><span data-stu-id="88631-113">Update the billing account information, then click **Save > Done**.</span></span>
 
-<span data-ttu-id="77b23-114">**Catatan**: Anda tidak bisa mengubah negara/kawasan.</span><span class="sxs-lookup"><span data-stu-id="77b23-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="77b23-115">Jika bidang ini perlu diubah, Anda perlu membeli penyewa baru.</span><span class="sxs-lookup"><span data-stu-id="77b23-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
+<span data-ttu-id="88631-114">**Catatan**: Anda tidak dapat mengubah Negara/Kawasan.</span><span class="sxs-lookup"><span data-stu-id="88631-114">**Note**: You can't change the Country/Region.</span></span> <span data-ttu-id="88631-115">Jika bidang ini perlu diubah, Anda harus membeli penyewa baru.</span><span class="sxs-lookup"><span data-stu-id="88631-115">If this field needs to be changed, you'll need to purchase a new tenant.</span></span>
