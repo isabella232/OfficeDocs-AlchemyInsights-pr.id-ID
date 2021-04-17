@@ -2,7 +2,7 @@
 title: Memecahkan masalah audio di Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750310"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833294"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Memecahkan masalah audio di Windows 10
 
 **Menjalankan pemecah masalah audio**
 
-1.  Buka [pengaturan pemecahan masalah](ms-settings:troubleshoot).
+1.  Membuka pengaturan [Pemecahan masalah](ms-settings:troubleshoot).
 
-2.  Pilih **putar audio**  >  **Jalankan pemecah masalah**.
+2.  Pilih **Memutar Audio** Jalankan pemecah  >  **masalah**.
 
 **Mengatur perangkat default**
 
-Jika Anda menyambungkan ke perangkat audio menggunakan USB atau HDMI, Anda mungkin perlu mengatur perangkat tersebut sebagai default:
+Jika menyambungkan ke perangkat audio menggunakan USB atau HDMI, Anda mungkin perlu mengatur perangkat tersebut sebagai default:
 
-1. Buka **mulai**  >  **suara**, lalu pilih **suara** atau **Ubah suara sistem** dari daftar hasil.
+1. Buka **Mulai**  >  **Suara**, lalu **pilih Suara** atau Ubah **suara** sistem dari daftar hasil.
 
-2.  Pada tab **pemutaran** , pilih perangkat, pilih **setel default**, lalu pilih **OK**.
+2.  Di tab **Pemutaran,** pilih perangkat, pilih **Atur Default**, lalu pilih **OK**.
 
 **Memeriksa kabel, volume, speaker, dan headphone**
 
-1. Periksa koneksi speaker dan headphone Anda untuk kabel longgar, dan pastikan tersambung ke Jack yang tepat.
+1. Periksa koneksi speaker dan headphone untuk kabel yang melonggar, dan pastikan kabel tersebut tersambung ke colokan yang benar.
 
-2. Periksa tingkat kekuatan dan volume Anda dan cobalah mengubah semua kontrol volume ke atas.
+2. Periksa tingkat daya dan volume anda dan cobalah mengubah semua kontrol volume naik.
 
-3. Beberapa speaker dan aplikasi memiliki kontrol volume sendiri; Anda mungkin harus memeriksa semuanya untuk memastikan mereka berada di tingkat yang tepat.
+3. Beberapa speaker dan aplikasi memiliki kontrol volumenya sendiri; Anda mungkin harus memeriksa semuanya untuk memastikan nilai tersebut berada di tingkat yang tepat.
 
-4. Cobalah menyambungkan menggunakan port USB yang berbeda.
+4. Coba sambungkan menggunakan port USB lain.
 
-**Catatan**: ingat bahwa speaker Anda mungkin tidak berfungsi ketika headphone dicolokkan.
+**Catatan**: Ingatlah bahwa speaker Anda mungkin tidak berfungsi ketika headphone dicolokkan.
 
-**Periksa manajer perangkat**
+**Periksa Manajer Perangkat**
 
-Untuk memastikan bahwa driver telah diperbarui:
+Untuk memastikan driver telah diperbarui:
 
-1. Pilih **mulai**, ketikkan **manajer perangkat**, lalu pilih **pengelola perangkat** dari daftar hasil.
+1. Pilih **Mulai**, **ketik Manajer Perangkat**, lalu pilih Manajer **Perangkat** dari daftar hasil.
 
-2. Di bawah **suara, video, dan pengendali permainan**, pilih kartu suara Anda, buka, pilih tab **pengandar** , dan pilih **Perbarui pengandar**.
+2. Di **bawah Suara, video, dan pengontrol permainan**, pilih kartu suara Anda, buka, pilih tab **Driver,** lalu pilih **Perbarui Driver**.
 
-**Catatan**: jika Windows tidak menemukan driver baru, Cari salah satu di situs web pabrikan perangkat dan ikuti instruksinya.
+**Catatan**: Jika Windows tidak menemukan driver baru, cari driver di situs web produsen perangkat dan ikuti instruksi mereka.
 
-**Menginstal ulang driver**
+**Instal ulang driver**
 
-Jika Anda tidak dapat memperbarui melalui manajer perangkat atau menemukan driver baru di situs web produsen, cobalah langkah-langkah berikut:
+Jika tidak dapat memperbarui melalui Manajer Perangkat atau menemukan driver baru di situs web produsen, cobalah langkah-langkah berikut:
 
-1. Di manajer perangkat, klik kanan (atau tekan dan tahan) driver audio, lalu pilih **hapus instalan**. Mulai ulang perangkat Anda dan Windows akan mencoba menginstal ulang driver.
+1. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio, lalu pilih Hapus **instalan**. Mulai ulang perangkat dan Windows akan berusaha menginstal ulang driver.
 
-2. Jika menginstal ulang driver tidak berfungsi, coba gunakan driver audio generik yang disertakan dengan Windows. Di manajer perangkat, klik kanan (atau tekan dan tahan) driver audio Anda > **Perbarui perangkat lunak pengandar**  >  **Telusuri komputer saya untuk perangkat lunak pengandar**  >  **biarkan saya memilih dari daftar driver perangkat di komputer saya**, pilih **perangkat audio definisi tinggi**, pilih **berikutnya**, dan ikuti instruksi untuk menginstalnya.
+2. Jika menginstal ulang driver tidak berhasil, coba gunakan driver audio umum yang hadir dengan Windows. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio Anda > Perbarui perangkat lunak **driver** Telusuri komputer saya untuk perangkat lunak driver Biarkan saya memilih dari daftar driver perangkat di komputer saya , pilih Perangkat Audio Definisi Tinggi , pilih Berikutnya , dan ikuti instruksi untuk  >    >  menginstalnya.  

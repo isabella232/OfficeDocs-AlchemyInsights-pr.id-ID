@@ -1,8 +1,8 @@
 ---
-title: Menginstal server laporan Power BI
+title: Menginstal Server Laporan Power BI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755098"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832097"
 ---
-# <a name="install-power-bi-report-server"></a>Menginstal server laporan Power BI
+# <a name="install-power-bi-report-server"></a>Menginstal Server Laporan Power BI
 
-1. Temukan lokasi PowerBIReportServer.exe dan Luncurkan Penginstal.
+1. Temukan lokasi PowerBIReportServer.exe dan luncurkan penginstal.
 
-2. Pilih **Instal Power BI Report server**.
+2. Pilih **Instal Server Laporan Power BI.**
 
-3. Pilih edisi untuk diinstal, lalu pilih **berikutnya**.
+3. Pilih edisi untuk diinstal, lalu pilih **Berikutnya**.
 
-4. Anda dapat memilih evaluasi atau edisi pengembang dari daftar menurun.  Jika tidak, Anda dapat memasukkan kunci produk untuk server yang Anda peroleh dari layanan Power BI atau pusat layanan lisensi Borongan. Untuk informasi selengkapnya tentang cara mendapatkan kunci produk Anda, lihat bagian sebelum Anda memulai. Baca dan Setujui persyaratan dan ketentuan lisensi, lalu pilih **berikutnya**.
+4. Anda dapat memilih Evaluasi atau Edisi pengembang dari menu menurun.  Jika tidak, Anda bisa memasukkan kunci produk untuk server yang Anda peroleh dari layanan Power BI atau Pusat Layanan Lisensi Volume. Untuk informasi selengkapnya tentang cara mendapatkan kunci produk Anda, lihat bagian Sebelum Anda memulai. Baca dan setujui syarat dan ketentuan lisensi, lalu pilih **Berikutnya**.
 
-5. Anda harus memiliki mesin database yang tersedia untuk menyimpan database server laporan. Pilih **berikutnya** untuk menginstal server laporan saja.
+5. Anda perlu memiliki Mesin Database yang tersedia untuk menyimpan database server laporan. Pilih **Berikutnya** untuk menginstal server laporan saja.
 
 6. Tentukan lokasi instalasi untuk server laporan. Pilih **Instal** untuk melanjutkan.
 
-7. Setelah penyetelan berhasil, pilih **Konfigurasikan server laporan** untuk meluncurkan manajer konfigurasi Layanan pelaporan.
+7. Setelah penyiapan berhasil, pilih **Konfigurasi Server Laporan** untuk meluncurkan Manajer Konfigurasi Layanan Pelaporan.
 
-Anda tidak memerlukan Server SQL Server Database Engine yang tersedia pada saat penginstalan. Anda akan memerlukan satu untuk mengonfigurasi Layanan pelaporan setelah penginstalan.
+Anda tidak memerlukan server Mesin Database SQL Server yang tersedia saat penginstalan. Anda akan memerlukannya untuk mengonfigurasi Layanan Pelaporan setelah instalasi.
 
 Untuk informasi selengkapnya: https://docs.microsoft.com/power-bi/report-server/install-report-server

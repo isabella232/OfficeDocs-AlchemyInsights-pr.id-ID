@@ -1,8 +1,8 @@
 ---
-title: Masalah dengan Apple Watch
+title: Bermasalah dengan Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700026"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832277"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Masalah dengan Apple Watch
+# <a name="trouble-with-the-apple-watch"></a>Bermasalah dengan Apple Watch
 
-Jika Anda mengalami masalah dalam menggunakan Outlook di Apple Watch, berikut ini beberapa langkah pemecahan masalah: 
+Jika mengalami masalah saat menggunakan Outlook di Apple Watch, berikut adalah beberapa langkah pemecahan masalah: 
 
-1. Buka aplikasi tonton di iPhone.
+1. Masuk ke aplikasi Watch di iPhone.
 
 2. Gulir ke aplikasi Outlook.
 
-3. Alihkan "Perlihatkan aplikasi di Apple Watch" ke **nonaktif** untuk menghapus instalan.
+3. Alihkan "Tampilkan Aplikasi di Apple Watch" ke NONAKTIF **untuk** menghapus instalan.
 
-4. Alihkan "Perlihatkan aplikasi di Apple Watch" ke **aktif** untuk menginstal ulang di arloji.
+4. Alihkan "Tampilkan Aplikasi di Apple Watch" **ke AKTIF** untuk menginstal ulang di Watch.
 
-5. Luncurkan aplikasi Outlook di Apple Watch dan tunggu hingga data disinkronkan ke terbaru. 
+5. Luncurkan aplikasi Outlook di Apple Watch dan tunggu hingga data disinkronkan ke yang terbaru. 
 
-Jika masalah Anda tidak teratasi, tim dukungan akan dengan senang hati membantu. Masuk ke **pengaturan > membantu & umpan balik > Hubungi dukungan**. 
+Jika masalah tidak teratasi, tim Dukungan akan membantu Dengan senang hati. Masuk ke **Pengaturan > Bantuan & Umpan > Hubungi Dukungan.** 
