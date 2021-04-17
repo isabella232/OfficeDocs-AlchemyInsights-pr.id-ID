@@ -2,7 +2,7 @@
 title: Cara membuat permintaan file
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: db3169c3ffd69af0987d6beb8a8142b6ca385253
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746942"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816014"
 ---
-# <a name="how-to-create-a-file-request"></a><span data-ttu-id="26460-102">Cara membuat permintaan file</span><span class="sxs-lookup"><span data-stu-id="26460-102">How to create a file request</span></span>
+# <a name="how-to-create-a-file-request"></a><span data-ttu-id="93eb5-102">Cara membuat permintaan file</span><span class="sxs-lookup"><span data-stu-id="93eb5-102">How to create a file request</span></span>
 
-<span data-ttu-id="26460-103">Fitur permintaan file di OneDrive memungkinkan Anda memilih folder tempat orang lain dapat mengunggah file menggunakan tautan yang Anda kirimkan.</span><span class="sxs-lookup"><span data-stu-id="26460-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="26460-104">Pengguna yang Anda minta file tidak bisa melihat apa yang ada di folder--mereka hanya dapat mengunggah file ke dalamnya.</span><span class="sxs-lookup"><span data-stu-id="26460-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
+<span data-ttu-id="93eb5-103">Fitur permintaan file di OneDrive memungkinkan Anda untuk memilih folder tempat orang lain dapat mengunggah file menggunakan tautan yang Anda kirimkan.</span><span class="sxs-lookup"><span data-stu-id="93eb5-103">The file request feature in OneDrive allows you to choose a folder where others can upload files using a link that you send them.</span></span> <span data-ttu-id="93eb5-104">Pengguna yang Anda minta filenya tidak bisa melihat apa yang ada di folder--mereka hanya bisa mengunggah file ke folder tersebut.</span><span class="sxs-lookup"><span data-stu-id="93eb5-104">The users that you request files from cannot see what's in the folder--they can only upload files to it.</span></span>
 
-<span data-ttu-id="26460-105">**Catatan**: administrator harus mengaktifkan [link siapa saja](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) di OneDrive untuk permintaan file agar berfungsi.</span><span class="sxs-lookup"><span data-stu-id="26460-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
+<span data-ttu-id="93eb5-105">**Catatan:** Seorang administrator harus mengaktifkan [tautan siapa pun](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) di OneDrive agar permintaan file dapat berfungsi.</span><span class="sxs-lookup"><span data-stu-id="93eb5-105">**Note**: An administrator must enable [Anyone links](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) in OneDrive for file requests to work.</span></span>
 
-- <span data-ttu-id="26460-106">Untuk informasi selengkapnya, lihat [membuat permintaan file](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="26460-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
+- <span data-ttu-id="93eb5-106">Untuk informasi selengkapnya, [lihat Membuat permintaan file](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span><span class="sxs-lookup"><span data-stu-id="93eb5-106">For more info, see [Create a file request](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).</span></span>
