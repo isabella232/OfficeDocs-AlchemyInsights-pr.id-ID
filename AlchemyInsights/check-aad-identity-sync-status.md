@@ -1,8 +1,8 @@
 ---
-title: Memeriksa status sinkronisasi identitas AAD
+title: Memeriksa Status Sinkronisasi Identitas AAD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793905"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817859"
 ---
-# <a name="check-aad-identity-sync-status"></a>Memeriksa status sinkronisasi identitas AAD
+# <a name="check-aad-identity-sync-status"></a>Memeriksa status Sinkronisasi Identitas AAD
 
-Memeriksa status sinkronisasi mudah:
+Memeriksa status sinkronisasi adalah hal yang mudah:
   
-- Masuk ke Pusat admin Microsoft 365 dan pilih **status Dirsync** di halaman Beranda.
+- Masuk ke pusat admin Microsoft 365, lalu pilih **Status DirSync** di laman.
 
-- Bergantian, Anda bisa masuk ke pengguna \> aktif pengguna, dan pada halaman pengguna aktif, pilih \> sinkronisasi direktori lainnya.
+- Atau, Anda bisa masuk ke Pengguna \> Pengguna Aktif, dan pada halaman Pengguna aktif, pilih Sinkronisasi \> Direktori Lainnya.
 
-- Pada panel sinkronisasi direktori, pilih masuk ke manajemen DirSync.
+- Di panel Sinkronisasi Direktori, pilih Masuk ke manajemen DirSync.
 
-Jika ada masalah dengan sinkronisasi direktori Anda, kesalahan dicantumkan di Halaman ini. Untuk informasi selengkapnya tentang kesalahan berbeda yang mungkin Anda hadapi, lihat [menampilkan kesalahan sinkronisasi direktori](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Jika terjadi masalah dengan sinkronisasi direktori, kesalahan akan dicantumkan di halaman ini. Untuk informasi selengkapnya tentang kesalahan lain yang mungkin Anda temui, [lihat Menampilkan kesalahan sinkronisasi direktori](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

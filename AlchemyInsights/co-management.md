@@ -2,7 +2,7 @@
 title: Manajemen bersama
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896798"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817715"
 ---
 # <a name="co-management"></a>Manajemen bersama
 
-**Prasyarat untuk melakukan migrasi dari hibrid config Manager ke Intune**
+**Prasyarat untuk melakukan migrasi dari Config Manager Hybrid ke Intune**
 
-- Tinjau [artikel ini](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Menambahkan lisensi Intune ke pengguna Anda](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Gunakan [browser Edge](https://www.microsoft.com/edge) saat mengonfigurasi manajemen bersama.
+- Tinjau [artikel ini.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Tambahkan lisensi Intune ke pengguna Anda](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
+- Gunakan [browser Edge](https://www.microsoft.com/edge) saat mengonfigurasi Manajemen bersama.
 
-Pengalaman penyetelan rekan manajemen yang dipandu, langkah demi langkah dapat ditemukan [di sini](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
+Pengalaman penyiapan bersama langkah demi langkah yang dipandu dan dapat ditemukan di [sini](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
 
-**Cara menginstal klien manajer config di Intune-perangkat yang dikelola**
+**Cara menginstal klien Config Manager di perangkat Intune-managed**
 
-Lihat [perangkat Windows yang dikelola MDM Mdm](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Lihat [perangkat Windows yang dikelola Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Bagaimana jika saya hanya ingin mengubah wewenang MDM?**
+**Bagaimana jika saya hanya ingin mengubah otoritas MDM?**
 
-Otoritas MDM dapat diubah tanpa membuka kasus dukungan. Tinjau dokumentasi berikut ini untuk membantu mengubah wewenang MDM Anda:
+Otoritas MDM dapat diubah tanpa membuka kasus dukungan. Silakan tinjau dokumentasi berikut ini untuk membantu mengubah otoritas MDM Anda:
 
-- [Mengubah wewenang MDM dari manajer konfigurasi ke Intune mandiri](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Mengubah wewenang MDM dari Intune mandiri ke pengelola konfigurasi](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Mengubah Otoritas MDM dari Manajer Konfigurasi menjadi Intune mandiri](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Mengubah otoritas MDM dari Intune mandiri menjadi Manajer Konfigurasi](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

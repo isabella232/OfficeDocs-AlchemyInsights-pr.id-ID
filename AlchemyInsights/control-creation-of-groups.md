@@ -1,8 +1,8 @@
 ---
-title: Mengontrol pembuatan grup
+title: Mengontrol pembuatan Grup
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: fa3dd7798eb41164ca27a2dfe2a036e53bc3db0d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733222"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816707"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>Mengontrol pembuatan grup Microsoft 365
+# <a name="control-creation-of-microsoft-365-groups"></a>Mengontrol pembuatan Grup Microsoft 365
 
-Secara default, semua pengguna di dalam perusahaan dapat membuat grup. Jika diperlukan, Anda dapat mengubah hal ini, dan menetapkan hak untuk membuat grup ke sekumpulan orang dalam perusahaan Anda. Perhatikan bahwa ini akan berdampak pada pembuatan grup dari layanan Microsoft 365 apa pun (seperti Outlook, teams, Planner, dan seterusnya).
+Secara default, semua pengguna di dalam perusahaan bisa membuat grup. Jika diperlukan, Anda bisa mengubah ini, dan menetapkan hak untuk membuat grup untuk 3 orang dalam perusahaan Anda. Perlu diingat bahwa hal ini akan berdampak pada pembuatan grup dari layanan Microsoft 365 apa pun (seperti Outlook, Teams, Planner, dan lain-lain).
   
-Instruksi: [mengelola siapa yang bisa membuat grup Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Instruksi: [Mengelola siapa yang dapat membuat Grup Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)

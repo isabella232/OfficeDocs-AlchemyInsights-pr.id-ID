@@ -1,43 +1,44 @@
 ---
-title: Membuat kebijakan berbagi untuk memungkinkan pengguna berbagi kalender dengan orang di luar organisasi Anda
+title: Membuat kebijakan berbagi untuk memungkinkan pengguna Anda berbagi kalender dengan orang di luar organisasi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cb2c0af55f4f8833709b6952d3a6e2ac258ce5fc
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862116"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816275"
 ---
-# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Membuat kebijakan berbagi untuk memungkinkan pengguna berbagi kalender dengan orang di luar organisasi Anda
+# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Membuat kebijakan berbagi untuk memungkinkan pengguna Anda berbagi kalender dengan orang di luar organisasi
 
-1. Dari dasbor Pusat admin Microsoft 365, buka **admin**  >  **Exchange**.
-2. Buka berbagi **organisasi**  >  **sharing**.
-3. Dalam tampilan daftar, di bawah **masing-masing berbagi**, klik **baru** .
-4. Dalam **kebijakan berbagi baru**, ketik nama akrab kebijakan berbagi di kotak **nama kebijakan** .
-5. Klik **Tambahkan** untuk menentukan aturan berbagi untuk kebijakan.
-6. Dalam **aturan berbagi**, pilih salah satu opsi berikut untuk menentukan domain yang ingin Anda bagikan:
+1. Dari dasbor pusat admin Microsoft 365, masuk ke **Admin** > **Exchange**.
+2. Masuk ke **organisasi** > **berbagi**.
+3. Di daftar tampilan, di bawah **Berbagi Individual**, klik **Baru** .
+4. Di **kebijakan berbagi baru**, ketikkan nama yang mudah digunakan untuk kebijakan berbagi di kotak **Nama kebijakan**.
+5. Klik **Tambahkan**  untuk menetapkan aturan berbagi untuk kebijakan.
+6. Di **aturan kebijakan**, pilih salah satu opsi berikut untuk menentukan domain tempat Anda ingin berbagi:
     - **Berbagi dengan semua domain**
     - **Berbagi dengan domain tertentu**
-8. Jika Anda memilih **berbagi dengan domain tertentu**, ketikkan nama domain yang ingin Anda bagikan. Jika Anda perlu memasukkan lebih dari satu domain untuk kebijakan berbagi ini, Simpan pengaturan untuk domain pertama, lalu Edit aturan berbagi untuk menambahkan lebih banyak domain.
-9. Untuk menentukan informasi yang dapat dibagi, pilih kotak centang **berbagi folder kalender Anda** , dan kemudian pilih salah satu dari opsi berikut ini:
+8. Jika Anda memilih **Berbagi dengan domain tertentu**, ketik nama domain tempat Anda ingin berbagi. Jika Anda perlu memasukkan lebih dari satu domain untuk kebijakan berbagi ini, simpan pengaturan untuk domain pertama, lalu edit aturan berbagi untuk menambahkan domain lainnya.
+9. Untuk menentukan informasi yang dapat dibagikan, centang kotak **Berbagi folder kalender Anda**, lalu pilih salah satu opsi berikut:
     - **Informasi bebas/sibuk kalender hanya dengan waktu**
     - **Informasi bebas/sibuk kalender dengan waktu, subjek, dan lokasi**
     - **Semua informasi janji temu kalender, termasuk waktu, subjek, lokasi, dan judul**
-11. Klik **Simpan** untuk menetapkan aturan untuk kebijakan berbagi.
-12. Jika Anda ingin menetapkan kebijakan berbagi ini sebagai kebijakan berbagi default baru untuk semua pengguna di organisasi Anda, centang kotak **Buat kebijakan berbagi default kebijakan ini** .
-13. Klik **Simpan** untuk membuat kebijakan berbagi.  
+11. Klik **simpan** untuk menetapkan aturan untuk kebijakan berbagi.
+12. Jika Anda ingin menetapkan kebijakan berbagi ini sebagai kebijakan berbagi default baru untuk semua pengguna di organisasi Anda, centang kotak **Buat kebijakan ini menjadi kebijakan berbagi default saya**.
+13. Klik **simpan** untuk membuat kebijakan berbagi.  
 
-**Untuk pemahaman penuh tentang topik ini silahkan baca:**
+**Untuk mendapatkan pemahaman penuh terkait topik ini, baca:**
 
 - [Membuat kebijakan berbagi di Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
 - [Menerapkan kebijakan berbagi ke kotak surat di Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)

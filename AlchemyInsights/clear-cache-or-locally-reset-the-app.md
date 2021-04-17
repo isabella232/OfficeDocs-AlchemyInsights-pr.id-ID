@@ -1,8 +1,8 @@
 ---
-title: Menghapus singgahan atau mengatur ulang aplikasi secara lokal
+title: Hapus cache atau atur ulang aplikasi secara lokal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001099"
 - "3060"
-ms.openlocfilehash: b9801dd7b3c831b485ada50c310c46580e1a1a85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922f43e90b0479762ccfc20d4130a6a8883f8c41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681227"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817751"
 ---
-# <a name="clear-the-cache-or-locally-reset-the-app"></a>Menghapus singgahan atau mengatur ulang aplikasi secara lokal
+# <a name="clear-the-cache-or-locally-reset-the-app"></a>Hapus cache atau atur ulang aplikasi secara lokal
 
-Jika Anda melihat data yang tidak lengkap atau salah, tutup dan buka kembali aplikasi.  Jika tidak mengatasi masalah, reset akun di perangkat: 
+Jika Anda melihat data yang tidak lengkap atau tidak benar, silakan tutup dan buka kembali aplikasi tersebut.  Jika cara tersebut tidak mengatasi masalah, atur ulang akun di perangkat: 
 
-**Buka pengaturan > aplikasi kami > pilih akun email > mereset akun**
+**Buka pengaturan > aplikasi kami > Pilih akun email untuk > Atur Ulang Akun**

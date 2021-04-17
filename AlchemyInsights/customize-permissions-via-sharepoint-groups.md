@@ -1,8 +1,8 @@
 ---
-title: Cara mengustomisasi izin situs SharePoint melalui grup SharePoint
+title: Cara mengkustomisasi izin situs SharePoint melalui Grup SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 6db066d406bce91fa98d2d1b6a91844acc28642c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6141f801002aba0c74966eebe659a0228d2eda69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731710"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815690"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Cara mengustomisasi izin situs SharePoint melalui grup SharePoint 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Cara mengkustomisasi izin situs SharePoint melalui Grup SharePoint 
 
-Grup SharePoint adalah kumpulan pengguna yang memiliki kumpulan izin yang sama ke situs dan konten. Alih-alih memberikan izin kepada seseorang dalam satu waktu, Anda bisa menggunakan grup untuk menetapkan tingkat izin yang sama kepada banyak orang sekaligus.
+Grup SharePoint adalah kumpulan pengguna yang semuanya memiliki kumpulan izin yang sama ke situs dan konten. Daripada menetapkan izin satu orang pada satu waktu, Anda bisa menggunakan grup untuk dengan mudah memberikan tingkat izin yang sama ke banyak orang sekaligus.
 
-[Mengkustomisasi izin situs SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+[Mengustomisasi izin situs SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

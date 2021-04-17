@@ -1,8 +1,8 @@
 ---
-title: Perilaku konsistensi GUID/sourceAnchor
+title: Perilaku ConsistencyGuid / sourceAnchor
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756286"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816995"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Perilaku konsistensi GUID/sourceAnchor
+# <a name="consistencyguid--sourceanchor-behavior"></a>Perilaku ConsistencyGuid / sourceAnchor
 
-Azure AD Connect (versi 1.1.524.0 dan setelahnya) kini memfasilitasi penggunaan msDS-Konsistencyguid sebagai atribut sourceAnchor. Saat menggunakan fitur ini, Azure AD Connect mengonfigurasi aturan sinkronisasi secara otomatis untuk:
+Azure AD Connect (versi 1.1.524.0 dan setelahnya) kini memfasilitasi penggunaan atribut msDS-ConsistencyGuid sebagai atribut sourceAnchor. Ketika menggunakan fitur ini, Azure AD Connect secara otomatis mengonfigurasi aturan sinkronisasi untuk:
   
-- Gunakan msDS-Konsistencyguid sebagai atribut sourceAnchor untuk objek pengguna. ObjectGUID digunakan untuk tipe objek lainnya.
+- Gunakan msDS-ConsistencyGuid sebagai atribut sourceAnchor untuk objek Pengguna. ObjectGUID digunakan untuk tipe objek lain.
     
-- Untuk objek pengguna AD lokal yang diberikan yang msDS-Konsistencyguid atribut tidak terisi, Azure AD Connect menulis nilai objectGUID kembali ke atribut msDS-Konsistencyguid dalam direktori aktif di tempat. Setelah atribut msDS-Konsistencyguid diisi, maka Azure AD Connect lalu mengekspor objek ke Azure AD.
+- Untuk objek Pengguna AD lokal dengan atribut msDS-ConsistencyGuid yang tidak diisi, Azure AD Connect akan menulis nilai objectGUID kembali ke atribut msDS-ConsistencyGuid di Direktori Aktif lokal. Setelah atribut msDS-ConsistencyGuid terisi, Azure AD Connect kemudian mengekspor objek ke Azure AD.
     
- **Catatan:** Setelah objek AD di tempat diimpor ke Azure AD Connect (yang diimpor ke dalam ruang konektor AD dan diproyeksikan ke dalam metaverse), Anda tidak bisa mengubah nilai penghitungnya lagi. Untuk menentukan nilai sourceAnchor untuk objek AD di tempat yang diberikan, konfigurasikan atribut msDS-Konsistencyguid sebelum diimpor ke Azure AD Connect. 
+ **Catatan:** Setelah objek AD lokal diimpor ke Azure AD Connect (yang diimpor ke Ruang Konektor AD dan diproyeksikan ke Metaverse), Anda tidak dapat mengubah nilai sumbernya lagi. Untuk menentukan nilai sourceAnchor bagi objek AD lokal tertentu, konfigurasi atribut msDS-ConsistencyGuid sebelum diimpor ke Azure AD Connect. 
   
-Untuk informasi selengkapnya tentang SourceAnchor dan Konsistencyguid, lihat yang berikut ini: [AZURE AD Connect: konsep desain](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Untuk informasi selengkapnya tentang SourceAnchor dan ConsistencyGuid, lihat hal berikut: [Azure AD Connect: Konsep desain](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

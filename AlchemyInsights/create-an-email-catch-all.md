@@ -1,8 +1,8 @@
 ---
-title: Membuat email menangkap semua
+title: Buat email berisi semua
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816203"
 ---
-# <a name="create-an-email-catch-all"></a>Membuat email menangkap semua
+# <a name="create-an-email-catch-all"></a>Buat email berisi semua
 
-Penggunaan menangkap semua sangat dianjurkan. Lebih baik untuk memberikan pentalan kembali ke pengirim yang memperbolehkan pengirim mengetahui pesan mereka tidak dapat dikirim seperti yang dibahas sehingga mereka dapat melakukan tindakan. Anda juga bisa membatasi kotak surat terpantau untuk hanya menangkap alamat email yang sebelumnya valid. 
+Penggunaan tangkapan semua tidak disarankan. Akan lebih baik jika memberikan informasi terpental kembali kepada pengirim yang memberi tahu pengirim bahwa pesan mereka tidak dapat terkirim sesuai alamat sehingga mereka dapat melakukan tindakan. Anda juga bisa membatasi kotak surat yang dipantau agar hanya menemukan alamat email yang sebelumnya valid. 
 
-Setiap kotak surat menangkap semua akan menerima spam yang baik dan mungkin akhirnya mengisi jika tidak diawasi secara ketat. (Ada batas penerimaan.) 
+Semua tangkapan semua kotak surat akan menerima banyak spam dan pada akhirnya dapat mengisi jika tidak dipantau dengan jelas. (Terdapat batasan penerimaan.) 
 
-Jika Anda memutuskan untuk melanjutkan, ikuti langkah-langkah berikut:
+Jika memutuskan untuk melanjutkan, ikuti langkah-langkah berikut:
 
-1. Membuat grup distribusi dinamis & menyertakan "semua tipe Penerima."
+1. Membuat grup distribusi dinamis & menyertakan "Semua Tipe Penerima."
 
-2. Membuat kotak surat khusus untuk menangkap email, misalnya, catchall@domain.com.
+2. Buat Kotak Surat khusus untuk menemukan email, misalnya, catchall@domain.com.
 
-3. Untuk domain tertentu, atur DomainType ke "InternalRelay". Jika nanti Anda menghapus semua tangkapan, pastikan untuk mengatur kembali domain ke otoritatif.
+3. Untuk domain tertentu, setel DomainType ke "Internal Fonty". Jika nanti Anda menghapus semua tangkapan, pastikan untuk mengatur kembali domain ke Otoritatif.
 
-4. Membuat aturan transpor Mailflow sebagai berikut:
+4. Membuat Aturan Transpor Alur Email seperti berikut:
 
-    - Jika pengirim adalah "di luar organisasi"
-    - Mengalihkan pesan ke Catchall@domain.com
-    - Kecuali jika Penerima adalah anggota allusers@domain.com (grup distribusi berisi semua anggota)
-    - Pastikan untuk memvalidasi bahwa kotak surat baru ditambahkan ke dalam grup distribusi dinamis
+    - Jika Pengirim adalah "Di Luar Organisasi"
+    - Alihkan pesan ke Catchall@domain.com
+    - Kecuali jika penerima adalah anggota dari grup allusers@domain.com (Grup Distribusi berisi semua anggota)
+    - Pastikan untuk memvalidasi bahwa kotak surat baru ditambahkan ke dalam Grup Distribusi Dinamis
