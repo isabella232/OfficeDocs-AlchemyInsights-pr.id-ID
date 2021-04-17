@@ -1,8 +1,8 @@
 ---
-title: Bypass Lobby
+title: Melewati lobi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684953"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820037"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Mengontrol pengaturan lobi dan tingkat partisipasi di teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Mengontrol pengaturan dan tingkat partisipasi lobi di Teams
 
-Jika Anda ingin memperbolehkan semua orang, termasuk pengguna dial-in, eksternal, dan anonim, untuk **melewati lobi**, gunakan PowerShell untuk menyelesaikan tugas ini. Berikut ini adalah contoh modifikasi kebijakan Rapat global untuk organisasi Anda.
+Jika Anda ingin memperbolehkan semua orang, termasuk pengguna Dial-in, eksternal, dan anonim, untuk melewati lobi **,** gunakan PowerShell untuk menyelesaikan tugas ini. Berikut ini adalah contoh memodifikasi kebijakan rapat global untuk organisasi Anda.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Cmdlet ini saat ini memerlukan penggunaan modul PowerShell untuk bisnis Skype. Untuk menyiapkan penggunaan cmdlet ini, lihat [mengelola kebijakan melalui PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Cmdlet ini saat ini memerlukan penggunaan modul Skype for Business PowerShell. Untuk bersiap menggunakan cmdlet ini, lihat [Mengelola kebijakan melalui PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Setelah Anda menyiapkan kebijakan, Anda perlu menerapkannya ke pengguna; atau, jika Anda mengubah kebijakan global, kebijakan tersebut akan diterapkan secara otomatis kepada pengguna. Untuk perubahan kebijakan apa pun, Anda harus menunggu setidaknya **4 jam hingga 24 jam** agar kebijakan diberlakukan. 
+Begitu Anda sudah menyiapkan kebijakan, Anda perlu menerapkannya ke pengguna; atau, jika Anda mengubah kebijakan Global, kebijakan ini akan otomatis berlaku bagi pengguna. Untuk setiap perubahan kebijakan, Anda harus menunggu **setidaknya 4 jam hingga 24** jam agar kebijakan berlaku. 
 
-Pastikan untuk meninjau dokumentasi di bawah ini sebelum membuat perubahan ini untuk memahami dengan tepat apa yang memungkinkan ini.
+Pastikan untuk meninjau dokumentasi di bawah ini sebelum membuat perubahan ini untuk memahami apa yang mengizinkannya dengan tepat.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Memahami kontrol Kebijakan lobi Rapat teams
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Memahami kontrol kebijakan lobi rapat Teams
 
-Pengaturan ini mengontrol peserta rapat yang menunggu di lobi sebelum mereka masuk ke rapat dan tingkat partisipasi yang diperbolehkan dalam Rapat. Anda bisa menggunakan PowerShell untuk memperbarui pengaturan kebijakan Rapat yang belum diterapkan (berlabel "segera hadir") di pusat admin teams. Lihat di bawah ini untuk contoh Cmdlet PowerShell yang memperbolehkan semua pengguna untuk melewati lobi.
+Pengaturan ini mengontrol peserta rapat mana yang menunggu di lobi sebelum mereka masuk ke rapat dan tingkat partisipasi mereka diperbolehkan dalam rapat. Anda dapat menggunakan PowerShell untuk memperbarui pengaturan kebijakan rapat yang belum diterapkan (berlabel "segera hadir") di pusat admin Teams. Lihat di bawah ini untuk contoh cmdlet PowerShell yang memungkinkan semua pengguna melewati lobi.
 
-- [Secara otomatis mengakui orang](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) adalah kebijakan per-agenda yang mengontrol apakah orang bergabung dalam Rapat secara langsung atau menunggu di lobi hingga mereka diterima oleh pengguna yang diautentikasi.
+- [Secara otomatis memasukkan](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) orang adalah kebijakan per penyelenggara yang mengontrol apakah orang yang bergabung dalam rapat secara langsung atau menunggu di lobi hingga mereka dibawa oleh pengguna yang diautentikasi.
 
-- [Izinkan orang anonim memulai Rapat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) adalah kebijakan per-agenda yang mengontrol apakah orang anonim, termasuk pengguna B2B dan gabungan, bisa bergabung dalam Rapat pengguna tanpa pengguna yang diautentikasi dari organisasi yang hadir.
+- [Perbolehkan](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) orang anonim memulai rapat adalah kebijakan per penyelenggara yang mengontrol apakah orang-orang anonim, termasuk B2B dan pengguna gabungan, bisa bergabung dalam rapat pengguna tanpa pengguna terautentikasi dari organisasi secara kehadiran.
 
-- [Izinkan pengguna dial-in untuk melewati lobi](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**segera hadir**) adalah kebijakan per-agenda yang mengontrol apakah orang yang menelepon melalui telepon bergabung dalam Rapat secara langsung atau menunggu di lobi terlepas dari pengaturan **orang yang secara otomatis mengakui** .
+- Memperbolehkan pengguna [dial-in](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) melewati lobi **(** segera hadir ) adalah kebijakan per penyelenggara yang mengontrol apakah orang yang menghubungi dengan telepon akan langsung bergabung atau menunggu di lobi terlepas dari pengaturan Memasukkan orang **secara** otomatis.
 
-- [Izinkan penyelenggara untuk mengesampingkan pengaturan lobi](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**segera hadir**) adalah kebijakan per-agenda yang mengontrol apakah penyelenggara Rapat bisa mengesampingkan pengaturan lobi yang diatur admin di **secara otomatis mengakui orang** dan **memperbolehkan pengguna dial-in untuk melewati lobi** saat mereka menjadwalkan Rapat baru.
+- Izinkan [penyelenggara](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) untuk menimpa pengaturan lobi **(** segera hadir ) adalah kebijakan per penyelenggara yang mengontrol apakah  penyelenggara rapat dapat menimpa pengaturan lobi yang diatur admin dalam Memasukkan orang dan Memperbolehkan pengguna **dial-in** secara otomatis melewati lobi ketika menjadwalkan rapat baru.
 
-**Catatan:** Baca [mengelola kebijakan Rapat di teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) untuk gambaran umum lengkap tentang kebijakan Rapat Microsoft teams.
+**Catatan:** Baca [Mengelola kebijakan rapat di Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) untuk gambaran umum lengkap tentang kebijakan rapat Microsoft Teams.

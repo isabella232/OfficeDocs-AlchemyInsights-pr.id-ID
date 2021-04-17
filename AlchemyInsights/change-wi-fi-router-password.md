@@ -1,8 +1,8 @@
 ---
-title: Mengubah kata sandi router W-Fi
+title: Mengubah kata sandi perute W-Fi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 85aa158d917521fac871fd5c6687737fd22d736c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818187"
 ---
-# <a name="change-your-wi-fi-router-password"></a>Mengubah kata sandi router Wi-Fi Anda
+# <a name="change-your-wi-fi-router-password"></a>Mengubah kata sandi Wi-Fi router Anda
 
-Untuk mengubah kata sandi router Wi-Fi Anda, ikuti langkah-langkah berikut:
+Untuk mengubah kata sandi Wi-Fi router Anda, ikuti langkah-langkah ini:
 
-1. Pilih **mulai**  >  **pengaturan**  >  **jaringan &**  >  **jaringan internet dan pusat berbagi**.
+1. Pilih **Mulai**  >  **Pengaturan**  >  **Jaringan & Jaringan Internet** dan Pusat  >  **Berbagi.**
 
-2. Di bawah **Tampilkan jaringan aktif Anda**, Cari jaringan yang tersambung. Pilih link biru di samping **koneksi**.<br>
+2. Di **bawah Tampilkan jaringan** aktif Anda, cari jaringan yang tersambung. Pilih tautan biru di samping **Koneksi.**<br>
 
    **Catatan:** Jika tidak tersambung ke Wi-Fi, Anda harus tersambung sebelum dapat mengubah kata sandi.
 
-3. Pilih **detail**.
+3. Pilih **Detail.**
 
-4. Cari gateway default IPv4 Anda, dan perhatikan string angka ini termasuk periode. Misalnya: 192.168.0.1, 192.168.1.1, 10.0.0.1, atau 10.0.1.1
+4. Cari Gateway Default IPv4 Anda, dan catat string angka ini termasuk titik. Misalnya: 192.168.0.1, 192.168.1.1, 10.0.0.1, atau 10.0.1.1
 
-5. Buka browser, masukkan string angka ini termasuk periode ke dalam bilah alamat, dan tekan Enter untuk masuk ke halaman konfigurasi router.
+5. Buka browser, masukkan string angka ini, termasuk titik ke bilah alamat, dan tekan Enter untuk masuk ke halaman konfigurasi router.
 
 6. Saat halaman konfigurasi router terbuka, masukkan nama pengguna dan kata sandi Anda.<br>
-   - Jika Anda belum pernah mengubah nama pengguna dan kata sandi default untuk router, Anda mungkin akan bisa menemukan informasi ini di panduan router Anda.
+   - Jika Anda belum pernah mengubah nama pengguna dan kata sandi default untuk router, Anda mungkin akan bisa menemukan informasi ini di manual router Anda.
 
-   - Hubungi produsen router Anda jika Anda memerlukan dukungan tambahan untuk masuk ke halaman web ini.
+   - Hubungi pabrikan perute Anda jika Anda membutuhkan dukungan tambahan untuk masuk ke halaman web ini.
 
-7. Setelah Anda masuk, temukan pengaturan nirkabel. Anda kini dapat mengubah kata sandi Wi-Fi Anda.
+7. Setelah Anda masuk, temukan Pengaturan nirkabel. Kini Anda dapat mengubah kata sandi Wi-Fi sandi.

@@ -1,8 +1,8 @@
 ---
-title: Mengubah alamat tagihan Anda
+title: Ubah alamat tagihan Anda
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4addf495f0879376ee7b40e2c57ac6e72aa41455
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714439"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818211"
 ---
-# <a name="change-your-billing-address"></a>Mengubah alamat tagihan Anda
+# <a name="change-your-billing-address"></a>Ubah alamat tagihan Anda
 
 Tagihan atau faktur Anda berisi tiga alamat.
 
-**Mengubah alamat penagihan untuk metode pembayaran**
+**Mengubah alamat tagihan untuk metode pembayaran**
 
-1. Di pusat admin, buka ** [metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)> tagihan**.
+1. Di pusat admin, masuk ke **Tagihan > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Pilih kartu kredit atau rekening bank yang ingin Anda ubah.
-3. Pada halaman **detail metode pembayaran** , klik **Edit**.
-4. Perbarui alamat tagihan Anda, lalu klik **simpan > selesai**.
+3. Pada halaman **Detail metode pembayaran,** klik **Edit.**
+4. Perbarui alamat tagihan Anda, lalu klik **Simpan > Selesai.**
 
-Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, lihat [mengubah alamat tagihan untuk Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, lihat [Mengubah alamat tagihan Microsoft 365 untuk bisnis Anda.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)
 
 **Mengubah informasi akun tagihan**
 
-1. Di pusat admin, buka **tagihan > [Billing accounts](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)** tagihan.
-2. Pilih **edit informasi akun penagihan**.
-3. Perbarui informasi akun tagihan, lalu klik **simpan > selesai**.
+1. Di pusat admin, masuk ke **Tagihan > [akun Tagihan.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
+2. Pilih **Edit informasi akun tagihan.**
+3. Perbarui informasi akun tagihan, lalu klik **Simpan > Selesai.**
 
-**Catatan**: Anda tidak bisa mengubah negara/kawasan. Jika bidang ini perlu diubah, Anda perlu membeli penyewa baru.
+**Catatan**: Anda tidak dapat mengubah Negara/Kawasan. Jika bidang ini perlu diubah, Anda harus membeli penyewa baru.

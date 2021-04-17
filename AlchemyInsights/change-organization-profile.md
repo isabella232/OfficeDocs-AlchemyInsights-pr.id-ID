@@ -1,8 +1,8 @@
 ---
-title: Mengubah profil organisasi
+title: Ubah Profil organisasi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: bb31fc99dc6cedd463bcf5d8bf4e00fb7d6dfd54
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: 157ad13c6171bd221ca61a29ae2d15281784529e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726394"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818543"
 ---
-# <a name="change-organization-profile"></a>Mengubah profil organisasi
+# <a name="change-organization-profile"></a>Ubah Profil organisasi
 
-Ubah nama perusahaan, alamat, informasi kontak teknis, dan lainnya di pusat admin di tab pengaturan pengaturan   >    >  [organisasi pengaturan organisasi](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation) .
+Ubah nama perusahaan, alamat, informasi kontak teknis, dan lainnya di pusat admin pada tab **Pengaturan**  >  **Profil Organisasi** Pengaturan  >  [Organisasi.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
-Pastikan mengisi semua bidang yang diperlukan yang ditandai dengan * untuk mengaktifkan penyimpanan perubahan Anda.
+Pastikan untuk mengisi semua bidang yang diperlukan yang ditandai dengan * untuk mengaktifkan penyimpanan perubahan Anda.
 
-[Lihat informasi selengkapnya tentang perubahan alamat atau alamat tagihan](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).
+[Lihat informasi selengkapnya tentang perubahan alamat atau alamat tagihan.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)

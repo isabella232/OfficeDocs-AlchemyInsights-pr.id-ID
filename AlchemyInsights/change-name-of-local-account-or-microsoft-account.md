@@ -2,7 +2,7 @@
 title: Mengubah nama akun lokal atau akun Microsoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818939"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Mengubah nama akun lokal atau akun Microsoft
 
 Jika Anda hanya menggunakan nama pengguna dan kata sandi untuk masuk ke Windows 10, Anda menggunakan akun lokal. 
 
-**Untuk mengubah nama akun lokal**:
+**Untuk mengubah nama akun lokal:**
 
-1. Klik tombol **mulai** , ketik **panel kontrol**, dan pilih **panel kontrol** dari daftar hasil.
+1. Klik **tombol** Mulai, ketikkan **Panel Kontrol,** lalu **pilih Panel Kontrol** dari daftar hasil.
 
-2. Klik **akun pengguna**, lalu **Ubah tipe akun**.
+2. Klik **Akun Pengguna,** lalu **Ubah tipe akun.**
 
-3. Pilih akun yang ingin Anda ubah, klik **properti**, lalu masukkan nama baru untuk nama pengguna.
+3. Pilih akun yang ingin Anda ubah, **klik Properti,** lalu masukkan nama baru untuk Nama pengguna.
 
 4. Klik **OK**.
 
 Jika Anda menggunakan alamat email dan kata sandi untuk masuk, Anda menggunakan akun Microsoft.
 
-**Untuk mengubah nama tampilan akun Microsoft Anda**:
+**Untuk mengubah nama tampilan akun Microsoft Anda:**
 
-Gunakan nama tampilan Anda setiap kali masuk ke akun Anda. Ini juga nama yang Anda lihat di perangkat Windows 10, dan ini adalah nama yang dilihat orang saat Anda mengirim email. Nama ini mungkin berbeda dengan nama tampilan akun lokal Anda. Berikut ini cara mengubah nama tampilan Anda:
+Anda menggunakan nama tampilan setiap kali masuk ke akun Anda. Juga adalah nama yang Anda lihat di perangkat Windows 10, dan ini adalah nama yang dilihat orang saat Anda mengirim email. Nama ini mungkin berbeda dari nama tampilan akun lokal Anda. Berikut cara mengubah nama tampilan Anda:
 
-1. Masuk ke halaman **info Anda** di [situs web akun Microsoft](https://account.microsoft.com/).
+1. Masuk ke halaman **Info Anda** di situs web [akun Microsoft.](https://account.microsoft.com/)
 
-2. Di bawah nama Anda, klik **Edit nama**. Jika belum ada nama, klik **tambahkan nama**. 
+2. Di bawah nama Anda, klik **Edit nama.** Jika belum ada nama yang tercantum, klik **Tambahkan nama.** 
 
-3. Masukkan nama yang Anda inginkan, ketikkan CAPTCHA, dan klik **Simpan**. Beberapa nama mungkin tidak diperbolehkan jika berisi kata atau frasa yang diblokir. Jika Anda mendapatkan kesalahan saat memasukkan nama Anda, coba julukan.
+3. Masukkan nama yang Anda inginkan, ketik CAPTCHA, dan klik **Simpan.** Beberapa nama mungkin tidak diperbolehkan jika mengandung kata atau frasa yang diblokir. Jika Anda mendapatkan pesan kesalahan ketika memasukkan nama Anda, coba gunakan nama panggilan Anda.
 
-4. Jika nama tampilan tidak berubah secara langsung, atau jika nama lama masih terlihat dalam email, informasi Anda mungkin disembunyikan. Untuk mendapatkan nama untuk diperbarui dengan cepat, Anda dapat beralih ke akun lokal, lalu [masuk kembali ke akun Microsoft Anda](https://account.microsoft.com/).
+4. Jika nama tampilan tidak langsung berubah, atau jika nama lama masih muncul di email, informasi Anda mungkin singgahan. Untuk mendapatkan nama agar segera diperbarui, Anda bisa beralih ke akun lokal, lalu [masuk kembali ke akun Microsoft Anda.](https://account.microsoft.com/)
 
-Nama tampilan tidak mengubah gamertag Anda. Jika Anda menginginkan gamertag baru, lihat [cara mengubah gamertag Xbox Anda](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
+Nama tampilan tidak mengubah gamertag Anda. Jika menginginkan gamertag baru, lihat [Cara mengubah gamertag Xbox.](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag)
 
-**Untuk mengubah nama administrator**:
+**Untuk mengubah nama administrator:**
 
-1. Dalam kotak pencarian di taskbar, ketikkan **manajemen komputer** dan pilih dari daftar.
+1. Dalam kotak pencarian di taskbar, ketik **Manajemen Komputer** dan pilih dari daftar.
 
-2. Klik panah di samping **pengguna dan grup lokal** untuk mengembangkannya. Klik **pengguna**.
+2. Klik panah di samping **Pengguna dan Grup Lokal untuk** memperluasnya. Klik **Pengguna.**
 
-3. Klik kanan **administrator** dan klik **ganti nama**.
+3. Klik kanan **Administrator dan klik** Ganti **Nama.**
 
 4. Ketikkan nama baru. Perhatikan bahwa Anda harus menjadi administrator untuk mengubah nama ini.
 
-**Berikut adalah beberapa hal berguna lainnya yang bisa Anda ubah di akun Microsoft**Anda:
+**Berikut adalah beberapa hal berguna lain yang bisa Anda ubah di akun Microsoft Anda:**
 
 - [Alamat email mana yang bisa Anda gunakan untuk masuk ke akun Microsoft Anda](https://support.microsoft.com/help/4026162)
 
@@ -67,6 +67,6 @@ Nama tampilan tidak mengubah gamertag Anda. Jika Anda menginginkan gamertag baru
 
 - [Tanggal lahir di akun Microsoft Anda](https://support.microsoft.com/help/12411)
 
-- [Gambar akun Microsoft Anda](https://support.microsoft.com/help/4026790)
+- [Foto akun Microsoft Anda](https://support.microsoft.com/help/4026790)
 
-[Dapatkan bantuan lainnya dalam menyiapkan dan mengelola akun Microsoft Anda](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)
+[Mendapatkan bantuan lain untuk menyiapkan dan mengelola akun Microsoft Anda](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)

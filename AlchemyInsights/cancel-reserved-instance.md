@@ -1,8 +1,8 @@
 ---
-title: Membatalkan reservasi
+title: Membatalkan Pemesanan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819695"
 ---
-# <a name="cancelling-reservation"></a>Membatalkan reservasi
+# <a name="cancelling-reservation"></a>Membatalkan Pemesanan
 
-- **Layanan mandiri:** Anda dapat membatalkan atau menukarkan instans cadangan sendiri menggunakan [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih reservasi dan klik pengembalian uang atau Exchange. Perhatikan bahwa Anda harus memiliki akses pemilik pada pesanan Pemesanan untuk bertukar atau mengembalikan dana. Akses hanya ke reservasi tidak memperbolehkan Anda melanjutkan dengan pengembalian uang atau Exchange. Tanyakan pemilik pesanan reservasi untuk memberi Anda akses pemilik ke pesanan Pemesanan
-- **Kebijakan Exchange:** Anda bisa bertukar reservasi untuk reservasi lainnya dengan tipe yang sama – tidak ada **penalti** pada Exchange reservasi. Komitmen total dengan reservasi baru harus lebih besar dari jumlah jumlah pengembalian dana Pemesanan yang ditukar dan pembayaran bulanan mendatang (jika ada)
-- **Kebijakan pengembalian dana:** Jumlah pengembalian dana dan pembayaran yang dibatalkan tidak dapat melebihi $50.000 USD dalam 12 bulan bergulir. **Saat ini kami tidak mengenakan denda** atas pengembalian dana, namun dapat membebankan biaya pada pengembalian dana mendatang  
-    **Pengecualian:** Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS
-- Dukungan **api/PS/CLI** tidak tersedia untuk pembatalan dan pengembalian dana [layanan mandiri dan pengembalian dana untuk reservasi Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS. Tipe langganan pemerintah AS lainnya termasuk Pay-As-You-Go dan CSP didukung
+- **Layanan mandiri:** Anda dapat membatalkan atau menukar sendiri instans yang dipesan menggunakan [portal Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih pemesanan dan klik pengembalian dana atau penukaran. Perlu diketahui bahwa Anda harus memiliki akses pemilik pada Perintah Pemesanan untuk menukar atau mengajukan pengembalian dana. Anda tidak akan bisa melanjutkan pengajuan pengembalian dana atau penukaran dengan akses hanya ke Pemesanan. Minta pemilik Perintah Pemesanan untuk memberi Anda akses pemilik ke Perintah Pemesanan.
+- **Kebijakan penukaran:** Anda dapat menukar pemesanan dengan pemesanan lain dengan tipe yang sama – **tidak ada penalti** pada penukaran pemesanan. Total komitmen pemesanan baru harus lebih besar daripada jumlah pengembalian dana pemesanan yang ditukar dan pembayaran bulanan yang akan datang (jika ada).
+- **Kebijakan pengembalian dana:** Jumlah pengembalian dana dan pembayaran mendatang yang dibatalkan tidak boleh melampaui $50.000 USD dalam periode berkelanjutan 12 bulan. Saat ini, kami **tidak mengenakan penalti apa pun** pada pengembalian dana, tetapi mungkin mengenakannya pada pengembalian dana di masa mendatang  
+    **Pengecualian:** Kemampuan penukaran dan pembatalan layanan mandiri tidak tersedia untuk pelanggan Perjanjian Enterprise Pemerintah Amerika Serikat
+- Dukungan **API / PS / CLI** tidak tersedia untuk pembatalan dan pengembalian dana [Penukaran dan pengembalian dana layanan mandiri untuk Pemesanan Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Kemampuan penukaran dan pembatalan layanan mandiri tidak tersedia untuk pelanggan Perjanjian Enterprise Pemerintah Amerika Serikat. Tipe langganan Pemerintah Amerika Serikat lainnya, termasuk Prabayar dan Penyedia Solusi Cloud, didukung
 
-Pelajari selengkapnya: [bagaimana pengembalian dan transaksi Exchange diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Pelajari selengkapnya: [kebijakan Exchange dan pengembalian dana](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Pertanyaan lain: [kunjungi dokumen contoh Reserved](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Pelajari selengkapnya: [Cara transaksi pengembalian dan penukaran diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Pelajari selengkapnya: [Kebijakan Penukaran dan Pengembalian dana](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Pertanyaan lain: [Kunjungi dokumen instans yang dipesan](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Bertukar contoh Reserved yang sudah ada (layanan mandiri)**
+**Menukar instans dipesan yang sudah ada (Layanan mandiri)**
 
-Anda dapat bertukar reservasi untuk reservasi lainnya dengan tipe yang sama. Anda juga dapat mengembalikan dana reservasi, hingga $50.000 USD per tahun, jika Anda tidak membutuhkannya lagi. Kapabilitas Exchange dan Batalkan layanan mandiri tidak tersedia untuk pelanggan perjanjian perusahaan pemerintah AS. Tipe langganan pemerintah AS lainnya termasuk Pay-As-You-Go dan CSP didukung. Anda harus memiliki akses pemilik pada pesanan Pemesanan untuk menukarkan atau mengembalikan kembali Pemesanan yang sudah ada.
+Anda dapat menukar pemesanan menjadi pemesanan lain dengan tipe yang sama. Anda juga dapat mengajukan pengembalian dana pemesanan, hingga $50.000 USD per tahun, jika tidak memerlukannya lagi. Kemampuan penukaran dan pembatalan layanan mandiri tidak tersedia untuk pelanggan Perjanjian Enterprise Pemerintah Amerika Serikat. Tipe langganan Pemerintah Amerika Serikat lainnya, termasuk Prabayar dan Penyedia Solusi Cloud, didukung. Anda harus memiliki akses pemilik pada Perintah Pemesanan untuk menukar atau mengajukan pengembalian dana pemesanan yang sudah ada.
 
-Langkah-langkah berikut ini akan memandu prosedur untuk menyelesaikan transaksi
+Langkah-langkah berikut akan memandu prosedur untuk menyelesaikan transaksi
 
-1. Masuk ke [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)Anda. Pilih reservasi yang ingin Anda kembalikan dan klik **Exchange**
-2. Pilih produk VM yang ingin Anda beli dan ketikkan kuantitas. Pastikan bahwa total pembelian baru lebih dari total hasil yang [menentukan ukuran yang tepat sebelum Anda membeli](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
-3. Meninjau dan menyelesaikan transaksi
+1. Masuk ke [portal Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Pilih pemesanan yang ingin dikembalikan dananya, lalu klik **Tukar**
+2. Pilih produk VM yang ingin dibeli dan ketik jumlah. Pastikan total pembelian baru lebih besar daripada total pengembalian [Tentukan ukuran yang benar sebelum Anda membeli](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3. Tinjau dan selesaikan transaksi
 
-**Pengembalian dana untuk instans cadangan**
+**Pengembalian dana untuk instans yang dipesan**
 
-Untuk mengembalikan dana reservasi, masuk ke **detail reservasi** dan klik **Refund**
+Untuk mendapatkan pengembalian dana pemesanan, masuk ke **Detail Pemesanan**, lalu klik **Pengembalian Dana**
 
-**Nilai pengembalian dana Pro:**
+**Pengembalian dana prorata:**
 
-**Contoh Pro-Ration dan persyaratan minimum untuk pengembalian dana dan Exchange**  
-Contoh reservasi dimuka:
+**Contoh persyaratan minimum dan prorata untuk pengembalian dana dan penukaran**  
+Contoh pemesanan di muka:
 
-- Anda membeli istilah RI untuk $120 pada tanggal 1 Januari
-- Pada tanggal 7 April Anda ingin mengembalikan atau menukarkan reservasi ini
-- Karena reservasi telah aktif untuk 97 hari, Anda akan mendapatkan (1-97/365) * $120 kembali. (yaitu $88,1). Saat ini tidak ada denda untuk pengembalian dana
-- Jika bertukar, pembelian baru Anda harus lebih besar dari $88,1
-- Tidak ada penalti pada pengembalian dana saat ini
+- Anda membeli RI jangka satu tahun seharga $120 pada 1 Januari
+- Pada 7 April, Anda ingin mengajukan pengembalian dana atau menukar pemesanan ini
+- Karena pemesanan sudah berlangsung 97 hari, Anda akan mendapatkan kembali (1-97/365) * $120. (yaitu $88,1). Saat ini, tidak ada penalti pada pengembalian dana
+- Jika menukar, pembelian baru harus lebih besar daripada $88,1
+- Saat ini, tidak ada penalti pada pengembalian dana
 
-**Contoh reservasi paket tagihan:**
+**Contoh pemesanan paket tagihan:**
 
-- Anda membeli istilah satu tahun RI untuk $10 per bulan
-- Pada tanggal 7 April Anda ingin mengembalikan atau menukarkan reservasi ini
-- Sejak pembayaran terakhir terjadi 7 hari, Anda akan mendapatkan (1-7/31) * $10. (yaitu $7,74)
-- Pembayaran yang akan dibatalkan adalah $80. Saat ini tidak ada denda untuk pengembalian dana
-- Pembatalan ini akan mengurangi $87,74 dari Anda batas pengembalian dana $50.000
-- Jika bertukar, nilai total pembelian baru harus lebih besar dari $87,74
+- Anda membeli RI jangka satu tahun seharga $10 per bulan
+- Pada 7 April, Anda ingin mengajukan pengembalian dana atau menukar pemesanan ini
+- Karena pembayaran terakhir terjadi 7 hari, Anda akan mendapatkan kembali (1-7/31) * $10. (yaitu $7,74)
+- Pembayaran mendatang yang dibatalkan adalah $ 80. Saat ini, tidak ada penalti pada pengembalian dana
+- Pembatalan ini akan mengurangi $87,74 dari batas pengembalian dana Anda sebesar $50.000
+- Jika menukar, nilai total pembelian baru harus lebih besar daripada $87,74
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
-- [Bagaimana pengembalian dan transaksi Exchange diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Kebijakan Exchange dan pengembalian dana](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Cara transaksi pengembalian dan penukaran diproses](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Kebijakan Penukaran dan Pengembalian dana](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
