@@ -2,7 +2,7 @@
 title: Menambahkan alias email lain
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fc3f73e1c186b9296a6780b5438ec85a66dee713
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571668"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822674"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Membuat atau menambahkan alias email untuk pengguna
 
 Perlu membuat alias email untuk pengguna, atau menambahkan alamat email tambahan? Cukup ikuti langkah-langkah ini!
   
-1. Di pusat admin Microsoft 365, masuk ke halaman [pengguna](https://go.microsoft.com/fwlink/p/?linkid=834822) , **atau pilih pengguna**  >  **aktif**.
+1. Di pusat admin Microsoft 365, masuk ke [halaman Pengguna,](https://go.microsoft.com/fwlink/p/?linkid=834822) atau pilih **Pengguna**  >  **Aktif Pengguna.**
     
-2. Pada halaman **pengguna aktif** , pilih nama orang yang ingin Anda edit. 
+2. Di **halaman Pengguna** Aktif, pilih nama orang yang ingin diedit. 
     
-3. Di sebelah kanan, dalam baris **nama pengguna/alias email** , pilih **Edit**.
+3. Di sebelah kanan, dalam baris **Nama Pengguna / Alias Email,** pilih **Edit**.
     
-4. Dalam kotak **alias** , ketikkan email baru, lalu pilih **Tambahkan**. Jika Anda membeli langganan dari GoDaddy atau mitra lain, untuk mengatur alias baru sebagai utama, Anda harus masuk ke konsol manajemen GoDaddy/mitra. 
+4. Dalam kotak **Alias,** ketikkan email baru, lalu pilih **Tambahkan**. Jika membeli langganan dari GoDaddy atau Mitra lain, Anda harus masuk ke konsol manajemen GoDaddy/mitra untuk mengatur alias baru sebagai yang utama. 
     
-    **Penting**: jika Anda mendapatkan pesan kesalahan " **sebuah parameter tidak bisa ditemukan yang cocok dengan nama parameter ' EmailAddresses**" itu berarti bahwa akan memakan waktu sedikit lebih lama untuk Microsoft menyelesaikan penyiapan penyewa Anda, atau domain kustom Anda jika Anda baru saja menambahkannya. Proses penyetelan dapat memakan waktu hingga 4 jam untuk menyelesaikannya. Tunggu sebentar sehingga proses penyiapan memiliki waktu untuk selesai, lalu coba lagi. Jika masalah berlanjut, hubungi dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
+    **PENTING:** Jika mendapatkan pesan kesalahan " Parameter yang sesuai dengan nama **parameter 'EmailAddresses'** tidak dapat ditemukan "EmailAddresses", artinya Microsoft membutuhkan waktu lebih lama untuk menyelesaikan penyiapan penyewa atau domain kustom Anda jika baru saja ditambahkan. Untuk menyelesaikan proses penyiapan, proses penyiapan dapat memakan waktu hingga 4 jam. Tunggu beberapa saat agar proses menyiapkan selesai, lalu coba lagi. Jika masalah terus berlanjut, hubungi Dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
     
-    Biasanya memerlukan waktu sekitar 30 menit agar alias baru dapat diterapkan.
+    Diperlukan waktu sekitar 30 menit agar alias baru dapat diterapkan.
     
-    **Untuk detail selengkapnya, lihat artikel ini:** [menambahkan alias email lain untuk pengguna](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
+    **Untuk detail selengkapnya, lihat artikel ini:** [Menambahkan alias email lain untuk pengguna](https://docs.microsoft.com/microsoft-365/admin/email/add-another-email-alias-for-a-user)
     
 

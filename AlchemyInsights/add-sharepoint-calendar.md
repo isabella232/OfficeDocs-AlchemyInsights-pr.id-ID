@@ -1,8 +1,8 @@
 ---
-title: Menambahkan kalender SharePoint
+title: Menambahkan Kalender SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4a0dd39bbb1215008220f7c15fc77a7d7216cfe4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687617"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822350"
 ---
-# <a name="add-a-sharepoint-calendar"></a>Menambahkan kalender SharePoint
+# <a name="add-a-sharepoint-calendar"></a>Menambahkan Kalender SharePoint
 
-Kalender SharePoint adalah tipe daftar klasik yang terkadang membingungkan dengan kalender grup Microsoft 365.
+Kalender SharePoint adalah tipe daftar klasik yang terkadang membingungkan dengan Kalender Grup Microsoft 365.
  
-Untuk membuat kalender SharePoint, ikuti langkah-langkah berikut:
+Untuk membuat Kalender SharePoint, ikuti langkah-langkah ini:
  
-1.  Pilih ikon gerigi **pengaturan** , lalu pilih **Tambahkan aplikasi**.
-2.  Dalam kotak Cari **aplikasi** , ketikkan **kalender** dan tekan Enter.
-3.  Pilih aplikasi berjudul **kalender**, lalu masukkan nama untuk kalender Anda.
+1.  Pilih **ikon gerbok** Pengaturan, lalu pilih **Tambahkan Aplikasi**.
+2.  Dalam kotak **pencarian Temukan aplikasi,** ketikkan **Kalender,** lalu tekan enter.
+3.  Pilih aplikasi berjudul **Kalender**, lalu masukkan nama untuk kalender Anda.
 
-Untuk informasi selengkapnya tentang grup Microsoft 365, lihat [mempelajari tentang grup microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Untuk informasi selengkapnya tentang Grup Microsoft 365, lihat [Pelajari tentang Grup Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
