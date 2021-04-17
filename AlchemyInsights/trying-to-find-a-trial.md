@@ -1,8 +1,8 @@
 ---
-title: Mencoba menemukan uji coba?
+title: Mencoba menemukan versi uji coba?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658377"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834698"
 ---
-# <a name="trying-to-find-a-trial"></a>Mencoba menemukan uji coba?
+# <a name="trying-to-find-a-trial"></a>Mencoba menemukan versi uji coba?
 
 Jika ingin mencoba layanan baru, Anda dapat menemukan daftar langganan yang tersedia untuk uji coba di pusat admin Microsoft 365.
   
-1. Di pusat admin, masuk ke **Billing** \> halaman [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) tagihan.
+1. Di pusat admin, masuk ke **halaman layanan** \> [Pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) Tagihan.
 
-2. Pilih langganan yang memenuhi kebutuhan Anda, lalu pilih  **Dapatkan percobaan gratis**.
+2. Pilih langganan yang sesuai dengan kebutuhan Anda, lalu pilih Dapatkan uji  **coba gratis**.
 
     > [!NOTE]
-    > Tidak semua langganan tersedia sebagai percobaan. Jika Anda tidak melihat tombol **Dapatkan percobaan gratis** saat Anda mengarahkan langganan, itu berarti percobaan tidak tersedia.
+    > Tidak semua langganan tersedia sebagai uji coba. Jika tidak melihat tombol Dapatkan uji **coba gratis** saat Anda mengarahkan mouse ke langganan, uji coba tidak tersedia.
   
-3. Anda mungkin diminta untuk memasukkan kartu kredit atau metode pembayaran lainnya untuk menyediakan verifikasi tambahan sebagai ukuran keamanan. Anda tidak akan dikenakan biaya untuk percobaan gratis ini. Kami akan menyimpan informasi pembayaran Anda pada file, dan tidak akan menggunakannya untuk pembelian apa pun tanpa persetujuan Anda.
+3. Anda mungkin diminta untuk memasukkan kartu kredit atau metode pembayaran lain untuk menyediakan verifikasi tambahan sebagai tindakan pengamanan. Anda tidak akan dikenai biaya untuk uji coba gratis ini. Kami akan menyimpan informasi pembayaran Anda, tetapi tidak akan menggunakannya untuk pembelian apa pun tanpa persetujuan dari Anda.
 
-4. Pilih **coba sekarang**.
+4. Pilih **Coba sekarang.**

@@ -1,8 +1,8 @@
 ---
-title: Penyetelan konferensi audio dial-in PSTN di Skype for Business Online
+title: Menyiapkan konferensi audio dial-in PSTN di Skype for Business Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739540"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835490"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Penyetelan konferensi audio dial-in PSTN di Skype for Business Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Menyiapkan konferensi audio dial-in PSTN di Skype for Business Online
 
-Jika Anda ingin menyiapkan konferensi audio untuk Skype for Business online, Anda harus melakukan beberapa hal. 
+Jika Anda ingin menyiapkan Konferensi Audio untuk Skype for Business Online, Anda mungkin perlu melakukan beberapa hal. 
 
-- Cari tahu apakah konferensi audio tersedia di negara/kawasan Anda.
+- Cari tahu apakah Konferensi Audio tersedia di negara/kawasan Anda.
 
-- Dapatkan dan tetapkan lisensi untuk pengguna Anda.
+- Dapatkan dan tetapkan lisensi ke pengguna Anda.
 
-- Dapatkan dan tetapkan nomor layanan.
+- Dapatkan dan tetapkan Nomor layanan.
 
-- Selesaikan Checklist dalam [menyiapkan konferensi audio untuk Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Lengkapi daftar periksa [di Menyiapkan Konferensi Audio untuk Skype for Business](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

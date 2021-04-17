@@ -1,8 +1,8 @@
 ---
-title: Izin Microsoft teams
+title: Izin Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777715"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833762"
 ---
-# <a name="microsoft-teams-permissions"></a>Izin Microsoft teams
+# <a name="microsoft-teams-permissions"></a>Izin Microsoft Teams
 
-Microsoft teams menyertakan dua peran pengguna: pemilik dan anggota. Secara default, pengguna yang membuat tim baru akan diberi status pemilik. Selain itu, pemilik dan anggota bisa memiliki kapabilitas moderator untuk saluran (jika moderasi telah disetel). Jika sebuah tim dibuat dari grup Microsoft 365 yang sudah ada, izin diwariskan. Untuk informasi selengkapnya, lihat:
+Microsoft Teams mencakup dua peran pengguna: pemilik dan anggota. Secara default, pengguna yang membuat tim baru akan diberi status pemilik. Selain itu, pemilik dan anggota bisa memiliki kapabilitas moderator untuk sebuah saluran (jika moderasi telah disetel). Jika tim dibuat dari Grup Microsoft 365 yang sudah ada, izin akan diwariskan. Untuk informasi selengkapnya, lihat:
 
-- [Menetapkan pemilik dan anggota tim di Microsoft teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Izin dan pertimbangan aplikasi Microsoft teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Mengatur izin tamu untuk saluran di teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Tetapkan pemilik dan anggota tim di Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Pertimbangan dan izin aplikasi Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Mengatur izin tamu untuk saluran di Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

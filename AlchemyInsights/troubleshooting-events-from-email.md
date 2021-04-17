@@ -1,8 +1,8 @@
 ---
-title: Pemecahan masalah acara dari email
+title: Pemecahan Masalah Acara dari Email
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834842"
 ---
-# <a name="troubleshooting-events-from-email"></a>Pemecahan masalah acara dari email
+# <a name="troubleshooting-events-from-email"></a>Pemecahan Masalah Acara dari Email
 
-1. Verifikasi fitur diaktifkan untuk kotak surat: **Get-EventsFromEmailConfiguration-identitas <mailbox> **
+1. Memverifikasi bahwa fitur ini diaktifkan untuk kotak surat: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Lalu lihat ' acara dari email ' log **Export-MailboxDiagnosticLogs <mailbox> -component timeprofile**
+2. Lalu lihat log 'Acara dari Email' **Ekspor-Kotak SuratDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. Dalam log ' acara dari email ', temukan InternetMessageId yang cocok dengan item dalam kotak surat.  
+3. Dalam log 'Acara dari Email', temukan InternetMessageId yang cocok dengan item dalam kotak surat.  
 
-4. Nilai Trustmenentukan Apakah item ditambahkan atau tidak. Acara hanya akan ditambahkan jika TrustScore = "Trusted".
+4. TrustScore menentukan apakah item ditambahkan atau tidak. Acara hanya akan ditambahkan jika TrustScore = "Trusted".
 
-TrustScore ditentukan oleh SPF, DKIM atau properti dMarc, yang berada di header pesan.
+TrustScore ditentukan oleh properti SPF, Dkim atau Dmarc, yang ada di Header Pesan.
 
 Untuk menampilkan properti ini:
 
-**Outlook desktop**
+**Desktop Outlook**
 
 - Membuka item
-- Properti file->-header Internet >
+- File -> Properti -> Header Internet
 
 atau
 
@@ -45,4 +45,4 @@ atau
 - Menavigasi ke item dalam kotak masuk
 - Cari PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Properti ini ditentukan dan direkam selama pengangkutan dan perutean. Untuk pemecahan masalah lebih lanjut, Anda mungkin perlu menindaklanjuti dukungan transportasi tentang kegagalan SPF, DKIM, dan. or DMARC.
+Properti ini ditentukan dan direkam selama transportasi dan perutean. Untuk pemecahan masalah lebih lanjut, Anda mungkin perlu menindaklanjuti Dukungan Transportasi tentang kegagalan di SPF, DKIM, dan.atau DMARC.
