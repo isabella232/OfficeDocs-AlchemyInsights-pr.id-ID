@@ -2,7 +2,7 @@
 title: Pemilik tidak dapat membuat sub-folder menggunakan Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836138"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="f85b4-102">Pemilik tidak dapat membuat sub-folder menggunakan Outlook</span><span class="sxs-lookup"><span data-stu-id="f85b4-102">Owner cannot create sub-folder using Outlook</span></span>
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a><span data-ttu-id="7478b-102">Pemilik tidak dapat membuat sub-folder menggunakan Outlook</span><span class="sxs-lookup"><span data-stu-id="7478b-102">Owner cannot create sub-folder using Outlook</span></span>
 
-<span data-ttu-id="f85b4-103">**Ada masalah yang sedang berlangsung dengan pemilik folder publik membuat subfolder menggunakan Outlook. Masalah akan segera diperbaiki.**</span><span class="sxs-lookup"><span data-stu-id="f85b4-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
+<span data-ttu-id="7478b-103">**Masih terdapat masalah dengan pemilik folder publik yang membuat subfolder menggunakan Outlook. Masalah akan segera diperbaiki.**</span><span class="sxs-lookup"><span data-stu-id="7478b-103">**There's an ongoing issue with public folder owners creating subfolders using Outlook. The issue will be fixed soon.**</span></span>
 
-<span data-ttu-id="f85b4-104">Sementara itu, gunakan salah satu solusi berikut:</span><span class="sxs-lookup"><span data-stu-id="f85b4-104">Meanwhile, use one of the following workarounds:</span></span>
+<span data-ttu-id="7478b-104">Sementara itu, gunakan salah satu solusi berikut:</span><span class="sxs-lookup"><span data-stu-id="7478b-104">Meanwhile, use one of the following workarounds:</span></span>
 
-1. <span data-ttu-id="f85b4-105">Menggunakan Outlook untuk MAC untuk membuat subfolder karena masalah hanya memengaruhi Outlook untuk desktop Windows (semua versi)</span><span class="sxs-lookup"><span data-stu-id="f85b4-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
-2. <span data-ttu-id="f85b4-106">Membuat admin membuat subfolder menggunakan EXO shell atau EAC</span><span class="sxs-lookup"><span data-stu-id="f85b4-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
-3. <span data-ttu-id="f85b4-107">Mengubah DefaultPublicFolderMailbox/EffectivePublicFolderMailbox pada pengguna ke kotak surat lain dari kotak surat konten untuk masalah yang menyebabkan folder</span><span class="sxs-lookup"><span data-stu-id="f85b4-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
-    - <span data-ttu-id="f85b4-108">*Set-kotak surat User1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="f85b4-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
-4. <span data-ttu-id="f85b4-109">Menunggu satu jam, mulai ulang klien Outlook</span><span class="sxs-lookup"><span data-stu-id="f85b4-109">Wait for an hour, restart outlook client</span></span>
+1. <span data-ttu-id="7478b-105">Menggunakan Outlook untuk MAC untuk membuat subfolder karena masalah hanya memengaruhi Outlook untuk jendela desktop (semua versi)</span><span class="sxs-lookup"><span data-stu-id="7478b-105">Use Outlook for MAC to create the subfolder as the issue impacts only Outlook for desktop windows (all versions)</span></span>
+2. <span data-ttu-id="7478b-106">Buat admin membuat subfolder menggunakan EXO Shell atau EAC</span><span class="sxs-lookup"><span data-stu-id="7478b-106">Have admin create the subfolder using EXO Shell or EAC</span></span>
+3. <span data-ttu-id="7478b-107">Mengubah DefaultPublicFolderMailbox/EffectivePublicFolderMailbox pada pengguna ke kotak surat lain dari Kotak Surat Konten untuk folder yang menyebabkan masalah</span><span class="sxs-lookup"><span data-stu-id="7478b-107">Change the DefaultPublicFolderMailbox/EffectivePublicFolderMailbox on the user to other mailbox than the Content Mailbox for the folder causing issue</span></span>  
+    - <span data-ttu-id="7478b-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span><span class="sxs-lookup"><span data-stu-id="7478b-108">*Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*</span></span>
+4. <span data-ttu-id="7478b-109">Tunggu satu jam, mulai ulang klien outlook</span><span class="sxs-lookup"><span data-stu-id="7478b-109">Wait for an hour, restart outlook client</span></span>
