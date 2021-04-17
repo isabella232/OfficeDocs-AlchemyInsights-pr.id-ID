@@ -2,7 +2,7 @@
 title: Multi-Geo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 5e0b5f32fd2cb60ceae708cf9df62f78fb374322
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702330"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825230"
 ---
-# <a name="microsoft-365-multi-geo"></a>Multi-Geo Microsoft 365
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-Dengan Microsoft 365 multi-Geo, organisasi Anda dapat memperluas kehadiran Microsoft 365 ke beberapa kawasan geografis dan/atau negara dalam penyewa yang sudah ada. Lihat link di bawah ini untuk informasi selengkapnya.
+Dengan Microsoft 365 Multi-Geo, organisasi Anda dapat memperluas kehadiran Microsoft 365 ke beberapa kawasan dan/atau negara geografis dalam penyewa Anda yang sudah ada. Lihat tautan di bawah ini untuk informasi selengkapnya.
 
-- [Multi-Geo Microsoft 365](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Paket untuk Microsoft 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Mengonfigurasi multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Paket untuk Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Mengonfigurasi Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

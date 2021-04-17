@@ -1,8 +1,8 @@
 ---
-title: Bergabung dalam Rapat teams
+title: Bergabung dalam rapat Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772914"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824006"
 ---
-# <a name="join-a-meeting-in-teams"></a>Bergabung dalam Rapat di teams
+# <a name="join-a-meeting-in-teams"></a>Bergabung ke rapat di Teams
 
-Untuk bergabung dalam Rapat teams, pertama-tama Atur kebijakan Rapat, lalu pengguna langsung untuk bergabung dari perangkat pilihan mereka:
+Untuk bergabung dalam rapat Teams, atur kebijakan rapat terlebih dahulu, lalu arahkan pengguna untuk bergabung dari perangkat pilihan mereka:
 
-- Mengatur kebijakan Rapat yang mengontrol siapa yang akan bisa bergabung dalam Rapat sebagai [peserta atau tamu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- Menetapkan kebijakan rapat yang mengontrol siapa saja yang dapat bergabung dalam rapat sebagai [peserta atau tamu](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Gunakan cmdlet Microsoft teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) untuk membuat perubahan kebijakan.    
+- Gunakan [cmdlet PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams untuk membuat perubahan kebijakan.    
 
-**Catatan:** Diperlukan waktu hingga 24 jam agar perubahan kebijakan diterapkan.
+**Catatan:** Perubahan kebijakan dapat memakan waktu hingga 24 jam.

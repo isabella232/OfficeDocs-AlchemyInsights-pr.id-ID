@@ -1,8 +1,8 @@
 ---
-title: Memverifikasi domain Anda dengan namecheap
+title: Memverifikasi domain Anda dengan Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: dbeecb016708a127ea3980f11b793041f2f3f447
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815824"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824258"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Memverifikasi domain Anda dengan namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Memverifikasi domain Anda dengan Namecheap
 
-Untuk memverifikasi domain, Anda perlu menambahkan rekaman TXT ke pendaftar domain untuk memverifikasi bahwa Anda adalah pemilik domain. 
+Untuk memverifikasi domain, Anda perlu menambahkan catatan TXT ke pendaftar domain untuk memverifikasi bahwa Anda adalah pemilik domain. 
 
-Pertama, ikuti [panduan Tambahkan domain](https://admin.microsoft.com/Adminportal#/Domains) dengan memilih **pengaturan** domain \> **Domains**, lalu **Tambahkan domain**.
+Pertama, ikuti [panduan Menambahkan Domain](https://admin.microsoft.com/Adminportal#/Domains) dengan memilih **Pengaturan** \> **Domain,** lalu **Tambahkan domain**.
   
-Lihat [membuat catatan DNS di namecheap untuk Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) untuk instruksi langkah demi langkah.
+Lihat [Membuat catatan DNS di Namecheap untuk Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) untuk instruksi langkah demi langkah.
