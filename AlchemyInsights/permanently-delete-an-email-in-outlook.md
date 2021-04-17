@@ -1,8 +1,8 @@
 ---
-title: Menghapus email secara permanen di Outlook
+title: Menghapus email di Outlook secara permanen
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836102"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Menghapus email secara permanen di Outlook
+# <a name="permanently-delete-an-email-in-outlook"></a>Menghapus email di Outlook secara permanen
 
-- Dari tampilan kotak masuk, tekan dan panjang pesan, dan Anda akan melihat ikon keranjang sampah. Ketuk ikon ini untuk menghapus pesan.
+- Dari tampilan kotak masuk, tekan lama sebuah pesan, dan Anda akan melihat ikon keranjang sampah. Ketuk ikon ini untuk menghapus pesan.
 
-- Anda juga dapat mengatur "Hapus" sebagai Opsi Usapkan (**pengaturan-> opsi usap**); lalu gunakan jari Anda untuk mengusap email yang ingin Anda hapus. 
+- Anda juga dapat mengatur "hapus" sebagai opsi geser (**Pengaturan -> Opsi Geser**); lalu gunakan jari Anda untuk mengusap pada email yang ingin Anda hapus. 
 
-- Untuk menghapus pesan dari tampilan email yang terbuka, ketuk ikon keranjang sampah di bagian atas layar Anda. Pesan yang dihapus akan dipindahkan ke folder sampah Anda. 
+- Untuk menghapus pesan dari tampilan email yang terbuka, ketuk ikon keranjang sampah di bagian atas layar Anda. Pesan yang dihapus akan dipindahkan ke folder Sampah Anda. 
 
 **Untuk menghapus email secara permanen**
 
-- Mengakses folder sampah dari tampilan email, ketuk ikon akun (3 baris), dan ketuk pada folder sampah.
+- Akses folder sampah dari tampilan email, ketuk ikon akun (3 baris), lalu ketuk folder sampah.
 
-- Menghapus email individual atau menandai beberapa email dan menghapusnya dari sini; mereka akan dihapus secara permanen.
+- Menghapus email individu atau menandai beberapa email dan menghapusnya dari sini; item akan dihapus secara permanen.

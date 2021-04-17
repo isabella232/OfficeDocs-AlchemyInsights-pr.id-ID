@@ -1,8 +1,9 @@
 ---
-title: Mengaktifkan kotak surat Arsip
+title: Mengaktifkan kotak surat arsip
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811708"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857883"
 ---
-# <a name="enable-an-archive-mailbox"></a>Mengaktifkan kotak surat Arsip
+# <a name="enable-an-archive-mailbox"></a>Mengaktifkan kotak surat arsip
 
-Jika Anda ingin kami menjalankan pemeriksaan otomatis untuk memastikan kotak surat Arsip dapat dikonfigurasi, pilih tombol kembali <--di bagian atas Halaman ini, lalu masukkan alamat email akun tersebut.
+Untuk mengaktifkan Arsip di Pusat Kepatuhan M365:
 
-Kotak surat arsip di Microsoft 365 (juga disebut arsip *online* atau *arsip di tempat*) menyediakan penyimpanan email tambahan untuk pengguna. Pengguna dapat memindahkan atau menyalin item ke kotak surat arsip, dan admin dapat membuat kebijakan arsip yang memindahkan item secara otomatis ke kotak surat Arsip.
-  
-Berikut cara membuat kotak surat Arsip:
-  
-1. Masuk ke [https://protection.office.com](https://protection.office.com) .
+1. Buka [https://compliance.microsoft.com](https://compliance.microsoft.com) .
+2. Pilih **Tata Kelola Informasi.**
+3. Kemudian, klik **opsi** Arsipkan.
 
-2. Masuk ke Microsoft 365 menggunakan akun admin Anda.
+Atau ikuti [tautan ini.](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)  
 
-3. Di panel kiri &amp; pusat kepatuhan keamanan, pilih Arsip **tata kelola informasi** \> **Archive**.
+Untuk kotak surat bersama:
 
-4. Pilih pengguna yang kotak surat arsip yang ingin Anda Aktifkan.
-
-5. Di panel detail di sebelah kanan, klik **Aktifkan** , lalu klik **ya** di pesan peringatan untuk mengaktifkan kotak surat Arsip.
-
-Anda juga dapat mengaktifkan kotak surat arsip secara massal dengan memilih beberapa pengguna (menggunakan tombol **Shift** atau **Ctrl** ) lalu mengklik **Aktifkan** di panel detail.
-  
-### <a name="shared-mailboxes"></a>Kotak surat bersama
-
-Untuk mengaktifkan Arsip untuk kotak surat bersama, lisensi Exchange Online paket 2 atau lisensi Exchange Online paket 1 dengan lisensi pengarsipan Exchange Online diperlukan.  
-
-Untuk mengaktifkan Arsip untuk kotak surat bersama:
-
-1. Masuk ke [Pusat admin Exchange](https://outlook.office365.com/ecp) dan masuk menggunakan akun admin Anda.
-
-2. Buka **penerima**yang  >  **dibagikan**.
-
+1. Masuk ke [pusat admin Exchange](https://outlook.office365.com/ecp) lalu masuk menggunakan akun admin Anda.
+2. Masuk **ke Penerima**  >  **Bersama.**
 3. Pilih kotak surat bersama.
+4. Pada panel detail di sebelah kanan, di bawah **Arsip Di** Tempat, klik **Aktifkan**, lalu klik **Ya** untuk mengaktifkan kotak surat arsip.
 
-4. Di panel detail di sebelah kanan, di bawah **arsip di tempat**, klik **Aktifkan**, lalu klik **ya** untuk mengaktifkan kotak surat Arsip.
-
-Untuk informasi selengkapnya, lihat:
-  
-- [Mengaktifkan kotak surat Arsip](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [Menyiapkan kebijakan arsip dan penghapusan](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Untuk informasi selengkapnya tentang memindahkan pesan ke kotak surat Arsip, [lihat Menyiapkan kebijakan arsip dan penghapusan](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
