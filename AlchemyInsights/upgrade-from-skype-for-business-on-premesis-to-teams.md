@@ -1,8 +1,8 @@
 ---
-title: Memutakhirkan dari Skype for Business di tempat untuk teams
+title: Memutakhirkan dari Skype for Business di tempat ke Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734770"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827363"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Memutakhirkan dari Skype for Business di tempat untuk teams
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Memutakhirkan dari Skype for Business di tempat ke Teams
 
-Jika Anda telah menggunakan Skype for Business atau Microsoft Lync di tempat dan organisasi Anda ingin memutakhirkan ke teams, ikuti panduan dalam artikel di bawah ini. Anda harus menyiapkan konektivitas hibrid dengan penyewa Anda, lalu pindahkan pengguna Anda ke teams dan tetapkan koeksistensi yang sesuai dan mode pemutakhiran. 
+Jika Anda telah menggunakan Skype for Business atau Microsoft Lync di tempat dan organisasi Anda ingin memutakhirkan ke Teams, ikuti panduan dalam artikel di bawah ini. Anda akan perlu menyiapkan konektivitas hibrid dengan penyewa, lalu memindahkan pengguna ke Teams dan menetapkan koeksistensi dan mode pemutakhiran yang sesuai kepada mereka. 
 
-[Memutakhirkan dari Skype for Business di tempat untuk teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Memutakhirkan dari Skype for Business di tempat ke Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

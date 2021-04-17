@@ -2,7 +2,7 @@
 title: Pusat Admin Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826382"
 ---
 # <a name="teams-admin-center"></a>Pusat Admin Teams
 
@@ -32,5 +32,5 @@ Jika pengguna tidak muncul di Pusat Admin Teams, lihat item berikut:
 
 - Apakah Anda membuat pengguna atau menetapkan lisensi dalam 24 jam terakhir? Pastikan Anda menunggu setidaknya 24 jam sebelum membuka tiket dukungan.
 - Pastikan Anda menetapkan lisensi yang sesuai?
-- Jika Anda memiliki direktori aktif di tempat, verifikasi bahwa [nilai msRTCSIP-PrimaryUserAddress atau alamat SIP dalam bidang ProxyAddresses di direktori aktif lokal Anda unik dan format cocok dengan](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**username** dari pengguna dari [Pusat admin Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jika Anda bermaksud untuk mempertahankan penggunaan server Skype for Business dan memiliki pengguna yang berada di tempat dan online: Ikuti **"Siapkan hibrid dengan teams dan Skype for Business Online"** di panel kontrol server Skype for Business Anda dan Pindahkan pengguna secara online.
+- Jika memiliki Direktori Aktif lokal, verifikasi bahwa nilai [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) atau alamat SIP di bidang ProxyAddresses dalam Direktori Aktif lokal berformat unik dan formatnya sesuai dengan **sip:** Nama pengguna dari pusat [admin Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jika ingin tetap menggunakan Skype for Business Server dan meminta pengguna untuk menggunakan di tempat dan Online: ikuti "Siapkan hibrid dengan Teams dan **Skype for Business Online"** di Panel Kontrol Skype for Business Server dan pindahkan pengguna Secara Online.

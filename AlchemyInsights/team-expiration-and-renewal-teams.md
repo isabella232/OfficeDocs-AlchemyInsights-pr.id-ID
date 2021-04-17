@@ -1,8 +1,8 @@
 ---
-title: Berakhirnya dan pembaruan tim di Microsoft teams
+title: Kedaluwarsa dan perpanjangan tim di Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364760"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827903"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Berakhirnya dan pembaruan tim di Microsoft teams
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Kedaluwarsa dan perpanjangan tim di Microsoft Teams
 
-Berakhirnya dan pembaruan tim di Microsoft teams dapat membantu mengelola tim yang tidak terpakai. Sebagai admin, Anda dapat menggunakan  [kebijakan kedaluwarsa grup Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  untuk membersihkan tim yang tidak terpakai secara otomatis. Karena tim didukung oleh grup, kebijakan kedaluwarsa grup secara otomatis berlaku untuk teams.
+Kedaluwarsa dan perpanjangan tim di Microsoft Teams dapat membantu mengelola tim yang tidak tguna. Sebagai admin, Anda dapat menggunakan kebijakan  [kedaluwarsa grup Microsoft 365 untuk](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  membersihkan tim yang tidak tguna secara otomatis. Karena tim didukung oleh grup, kebijakan kedaluwarsa grup juga berlaku secara otomatis untuk tim.
 
-Untuk mencegah penghapusan yang tidak disengaja, perpanjangan otomatis diaktifkan secara otomatis untuk tim dalam kebijakan kedaluwarsa grup. Saat kebijakan kedaluwarsa grup disiapkan, setiap tim yang setidaknya memiliki satu saluran yang akan dikunjungi dari setiap anggota tim sebelum tanggal kedaluwarsa tersebut secara otomatis diperbarui tanpa intervensi manual dari pemilik tim.  
+Untuk mencegah penghapusan yang tidak disengaja, perpanjangan otomatis secara otomatis diaktifkan untuk tim dalam kebijakan kedaluwarsa grup. Ketika kebijakan kedaluwarsa grup diatur, setiap tim yang memiliki setidaknya satu kunjungan saluran dari setiap anggota tim sebelum tanggal kedaluwarsanya secara otomatis diperbarui tanpa campur tangan manual apa pun dari pemilik tim.  
 
-Lihat  [berakhirnya dan pembaruan tim di Microsoft teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  untuk informasi selengkapnya.
+Lihat  [Kedaluwarsa dan perpanjangan tim di Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  untuk informasi selengkapnya.

@@ -1,8 +1,8 @@
 ---
-title: Cara menutup akun analitik desktop Anda
+title: Cara menutup akun Analitik Desktop Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 89c6ef78e025657d7b4456bf54f43817ea6bdb6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fab35e44ab7c08611da89e7e4d798e463356ab1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704717"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825770"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Cara menutup akun analitik desktop Anda
+# <a name="how-to-close-your-desktop-analytics-account"></a>Cara menutup akun Analitik Desktop Anda
 
-Jika Anda menyetel analitik desktop di lingkungan Anda, lalu memutuskan perlu menghapusnya, gunakan proses dalam link berikut ini:
+Jika Anda menyiapkan Analitik Desktop di lingkungan Anda, lalu memutuskan bahwa Anda perlu menghapusnya, gunakan proses di link berikut:
 
 [Cara menutup akun Anda](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Langkah pertama adalah menghubungi dukungan Microsoft. Membuka kasus dukungan untuk menutup akun analitik desktop Anda. Jangan Lanjutkan dengan langkah tambahan hingga Anda menerima konfirmasi bahwa Microsoft menutup akun Anda.
+Langkah pertama adalah menghubungi Dukungan Microsoft. Buka kasus dukungan untuk menutup akun Analitik Desktop Anda. Jangan lanjutkan dengan langkah tambahan hingga Anda menerima konfirmasi bahwa Microsoft menutup akun Anda.

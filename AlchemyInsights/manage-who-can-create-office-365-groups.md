@@ -1,8 +1,8 @@
 ---
-title: Mengelola siapa yang bisa membuat grup Microsoft 365
+title: Mengelola siapa yang dapat membuat Grup Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f68aada0-7700-4e61-b822-6ce203afd145
-ms.openlocfilehash: eb2018389b995460d60f955c8294807e9e17516b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e0730388da7b2688da254fa48e37f473b86b354
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694748"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827039"
 ---
-# <a name="manage-who-can-create-microsoft-365-groups"></a>Mengelola siapa yang bisa membuat grup Microsoft 365
+# <a name="manage-who-can-create-microsoft-365-groups"></a>Mengelola siapa yang dapat membuat Grup Microsoft 365
 
-Secara default, semua orang di organisasi Anda bisa membuat grup O365.
+Secara default, setiap orang dalam organisasi dapat membuat grup O365.
   
-Jika Anda ingin mengubahnya, Anda bisa membuat grup keamanan dengan PowerShell yang membatasi pembuatan grup ke subset pengguna.
+Jika ingin mengubahnya, Anda dapat membuat grup keamanan dengan PowerShell yang membatasi pembuatan grup untuk subset pengguna.
   
-Ikuti instruksi langkah demi langkah di sini: [mengelola siapa yang bisa membuat grup Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+Ikuti instruksi langkah demi langkah di sini: [Mengelola siapa yang dapat membuat Grup Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
   
 

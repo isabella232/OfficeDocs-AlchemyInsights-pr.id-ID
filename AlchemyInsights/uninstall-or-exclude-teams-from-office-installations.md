@@ -1,8 +1,8 @@
 ---
-title: Menghapus instalan atau mengecualikan tim dari instalasi Office
+title: Menghapus instalan atau mengecualikan Teams dari penginstalan Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 22d69db749671afdfe7a809d1bc598e2ad1891d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658224"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827795"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Menghapus instalan atau mengecualikan tim dari instalasi Office yang baru atau yang sudah ada
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Menghapus instalan atau mengecualikan Teams dari instalan Office baru atau yang sudah ada
 
-Microsoft teams disertakan sebagai bagian dari aplikasi Microsoft 365 untuk perusahaan, aplikasi Microsoft 365 untuk bisnis, dan Office untuk Mac.
+Microsoft Teams disertakan sebagai bagian dari Aplikasi Microsoft 365 untuk perusahaan, Aplikasi Microsoft 365 untuk bisnis, dan Office untuk Mac.
 
-- Gunakan [alat penyebaran Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) untuk mengecualikan tim dari instalasi Office yang baru.
-- Untuk *Menghapus instalan* teams dari perangkat yang menjalankan Windows, lihat [menghapus instalasi Microsoft teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk membersihkan Microsoft teams dari beberapa mesin atau pengguna target, lihat [penyebaran Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)menjadi lebih bersih.
-- Gunakan opsi [Preventteamsinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) untuk mencegah Microsoft teams menginstal secara otomatis dengan Office.
-- Gunakan opsi [Preventfirstlaunchafterinstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) , *sebelum teams diinstal*, untuk mencegah Microsoft teams dimulai secara otomatis setelah penginstalan.
+- Gunakan [Office Deployment Tool](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) untuk mengeluarkan Teams dari penginstalan baru Office.
+- Untuk *menghapus* instalasi Teams dari perangkat yang menjalankan Windows, lihat [Menghapus instalasi Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk membersihkan Microsoft Teams dari beberapa mesin atau pengguna target, lihat [Pembersihan penyebaran Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+- Gunakan opsi [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
+) untuk mencegah Microsoft Teams menginstal secara otomatis dengan Office.
+- Gunakan opsi [PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) *sebelum Teams diinstal*, untuk mencegah Microsoft Teams dimulai secara otomatis setelah penginstalan.
 
-Jika Anda menggunakan Office untuk Mac, lihat [penginstalan Microsoft teams di Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Jika Anda menggunakan Office untuk Mac, lihat [Instalasi Microsoft Teams di Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).

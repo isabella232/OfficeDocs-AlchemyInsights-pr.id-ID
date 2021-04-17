@@ -1,8 +1,8 @@
 ---
-title: Cara menutup akun analitik desktop Anda
+title: Cara menutup akun Analitik Desktop Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725626"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827075"
 ---
-# <a name="working-with-desktop-analytics"></a>Bekerja dengan analitik desktop
+# <a name="working-with-desktop-analytics"></a>Bekerja dengan Analitik Desktop
 
-Sepertinya Anda bertanya tentang analitik desktop. Kami mungkin bisa mendapatkan jawaban yang lebih tepat jika Anda menulis ulang pertanyaan Anda.
+Sepertinya Anda bertanya tentang Analitik Desktop. Kami mungkin dapat membantu memberikan jawaban yang lebih tepat jika Anda mengajukan ulang pertanyaan.
 
-- [Apa itu analitik desktop?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Cara menyiapkan analitik desktop](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Apa itu Analitik Desktop?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Cara menyiapkan Analitik Desktop](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Tanya Jawab](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Memecahkan masalah analitik desktop](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Memecahkan masalah Analitik Desktop](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

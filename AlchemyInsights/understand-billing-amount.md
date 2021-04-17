@@ -1,8 +1,8 @@
 ---
-title: Memahami jumlah tagihan
+title: Pahami jumlah tagihan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,73 +12,73 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808315"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827867"
 ---
-# <a name="understand-billing-amount"></a>Memahami jumlah tagihan
+# <a name="understand-billing-amount"></a>Pahami jumlah tagihan
 
-**LED pelanggan (WD):**
+**Led Pelanggan (WD):**
 
-- Untuk membantu meninjau dan memahami tagihan Anda, silakan lihat: [Tutorial: meninjau tagihan Azure individual](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami persyaratan di faktur Anda: [penjelasan persyaratan Azure faktur](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami ketentuan tentang biaya penggunaan Azure: [ketentuan penggunaan dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Untuk mendapatkan PDF faktur Anda dan salinan file penggunaan harian mendetail Anda (. CSV): [mendapatkan faktur dan data penggunaan](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk ke: [Tutorial: Meninjau Tagihan Azure individual Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Memahami ketentuan pada faktur Anda: [Ketentuan faktur Azure dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pahami ketentuan tentang biaya Penggunaan Azure: [Ketentuan penggunaan dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Untuk mendapatkan PDF faktur Dan salinan file penggunaan harian yang mendetail (. CSV): [Mendapatkan data faktur dan penggunaan](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Catatan** : jika Anda membatalkan langganan/sumber daya di tengah siklus tagihan Anda, Anda mungkin masih melihat tagihan yang akan digunakan untuk setiap penggunaan di bulan sebelumnya. Misalnya, jika siklus tagihan Anda adalah dari 26 setiap bulan hingga tanggal 25 bulan berikutnya & Anda menangguhkan langganan pada tanggal 23, yang 28 hari ke dalam siklus penagihan untuk bulan Juni, Anda mungkin melihat biaya untuk 28 hari penggunaan. Jika Anda melihat biaya meskipun membatalkan langganan, pastikan bahwa Anda tidak memiliki paket dukungan lainnya yang menyebabkan tagihan. Jika Anda melakukannya, silakan lanjutkan dan Batalkan rencananya.
+**Catatan**: Jika Anda membatalkan langganan/sumber daya di pertengahan siklus tagihan, Anda mungkin masih melihat biaya yang akan dikenakan untuk setiap penggunaan di bulan sebelumnya. Misalnya, jika siklus tagihan Anda adalah dari tanggal 26 setiap bulan hingga tanggal 25 bulan berikutnya & Anda menangguhkan langganan pada tanggal 23, yaitu 28 hari ke dalam siklus penagihan untuk Juni, Anda mungkin melihat biaya untuk 28 hari penggunaan. Jika Anda melihat biaya yang terlalu banyak untuk membatalkan langganan, harap pastikan, Anda tidak memiliki paket dukungan lain yang menyebabkan biaya tersebut. Jika Anda melakukannya, silakan lanjutkan dan batalkan paket tersebut.
 
-**Perjanjian pelanggan Microsoft (MCA):**
+**Perjanjian Pelanggan Microsoft (MCA):**
 
-[Bagaimana cara memeriksa akses ke perjanjian pelanggan Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+[Bagaimana cara Memeriksa akses ke Perjanjian Pelanggan Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- Untuk membantu meninjau dan memahami tagihan Anda, silakan lihat: [Tutorial: Tinjau faktur perjanjian pelanggan Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami persyaratan di faktur Anda: [ketentuan faktur perjanjian pelanggan Microsoft yang dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami ketentuan tentang biaya penggunaan Azure: [ketentuan penggunaan perjanjian pelanggan Microsoft yang dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Jika Anda memiliki [perjanjian pelanggan Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), Anda bisa mengunduh penggunaan di [portal Azure](https://portal.azure.com/).
+- Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk [ke: Tutorial: Meninjau faktur Perjanjian Pelanggan Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Memahami persyaratan pada faktur Anda: [Ketentuan faktur Perjanjian Pelanggan Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pahami persyaratan tentang biaya Penggunaan [Azure: Ketentuan Penggunaan Perjanjian Pelanggan Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Jika Anda memiliki Perjanjian [Pelanggan Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)Anda dapat mengunduh penggunaan di [portal Azure.](https://portal.azure.com/)
 
 **Perjanjian Mitra Microsoft (MPA):**
 
-- Untuk membantu meninjau dan memahami tagihan Anda, silakan lihat: [Tutorial: Tinjau faktur perjanjian Mitra Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami persyaratan di faktur Anda: [ketentuan dalam faktur perjanjian Mitra Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk [ke: Tutorial: Meninjau faktur Perjanjian Mitra Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Memahami persyaratan pada faktur Anda: [Ketentuan dalam faktur Perjanjian Mitra Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Perjanjian perusahaan (EA)**
+**Enterprise Agreement (EA)**
 
-- Untuk membantu meninjau dan memahami tagihan Anda, silakan lihat: [memahami tagihan perjanjian Azure Enterprise Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Jika Anda adalah pelanggan Azure dengan perjanjian perusahaan (pelanggan EA), Anda tidak bisa mengunduh faktur organisasi Anda. Faktur dikirim ke siapa pun yang diatur untuk menerima faktur untuk pendaftaran, Anda bisa mengunduh penggunaan di [portal Azure](https://portal.azure.com/).
+- Untuk membantu meninjau dan memahami tagihan Anda, lihat: [Memahami tagihan Azure Enterprise Agreement Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Jika merupakan pelanggan Azure dengan Enterprise Agreement (pelanggan EA), Anda tidak dapat mengunduh faktur organisasi. Faktur dikirim ke siapa saja yang disiapkan untuk menerima faktur untuk pendaftaran, Anda bisa mengunduh penggunaan di [portal Azure.](https://portal.azure.com/)
 
-Tinjau faktur yang melebihi batas Layanan:
+Tinjau faktur overage layanan:
 
-- Masuk ke **portal perusahaan** . Pilih **laporan**
-- Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan Cocokkan periode pada faktur
-- Jumlah total **penggunaan** harus sesuai dengan jumlah total yang **diperpanjang** pada faktur melebihi batas layanan Anda
-- Masuk ke **Unduh penggunaan > Unduh laporan tingkat lanjut** untuk mendapatkan informasi selengkapnya tentang biaya **catatan** Anda: laporan ini tidak termasuk pajak, biaya untuk reservasi, atau biaya pasar
+- Masuk ke **portal Enterprise.** Pilih **Laporan**
+- Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan cocokkan periode pada faktur
+- Jumlah Total **Penggunaan** harus cocok dengan Jumlah **Total yang** Diperpanjang pada layanan Anda saat ini
+- Masuk ke **Pengunduhan Penggunaan > Unduhan** Laporan Tingkat Lanjut untuk mendapatkan informasi selengkapnya tentang biaya Anda Catatan : Laporan ini tidak menyertakan pajak, biaya untuk pemesanan, atau biaya marketplace 
 
-**Marketplace Azure**
+**Azure Marketplace**
 
-- Pelajari selengkapnya tentang cara penagihan pihak ketiga: [tagihan Azure Marketplace](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pelajari selengkapnya tentang bagaimana tagihan pihak ketiga: [Tagihan Azure Marketplace](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Tinjau faktur Marketplace:
+Tinjau Faktur marketplace:
 
-Bandingkan Total Azure Marketplace pada laporan > ringkasan penggunaan di portal perusahaan dengan faktur Marketplace Anda. Faktur Marketplace hanya untuk pembelian dan penggunaan Azure Marketplace. Jumlah pada ringkasan penggunaan tidak termasuk pajak.
+Bandingkan total Azure Marketplace pada Laporan > Ringkasan Penggunaan di portal Perusahaan dengan faktur marketplace Anda. Faktur marketplace hanya untuk pembelian dan penggunaan Azure Marketplace. Jumlah ringkasan penggunaan tidak termasuk pajak.
 
-- Masuk ke **portal perusahaan** . Pilih **laporan**
-- Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan Cocokkan periode pada faktur
-- Total **Azure Marketplace** harus sesuai dengan **Total penjualan** pada faktur Marketplace Anda
-- Masuk ke **Unduh penggunaan** untuk mendapatkan informasi selengkapnya tentang biaya berbasis penggunaan Anda. Di bawah **biaya Marketplace** , pilih **Unduh** **catatan** : laporan ini tidak termasuk pajak atau memperlihatkan pembelian satu kali
+- Masuk ke **portal Enterprise.** Pilih **Laporan**
+- Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan cocokkan periode pada faktur
+- Total **Azure Marketplace** harus cocok dengan Penjualan Total **pada** faktur marketplace Anda
+- Buka **Unduh Penggunaan** untuk mendapatkan informasi selengkapnya tentang biaya berbasis penggunaan Anda. Di **bawah Biaya Marketplace**, **pilih** **Unduh** Catatan : Laporan ini tidak termasuk pajak atau pertunjukkan pembelian satu kali
 
-**Penyedia solusi awan (CSP)**
+**Penyedia Solusi Awan (CSP)**
 
-- Pelajari selengkapnya tentang cara kerja tagihan dalam program Azure Cloud Solution Provider (Azure CSP): [tagihan AZURE CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Pelajari tentang membaca dan memahami tagihan CSP Anda: [faktur AZURE CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pelajari selengkapnya tentang cara kerja tagihan dalam program Penyedia Solusi Awan Azure (Azure CSP): [Tagihan Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pelajari tentang membaca dan memahami tagihan CSP Anda: [Faktur Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
-- Pelajari cara mencegah biaya yang tidak terduga dan mengontrol biaya Anda: mencegah biaya yang tidak [terduga](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Menyiapkan pemberitahuan tagihan atau kredit untuk memantau dan mengelola aktivitas tagihan untuk akun Anda: [Siapkan pemberitahuan tagihan](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Memahami batas pembelanjaan Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Memahami tagihan Azure Anda untuk biaya layanan eksternal: [bagaimana layanan eksternal ditagih](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Tanya Jawab Umum akun Azure gratis](https://azure.microsoft.com/free/free-account-faq/)
-- [Memahami peran administratif perjanjian Azure Enterprise di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pelajari cara mencegah biaya tak terduga dan mengontrol biaya Anda: [Mencegah biaya tak terduga](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Menyetel pemberitahuan tagihan atau kredit untuk memantau dan mengelola aktivitas tagihan untuk akun [Anda: Menyetel pemberitahuan tagihan](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Memahami batas pengeluaran Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Memahami tagihan Azure Anda untuk biaya layanan eksternal: [Bagaimana layanan eksternal ditagihkan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Tanya Jawab Umum Akun Gratis Azure](https://azure.microsoft.com/free/free-account-faq/)
+- [Memahami peran administratif Perjanjian Azure Enterprise di Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
