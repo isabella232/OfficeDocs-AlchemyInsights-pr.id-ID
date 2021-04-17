@@ -1,8 +1,8 @@
 ---
-title: Buku catatan yang hilang
+title: Buku Catatan tidak ditemukan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667161"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831665"
 ---
-# <a name="recover-missing-notebook"></a>Memulihkan buku catatan yang hilang
+# <a name="recover-missing-notebook"></a>Memulihkan Buku Catatan yang Hilang
 
-Jika buku catatan di OneDrive dihapus secara tidak sengaja, Anda dapat memulihkannya dengan mengikuti langkah-langkah dalam [memulihkan file atau folder yang dihapus di onedrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Jika buku catatan di OneDrive terhapus secara tidak sengaja, Anda dapat memulihkannya dengan mengikuti langkah-langkah dalam Memulihkan file atau [folder yang dihapus di OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Anda dapat memulihkan buku catatan di OneDrive yang dihapus dalam 30 hari secara default dengan langkah berikut dalam [memulihkan onedrive yang dihapus](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Anda dapat memulihkan buku catatan di OneDrive yang dihapus dalam 30 hari secara default dengan mengikuti langkah-langkah [dalam Memulihkan OneDrive yang dihapus](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote mungkin menggunakan akun yang berbeda dari yang Anda harapkan. Jika Anda memiliki akun kantor atau sekolah yang disediakan selain akun Microsoft pribadi Anda, Anda harus menambahkan akun lain untuk menampilkan semua buku catatan Anda (Lihat instruksi tentang cara [menambahkan akun di OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote mungkin menggunakan akun berbeda dari yang diharapkan. Jika Anda memiliki akun kantor atau sekolah yang disediakan selain akun Microsoft pribadi Anda, Anda harus menambahkan akun lain untuk menampilkan semua buku catatan Anda (lihat instruksi tentang cara Menambahkan Akun di [OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

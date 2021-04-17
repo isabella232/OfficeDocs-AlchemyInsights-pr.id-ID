@@ -2,7 +2,7 @@
 title: Masuk ke Windows 10 tanpa menggunakan kata sandi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719956"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830549"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Masuk ke Windows 10 tanpa menggunakan kata sandi
 
-Untuk menghindari keharusan mengetikkan kata sandi di startup Windows, kami menyarankan agar Anda menggunakan salah satu opsi masuk Windows Hello yang aman, seperti PIN, pengenalan wajah, atau sidik jari, jika tersedia. Jika Anda benar-benar ingin menonaktifkan aman masuk, lihat instruksi "masuk otomatis ke Windows 10" di bawah ini.
+Untuk menghindari harus mengetikkan kata sandi pada startup Windows, kami menyarankan Anda menggunakan salah satu opsi masuk aman Windows Hello, seperti PIN, pengenalan wajah, atau sidik jari, jika tersedia. Jika Anda benar-benar ingin menonaktifkan akses masuk yang aman, lihat instruksi "Masuk secara otomatis ke Windows 10" di bawah ini.
 
-**Mengamankan Windows Hello alternatif untuk kata sandi akun**
+**Mengamankan alternatif Windows Hello dengan kata sandi akun**
 
-Masuk ke **pengaturan > akun > opsi masuk** (atau klik [di sini](ms-settings:signinoptions?activationSource=GetHelp)). Opsi masuk yang tersedia akan dicantumkan. Misalnya:
+Masuk ke **Pengaturan > Akun > opsi Masuk (atau** klik di [sini](ms-settings:signinoptions?activationSource=GetHelp)). Opsi masuk yang tersedia akan dicantumkan. Misalnya:
 
 ![Opsi masuk.](media/sign-in-options.png)
 
-Klik atau ketuk salah satu opsi untuk mengonfigurasinya. Saat berikutnya Anda memulai atau membuka kunci Windows, Anda akan dapat menggunakan opsi baru, bukan kata sandi. 
+Klik atau ketuk salah satu opsi untuk mengonfigurasinya. Saat berikutnya Anda memulai atau membuka kunci Windows, Anda akan bisa menggunakan opsi baru sebagai ganti kata sandi. 
 
-**Masuk secara otomatis ke Windows 10**
+**Masuk ke Windows 10 secara otomatis**
 
-**Catatan**: masuk otomatis mudah, namun memperkenalkan risiko keamanan, terutama jika PC Anda dapat diakses oleh beberapa orang. 
+**Catatan**: Masuk otomatis mudah, tetapi menghadirkan risiko keamanan, terutama jika PC Anda dapat diakses oleh beberapa orang. 
 
-1. Klik atau ketuk tombol **mulai** di taskbar.
+1. Klik atau ketuk **tombol** Mulai di Taskbar.
 
-2. Ketik **netplwiz** dan tekan tombol Enter untuk membuka jendela akun pengguna.
+2. Ketik **netplwiz** dan tekan tombol Enter untuk membuka jendela Akun Pengguna.
 
-3. Di **akun pengguna**, klik akun yang ingin Anda masuki secara otomatis saat Windows dimulai.
+3. Di **Akun Pengguna,** klik akun yang ingin Anda masuki secara otomatis saat Windows dimulai.
 
-4. Kosongkan kotak centang "pengguna harus memasukkan nama pengguna dan kata sandi untuk menggunakan komputer ini".
+4. Kosongkan kotak centang "Pengguna harus memasukkan nama pengguna dan kata sandi untuk menggunakan komputer ini".
 
-    ![Pengguna harus memasukkan opsi nama pengguna dan kata sandi.](media/users-must-enter-username.png)
+    ![Pengguna harus memasukkan nama pengguna dan opsi kata sandi.](media/users-must-enter-username.png)
 
-5. Klik **OK**. Anda akan diminta untuk memasukkan dan mengonfirmasi kata sandi untuk akun yang Anda pilih. Klik **OK** untuk menyelesaikan. Saat berikutnya Windows 10 dimulai, akan otomatis masuk ke akun yang Anda pilih.
+5. Klik **OK**. Anda akan diminta untuk memasukkan dan mengonfirmasi kata sandi untuk akun yang dipilih. Klik **OK** untuk menyelesaikannya. Di waktu berikutnya Windows 10 dimulai, Windows 10 akan masuk secara otomatis ke akun yang Anda pilih.
