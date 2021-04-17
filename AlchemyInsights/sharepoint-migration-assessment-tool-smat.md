@@ -2,7 +2,7 @@
 title: Alat Penilaian Migrasi SharePoint (SMAT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 6e8ad270af42c78638038e991d35b3c03a43af3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661959"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828371"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>Alat Penilaian Migrasi SharePoint (SMAT)
 
-Alat evaluasi migrasi SharePoint (SMAT) adalah metode eksekusi baris-perintah sederhana yang akan memindai konten dari SharePoint Farm Anda untuk membantu mengidentifikasi dampak migrasi server Anda ke SharePoint online dengan Microsoft 365.
+Alat Penilaian Migrasi SharePoint (SMAT) adalah baris perintah sederhana yang dapat dijalankan, yang akan memindai konten farm SharePoint Anda untuk membantu mengidentifikasi dampak migrasi server ke SharePoint Online dengan Microsoft 365.
 
 [Gambaran umum tentang Alat Penilaian Migrasi SharePoint](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

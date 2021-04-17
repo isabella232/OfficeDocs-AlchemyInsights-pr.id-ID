@@ -2,7 +2,7 @@
 title: ProxyAddress tidak benar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801511"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828939"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress tidak benar
 
-Saat objek disinkronkan ke Azure AD, nilai yang ditentukan dalam atribut proxyAddresses di direktori aktif dibandingkan dengan aturan Azure AD, lalu atribut proxyAddresses dihuni di Azure AD. Oleh karena itu, nilai dari atribut proxyAddresses untuk objek dalam direktori aktif mungkin tidak sama dengan nilai dari atribut proxyAddresses di Azure AD.
+Ketika objek disinkronkan ke Azure AD, nilai yang ditentukan di atribut proxyAddresses di Active Directory dibandingkan dengan aturan Azure AD, lalu atribut proxyAddresses diisi di Azure AD. Oleh karena itu, nilai atribut proxyAddresses untuk objek di Active Directory mungkin tidak sama dengan nilai atribut proxyAddresses di Azure AD.
   
-Untuk mempelajari selengkapnya tentang bagaimana proxyAddress diisi, lihat [bagaimana atribut proxyAddress dihuni di AZURE AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Untuk mempelajari selengkapnya tentang cara alamat proksi terisi, lihat Bagaimana atribut [proxyAddress diisi di Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

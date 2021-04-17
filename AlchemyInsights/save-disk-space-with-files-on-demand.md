@@ -1,8 +1,8 @@
 ---
-title: Menghemat ruang disk dengan file OneDrive sesuai permintaan untuk Mac
+title: Menghemat ruang disk dengan File OneDrive Sesuai Permintaan untuk Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 32aa2fa21acc647092aac75484dde809a7208113
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807523"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828659"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Menghemat ruang disk dengan file OneDrive sesuai permintaan untuk Mac
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Menghemat ruang disk dengan File OneDrive Sesuai Permintaan untuk Mac
 
-File OneDrive sesuai permintaan membantu Anda mengakses semua file di OneDrive tanpa harus mengunduh semuanya dan menggunakan ruang penyimpanan di perangkat Anda.  
+Files On-Demand OneDrive membantu Anda mengakses semua file di OneDrive tanpa harus mengunduhnya, juga tanpa menggunakan ruang penyimpanan di perangkat.  
 
-Untuk akun OneDrive baru di Mac OS Mojave atau yang lebih baru, file sesuai permintaan diaktifkan secara default saat Anda menyiapkan OneDrive. Pengguna yang sudah ada harus mengaktifkan file sesuai permintaan di preferensi OneDrive.  
+Untuk akun OneDrive baru di Mac OS Mojave atau yang lebih baru, File Sesuai Permintaan diaktifkan secara default ketika Anda menyiapkan OneDrive. Pengguna yang sudah ada perlu mengaktifkan File Sesuai Permintaan di Preferensi OneDrive.  
 
-[Pelajari selengkapnya tentang file sesuai permintaan untuk Mac OS](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0).
+[Pelajari selengkapnya tentang File Sesuai Permintaan untuk Mac OS.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

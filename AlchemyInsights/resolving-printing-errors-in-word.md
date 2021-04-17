@@ -2,7 +2,7 @@
 title: Mengatasi kesalahan pencetakan di Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720865"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828695"
 ---
 # <a name="resolving-print-failures-in-word"></a>Mengatasi kegagalan cetak di Word
 
 Jika Anda menerima kesalahan saat mencetak di Word, cobalah mencetak dari dokumen uji baru untuk menentukan apakah masalah Anda terkait dengan dokumen tertentu.
 
-- Jika Anda bisa mencetak dari dokumen uji tapi masih tidak bisa mencetak dokumen asli Anda, dokumen asli Anda mungkin rusak. Ikuti instruksi tentang [cara memecahkan masalah dokumen yang rusak di Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- Jika Anda masih tidak dapat mencetak, ikuti instruksi dalam [memecahkan masalah kegagalan cetak di Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) untuk mendiagnosis dan memperbaiki masalah tersebut.
+- Jika Anda bisa mencetak dari dokumen uji namun masih tidak bisa mencetak dokumen asli Anda, dokumen asli Anda mungkin rusak. Ikuti instruksi dalam [Cara memecahkan masalah dokumen yang rusak di Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
+- Jika masih tidak dapat mencetak, ikuti instruksi dalam Memecahkan masalah kegagalan cetak di [Word untuk](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) mendiagnosis dan memperbaiki masalah.

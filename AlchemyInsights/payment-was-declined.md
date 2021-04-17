@@ -2,21 +2,22 @@
 title: Pembayaran Anda ditolak
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
+ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43161010"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829055"
 ---
 # <a name="your-payment-was-declined"></a>Pembayaran Anda ditolak
 
@@ -24,20 +25,31 @@ Microsoft akan mengenakan biaya pada kartu Anda beberapa kali dalam 3-4 minggu s
 
 **Penting**: Jika telah menambahkan kartu baru dan masih mendapatkan pemberitahuan penolakan pada kartu kredit lama, Anda mungkin perlu mengaitkan kartu baru tersebut dengan langganan.
 
-1. Buka **Tagihan > [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Mengganti metode pembayaran untuk semua item**
 
-2. Pilih langganan yang ingin Anda bayar dengan kartu atau rekening bank baru. Di bawah bagian **Tagihan**, di samping metode pembayaran, klik **Edit**.
+1. Di pusat admin, masuk ke halaman **Tagihan** > **Tagihan & pembayaran** > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-3. Klik **Ubah** di samping metode pembayaran saat ini.
+2. Pilih baris metode pembayaran yang akan diganti. Panel kanan mencantumkan semua profil tagihan dan langganan individual yang menggunakan metode pembayaran yang dipilih.
 
-4. Dari menu menurun, pilih metode pembayaran alternatif, atau tambahkan metode pembayaran baru.
+3. Di panel kanan, pilih **Ganti metode pembayaran untuk semua item**.
 
-**Memperbarui atau menambahkan metode pembayaran baru**
+4. Untuk memilih metode pembayaran yang sudah ada, pilih salah satu dari daftar menurun, lalu pilih **Ganti**.
 
-1. Buka halaman **Tagihan > Tagihan & Pembayaran > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Jika memiliki langganan yang dikaitkan dengan profil tagihan, Anda hanya bisa menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
 
-2. Klik **Tambahkan metode pembayaran**, pilih kartu, atau rekening bank yang ingin diperbarui lalu klik **Edit**.
+5. Untuk menambahkan metode pembayaran baru, pilih **Tambahkan metode pembayaran**.
 
-3. Perbarui informasi metode pembayaran Anda (nama di kartu atau rekening bank, alamat tagihan, nomor telepon, atau tanggal kedaluwarsa), lalu klik **Simpan**.
+6. Di panel **Tambahkan metode pembayaran**, masukkan informasi akun, lalu pilih **Simpan**. Anda harus menggunakan metode pembayaran dari negara yang sama dengan penyewa Anda.
 
-4. Ingatlah untuk mengubah cara pembayaran langganan Anda ke metode pembayaran yang baru ini. Informasi selengkapnya, lihat [Menambahkan, memperbarui, atau menghapus metode pembayaran](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Metode pembayaran baru sudah dipilih di daftar menurun. Pilih **Ganti**.
+
+**Memperbarui detail metode pembayaran**
+
+1. Di pusat admin, masuk ke halaman **Tagihan** > **Tagihan & pembayaran** > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+
+2. Pilih baris metode pembayaran yang akan diperbarui. Di panel kanan, pilih **Edit**.
+
+3. Perbarui informasi metode pembayaran, yang mencakup nama di kartu kredit atau debit, alamat tagihan, atau tanggal kedaluwarsa, lalu pilih **Simpan**.
+
+Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
