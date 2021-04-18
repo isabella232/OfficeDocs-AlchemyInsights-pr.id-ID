@@ -1,25 +1,26 @@
 ---
-title: Mengkonfigurasi kebijakan IRM di perpustakaan dokumen SharePoint untuk membatasi download konten
+title: Konfigurasikan kebijakan IRM pada pustaka dokumen SharePoint untuk membatasi unduhan konten
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507841"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817211"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a><span data-ttu-id="0f180-102">Mengkonfigurasi kebijakan IRM di perpustakaan dokumen SharePoint untuk membatasi download konten</span><span class="sxs-lookup"><span data-stu-id="0f180-102">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a><span data-ttu-id="2277f-102">Konfigurasikan kebijakan IRM pada pustaka dokumen SharePoint untuk membatasi unduhan konten</span><span class="sxs-lookup"><span data-stu-id="2277f-102">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>
 
-<span data-ttu-id="0f180-103">Dalam SharePoint online, Perlindungan IRM diterapkan ke berkas di tingkat daftar dan perpustakaan.</span><span class="sxs-lookup"><span data-stu-id="0f180-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="0f180-104">Sebelum organisasi dapat menggunakan Perlindungan IRM, Anda harus terlebih dahulu mengatur manajemen hak.</span><span class="sxs-lookup"><span data-stu-id="0f180-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="0f180-105">IRM bergantung pada layanan pengelolaan hak Azure dari perlindungan informasi Azure untuk mengenkripsi dan menetapkan pembatasan penggunaan.</span><span class="sxs-lookup"><span data-stu-id="0f180-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span>
+<span data-ttu-id="2277f-103">Dalam SharePoint Online, perlindungan IRM diterapkan ke file pada daftar dan tingkat pustaka.</span><span class="sxs-lookup"><span data-stu-id="2277f-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="2277f-104">Sebelum organisasi Anda dapat menggunakan perlindungan IRM, Anda harus menyiapkan Rights Management terlebih dahulu.</span><span class="sxs-lookup"><span data-stu-id="2277f-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="2277f-105">IRM bergantung pada layanan Azure Rights Management dari Azure Information Protection untuk mengenkripsi dan menetapkan batasan penggunaan.</span><span class="sxs-lookup"><span data-stu-id="2277f-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span>
 
-- <span data-ttu-id="0f180-106">[Mengkonfigurasi kebijakan IRM di perpustakaan dokumen SharePoint untuk membatasi download konten](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="0f180-106">[Configure IRM policies on SharePoint document libraries to limit download of content](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="2277f-106">[Konfigurasikan kebijakan IRM pada pustaka dokumen SharePoint untuk membatasi unduhan konten](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="2277f-106">[Configure IRM policies on SharePoint document libraries to limit download of content](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
