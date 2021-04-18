@@ -2,9 +2,10 @@
 title: Bagaimana cara menyiapkan konferensi audio untuk Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,31 +13,31 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709942"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811063"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – Konferensi Audio
 
-Perlu bantuan mengaktifkan atau menyiapkan Konferensi Audio di Microsoft Teams? Apakah pengguna ini baru saja dibuat?  Jika ya, Anda harus menunggu 2 – 24 jam sebelum pengaturan mulai berlaku.
+Perlu bantuan mengaktifkan atau menyiapkan [Konferensi Audio untuk Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  Apakah pengguna ini baru dibuat? Jika demikian, Anda perlu waktu beberapa jam agar pengaturan diterapkan.
 
-Untuk memverifikasi bahwa pengguna memiliki lisensi untuk Konferensi Audio dan memiliki Nomor Tol Default:
+Jika [lisensi telah dibeli](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), pastikan bahwa pengguna memiliki lisensi untuk Konferensi Audio Microsoft 365 dan Nomor Berbayar Default.
 
 1. Buka [Pengguna Aktif](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) lalu pilih pengguna yang dimaksud.
 
 2. Bergantung pada versi pusat admin, pilih **Lisensi dan Aplikasi** atau klik **Edit** pada **Lisensi produk**.
 
-3. Konfirmasikan bahwa pengguna telah memilih lisensi untuk **Konferensi Audio, Microsoft Teams**, dan **Skype for Business Online (Paket 2)**.
+3. Pastikan pengguna telah memilih lisensi untuk **Konferensi Audio Microsoft 365, Microsoft Teams**, dan **Skype for Business Online (Paket 2)**. Jika lisensi **Konferensi Audio Microsoft 365** tidak ada, Anda harus [membeli lisensi add-on](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) terlebih dahulu.
 
-4. Pengguna **Pusat admin** klik **Perlihatkan semua** lalu klik **Teams**.
+4. Pengguna **Pusat admin** klik **Tampilkan semua** kemudian **Teams**.
 
-5. Di **Pusat admin Microsoft**, klik **Portal warisan**.
+5. Di bagian **Pusat admin Microsoft Teams**, klik **Portal warisan**.
 
 6. Di bagian **Pusat admin Skype for Business**, klik **konferensi audio** kemudian **pengguna**.
 
 7. Pilih pengguna yang dimaksud dan verifikasi apakah pengguna tersebut memiliki **Nomor Tol Default**.
 
-Untuk informasi lebih lanjut, lihat [Paket Panggilan](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) atau hubungi tim Penagihan Perniagaan Microsoft untuk mendapatkan bantuan pertanyaan terkait lisensi.
+Jika Anda perlu bantuan lebih lanjut terkait pembelian lisensi untuk **Konferensi Audio Microsoft**, hubungi [Dukungan Penagihan Microsoft](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).

@@ -1,30 +1,31 @@
 ---
-title: Bantuan dengan SPFx Pages dan web Parts
+title: Bantuan dengan Halaman SPFx dan Komponen Web
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
-ms.translationtype: MT
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569348"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811531"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Bantuan dengan SPFx Pages dan web Parts
+# <a name="help-with-spfx-pages-and-web-parts"></a>Bantuan dengan Halaman SPFx dan Komponen Web
 
-SPFx didukung hanya melalui dukungan Pengembang Microsoft. Tim produk SharePoint menanggapi komunitas pengembang di beberapa saluran.
+SPFx hanya didukung melalui dukungan pengembang Microsoft. Tim produk SharePoint merespons komunitas pengembang di beberapa saluran.
 
-- [Pertanyaan pemrograman](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) dapat diserahkan ke **GitHub SP-dev-docs** atau **Stack Overflow**.
-- [Dokumentasi bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) dapat diserahkan ke **GitHub**.
-- [Contoh aplikasi bug](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) dapat diserahkan ke **GitHub**.
-- [Permintaan fitur](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) dapat diserahkan ke uservoice.
+- [Pertanyaan terkait pemrograman](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  dapat dikirimkan ke **GitHub sp-dev-docs**  atau  **Stack Overflow**.
+- [Bug dokumentasi](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)  dapat dikirimkan ke **GitHub**.
+- [Bug aplikasi sampel](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)  dapat dikirimkan ke  **GitHub**.
+- [Permintaan fitur](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  dapat dikirimkan ke UserVoice.
 
-Untuk sumber daya pengembang lainnya, lihat [dukungan & umpan balik](https://docs.microsoft.com/sharepoint/dev/support-feedback)
+Untuk sumber daya pengembang lainnya, lihat  [Dukungan & umpan balik](https://docs.microsoft.com/sharepoint/dev/support-feedback)
