@@ -2,21 +2,22 @@
 title: Mengelola akun dan langganan Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102658"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823898"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Mengelola akun dan langganan Anda
 
@@ -33,13 +34,13 @@ ms.locfileid: "43102658"
 
 - [Pengajaran dan pembelajaran dari jarak jauh di Office 365 Pendidikan](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**Dalam Pusat Admin Microsoft 365, Anda dapat**: 
+**Di pusat admin Microsoft 365, Anda dapat:** 
 
 - [Melihat penagihan Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Memahami Tagihan Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Menambahkan, memperbarui, atau menghapus metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Kelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Mengelola langganan dan Lisensi** 
 
@@ -55,4 +56,4 @@ ms.locfileid: "43102658"
 
 - [Menetapkan Lisensi untuk Pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Jika Anda sudah memiliki lisensi, Anda dapat menemukan aplikasi yang dapat Anda unduh di halaman [Akun Saya](https://portal.office.com/account/#installs). Halaman ini menyediakan daftar aplikasi yang tersedia untuk diunduh berdasarkan lisensi yang ditetapkan. Jika Anda sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi menggunakan akun kantor atau sekolah. Anda dapat melakukannya di semua aplikasi Office (Word, Excel, dll.) dengan mengklik **File > Akun ** (dekat bagian bawah). Di bagian Informasi Pengguna, klik **Beralih Akun**. Untuk informasi selengkapnya, baca [Install Aplikasi Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications). 
+Jika Anda sudah memiliki lisensi, Anda dapat menemukan aplikasi yang dapat Anda unduh di halaman [Akun Saya](https://portal.office.com/account/#installs). Halaman ini menyediakan daftar aplikasi yang tersedia untuk diunduh berdasarkan lisensi yang ditetapkan. Jika Anda sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi menggunakan akun kantor atau sekolah. Anda dapat melakukannya di semua aplikasi Office (Word, Excel, dll.) dengan mengklik **File > Akun** (dekat bagian bawah). Di bagian Informasi Pengguna, klik **Beralih Akun**. Untuk informasi selengkapnya, baca [Install Aplikasi Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications). 

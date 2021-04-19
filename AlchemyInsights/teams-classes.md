@@ -2,25 +2,26 @@
 title: Kelas Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001725"
 - "3829"
-ms.openlocfilehash: c30a62636a89b41ee5ee3ea6668c415b3febb0d5
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 23ed3bc86ef1f81aed11eb3083554750c4ea425e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707411"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824798"
 ---
 # <a name="teams-classes"></a>Kelas Teams
 
-Jika memiliki penyewa EDU, Anda harus mengaktifkan Microsoft Teams secara manual. Untuk melakukannya, masuk ke pusat admin Microsoft 365 **Pengaturan> Pengaturan > Microsoft Teams**. Jika tidak melihat Microsoft Teams di daftar Layanan, nonaktifkan **Coba pusat admin baru** untuk menemukan **Pengaturan > Layanan dan add-in > Microsoft Teams**. Untuk informasi selengkapnya, lihat [Mengaktifkan Microsoft Teams untuk sekolah Anda](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
+Jika Anda memiliki penyewa EDU, Anda harus mengaktifkan Microsoft Teams secara manual. Untuk melakukannya, masuk ke pusat admin Microsoft 365 **Pengaturan> Pengaturan > Microsoft Teams**. Jika tidak melihat Microsoft Teams di daftar Layanan, nonaktifkan **Coba pusat admin baru** untuk menemukan **Pengaturan > Layanan dan add-in > Microsoft Teams**. Untuk informasi selengkapnya, lihat [Mengaktifkan Microsoft Teams untuk sekolah Anda](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams#enable-microsoft-teams-for-your-school-1). 
 
 **Penting**: Anda mungkin harus menunggu hingga 24 jam agar perubahan Anda berlaku. 
 

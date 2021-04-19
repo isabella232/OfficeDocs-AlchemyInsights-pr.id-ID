@@ -1,44 +1,45 @@
 ---
-title: 'AIP: header dan footer tidak menampilkan seperti yang diharapkan'
+title: 'AIP: Header dan footer tidak ditampilkan seperti yang diharapkan'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 418362beea221a7cb9d8fd4be6cfc0f28022093d
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821702"
 ---
-# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: header dan footer tidak menampilkan seperti yang diharapkan
+# <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Header dan footer tidak ditampilkan seperti yang diharapkan
 
-Jika Anda mengalami masalah dengan tanda visual tidak ditampilkan seperti yang diharapkan, lihat panduan berikut ini:
+Jika Anda mengalami masalah dengan penandaan visual yang tidak ditampilkan seperti yang diharapkan, lihat panduan berikut ini:
 
-1. Pastikan Anda telah meninjau [saat tanda visual diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Untuk Office pelabelan, Tinjau [saat office 365 menerapkan konten menandai dan enkripsi](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
-3. Jika Anda ingin menghapus header/footer yang ada, Tinjau [menghapus header dan footer dari solusi pelabelan lainnya](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
+1. Pastikan Anda telah meninjau [Ketika penandaan visual diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
+2. Untuk label Office, [tinjau Saat Office 365 menerapkan penandaan konten dan enkripsi](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
+3. Jika Anda ingin menghapus header/footer yang sudah ada, [tinjau Menghapus header dan footer dari solusi label lain](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
 
-Jika Anda masih mengalami masalah, mengumpulkan klien perlindungan informasi Azure log dan melampirkan log diekspor ke tiket ini.
+Jika Anda masih mengalami masalah, kumpulkan log klien Perlindungan Informasi Azure dan lampirkan log yang diekspor ke tiket ini.
 
-**Ekspor log perlindungan informasi Azure**
+**Mengekspor log Perlindungan Informasi Azure**
 
 1. Buka dokumen Office atau buat email baru di Outlook.
-2. Klik **Lindungi/sensitivitas**  >  **bantuan dan umpan balik**.
-3. Klik **ekspor log**.
-4. Simpan log ke pilihan lokasi Anda, dan pasangkan ke permintaan layanan ini.
+2. Klik **Proteksi/Sensitivitas** > **Bantuan dan umpan balik**.
+3. Klik **Ekspor Log**.
+4. Simpan log ke lokasi pilihan Anda, dan lampirkan log ke permintaan layanan ini.
 
 Untuk informasi tambahan, lihat:
 
-- [Cara mengkonfigurasi label untuk tanda visual untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Tinjau dokumentasi perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Persyaratan untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Tutorial memulai cepat untuk perlindungan informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Unduh klien perlindungan informasi Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Cara mengonfigurasi label untuk penandaan visual untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Tinjau dokumentasi Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Persyaratan untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Tutorial mulai cepat untuk Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Unduh klien Perlindungan Informasi Azure](https://www.microsoft.com/download/details.aspx?id=53018)

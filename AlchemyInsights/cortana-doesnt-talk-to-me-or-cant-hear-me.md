@@ -2,39 +2,40 @@
 title: Cortana tidak berbicara dengan saya atau tidak dapat mendengar saya
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357757"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816527"
 ---
 # <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana tidak berbicara dengan saya atau tidak dapat mendengar saya
 
-Jika Anda mencoba untuk menggunakan "Hey Cortana" fitur, yang memungkinkan Anda untuk berbicara dengan Cortana tanpa memilih tombol Cortana pada taskbar atau tombol mikrofon di panel Cortana, mengkonfirmasi bahwa fitur ini diaktifkan:
+Jika Anda mencoba menggunakan fitur "Hai Cortana", yang memungkinkan Anda untuk berbicara dengan Cortana tanpa mengklik tombol Cortana di taskbar atau tombol mikrofon di panel Cortana, pastikan bahwa fitur tersebut diaktifkan:
 
-1. Buka **mulai**, lalu pilih **[pengaturan > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. Di bawah **Hey cortana**, beralih **membiarkan Cortana menanggapi "Hey cortana"** beralih ke **on**.
+1. Buka menu **Mulai**, lalu pilih **[Pengaturan > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. Di bagian **Hai Cortana**, alihkan tombol **Biarkan Cortana merespons "Hai Cortana"** ke **Aktif**.
 
-![Hei Cortana](media/hey-cortana.png)
+![Hai Cortana](media/hey-cortana.png)
 
-**Apakah pengaturan privasi Anda mencegah Cortana mendengar Anda?**
+**Apakah pengaturan privasi Anda mencegah Cortana mendengarkan Anda?**
 
 Pengaturan privasi Anda dapat mencegah Cortana merespons suara Anda.
-- Periksa untuk memastikan pengenalan ucapan online diaktifkan:
-    - Buka **mulai**, lalu klik **[setelan > privasi > ucapan](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - Di bawah **pengenalan ucapan online**, alihkan setelan ke **aktif**.
+- Periksa untuk memastikan pengenalan Suara online diaktifkan:
+    - Buka menu **Mulai**, lalu klik **[Pengaturan > Privasi > Ucapan](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - Di bagian **Pengenalan suara online**, alihkan pengaturan ke **Aktif**.
 - Periksa untuk memastikan Cortana memiliki izin untuk mengakses mikrofon Anda. 
-    - Buka mulai, lalu klik **[pengaturan > privasi > mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - Di bawah **pilih aplikasi mana yang dapat mengakses mikrofon Anda**, Cari **Cortana** dalam daftar aplikasi dan layanan dan pastikan pengalih beralih ke **aktif**.
+    - Buka menu Mulai, lalu klik **[Pengaturan > Privasi > Mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - Di bagian **Pilih aplikasi mana yang dapat mengakses mikrofon Anda**, cari **Cortana** dalam daftar aplikasi dan layanan, lalu pastikan tombol dialihkan ke **Aktif**.
 
-Selain itu, Harap juga pastikan bahwa speaker atau mikrofon Anda dan bekerja untuk berbicara dengan Cortana.
+Selain itu, pastikan juga bahwa speaker atau mikrofon Anda sudah siap dan berfungsi untuk berbicara dengan Cortana.

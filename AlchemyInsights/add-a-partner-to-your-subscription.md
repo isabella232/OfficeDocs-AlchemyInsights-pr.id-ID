@@ -2,21 +2,22 @@
 title: Menambahkan mitra ke langganan Anda
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 347e2a88cf00e41f1db4dc505214e649cfe6889d
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
-ms.translationtype: HT
+ms.openlocfilehash: 22f22016e266d0b99efe8fa225a19f689f4a71fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822746"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Menambahkan mitra ke langganan Anda
 
@@ -24,7 +25,7 @@ Mitra dapat ditambahkan pada [waktu pembelian langganan](https://docs.microsoft.
 
 **Menambahkan mitra ke langganan yang sudah ada**
 
-1. Di pusat admin, buka **Tagihan > [Produk & layanan ](https://go.microsoft.com/fwlink/p/?linkid=842054)**. 
+1. Di pusat admin, buka **Tagihan > [Produk & layanan](https://go.microsoft.com/fwlink/p/?linkid=842054)**. 
 2. Jika memiliki beberapa langganan, pilih nama langganan yang ingin Anda edit. 
 3. Di halaman langganan, pilih tab **Mitra**, lalu ketik **ID Jaringan Mitra** untuk mitra yang ditambahkan. Anda dapat memperoleh ID Mitra Microsoft dari mitra tersebut. 
 
