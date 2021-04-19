@@ -1,8 +1,8 @@
 ---
-title: Membatalkan langganan
+title: Batalkan langganan
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,27 +14,27 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088764"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819623"
 ---
-# <a name="cancel-subscription"></a>Membatalkan langganan
+# <a name="cancel-subscription"></a>Batalkan langganan
 
-Langganan yang telah Anda pilih di halaman dasar telah dibatalkan. Apakah Anda yakin ini adalah langganan yang tepat yang ingin Anda batalkan?
+Langganan yang telah Anda pilih di halaman dasar telah dibatalkan. Anda yakin langganan ini merupakan langganan yang tepat yang ingin dibatalkan?
 
-Anda dapat membatalkan langganan Azure di portal Azure hanya jika Anda adalah pemilik langganan atau administrator akun. Ikuti langkah-langkah di bawah ini.
+Anda dapat membatalkan langganan Azure di portal Azure hanya jika Anda adalah pemilik langganan atau Administrator Akun. Ikuti langkah-langkah di bawah ini.
 
-1. Pilih langganan yang ingin Anda batalkan dari [halaman langganan di Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Pilih **gambaran umum**, lalu pilih **Batalkan langganan**.
+1. Pilih langganan yang ingin Anda batalkan dari [Halaman langganan di portal Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Pilih **Gambaran umum**, lalu pilih **Batalkan langganan**.
 
-**Apa yang terjadi setelah saya membatalkan langganan?**
+**Apa yang terjadi setelah saya membatalkan layanan?**
 
-Setelah Anda membatalkan, tagihan dihentikan dengan segera. Namun, diperlukan waktu hingga 10 menit agar pembatalan ditampilkan di portal. Jika Anda membatalkan di tengah periode tagihan, kami mengirimkan faktur akhir pada tanggal faktur biasa Anda setelah periode berakhir.
+Setelah membatalkan, tagihan akan segera dihentikan. Namun, perlu waktu hingga 10 menit untuk menampilkan pembatalan di portal. Jika Anda membatalkan di tengah periode penagihan, kami akan mengirimkan faktur akhir pada tanggal faktur biasa Anda setelah periode berakhir.
 
-Setelah Anda membatalkan, Layanan Anda dinonaktifkan. Itu berarti mesin virtual Anda dialokasikan, alamat IP sementara dibebaskan, dan penyimpanan bersifat baca-saja.
+Setelah membatalkan, layanan Anda dinonaktifkan. Artinya, mesin virtual Anda telah dialokasikan, alamat IP sementara akan di bebaskan, dan penyimpanan bersifat baca-saja.
 
-Setelah langganan Anda dibatalkan, Microsoft menunggu 30-90 hari sebelum menghapus data Anda secara permanen jika Anda perlu mengaksesnya atau Anda berubah pikiran. Kami tidak mengenakan biaya untuk mempertahankan data. Untuk mempelajari selengkapnya, lihat [pusat kepercayaan Microsoft-bagaimana kami mengelola data Anda](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Setelah langganan dibatalkan, Microsoft akan menunggu 30-90 hari sebelum menghapus data secara permanen jika Anda perlu mengaksesnya atau berubah pikiran. Kami tidak menagih Anda untuk menyimpan data. Untuk mempelajari selengkapnya, lihat [Pusat Kepercayaan Microsoft - Cara kami mengelola data Anda](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

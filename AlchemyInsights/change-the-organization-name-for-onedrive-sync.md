@@ -2,29 +2,30 @@
 title: Mengubah nama organisasi untuk klien sinkronisasi OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708692"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818327"
 ---
 # <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Mengubah nama organisasi untuk klien sinkronisasi OneDrive
 
-OneDrive menggunakan nama organisasi yang ditetapkan oleh administrator penghuni.  Anda dapat [mengubah alamat organisasi, kontak teknis, dan lainnya](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Setelah perubahan yang dilakukan untuk penghuni, OneDrive sinkronisasi klien tidak akan mencerminkan nama baru hingga pengguna Batalkan tautan dan relink akun OneDrive mereka.
+OneDrive menggunakan nama organisasi yang ditetapkan oleh administrator penyewa.  Anda dapat [mengubah alamat, kontak teknis organisasi, dan lainnya](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Setelah perubahan tersebut diterapkan untuk penyewa, klien sinkronisasi OneDrive tidak akan menampilkan nama baru hingga pengguna menghapus tautan dan menautkan ulang akun OneDrive mereka.
 
-Untuk membatalkan tautan akun:
+Untuk menghapus tautan akun:
 
-1. Pilih ikon awan OneDrive biru di ujung kanan bilah tugas, lalu pilih **lainnya > setelan > akun**.
-2. Cari akun yang ingin Anda batalkan tautannya dan pilih **Batalkan tautan PC ini**, lalu **Batalkan tautan akun**.
+1. Pilih ikon awan OneDrive berwarna biru di ujung kanan taskbar, lalu pilih  **Lainnya > Pengaturan > Akun**.
+2. Temukan akun yang ingin Anda hapus tautannya dan pilih **Hapus tautan PC ini**, lalu  **Hapus tautan akun**.
 
-Untuk menautkan ulang akun, pilih **Tambahkan akun** dari tab **akun** di setelan, dan masuk kembali ke OneDrive.
+Untuk menautkan kembali akun, pilih **Tambahkan akun** dari tab  **Akun** di Pengaturan, lalu masuk kembali ke OneDrive.

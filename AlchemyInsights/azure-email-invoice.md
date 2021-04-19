@@ -2,7 +2,7 @@
 title: Faktur email Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922054"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820793"
 ---
 # <a name="azure-email-invoicing"></a>Faktur email Azure
 
-Anda harus memiliki peran admin akun pada langganan atau paket dukungan untuk memilih untuk menerima faktur melalui email. Faktur email hanya tersedia untuk paket langganan dan dukungan, bukan untuk reservasi atau pembelian Azure Marketplace. Setelah Anda memilih-in Anda bisa menambahkan penerima tambahan, yang menerima faktur melalui email juga. Ikuti langkah-langkah ini.
+Anda harus memiliki peran admin akun di langganan atau paket dukungan untuk menerima faktur melalui email. Faktur email hanya tersedia untuk langganan dan paket dukungan, bukan untuk reservasi atau pembelian di Marketplace Azure. Setelah memilih untuk ikut serta, Anda dapat menambahkan penerima tambahan, yang juga akan menerima faktur melalui email. Ikuti langkah-langkah ini.
 
-1. Masuk ke [Azure portal](https://portal.azure.com/).
-2. Cari **biaya manajemen + tagihan**.
-3. Pilih **faktur** dari sisi kiri.
-4. Pilih langganan langganan atau paket dukungan Anda, lalu pilih **terima faktur melalui email**.
-5. Klik **faktur email** dan setujui ketentuan.
-6. Faktur dikirim ke email komunikasi pilihan Anda. Pilih **Perbarui profil** untuk memperbarui email.  
+1. Masuk ke [portal Azure](https://portal.azure.com/).
+2. Cari **Manajemen Biaya + Tagihan**.
+3. Pilih **Faktur** dari sisi kiri.
+4. Pilih langganan Azure atau langganan paket dukungan Anda lalu pilih **Terima faktur melalui email**.
+5. Klik **Kirim faktur melalui email** dan setujui syaratnya.
+6. Faktur akan dikirim ke email komunikasi pilihan Anda. Pilih **Perbarui profil** untuk memperbarui email.  
 
-    Anda mungkin ingin membagikan faktur untuk paket langganan dan dukungan Anda setiap bulan dengan tim akuntansi Anda atau mengirimkannya ke salah satu alamat email Anda yang lain.  
+    Anda mungkin ingin berbagi faktur untuk langganan dan paket dukungan setiap bulan dengan tim akuntansi Anda atau mengirimkannya ke salah satu alamat email Anda yang lain.  
 
-7. Ikuti langkah-langkah di atas untuk mengaktifkan faktur terlebih dahulu melalui email, lalu pilih  **Konfigurasikan Penerima.**
+7. Ikuti langkah-langkah di atas untuk mengaktifkan faktur melalui email terlebih dahulu, lalu pilih **Konfigurasi penerima.**
 8. Masukkan alamat email, lalu pilih **Tambahkan penerima**. Anda dapat menambahkan beberapa alamat email.
-9. Setelah menambahkan semua alamat email, pilih **selesai** dari bagian bawah layar.
+9. Setelah Anda menambahkan semua alamat email, pilih **Selesai** dari bagian bawah layar.
