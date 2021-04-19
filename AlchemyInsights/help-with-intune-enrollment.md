@@ -1,36 +1,37 @@
 ---
-title: Bantuan dengan Intune pendaftaran
+title: Bantuan dengan Pendaftaran Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 184612df677770413c04ff6d62468373e8e17e4a
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569153"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811567"
 ---
-# <a name="help-with-intune-enrollment"></a>Bantuan dengan Intune pendaftaran
+# <a name="help-with-intune-enrollment"></a>Bantuan dengan Pendaftaran Intune
 
 
-- [Pelajari tentang pendaftaran perangkat dengan Intune](https://docs.microsoft.com/intune/device-enrollment)
+- [Mempelajari tentang pendaftaran perangkat dengan Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Mengatur pendaftaran perangkat iOS dengan Intune](https://docs.microsoft.com/intune/ios-enroll)
+- [Menyiapkan Pendaftaran perangkat iOS dengan Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Menyiapkan pendaftaran perangkat Android dengan Intune](https://docs.microsoft.com/intune/android-enroll)
+- [Menyiapkan Pendaftaran perangkat Android dengan Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Mengatur Windows perangkat pendaftaran dengan Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [Menyiapkan Pendaftaran perangkat Windows dengan Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Pemecahan masalah pendaftaran perangkat**
+**Memecahkan masalah pendaftaran perangkat**
 
-1. Gunakan Intune pemecahan masalah portal untuk mendiagnosis dan menyelesaikan umum kegagalan pendaftaran. Tinjau dokumen [ini](https://docs.microsoft.com/intune/help-desk-operators) untuk detail selengkapnya.
+1. Gunakan Portal Pemecahan Masalah Intune untuk mendiagnosis dan mengatasi kegagalan pendaftaran umum. Tinjau dokumen [ini](https://docs.microsoft.com/intune/help-desk-operators) untuk detail selengkapnya.
 
-2. Tinjau dokumen ini untuk daftar kesalahan umum yang mencegah pendaftaran dan resolusi untuk masing-masing: [panduan pemecahan](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) masalah dan [pemecahan masalah dokumen](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Tinjau dokumen ini untuk daftar kesalahan umum yang mencegah pendaftaran dan resolusi untuk masing-masing: [Panduan pemecahan masalah](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) dan [Dokumen pemecahan masalah](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

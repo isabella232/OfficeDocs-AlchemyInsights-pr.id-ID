@@ -2,25 +2,26 @@
 title: Pembaca global
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 556f766ffdb2a869e809cc03fefa06357703564d
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44279041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811855"
 ---
 # <a name="global-reader"></a>Pembaca global
 
-Pengguna dalam peran ini dapat membaca pengaturan dan informasi administratif di Microsoft 365 Layanan tetapi tidak dapat mengambil tindakan manajemen. Pembaca global adalah mitra hanya-baca untuk global administrator.
-Pusat admin OneDrive tidak mendukung peran pembaca global.
+Pengguna dalam peran ini dapat membaca pengaturan dan informasi administratif di seluruh layanan Microsoft 365 tetapi tidak dapat melakukan tindakan manajemen. Pembaca global adalah mitra hanya-baca untuk Administrator global.
+Pusat admin OneDrive tidak mendukung peran Pembaca global.
 
-Untuk mempelajari lebih lanjut tentang pembaca global dan keterbatasan saat ini, lihat [global Reader](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).
+Untuk mempelajari selengkapnya tentang pembaca Global dan batasannya saat ini, lihat [Pembaca Global](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

@@ -1,32 +1,33 @@
 ---
-title: Global dan SharePoint admin
+title: Admin Global dan SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 91abc97be5d616392f8d04b3641af3c9dd8bfd74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716422"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811891"
 ---
-# <a name="global-and-sharepoint-admin"></a>Global dan SharePoint admin
+# <a name="global-and-sharepoint-admin"></a>Admin Global dan SharePoint
 
-Global dan SharePoint admin harus ditetapkan lisensi SharePoint. Akun baru dibuat hanya ditetapkan dengan SharePoint lisensi atau peran admin mungkin mengalami masalah mengakses SharePoint, seperti "Akses ditolak" atau "pengguna tidak ditemukan." Harap berikan setidaknya 24 jam agar sinkronisasi dapat diselesaikan di seluruh sistem kami. Kami memahami bahwa 24 jam mungkin tampak seperti waktu yang lama. Dalam banyak kasus, kami telah bekerja pada solusi.
+Admin SharePoint dan global perlu diberi lisensi SharePoint. Akun yang baru dibuat yang baru saja diberi Lisensi SharePoint atau peran Admin mungkin mengalami masalah dalam mengakses SharePoint, seperti "akses ditolak" atau "pengguna tidak ditemukan". Beri waktu setidaknya 24 jam untuk menyelesaikan sinkronisasi di seluruh sistem kami. Kami memahami bahwa waktu 24 jam mungkin terasa lama. Dalam banyak kasus, kami sudah mencari solusinya.
 
-Pengguna ditetapkan peran admin global atau SharePoint memiliki akses ke Pusat admin SharePoint dan dapat membuat dan mengelola situs (sebelumnya disebut "koleksi situs"), menetapkan admin situs, mengelola pengaturan berbagi, dan banyak lagi. Mereka tidak memiliki akses otomatis ke semua situs dan OneDrive setiap pengguna, tetapi mereka dapat memberikan diri mereka akses ke situs atau OneDrive. Mereka juga dapat menggunakan Microsoft PowerShell untuk mengelola SharePoint dan OneDrive.
+Pengguna yang diberi peran admin Global atau SharePoint memiliki akses ke pusat admin SharePoint dan bisa membuat dan mengelola situs (sebelumnya disebut "kumpulan situs"), menunjuk admin situs, mengelola pengaturan berbagi, dan banyak lagi. Mereka tidak memiliki akses otomatis ke semua situs dan setiap OneDrive pengguna, tetapi mereka dapat memberikan akses sendiri ke situs atau OneDrive apa pun. Mereka juga dapat menggunakan Microsoft PowerShell untuk mengelola SharePoint dan OneDrive.
 
-Untuk mempelajari selengkapnya, lihat [tentang peran admin SharePoint di Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
+Untuk mempelajari selengkapnya, lihat [Tentang peran admin SharePoint di Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
 Ada beberapa alasan yang membuat Microsoft SharePoint atau Microsoft OneDrive tidak dapat diakses. Jika tidak dapat mengakses SharePoint Online, gunakan panduan berikut untuk memecahkan masalah ini.
 
 - [Tidak dapat mengakses SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
-- [Akses ditolak untuk akun pengguna PIM-Managed di SharePoint atau pusat admin OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
+- [Akses ditolak untuk akun pengguna yang dikelola PIM di SharePoint atau pusat admin OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)

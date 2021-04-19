@@ -2,28 +2,29 @@
 title: Dapatkan dukungan untuk Windows atau Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44493267"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812143"
 ---
 # <a name="get-support-for-windows-or-azure"></a>Dapatkan dukungan untuk Windows atau Azure
 
-Untuk Windows atau Azure, Microsoft menyediakan berbagai rencana untuk membantu Anda mendapatkan dukungan bisnis bantuan yang Anda butuhkan, mulai dari dukungan premium yang tersedia siang dan malam, hingga opsi bayar per insiden. Jika organisasi Anda tidak memiliki paket dukungan berbayar, pilih opsi di bawah untuk mendapatkan info selengkapnya.
+Untuk Windows atau Azure, Microsoft menyediakan berbagai paket untuk membantu mendapatkan dukungan bisnis dengan bantuan yang Anda perlukan, mulai dari dukungan premium yang tersedia siang dan malam, hingga opsi bayar per insiden. Jika organisasi Anda tidak memiliki paket dukungan berbayar, pilih opsi di bawah ini untuk mendapatkan informasi selengkapnya.
 
-- **Dukungan Microsoft Unified** -Microsoft Unified support secara mendasar mengubah pengalaman dukungan perusahaan, menyediakan cakupan seluruh organisasi untuk semua produk dan layanan Microsoft, kemampuan baru yang luas untuk memberdayakan para profesional dan pengembang TI, dan pendekatan berbasis hasil untuk memberikan nilai dukungan yang lebih besar seiring pertumbuhan organisasi Anda. Pelajari lebih lanjut di [situs web dukungan terpadu](https://aka.ms/unified-support).
-- **Dukungan profesional Microsoft (bayar per insiden)** -jika Anda memerlukan dukungan teknis segera untuk bisnis Anda, dukungan profesional tersedia sebagai single pay-per-insiden (PPI) atau 5-Pack insiden. Ahli Microsoft membantu Anda memecahkan masalah tertentu, pesan galat, atau fungsionalitas yang tidak bekerja seperti yang diharapkan. Untuk mempelajari lebih lanjut dan membeli membayar per insiden dukungan, [membuat permintaan dukungan baru](https://support.microsoft.com/supportforbusiness/productselection).
-- **Dukungan Azure** -dukungan penagihan dan langganan disertakan dengan langganan Microsoft Azure, yang dapat Anda kirimkan melalui [portal admin Microsoft Azure](https://portal.azure.com/). Untuk dukungan teknis, Anda dapat membeli [rencana dukungan Microsoft Azure](https://azure.microsoft.com/support/plans/) melalui program lisensi Borongan atau langsung dari Microsoft.
+- **Microsoft Unified Support** - Microsoft Unified Support secara mendasar mengubah pengalaman dukungan perusahaan, menyediakan cakupan tingkat organisasi untuk semua produk dan layanan Microsoft Anda, kemampuan baru yang luas untuk memberdayakan profesional dan pengembang TI, dan pendekatan berbasis hasil untuk memberikan nilai dukungan yang lebih besar saat organisasi Anda berkembang. Cari tahu selengkapnya di [situs web Unified Support](https://aka.ms/unified-support).
+- **Dukungan Professional Microsoft (bayar per insiden)** - Jika Anda membutuhkan dukungan teknis segera untuk bisnis Anda, Dukungan Profesional tersedia sebagai satu paket insiden bayar per insiden (PPI) atau 5 paket. Pakar Microsoft membantu Anda memecahkan masalah tertentu, pesan kesalahan, atau fungsionalitas yang tidak berfungsi seperti yang diharapkan. Untuk mempelajari lebih lanjut dan membeli dukungan bayar per insiden, [buat permintaan dukungan baru](https://support.microsoft.com/supportforbusiness/productselection).
+- **Dukungan Azure** - Dukungan penagihan dan langganan disertakan dengan langganan Microsoft Azure, yang dapat dikirim melalui [portal admin Microsoft Azure](https://portal.azure.com/). Untuk dukungan teknis, Anda dapat membeli [paket dukungan Microsoft Azure](https://azure.microsoft.com/support/plans/) melalui program pelisensian volume atau langsung dari Microsoft.
 
-Jika masalah Anda berkaitan dengan Microsoft 365, nyatakan kembali permintaan Anda menggunakan nama produk tertentu dan fitur.
+Jika masalah Anda terkait dengan Microsoft 365, nyatakan kembali kueri Anda menggunakan nama dan fitur produk tertentu.
