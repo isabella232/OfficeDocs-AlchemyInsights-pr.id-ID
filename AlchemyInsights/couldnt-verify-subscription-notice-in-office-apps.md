@@ -1,37 +1,38 @@
 ---
-title: Pemberitahuan tidak dapat memverifikasi langganan di aplikasi Office
+title: Pemberitahuan tidak dapat memverifikasi langganan di aplikasi Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 7a1823ed1080f0dc7adcf19b40b8e28256415ba5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788777"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816455"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a><span data-ttu-id="32b35-102">Pemberitahuan "Tidak dapat memverifikasi langganan” di aplikasi Office</span><span class="sxs-lookup"><span data-stu-id="32b35-102">"Couldn't verify subscription" notice in Office apps</span></span>
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a><span data-ttu-id="3246e-102">Pemberitahuan "Tidak dapat memverifikasi langganan” di aplikasi Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="3246e-102">"Couldn't verify subscription" notice in Microsoft 365 apps</span></span>
 
-- <span data-ttu-id="32b35-103">Verifikasi bahwa [status langganan](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) Anda valid, pengguna yang terpengaruh memiliki [lisensi valid yang ditetapkan](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), dan tersambung ke Internet.</span><span class="sxs-lookup"><span data-stu-id="32b35-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid, the affected user has [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), and is connected to the Internet.</span></span>
+- <span data-ttu-id="3246e-103">Verifikasi bahwa [status langganan](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) Anda valid, pengguna yang terpengaruh memiliki [lisensi valid yang ditetapkan](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), dan tersambung ke Internet.</span><span class="sxs-lookup"><span data-stu-id="3246e-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid, the affected user has [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA), and is connected to the Internet.</span></span>
 
-- <span data-ttu-id="32b35-104">Periksa [ halaman Layanan Kesehatan Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah umum pada layanan.</span><span class="sxs-lookup"><span data-stu-id="32b35-104">Check the [Microsoft 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
+- <span data-ttu-id="3246e-104">Periksa [ halaman Layanan Kesehatan Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health) untuk melihat apakah ada masalah umum pada layanan.</span><span class="sxs-lookup"><span data-stu-id="3246e-104">Check the [Microsoft 365 Service Health page](https://docs.microsoft.com/office365/enterprise/view-service-health) to see if there are any known problems with the service.</span></span>
 
-- <span data-ttu-id="32b35-105">[Periksa firewall Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Periksa perangkat lunak antivirus Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Periksa pengaturan proksi Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) di mesin yang terpengaruh.</span><span class="sxs-lookup"><span data-stu-id="32b35-105">[Check your firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Check your antivirus software](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Check your proxy settings](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) on the affected machine.</span></span>
+- <span data-ttu-id="3246e-105">[Periksa firewall Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Periksa perangkat lunak antivirus Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Periksa pengaturan proksi Anda](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) di mesin yang terpengaruh.</span><span class="sxs-lookup"><span data-stu-id="3246e-105">[Check your firewall](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkfirewall), [Check your antivirus software](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkav), [Check your proxy settings](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checkproxy) on the affected machine.</span></span>
 
-- <span data-ttu-id="32b35-106">Jalankan [ Pemecah Masalah Aktivasi ](https://aka.ms/SARA-OfficeActivation-Alchemy) lalu hidupkan ulang komputer.</span><span class="sxs-lookup"><span data-stu-id="32b35-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- <span data-ttu-id="3246e-106">Jalankan [ Pemecah Masalah Aktivasi ](https://aka.ms/SARA-OfficeActivation-Alchemy) lalu hidupkan ulang komputer.</span><span class="sxs-lookup"><span data-stu-id="3246e-106">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
 
-- <span data-ttu-id="32b35-107">Pada mesin yang bermasalah, [ Atur ulang status aktivasi Office ](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span><span class="sxs-lookup"><span data-stu-id="32b35-107">On the affected machine, [Reset Office activation state](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span></span>
+- <span data-ttu-id="3246e-107">Pada mesin yang bermasalah, [ Atur ulang status aktivasi Office ](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="3246e-107">On the affected machine, [Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-<span data-ttu-id="32b35-108">Untuk instruksi detailnya, lihat:</span><span class="sxs-lookup"><span data-stu-id="32b35-108">For detailed instructions, see:</span></span> 
+<span data-ttu-id="3246e-108">Untuk instruksi detailnya, lihat:</span><span class="sxs-lookup"><span data-stu-id="3246e-108">For detailed instructions, see:</span></span> 
 
-[<span data-ttu-id="32b35-109">Pemberitahuan langganan muncul ketika saya membuka aplikasi Office 365</span><span class="sxs-lookup"><span data-stu-id="32b35-109">A subscription notice appears when I open an Office 365 application</span></span>](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[<span data-ttu-id="3246e-109">Pemberitahuan langganan muncul ketika saya membuka aplikasi Office 365</span><span class="sxs-lookup"><span data-stu-id="3246e-109">A subscription notice appears when I open an Office 365 application</span></span>](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
-[<span data-ttu-id="32b35-110">Pemecahan Masalah Aktivasi Office </span><span class="sxs-lookup"><span data-stu-id="32b35-110">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+[<span data-ttu-id="3246e-110">Pemecahan masalah aktivasi Office </span><span class="sxs-lookup"><span data-stu-id="3246e-110">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
