@@ -1,29 +1,31 @@
 ---
-title: Mengganti situs akar SharePoint
+title: Ganti Situs Akar SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493292"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826778"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>Mengganti situs akar SharePoint
-Jika Anda mencari untuk memodernisasi situs akar Anda dengan situs yang sudah ada atau hanya ingin memiliki situs yang berbeda di tingkat situs akar, Anda dapat memilih untuk mengganti (swap) situs.
+# <a name="replace-the-sharepoint-root-site"></a>Ganti Situs Akar SharePoint
+If you're looking to modernize your root site with an existing site or simply want to have a different site at the root site level, you can choose to replace (swap) sites.
 
-1. Menggunakan pusat admin SharePoint baru, buka [situs aktif](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. Menggunakan pusat admin SharePoint yang baru, masuk ke [Situs Aktif](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. Pilih situs akar yang ingin Anda ganti.
-3. Pilih **ganti situs**.
-4. Sediakan URL situs yang ada untuk diganti. **Catatan:** Anda akan diberitahu jika situs dapat digunakan sebagai pengganti situs akar.
+3. Pilih **Ganti situs.**
+4. Berikan URL situs yang sudah ada untuk menggantikannya. **Catatan:** You'll be informed if the site can be used as a replacement root site.
 
-Untuk info lebih lanjut seputar persyaratan, lihat [memodernisasi situs akar Anda](https://docs.microsoft.com/sharepoint/modern-root-site).
+For more info around requirements, see [Modernize your root site](https://docs.microsoft.com/sharepoint/modern-root-site).
+
