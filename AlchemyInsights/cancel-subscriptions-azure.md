@@ -3,7 +3,7 @@ title: Batalkan langganan di Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819587"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936157"
 ---
 # <a name="cancel-subscription"></a>Batalkan Langganan
 
-Hanya Administrator atau Pemilik Akun yang berhak berlangganan. Anda dapat membatalkan langganan Azure di portal Azure jika tidak lagi memerlukan langganan tersebut. Ikuti langkah-langkah di bawah ini.
+Jika tidak lagi memerlukan langganan Azure, Anda dapat membatalkannya di portal Azure. Langganan Azure hanya dapat dibatalkan oleh Administrator Akun atau oleh pengguna dengan hak Pemilik pada langganan.
 
 1. Pilih langganan Anda dari [Halaman langganan di portal Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Pilih langganan yang ingin Anda batalkan.
