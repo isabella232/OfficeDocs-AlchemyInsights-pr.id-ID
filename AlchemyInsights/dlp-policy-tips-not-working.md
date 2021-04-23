@@ -1,5 +1,5 @@
 ---
-title: Tips kebijakan DLP tidak berfungsi
+title: Tips Kebijakan DLP tidak berfungsi
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679588"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952195"
 ---
-# <a name="dlp-policy-tip-issues"></a>Masalah Tips DLP kebijakan
+# <a name="dlp-policy-tip-issues"></a>Masalah Tips Kebijakan DLP
 
 **Penting**: Selama masa-masa yang berat ini, kami mengambil langkah untuk memastikan bahwa SharePoint Online dan layanan OneDrive tetap memiliki ketersediaan yang tinggi. Silakan kunjungi [Penyesuaian Fitur Sementara SharePoint Online](https://aka.ms/ODSPAdjustments) untuk informasi selengkapnya.
 
-**Tips kebijakan DLP**
+Untuk mengonfigurasi tips kebijakan pada kebijakan DLP Anda di pusat Kepatuhan & keamanan dalam mode penerapan penuh, lakukan hal berikut ini:
 
-Saat menggunakan **kebijakan DLP**, pengguna bisa diberi tahu tentang pelanggaran kebijakan dengan **Tips kebijakan**. Admin dapat mengonfigurasi Tips kebijakan untuk ditampilkan saat menguji kebijakan DLP atau saat kebijakan berada dalam mode penerapan penuh.
-  
-Untuk mengonfigurasi Tips kebijakan pada kebijakan DLP Anda di pusat keamanan dan kepatuhan dalam mode penerapan penuh, lakukan hal berikut:
-  
-- Pastikan Tips kebijakan telah **diaktifkan** pada aturan DLP menggunakan langkah-langkah [di sini](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
+- Pastikan tips kebijakan telah **diaktifkan** pada aturan DLP. Untuk langkah-langkah, [lihat Mengirim pemberitahuan email dan memperlihatkan tips kebijakan untuk kebijakan DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Pastikan **konten Anda cocok** dengan yang **diperlukan** untuk memicu aturan yang diuraikan dalam artikel ini di [sini](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+Pastikan bahwa konten Anda cocok dengan apa yang diperlukan untuk memicu aturan yang diuraikan dalam [definisi entitas tipe informasi sensitif.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- Tips kebijakan ditampilkan di OWA dan Outlook. Namun, saat menggunakan **Outlook 2013 atau yang lebih baru**, Tips kebijakan hanya ditampilkan di bawah kondisi tertentu. Ketentuan ini tercantum di sini: [kondisi yang didukung untuk Outlook 2013 atau yang lebih baru untuk menampilkan Tips kebijakan](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Tips kebijakan ditampilkan di OWA dan Outlook. Namun, ketika menggunakan Outlook 2013 atau yang lebih baru, tips kebijakan hanya ditampilkan dalam kondisi tertentu. Untuk daftar kondisi tertentu, lihat [Kondisi yang didukung untuk Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)atau yang lebih baru untuk menampilkan Tips Kebijakan.
 
-Untuk informasi tambahan tentang Tips DLP kebijakan, lihat: [Perlihatkan Tips kebijakan untuk kebijakan DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-  
+Untuk informasi tentang tips Kebijakan DLP, lihat [Referensi Tips Kebijakan DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) dan [Matriks Dukungan untuk tips Kebijakan DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).

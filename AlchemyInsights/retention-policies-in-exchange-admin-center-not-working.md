@@ -1,5 +1,5 @@
 ---
-title: Kebijakan Penyimpanan di pusat admin Exchange tidak berfungsi
+title: Kebijakan Penyimpanan di Pusat Admin Exchange tidak berfungsi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740513"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952231"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Kebijakan Penyimpanan di pusat admin Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Kebijakan Penyimpanan di Pusat Admin Exchange
 
-Jika Anda ingin kami menjalankan pemeriksaan otomatis untuk pengaturan yang disebutkan di bawah ini, pilih tombol kembali <--di bagian atas Halaman ini, lalu masukkan alamat email pengguna yang mengalami masalah dengan kebijakan penyimpanan.
+Jika Anda ingin kami menjalankan pemeriksaan otomatis untuk pengaturan yang disebutkan di bawah ini, pilih tombol kembali <-- di bagian atas halaman ini, lalu masukkan alamat email pengguna yang mengalami masalah dengan kebijakan penyimpanan.
 
- **Masalah:** Kebijakan penyimpanan yang baru dibuat atau diperbarui di pusat admin Exchange tidak berlaku untuk kotak surat atau item tidak dipindahkan ke kotak surat Arsip atau dihapus. 
-  
- **Akar penyebab:**
-  
-- Ini mungkin karena **bantuan folder yang dikelola** tidak memproses kotak surat pengguna. Bantuan folder yang dikelola mencoba memproses setiap kotak surat di organisasi berbasis awan Anda satu kali dalam tujuh hari. Jika Anda mengubah tag penyimpanan atau menerapkan kebijakan penyimpanan yang berbeda ke kotak surat, Anda bisa menunggu hingga folder yang dikelola membantu memproses kotak surat, atau Anda bisa menjalankan cmdlet Mulai-ManagedFolderAssistant untuk memulai bantuan folder yang dikelola untuk memproses kotak surat tertentu. Menjalankan cmdlet ini berguna untuk menguji atau memecahkan masalah pengaturan tag penyimpanan atau kebijakan penyimpanan. Untuk informasi selengkapnya, kunjungi [Jalankan asisten folder yang dikelola](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **Solusi:** Jalankan perintah berikut ini untuk memulai bantuan folder yang dikelola untuk kotak surat tertentu:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+Jika Anda mengalami masalah dengan kebijakan penyimpanan di Pusat Admin Exchange yang tidak berlaku pada kotak surat atau item yang tidak berpindah ke kotak surat arsip, periksa hal berikut ini:
 
-- Ini juga dapat terjadi jika **Retensionhold** telah **diaktifkan** pada kotak surat. Jika kotak surat telah ditempatkan pada penahanan ulang, kebijakan penyimpanan pada kotak surat tidak akan diproses selama waktu tersebut. Untuk informasi selengkapnya tentang pengaturan Retensionhold Lihat: penangguhan [penyimpanan kotak surat](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Solusi**
-    
-  - Periksa status pengaturan Retensionhold pada kotak surat tertentu di [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**Penyebab Akar:**
 
-  - Jalankan perintah berikut ini untuk **menonaktifkan** retensionhold pada kotak surat tertentu:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **Asisten Folder** Terkelola belum memproses kotak surat pengguna. Asisten Folder Terkelola mencoba memproses setiap kotak surat di organisasi berbasis awan sekali setiap tujuh hari.
 
-  - Sekarang, jalankan kembali asisten folder yang dikelola:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **Solusi:** Jalankan Asisten Folder yang Dikelola.
 
- **Catatan:** Jika kotak surat lebih kecil dari 10 MB, Asisten folder yang dikelola tidak akan memproses kotak surat secara otomatis.
+- **RetentionHold** telah **diaktifkan** pada kotak surat. Jika kotak surat telah ditempatkan di Tempat Penyimpanan, kebijakan penyimpanan pada kotak surat tidak akan diproses selama waktu itu.
+
+  **Solusi:** Periksa status pengaturan dan pembaruan Penyimpanan jika diperlukan. Untuk detailnya, lihat [Penyimpanan Kotak Surat.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold)
  
-Untuk informasi selengkapnya tentang kebijakan penyimpanan di pusat admin Exchange, lihat:
+**Catatan:** Jika kotak surat lebih kecil dari 10 MB, Asisten Folder Yang Dikelola tidak akan memproses kotak surat secara otomatis.
+ 
+Untuk informasi selengkapnya tentang kebijakan penyimpanan di Pusat Admin Exchange, lihat:
+
 - [Tag penyimpanan dan kebijakan penyimpanan](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Menerapkan kebijakan penyimpanan ke kotak surat](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Menambahkan atau menghapus tag penyimpanan](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Cara mengidentifikasi tipe penangguhan yang ditempatkan pada kotak surat](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [Menerapkan kebijakan penyimpanan ke kotak surat](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) atau Menambahkan atau menghapus tag [penyimpanan](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [Cara mengidentifikasi tipe penyimpanan yang ditempatkan di kotak surat](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
