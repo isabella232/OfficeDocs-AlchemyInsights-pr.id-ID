@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826166"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059818"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Memecahkan masalah impor PST
 
-- Jika Anda mengimpor di klien Outlook sendiri, silakan lihat [Memperbaiki masalah mengimpor file .pst Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- Jika Anda mengimpor dalam klien Outlook itu sendiri, lihat [Memperbaiki masalah pengi impor file .pst Outlook.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
-- Jika Anda menggunakan Layanan Impor dan mengalami kesulitan, harap diingat bahwa setiap file PST yang diunggah ke lokasi Penyimpanan Azure tidak boleh melebihi 20 GB. File PST yang lebih besar dari 20 GB dapat memengaruhi kinerja proses impor PST.
+- Jika menggunakan Layanan Impor dan terhenti, perhatikan bahwa setiap file PST yang Anda unggah ke lokasi Penyimpanan Azure tidak boleh lebih besar dari 20GB. File PST yang berukuran lebih besar dari 20GB dapat memengaruhi kinerja proses impor PST. Untuk informasi selengkapnya memecahkan masalah pekerjaan terjebak, [lihat Masalah yang memengaruhi pekerjaan impor PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
-- Jika Anda ingin memverifikasi status pekerjaan impor tertentu, Anda dapat menggunakan [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- Jika Anda ingin memverifikasi status pekerjaan Impor tertentu, gunakan [Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- Untuk detail selengkapnya tentang layanan impor, silakan lihat [Gambaran umum tentang mengimpor file PST organisasi](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- Untuk detail lengkap tentang layanan impor, [lihat Gambaran umum pengi impor file PST organisasi Anda.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
