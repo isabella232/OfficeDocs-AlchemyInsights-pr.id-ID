@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125207"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233537"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Menyebarkan add-in untuk Aplikasi Microsoft 365
 
 Penyebaran Terpusat adalah cara yang disarankan untuk menyebarkan add-in Office kepada pengguna dan grup dalam organisasi Anda. Untuk menyebarkan add-in, ikuti langkah-langkah di bawah ini:
 
-**Catatan:** Untuk menginstal add-in bagi Office pengguna individu, lihat Menampilkan, mengelola, dan menginstal [add-in Office tertentu.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Selain itu, pastikan akuisisi individual Office add-in Bursa telah diaktifkan. 
+**Catatan:** Untuk menginstal add-in bagi Office pengguna individu, lihat Menampilkan, mengelola, dan menginstal [add-in Office tertentu.](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d) Selain itu, pastikan akuisisi individual Office add-in Bursa telah diaktifkan. Untuk detailnya, [lihat Mencegah pengunduhan add-in dengan](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)menonaktifkan Bursa Office di semua klien (Kecuali Outlook) .
 
 1. Pastikan lingkungan Anda memenuhi persyaratan penyebaran add-in menggunakan Penyebaran Terpusat. Untuk detailnya, lihat [Persyaratan.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements)
 2. Masuk ke **Pengaturan**  >  **Dapatkan Aplikasi**  >  **Terintegrasi** di Microsoft 365 admin pusat admin untuk menyebarkan add-in. 

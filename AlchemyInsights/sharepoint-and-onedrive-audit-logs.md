@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662211"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233609"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Log audit SharePoint dan OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint audit OneDrive dan
 
-## <a name="sharepoint-classic-audit-logs"></a>Log audit klasik SharePoint
+* [Mengaktifkan/menonaktifkan Pembuatan Log Audit Terpadu](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-Audit warisan SPO dimigrasikan ke log audit terpadu (UAL). Semua Laporan Audit warisan SPO kini akan didukung melalui UAL, dan sinyal audit warisan telah dimigrasikan ke UAL.
+Gunakan pencarian pembuatan log audit untuk memeriksa aktivitas file, folder, pengguna, izin:
 
-Perubahan tombol:
-
-* Pemangkasan tidak tersedia sebagai kapabilitas.
-* Memilih acara tertentu untuk diaudit tidak tersedia. Rujuk ke [dokumen ini](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) untuk daftar lengkap acara yang diaudit yang tersedia secara default.
-* Opsi **Lokasi** di bawah **laporan yang dikustomisasi** tidak tersedia.
-* Opsi acara **membuka atau mengunduh dokumen** tidak tersedia.
-
-[Mengonfigurasi pengaturan audit untuk kumpulan situs](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint dan OneDrive modern Unified log audit dari kepatuhan
-
-* [Mengaktifkan/menonaktifkan pembuatan log audit terpadu](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-Tidak diperlukan konfigurasi tambahan dalam SharePoint atau OneDrive.
-
-Menggunakan pencarian pembuatan log audit untuk memeriksa aktivitas file, folder, pengguna, izin:
-
-* [Aktivitas file dan halaman](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Aktivitas halaman dan file](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [Aktivitas folder](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
 * [Aktivitas permintaan akses dan berbagi](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Aktivitas sinkronisasi](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
 * [Aktivitas administrasi situs](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Untuk informasi selengkapnya tentang cara mendapatkan kembali acara ini, lihat [mencari log audit](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Untuk informasi selengkapnya tentang cara mengambil kejadian ini, lihat [Mencari log audit](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+
+Pengauditan warisan SPO dimigrasikan ke Log Audit Terpadu (UAL). Semua laporan audit warisan SPO didukung melalui UAL, dan sinyal audit warisan telah dimigrasikan ke UAL. Untuk informasi selengkapnya, [lihat Mengonfigurasi data audit untuk kumpulan situs](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2).

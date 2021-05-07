@@ -1,5 +1,5 @@
 ---
-title: Tentang pembaruan keamanan server Exchange
+title: Tentang Server Exchange pembaruan
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726530"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233465"
 ---
-# <a name="about-exchange-server-security-updates"></a>Tentang pembaruan keamanan server Exchange
+# <a name="about-exchange-server-updates"></a>Tentang Server Exchange pembaruan
 
-Microsoft telah merilis serangkaian pembaruan keamanan penting untuk Exchange Server di tempat. Versi server yang terpengaruh adalah tingkatan pembaruan dari Exchange Server 2010, 2013, 2016, dan 2019. Exchange Online tidak terpengaruh, tetapi jika Anda memiliki beberapa server Exchange lokal karena konfigurasi hibrid, Exchange Online berpotensi rentan.
+Microsoft biasanya akan merilis Server Exchange pembaruan pada Selasa Pembaruan (Pembaruan Keamanan) atau triwulan (Pembaruan Kumulatif). Untuk melihat pengumuman rilis pembaruan terbaru yang dirilis, lihat bagian [Exchange Blog Tim](https://aka.ms/ehlo).
 
-Silakan lihat pengumuman lokasi perbaikan berikut ini: [dirilis: pembaruan keamanan server Exchange 2021 Maret](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Untuk menginventarisasi Server Exchange Anda, gunakan [skrip Server Exchange Health Checker, (GitHub, gunakan rilis terbaru).](https://aka.ms/ExchangeHealthChecker) Menjalankan skrip ini memberi tahu Jika ada server Exchange tertinggal dalam pembaruan (SKU dan SKU).
 
-**Catatan penting:**
+- Untuk memperbarui ke Pembaruan Kumulatif terbaru, masuk ke [Exchange Pembaruan Dan](https://aka.ms/ExchangeUpdateWizard) pilih CU yang saat ini dijalankan dan CU target Anda. Pilih **Beri tahu saya langkah-langkah** untuk mendapatkan petunjuk arah untuk lingkungan Anda.
 
-Jika menginstal pembaruan secara manual, Baca bagian "masalah yang diketahui" dalam artikel pembaruan KB untuk informasi penting. Pembaruan keamanan harus dijalankan dari wantian CMD/PowerShell yang ditinggikan!
-
-Pembaruan informasi pemecahan masalah bisa [ditemukan di sini](https://aka.ms/exupdatefaq).
+- Jika Anda menjumpai kesalahan selama atau setelah Server Exchange pembaruan, lihat Perbaikan gagal menginstal pembaruan [Exchange Kumulatif dan Keamanan.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

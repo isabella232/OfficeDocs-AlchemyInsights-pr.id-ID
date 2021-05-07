@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.openlocfilehash: d4c5fcf5140f079bfb6ae0f76ec2d080c6befd0a
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 1c9c57be405b6bfd530cebc801671fd017df859b
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896870"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261595"
 ---
 # <a name="canceling-your-subscription"></a>Membatalkan langganan Anda?
 
-Kami minta maaf melihat Anda pergi, tapi jika Anda ingin membatalkan langganan Anda, berikut adalah opsi Anda:
+Kami menyesal Anda harus pergi, tetapi jika ingin membatalkan langganan, berikut adalah opsi yang dapat Anda lakukan:
   
-- Jika Anda memiliki kurang dari 25 lisensi yang ditetapkan, Anda bisa membatalkan langganan Anda secara online. Masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , dan temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
-- Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan untuk pengguna, [Hubungi dukungan untuk membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Jika memiliki kurang dari 25 lisensi yang ditetapkan, Anda dapat membatalkan langganan secara online. Masuk ke **halaman Tagihan** \> **[Produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda, dan temukan langganan yang ingin Anda batalkan. Pilih **Tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+- Jika Anda memiliki lebih dari 25 lisensi yang ditetapkan pada pengguna, [hubungi dukungan untuk membatalkan langganan Anda.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
   
-**Pengembalian dana: kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.**
+**Pengembalian dana: Kredit prorasi akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.**
 
 > [!NOTE]
-> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **pengaturan langganan dan pembayaran** , pilih **Batalkan langganan**.
+> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
 
-Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
