@@ -14,7 +14,7 @@ ms.custom:
 - "5719"
 ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
 ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: id-ID
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51809730"
@@ -24,7 +24,7 @@ ms.locfileid: "51809730"
 Dalam [pengalaman manajemen kotak surat](https://admin.exchange.microsoft.com/#/mailboxes) yang diperbarui dan disederhanakan, dalam Pusat Admin Exchange (EAC), Anda dapat memilih kotak surat tertentu milik pengguna dan memulihkan item.
 
 1. Pilih **kotak surat** di **Penerima**.
-2. Pilih pengguna yang ingin Anda pulihkan emailnya.
+2. Pilih pengguna yang ingin dipulihkan emailnya.
 3. Pilih **pulihkan item yang dihapus**.
     - Anda mungkin perlu melihat di menu drop-down **... lainnya** untuk melihat opsi **pulihkan item yang dihapus**.
-4. Gunakan opsi filter untuk menemukan item yang perlu Anda pulihkan.
+4. Gunakan opsi filter untuk menemukan item yang perlu dipulihkan.
