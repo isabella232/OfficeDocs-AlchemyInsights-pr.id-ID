@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 1ab15eed7f368663843846ea970f44a0f88d3cb5
-ms.sourcegitcommit: 705c8a0c5fe31248bfa9da048cdee2c6296c6281
+ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50237571"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545650"
 ---
 # <a name="manage-app-licenses"></a>Mengelola lisensi aplikasi
 
-## <a name="to-change-license-quantity"></a>Untuk mengubah jumlah lisensi
+## <a name="to-change-license-quantity"></a>Untuk mengubah kuantitas lisensi
 
-**Tonton video** yang memperlihatkan cara melakukan ini: [membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau [menghapus lisensi yang sudah ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**TONTON video yang** memperlihatkan cara melakukan hal ini: [Membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau Menghapus lisensi yang sudah [ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Buka   >  halaman **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Pada tab **produk** , di bagian **aplikasi** , temukan aplikasi yang ingin Anda Kelola. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Beli lisensi**.
-3. Jika Anda ingin mengurangi jumlah lisensi, di bagian atas panel **Beli lisensi** , pilih **Hapus lisensi**.
-4. Untuk membeli atau menghapus lisensi, di bawah **jumlah baru** dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika Anda memiliki 100 lisensi dan ingin menambahkan lima lagi, masukkan 105. Jika Anda ingin menghapusnya, masukkan 95.
+1. Masuk ke halaman **Tagihan**  >  **[Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Pada tab **Produk,** di **bagian Aplikasi,** temukan aplikasi yang ingin Anda kelola. Pilih tiga titik (tindakan lainnya), lalu **pilih Beli lisensi**.
+3. Jika ingin mengurangi jumlah lisensi, di bagian atas panel **Beli lisensi,** pilih **hapus lisensi**.
+4. Untuk membeli atau menghapus lisensi, di bawah **Jumlah** baru dalam kotak **Total** lisensi, masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika memiliki 100 lisensi dan ingin menambahkan lima lagi, masukkan 105. Jika Anda ingin menghapus lima di antaranya, masukkan 95.
 5. Pilih **Simpan**.
 
 ## <a name="to-assign-app-licenses"></a>Untuk menetapkan lisensi aplikasi
 
-1. Buka   >  halaman **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Pada tab **produk** , di bagian **aplikasi** , temukan dan pilih aplikasi yang ingin Anda Kelola.
-3. Di bawah **pengaturan & tindakan**, pilih link ke **Kelola di portal Publisher**.
+1. Masuk ke halaman **Tagihan**  >  **[Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Pada tab **Produk,** di bagian **Aplikasi,** temukan dan pilih aplikasi yang ingin Anda kelola.
+3. Di **Pengaturan & atau bawah** tindakan , pilih link untuk Kelola di portal **publisher**.
