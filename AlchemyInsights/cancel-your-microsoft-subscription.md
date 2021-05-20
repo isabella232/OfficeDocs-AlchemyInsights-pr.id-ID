@@ -1,29 +1,31 @@
 ---
 title: Membatalkan langganan Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707746"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543328"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="1d800-102">Membatalkan langganan Microsoft</span><span class="sxs-lookup"><span data-stu-id="1d800-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="d0515-102">Membatalkan langganan Microsoft</span><span class="sxs-lookup"><span data-stu-id="d0515-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="1d800-103">Kunjungi [Layanan & langganan](https://account.microsoft.com/services/), lalu masuk dengan akun Microsoft yang Anda gunakan ketika membeli langganan.</span><span class="sxs-lookup"><span data-stu-id="1d800-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="d0515-103">Admin dapat membatalkan langganan untuk organisasi mereka di Microsoft 365 admin.</span><span class="sxs-lookup"><span data-stu-id="d0515-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="1d800-104">Temukan langganan Anda lalu klik **Kelola**.</span><span class="sxs-lookup"><span data-stu-id="1d800-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="1d800-105">Jika Anda melihat **Aktifkan penagihan berulang**, bukan **Kelola**, lompat ke bagian Pemecahan masalah;  atau, lanjutkan ke langkah 3.</span><span class="sxs-lookup"><span data-stu-id="1d800-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="d0515-104">Masuk ke halaman **Tagihan** \> [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="d0515-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="d0515-105">Pada tab **Produk,** temukan langganan yang ingin Anda batalkan.</span><span class="sxs-lookup"><span data-stu-id="d0515-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="d0515-106">Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.</span><span class="sxs-lookup"><span data-stu-id="d0515-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="d0515-107">Di **panel Batalkan** langganan, pilih alasan pembatalan Anda.</span><span class="sxs-lookup"><span data-stu-id="d0515-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="d0515-108">Secara opsional, berikan umpan balik apa pun.</span><span class="sxs-lookup"><span data-stu-id="d0515-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="d0515-109">Pilih **Simpan**.</span><span class="sxs-lookup"><span data-stu-id="d0515-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="1d800-106">Pada halaman berikutnya, klik **Batalkan** atau **Mutakhirkan atau Batalkan**, tergantung tipe langganan Anda.</span><span class="sxs-lookup"><span data-stu-id="1d800-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="1d800-107">Ikuti instruksi di halaman untuk melanjutkan pembatalan.</span><span class="sxs-lookup"><span data-stu-id="1d800-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="d0515-110">**Pengembalian dana:** Kredit prorated akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.</span><span class="sxs-lookup"><span data-stu-id="d0515-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
