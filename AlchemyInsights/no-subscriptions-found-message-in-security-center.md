@@ -1,5 +1,5 @@
 ---
-title: Tidak ditemukan pesan langganan di pusat keamanan
+title: Tidak ada pesan langganan yang ditemukan di Pusat Keamanan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713957"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544111"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>Tidak ditemukan pesan langganan di pusat keamanan
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>Tidak ada pesan langganan yang ditemukan di Pusat Keamanan
 
-Jika saat mengakses pusat keamanan Microsoft Defender Anda mendapatkan pesan "tidak ada langganan ditemukan", artinya Azure Active Directory (AAD) yang digunakan untuk masuk ke Portal tidak memiliki lisensi Microsoft Defender ATP.  
+Jika saat Pusat Keamanan Pertahanan Microsoft Anda mendapatkan pesan "Langganan tidak ditemukan", artinya Azure Active Directory (AAD) yang digunakan untuk masuk ke portal tidak memiliki ATP Pertahanan Microsoft mereka.  
 
-Lisensi Windows E5 dan Office E5 adalah lisensi terpisah.
+Lisensi Windows E5 dan Office E5 merupakan lisensi terpisah.
 
-Membuka kasus dukungan jika lisensi dibeli tetapi tidak ditetapkan ke instans AAD ini. Anda memiliki: <br/>
+Buka kasus dukungan jika lisensi dibeli tetapi tidak ditetapkan pada instans AAD ini. Anda memiliki: <br/>
 -   Kemungkinan masalah penyediaan lisensi.<br/>
--   Anda tidak sengaja menetapkan lisensi ke Microsoft AAD yang berbeda dari yang digunakan untuk autentikasi ke layanan.
+-   Anda tidak sengaja menyediakan lisensi ke Microsoft AAD berbeda dari yang digunakan untuk autentikasi ke dalam layanan.

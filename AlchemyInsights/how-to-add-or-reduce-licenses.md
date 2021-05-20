@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d26f9211b15332c1b94b09563d93a5b90592bcf4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232442"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544725"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Menambahkan atau menghapus lisensi untuk langganan Anda
 
-**Tonton video** yang memperlihatkan cara melakukan ini: [membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau [menghapus lisensi yang sudah ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**TONTON video yang** memperlihatkan cara melakukan hal ini: [Membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau Menghapus lisensi yang sudah [ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Di pusat admin, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , temukan langganan yang ingin Anda beli atau Hapus lisensinya. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Beli lisensi**.
-3. Jika Anda ingin mengurangi jumlah lisensi, di bagian atas panel **Beli lisensi** , pilih **Hapus lisensi**.
-4. Untuk membeli atau menghapus lisensi, di bawah **jumlah baru** dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika Anda memiliki 100 lisensi dan ingin menambahkan 25 lainnya, masukkan 125. Jika Anda ingin menghapus 25 lisensi, masukkan 75.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada **tab** Produk, temukan langganan yang ingin Anda beli atau hapus lisensinya. Pilih tiga titik (tindakan lainnya), lalu **pilih Beli lisensi**.
+3. Jika ingin mengurangi jumlah lisensi, di bagian atas **panel Beli lisensi,** pilih **hapus lisensi**.
+4. Untuk membeli atau menghapus lisensi, di bawah **Jumlah** baru dalam kotak **Total** lisensi, masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika memiliki 100 lisensi dan ingin menambahkan 25 lagi, masukkan 125. Jika Anda ingin menghapus 25 lisensi, masukkan 75.
 5. Pilih **Simpan**.
 
-Untuk informasi tentang cara menetapkan lisensi, lihat [menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Untuk informasi tentang cara menetapkan lisensi, lihat [Menetapkan lisensi kepada pengguna](/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Sumber daya**
   
-- [Membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [Membatalkan Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Mencoba atau membeli langganan Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Membeli atau menghapus lisensi](/microsoft-365/commerce/licenses/buy-licenses)
+- [Membatalkan Microsoft 365 untuk bisnis](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Mencoba atau membeli langganan Microsoft 365 untuk bisnis](/microsoft-365/commerce/try-or-buy-microsoft-365)

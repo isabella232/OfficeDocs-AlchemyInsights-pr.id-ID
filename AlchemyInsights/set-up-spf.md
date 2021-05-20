@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798955"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544653"
 ---
 # <a name="set-up-spf"></a>Menyiapkan SPF
 
-Perbarui catatan DNS Anda sehingga Anda bisa menggunakan Sender Policy Framework (SPF) dengan domain kustom Anda untuk memvalidasi email keluar yang dikirim dari domain kustom Anda. Ini membantu mencegah orang lain dari email "spoofing" seolah-olah dikirim dari domain Anda.
+Perbarui catatan DNS Anda sehingga Anda bisa menggunakan Sender Policy Framework (SPF) dengan domain kustom Anda untuk memvalidasi email keluar yang dikirimkan dari domain kustom Anda. Ini membantu mencegah orang lain mengirim email "spoofing" seperti email yang dikirim dari domain Anda.
   
-- [Menyiapkan SPF untuk membantu mencegah spoofing](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Menyiapkan SPF untuk membantu mencegah spoofing](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Bantuan menyetel semua catatan DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Pemecahan masalah rekaman SPF](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Membantu menyiapkan semua catatan DNS](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

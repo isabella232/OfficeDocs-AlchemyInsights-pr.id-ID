@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah dengan Microsoft Defender untuk Office 365 (ATP)
+title: Memecahkan masalah pertahanan Microsoft untuk Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801410"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544761"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Memecahkan masalah dengan Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Memecahkan masalah pertahanan Microsoft untuk Office 365
 
-- **Perhatikan keterlambatan pengiriman pesan email** ? Coba gunakan opsi pengiriman dinamis untuk kebijakan lampiran aman ATP Anda. Ini akan menghindari keterlambatan pengiriman pesan email sekaligus melindungi penerima dari file berbahaya.
-- **Apakah Anda ingin melaporkan kesalahan positif palsu atau negatif palsu** ? Gunakan link ini untuk mengirim file Anda untuk dianalisis: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Tahukah Anda bahwa Anda bisa mengaktifkan proteksi tautan aman ATP untuk email yang dikirim di antara orang di organisasi Anda** ? Ikuti langkah-langkah ini:
-    1. Masuk ke https://protection.office.com , dan masuk.
-    2. Masuk ke **Threat management**  >  **Policy**  >  **tautan aman** kebijakan manajemen ancaman.
-    3. Di bawah **kebijakan yang berlaku untuk penerima tertentu** , Edit (atau tambahkan) sebuah kebijakan.
-    4. Pilih **Terapkan tautan aman ke pesan yang dikirim dalam organisasi** .
-    5. Simpan kebijakan Anda, dan Perbolehkan sekitar 30 menit agar perubahan dapat dilakukan melalui Datacenter Anda.
-- Untuk mendapatkan bantuan lainnya dengan ATP, lihat [Microsoft Defender untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Perhatikan penundaan dengan pengiriman pesan email**? Cobalah untuk menggunakan opsi Pengiriman Dinamis bagi Pertahanan Microsoft Office 365 Brankas Kebijakan Lampiran. Hal ini akan menghindari penundaan pengiriman pesan email saat melindungi penerima dari file berbahaya.
+- **Apakah Anda ingin melaporkan positif palsu atau negatif palsu**? Gunakan [Submissions Explorer](https://protection.office.com/reportsubmission).
+- Apakah Anda tahu bahwa Anda dapat mengaktifkan Pertahanan Microsoft untuk Pertahanan Microsoft untuk Office 365 Brankas Tautan untuk email yang dikirim **antar orang-orang di organisasi Anda?** Ikuti langkah-langkah ini:
+    1. Buka https://protection.office.com , dan masuk.
+    2. Masuk ke **Kebijakan manajemen**  >    >  **ancaman Brankas Tautan.**
+    3. Di **bawah Kebijakan yang berlaku untuk penerima tertentu**, mengedit (atau menambahkan) kebijakan.
+    4. Pilih **Terapkan link aman untuk pesan yang dikirim dalam organisasi**.
+    5. Simpan kebijakan Anda, dan tunggu hingga 30 menit agar perubahan diterapkan.
+
+- Untuk mendapatkan bantuan lainnya terkait Pertahanan Microsoft untuk Office 365, lihat [Pertahanan Microsoft untuk Office 365](/microsoft-365/security/office-365-security/office-365-atp).

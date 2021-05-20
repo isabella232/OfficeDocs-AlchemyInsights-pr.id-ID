@@ -1,5 +1,5 @@
 ---
-title: Masalah mengakses bagian portal Microsoft Defender ATP
+title: Masalah saat mengakses bagian Pertahanan Microsoft untuk portal Office 365 baru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713857"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545235"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Masalah mengakses bagian portal Microsoft Defender ATP
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Masalah saat mengakses bagian Pertahanan Microsoft untuk portal Office 365 baru
 
-Jika dasbor portal dan bagian lain memperlihatkan pesan kesalahan seperti "data saat ini tidak tersedia", kemungkinan bahwa domain URL dan semua sub-domain tertentu diizinkan di organisasi Anda dan terbuka untuk komunikasi. 
+Jika dasbor portal dan bagian lain memperlihatkan pesan kesalahan seperti "Data saat ini tidak tersedia", kemungkinan bahwa domain URL dan semua sub-domain tertentu diperbolehkan di organisasi Anda dan terbuka untuk komunikasi. 
 
-Untuk informasi selengkapnya, lihat [memecahkan masalah akses portal dan langganan](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal).
+Untuk informasi selengkapnya, lihat [Memecahkan masalah akses langganan dan portal.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)

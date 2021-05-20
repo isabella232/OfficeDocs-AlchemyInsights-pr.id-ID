@@ -1,5 +1,5 @@
 ---
-title: Orientasi Microsoft Defender ATP
+title: ATP Pertahanan Microsoft Onboarding
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673428"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545307"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>Orientasi Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>ATP Pertahanan Microsoft Onboarding
 
-Untuk sumber daya ke onboard Microsoft Defender ATP untuk Windows 10, Server Windows, dan Mac dan Linux, lihat: 
+Agar sumber daya dapat digunakan ATP Pertahanan Microsoft di Windows 10, Windows server, serta komputer Mac dan Linux, lihat: 
 
-- **Mesin Windows 10** Bergantung pada persyaratan bisnis Anda, Anda dapat memilih opsi untuk menggunakan mesin onboard yang menjalankan Windows 10. Untuk informasi selengkapnya, lihat [alat dan metode Onboarding untuk perangkat Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 komputer** Tergantung pada persyaratan bisnis, Anda dapat memilih opsi untuk menggunakan komputer yang menjalankan Windows 10. Untuk informasi selengkapnya, lihat [Alat dan metode onboarding untuk Windows 10 saya](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
 
-- **Server Windows** Untuk onboard Microsoft Defender ATP untuk versi Windows Server Anda, lihat server [onboard ke layanan Microsoft Defender ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows baru** Untuk ATP Pertahanan Microsoft onboard untuk versi Server Windows Anda, lihat [Server onboard ke layanan ATP Pertahanan Microsoft](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
-- **Titik akhir non-Windows**  Sebelum Anda menggunakan sistem non-Windows, Anda harus memenuhi persyaratan sistem untuk [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) atau [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Titik akhir Windows non-Windows**  Sebelum menggunakan sistem non-Windows, Anda harus memenuhi persyaratan sistem untuk [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) atau [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Setelah Anda mengonfirmasikan persyaratan sistem Anda, lihat [perangkat onboard non-Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Setelah mengonfirmasi persyaratan sistem, lihat [Onboard non-Windows Anda](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).

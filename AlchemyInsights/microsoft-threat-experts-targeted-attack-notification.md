@@ -1,5 +1,5 @@
 ---
-title: Pemberitahuan serangan pakar ancaman Microsoft
+title: Microsoft Threat Experts - Pemberitahuan Serangan Bertarget
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714748"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545379"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Pemberitahuan serangan pakar ancaman Microsoft
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Pemberitahuan Serangan Bertarget
 
-Pemberitahuan serangan bertarget adalah salah satu dari dua kapabilitas pakar ancaman Microsoft. Ini adalah layanan berburu ancaman proaktif yang menyediakan wawasan khusus dan analisis yang membantu memastikan bahwa ancaman yang paling penting diidentifikasi dan ditanggapi dengan cepat dan akurat.
+Pemberitahuan Serangan Bertarget adalah salah satu dari dua Microsoft Threat Experts target. Layanan ini merupakan layanan pencarian ancaman proaktif yang menyediakan wawasan dan analisis khusus yang membantu memastikan bahwa ancaman paling penting diidentifikasi dan direspons untuk secara cepat dan akurat.
 
-Jika Anda adalah Microsoft Defender untuk pelanggan titik akhir, Anda perlu menerapkan pemberitahuan serangan yang ditargetkan oleh ahli ancaman Microsoft untuk mendapatkan wawasan dan analisis khusus yang membantu mengidentifikasi ancaman yang paling penting sehingga Anda bisa menanggapinya dengan cepat.
+Jika Anda adalah pertahanan Microsoft untuk pelanggan Titik Akhir, Anda harus mendaftar untuk Microsoft Threat Experts - Pemberitahuan Serangan Bertarget untuk mendapatkan wawasan dan analisis khusus yang membantu mengidentifikasi ancaman paling penting sehingga Anda dapat meresponsnya dengan cepat.
 
-Untuk mendaftar ke manfaat pemberitahuan serangan yang ditargetkan oleh ahli Microsoft, masuk ke **pengaturan**  >    >  **fitur tingkat lanjut** umum  >  **Microsoft Threat Expert-target serangan ditargetkan** untuk diterapkan. Setelah diterima, Anda akan mendapatkan manfaat pemberitahuan serangan bertarget.
+Untuk mendaftar Microsoft Threat Experts - Manfaat Pemberitahuan Serangan Bertarget, buka Pengaturan Umum Tingkat Lanjut   >    >    >  **Microsoft Threat Experts - Pemberitahuan Serangan Bertarget** yang akan diterapkan. Setelah diterima, Anda akan mendapatkan manfaat dari Pemberitahuan Serangan Bertarget.
 
-Anda dapat menerima pemberitahuan serangan yang ditargetkan dari Microsoft Threat Experts melalui media berikut:
+Anda dapat menerima pemberitahuan serangan bertarget dari Microsoft Threat Experts melalui media berikut:
 
-- Halaman Defender untuk insiden portal Endpoint
-- Dasbor pemberitahuan Defender untuk portal akhir
-- API dan REST API OData memperingatkan
-- Tabel DeviceAlertEvents di Advanced Hunting
+- Halaman Pertahanan untuk Insiden portal Titik Akhir
+- Pertahanan untuk dasbor Peringatan portal Titik Akhir
+- API pemberitahuan OData dan API REST
+- Tabel DeviceAlertEvents dalam Pencarian tingkat lanjut
 - Email Anda, jika Anda memilih untuk mengonfigurasinya
 
 Untuk menerima pemberitahuan serangan bertarget melalui email, buat aturan pemberitahuan email. 
 
-Lihat [mengonfigurasi dan mengelola kapabilitas pakar ancaman Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) untuk detailnya.
+Lihat [Mengonfigurasi dan mengelola Microsoft Threat Experts lain untuk](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) detailnya.

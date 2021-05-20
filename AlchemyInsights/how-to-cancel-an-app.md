@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488848"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544617"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Cara membatalkan aplikasi perangkat lunak-sebagai-a-Layanan
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Cara membatalkan aplikasi software-as-a-service
 
-1. Di pusat admin, ke **Billing**  >  halaman[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada halaman **produk** , gulir ke bawah ke bagian **aplikasi** , dan temukan langganan yang ingin Anda batalkan. 
-3. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
-4. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+1. Di pusat admin, ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada **halaman Produk,** gulir ke bawah **ke bagian** Aplikasi, dan temukan langganan yang ingin Anda batalkan. 
+3. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
+4. Di **panel Batalkan** langganan, pilih alasan pembatalan Anda. Secara opsional, berikan umpan balik apa pun.
 5. Pilih **Simpan**.

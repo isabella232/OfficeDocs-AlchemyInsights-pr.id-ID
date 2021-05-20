@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665289"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543967"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Inventaris perangkat lunak hilang atau tidak akurat
 
-Inventaris perangkat lunak di layanan Microsoft Defender ATP menyediakan nama produk atau vendor, nomor versi terbarunya, serta kerentanan dan kerentanan yang terdeteksi. Untuk informasi selengkapnya, lihat [manajemen inventaris perangkat lunak dan manajemen kerentanan](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Inventaris perangkat lunak di ATP Pertahanan Microsoft menyediakan nama produk atau vendor, nomor versi terbarunya, dan mendeteksi kerentanan dan nama produk. Untuk informasi selengkapnya, lihat [Inventaris perangkat lunak - Pengelolaan Ancaman dan Kerentanan](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Anda dapat melaporkan informasi yang tidak jelas atau tidak lengkap, nomor versi tidak akurat, atau informasi inventaris perangkat lunak yang dipulihkan dengan mengikuti langkah-langkah ini.  
+Anda dapat melaporkan informasi yang tidak jelas atau tidak lengkap, nomor versi yang tidak akurat, atau informasi inventaris perangkat lunak yang diperbaiki dengan mengikuti langkah-langkah berikut ini.  
 
-1. Buka Flyout perangkat lunak, lalu pilih aplikasi pada halaman inventaris perangkat lunak.
-2. Pilih ketidakakuratan **laporan**, dan dari panel Flyout, pilih kategori dari menu turun bawah.
-3. Isi alamat email Anda, dan detail ketidakakuratan.
-4. Pilih **kirim**.</br>
-    Umpan balik Anda segera dikirim ke pakar manajemen kerentanan & ancaman.
+1. Buka flyout perangkat lunak, lalu pilih aplikasi di halaman Inventaris perangkat lunak.
+2. Pilih **Laporkan ketidakakuratan**, dan dari panel flyout, pilih kategori dari menu menurun.
+3. Isi alamat email Anda, dan detail ketidakakuratan tersebut.
+4. Pilih **Kirim.**</br>
+    Umpan balik Anda segera dikirimkan kepada & Manajemen Kerentanan Threat &.
