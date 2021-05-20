@@ -1,5 +1,5 @@
 ---
-title: 975 Apakah Anda ingin melaporkan spam false positif ke Microsoft?
+title: 975 Apakah Anda ingin melaporkan spam positif palsu ke Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692334"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540403"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Apakah Anda ingin melaporkan spam false positif ke Microsoft?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Apakah Anda ingin melaporkan spam positif palsu ke Microsoft?
 
-Sebagai admin, cara terbaik untuk menentukan mengapa pesan Pengelabuan atau spam dikirim adalah mengirimkan sampel ke Microsoft di [penjelajah pengiriman](https://protection.office.com/reportsubmission). Untuk membuatnya lebih mudah, Anda dapat memperbolehkan pengguna Anda melapor secara langsung ke Microsoft melalui [Add-in pesan laporan](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Sebagai admin, cara terbaik untuk menentukan mengapa pesan pengelabuan atau spam dikirimkan adalah dengan mengirimkan sampel ke Microsoft [di Explorer Pengiriman.](https://protection.office.com/reportsubmission) Untuk memudahkan, Anda dapat mengizinkan pengguna untuk melaporkan secara langsung ke Microsoft melalui [add-in Pesan Laporan](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Kami menyarankan perhatian jika Anda memutuskan untuk [melewati filter spam Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Kami menyarankan berhati-hati jika Anda [memutuskan untuk melewati Microsoft 365 filter spam .](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Tahukah Anda?**: Anda kini dapat mengirim sampel langsung dari [jejak pesan](https://protection.office.com/messagetrace) dan pelanggan paket E5/ATP 2 bisa mengirimkan sampel dari [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Tahukah Anda?**: Kini Anda dapat [](https://protection.office.com/messagetrace) mengirimkan sampel secara langsung dari Jejak pesan dan Pertahanan E5/Microsoft untuk pelanggan Office 365 Paket 2 dapat mengirimkan sampel dari [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).

@@ -1,5 +1,5 @@
 ---
-title: Pelajari tentang ATP
+title: Pelajari tentang Pertahanan Microsoft untuk Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403566"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539791"
 ---
-# <a name="learn-about-atp"></a>Pelajari tentang ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Pelajari tentang Pertahanan Microsoft untuk Office 365
 
-Berikut beberapa informasi tentang Office 365 Advanced Threat Protection (ATP):
+Berikut beberapa informasi tentang Pertahanan Microsoft untuk Office 365:
 
-**Apa itu ATP?**
+**Apa itu Pertahanan Microsoft untuk Office 365?**
 
-ATP adalah layanan pemfilteran email berbasis awan yang membantu melindungi organisasi dari malware dan virus yang tidak diketahui dengan menyediakan perlindungan setiap hari yang kuat. Fitur ini mencakup fitur untuk mengamankan organisasi dari link berbahaya secara real time.
+Pertahanan Microsoft untuk Office 365 adalah layanan pemfilteran email berbasis awan yang membantu melindungi organisasi dari malware dan virus yang tidak diketahui dengan menyediakan perlindungan proteksi nol hari yang kokoh. Fitur ini mencakup fitur untuk mengamankan organisasi dari link berbahaya secara real time.
 
-**Bagaimana cara mengaktifkan ATP?**
+**Bagaimana cara mengaktifkan Pertahanan Microsoft untuk Office 365?**
 
-Lampiran Aman, Tautan Aman, dan anti-phishing adalah bagian dari fitur ATP. Enterprise E5, Education A5, dan Microsoft 365 Business menyertakan fitur ATP bawaan. Semua paket lain memerlukan langganan ATP add-on. Lisensi yang tepat perlu ditetapkan ke pengguna agar dilindungi oleh Office 365 ATP. Anda harus memiliki izin administrator global atau administrator keamanan untuk mengakses fitur ini. Untuk mempelajari selengkapnya tentang cara menerapkan lisensi secara massal ke pengguna akhir Anda, lihat Menetapkan lisensi kepada pengguna di [Office 365 untuk bisnis.](https://go.microsoft.com/fwlink/?linkid=2093435)
+Brankas Lampiran, Brankas Tautan, dan anti-phishing adalah bagian dari Pertahanan Microsoft untuk Office 365 pengelabuan. Enterprise E5, Education A5, Microsoft 365 Business menyertakan Pertahanan Microsoft bawaan untuk berbagai Office 365 lengkap. Semua paket lainnya memerlukan add-on Pertahanan Microsoft untuk Office 365 anda. Anda perlu menetapkan lisensi yang sesuai untuk pengguna agar dilindungi oleh Pertahanan Microsoft untuk Office 365. Anda harus memiliki izin administrator global atau administrator keamanan untuk mengakses fitur ini. Untuk mempelajari selengkapnya tentang cara menerapkan lisensi secara massal ke pengguna akhir Anda, lihat Menetapkan lisensi kepada pengguna [Office 365 untuk bisnis.](https://go.microsoft.com/fwlink/?linkid=2093435)
 
-**Bagaimana cara mengelola ATP atau mempelajari selengkapnya tentang atp?**
+**Bagaimana cara mengelola Pertahanan Microsoft untuk Office 365 atau mempelajari selengkapnya tentang ini?**
 
 a. Buka [Persiapan.](https://go.microsoft.com/fwlink/p/?linkid=2075721)
 b. Di **bawah Masuk dan keamanan**, temukan Tambah **proteksi dari ancaman tingkat lanjut**, lalu pilih [Tampilkan](https://go.microsoft.com/fwlink/?linkid=2109302).
