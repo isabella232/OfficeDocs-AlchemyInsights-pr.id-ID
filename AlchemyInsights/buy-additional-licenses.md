@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "530"
 - "1400007"
-ms.openlocfilehash: 7994f7bb94720b1929790f587a9506c5e3dea469
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232296"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543544"
 ---
 # <a name="buy-additional-licenses"></a>Membeli lisensi tambahan
 
-**Tonton video** yang memperlihatkan cara melakukan ini: [Beli lisensi](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**TONTON video yang** memperlihatkan cara melakukan hal ini: [Membeli lisensi](https://go.microsoft.com/fwlink/p/?linkid=2154857)
 
-1. Di pusat admin, masuk ke halaman **tagihan**  >  [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , temukan langganan yang ingin Anda beli lisensinya. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Beli lisensi**.
-3. Di bawah **kuantitas baru** dalam kotak **lisensi Total** , masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika Anda memiliki 100 lisensi dan ingin menambahkan 25 lainnya, masukkan 125.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada **tab** Produk, temukan langganan yang ingin Anda beli lisensinya. Pilih tiga titik (tindakan lainnya), lalu **pilih Beli lisensi**.
+3. Di **bawah Jumlah baru** di kotak **Total** lisensi, masukkan jumlah total lisensi yang Anda inginkan untuk langganan ini. Misalnya, jika memiliki 100 lisensi dan ingin menambahkan 25 lagi, masukkan 125.
 4. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Untuk mempelajari selengkapnya, [lihat Membeli atau menghapus lisensi](/microsoft-365/commerce/licenses/buy-licenses).
 
-**Sumber Daya Tambahan**
+**Sumber daya tambahan**
 
-- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+[Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](/microsoft-365/admin/manage/assign-licenses-to-users)

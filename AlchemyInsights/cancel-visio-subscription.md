@@ -1,5 +1,5 @@
 ---
-title: Membatalkan langganan Visio
+title: Membatalkan Visio anda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416388"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543364"
 ---
-# <a name="cancel-visio-subscription"></a>Membatalkan langganan Visio
+# <a name="cancel-visio-subscription"></a>Membatalkan Visio anda
 
-Admin dapat membatalkan langganan Visio untuk organisasi mereka di pusat admin Microsoft 365.
+Admin dapat membatalkan Visio langganan untuk organisasi mereka di Microsoft 365 admin.
 
-1. Buka **Billing** \> halaman [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , temukan langganan Visio yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
-3. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+1. Masuk ke halaman **Tagihan** \> [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** temukan Visio baru yang ingin Anda batalkan. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
+3. Di **panel Batalkan** langganan, pilih alasan pembatalan Anda. Secara opsional, berikan umpan balik apa pun.
 4. Pilih **Simpan**.
 
-**Pengembalian dana:** Kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.
+**Pengembalian dana:** Kredit prorated akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.
 
-Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

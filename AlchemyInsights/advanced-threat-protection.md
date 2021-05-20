@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender untuk Office 365
+title: Pertahanan Microsoft untuk Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801230"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542896"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender untuk Office 365
+# <a name="microsoft-defender-for-office-365"></a>Pertahanan Microsoft untuk Office 365
 
-- Lampiran aman, tautan aman, dan anti-Pengelabuan merupakan bagian dari Microsoft Defender untuk Office 365 (ATP). Enterprise E5, pendidikan A5, dan Microsoft 365 Business Premium termasuk ATP. Semua paket lainnya memerlukan langganan ATP add-on.
+- Brankas Lampiran, Brankas Tautan, dan anti-phishing adalah bagian dari Pertahanan Microsoft untuk Office 365. Enterprise E5, Education A5, Microsoft 365 Business Premium mencakup Pertahanan Microsoft untuk Office 365. Semua paket lainnya memerlukan add-on Pertahanan Microsoft untuk Office 365 anda.
 
-- Anda harus menetapkan lisensi yang sesuai untuk melindungi pengguna Anda menggunakan Office 365 ATP. Lihat [topik ini](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) untuk instruksi tentang cara menerapkan lisensi secara massal kepada pengguna Anda.
+- Anda perlu menetapkan lisensi yang sesuai untuk melindungi pengguna oleh Pertahanan Microsoft untuk Office 365. Lihat [Menambahkan pengguna dan menetapkan lisensi secara bersamaan untuk](/microsoft-365/admin/add-users/add-users) instruksi cara menerapkan lisensi secara massal ke pengguna Anda.
 
-- Administrator global atau administrator keamanan bisa mengakses fitur Office 365 ATP di pusat kepatuhan & keamanan di kebijakan **Threat managmeent** \> **Policy** .
+- Administrator global atau administrator keamanan bisa mengakses Pertahanan Microsoft untuk Office 365 keamanan di Pusat & Kepatuhan di **Kebijakan Pengelolaan** \> **Ancaman.**
 
-- Lampiran aman dan kebijakan link aman dapat mencakup seluruh organisasi Anda, domain tertentu, atau grup pengguna yang lebih kecil.
+- Brankas Kebijakan Lampiran dan Brankas Tautan dapat di lingkup untuk seluruh organisasi Anda, domain tertentu, atau grup pengguna yang lebih kecil.
 
-- Tidak ada kebijakan lampiran aman default ATP. Anda perlu [membuat kebijakan](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) dan menerapkannya ke pengguna Anda.
+- Tidak ada kebijakan Brankas Default Lampiran. Anda perlu [membuat kebijakan dan](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) menerapkannya kepada pengguna.
 
-- Ada kebijakan link aman default ATP yang berlaku untuk semua orang di organisasi Anda. Untuk mengedit kebijakan ini atau untuk membuat kebijakan kustom, lihat [topik ini](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Ada kebijakan default untuk Brankas Tautan default yang berlaku bagi semua orang di organisasi Anda. Untuk mengedit kebijakan ini atau untuk membuat kebijakan kustom, [lihat Brankas Kebijakan tautan di Pertahanan Microsoft untuk Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

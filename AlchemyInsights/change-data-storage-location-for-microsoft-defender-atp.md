@@ -1,5 +1,5 @@
 ---
-title: Mengubah lokasi penyimpanan data untuk Microsoft Defender ATP
+title: Mengubah lokasi penyimpanan data untuk ATP Pertahanan Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: 08ee7b6d8ab3219a566e9b8cafc72e7fe96197c4
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427681"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543112"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Mengubah lokasi penyimpanan data untuk Microsoft Defender ATP
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a>Mengubah lokasi penyimpanan data untuk ATP Pertahanan Microsoft
 
-Untuk mengubah lokasi penyimpanan data yang digunakan oleh layanan Microsoft Defender ATP, buka kasus dukungan dengan Microsoft.
+Untuk mengubah lokasi penyimpanan data yang digunakan oleh ATP Pertahanan Microsoft, buka kasus dukungan dengan Microsoft.

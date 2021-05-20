@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416341"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543292"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365 Anda?
 
-Kami minta maaf melihat Anda pergi!
+Kami menyesal Anda harus pergi!
   
-Berdasarkan data organisasi Anda, kami yakin bahwa langganan Anda saat ini memiliki kurang dari 25 kursi. Untuk membatalkan **langganan Anda secara** online, buka \> halaman [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) . Pada tab **produk** , temukan langganan yang ingin Anda batalkan, pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
+Berdasarkan data organisasi Anda, kami yakin bahwa semua langganan Anda saat ini memiliki kurang dari 25 kursi. Untuk membatalkan langganan secara online, masuk ke **halaman** \> [Tagihan produk](https://go.microsoft.com/fwlink/p/?linkid=842054) Anda. Pada tab **Produk,** temukan langganan yang ingin Anda batalkan, pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
   
-**Pengembalian dana:** Kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.
+**Pengembalian dana:** Kredit prorated akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.
 
-Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

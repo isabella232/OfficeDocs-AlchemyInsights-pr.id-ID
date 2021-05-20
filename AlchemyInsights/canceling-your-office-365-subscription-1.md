@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931651"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543256"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365 Anda?
 
-Kami minta maaf melihat Anda pergi, berikut adalah langkah-langkah untuk membatalkan langganan Anda:
+Kami menyesal Anda harus pergi, berikut adalah langkah-langkah untuk membatalkan langganan Anda:
 
-1. Di pusat admin, **masuk ke**  >  halaman **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , lalu pilih tab **produk** .
-2. Temukan langganan yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
-3. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+1. Di pusat admin, masuk ke **halaman Tagihan**  >  **[Produk Anda,](https://go.microsoft.com/fwlink/p/?linkid=842054)** lalu pilih tab Produk. 
+2. Temukan langganan yang ingin Anda batalkan. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
+3. Di **panel Batalkan** langganan, pilih alasan pembatalan Anda. Secara opsional, berikan umpan balik apa pun.
 4. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya tentang membatalkan langganan, atau opsi, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya tentang membatalkan langganan, atau opsi, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Jika Anda ingin terus menggunakan langganan untuk durasi uji coba, Anda bisa menonaktifkan tagihan berulang untuk langganan tersebut. Untuk mempelajari caranya, lihat [memperpanjang Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Jika ingin terus menggunakan langganan selama masa uji coba, Anda dapat menonaktifkan tagihan berulang untuk langganan tersebut. Untuk mempelajari caranya, lihat [Memperpanjang Microsoft 365 untuk bisnis](/microsoft-365/commerce/subscriptions/renew-your-subscription).

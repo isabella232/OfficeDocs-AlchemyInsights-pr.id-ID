@@ -1,5 +1,5 @@
 ---
-title: 9001220 Advanced Hunting deteksi kustom
+title: 9001220 deteksi kustom pencarian tingkat lanjut
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801518"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543004"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Pendeteksian kustom berburu tingkat lanjut
+# <a name="advanced-hunting-custom-detections"></a>Deteksi Kustom Pencarian Tingkat Lanjut
 
-Anda dapat mempelajari cara membuat dan mengelola aturan pendeteksian kustom berdasarkan kueri berburu tingkat lanjut. Dengan pendeteksian kustom, Anda dapat memantau dan merespons berbagai acara dan status sistem secara proaktif, termasuk aktivitas pelanggaran dugaan dan perangkat yang salah konfigurasi. Anda bisa melakukannya dengan aturan pendeteksian yang dapat dikustomisasi, yang otomatis memicu pemberitahuan dan tindakan respons
+Anda bisa mempelajari cara membuat dan mengelola aturan deteksi kustom berdasarkan kueri pencarian tingkat lanjut. Dengan deteksi kustom, Anda bisa memantau dan merespons berbagai kejadian dan status sistem secara proaktif, termasuk dugaan aktivitas pelanggaran dan perangkat yang dikonfigurasi dengan salah. Anda dapat melakukannya dengan aturan deteksi yang dapat dikustomisasi yang secara otomatis memicu peringatan dan tindakan respons
   
-Jika Anda menggunakan Microsoft Defender ATP, lihat topik berikut ini untuk detailnya: 
-- [Gambaran umum pendeteksian kustom](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Membuat aturan deteksi kustom](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Menampilkan dan mengelola aturan deteksi kustom](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Jika Anda menggunakan ATP Pertahanan Microsoft, lihat topik berikut ini untuk detailnya: 
+- [Gambaran umum deteksi kustom](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Membuat aturan deteksi kustom](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Menampilkan dan mengelola aturan deteksi kustom](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Jika Anda menggunakan Microsoft 365 Defender, lihat topik berikut ini untuk detailnya: 
-- [Gambaran umum pendeteksian kustom](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Membuat dan mengelola aturan pendeteksian kustom](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Jika Anda menggunakan Microsoft 365 Pertahanan, lihat topik berikut untuk detailnya: 
+- [Gambaran umum deteksi kustom](/microsoft-365/security/mtp/custom-detections-overview)
+- [Membuat dan mengelola aturan deteksi kustom](/microsoft-365/security/mtp/custom-detection-rules)

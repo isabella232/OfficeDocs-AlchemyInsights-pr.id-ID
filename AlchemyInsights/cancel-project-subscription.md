@@ -1,5 +1,5 @@
 ---
-title: Membatalkan langganan proyek
+title: Membatalkan Project anda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416481"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543400"
 ---
-# <a name="cancel-project-subscription"></a>Membatalkan langganan proyek
+# <a name="cancel-project-subscription"></a>Membatalkan Project anda
 
-Admin dapat membatalkan langganan proyek untuk organisasi mereka di pusat admin Microsoft 365.
+Admin dapat membatalkan Project langganan untuk organisasi mereka di Microsoft 365 admin.
 
-1. Buka **Billing** \> halaman [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , temukan langganan proyek yang ingin Anda batalkan. Pilih **tindakan lainnya** (tiga titik), lalu pilih **Batalkan langganan**.
-3. Di panel **Batalkan langganan** , pilih alasan mengapa Anda membatalkan. Secara opsional, Berikan umpan balik.
+1. Masuk ke halaman **Tagihan** \> [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** temukan Project baru yang ingin Anda batalkan. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
+3. Di **panel Batalkan** langganan, pilih alasan pembatalan Anda. Secara opsional, berikan umpan balik apa pun.
 4. Pilih **Simpan**.
 
-**Pengembalian dana:** Kredit prorata apa pun akan dikembalikan kepada Anda dalam siklus penagihan berikutnya.
+**Pengembalian dana:** Kredit prorated akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.
 
-Untuk mempelajari selengkapnya, lihat [membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
