@@ -1,35 +1,33 @@
 ---
 title: Langganan sudah tidak aktif
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789233"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544257"
 ---
 # <a name="subscription-no-longer-active"></a>Langganan sudah tidak aktif
 
-Jika [pemberitahuan langganan muncul saat aplikasi Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) dibuka, kemungkinan Anda perlu mengaktifkan langganan kembali.
+Jika [pemberitahuan langganan](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) muncul saat aplikasi Microsoft dibuka, kemungkinan Anda harus mengaktifkan kembali langganan Anda.
 
 **Mengaktifkan kembali langganan**
 
-1. Di pusat admin, masuk ke ** halaman Tagihan > [Produk & Layanan ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** temukan langganan yang ingin Anda aktifkan kembali. Pilih tiga titik (tindakan lainnya), lalu pilih **Aktifkan kembali langganan ini**.
+3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
+4. Pilih **Simpan**.
 
-2. Pada halaman Produk & layanan, temukan langganan yang ingin Anda aktifkan kembali.
-
-3. Di bagian Tagihan, pilih **Aktifkan kembali**.  Jika Anda berada di tampilan Kartu, klik elipsis di antara Nama dan Jumlah yang tersedia lalu pilih Aktifkan kembali pada menu. **Catatan**: jika Anda tidak melihat langganan yang dicari, Anda mungkin perlu menyesuaikan filter Status langganan di dekat bagian atas halaman menjadi **Semua**.
-
-4. Konfirmasi detail pembayaran Anda untuk memperbarui informasi pembayaran Anda yang sudah ada. Jika sudah memasukkan metode pembayaran, pilih **Aktifkan ulang**.
-
-Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

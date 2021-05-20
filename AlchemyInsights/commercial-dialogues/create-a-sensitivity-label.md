@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745372"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543760"
 ---
 # <a name="create-a-sensitivity-label"></a>Membuat label sensitivitas
 
 Untuk membuat label sensitivitas, lakukan langkah-langkah berikut:
 
-1. Masuk ke **[pusat kepatuhan & keamanan Office 365](https://sip.protection.office.com/) > klasifikasi > sensitivitas label**.
-2. Klik **+ buat label** untuk memulai panduan **label sensitivitas yang baru** . Untuk informasi selengkapnya tentang pengaturan enkripsi dan pelabelan otomatis, lihat [membatasi akses ke konten dengan menggunakan enkripsi dalam label sensitivitas](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) dan [menerapkan label sensitivitas ke konten secara otomatis](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Ulangi langkah-langkah ini untuk membuat lebih banyak label. Namun, jika Anda ingin membuat sublabel, pertama-tama pilih label induk, klik **...** untuk **tindakan lainnya**, lalu klik **Tambahkan label**.
-4. Saat Anda telah membuat semua label yang Anda perlukan, Tinjau urutannya dan jika perlu, pindahkan ke atas atau ke bawah. Untuk mengubah urutan label, klik **...** untuk **tindakan lainnya**, lalu klik **pindah ke atas** atau **pindah ke bawah**. 
+1. Masuk ke Office 365 **[Security & Compliance Center](https://sip.protection.office.com/) > Classification > Sensitivity label**.
+2. Klik **+ Buat label** untuk memulai Panduan label **sensitivitas** baru. Untuk informasi selengkapnya tentang pengaturan enkripsi [](/microsoft-365/compliance/encryption-sensitivity-labels) dan label otomatis, lihat Membatasi akses ke konten dengan menggunakan enkripsi dalam label sensitivitas dan Menerapkan [label](/microsoft-365/compliance/apply-sensitivity-label-automatically)sensitivitas ke konten secara otomatis.
+3. Ulangi langkah-langkah ini untuk membuat lebih banyak label. Namun, jika Anda ingin membuat sublabel, pilih label induk terlebih dahulu, pilih tiga titik (tindakan lainnya), lalu pilih **Tambahkan sub label**.
+4. Ketika Anda sudah membuat semua label yang Anda perlukan, tinjau urutannya dan jika perlu, pindahkan label ke atas atau ke bawah. Untuk mengubah urutan label, pilih tiga titik (tindakan lainnya), lalu pilih Pindahkan ke **atas atau** Pindahkan **ke bawah**. 

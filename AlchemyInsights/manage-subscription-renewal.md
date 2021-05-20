@@ -1,10 +1,11 @@
 ---
 title: Mengelola perpanjangan langganan
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,25 +13,21 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: cefdc227b9a9c7151dc2ec9d5075db2f29134840
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195239"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545523"
 ---
 # <a name="manage-subscription-renewal"></a>Mengelola perpanjangan langganan
 
-Untuk mengelola penagihan bulanan atau tahunan, Anda dapat mengaktifkan atau menonaktifkan** Penagihan berulang.**
+Untuk mengelola penagihan bulanan atau tahunan, Anda dapat mengaktifkan atau menonaktifkan **Penagihan berulang.**
 
-1. Di pusat admin, masuk ke ** halaman Tagihan > [Produk & layanan ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  **[Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Pada tab **Produk,** temukan langganan yang ingin Anda kelola, pilih tiga titik (tindakan lainnya), lalu pilih **Edit tagihan berulang**.
+3. Di panel **Edit tagihan berulang,** pilih **Aktif**, **Aktif, perpanjang sekali**, atau **Nonaktifkan**.
+4. Pilih **Simpan**.
 
-2. Pilih langganan yang ingin dikelola perpanjangan otomatisnya.
+Untuk informasi selengkapnya, lihat [Mengaktifkan atau menonaktifkan tagihan berulang](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-3. Di bawah **Tagihan**, di samping**Perpanjang pada**atau**Berakhir pada**, klik**edit**.
-
-4. Pada **Panel pengaturan penagihan berulang**, klik**Tekan MATIKAN** untuk mematikannya. Jika tagihan berulang sudah dinonaktifkan, klik **Bulanan** atau **Sekali** untuk mengaktifkannya.
-
-5. Klik **Kirim perubahan**.
-
-Untuk informasi selengkapnya, lihat [Mengaktifkan atau menonaktifkan tagihan berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

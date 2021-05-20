@@ -1,5 +1,5 @@
 ---
-title: Mengonfigurasi pengecualian untuk pemindaian ATP Microsoft Defender
+title: Mengonfigurasi pengecualian untuk ATP Pertahanan Microsoft pemindaian
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713897"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543688"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Mengonfigurasi pengecualian untuk pemindaian ATP Microsoft Defender
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Mengonfigurasi pengecualian untuk ATP Pertahanan Microsoft pemindaian
 
-Secara umum, Anda bisa mengecualikan ekstensi file dan lokasi folder tertentu dari pemindaian Microsoft Defender ATP. Anda juga bisa mengonfigurasi pengecualian untuk file yang dibuka oleh proses tertentu. Untuk informasi selengkapnya, lihat, [mengonfigurasi dan memvalidasi pengecualian berdasarkan ekstensi file dan lokasi folder](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) serta [mengonfigurasi pengecualian untuk file yang dibuka oleh proses](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Secara umum, Anda dapat mengecualikan ekstensi file dan lokasi folder tertentu dari ATP Pertahanan Microsoft pemindaian. Anda juga dapat mengonfigurasi pengecualian untuk file yang dibuka oleh proses tertentu. Untuk informasi selengkapnya, lihat Mengonfigurasi dan [memvalidasi pengecualian](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) berdasarkan ekstensi file dan lokasi folder dan Mengonfigurasi pengecualian untuk file yang dibuka oleh [proses](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
 
-Untuk mengonfigurasi pengecualian untuk  **Windows server 2016 dan 2019**, lihat [mengonfigurasi pengecualian antivirus Microsoft Defender di Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Untuk mengonfigurasi pengecualian untuk **Windows Server 2016 dan 2019,** lihat Mengonfigurasi [Antivirus Pertahanan Microsoft pengecualian di Windows Server](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
 
-**Mak**
+**Mac**
 
-Untuk detail tentang tipe pengecualian yang didukung dan mengonfigurasi daftar pengecualian untuk Mac, lihat [tipe pengecualian yang didukung](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) dan [cara mengonfigurasi daftar pengecualian](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Untuk detail tentang tipe pengecualian yang didukung dan mengonfigurasi daftar pengecualian untuk Mac, lihat [Tipe](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) pengecualian yang didukung dan Cara [mengonfigurasi daftar pengecualian.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Catatan** Anda juga bisa memvalidasi daftar pengecualian menggunakan file uji EICAR. Untuk informasi selengkapnya, lihat [memvalidasi daftar pengecualian dengan file uji EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Catatan** Anda juga bisa memvalidasi daftar pengecualian menggunakan file uji EICAR. Untuk informasi selengkapnya, [lihat Memvalidasi daftar pengecualian dengan file uji EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Untuk detail tentang tipe pengecualian yang didukung dan mengonfigurasi daftar pengecualian untuk Linux, lihat [tipe pengecualian yang didukung](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) serta [konfigurasi dan validasi pengecualian untuk Microsoft Defender ATP untuk Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Untuk detail tentang tipe pengecualian yang didukung dan mengonfigurasi daftar [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) pengecualian untuk Linux, lihat Tipe pengecualian yang didukung dan Mengonfigurasi dan memvalidasi pengecualian [untuk ATP Pertahanan Microsoft untuk Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Catatan** Anda juga bisa memvalidasi daftar pengecualian menggunakan file uji EICAR. Untuk informasi selengkapnya, lihat [memvalidasi daftar pengecualian dengan file uji EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Catatan** Anda juga bisa memvalidasi daftar pengecualian menggunakan file uji EICAR. Untuk informasi selengkapnya, [lihat Memvalidasi daftar pengecualian dengan file uji EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 

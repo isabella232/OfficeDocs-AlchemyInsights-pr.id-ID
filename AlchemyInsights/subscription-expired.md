@@ -1,10 +1,11 @@
 ---
 title: Langganan kedaluwarsa
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158621"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544293"
 ---
 # <a name="subscription-expired"></a>Langganan kedaluwarsa
 
@@ -25,28 +26,23 @@ Jika langganan kedaluwarsa, atau dinonaktifkan oleh Microsoft, atau jika Anda me
 
 **Mengaktifkan kembali langganan**
 
-1. Di pusat admin, masuk ke ** halaman Tagihan > [Produk & Layanan ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** temukan langganan yang ingin Anda aktifkan kembali, pilih tiga titik (tindakan lainnya), lalu pilih **Aktifkan kembali langganan ini.**
+    > [!NOTE]
+    > Jika Anda tidak melihat Aktifkan **kembali langganan ini,** hubungi dukungan.
+3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
+4. Pilih **Simpan**.
 
-2. Pada halaman Produk & layanan, temukan langganan yang ingin Anda aktifkan kembali.
-
-3. Di bagian Tagihan, pilih **Aktifkan kembali**.  Jika Anda berada di tampilan Kartu, klik elipsis di antara Nama dan Jumlah yang tersedia lalu pilih Aktifkan kembali pada menu. **Catatan**: jika Anda tidak melihat langganan yang dicari, Anda mungkin perlu menyesuaikan filter Status langganan di dekat bagian atas halaman menjadi **Semua**.
-
-4. Konfirmasi detail pembayaran Anda untuk memperbarui informasi pembayaran Anda yang sudah ada. Jika sudah memasukkan metode pembayaran, pilih **Aktifkan ulang**.
-
-Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Mengelola perpanjangan langganan**
 
 Untuk mengelola penagihan bulanan atau tahunan, Anda dapat mengaktifkan atau menonaktifkan Penagihan berulang.
 
-1. Di pusat admin, masuk ke ** halaman Tagihan > [Produk & Layanan ](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** pilih langganan yang ingin Anda kelola.
+3. Di halaman detail langganan, di **bawah Pengaturan langganan dan pembayaran**, pilih Edit tagihan **berulang**.
+4. Di panel **Edit pengaturan tagihan berulang,** pilih **Aktif**, **Aktif, tapi perpanjang sekali**, **atau Nonaktifkan**.
+5. Pilih **Simpan**.
 
-2. Pilih langganan yang ingin dikelola perpanjangan otomatisnya. 
-
-3. Di bawah Tagihan, di samping Diperpanjang pada atau Kedaluwarsa pada, pilih **edit**.
-
-4. Di panel pengaturan Tagihan berulang, pilih **Nonaktifkan** untuk menonaktifkannya. Jika tagihan berulang sudah dinonaktifkan, klik **Bulanan** atau **Sekali** untuk mengaktifkannya. 
-
-5. Klik **Kirim perubahan**.
-
-Untuk informasi selengkapnya, lihat [Mengaktifkan atau menonaktifkan tagihan berulang](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Untuk informasi selengkapnya, lihat [Mengaktifkan atau menonaktifkan tagihan berulang](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
