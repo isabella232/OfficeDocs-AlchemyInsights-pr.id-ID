@@ -1,5 +1,5 @@
 ---
-title: ATP untuk SharePoint, OneDrive, dan Microsoft teams
+title: Pertahanan Microsoft untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715564"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543580"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="1ea5a-102">ATP untuk SharePoint, OneDrive, dan Microsoft teams</span><span class="sxs-lookup"><span data-stu-id="1ea5a-102">ATP for SharePoint, OneDrive, and Microsoft Teams</span></span>
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a><span data-ttu-id="cf77f-102">Pertahanan Microsoft untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="cf77f-102">Microsoft Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams</span></span>
 
-<span data-ttu-id="1ea5a-103">Ikuti langkah-langkah ini untuk mengaktifkan proteksi ancaman tingkat lanjut:</span><span class="sxs-lookup"><span data-stu-id="1ea5a-103">Follow these steps to enable Advanced Threat Protection:</span></span>
+<span data-ttu-id="cf77f-103">Ikuti langkah-langkah berikut untuk mengaktifkan Pertahanan Microsoft Office 365:</span><span class="sxs-lookup"><span data-stu-id="cf77f-103">Follow these steps to enable Microsoft Defender for Office 365:</span></span>
 
-1. <span data-ttu-id="1ea5a-104">Masuk ke [https://protection.office.com](https://protection.office.com) dan masuk dengan akun administrator global atau administrator keamanan.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+1. <span data-ttu-id="cf77f-104">Buka [https://protection.office.com](https://protection.office.com) dan masuk dengan akun administrator global atau administrator keamanan.</span><span class="sxs-lookup"><span data-stu-id="cf77f-104">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-2. <span data-ttu-id="1ea5a-105">Di panel navigasi kiri di bawah **manajemen ancaman**, pilih **Policy** \> **lampiran aman**kebijakan.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
+2. <span data-ttu-id="cf77f-105">Di panel navigasi kiri di bawah **Manajemen ancaman**, pilih **Kebijakan** \> **Brankas Lampiran**.</span><span class="sxs-lookup"><span data-stu-id="cf77f-105">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Attachments**.</span></span>
 
-3. <span data-ttu-id="1ea5a-106">Pilih **Aktifkan ATP untuk SharePoint, OneDrive, dan Microsoft teams**.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-106">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
+3. <span data-ttu-id="cf77f-106">Pilih **Aktifkan Pertahanan untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="cf77f-106">Select **Turn on Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams**.</span></span>
 
-4. <span data-ttu-id="1ea5a-107">[Membuat kebijakan pemberitahuan aktivitas](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) untuk menerima pemberitahuan ketika kami mendeteksi file berbahaya.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-107">[Create an activity alert policy](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
+4. <span data-ttu-id="cf77f-107">[Buat kebijakan pemberitahuan aktivitas untuk](/microsoft-365/compliance/create-activity-alerts) menerima pemberitahuan ketika kami mendeteksi file berbahaya.</span><span class="sxs-lookup"><span data-stu-id="cf77f-107">[Create an activity alert policy](/microsoft-365/compliance/create-activity-alerts) to receive notifications when we detect malicious files.</span></span>
 
-<span data-ttu-id="1ea5a-108">Untuk instruksi lengkap, lihat [topik](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)ini.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-108">For complete instructions, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="cf77f-108">Untuk instruksi lengkapnya, lihat mengaktifkan Brankas Lampiran untuk [SharePoint, OneDrive, Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="cf77f-108">For complete instructions, see this [Turn on Safe Attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).</span></span>
 
-<span data-ttu-id="1ea5a-109">**Catatan**: berdasarkan desain, ATP tidak memindai setiap file di SharePoint online, OneDrive for Business, atau Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-109">**Note**: By design, ATP doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="1ea5a-110">File dipindai secara asinkron dengan proses yang menggunakan aktivitas berbagi, aktivitas tamu, dan sinyal ancaman untuk mengidentifikasi file berbahaya.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="1ea5a-111">Untuk informasi selengkapnya, lihat [topik](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)ini.</span><span class="sxs-lookup"><span data-stu-id="1ea5a-111">For more information, see this [topic](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
+<span data-ttu-id="cf77f-109">**Catatan**: Secara desain, Pertahanan Microsoft untuk Office 365 tidak memindai setiap file dalam SharePoint Online, OneDrive for Business, atau Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="cf77f-109">**Note**: By design, Microsoft Defender for Office 365 doesn't scan every single file in SharePoint Online, OneDrive for Business, or Microsoft Teams.</span></span> <span data-ttu-id="cf77f-110">File dipindai secara asinkron oleh proses yang menggunakan aktivitas berbagi, aktivitas tamu, dan sinyal ancaman untuk mengidentifikasi file berbahaya.</span><span class="sxs-lookup"><span data-stu-id="cf77f-110">Files are scanned asynchronously by a process that uses sharing activity, guest activity, and threat signals to identify malicious files.</span></span> <span data-ttu-id="cf77f-111">Untuk informasi selengkapnya, [lihat Brankas Lampiran untuk SharePoint, OneDrive, dan Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="cf77f-111">For more information, see [Safe Attachments for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
