@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821117"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626080"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Menetapkan nomor bebas pulsa ke bridge konferensi audio Anda
 
 Untuk menetapkan nomor telepon baru ke bridge konferensi audio:
 
-1. Masuk ke Office 365 dengan akun kerja Anda.
-2. Kunjungi **Pusat admin Microsoft 365 > Pusat admin > Teams & Skype > Portal warisan > Suara > Nomor telepon**.
-3. Pilih nomor telepon dari daftar, lalu di panel **Tindakan**, klik **Tetapkan**.
-4. Pada halaman **Tetapkan**, klik **Simpan**.
+1. Masuk ke Microsoft Teams admin baru.
+1. Di panel navigasi kiri, masuk **ke Jembatan**  >  **Konferensi Rapat**.
+1. Menyoroti nomor tol layanan yang ingin Anda tetapkan sebagai default.
+1. Pilih **Tetapkan sebagai default**.
 
-Untuk informasi selengkapnya, buka [Mengubah nomor telepon bridge Konferensi Audio Anda](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+Untuk informasi selengkapnya, buka [Mengubah nomor telepon bridge Konferensi Audio Anda](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
