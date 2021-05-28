@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809766"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697033"
 ---
 # <a name="recording-in-teams"></a>Perekaman dalam Teams
 
-Kini Rekaman Rapat Microsoft Teams dapat disimpan di OneDrive atau SharePoint, untuk informasi selengkapnya dan untuk memilih, lihat Kiriman Pusat Pesan berikut: [(Diperbarui) Microsoft Teams: rekaman rapat disimpan ke OneDrive dan SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Jika tombol Mulai  perekaman pengguna berwarna abu-abu atau hilang dalam rapat Teams, cobalah menjalankan Diagnostik Perekaman Rapat dengan mengetik **Diag:** Perekaman Rapat dalam kotak di atas. 
 
-Memindahkan lokasi penyimpanan ke OneDrive atau SharePoint akan menghapus persyaratan sebelumnya bahwa Stream tersedia di wilayah Anda.
+Microsoft Teams rapat anda kini dapat disimpan di OneDrive Sharepoint. Memindahkan lokasi penyimpanan ke OneDrive dan SharePoint memperbaiki masalah ketika rekaman rapat tidak berfungsi karena Stream tidak tersedia di kawasan Anda. Untuk informasi selengkapnya, lihat [FAQ Microsoft Stream](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-Untuk mempelajari cara **mengaktifkan dan mengonfigurasi fitur perekaman** di Teams untuk organisasi Anda, **termasuk kontrol untuk mengaktifkan atau menonaktifkan Perekaman Rapat untuk pengguna tertentu**, tinjau [perekaman rapat cloud Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Untuk informasi selengkapnya tentang menyimpan rekaman rapat, lihat postingan Pusat Pesan: [(Diperbarui) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)rekaman rapat disimpan ke OneDrive dan Sharepoint .
 
-Jika Anda **tidak dapat merekam di Teams atau perlu memahami cara merekam** di Teams, silakan baca salah satu artikel berikut:
+Untuk mempelajari cara mengaktifkan dan mengonfigurasi fitur perekaman di Teams organisasi Anda, termasuk kontrol untuk mengaktifkan atau menonaktifkan perekaman rapat untuk pengguna tertentu, lihat [Teams rapat awan](/microsoftteams/cloud-recording). 
 
-- Jika Anda belum memilih penyimpanan OneDrive atau SharePoint untuk Perekaman Rapat Teams, kemampuan tersebut bergantung pada ketersediaan Stream di wilayah dan negara. Jika tidak dapat merekam rapat, periksa untuk memastikan bahwa [Stream tersedia di negara atau wilayah Anda](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Untuk informasi selengkapnya, pastikan untuk meninjau kiriman Pusat Pesan berikut di Portal Admin: [Fitur yang Diperbarui: Kontrol penyimpanan regional rekaman cloud Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Jika Anda masih tidak dapat merekam di Teams atau perlu memahami cara merekam di Teams, lihat: 
 
-- Perekaman Rapat di Teams [memerlukan penetapan kebijakan dan lisensi tertentu](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), termasuk lisensi Stream untuk mengunggah atau mengunduh rekaman rapat ke Microsoft Stream.
+[Fitur yang Diperbarui: Kontrol penyimpanan kawasan rekaman cloud Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Setelah Anda mengonfirmasi bahwa semua persyaratan telah terpenuhi, termasuk lisensi, kebijakan, dan ketersediaan Stream regional, tinjau [Rekam rapat di Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Rekaman rapat di Teams memerlukan lisensi dan kebijakan tertentu yang ditetapkan, termasuk lisensi Stream untuk mengunggah atau mengunduh rekaman rapat ke Microsoft Stream. Untuk detailnya, [lihat Prasyarat untuk Teams rapat awan.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Setelah mengonfirmasi semua persyaratan, termasuk pelisensian, kebijakan, dan ketersediaan regional Stream, tinjau Merekam rapat [di Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 

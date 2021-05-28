@@ -1,5 +1,5 @@
 ---
-title: Tidak dapat menemukan rekaman Rapat teams
+title: Tidak bisa menemukan Teams rapat secara otomatis
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294248"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696939"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>Tidak dapat menemukan rekaman Rapat teams
+# <a name="cant-find-the-teams-meeting-recording"></a>Tidak bisa menemukan Teams rapat secara otomatis
 
-Jika Anda tidak bisa menemukan atau menemukan rekaman Rapat teams, lihat dokumentasi pemecahan masalah berikut:
+Jika Anda tidak bisa menemukan atau menemukan rekaman Teams rapat, pertama-Teams menjalankan Diagnostik Perekaman Rapat yang Hilang dengan mengetik **diag:** Perekaman Hilang dalam kotak di atas. 
 
-[Memecahkan masalah rekaman Rapat tim-Microsoft teams | Dokumen Microsoft](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+Rekaman ditemukan di Stream, OneDrive, atau SharePoint tergantung pada bagaimana penyewa Anda dikonfigurasi dan apakah rekaman itu untuk rapat Saluran. Untuk instruksi tentang cara menemukan rekaman rapat secara manual, lihat: 
 
-Rekaman Rapat Anda akan berada di streaming, OneDrive atau SharePoint tergantung pada bagaimana penyewa Anda dikonfigurasikan.
+[Masalah 2: Tautan rekaman rapat tidak terlihat di jendela obrolan](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Untuk instruksi tentang cara menemukan rekaman Rapat, lihat:
-
-**[Masalah 2: link perekaman Rapat tidak terlihat di jendela obrolan](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+Untuk informasi selengkapnya, [lihat Masalah dengan rekaman rapat](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
