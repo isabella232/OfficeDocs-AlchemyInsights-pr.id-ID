@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755663"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853872"
 ---
 # <a name="information-about-gdpr"></a>Informasi tentang GDPR
 
-- Mulai menggunakan [portal kepercayaan layanan.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GDPR disederhanakan: Panduan untuk bisnis kecil Anda](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- Untuk apa pun yang terkait dengan **data Processing Agreement** (DPA), Tinjau:
+- Mulai dengan Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
-  - [Sumber daya perlindungan data](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
+- Untuk apa pun yang terkait **dengan Perjanjian Pemrosesan Data** (DPA), tinjau:
+
+  - [Sumber Daya Perlindungan Data](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [Laporan Audit](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- Informasi tentang **data Subject requests** (DSR)-temukan, akses, memperbaiki, membatasi, menghapus, mengekspor ke [sini.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- Informasi tentang Permintaan Subjek Data (DSR, **Data Subject Requests)** - discover, access, rectify, restrict, delete, export is [here.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- Informasi tentang **pemberitahuan pelanggaran data** ada [di sini.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- Informasi tentang **Pemberitahuan Pelanggaran Data ada** di [sini.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- Informasi tentang **Lokasi data** ada [di sini.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
+- Informasi tentang **lokasi data ada** di [sini.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
