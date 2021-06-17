@@ -1,5 +1,5 @@
 ---
-title: Menggunakan Jamf untuk mengonfigurasi pengaturan kebijakan Microsoft Edge di macOS
+title: Menggunakan Jamf untuk mengonfigurasi Microsoft Edge kebijakan di macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403458"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989792"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Menggunakan Jamf untuk mengonfigurasi pengaturan kebijakan Microsoft Edge di macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Menggunakan Jamf untuk mengonfigurasi Microsoft Edge kebijakan di macOS
 
-Untuk mengonfigurasi Microsoft Edge (saluran Stabil 81 atau lebih baru) di macOS, gunakan file manifes kebijakan Microsoft Edge di Jamf Pro 10.19.
+Untuk mengonfigurasi Microsoft Edge (Saluran stabil 81 atau lebih baru) di macOS, gunakan file manifes kebijakan Microsoft Edge pada Jamf Pro 10.19.
 
-Untuk informasi selengkapnya, lihat [Mengonfigurasi pengaturan kebijakan Microsoft Edge di macOS dengan Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+Untuk informasi selengkapnya, lihat [Mengonfigurasi Microsoft Edge kebijakan di macOS dengan Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).

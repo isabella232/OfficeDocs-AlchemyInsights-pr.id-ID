@@ -1,5 +1,5 @@
 ---
-title: Menampilkan status manajemen Microsoft Apps dengan menggunakan Microsoft Edge untuk perangkat iOS atau Android
+title: Menampilkan status manajemen aplikasi Microsoft menggunakan Microsoft Edge untuk perangkat iOS atau Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678021"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989900"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Menampilkan status manajemen Microsoft Apps dengan menggunakan Microsoft Edge untuk perangkat iOS atau Android
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Menampilkan status manajemen aplikasi Microsoft menggunakan Microsoft Edge untuk perangkat iOS atau Android
 
-Untuk mengakses log aplikasi untuk digunakan dalam pemecahan masalah aplikasi iOS atau Android yang dikelola, buka Microsoft Edge dan ketikkan **about: intunehelp** dalam kotak Alamat. Luncurkan Microsoft Edge dalam mode pemecahan masalah.
+Untuk mengakses log aplikasi yang digunakan dalam memecahkan masalah aplikasi iOS atau Android yang dikelola, buka Microsoft Edge lalu ketik **tentang:intunehelp** dalam kotak alamat. Microsoft Edge diluncurkan dalam mode pemecahan masalah.
 
-Untuk daftar pengaturan yang disimpan dalam log aplikasi, lihat [meninjau log proteksi aplikasi klien](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Untuk daftar pengaturan yang disimpan di log aplikasi, lihat [Meninjau log proteksi aplikasi klien](/mem/intune/apps/app-protection-policy-settings-log).
 
-Untuk mempelajari cara menampilkan log aplikasi di perangkat Android, lihat [mengunggah dan log email](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Untuk mempelajari cara menampilkan log aplikasi di perangkat Android, lihat [Upload email dan log email.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
