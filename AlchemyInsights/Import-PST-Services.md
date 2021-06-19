@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721639"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023106"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Layanan impor
 
@@ -29,9 +29,9 @@ Untuk mengakses layanan Impor dan memulai proses impor:
 
 1. Di panel kiri Pusat Kepatuhan M365 di bawah **Solusi**, pilih **Impor tata kelola**  >  **informasi**.
 
-1. Di halaman **Impor,** pilih **Pekerjaan impor baru**.
+1. Di halaman **Impor,** pilih **Pekerjaan impor baru**. Masukkan nama pekerjaan, lalu pilih **Berikutnya**.
 
-1. Untuk menyelesaikan langkah-langkah dalam panduan, lihat [Menggunakan unggahan jaringan untuk mengimpor file PST organisasi Anda ke Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Pilih **Upload data Anda** untuk menggunakan opsi unggahan jaringan untuk Tipe Pekerjaan **Impor.** Untuk langkah detailnya, [lihat Menggunakan unggahan jaringan untuk mengimpor file PST organisasi Anda ke Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 Untuk mengakses **halaman** Impor, pastikan Anda telah diberi izin yang sesuai. Untuk informasi selengkapnya, lihat [Menggunakan unggahan jaringan untuk mengimpor file PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
