@@ -1,5 +1,5 @@
 ---
-title: Panduan pemutakhiran teams
+title: Teams panduan pemutakhiran
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333931"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095403"
 ---
-# <a name="microsoft-teams-upgrade"></a>Pemutakhiran Microsoft teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams baru
 
-**Penting**: jika Anda telah memutakhirkan dari Skype for Business Online ke Microsoft teams dalam mode teams saja, tetapi menemukan Anda belum siap, kami bisa membantu memperbaiki hal ini untuk Anda menggunakan diagnostik dukungan. Pastikan Anda menggunakan pusat admin baru dengan menggeser tombol alih di bagian kanan atas yang mengatakan **Pusat admin baru**ke kanan. Menggunakan pusat admin baru, klik widget **perlu bantuan?** , ketikkan "**teams dimutakhirkan**", lalu ikuti perintah untuk menjalankan diagnostik.
+Baik Anda baru mulai menggunakan Teams, sudah menggunakan Teams bersama dengan Skype for Business, atau siap memutakhirkan, kami ingin memastikan Anda memiliki semua hal yang diperlukan untuk berhasil melakukan navigasi ke Teams. Untuk informasi selengkapnya, silakan kunjungi tautan di bawah ini.
 
-Apakah Anda baru saja mulai menggunakan teams, sudah menggunakan teams bersama dengan Skype for Business, atau siap untuk memutakhirkan, kami ingin memastikan bahwa Anda memiliki semua yang diperlukan untuk menavigasi perjalanan yang sukses ke teams. Untuk informasi selengkapnya, kunjungi link di bawah ini.
+[Mulai menggunakan peningkatan Microsoft Teams Anda](/MicrosoftTeams/upgrade-start-here)
 
-[Memulai Pemutakhiran Microsoft teams Anda](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Rencanakan pemutakhiran Anda](/MicrosoftTeams/upgrade-plan-journey)
 
-[Merencanakan pemutakhiran Anda](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Memahami Microsoft Teams dan Skype for Business koeksistensi](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Memahami koeksistensi Microsoft teams dan Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Melakukan pemutakhiran dari Skype for Business Online ke Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Melakukan pemutakhiran dari Skype for Business online untuk teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Melakukan pemutakhiran dari Skype for Business di tempat untuk teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Melakukan pemutakhiran dari Skype for Business lokal ke Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Periksa status Skype for Business online untuk memutakhirkan teams dengan PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Memeriksa status pembaruan Skype for Business Online untuk Teams dengan PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

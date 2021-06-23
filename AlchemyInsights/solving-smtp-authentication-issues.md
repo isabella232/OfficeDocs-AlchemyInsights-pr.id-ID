@@ -1,5 +1,5 @@
 ---
-title: Mengatasi masalah autentikasi SMTP
+title: Mengaktifkan autentikasi SMTP dan pemecahan masalah
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826418"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077654"
 ---
-# <a name="solving-smtp-authentication-issues"></a>Mengatasi masalah autentikasi SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>Mengaktifkan autentikasi SMTP dan pemecahan masalah
 
-Jika mendapatkan kesalahan 5.7.57 atau 5.7.3 ketika mencoba mengirim email SMTP dan mengautentikasi dengan klien atau aplikasi, ada beberapa hal yang harus Anda periksa:
+Jika ingin mengaktifkan autentikasi SMTP untuk kotak surat atau mendapatkan kesalahan "Client not authenticated", "Authentication unsuccessful", atau "SmtpClientAuthentication" dengan kode 5.7.57 atau 5.7.3 atau 5.7.139 ketika mencoba melakukan relai email dengan mengautentikasi perangkat atau aplikasi dengan Microsoft 365, lakukan tiga tindakan ini untuk mengatasi masalah tersebut:
 
-- Pengiriman SMTP terautentikasi mungkin dinonaktifkan di penyewa Anda, atau di kotak surat yang coba Anda gunakan (periksa kedua pengaturan). Untuk membaca selengkapnya, lihat [Mengaktifkan atau menonaktifkan pengiriman SMTP klien terautentikasi.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. Nonaktifkan [default keamanan Azure](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) dengan mengaktifkan keamanan default **ke** **Tidak.**
 
-- Periksa apakah [Default Keamanan Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) diaktifkan untuk penyewa Anda; jika diaktifkan, autentikasi SMTP yang menggunakan autentikasi dasar (juga dikenal sebagai warisan; hal ini akan menggunakan nama pengguna dan kata sandi) akan gagal.
+    a. Masuk ke portal Azure sebagai administrator Keamanan, administrator Akses Kondisional, atau administrator global.<BR/>
+    b. Telusuri ke Azure Active Directory > **Properti.**<BR/>
+    c. Pilih **Kelola default keamanan.**<BR/>
+    d. Atur **Aktifkan default keamanan ke** **Tidak.**<BR/>
+    e. Pilih **Simpan**.
+
+2. [Mengaktifkan pengiriman SMTP Klien](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) pada kotak surat berlisensi.
+
+    a. Dari pusat admin Microsoft 365, masuk ke **Pengguna Aktif**, lalu pilih pengguna.<BR/>
+    b. Masuk ke tab Email, dan di **bawah Aplikasi email**, pilih Kelola aplikasi **email**.<BR/>
+    d. Pastikan SMTP **Terautentikasi** dicentang (diaktifkan).<BR/>
+    e. Pilih **Simpan perubahan.**<BR/>
+
+3. [Menonaktifkan Multi-Factor Authentication (MFA) pada](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) kotak surat berlisensi.
+
+    a. Masuk ke pusat admin Microsoft 365, dan di menu navigasi kiri, pilih **Pengguna**  >  **Aktif pengguna**.<BR/>
+    b. Pilih **Multi-factor authentication**.<BR/>
+    c. Pilih pengguna dan nonaktifkan **Multi-Factor auth**.<BR/>
