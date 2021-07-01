@@ -1,5 +1,5 @@
 ---
-title: 955 cara mengonfigurasi MFA
+title: 955 Cara mengonfigurasi MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704456"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218777"
 ---
-# <a name="configure-multi-factor-authentication"></a>Mengonfigurasi autentikasi multifaktor
+# <a name="configure-multi-factor-authentication"></a>Mengonfigurasi multi-factor authentication
 
-Untuk mengonfigurasi MFA, lihat [menyiapkan multi-Factor Authentication](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Untuk mengonfigurasi MFA, [lihat Menyiapkan multi-factor authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) atau menggunakan pusat admin Microsoft 365 penyiapan [.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)
 
-Perhatikan bahwa Anda harus menjadi admin global untuk mengaktifkan dan mengonfigurasi MFA.
+**Catatan**: Anda harus menjadi admin global untuk mengaktifkan dan mengonfigurasi MFA.

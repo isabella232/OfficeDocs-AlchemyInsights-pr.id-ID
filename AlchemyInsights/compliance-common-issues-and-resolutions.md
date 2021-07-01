@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470206"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195487"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Masalah dan resolusi umum terkait kepatuhan
 
-Untuk bantuan dalam menampilkan pemberitahuan, lihat [Kebijakan pemberitahuan di pusat keamanan dan kepatuhan](/microsoft-365/compliance/alert-policies.md).
+Untuk bantuan dalam menampilkan pemberitahuan, lihat [Kebijakan pemberitahuan di pusat keamanan dan kepatuhan](/microsoft-365/compliance/alert-policies).
 
 Berikut adalah beberapa topik yang sering diminta untuk kepatuhan:
 
-- Cara mengonfigurasi Arsip dan pesan tidak otomatis berpindah ke arsip: Perlu [Mengaktifkan Arsip, Menyiapkan Kebijakan Arsip](/microsoft-365/compliance/enable-archive-mailboxes.md), dan [Meningkatkan Ukuran Arsip](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Cara mengonfigurasi Arsip dan pesan tidak otomatis berpindah ke arsip: Perlu [Mengaktifkan Arsip, Menyiapkan Kebijakan Arsip](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes), dan [Meningkatkan Ukuran Arsip](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Kebijakan Penyimpanan: Pertanyaan terkait [Penghitungan Umur Penyimpanan](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [Menambahkan atau Menghapus Tag Penyimpanan](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [Menggunakan Kebijakan Penyimpanan di Pusat Keamanan dan Kepatuhan](/microsoft-365/compliance/retention-policies.md) untuk mempertahankan atau menghapus konten.
+- Kebijakan Penyimpanan: Pertanyaan terkait [Penghitungan Umur Penyimpanan](/exchange/security-and-compliance/messaging-records-management/retention-age), [Menambahkan atau Menghapus Tag Penyimpanan](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [Menggunakan Kebijakan Penyimpanan di Pusat Keamanan dan Kepatuhan](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) untuk mempertahankan atau menghapus konten.
 
-- Menyiapkan EDiscovery dan Pencarian dan Ekspor Konten: [Pencarian Konten](/microsoft-365/compliance/search-for-content.md) dan [Mengekspor Hasil Pencarian](/microsoft-365/compliance/export-search-results.md).
+- Menyiapkan EDiscovery dan Pencarian Konten dan Ekspor: [Pencarian Konten dan](/microsoft-365/compliance/content-search) Ekspor Hasil [Pencarian.](/microsoft-365/compliance/export-search-results)
 
-- Pengauditan di O365: [Log Audit Pencarian di O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- Pengauditan di O365: [Log Audit Pencarian di O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Pencegahan Kehilangan Data (DLP): Lihat [Gambaran Umum Pencegahan Kehilangan Data (DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md) untuk informasi selengkapnya.
+- Pencegahan Kehilangan Data(DLP): Lihat [Gambaran Umum Tentang Pencegahan Kehilangan Data (DLP, Data Loss Prevention)](/microsoft-365/compliance/data-loss-prevention-policies) untuk informasi selengkapnya.
  
-- Label sensitivitas : Untuk mempelajari selengkapnya, lihat [Membuat dan mengonfigurasi label sensitivitas serta kebijakannya](/microsoft-365/compliance/create-sensitivity-labels.md).
+- Label sensitivitas: Untuk mempelajari selengkapnya, lihat [Membuat dan mengonfigurasi label sensitivitas dan kebijakannya](/microsoft-365/compliance/create-sensitivity-labels).
+
+- Menampilkan kebijakan pemberitahuan: [Lihat Kebijakan pemberitahuan di pusat kepatuhan Microsoft 365](/microsoft-365/compliance/alert-policies).
+
+- Complicance center izinons: [Lihat Izin dalam pusat kepatuhan Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Catatan**: Untuk jawaban yang lebih spesifik tentang masalah kepatuhan, susun ulang pertanyaan Anda dan sertakan kesalahan apa pun yang Anda lihat atau fitur yang digunakan.
