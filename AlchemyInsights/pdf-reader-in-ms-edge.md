@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677951"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255894"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>Pembaca PDF di Microsoft Edge
 
-Popularitas file PDF menyoroti kebutuhan pembaca PDF yang andal, aman, dan andal yang bisa diadopsi oleh perusahaan perusahaan. Pembaca PDF kaya fitur yang disertakan dalam Microsoft Edge (versi 77 dan yang lebih baru) hanyalah aplikasi. Bekerja di Windows dan macOS, dan dapat digunakan untuk membuka dan membuat anotasi file PDF yang bersifat lokal, online, atau disematkan di halaman web.
+Popularitas file PDF menyoroti perlunya pembaca PDF yang dapat dipercaya, aman, dan canggih yang dapat diterapkan oleh perusahaan perusahaan. Pembaca PDF kaya fitur yang dibuat pada Microsoft Edge (versi 77 dan yang lebih baru) hanyalah sebuah aplikasi. Aplikasi berfungsi di Windows dan macOS, dan dapat digunakan untuk membuka dan membuat anotasi file PDF lokal, online, atau yang disematkan di halaman web.
 
-Untuk mempelajari selengkapnya, lihat [PDF Reader di Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Untuk mempelajari selengkapnya, lihat [Pembaca PDF di Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
