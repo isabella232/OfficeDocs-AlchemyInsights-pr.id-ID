@@ -1,5 +1,5 @@
 ---
-title: Dukungan Microsoft Edge untuk Microsoft Defender Application Guard
+title: Microsoft Edge dukungan untuk Application Guard Pertahanan Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583581"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346065"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Dukungan Microsoft Edge untuk Microsoft Defender Application Guard
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge dukungan untuk Application Guard Pertahanan Microsoft
 
-Didesain untuk Windows 10 dan Microsoft Edge, aplikasi Guard menggunakan pendekatan isolasi perangkat keras yang memungkinkan pengguna menavigasi situs tidak tepercaya dari dalam wadah yang terisolasi dan Hyper-V yang diaktifkan, dipisahkan dari sistem operasi host.
+Pertahanan Microsoft untuk Identitas menyediakan lokasi pusat tempat admin dapat mengidentifikasi, mendeteksi, dan menyelidiki ancaman identitas lokal. 
 
-Admin perusahaan menentukan daftar situs web tepercaya, sumber daya awan, dan jaringan internal. Saat pengguna mengunjungi situs yang tidak ada di daftar, Microsoft Edge akan membuka situs tersebut dalam wadah. Ini berarti bahwa jika situs ternyata berbahaya, PC host akan tetap terlindung dan penyerang tidak bisa masuk ke data perusahaan.
+Gunakan panduan [penyetelan Pertahanan Microsoft untuk Identitas](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) untuk memverifikasi bahwa Anda sudah memenuhi semua prasyarat lingkungan; membuat contoh, terhubung ke Direktori Aktif, dan menginstal sensor Anda. 
 
-Penginstalan ekstensi dalam wadah didukung sebagai Microsoft Edge versi 81, dan dapat dikontrol melalui kebijakan. Alamat updateURL yang akan digunakan dalam kebijakan ExtensionInstallForcelist harus ditambahkan sebagai sumber daya netral dalam kebijakan isolasi jaringan yang digunakan oleh penjaga aplikasi.
-
-Untuk informasi selengkapnya, lihat [dukungan Microsoft Edge untuk Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2134229).
+Setelah selesai, identitas pengguna akan dipantau, dan tindakan langsung dapat dilakukan terhadap aktivitas berbahaya yang mesusupi organisasi Anda.
