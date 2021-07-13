@@ -1,7 +1,7 @@
 ---
 title: Menambahkan kontak ke grup O365
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -14,15 +14,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 315ea0fd00da68210175bb21510bea4cb35386fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d86cf5a2a4aa59399af5a1555d16f53e1df18028
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822530"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389148"
 ---
-# <a name="add-contacts-to-a-microsoft-365-group"></a>Menambahkan kontak ke Grup Microsoft 365
+# <a name="add-contacts-to-a-microsoft-365-group"></a>Menambahkan kontak ke Microsoft 365 Grup
 
-Pemilik grup dapat menambahkan pengguna eksternal dan kontak email di Outlook dengan mengikuti instruksi ini: [Menambahkan dan menghapus anggota grup di Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
+Pemilik grup dapat menambahkan pengguna eksternal dan kontak email Outlook dengan mengikuti instruksi ini: Menambahkan dan [menghapus anggota grup Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)
   
-Anda juga dapat menambahkan atau menghapus anggota grup di Portal Admin: Menambahkan atau menghapus anggota dari grup Microsoft 365 menggunakan pusat [admin Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+Anda juga bisa menambahkan atau menghapus anggota grup di Portal Admin: [Menambahkan atau menghapus anggota Microsoft 365 grup menggunakan pusat admin Microsoft 365](/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
