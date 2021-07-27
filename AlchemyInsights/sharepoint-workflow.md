@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah alur kerja di SharePoint
+title: Memecahkan masalah Alur Kerja di SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800251"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586937"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Memecahkan masalah alur kerja di SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Memecahkan masalah Alur Kerja di SharePoint
 
-**Pemecahan masalah dan alur kerja debug di SharePoint**
+**Pemecahan Masalah dan Debug Alur Kerja di SharePoint**
 
-Lihat [memecahkan masalah kesalahan validasi alur kerja SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) dan [debugging alur kerja SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Untuk informasi selengkapnya, lihat:
 
-**Otomatisasi Power**
+- [Memecahkan SharePoint kesalahan validasi alur kerja](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Debug SharePoint kerja baru.](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- [Mengumpulkan SharePoint 2013 Workflow troubleshooting data dengan ShowScopeDeinfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Jika Anda baru saja mulai menggunakan alur kerja, pertimbangkan untuk menggunakan [otomatisasi Power](https://docs.microsoft.com/power-automate/modern-approvals) dan bukan solusi alur kerja SharePoint klasik.
+**Power Automate**
 
-Untuk informasi selengkapnya, lihat [alur kerja SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)gagal.
+Jika Anda baru saja mulai menggunakan alur kerja, pertimbangkan untuk [menggunakan Power Automate](/power-automate/modern-approvals) solusi alur kerja SharePoint klasik.
+
+Untuk informasi selengkapnya, [lihat SharePoint menghentikan alur kerja](/alchemyinsights/sharepoint-workflows-retiring).

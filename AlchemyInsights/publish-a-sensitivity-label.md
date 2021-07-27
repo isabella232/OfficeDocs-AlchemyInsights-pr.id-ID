@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539647"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532258"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Cara menerbitkan label sensitivitas
 
-1. Masuk ke Office 365 Security & Compliance Center > **Classification**  >  **Sensitivity labels**.
+1. Masuk ke Microsoft 365 Pusat Kepatuhan > **kebijakan Label Perlindungan**  >  **Informasi**.
 
-1. Di halaman Label sensitivitas, pilih **tab Kebijakan** label, lalu pilih **Terbitkan label**.
+1. Pilih **+ Terbitkan label** untuk memulai Panduan label sensitivitas baru.
 
 1. Pilih **Pilih label sensitivitas untuk menerbitkan**. Pilih label yang ingin Anda buat tersedia dalam aplikasi dan layanan, lalu pilih **Tambahkan**.
 

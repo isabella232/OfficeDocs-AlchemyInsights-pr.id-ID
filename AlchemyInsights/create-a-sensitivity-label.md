@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: 1f73d41abf9318943772c0e4f18d4dfd9f3869b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 69beadfaaa9303ddb4b89d288da38b7f7f9a925c
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543652"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532186"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Cara membuat label sensitivitas
 
-1. Masuk ke Office 365 Security & Compliance Center > **Classification**  >  **Sensitivity labels**.
+1. Masuk ke Microsoft 365 Pusat Kepatuhan > **Label Perlindungan**  >  **Informasi**.
 
 1. Pilih **+ Buat label** untuk memulai Panduan label sensitivitas baru.
 
