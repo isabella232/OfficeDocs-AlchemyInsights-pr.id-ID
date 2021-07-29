@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779054"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630180"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Mengidentifikasi aktivitas aturan kotak masuk dalam log audit
 
-Anda dapat menggunakan pencarian log audit di pusat kepatuhan & keamanan Microsoft 365 untuk menampilkan kejadian aturan kotak masuk (membuat, mengubah, dan menghapus aturan kotak masuk).
+Anda dapat menggunakan pencarian log audit di pusat Microsoft 365 Security & Compliance untuk menampilkan kejadian aturan kotak masuk (membuat, mengubah, dan menghapus aturan kotak masuk).
 
-1. Masuk ke [pusat kepatuhan & keamanan Microsoft 365](https://protection.office.com/).
+1. Masuk ke pusat [Microsoft 365 Kepatuhan Anda.](https://protection.office.com/)
 
-2. Masuk ke halaman **Search**  >  **pencarian log audit** pencarian.
+2. Masuk ke halaman **pencarian**  >  **log Pencarian** audit.
 
-3. Pilih rentang tanggal di bidang tanggal **mulai** dan **tanggal berakhir** .
+3. Pilih rentang tanggal di bidang **Tanggal mulai** **dan Tanggal** selesai.
 
-4. Di bawah **aktivitas kotak surat Exchange**, verifikasi bidang **aktivitas** diatur ke **aturan kotak masuk baru membuat/mengubah/mengaktifkan/menonaktifkan kotak masuk**.
+4. Di **Exchange Aktivitas Kotak Surat,** verifikasi bidang Aktivitas diatur ke **Buat/ubah/aktifkan/nonaktifkan** aturan kotak masuk dengan Kotak Masuk Baru. 
 
-5. Klik **Cari**.
+5. Klik **Cari.**
 
-Dalam hasil, pilih catatan audit. Dalam Flyout detail, klik **informasi selengkapnya**. Informasi tentang pengaturan aturan kotak masuk ditampilkan dalam bidang **parameter** .
+Dalam hasil, pilih catatan audit. Di flyout detail, klik **Informasi Selengkapnya.** Informasi tentang pengaturan aturan kotak masuk ditampilkan di **bidang** Parameter.
 
-Untuk informasi selengkapnya, lihat [menentukan apakah pengguna membuat aturan kotak masuk](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Untuk informasi selengkapnya, lihat [Menentukan apakah pengguna telah membuat aturan kotak masuk](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

@@ -13,27 +13,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 295418f3c433df2ba1004f4bec4377c68e6bb155
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668313"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630288"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Mengidentifikasi alamat IP dan klien dalam log audit
 
-Alamat IP yang terkait dengan aktivitas oleh pengguna atau administrator Microsoft 365 diperlihatkan dalam log audit. Informasi klien juga dicatat. Berikut adalah langkah-langkah untuk mengidentifikasi informasi tersebut
+Alamat IP yang berkaitan dengan aktivitas oleh Microsoft 365 atau administrator diperlihatkan dalam Log Audit. Informasi klien juga dicatat. Berikut langkah-langkah untuk mengidentifikasi informasi tersebut
 
-1. Masuk ke [pusat kepatuhan & keamanan Microsoft 365](https://protection.office.com/).
+1. Masuk ke pusat [Microsoft 365 Kepatuhan Anda.](https://protection.office.com/)
 
-2. Masuk ke halaman **Search**  >  **pencarian log audit** pencarian.
+2. Masuk ke halaman **pencarian**  >  **log Pencarian** audit.
 
-   Jika Anda tertarik dengan aktivitas tertentu, pilih dari daftar **aktivitas** . Jika tidak, semua aktivitas akan dikembalikan untuk pengguna yang dipilih (pengaturan default).
+   Jika Anda tertarik pada aktivitas tertentu, pilih aktivitas tersebut dari **daftar** Aktivitas. Jika tidak, semua aktivitas akan dikembalikan untuk pengguna yang dipilih (pengaturan default).
 
-   **Catatan**: aktivitas tertentu mungkin tidak tersedia di menu **aktivitas** ; Namun, item audit tersebut akan dikembalikan jika **memperlihatkan hasil untuk semua aktivitas** yang dipilih (pengaturan default).
+   **Catatan**: Aktivitas tertentu mungkin tidak tersedia **di** menu Aktivitas; namun, item audit tersebut akan dikembalikan jika **Perlihatkan Hasil untuk semua aktivitas** dipilih (pengaturan default).
 
-3. Tentukan nama pengguna di bidang **pengguna** , pilih rentang tanggal yang sesuai untuk aktivitas tersebut, lalu klik **Cari**.
+3. Tentukan nama pengguna di **bidang** Pengguna, pilih rentang tanggal yang sesuai untuk aktivitas tersebut, lalu klik **Cari.**
 
-Dalam hasil, Anda dapat melihat alamat IP untuk aktivitas tersebut di panel hasil. Pilih catatan audit untuk melihat informasi mendetail dalam Flyout **detail** (misalnya, klien, pengguna yang melakukan tindakan, dsb.).
+Dalam hasil, Anda dapat melihat alamat IP untuk aktivitas tersebut di panel hasil. Pilih catatan audit untuk melihat informasi mendetail dalam **flyout** Detail (misalnya, Klien, Pengguna yang melakukan tindakan, dll.).
 
-Untuk informasi selengkapnya, lihat [menemukan alamat IP komputer yang digunakan untuk mengakses akun yang dikompromikan](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Untuk informasi selengkapnya, [lihat Menemukan alamat IP komputer yang digunakan untuk mengakses akun dibobol.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

@@ -1,5 +1,5 @@
 ---
-title: 1488-melakukan-eDiscovery-dan-konten-pencarian
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668517"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630216"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan pencarian konten dan pencarian eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan Pencarian Konten dan pencarian eDiscovery
 
-**Untuk melakukan pencarian konten**:
+**Untuk melakukan pencarian konten:**
 
-1. Masuk ke [pusat kepatuhan & keamanan](https://protection.office.com) dan masuk.
-2. Klik **cari > konten** pencarian.
-3. Klik **pencarian baru** untuk membuat pencarian baru.
+1. Masuk ke Microsoft 365 Kepatuhan Penuh, lalu masuk.
+2. Pilih **Pencarian > Pencarian Konten.**
+3. Pilih **Pencarian baru** untuk membuat pencarian baru.
 4. Masukkan kondisi pencarian yang diperlukan termasuk kata kunci dan lokasi konten.
-5. Klik **simpan & Jalankan** untuk menamai pencarian, mulai, lalu pratinjau hasilnya.
+5. Pilih **Simpan & jalankan** untuk memberi nama pencarian, memulainya, lalu pratinjau hasilnya.
 
 > [!NOTE]
-> Di **pusat kepatuhan M365**, di bawah **solusi**, pilih Perluas **eDiscovery** dan pilih alat eDiscovery yang Anda inginkan.
+> Di **Microsoft 365 Pusat Kepatuhan**  >  **,** perluas **eDiscovery** dan pilih alat eDiscovery yang Anda inginkan.
 
-Untuk instruksi mendetail tentang pencarian konten, mengekspor hasil, dan membuat kasus eDiscovery untuk menangguhkan data, lihat [pencarian konten](https://docs.microsoft.com/microsoft-365/compliance/content-search) dan [kasus eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Untuk instruksi mendetail tentang pencarian konten, mengekspor hasil, dan membuat kasus [](/microsoft-365/compliance/content-search) eDiscovery untuk menampung data, lihat Pencarian Konten dan kasus [eDiscovery.](/microsoft-365/compliance/ediscovery-cases)
 
-**Informasi selengkapnya**:
+**Informasi selengkapnya:**
 
-- Untuk informasi selengkapnya tentang alat eDiscovery di Microsoft 365, lihat [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Pelajari tentang izin, persyaratan, dan batas yang diperlukan untuk melakukan pencarian eDiscovery dari [izin yang diperlukan untuk pencarian](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) dan [batasan](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)eDiscovery.
-- Jika Anda memecahkan masalah eDiscovery, lihat [eDiscovery pemecahan masalah umum](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) dan [menyelidiki sebagian item yang diindeks](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Untuk informasi selengkapnya tentang alat eDiscovery Microsoft 365, lihat [eDiscovery](/microsoft-365/compliance/ediscovery).
+- Pelajari mengenai izin, persyaratan, dan batasan yang diperlukan untuk melakukan pencarian eDiscovery dari Izin yang diperlukan untuk pencarian dan persyaratan [serta batas](/microsoft-365/compliance/limits-for-content-search) [eDiscovery.](/microsoft-365/compliance/assign-ediscovery-permissions)
+- Jika Anda memecahkan masalah eDiscovery, lihat [eDiscovery Memecahkan](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) masalah umum dan menyelidiki [item yang diindeks sebagian.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
