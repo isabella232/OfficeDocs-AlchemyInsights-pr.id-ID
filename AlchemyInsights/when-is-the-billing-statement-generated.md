@@ -1,9 +1,10 @@
 ---
-title: Kapan pernyataan tagihan dibuat?
+title: Kapan laporan tagihan dibuat?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6e47b352ed0ea0d40af19a54b79fafd1a431aaa
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719200"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685161"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Kapan pernyataan tagihan dibuat
+# <a name="when-is-the-billing-statement-generated"></a>Kapan laporan tagihan dibuat
 
-Tanggal laporan Anda diatur ke hari dalam sebulan setelah akun Anda dibuat. Misalnya, jika Anda membuat akun Anda pada tanggal 20 Januari, tanggal laporan Anda diatur ke 21 untuk setiap bulan berikutnya.
+Tanggal laporan Anda diatur ke hari dari bulan setelah akun Anda dibuat. Misalnya, jika Anda membuat akun pada tanggal 20 Januari, tanggal laporan Anda diatur ke tanggal 21 untuk setiap bulan berikutnya.
 
-Biaya tambahan yang terjadi selama siklus tagihan aktif disertakan dalam faktur untuk bulan berikutnya. Tanggal mulai dan akhir siklus penagihan untuk setiap faktur dicantumkan dalam **ringkasan tagihan** faktur.
+Biaya tambahan yang terjadi selama siklus tagihan aktif disertakan dalam faktur untuk bulan berikutnya. Tanggal mulai dan berakhir siklus tagihan untuk setiap faktur tercantum **dalam Ringkasan Tagihan** faktur.
 
-Kartu kredit dan/atau rekening bank (jika ada) pembayaran diselesaikan hari setelah **tanggal faktur**.
+Pembayaran kartu kredit dan/atau rekening bank (jika berlaku) diselesaikan sehari setelah **Tanggal Faktur.**
   
-Untuk mempelajari selengkapnya, lihat [memahami faktur Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Untuk mempelajari selengkapnya, lihat [Memahami faktur Anda](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

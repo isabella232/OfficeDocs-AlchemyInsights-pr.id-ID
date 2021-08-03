@@ -3,6 +3,8 @@ title: Pertanyaan tentang lisensi
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +14,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d88460df028ad72b9d097d67d71125fff7113efc
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50231866"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685233"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>Pertanyaan tentang lisensi Microsoft 365 Anda
 
 Gunakan langkah-langkah ini untuk mencari tahu berapa banyak lisensi yang Anda beli, atau berapa banyak lisensi yang ditetapkan dari langganan.
   
-1. Di pusat admin, masuk ke halaman **tagihan** \> **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Pada tab **produk** , temukan langganan yang ingin Anda Ketahui selengkapnya. Anda dapat melihat jumlah lisensi yang Anda bayarkan dan berapa banyak yang saat ini ditetapkan.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> **[Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Pada tab **Produk,** temukan langganan yang ingin Anda ketahui lebih lanjut. Anda dapat melihat jumlah lisensi yang dibayar dan jumlah lisensi yang saat ini ditetapkan.
 
-Jika Anda ingin menambahkan lebih banyak lisensi, atau jika Anda memiliki terlalu banyak, pilih langganan. Pada halaman langganan data, pilih **Beli lisensi** atau **Hapus lisensi** untuk menyesuaikan jumlah lisensi untuk langganan.
+Jika ingin menambahkan lebih banyak lisensi, atau jika memiliki terlalu banyak, pilih langganan. Di halaman data langganan, **pilih Beli lisensi** atau Hapus **lisensi** untuk menyesuaikan jumlah total lisensi untuk langganan.
 
-**Tonton video** yang memperlihatkan cara melakukan ini: [membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau [menghapus lisensi yang sudah ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**TONTON video yang** memperlihatkan cara melakukan hal ini: [Membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857) atau Menghapus lisensi yang sudah [ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)

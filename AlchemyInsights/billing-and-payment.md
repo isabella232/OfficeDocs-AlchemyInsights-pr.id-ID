@@ -3,6 +3,8 @@ title: Tagihan dan pembayaran
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820397"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686889"
 ---
 # <a name="billing-and-payment"></a>Tagihan dan pembayaran
 
@@ -35,27 +38,27 @@ Jika membayar menggunakan kartu kredit atau rekening bank, metode pembayaran yan
 
 Jika telah menambahkan kartu baru dan masih menerima pemberitahuan penolakan pada kartu kredit yang lama, Anda mungkin perlu mengaitkan kartu baru tersebut dengan langganan.
 
-1. Di pusat admin, masuk ke **halaman**  >  **Tagihan & metode**  >  [pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. Di pusat admin, masuk ke halaman **Tagihan** > **Tagihan & pembayaran** > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Pilih baris metode pembayaran yang akan diganti. Panel kanan mencantumkan semua profil tagihan dan langganan individu yang menggunakan metode pembayaran yang dipilih.
+2. Pilih baris metode pembayaran yang akan diganti. Panel kanan mencantumkan semua profil tagihan dan langganan individual yang menggunakan metode pembayaran yang dipilih.
 
 3. Di panel kanan, pilih **Ganti metode pembayaran untuk semua item**.
 
-4. Untuk menggunakan metode pembayaran yang sudah ada, pilih salah satu dari daftar menurun, lalu pilih **Ganti**.
+4. Untuk memilih metode pembayaran yang sudah ada, pilih salah satu dari daftar menurun, lalu pilih **Ganti**.
 
     > [!NOTE]
-    > Jika memiliki langganan yang terkait dengan profil tagihan, Anda hanya dapat menggunakan kartu kredit atau debit untuk membayarnya. Jika memiliki rekening bank yang tercantum **di halaman** Metode pembayaran, rekening tersebut tidak tersedia untuk dipilih dalam daftar turun bawah.
+    > Jika memiliki langganan yang dikaitkan dengan profil tagihan, Anda hanya bisa menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
 
 5. Untuk menambahkan metode pembayaran baru, pilih **Tambahkan metode pembayaran**.
 
-6. Di panel **Tambahkan metode pembayaran,** masukkan informasi akun, lalu pilih **Simpan**. Anda harus menggunakan metode pembayaran dari negara yang sama dengan penyewa Anda.
+6. Di panel **Tambahkan metode pembayaran**, masukkan informasi akun, lalu pilih **Simpan**. Anda harus menggunakan metode pembayaran dari negara yang sama dengan penyewa Anda.
 
-7. Metode pembayaran baru sudah dipilih di daftar turun bawah. Pilih **Ganti.**
+7. Metode pembayaran baru sudah dipilih di daftar menurun. Pilih **Ganti**.
 
-Untuk mempelajari selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekuensi tagihan**
 
 Tagihan dibuat secara bulanan atau tahunan, tergantung pada frekuensi tagihan yang dipilih saat checkout.  
 
-**Catatan**: Pesanan dengan tagihan tahunan dapat menerima tagihan di pertengahan periode jika perubahan dilakukan seperti menambahkan atau menghapus lisensi. [Ubah frekuensi tagihan Anda.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Catatan**: Pesanan dengan tagihan tahunan dapat menerima tagihan di pertengahan periode jika perubahan dilakukan seperti menambahkan atau menghapus lisensi. [Ubah frekuensi tagihan Anda.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

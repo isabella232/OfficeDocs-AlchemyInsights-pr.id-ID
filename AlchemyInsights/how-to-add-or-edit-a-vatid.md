@@ -1,35 +1,37 @@
 ---
-title: Cara menambahkan atau mengedit VatID
+title: Cara menambahkan atau mengedit PPN
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489064"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686313"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Cara menambahkan atau mengedit VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Cara menambahkan atau mengedit PPN
 
 > [!NOTE]
-> Jika Anda berada di negara yang menggunakan pajak pertambahan nilai (PPN), seperti Inggris, faktur Microsoft menghitung PPN untuk Anda, dan menerapkan jumlah ke faktur Anda. Untuk informasi selengkapnya, lihat [sanggahan Viden](https://go.microsoft.com/fwlink/p/?LinkID=841741) yang diterbitkan oleh Komisi Eropa.
+> Jika berada di negara yang menggunakan pajak pertambahan nilai, seperti Kerajaan Inggris Bersatu, Microsoft Invoicing akan menghitung PPN untuk Anda dan menerapkan jumlah tersebut ke faktur. Untuk informasi selengkapnya, lihat [Sanggahan VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) yang diterbitkan oleh Komisi Eropa.
 
-**Menambahkan atau mengedit VatID**
+**Menambahkan atau mengedit VATID**
 
-1. Di pusat admin, masuk ke halaman **tagihan** \> [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Pada tab **produk** , pilih langganan yang ingin Anda perbarui.
-3. Pada halaman detail langganan, di bagian **Alamat penggunaan Layanan** , pilih **Edit alamat penggunaan Layanan**.
-4. Di panel **Edit alamat penggunaan layanan Anda** , KETIKKAN id PPN Anda dalam kotak **nomor PPN** , lalu pilih **Simpan**. Setelah Anda melakukan ini, PPN tidak akan dikenakan pada tagihan Anda berikutnya.
+1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Pada tab **Produk,** pilih langganan yang ingin Anda perbarui.
+3. Di halaman detail langganan, di bagian **Alamat penggunaan layanan,** pilih **Edit alamat penggunaan layanan**.
+4. Di panel **Edit alamat penggunaan layanan** Anda, ketik ID PPN Anda di kotak nomor **PPN,** lalu pilih **Simpan.** Setelah Anda melakukan ini, PPN tidak akan ditagihkan pada tagihan Anda berikutnya.
 
-Untuk mempelajari selengkapnya, lihat [pajak apa yang akan dikenakan biaya untuk Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Untuk mempelajari selengkapnya, [lihat Pajak apa yang akan dikenakan untuk tagihan Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

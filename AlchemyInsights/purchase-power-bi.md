@@ -1,8 +1,10 @@
 ---
-title: Beli Power BI
+title: Tanggal Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602043"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686421"
 ---
-# <a name="purchase-power-bi"></a>Beli Power BI
+# <a name="purchase-power-bi"></a>Tanggal Power BI
 
-Power BI dapat dibeli di **Pusat admin Microsoft 365**.
+Power BI bisa dibeli di **pusat admin Microsoft 365**.
 
-1. Masuk ke halaman **[layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) > tagihan** .
-2. Gunakan kotak pencarian untuk mencari "Power BI".
-3. Pilih paket Power BI yang ingin Anda beli, pilih **detail**, lalu pilih **Beli**.
-4. Masukkan jumlah lisensi yang Anda perlukan dan pilih untuk membayar setiap bulan atau setahun penuh. Pilih Apakah Anda ingin menetapkan lisensi secara otomatis kepada setiap orang yang saat ini tidak memiliki lisensi. Lalu pilih **cek keluar sekarang**.
-5. Tinjau informasi harga dan pilih **berikutnya**.
-6. Berikan informasi pembayaran Anda, lalu pilih **pesan**  >  **masuk ke beranda admin**.
+1. Masuk ke **halaman layanan > Pembelian [Tagihan.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. Gunakan kotak Pencarian untuk mencari "Power BI".
+3. Pilih paket Power BI yang ingin Anda beli, pilih **Detail**, lalu pilih **Beli**.
+4. Masukkan jumlah lisensi yang diperlukan dan pilih apakah ingin membayar setiap bulan atau satu tahun penuh. Pilih apakah Anda ingin menetapkan lisensi secara otomatis kepada semua pengguna yang saat ini belum memiliki lisensi. Lalu pilih **Check out sekarang.**
+5. Tinjau informasi harga dan pilih **Berikutnya**.
+6. Berikan informasi pembayaran Anda, lalu pilih **Pesan Masuk** ke  >  **Beranda Admin**.
 
-Untuk menetapkan lisensi kepada pengguna, lihat [menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Untuk menetapkan lisensi ke pengguna, lihat [Menetapkan lisensi kepada pengguna.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Untuk membeli lebih banyak atau menghapus lisensi, lihat [membeli atau menghapus lisensi untuk langganan bisnis Anda](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Untuk membeli lebih banyak atau menghapus lisensi, [lihat Membeli atau menghapus Lisensi untuk langganan bisnis Anda.](/microsoft-365/commerce/licenses/buy-licenses)
