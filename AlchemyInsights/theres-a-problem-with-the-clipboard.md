@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908677"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Mengatasi kesalahan clipboard Excel
+# <a name="resolving-excel-clipboard-error"></a>Mengatasi Excel clipboard Anda
 
-Jika Anda menerima kesalahan di Excel yang mengatakan, "Ada masalah dengan clipboard, tapi Anda masih bisa menempelkan konten Anda di dalam buku kerja ini," cobalah menonaktifkan fitur Pratinjau Langsung dengan mengikuti langkah-langkah ini:
+Jika Anda menerima pesan kesalahan Excel yang mengatakan, "Ada masalah dengan clipboard, tapi Anda masih bisa menempelkan konten Anda di dalam buku kerja ini," cobalah menonaktifkan fitur Pratinjau Langsung dengan mengikuti langkah-langkah ini:
 
-1. Di Excel, klik **Opsi**  >  **File.**
-3. Dalam kotak dialog **Opsi Excel,** pilih **Umum.**
+1. Dalam Excel, klik **Opsi**  >  **File.**
+3. Dalam kotak **dialog Excel** Opsi, pilih **Umum.**
 4. Di **bawah Opsi Antarmuka Pengguna,** **kosongkan Aktifkan Pratinjau Langsung.**
 5. Klik **OK**.
-6. Mulai ulang Excel.
+6. Mulai Excel.

@@ -1,5 +1,5 @@
 ---
-title: Memblokir masuk untuk semua pengguna
+title: Blokir masuk untuk semua pengguna
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019259"
 ---
-# <a name="block-sign-in-for-all-users"></a>Memblokir masuk untuk semua pengguna
+# <a name="block-sign-in-for-all-users"></a>Blokir masuk untuk semua pengguna
 
-Untuk memblokir semua orang dari masuk ke Office, ikuti langkah-langkah berikut:
+Untuk memblokir semua orang agar tidak masuk Office, ikuti langkah-langkah ini:
 
-1. Di pusat admin, masuk ke pengguna [ **Users**  >  **aktif**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)pengguna.
-2. Pilih Semua pengguna dengan mengklik tanda centang di samping **nama tampilan** . Pastikan Anda menghapus centang akun admin yang Anda masuki.
-3. Klik **"..."** di samping **ekspor pengguna** untuk  >  **mengedit status masuk** , lalu pilih **blokir pengguna dari masuk** . Masuk baru langsung diblokir. Jika pengguna sudah masuk, maka pengguna akan secara otomatis keluar dari semua layanan Microsoft dalam 60 menit.
+1. Di pusat admin, masuk ke [ **Pengguna**  >  **Aktif pengguna**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+2. Pilih semua pengguna dengan mengklik tanda centang di samping **Nama Tampilan.** Pastikan Anda menghapus centang akun admin yang digunakan untuk masuk.
+3. Klik **"..."** di **samping Ekspor** Pengguna Edit status  >  **masuk**, lalu pilih Blokir pengguna agar tidak **masuk.** Masuk baru segera diblokir. Jika pengguna sudah masuk, maka pengguna akan secara otomatis keluar dari semua akun layanan Microsoft dalam 60 menit.

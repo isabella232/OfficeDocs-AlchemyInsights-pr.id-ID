@@ -1,5 +1,5 @@
 ---
-title: Manajemen langganan-permintaan keamanan dan kepatuhan-akreditasi Azure Industry Compliance
+title: Manajemen langganan - permintaan keamanan dan kepatuhan - kepatuhan industri Azure terkait
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998946"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Manajemen langganan-permintaan keamanan dan kepatuhan-akreditasi Azure Industry Compliance
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Manajemen langganan - permintaan keamanan dan kepatuhan - kepatuhan industri Azure terkait
 
-Berdasarkan Deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan dapat mengatasi masalah mereka sendiri setelah mengikuti dokumentasi kami.
+Berdasarkan deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan bisa mengatasi sendiri masalah mereka setelah mengikuti dokumentasi kami.
 
-- **Kebijakan**: untuk pertanyaan apa pun tentang dokumen Microsoft Compliance, lihat [kepatuhan pusat kepercayaan Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Kebijakan**: Untuk pertanyaan apa pun mengenai dokumen Microsoft Compliance, lihat [Azure Trust Center Compliance](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA dan UU Hitech**: Lihat panduan Windows Azure HIPAA jika Anda tertarik pada HIPAA dan UU Hitech, untuk memahami kapabilitas relevan dari Windows Azure.
+- **HIPAA** dan Tindakan HITECH : Lihat Windows Panduan HIPAA Azure jika Anda tertarik dengan HIPAA dan HITECH Act, untuk memahami kemampuan yang relevan Windows Azure.
 
-- **Sertifikasi fedramp**: untuk informasi apa pun tentang sertifikasi fedramp, lihat Fedramp Marketplace.
+- **Sertifikasi FedRamp**: Untuk informasi tentang sertifikasi FedRamp, lihat FedRamp Marketplace.
 
-- **Kepatuhan AZURE PCI DSS**: dokumen yang terkait dengan Azure yang diperlukan untuk mencapai kesesuaian industri kartu pembayaran adalah "pengesahan kepatuhan" dan "matriks tanggung jawab", keduanya tersedia di pusat kepercayaan Azure. Verifikasi Apakah Anda memiliki dokumen ini. Jika Anda memiliki dokumen ini tetapi memerlukan bukti kepatuhan standar keamanan data Microsoft Azure PCI, lihat [Microsoft dan PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure PCI DSS Compliance**: Dokumen terkait Azure yang diperlukan untuk mencapai kepatuhan Industri Kartu Pembayaran adalah "Attestation of Compliance" dan "Responsibility Matrix", keduanya tersedia di Azure Trust Center. Verifikasi apakah Anda memiliki dokumen ini. Jika Anda memiliki dokumen ini namun membutuhkan bukti tambahan Microsoft Azure Kepatuhan Standar Keamanan Data PCI, lihat [Microsoft dan PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **Operasi/keamanan/kepatuhan Azure**: jika Anda memiliki pertanyaan terkait keamanan umum di Azure, lihat respons standar untuk meminta informasi keamanan, privasi, dan kepatuhan Microsoft Azure jika Anda memiliki pertanyaan yang terkait dengan kepatuhan, silakan merujuk: Microsoft STP-kepatuhan dan FAQ portal kepercayaan layanan Microsoft.
+- **Azure Operations/Security/Compliance:** Jika Anda memiliki pertanyaan terkait keamanan umum di Azure, lihat Respons Standar untuk Permintaan untuk Informasi Microsoft Azure Keamanan, Privasi, dan Kepatuhan Jika Anda memiliki pertanyaan terkait kepatuhan, silakan baca: FAQ Microsoft STP - Tanya Jawab Umum Portal Kepercayaan Layanan dan Kepatuhan.
 
-Jika Anda memiliki pertanyaan terkait kepatuhan, lihat FAQ tentang [Microsoft STP-Compliance](https://www.microsoft.com/trust-center/compliance/compliance-overview) dan Service Trust portal.
+Jika memiliki pertanyaan terkait kepatuhan, lihat FAQ [Microsoft STP - Compliance](https://www.microsoft.com/trust-center/compliance/compliance-overview) and Service Trust Portal.
 
-- **Kepatuhan GDPR**: jika Anda memiliki pertanyaan tentang perjanjian pemrosesan data, lihat "persyaratan perlindungan data" yang dimulai di halaman 7 dalam "Ketentuan Layanan Online". OST menyertakan istilah pemrosesan data utama tetapi digabungkan ke dalam kontrak komersial standar. Selain itu, ini menyediakan komitmen kontraktual terkait dengan kewajiban GDPR kami. Selain itu, lihat ketentuan khusus GDPR di akhir kontrak dalam "Lampiran 4", dimulai pada halaman 42. Bagian ini membahas kewajiban GDPR Microsoft sebagai pengolah data dan sub-prosesor ke pengolah data lain.
-
-> [!NOTE]
-> Sangat disarankan untuk menggunakan Adobe Acrobat Reader untuk membuka dokumen PDF, karena masalah dengan penampil PDF lainnya telah dicatat. Juga disarankan untuk mengunduh file secara lokal dan bukan membukanya di jendela browser, seperti yang mungkin menyebabkan kesalahan.
-
-- **Kepatuhan HDS**: Azure kini "Health data hosting", disertifikasi sesuai dengan persyaratan Prancis. Untuk informasi selengkapnya, lihat "Microsoft Azure kini disertifikasi untuk menghosting data kesehatan sensitif di Prancis".
-
-- **Pengujian penetrasi**: keseluruhan proses "penyerahan permintaan uji penetrasi" adalah proses penyajian mandiri di "pentest".
-
-Untuk detail selengkapnya tentang pengujian penetrasi, lihat [pengujian penetrasi](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Pemberitahuan pelanggan untuk perubahan subprosesor**: Anda dapat memilih untuk menerima pemberitahuan perubahan ke daftar Subprosesor data pribadi Microsoft.
+- **Kepatuhan GDPR:** Jika memiliki pertanyaan tentang Perjanjian Pemrosesan Data, lihat "Ketentuan Perlindungan Data" dimulai dari Halaman 7 dalam "Ketentuan Layanan Online". OST menyertakan persyaratan pemrosesan data utama tapi dimasukkan ke dalam kontrak komersial standar. Selain itu, layanan ini menyediakan komitmen kontraktual terkait kewajiban GDPR. Selain itu, lihat persyaratan khusus GDPR di akhir kontrak dalam "Lampiran 4", dimulai di Halaman 42. Bagian ini mencakup kewajiban GDPR Microsoft sebagai prosesor data dan sebagai sub-prosesor ke prosesor data lainnya.
 
 > [!NOTE]
-> Pemberitahuan data pelanggan layanan online dan daftar data pribadi sepenuhnya otomatis. Untuk informasi selengkapnya, lihat sumber daya perlindungan data Microsofts.
+> Sangat disarankan untuk menggunakan Adobe Acrobat Reader untuk membuka dokumen PDF, karena masalah dengan penampil PDF lain telah diketahui. Disarankan juga untuk mengunduh file secara lokal daripada membukanya di jendela browser, karena itu bisa menyebabkan kesalahan.
+
+- **Kepatuhan HDS**: Azure kini menjadi "Hosting Data Kesehatan", tersertifikasi sesuai dengan persyaratan bahasa Prancis. Untuk informasi selengkapnya, lihat "Microsoft Azure telah bersertifikat untuk menghosting data kesehatan sensitif di Prancis".
+
+- **Pengujian Sajikan**: Seluruh proses "Pengiriman permintaan permintaan hanya satu pelanggan" dari proses layanan mandiri di "penatest".
+
+Untuk detail selengkapnya tentang pengujian kepribadian, lihat [PengujianIngaanInging.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
+
+- **Pemberitahuan Pelanggan untuk Perubahan Subprosesor**: Anda dapat memilih untuk menerima pemberitahuan perubahan pada Daftar Subprosesor Data Pribadi Microsoft.
+
+> [!NOTE]
+> Pemberitahuan Data Pelanggan dan Daftar Data Pribadi Layanan Online sepenuhnya otomatis. Untuk informasi selengkapnya, lihat Sumber Daya Perlindungan Data Microsofts.
 
 **Dokumen yang Disarankan**
 
 - [Mengekspor atau menghapus pengaturan di portal Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
 - [Menemukan laporan aktivitas di portal Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Kejadian risiko Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Azure Active Directory kejadian risiko](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Pengguna berisiko](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
 - [Masuk berisiko](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Apa itu laporan Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft dan HIPAA dan UU HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Dokumentasi otorisasi sementara Departemen Pertahanan AS (DoD) di IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Apa yang Azure Active Directory ini?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft dan HIPAA dan Undang-undang HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [Dokumentasi Otorisasi Pengadaan Departemen Pertahanan AS (DoD) di IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

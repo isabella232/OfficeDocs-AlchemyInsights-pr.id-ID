@@ -1,5 +1,5 @@
 ---
-title: Kueri API Microsoft graph
+title: Membuat kueri API Graph Microsoft
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974421"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923242"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Kueri API Microsoft graph
+# <a name="querying-the-microsoft-graph-api"></a>Membuat kueri API Graph Microsoft
 
-Topik ini juga mungkin berlaku untuk pengembang masih menggunakan Azure AD graph API. Namun, **sangat disarankan agar** Anda menggunakan Microsoft graph untuk semua skenario manajemen direktori, identitas, dan akses Anda.
+Topik ini mungkin juga berlaku untuk pengembang yang masih menggunakan API Azure AD Graph. Namun, sangat **dianjurkan agar** Anda menggunakan Microsoft Graph semua skenario manajemen direktori, identitas, dan akses.
 
 **Masalah autentikasi atau otorisasi**
 
-- Jika aplikasi Anda **tidak dapat memperoleh token** untuk menghubungi Microsoft graph, pilih **masalah dengan mendapatkan kategori token Access (autentikasi)** Microsoft graph untuk mendapatkan bantuan dan dukungan yang lebih spesifik tentang topik ini.
-- Jika aplikasi Anda **menerima kesalahan otorisasi 401 atau 403** saat memanggil Microsoft graph, pilih kategori Dapatkan Microsoft graph **error (otorisasi) Access ditolak (Authorization)** untuk mendapatkan bantuan dan dukungan yang lebih spesifik tentang topik ini.
+- Jika aplikasi Anda tidak dapat memperoleh **token** untuk menghubungi Microsoft Graph, pilih Masalah dengan mendapatkan token akses **(Autentikasi)** kategori Microsoft Graph untuk mendapatkan bantuan dan dukungan yang lebih spesifik tentang topik ini.
+- Jika aplikasi Anda menerima **401 atau 403** kesalahan otorisasi saat menghubungi Microsoft Graph, pilih kategori Mendapatkan akses yang ditolak **(Otorisasi)** API Microsoft Graph untuk mendapatkan bantuan dan dukungan yang lebih spesifik tentang topik ini.
 
-**Saya ingin menggunakan Microsoft graph, tapi tidak yakin di mana memulai**
+**Saya ingin menggunakan Microsoft Graph, tetapi tidak yakin harus memulai dari mana**
 
-Untuk mempelajari selengkapnya tentang Microsoft graph, lihat:
+Untuk mempelajari selengkapnya tentang Microsoft Graph, lihat:
 
-- [Gambaran Umum Microsoft graph](https://docs.microsoft.com/graph/overview)
-- [Gambaran umum manajemen identitas dan akses di Microsoft graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Membuat aplikasi Microsoft graph yang mulai](https://docs.microsoft.com/graph/)
-- **Microsoft graph Explorer** -uji Microsoft graph api dalam penyewa atau penyewa demo Anda
+- [Gambaran umum Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Gambaran umum tentang Identitas dan Manajemen Akses di Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Mulai membangun aplikasi Microsoft Graph baru](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** - Uji Graph API Microsoft di penyewa Anda atau penyewa demo
 
-**Saya ingin menggunakan Microsoft graph, tetapi apakah aplikasi ini mendukung api direktori v 1.0 yang diperlukan?**
+**Saya ingin menggunakan Microsoft Graph, tapi apakah aplikasi ini mendukung API direktori v1.0 yang saya perlukan?**
 
-Microsoft graph adalah API yang direkomendasikan untuk direktori, identitas, dan manajemen akses. Namun, masih ada beberapa celah di antara apa yang dimungkinkan di Azure AD graph dan Microsoft graph. Tinjau artikel berikut, yang menyoroti perbedaan paling terkini untuk membantu pilihan Anda:
+Microsoft Graph adalah API yang disarankan untuk manajemen direktori, identitas, dan akses. Namun, masih ada beberapa jarak antara apa yang mungkin dilakukan di Azure AD Graph dan Microsoft Graph. Tinjau artikel berikut, yang menyoroti perbedaan yang paling baru untuk membantu dalam pilihan Anda:
 
-- [Perbedaan tipe sumber daya antara grafik Azure AD dan Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Perbedaan properti antara Azure AD graph dan Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Perbedaan metode antara Azure AD dan Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Perbedaan tipe sumber daya antara Azure AD Graph dan Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Perbedaan properti antara Azure AD Graph dan Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Perbedaan metode antara Azure AD dan Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Saat saya meminta objek *pengguna* , banyak propertinya yang hilang**
+**Saat saya membuat kueri *objek* pengguna, banyak propertinya yang hilang**
 
-`GET https://graph.microsoft.com/v1.0/users` hanya mengembalikan 11 properti, karena Microsoft graph otomatis memilih sekumpulan properti *pengguna* default untuk dikembalikan. Jika Anda memerlukan properti *pengguna* lain, gunakan $Select untuk memilih properti yang diperlukan aplikasi Anda. Cobalah di **Microsoft graph Explorer** terlebih dahulu.
+`GET https://graph.microsoft.com/v1.0/users`hanya mengembalikan 11 properti, karena Microsoft Graph otomatis memilih kumpulan properti *pengguna* default untuk dikembalikan. Jika Anda membutuhkan properti *pengguna* yang lain, $select untuk memilih properti yang dibutuhkan aplikasi Anda. Coba di **Microsoft Graph Explorer terlebih** dahulu.
 
-**Beberapa nilai properti pengguna *kosong* meskipun saya tahu bahwa mereka sudah siap**
+**Beberapa nilai properti pengguna *null* meskipun saya tahu nilai tersebut sudah ditetapkan**
 
-Penjelasan yang paling mungkin adalah bahwa aplikasi telah diberikan *pengguna. ReadBasic. All* permission. Hal ini memungkinkan aplikasi untuk membaca serangkaian properti pengguna, mengembalikan semua properti lain sebagai null meskipun telah ditetapkan sebelumnya. Coba Berikan izin kepada *pengguna aplikasi. baca. All* .
+Penjelasan paling mungkin adalah bahwa aplikasi telah diberikan izin *User.ReadBasic.All.* Hal ini memungkinkan aplikasi untuk membaca kumpulan properti pengguna terbatas, yang mengembalikan semua properti lainnya sebagai null meskipun telah diatur sebelumnya. Coba berikan aplikasi izin *User.Read.All.*
 
-Untuk informasi selengkapnya, lihat [izin pengguna Microsoft graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Untuk informasi selengkapnya, lihat [Microsoft Graph izin pengguna](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
 **Saya mengalami masalah dalam menggunakan parameter kueri OData untuk memfilter data dalam permintaan saya**
 
-Sementara Microsoft graph mendukung berbagai parameter kueri OData, banyak parameter tersebut yang tidak sepenuhnya didukung oleh layanan direktori (sumber daya yang mewarisi dari *Directoryobject*) di Microsoft graph. Batasan yang sama yang ada di grafik Azure AD tetap ada untuk sebagian besar di Microsoft graph:
+Saat Microsoft Graph mendukung rentang parameter kueri OData yang luas, banyak dari parameter tersebut tidak sepenuhnya didukung oleh layanan direktori (sumber daya yang mewarisi dari *directoryObject*) di Microsoft Graph. Batasan yang sama seperti yang ada di Azure AD Graph akan tetap ada untuk sebagian besar bagian di Microsoft Graph:
 
-1. **Tidak didukung**: $count, $Search, dan $filter nilai *null* atau *not null*
-2. **Tidak didukung**: $filter pada properti tertentu (lihat topik sumber daya properti yang dapat difilter)
+1. **Tidak didukung :**$count, $search, dan $filter nilai *null* *atau bukan* null
+2. **Tidak didukung**: $filter properti tertentu (lihat topik sumber daya di properti mana yang dapat difilter)
 3. **Tidak didukung**: paging, pemfilteran, dan pengurutan pada saat yang sama
-4. **Tidak didukung**: pemfilteran pada hubungan. Misalnya-Temukan semua anggota grup teknik yang ada di Inggris.
-5. **Dukungan parsial**: $orderby pada *pengguna* (DisplayName dan userPrincipalName saja) dan *grup*
-6. **Dukungan parsial**: $filter (hanya mendukung dukungan *EQ*, *startswith*, *or*, *and*, dan terbatas *apa pun*), $Expand (memperluas hubungan satu objek mengembalikan semua hubungan, tapi memperluas kumpulan hubungan objek)
+4. **Tidak didukung**: pemfilteran pada hubungan. Misalnya - menemukan semua anggota grup teknik yang ada di Inggris.
+5. **Dukungan sebagian**: $orderby *pada pengguna* (displayName dan userPrincipalName saja) dan *grup*
+6. **Dukungan sebagian**: $filter (hanya mendukung *eq*, *startswith* *,* atau *,* dan , dan limited *any*) support, $expand (memperluas hubungan objek tunggal yang mengembalikan semua hubungan, namun memperluas kumpulan hubungan objek terbatas)
 
-Untuk informasi selengkapnya, lihat [mengkustomisasi respons dengan parameter kueri](https://docs.microsoft.com/graph/query-parameters).
+Untuk informasi selengkapnya, [lihat Mengustomisasi respons dengan parameter kueri](https://docs.microsoft.com/graph/query-parameters).
 
-**API yang saya panggil tidak berfungsi-di mana saya bisa melakukan lebih banyak pengujian?**
+**API yang saya panggil tidak berfungsi - di mana saya bisa melakukan lebih banyak pengujian?**
 
-**Microsoft graph Explorer** -uji Microsoft graph api di penyewa Anda atau penyewa demo dan juga lihat **kueri sampel** di Microsoft graph Explorer.
+**Microsoft Graph Explorer** - Uji api Graph Microsoft dalam penyewa atau penyewa demo dan lihat juga contoh **kueri** di Microsoft Graph Explorer.
 
-**Saat saya meminta data sepertinya saya mendapatkan kumpulan data yang tidak lengkap kembali**
+**Saat saya membuat kueri untuk data, tampaknya saya mendapatkan kumpulan data yang tidak lengkap**
 
-Jika Anda membuat kueri kumpulan (seperti *pengguna*), Microsoft graph menggunakan batas halaman sisi server sehingga hasilnya selalu dikembalikan dengan ukuran halaman default. Aplikasi Anda harus selalu menunggu untuk menelusuri kumpulan yang dikembalikan dari layanan.
+If you are querying a collection (like *users*), Microsoft Graph uses server-side page limits so results are always returned with a default page-size. Aplikasi Anda seharusnya selalu melihat setiap kumpulan yang dikembalikan dari layanan.
 
 Untuk informasi selengkapnya, lihat:
 
-- [Praktik terbaik Microsoft graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Paging data Microsoft graph di aplikasi Anda](https://docs.microsoft.com/graph/paging)
+- [Praktik Graph terbaik Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Data data Graph Microsoft dalam aplikasi Anda](https://docs.microsoft.com/graph/paging)
 
-**Aplikasi saya terlalu lambat dan juga mengalami kelambatan. Penyempurnaan apa yang bisa saya lakukan?**
+**Aplikasi saya terlalu lambat dan juga tidak dapat digunakan. Penyempurnaan apa yang dapat saya buat?**
 
-Bergantung pada skenario Anda, ada berbagai opsi yang berbeda yang Anda inginkan untuk membuat aplikasi Anda lebih performant, dan dalam beberapa kasus, tidak rentan mengalami kelambatan oleh layanan (saat Anda membuat terlalu banyak panggilan).
+Bergantung pada skenario Anda, ada berbagai opsi berbeda menurut Anda untuk membuat aplikasi Anda lebih berkinerja, dan dalam beberapa kasus, lebih sedikit rentan terhadap yang terbatas oleh layanan (ketika Anda melakukan terlalu banyak panggilan).
 
 Untuk mempelajari selengkapnya, lihat:
 
-- [Praktik terbaik Microsoft graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Permintaan pengelompokan](https://docs.microsoft.com/graph/json-batching)
-- [Lacak perubahan melalui Delta query](https://docs.microsoft.com/graph/delta-query-overview)
-- [Dapatkan pemberitahuan perubahan melalui webhooks](https://docs.microsoft.com/graph/webhooks)
+- [Praktik Graph terbaik Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [Permintaan kumpulan](https://docs.microsoft.com/graph/json-batching)
+- [Lacak perubahan melalui kueri delta](https://docs.microsoft.com/graph/delta-query-overview)
+- [Mendapatkan pemberitahuan tentang perubahan melalui webhooks](https://docs.microsoft.com/graph/webhooks)
 - [Panduan pembatasan](https://docs.microsoft.com/graph/throttling)
 
 **Di mana saya bisa menemukan informasi selengkapnya tentang kesalahan dan masalah yang diketahui?**
 
-- [Informasi respons kesalahan Microsoft graph](https://docs.microsoft.com/graph/errors)
-- [Masalah yang diketahui dengan Microsoft graph](https://docs.microsoft.com/graph/known-issues)
+- [Informasi Graph respons kesalahan Microsoft](https://docs.microsoft.com/graph/errors)
+- [Masalah umum dengan Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**Di mana saya dapat memeriksa status ketersediaan dan konektivitas Layanan?**
+**Di mana saya dapat memeriksa status ketersediaan dan konektivitas layanan?**
 
-Ketersediaan layanan dan konektivitas layanan yang mendasari yang bisa diakses melalui Microsoft graph bisa berdampak pada ketersediaan dan kinerja keseluruhan Microsoft graph.
+Ketersediaan dan konektivitas layanan dasar yang dapat diakses melalui Microsoft Graph dapat berdampak pada ketersediaan dan kinerja Microsoft Graph.
 
-- Untuk kesehatan layanan direktori aktif Azure, Periksa status layanan **identitas + keamanan** yang tercantum di [halaman status Azure](https://azure.microsoft.com/status/).
-- Untuk layanan Office yang berkontribusi ke Microsoft graph, Periksa status layanan yang tercantum di [dasbor Kesehatan Layanan Office](https://portal.office.com/adminportal/home#/servicehealth).
+- Untuk Azure Active Directory kesehatan layanan, periksa status layanan **Keamanan + Identitas** yang tercantum di halaman status [Azure.](https://azure.microsoft.com/status/)
+- Untuk Office yang berkontribusi pada Microsoft Graph, periksa status layanan yang tercantum [di Office Service Health Dashboard.](https://portal.office.com/adminportal/home#/servicehealth)

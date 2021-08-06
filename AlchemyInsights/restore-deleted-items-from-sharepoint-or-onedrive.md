@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922306"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Memulihkan item terhapus dari SharePoint atau OneDrive
 
-1. Buka OneDrive atau situs SharePoint.
+1. Masuk ke situs OneDrive atau SharePoint Anda.
     
-2. Klik **keranjang sampah** di panel kiri. 
+2. Klik **Keranjang Sampah** di panel kiri. 
     
-3. Klik di sebelah kiri item atau file yang ingin Anda Pulihkan.
+3. Klik di sebelah kiri item atau file yang ingin dipulihkan.
     
-4. Klik **Pulihkan**. 
+4. Klik **Pulihkan.** 
     
-Ketika file, folder, pustaka, daftar, dan item daftar dihapus dari situs SharePoint, mereka masuk ke keranjang sampah, di mana mereka disimpan untuk 93 hari kecuali jika seseorang menghapusnya dari keranjang sampah ini. Jika dihapus dari keranjang sampah ini (disebut keranjang sampah situs), mereka masuk ke keranjang sampah kumpulan situs untuk sisa waktu, lalu dihapus secara permanen. Situs dan kumpulan situs yang dihapus langsung masuk ke keranjang sampah kumpulan situs untuk hari 93.
+Jika dihapus dari situs SharePoint, file, folder, pustaka, daftar, serta item daftar akan masuk ke Keranjang Sampah dan akan disimpan selama 93 hari, kecuali seseorang menghapusnya dari Keranjang Sampah. Jika dihapus dari Keranjang Sampah ini (disebut Keranjang Sampah situs), item-item tersebut akan masuk ke Keranjang Sampah kumpulan situs selama sisa waktu, kemudian akan dihapus secara permanen. Situs dan kumpulan situs yang dihapus akan langsung masuk ke Keranjang Sampah kumpulan situs selama 93 hari.
   
-[Memulihkan item di keranjang sampah kumpulan situs](https://go.microsoft.com/fwlink/?linkid=867800) (admin kumpulan situs) 
+[Memulihkan item di Keranjang Sampah kumpulan situs](https://go.microsoft.com/fwlink/?linkid=867800) (admin kumpulan situs) 
   
-[Memulihkan kumpulan situs yang dihapus](https://go.microsoft.com/fwlink/?linkid=867660) (admin global atau SharePoint di Microsoft 365) 
+[Memulihkan kumpulan situs yang dihapus](https://go.microsoft.com/fwlink/?linkid=867660) (admin global SharePoint di Microsoft 365) 
   
-Untuk situs yang menjadi bagian dari grup Microsoft 365, Anda perlu memulihkan grup untuk memulihkan situs. Lihat [memulihkan grup Microsoft 365 yang dihapus](https://go.microsoft.com/fwlink/?linkid=867802) (admin global) 
+Untuk situs yang termasuk dalam Microsoft 365 grup, Anda harus memulihkan grup untuk memulihkan situs. Lihat [Memulihkan grup Microsoft 365 yang dihapus](https://go.microsoft.com/fwlink/?linkid=867802) (admin global) 
   
 

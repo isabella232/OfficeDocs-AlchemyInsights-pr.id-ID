@@ -9,33 +9,33 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: 779db68e3018476f64da78678766b81cc0656cad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908353"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Izin pengguna di SharePoint dan OneDrive
 
-Jika pengguna di organisasi Anda tidak bisa mengakses SharePoint atau OneDrive, pastikan mereka memiliki lisensi yang menyertakan SharePoint dan OneDrive. 
+Jika pengguna di organisasi Anda tidak bisa mengakses SharePoint atau OneDrive, pastikan mereka memiliki lisensi yang menyertakan lisensi SharePoint dan OneDrive. 
   
-1. Masuk ke [halaman pengguna aktif di pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/users) dan pilih pengguna. 
+1. Masuk ke [halaman Pengguna aktif di pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/users) dan pilih pengguna. 
     
-2. Pastikan bahwa di bawah **lisensi produk**, lisensi ditetapkan dan **SharePoint online** dipilih. 
+2. Pastikan bahwa di **bawah Lisensi produk**, lisensi ditetapkan dan Online **SharePoint** Online dipilih. 
     
- Untuk memberi izin kepada pengguna untuk mengakses situs SharePoint: 
+ Untuk memberi pengguna izin untuk mengakses situs SharePoint anda: 
   
 1. Buka situs di browser web.
     
-2. Jika situs milik Grup Microsoft 365, klik ikon pengaturan di kanan atas, lalu klik **izin situs**. Klik **undang orang**, lalu pilih untuk menambahkan anggota ke grup Microsoft 365 atau hanya berbagi situs. 
+2. Jika situs tersebut milik Microsoft 365 situs, klik ikon Pengaturan di kanan atas, lalu klik **Izin situs.** Klik **Undang orang,** lalu pilih untuk menambahkan anggota ke Microsoft 365 grup atau hanya berbagi situs. 
     
-    Untuk situs komunikasi, klik **bagikan situs** di kanan atas, masukkan nama orang tersebut, lalu pilih tingkat izin (baca, Edit, atau kontrol penuh). 
+    Untuk situs komunikasi, klik **Bagikan situs** di kanan atas, masukkan nama orang tersebut, lalu pilih tingkat izin (Baca, Edit, atau Kontrol Penuh). 
     
-    Untuk situs tim klasik, klik **bagikan** di sudut kanan atas. Masukkan nama orang yang ingin Anda undang atau ketikkan setiap orang untuk berbagi dengan semua orang di organisasi Anda. Klik **bagikan**.
+    Untuk situs tim klasik, **klik Bagikan** di sisi kanan atas. Masukkan nama orang yang ingin Anda undang atau ketik Setiap Orang untuk dibagikan dengan semua orang di organisasi Anda. Klik **Bagikan.**
     
 > [!NOTE]
-> Jika Anda adalah anggota situs tetapi bukan pemilik, Anda dapat mengundang orang ke situs tersebut, tetapi undangan Anda akan menghasilkan permintaan akses yang dapat disetujui atau ditolak oleh pemilik situs. 
+> Jika Anda adalah anggota situs namun bukan pemilik, Anda bisa mengundang orang ke situs, tapi undangan Anda akan membuat permintaan akses yang bisa disetujui atau ditolak oleh pemilik situs. 
   
 [Pelajari cara berbagi file atau folder dengan pengguna](https://go.microsoft.com/fwlink/?linkid=533408)
   

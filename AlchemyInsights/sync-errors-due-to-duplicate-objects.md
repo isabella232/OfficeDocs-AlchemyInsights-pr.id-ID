@@ -1,5 +1,5 @@
 ---
-title: 902 (kesalahan sinkronisasi karena duplikat objek)
+title: 902 (Kesalahan sinkronisasi karena objek duplikat)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998797"
 ---
-# <a name="sync-errors-due-to-duplicate-objects"></a>Kesalahan sinkronisasi karena objek duplikat
+# <a name="sync-errors-due-to-duplicate-objects"></a>Menyinkronkan kesalahan karena objek duplikat
 
-Anda mungkin menerima salah satu pesan kesalahan berikut ini saat sinkronisasi direktori selesai di Microsoft 365:
+Anda mungkin menerima salah satu pesan kesalahan berikut ini saat sinkronisasi direktori selesai Microsoft 365:
 
-- Tidak dapat memperbarui objek ini di layanan online Microsoft karena atribut berikut yang terkait dengan objek ini memiliki nilai yang mungkin terkait dengan objek lain dalam direktori lokal Anda.
+- Tidak dapat memperbarui objek ini di Microsoft Online Services karena atribut berikut yang terkait dengan objek ini memiliki nilai yang mungkin sudah terkait dengan objek lain dalam direktori lokal Anda.
 
 - Objek yang disinkronkan dengan alamat proksi yang sama sudah ada di direktori Microsoft Online Services Anda.
 
-- Tidak dapat memperbarui objek ini karena atribut berikut yang terkait dengan objek ini memiliki nilai yang mungkin terkait dengan objek lain di layanan direktori lokal Anda: UserPrincipalName.
+- Tidak dapat memperbarui objek ini karena atribut berikut yang terkait dengan objek ini memiliki nilai yang mungkin sudah terkait dengan objek lain di layanan direktori lokal Anda: UserPrincipalName.
 
-Untuk mengidentifikasi dan memperbaiki masalah, Unduh dan jalankan [alat remediasi kesalahan DirSync Idfix](https://github.com/Microsoft/idfix).
+Untuk mengidentifikasi dan memperbaiki masalah tersebut, unduh dan jalankan [IdFix DirSync Error Remediation Tool](https://github.com/Microsoft/idfix).
 
 Untuk informasi selengkapnya, lihat [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

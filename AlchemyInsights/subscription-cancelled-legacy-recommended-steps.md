@@ -1,5 +1,5 @@
 ---
-title: Metode pembatalan langganan-warisan-fitur yang direkomendasikan
+title: Langganan dibatalkan - warisan - langkah-langkah yang direkomendasikan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999063"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Metode pembatalan langganan-warisan-fitur yang direkomendasikan
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Langganan dibatalkan - warisan - langkah-langkah yang direkomendasikan
 
-Catatan kami menunjukkan bahwa langganan dibatalkan oleh pengguna dengan hak pemilik. Temukan langkah-langkah di bawah ini untuk mengaktifkan kembali langganan.
+Catatan kami menunjukkan bahwa langganan dibatalkan oleh pengguna yang memiliki hak pemilik. Temukan langkah-langkah di bawah ini untuk mengaktifkan kembali langganan.
 
-[Administrator akun](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) bisa mengaktifkan kembali langganan bayar-AS-You-Go yang dibatalkan di pusat akun.
+Administrator [Akun](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) bisa mengaktifkan kembali langganan Pay-As-You-Go yang dibatalkan di Pusat Akun.
 
-1. Masuk ke [pusat akun](https://account.azure.com/Subscriptions).
-2. Pilih langganan yang dibatalkan dan klik **aktifkan kembali**.
+1. Masuk ke [Pusat Akun.](https://account.azure.com/Subscriptions)
+2. Pilih langganan yang dibatalkan dan klik **Aktifkan ulang.**
 
-Untuk tipe langganan lainnya, [Hubungi dukungan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) untuk mengaktifkan kembali langganan Anda.
+Untuk tipe langganan lainnya, [hubungi dukungan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) agar langganan Anda diaktifkan kembali.

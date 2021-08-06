@@ -1,5 +1,5 @@
 ---
-title: Akankah layanan Office 365 tetap online?
+title: Akan Office 365 layanan tetap online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036855"
 ---
-# <a name="will-office-365-services-stay-online"></a>Akankah layanan Office 365 tetap online?
+# <a name="will-office-365-services-stay-online"></a>Akan Office 365 layanan tetap online?
 
-Ya. Kami telah mengembangkan layanan ini dengan mempertimbangkan ketahanan. Setiap Layanan menjalankan beberapa contoh sekaligus, jadi meskipun satu contoh memiliki masalah, pelanggan kami tidak terpengaruh. Setiap layanan juga dimuat, jadi jika masalah muncul dengan satu layanan, maka tidak akan menyebar ke yang lainnya. Terakhir, pengaman telah dibangun ke dalam kode setiap layanan untuk membantu mencegah masalah dari berjenjang melalui Layanan.
+Ya. Kami telah mengembangkan layanan ini dengan konsistensi yang harus diingat. Setiap layanan menjalankan beberapa contoh sekaligus, jadi sekalipun ada masalah, pelanggan kami tidak terpengaruh. Setiap layanan juga dimuat, jadi jika masalah muncul pada satu layanan, masalah tidak akan tersebar ke seluruh layanan. Terakhir, tindakan pengamanan telah dibuat dalam kode setiap layanan untuk membantu mencegah masalah terjadinya cascading melalui layanan.
 
-Untuk mempelajari selengkapnya tentang upaya kami untuk mempertahankan layanan kami tetap stabil, lihat [Enterprise Business Continuity Management (EBCM) dengan layanan awan](https://go.microsoft.com/fwlink/?linkid=2124377).
+Untuk mempelajari selengkapnya tentang upaya kami menjaga kelangsungan layanan kami, lihat Manajemen keberlangsungan bisnis perusahaan [(EBCM) dengan layanan cloud](https://go.microsoft.com/fwlink/?linkid=2124377).
 
-Kami akan sangat menghargai umpan balik Anda, jadi silakan pilih **ya** / **tidak** untuk pertanyaan yang muncul, lalu Beri nilai pengalaman Anda.
+Kami akan menghargai umpan balik Anda, jadi silakan **pilih Ya** / **Tidak** untuk pertanyaan yang muncul, lalu beri nilai pengalaman Anda.

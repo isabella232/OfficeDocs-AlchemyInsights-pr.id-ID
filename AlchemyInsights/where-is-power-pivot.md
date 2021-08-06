@@ -1,5 +1,5 @@
 ---
-title: Di manakah Power Pivot?
+title: Di mana Power Pivot berada?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907885"
 ---
-# <a name="where-is-power-pivot"></a>Di manakah Power Pivot?
+# <a name="where-is-power-pivot"></a>Di mana Power Pivot berada?
 
-Ada tiga alasan mengapa Anda tidak melihat Power Pivot:
+Ada tiga alasan mengapa Anda mungkin tidak melihat Power Pivot:
   
-**Versi Excel Anda tidak menyertakannya**
+**Versi uji Excel tidak menyertakannya**
   
-Tidak semua versi Excel menyertakan Power Pivot. Anda perlu memutakhirkan ke versi Office yang menyertakan Power Pivot. [Periksa daftar versi yang didukung.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Tidak semua versi Excel menyertakan Power Pivot. Anda akan perlu memutakhirkan ke versi Office yang menyertakan Power Pivot. [Periksa daftar versi yang didukung.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
 **Anda belum mengaktifkan Power Pivot**
   
-Jika Anda bekerja dalam versi Excel yang mendukung Power Pivot, periksa apakah Add-in tersebut telah diaktifkan:
+Jika Anda bekerja dalam versi versi Excel yang mendukung Power Pivot, periksalah untuk melihat apakah Add-in diaktifkan:
   
-1. Pilih **File** \> **Options** \> **Add-in**opsi file.
+1. Pilih  \>  \> **Add-In Opsi** File.
 
-2. Di kotak **Kelola** turun bawah, pilih **Add-in com** dan klik **buka**.
+2. Dalam kotak **kelola** turun bawah, pilih **Add-in COM** dan klik **Buka.**
 
-3. Dalam kotak dialog **Add-in com** , pilih kotak centang di samping **Microsoft Power Pivot untuk Excel**, lalu klik **OK**.
+3. Dalam kotak dialog **Add-in Com,** pilih kotak centang di samping **Microsoft Power Pivot untuk Excel**, lalu klik **OK.**
 
 **Anda memiliki beberapa langganan atau akun**
   
-Anda mungkin memiliki langganan Microsoft 365 yang berbeda yang ditetapkan untuk akun pengguna berbeda. Pastikan Anda masuk ke akun dengan versi Excel yang mendukung Power Pivot. Periksa daftar versi yang [didukung](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), dan ikuti instruksi untuk [beralih antar akun Office yang berbeda](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Anda mungkin memiliki langganan Microsoft 365 berbeda yang ditetapkan ke akun pengguna yang berbeda. Pastikan Anda masuk ke akun dengan versi presentasi Excel mendukung Power Pivot. Periksa daftar versi [yang didukung , dan](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)ikuti instruksi untuk beralih antara versi yang Office [lain](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

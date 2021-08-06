@@ -1,5 +1,5 @@
 ---
-title: Pembatalan langganan-warisan-batas pengeluaran
+title: Langganan dibatalkan - Warisan - Batas Pengeluaran
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999027"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Pembatalan langganan-warisan-batas pengeluaran
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Langganan dibatalkan - Warisan - Batas Pengeluaran
 
-Catatan kami menunjukkan bahwa Anda memiliki batas pembelanjaan yang ditetapkan pada langganan dan penggunaan telah melebihi batas pembelanjaan. Jadi, metode berlangganan Anda dinonaktifkan.
+Catatan kami menunjukkan bahwa Anda memiliki batas pengeluaran yang ditetapkan pada langganan dan penggunaan telah melampaui batas pengeluaran. Dengan demikian, langganan Anda akan dinonaktifkan.
 
-**Batas pembelanjaan pada langganan telah tercapai**
+**Batas pengeluaran untuk langganan telah tercapai**
 
-Langganan Azure dengan kredit memiliki batas pembelanjaan. Ini berarti Anda hanya bisa menggunakan layanan hingga kredit yang disertakan. Saat penggunaan Anda mencapai batas pembelanjaan, Azure menonaktifkan langganan Anda untuk sisa periode tagihan tersebut. Metode berlangganan dinonaktifkan untuk melindungi Anda dari biaya yang tidak disengaja untuk penggunaan melebihi kredit yang disertakan dengan langganan Anda. Untuk menghapus batas pengeluaran Anda, lihat [menghapus batas pembelanjaan di pusat akun](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Langganan Azure dengan kredit memiliki batas pengeluaran. Artinya, Anda hanya dapat menggunakan layanan hingga kredit yang disertakan. Saat penggunaan Anda mencapai batas pengeluaran, Azure akan menonaktifkan langganan Anda untuk sisa periode tagihan tersebut. Langganan dinonaktifkan untuk melindungi Anda dari secara tidak sengaja menimbulkan biaya untuk penggunaan di luar kredit yang disertakan dengan langganan Anda. Untuk menghapus batas pengeluaran Anda, lihat [Menghapus batas pengeluaran di Pusat Akun](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
 
-Lakukan langkah-langkah berikut untuk menghapus batas pembelanjaan dan mengaktifkan kembali langganan Anda:
+Lakukan langkah-langkah berikut ini untuk menghapus batas pengeluaran dan mengaktifkan kembali langganan Anda:
 
-1. Masuk ke [Azure portal](https://portal.azure.com/) sebagai administrator akun.
-2. Cari **biaya manajemen + tagihan**.
-3. Di daftar **langganan saya** , pilih langganan uji coba gratis/akun Anda.
-4. Dalam gambaran umum langganan, klik banner oranye untuk menghapus batas pembelanjaan.
-5. Pilih Apakah Anda ingin menghapus batas pembelanjaan tanpa batas waktu atau untuk periode penagihan saat ini saja.
-6. Klik **Pilih metode pembayaran** untuk memilih metode pembayaran untuk langganan Anda. Ini akan menjadi metode pembayaran aktif untuk langganan Anda.
-7. Klik **selesai**.
+1. Masuk ke [portal Azure](https://portal.azure.com/) sebagai Administrator Akun.
+2. Cari **Manajemen Biaya + Tagihan**.
+3. Di daftar **Langganan saya,** pilih langganan Uji Coba/Akun Gratis Anda.
+4. Dalam Gambaran umum langganan, klik banner oranye untuk menghapus batas pengeluaran.
+5. Pilih apakah Anda ingin menghapus batas pengeluaran secara tak terbatas atau hanya untuk periode tagihan saat ini.
+6. Klik **Pilih metode pembayaran** untuk memilih metode pembayaran langganan Anda. Metode ini akan menjadi metode pembayaran aktif untuk langganan Anda.
+7. Klik **Selesai.**

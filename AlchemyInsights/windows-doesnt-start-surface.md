@@ -1,5 +1,5 @@
 ---
-title: Windows tidak dimulai di permukaan
+title: Windows tidak dimulai di Surface
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036412"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036783"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>Windows tidak dimulai di permukaan
+# <a name="windows-doesnt-start-on-surface"></a>Windows tidak dimulai di Surface
 
-Jika Windows tidak dimulai di permukaan Anda atau perangkat Anda tidak terbangun dari tidur, cobalah langkah pemecahan masalah ini:
+Jika Windows mulai di Surface atau perangkat Anda tidak bangun dari tidur, cobalah langkah-langkah pemecahan masalah berikut:
 
-- Jika Windows tidak berjalan dengan benar ketika Anda mengaktifkan Surface (misalnya, Windows tidak dapat boot), untuk langkah-langkah mengatasi masalah tersebut, lihat [Windows tidak dimulai pada permukaan](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
+- Jika Windows tidak dimulai dengan benar ketika Anda mengaktifkan Surface (misalnya, Windows tidak melakukan boot), untuk langkah-langkah mengatasi masalah tersebut, lihat Windows tidak dimulai di [Surface](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
 
-- Jika permukaan Anda tidak dapat menyala atau terbangun, untuk langkah pemecahan masalah Lihat [Surface tidak akan mengaktifkan atau membangunkan dari tidur](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
+- Jika Surface Anda tidak dapat menyala atau bangun, untuk langkah-langkah pemecahan masalah, lihat [Surface tidak dapat menyala atau bangun dari tidur](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
 
-- Jika Anda menggunakan perangkat pihak ketiga, lihat [memecahkan masalah untuk perangkat pihak ketiga](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636).
+- Jika Anda menggunakan perangkat pihak ketiga, lihat Memecahkan [masalah untuk perangkat pihak ketiga](https://support.microsoft.com/topic/b6f3408d-dac9-43e2-82f6-e620ca783636).
 

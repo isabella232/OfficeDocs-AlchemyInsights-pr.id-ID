@@ -1,5 +1,5 @@
 ---
-title: "\"Pengguna tidak dikenal\" muncul dalam Rapat teams atau obrolan"
+title: "\"Pengguna yang tidak diketahui\" Teams rapat atau obrolan"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6655"
 - "9003574"
-ms.openlocfilehash: 22d5fa0087791a9f0139917cd7532fc4a90644e5
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 1074075ede97250888927fe064a6faea456cef1dad7bb35726b2874032ba86b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019835"
 ---
-# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Pengguna tidak dikenal" muncul dalam Rapat teams atau obrolan
+# <a name="unknown-user-appears-in-teams-meetings-or-chats"></a>"Pengguna yang tidak diketahui" Teams rapat atau obrolan
 
-Pengguna mungkin telah dihapus dari Microsoft 365. Dalam kasus ini, coba hapus pengguna dari teams.  
+Pengguna mungkin telah dihapus dari Microsoft 365. Dalam hal ini, coba hapus pengguna dari kotak Teams.  
 
-Coba Kosongkan singgahan berikut saat tim ditutup, lalu mulai ulang teams: `C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
+Coba hapus cache berikut ini saat Teams tertutup, lalu mulai ulang Teams:`C:\Users\<USER>\AppData\Roaming\Microsoft\Teams`
 
-Untuk pembaruan tentang masalah ini, lihat  [pengguna yang dihapus muncul sebagai "pengguna tidak dikenal" di Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Untuk pembaruan tentang masalah ini, lihat [Pengguna yang dihapus muncul sebagai "Pengguna tidak diketahui" di Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/removed-user-appears-as-unknown).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019511"
 ---
 # <a name="authentication-issues"></a>Masalah autentikasi
 
@@ -75,14 +75,14 @@ Untuk informasi selengkapnya yang terkait dengan akses bersyarat, lihat:
 - [Menangani tantangan akses bersyarat menggunakan MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Panduan pengembang untuk akses bersyarat Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Akhir dukungan untuk Pustaka Autentikasi Azure Active Directory (ADAL) dan API Grafik Azure AD (Grafik AAD)_* _
+***Akhir dukungan untuk Azure Active Directory Authentication Library (ADAL) dan API Azure AD Graph (AAD Graph)***
 
 - Mulai tanggal 30 Juni 2020, kami tidak akan lagi menambahkan fitur baru ke Pustaka Autentikasi Azure Active Directory (ADAL) dan API Grafik Azure AD (Grafik AAD). Kami akan terus menyediakan dukungan teknis dan pembaruan keamanan, namun tidak akan lagi menyediakan pembaruan fitur.
 - Mulai tanggal 30 Juni 2022, kami akan mengakhiri dukungan untuk ADAL dan Grafik AAD dan tidak akan lagi menyediakan dukungan teknis atau pembaruan keamanan.
     - Aplikasi yang menggunakan ADAL di versi OS yang sudah ada akan terus berfungsi setelah waktu ini, tetapi tidak akan mendapatkan dukungan teknis atau pembaruan keamanan apa pun.
     - Aplikasi yang menggunakan Grafik AAD setelah waktu ini mungkin tidak lagi menerima respons dari titik akhir Grafik AAD.
 
-_ *Migrasi ADAL**
+**Migrasi ADAL**
 
 Kami merekomendasikan Anda memperbarui ke [Pustaka Autentikasi Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), yang memiliki fitur dan pembaruan keamanan terbaru. Rekomendasi ini sesuai dengan konteks Microsoft yang melakukan migrasi aplikasinya ke MSAL pada tenggat waktu akhir dukungan. Tujuan migrasi aplikasi Microsoft ke MSAL adalah untuk memastikan bahwa aplikasi mendapatkan manfaat dari penyempurnaan fitur dan keamanan MSAL yang sedang berlangsung.
 

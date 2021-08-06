@@ -1,5 +1,5 @@
 ---
-title: Menetapkan grup ke peran Azure AD
+title: Menetapkan grup untuk peran Azure AD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036243"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Menetapkan grup ke peran Azure AD
+# <a name="assigning-groups-to-azure-ad-role"></a>Menetapkan grup untuk peran Azure AD
 
-Untuk menetapkan grup Azure AD dengan sumber kewenangan di Azure AD ke peran Azure AD, lakukan langkah-langkah berikut:
+Untuk menetapkan grup Azure AD dengan sumber otoritas dalam Azure AD ke peran Azure AD, lakukan langkah-langkah berikut ini:
 
-1. Membuat grup baru-untuk membuat grup baru:
+1. Membuat grup baru - Untuk membuat grup baru:
 
-    untuk. Masuk ke Pusat admin Azure AD dengan **administrator peran istimewa** atau izin **administrator global** .
-    b. Pilih **grup > direktori aktif Azure > semua grup > grup baru**.
-    's. Buat grup.
+    a. Masuk ke pusat admin Azure AD dengan administrator **peran yang memiliki hak istimewa** atau izin administrator **global.**
+    b. Pilih **Azure Active Directory > Baru > Semua > grup Baru.**
+    c. Buat grup.
 
-2. Tetapkan peran ke grup selama pembuatan grup atau setelah grup dibuat.
+2. Tetapkan peran ke grup baik selama pembuatan grup atau setelah grup dibuat.
 
-    untuk. Untuk menetapkan peran ke grup pada saat pembuatan grup, Aktifkan tombol Alihkan **AZURE AD bisa ditetapkan ke grup** dan Buat grup.
-    b. Untuk menetapkan peran ke grup setelah dibuat, navigasikan ke tab **peran yang ditetapkan** untuk grup yang baru dibuat, dan tetapkan peran ke grup.  
+    a. Untuk menetapkan peran ke grup pada saat pembuatan grup, aktifkan tombol alih peran Azure AD yang dapat ditetapkan **ke grup dan** buat grup.
+    b. Untuk menetapkan peran ke grup setelah dibuat, navigasikan ke **tab** Peran yang ditetapkan untuk grup yang baru dibuat, dan tetapkan peran ke grup.  
 
-**Mengelola keanggotaan grup yang ditetapkan untuk peran Azure AD**
+**Mengelola keanggotaan grup yang ditetapkan pada peran Azure AD**
 
-Untuk mencegah elevasi hak istimewa, secara default, hanya administrator peran istimewa dan administrator global yang bisa mengubah keanggotaan grup yang ditetapkan pada peran. Namun, mereka dapat memilih untuk menetapkan pemilik untuk grup tersebut dan mendelegasikan tugas ini.
+Untuk mencegah peningkatan hak istimewa, secara default, hanya administrator peran yang memiliki hak istimewa dan administrator global yang dapat mengubah keanggotaan grup yang ditetapkan menjadi sebuah peran. Namun, mereka bisa memilih untuk menugaskan pemilik untuk grup tersebut dan mendelegasikan tugas ini.
 
-Untuk detail selengkapnya tentang penetapan grup awan ke Azure AD, lihat [menetapkan peran iklan ke grup awan](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Untuk detail selengkapnya tentang pemecahan masalah yang ditetapkan untuk grup awan, lihat [memecahkan masalah yang ditetapkan untuk grup awan](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Untuk detail selengkapnya tentang menetapkan grup awan ke peran Azure AD, lihat [Menetapkan peran AD ke Grup Awan.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Untuk detail selengkapnya tentang peran pemecahan masalah yang ditetapkan ke grup awan, lihat [Memecahkan masalah peran yang ditetapkan untuk grup awan.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 
