@@ -1,5 +1,5 @@
 ---
-title: 1575-ekstensi paket Microsoft Flow dan PowerApps
+title: 1575-PowerApps Microsoft Flow ekstensi paket
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960442"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Ekstensi paket PowerApps dan Microsoft Flow
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps dan Microsoft Flow paket ekstensi
 
-Jika Anda ingin meminta ekstensi paket untuk **Microsoft Flow** atau **powerapps** dan penyewa Anda sudah memiliki pengguna aktif dari salah satu fitur berikut ini, tidak perlu mengarsipkan permintaan dukungan.
+Jika anda ingin meminta ekstensi paket untuk **Microsoft Flow** atau **PowerApps** dan penyewa Anda sudah memiliki pengguna aktif dari salah satu fitur berikut, tidak perlu mengajukan permintaan dukungan.
 
 - Pembuatan dan publikasi konektor kustom di PowerApps dan Microsoft Flow
-- Tindakan kustom HTTP diintegrasikan ke dalam Flow di luar SharePoint dan OneDrive
-- Integrasi data lokal melalui Gateway data lokal
+- Tindakan kustom HTTP yang diintegrasikan ke dalam Flow di SharePoint dan OneDrive
+- Integrasi data lokal melalui gateway data lokal
 
-Pelanggan dengan pengguna aktif dari fitur ini akan mendapatkan ekstensi otomatis hingga 31 Januari 2020, atau berakhirnya masa langganan Microsoft 365 yang sudah ada, mana saja yang lebih lama.
+Pelanggan dengan pengguna aktif fitur ini akan mendapatkan ekstensi otomatis hingga 31 Januari 2020, atau kedaluwarsa masa langganan Microsoft 365 mereka yang sudah ada, mana pun yang lebih lama.

@@ -1,5 +1,5 @@
 ---
-title: Konfigurasi proksi aplikasi
+title: Konfigurasi Proksi Aplikasi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951568"
 ---
-# <a name="app-proxy-configuration"></a>Konfigurasi proksi aplikasi
+# <a name="app-proxy-configuration"></a>Konfigurasi Proksi Aplikasi
 
-1. Untuk memahami cara mengonfigurasi aplikasi proksi aplikasi dalam Azure AD untuk mengekspos aplikasi lokal Anda ke awan, lihat [cara mengonfigurasi aplikasi proksi aplikasi](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. Masuk tunggal (SSO) memungkinkan pengguna mengakses aplikasi tanpa mengautentikasi beberapa kali. Ini memungkinkan autentikasi tunggal terjadi di awan, berlawanan dengan Azure Active Directory, dan memungkinkan layanan atau konektor untuk meniru pengguna untuk menyelesaikan setiap tantangan autentikasi tambahan dari aplikasi. Untuk mempelajari selengkapnya, lihat [cara mengonfigurasi masuk tunggal ke aplikasi proksi aplikasi](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. Gunakan [artikel ini](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) untuk memecahkan masalah umum yang dihadapi orang saat membuat aplikasi proksi aplikasi baru.
-4. Jika Anda mengalami masalah saat menyiapkan autentikasi back-end ke aplikasi Anda, Anda mungkin perlu [memecahkan masalah konfigurasi delegasi Kerberos untuk proksi aplikasi](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) atau mengikuti panduan tentang [mengonfigurasi aplikasi dengan pingaccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) untuk mengatasi masalah Anda.
+1. Untuk memahami cara mengonfigurasi aplikasi Proksi Aplikasi dalam Azure AD untuk mengekspos aplikasi lokal ke awan, lihat Cara mengonfigurasi [aplikasi Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
+2. Masuk tunggal (SSO, Single sign-on) memungkinkan pengguna Anda mengakses aplikasi tanpa mengotentikan beberapa kali. Ini memungkinkan autentikasi tunggal terjadi di awan, terhadap Azure Active Directory, dan memungkinkan layanan atau Konektor meniru pengguna untuk menyelesaikan tantangan autentikasi tambahan apa pun dari aplikasi. Untuk mempelajari selengkapnya, [lihat Cara mengonfigurasi masuk tunggal ke aplikasi Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
+3. Gunakan [artikel ini](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) untuk memecahkan masalah umum yang dihadapi orang-orang saat membuat aplikasi proksi aplikasi baru.
+4. Jika mengalami masalah dalam menyiapkan autentikasi ujung-belakang untuk aplikasi, Anda mungkin perlu Memecahkan masalah konfigurasi delegasi [Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) yang dibatasi untuk Proksi Aplikasi atau mengikuti panduan tentang mengonfigurasi aplikasi dengan [PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) untuk mengatasi masalah Anda.

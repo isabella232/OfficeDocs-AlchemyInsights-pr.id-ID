@@ -1,5 +1,5 @@
 ---
-title: Perangkat onboard ke Microsoft Defender untuk titik akhir
+title: Perangkat onboard ke Pertahanan Microsoft untuk Titik Akhir
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38d650936d61b78d1f54cd3f6101283d57c6949f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39fd7a0e93fbf5d13c23f941c31293789c694929c529b70e9d2a9558dc3f2874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967480"
 ---
-# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Perangkat onboard ke Microsoft Defender untuk titik akhir
+# <a name="onboard-devices-to-microsoft-defender-for-endpoint"></a>Perangkat onboard ke Pertahanan Microsoft untuk Titik Akhir
 
-Microsoft Defender untuk Endpoint menyediakan pengalaman operasi keamanan terpusat untuk platform Windows dan non-Windows. Ini membantu Anda melindungi jaringan organisasi Anda dan menggunakan pusat keamanan Microsoft Defender untuk meninjau pemberitahuan dari berbagai sistem operasi yang didukung:
+Pertahanan Microsoft untuk Titik Akhir menyediakan pengalaman operasi keamanan terpusat bagi Windows dan non-Windows lain. Ini membantu Anda melindungi jaringan organisasi Anda dan menggunakan Pusat Keamanan Pertahanan Microsoft untuk meninjau pemberitahuan dari berbagai sistem operasi yang didukung:
 
-- Untuk **mesin Windows 10**, lihat [alat dan metode orientasi untuk perangkat Windows 10](https://go.microsoft.com/fwlink/?linkid=2143460).
-- Untuk **Server Windows**, lihat [server onboard untuk layanan Microsoft Defender untuk titik akhir](https://go.microsoft.com/fwlink/?linkid=2143627).
-- Untuk **titik akhir non-Windows**, verifikasi bahwa sistem Anda memenuhi persyaratan untuk [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) atau [Linux](https://go.microsoft.com/fwlink/?linkid=2143462), lalu lanjutkan ke [orientasi](https://go.microsoft.com/fwlink/?linkid=2143628).
+- Untuk **Windows 10 seluler Anda,** [lihat Alat dan metode onboarding untuk Windows 10 seluler](https://go.microsoft.com/fwlink/?linkid=2143460).
+- Untuk **Windows titik** akhir, lihat Server [Onboard ke Layanan Titik Akhir pertahanan Microsoft.](https://go.microsoft.com/fwlink/?linkid=2143627)
+- Untuk **titik akhir Windows non-Windows**, pastikan bahwa sistem Anda memenuhi persyaratan untuk [macOS](https://go.microsoft.com/fwlink/?linkid=2143461) atau [Linux,](https://go.microsoft.com/fwlink/?linkid=2143462)lalu lanjutkan ke [onboarding](https://go.microsoft.com/fwlink/?linkid=2143628).
