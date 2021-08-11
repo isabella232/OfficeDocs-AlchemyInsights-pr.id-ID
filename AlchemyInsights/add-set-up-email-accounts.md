@@ -1,5 +1,5 @@
 ---
-title: 1800018 menambahkan/menyetel akun email
+title: 1800018 Menambahkan/menyiapkan akun email
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935556"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Masalah saat menyiapkan akun email di Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Masalah dalam menyiapkan akun email di Outlook
 
-Jika mengalami masalah saat menyiapkan akun Exchange di Outlook, Anda dapat menjalankan [alat penyiapan akun Outlook](https://aka.ms/SaRA-OutlookSetupProfile) di komputer yang terpengaruh. Ini akan melakukan berbagai pemeriksaan dan menyediakan solusi yang memungkinkan untuk masalah penyiapan akun Anda.
+Jika Anda mengalami masalah dalam menyiapkan akun Exchange Anda di Outlook, Anda bisa menjalankan alat [Outlook Penyetelan akun di](https://aka.ms/SaRA-OutlookSetupProfile) komputer yang terpengaruh. Pemeriksa Akun akan melakukan berbagai pemeriksaan dan menyediakan solusi yang memungkinkan untuk masalah penyiapan akun Anda.
   
-Jika Anda masih mengalami masalah, lihat [Outlook tidak bisa menyetel profil baru menggunakan Exchange Autodiscover untuk kotak surat Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Jika Anda masih mengalami masalah, lihat Outlook tidak bisa menyiapkan profil baru dengan menggunakan Autodiscover Exchange untuk kotak [Exchange Online Anda.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

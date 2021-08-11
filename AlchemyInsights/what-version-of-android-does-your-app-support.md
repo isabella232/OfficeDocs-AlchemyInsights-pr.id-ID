@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970730"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>Versi Android apa yang mendukung aplikasi Anda?
 
@@ -27,13 +27,13 @@ Jika anda sudah mendapatkan informasi terbaru tentang OS Android namun masih men
 
 Untuk melakukannya: 
 
-1. Di ponsel atau tablet Android Anda, **buka Pengaturan** lalu **Aplikasi** atau **Aplikasi**.
+1. Di ponsel atau tablet Android Anda, **buka Pengaturan** kemudian **Aplikasi** atau **Aplikasi**.
 
 2. Di bagian atas layar, **ketuk** Lainnya (ini juga bisa elipsis, atau tiga titik vertikal) lalu **Perlihatkan sistem**. 
 
 3. Gulir ke bawah dan ketuk **layanan Google Play**. 
 
-4. Ketuk **Penyimpanan** lalu **Hapus Cache.** 
+4. Ketuk **Storage** lalu Hapus **Cache.** 
 
 5. Ketuk **Kelola Ruang,** lalu **Hapus semua Data.** 
 

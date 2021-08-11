@@ -1,5 +1,5 @@
 ---
-title: Solusi untuk ' sistem operasi yang tidak didukung '
+title: Solusi untuk 'Sistem operasi tidak didukung'
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -13,24 +13,24 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093127"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>Solusi untuk "sistem operasi tidak didukung"
+# <a name="solutions-for-unsupported-operating-system"></a>Solusi untuk "Sistem operasi tidak didukung"
 
-Saat Anda mencoba menginstal Microsoft 365, Anda mungkin melihat pesan kesalahan **sistem operasi** yang tidak didukung jika perangkat Anda tidak memenuhi [persyaratan sistem](https://products.office.com/office-system-requirements).
+Ketika anda mencoba menginstal Microsoft 365, Anda mungkin  melihat pesan kesalahan Sistem operasi tidak didukung jika perangkat Anda tidak memenuhi [persyaratan sistem.](https://products.office.com/office-system-requirements)
   
 Microsoft 365 memerlukan:
   
-- PC: Windows 10, Windows 8,1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, atau Windows Server 2008 R2
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, atau Windows Server 2008 R2
 
     ATAU
 
-- Mac OS X 10,10
+- Mac OS X 10.10
 
-Jika mendapatkan pesan ini saat mencoba menginstal Office di perangkat seluler atau Chromebook, lihat [cara menginstal dan menjalankan Microsoft Office di Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+Jika mendapatkan pesan ini saat mencoba menginstal Office di perangkat seluler atau Chromebook, lihat Cara menginstal dan [menjalankan Microsoft Office di Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   

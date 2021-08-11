@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah akses sumber daya
+title: Pemecahan masalah akses sumber daya
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093025"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>Memecahkan masalah akses sumber daya
+# <a name="troubleshoot-resource-access-issues"></a>Pemecahan masalah akses sumber daya
 
-Untuk informasi tentang tipe profil yang didukung Intune untuk memungkinkan akses bagi pengguna untuk infrastruktur dan sumber daya perusahaan, lihat:
+Untuk informasi tentang tipe profil yang didukung Intune untuk memungkinkan akses bagi pengguna ke infrastruktur dan sumber daya perusahaan, lihat:
 
-- [Menambahkan pengaturan email ke perangkat yang menggunakan Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [Membuat profil vpn untuk menyambungkan ke server VPN di Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [Menambahkan dan menggunakan pengaturan Wi-Fi di perangkat Anda di Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [Menambahkan pengaturan email ke perangkat menggunakan Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [Membuat profil VPN untuk tersambung ke server VPN di Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [Menambahkan dan menggunakan Wi-Fi email pada perangkat Anda di Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
 - [Menggunakan sertifikat untuk autentikasi di Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-Untuk informasi selengkapnya tentang profil perangkat Intune, lihat [pertanyaan dan jawaban umum dengan kebijakan perangkat dan profil di Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+Untuk informasi selengkapnya tentang profil perangkat Intune, lihat Pertanyaan dan jawaban [umum dengan kebijakan perangkat dan profil di Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-Untuk informasi pemecahan masalah tambahan tentang profil akses sumber daya, lihat [kode kesalahan dan deskripsi umum di Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+Untuk informasi pemecahan masalah tambahan tentang profil akses sumber daya, [lihat Kode kesalahan umum dan deskripsi di Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
