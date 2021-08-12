@@ -1,5 +1,5 @@
 ---
-title: Menambahkan Kalender SharePoint
+title: Menambahkan kalender SharePoint
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935160"
 ---
-# <a name="add-a-sharepoint-calendar"></a>Menambahkan Kalender SharePoint
+# <a name="add-a-sharepoint-calendar"></a>Menambahkan kalender SharePoint
 
-Kalender SharePoint adalah tipe daftar klasik yang terkadang membingungkan dengan Kalender Grup Microsoft 365.
+SharePoint Kalender adalah tipe daftar klasik yang terkadang membingungkan dengan Microsoft 365 Grup Baru.
  
-Untuk membuat Kalender SharePoint, ikuti langkah-langkah ini:
+Untuk membuat kalender SharePoint, ikuti langkah-langkah ini:
  
-1.  Pilih **ikon gerbok** Pengaturan, lalu pilih **Tambahkan Aplikasi**.
+1.  Pilih ikon **Pengaturan** ikon gerbok, lalu **pilih Tambahkan Aplikasi**.
 2.  Dalam kotak **pencarian Temukan aplikasi,** ketikkan **Kalender,** lalu tekan enter.
 3.  Pilih aplikasi berjudul **Kalender**, lalu masukkan nama untuk kalender Anda.
 
-Untuk informasi selengkapnya tentang Grup Microsoft 365, lihat [Pelajari tentang Grup Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Untuk informasi selengkapnya tentang Microsoft 365 Grup, [lihat Pelajari tentang Microsoft 365 Grup](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
