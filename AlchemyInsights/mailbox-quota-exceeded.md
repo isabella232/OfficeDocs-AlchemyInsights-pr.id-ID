@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9cd70f3be9ec2925e3796a74582ca8adc3d5142e657be38b95e694e43db670c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925528"
 ---
 # <a name="mailbox-quota-exceeded"></a>Kuota Kotak Surat Terlampaui
 
@@ -29,6 +29,6 @@ Anda telah melampaui kuota kotak surat untuk akun. Ada beberapa langkah yang dap
 
 3. Di Android, Anda dapat mengosongkan folder sampah Anda dengan sekali klik. Langsung masuk ke folder sampah Anda dan tekan **keranjang sampah kosong**. 
 
-4. Simpan lampiran ke OneDrive sehingga tidak disimpan di kotak surat Anda. Lihat [Batas penyimpanan di Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) informasi selengkapnya. 
+4. Simpan lampiran Anda OneDrive sehingga tidak disimpan dalam kotak surat Anda. Lihat [Storage batasan di Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) untuk informasi selengkapnya. 
 
-Jika Merupakan pengguna Microsoft 365, Anda juga dapat meminta peningkatan kotak surat dari admin TI.
+Jika merupakan pengguna Microsoft 365, Anda juga dapat meminta peningkatan kotak surat dari admin TI.

@@ -1,5 +1,5 @@
 ---
-title: Mengubah kuota penyimpanan OneDrive for Business
+title: Mengubah OneDrive for Business penyimpanan gratis
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
-ms.openlocfilehash: 34dd21f8baa8e186a001d4a1e65beea68700ec04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59e7b484d8783a5ab710e50f7b27d48d852e4bac6ab208355005671621461ce4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968677"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Mengubah ruang penyimpanan OneDrive default untuk pengguna Anda
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Mengubah pengaturan OneDrive penyimpanan default untuk pengguna Anda
 
-1. Masuk ke [halaman penyimpanan Pusat admin OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Masuk ke [Storage halaman pusat admin OneDrive .](https://admin.onedrive.com/?v=StorageSettings)
     
-2. Masukkan jumlah penyimpanan default (dalam GB) di kotak **penyimpanan default** , lalu klik **Simpan**.
+2. Masukkan jumlah penyimpanan default (dalam GB) di **kotak Penyimpanan** default, lalu klik **Simpan.**
     
-Pengaturan ruang penyimpanan ini berlaku untuk semua pengguna yang belum Anda tetapkan batas penyimpanan tertentu. Untuk mengubah ruang penyimpanan untuk pengguna tertentu, Anda perlu menggunakan Microsoft PowerShell. Untuk informasi tentang cara melakukan ini, lihat [mengubah ruang penyimpanan OneDrive pengguna menggunakan PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Pengaturan ruang penyimpanan ini berlaku untuk semua pengguna yang belum ditetapkan batas penyimpanan tertentu. Untuk mengubah ruang penyimpanan bagi pengguna tertentu, Anda harus menggunakan Microsoft PowerShell. Untuk informasi tentang cara melakukannya, lihat [Mengubah ruang OneDrive penyimpanan pengguna menggunakan PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

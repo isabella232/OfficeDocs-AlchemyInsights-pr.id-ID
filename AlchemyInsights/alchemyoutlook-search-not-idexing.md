@@ -1,5 +1,5 @@
 ---
-title: Alchemy-pencarian Outlook tidak idexing
+title: Alkimia - Outlook pencarian yang tidak ide ide dan
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: d096e3ea8566ab6c81aab3284b2a51b52e2b6de6
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a1fab34bea6d9034e6a26168ed36046f64eb4a93cd4bbc09cb94a60c85f5585d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933576"
 ---
-# <a name="outlook-search-not-indexing"></a>Pencarian Outlook tidak diindeks
+# <a name="outlook-search-not-indexing"></a>Outlook Pencarian tidak mengindeks
 
-Kami mengetahui masalah pencarian Outlook terkait pembaruan keamanan terbaru untuk Windows.
+Kami menyadari masalah Outlook pencarian terkait pembaruan keamanan terkini untuk Windows.
   
-Saat mencari di Outlook, Anda mungkin mendapatkan salah satu kesalahan berikut: **ada yang salah dan pencarian Anda tidak dapat diselesaikan**, atau **hasil pencarian mungkin tidak lengkap karena item masih diindeks**. Perbaikan telah diterbitkan sebagai pembaruan Windows opsional. Instal yang terkait dengan versi Windows Anda melihat masalah ini pada: 
+Ketika mencari di Outlook, Anda mungkin mendapatkan salah satu kesalahan **ini:** Terjadi kesalahan dan pencarian tidak dapat diselesaikan, atau Hasil pencarian mungkin menjadi tidak lengkap karena item sedang **diindeks.** Perbaikan telah diterbitkan sebagai pembaruan Windows opsional. Silakan instal salah satu yang terkait dengan versi Windows Anda melihat masalah ini pada: 
   
-> [Windows 7-27 Juni pembaruan 2017](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
+> [Windows 7 - Pembaruan 27 Juni 2017](https://support.microsoft.com/topic/june-27-2017-kb4022168-preview-of-monthly-rollup-b8e847d5-3b84-367e-4dcb-cc7a25f06d40)
     
-> [Windows 8,1-27 Juni pembaruan 2017](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
+> [Windows 8.1 - Pembaruan 27 Juni 2017](https://support.microsoft.com/topic/june-27-2017-kb4022720-preview-of-monthly-rollup-b98970bb-6f11-46c3-8681-a6b85d5d8eb4)
     
-> [Windows 10 versi 1703-27 Juni, 2017](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
+> [Windows 10 Versi 1703 - Pembaruan 27 Juni 2017](https://support.microsoft.com/topic/compatibility-update-for-upgrading-to-windows-10-version-1703-june-27-2017-32a45f84-19d8-2535-029c-d083b5f6765e)
     
-Untuk informasi terbaru, silakan lihat artikel: [masalah umum Outlook di pembaruan keamanan 2017 bulan juni](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
+Untuk informasi terbaru, silakan lihat artikel: Masalah Outlook yang diketahui pada pembaruan keamanan Juni [2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) Masalah #5. 
   
 

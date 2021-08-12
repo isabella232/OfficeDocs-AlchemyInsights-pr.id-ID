@@ -1,5 +1,5 @@
 ---
-title: Membuat Microsoft Bing sebagai mesin pencarian default
+title: Membuat Microsoft Bing mesin pencarian default Anda
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925492"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>Membuat Microsoft Bing sebagai mesin pencarian default
+# <a name="make-microsoft-bing-your-default-search-engine"></a>Membuat Microsoft Bing mesin pencarian default Anda
 
-Untuk menjadikan Bing sebagai mesin pencarian default Microsoft Edge, Google Chrome, atau Internet Explorer, ikuti instruksi di [Menjadikan Bing sebagai mesin pencarian default.](https://go.microsoft.com/fwlink/?linkid=2148834)
+Untuk membuat Bing pencarian default untuk Microsoft Edge, Google Chrome, atau Internet Explorer, ikuti instruksi dalam [Membuat Bing mesin pencarian default.](https://go.microsoft.com/fwlink/?linkid=2148834)
