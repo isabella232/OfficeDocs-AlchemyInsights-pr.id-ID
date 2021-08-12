@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004358"
 - "7822"
-ms.openlocfilehash: 0f2a10b918fee067b167ab58ac2544a89e0c8ea1
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 9e6030919721b4c0805a26ca45d365f31d88894e86ea08225f47576e7d152047
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939382"
 ---
 # <a name="troubleshoot-guest-user-issues"></a>Memecahkan masalah pengguna tamu
 
-1. Untuk panduan tentang mengelola akses tamu ke aplikasi, lihat [mengelola akses tamu dengan AZURE AD Access](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews).
-1. [Tambahkan pengguna tamu ke direktori Anda di portal Azure](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal): dalam mulai cepat ini, Anda akan menambahkan pengguna tamu baru ke direktori Azure AD Anda melalui portal Azure, mengirim undangan, dan melihat seperti apa proses Penukaran undangan pengguna tamu.
-1. [Menambahkan pengguna tamu dengan PowerShell](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell): dalam mulai cepat ini, Anda akan menggunakan perintah New-AzureADMSInvitation untuk menambahkan satu pengguna tamu ke penyewa Azure Anda.
-1. Untuk mempelajari cara menetapkan pengguna, dan grup, ke aplikasi perusahaan di Azure Active Directory (Azure AD), baik dari dalam portal Azure atau dengan menggunakan PowerShell, lihat [mengelola penetapan pengguna untuk aplikasi di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal). 
-1. Kolaborasi B2B Azure Active Directory (Azure AD) bekerja dengan sebagian besar aplikasi yang terintegrasi dengan Azure AD. Di [artikel](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)ini, kami menelusuri instruksi untuk mengonfigurasi beberapa aplikasi SaaS populer untuk digunakan dengan AZURE AD B2B.
-1. Sebagai organisasi yang menggunakan kapabilitas kolaborasi B2B Azure Active Directory (Azure AD) untuk mengundang pengguna tamu dari organisasi mitra ke Azure AD Anda, kini Anda dapat menyediakan akses kepada pengguna B2B ke aplikasi di tempat. Aplikasi di tempat ini bisa menggunakan autentikasi berbasis SAML atau autentikasi Windows terpadu (IWA) dengan delegasi Kerberos yang dibatasi (KCD). Untuk informasi selengkapnya, lihat [memberi pengguna B2B di AZURE AD Access ke aplikasi lokal Anda](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises).
-1. Pelajari cara [memberikan akun mitra terkelola lokal akses ke sumber daya awan menggunakan kolaborasi AZURE AD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud).
+1. Untuk panduan tentang mengelola akses tamu ke aplikasi, lihat [Mengelola akses tamu dengan ulasan akses Azure AD.](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews)
+1. Menambahkan pengguna tamu ke direktori Anda di [portal Azure:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal)Di mulai cepat ini, Anda akan menambahkan pengguna tamu baru ke direktori Azure AD Anda melalui portal Azure, mengirim undangan, dan melihat seperti apa proses penukaran undangan pengguna tamu itu.
+1. [Menambahkan pengguna tamu dengan PowerShell:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell)Di mulai cepat ini, Anda akan menggunakan perintah New-AzureADMSInvitation untuk menambahkan satu pengguna tamu ke penyewa Azure.
+1. Untuk mempelajari cara menetapkan pengguna, dan grup, ke aplikasi perusahaan di Azure Active Directory (Azure AD), baik dari dalam portal Azure atau dengan menggunakan PowerShell, lihat Mengelola penetapan pengguna untuk aplikasi [di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal). 
+1. Azure Active Directory B2B (Azure AD) berfungsi dengan sebagian besar aplikasi yang terintegrasi dengan Azure AD. Dalam artikel [ini,](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)kami akan memandu instruksi untuk mengonfigurasi beberapa aplikasi SaaS yang populer untuk digunakan dengan Azure AD B2B.
+1. Sebagai organisasi yang menggunakan kemampuan kolaborasi B2B Azure Active Directory (Azure AD) untuk mengundang pengguna tamu dari organisasi mitra ke Azure AD, Anda kini dapat menyediakan akses pengguna B2B ini ke aplikasi lokal. Aplikasi lokal ini dapat menggunakan autentikasi berbasis SAML atau Integrated Windows Authentication (IWA) dengan delegasi terbatas Kerberos (KCD). Untuk informasi selengkapnya, [lihat Memberikan pengguna B2B dalam akses Azure AD ke aplikasi lokal Anda.](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises)
+1. Pelajari cara memberikan [akses akun mitra yang dikelola secara lokal ke sumber daya awan menggunakan kolaborasi B2B Azure AD.](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud)

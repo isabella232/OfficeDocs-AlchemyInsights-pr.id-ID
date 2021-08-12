@@ -1,5 +1,5 @@
 ---
-title: Menambahkan atau memperbarui nomor PO-langkah warisan WD-yang direkomendasikan
+title: Menambahkan atau memperbarui nomor PO - Wd Warisan - langkah-langkah yang disarankan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953872"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Menambahkan atau memperbarui nomor PO-langkah warisan WD-yang direkomendasikan
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Menambahkan atau memperbarui nomor PO - Wd Warisan - langkah-langkah yang disarankan
 
-Menambahkan nomor pesanan pembelian (PO) hanya didukung untuk pelanggan yang [membayar dengan faktur](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) melalui cek atau transfer kawat. Instruksi untuk memperbarui nomor PO tergantung pada [tipe akun tagihan](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)Anda.
+Penambahan nomor Pesanan Pembelian (PO) hanya didukung untuk pelanggan yang [membayar menggunakan faktur](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) melalui cek atau transfer bank. Instruksi untuk memperbarui nomor PO tergantung pada tipe [akun tagihan Anda.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Anda harus memiliki peran [admin akun](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) untuk MENGEDIT nomor PO.
+Anda harus memiliki [peran admin](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) akun untuk mengedit nomor PO.
 
-1. Pilih langganan Anda dari [halaman langganan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) .
-2. Klik **metode pembayaran** di sisi kiri.
-3. Dari tabel **metode pembayaran** , klik **faktur**. 
-4. Masukkan nomor PO baru Anda, lalu klik **Simpan**.
+1. Pilih langganan Anda dari [halaman Langganan.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Klik **Metode** pembayaran di sisi kiri.
+3. Dari tabel **Metode Pembayaran,** klik **Faktur.** 
+4. Masukkan nomor PO baru Anda, lalu klik **Simpan.**
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang disarankan**
 
-- [Negara/wilayah dan mata uang yang didukung](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [Negara/kawasan dan mata uang yang didukung](https://azure.microsoft.com/en-us/pricing/faq/) 
 - [Cara membayar dengan faktur](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Mengelola informasi kontak akun tagihan Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Kelola informasi kontak akun tagihan Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
