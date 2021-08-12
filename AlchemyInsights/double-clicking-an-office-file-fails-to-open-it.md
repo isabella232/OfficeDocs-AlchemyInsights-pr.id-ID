@@ -1,5 +1,5 @@
 ---
-title: File Office gagal dibuka dengan mengklik ganda
+title: Mengklik ganda Office file gagal membukanya
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 519051ac0ffc11d2b17c14959464c1123654bef38d6e10efd252b4ff3d8bbc1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814808"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965104"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>File Office gagal dibuka dengan mengklik ganda
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Mengklik ganda Office file gagal membukanya
 
-Setelah mengklik ganda file Office, Anda mungkin melihat program terbuka tetapi file itu sendiri tidak terbuka. Atau Anda mungkin mendapatkan kesalahan: "Terjadi masalah saat mengirimkan perintah ke program." Terdapat banyak penyebab untuk masalah ini, namun dua solusi yang paling umum adalah:
+Setelah mengklik dua kali Office file, Anda mungkin melihat program terbuka tetapi file itu sendiri tidak terbuka. Atau Anda mungkin mendapatkan kesalahan: "Terjadi masalah saat mengirimkan perintah ke program." Terdapat banyak penyebab untuk masalah ini, namun dua solusi yang paling umum adalah:
 
-- Dari dalam Excel, pastikan bahwa opsi DDE tidak dicentang. Opsi bisa ditemukan dengan membuat buku kerja baru lalu memilih Opsi **File > atau > Tingkat Lanjut.** Di bagian **Umum,** kosongkan kotak centang **Abaikan aplikasi lain yang menggunakan Pertukaran Data Dinamik (DDE).**
+- Dari dalam Excel, pastikan bahwa opsi DDE tidak dicentang. Opsi bisa ditemukan dengan membuat buku kerja baru lalu memilih Opsi **File > atau > Tingkat Lanjut.** Di bagian **Umum,** kosongkan kotak centang **Abaikan aplikasi lain yang menggunakan Dynamic Data Exchange (DDE).**
 
-- Jalankan Perbaikan Online untuk memulihkan pengaturan default. Klik tombol Mulai Windows, lalu cari "Panel Kontrol." Buka **Panel Kontrol**, dan masuk ke **Program > dan Fitur**. Lalu klik kanan **Microsoft Office [Versi]** dan pilih **Ubah > Online Repair.**
+- Jalankan Perbaikan Online untuk memulihkan pengaturan default. Klik tombol Windows Mulai, lalu cari "Panel Kontrol." Buka **Panel Kontrol**, dan masuk ke **Program > dan Fitur**. Lalu klik kanan pada **Microsoft Office [Versi]** dan pilih **Ubah > Perbaikan Online.**
 
-Jika salah satu solusi ini tidak berhasil, daftar solusi yang lebih lengkap dapat ditemukan di artikel dukungan, mengklik ganda [file Office gagal membukanya.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)
+Jika salah satu solusi tersebut tidak berhasil, daftar solusi yang lebih lengkap dapat ditemukan di artikel dukungan, Klik ganda [file Office untuk membukanya.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)

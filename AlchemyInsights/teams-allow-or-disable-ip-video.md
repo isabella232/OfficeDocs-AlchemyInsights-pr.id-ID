@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940642"
 ---
 # <a name="teams-allow-or-disable-ip-video"></a>Teams mengizinkan atau menonaktifkan video IP
 
 **Mengubah atau membuat kebijakan rapat**
 
-Untuk mengubah atau membuat kebijakan rapat, masuk ke pusat **admin Microsoft Teams > Rapat > Rapat**. Pilih kebijakan dari daftar atau klik **Tambahkan**. Jika membuat kebijakan baru, tambahkan nama dan deskripsi. Nama tidak boleh berisi karakter khusus atau lebih panjang dari 64 karakter. Pilih pengaturan Anda, lalu klik **Simpan**.
+Untuk mengubah atau membuat kebijakan rapat, masuk ke **Microsoft Teams admin > Rapat > Rapat**. Pilih kebijakan dari daftar atau klik **Tambahkan**. Jika membuat kebijakan baru, tambahkan nama dan deskripsi. Nama tidak boleh berisi karakter khusus atau lebih panjang dari 64 karakter. Pilih pengaturan Anda, lalu klik **Simpan**.
 
 Misalnya, katakanlah Anda memiliki banyak pengguna dan Anda ingin membatasi jumlah bandwith yang akan dibutuhkan rapat mereka. Anda dapat membuat kebijakan kustom baru bernama "Bandwidth terbatas" dan menonaktifkan pengaturan berikut:
 

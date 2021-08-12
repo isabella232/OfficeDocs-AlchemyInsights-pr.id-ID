@@ -12,18 +12,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: dbdcb538a94567f32dee8b135822900ea50f94c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 566073563c6159bfa1d5fb2d2b105ce566accac7fc88f4c90ee1d8d41bbd061e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920542"
 ---
 # <a name="trying-to-remove-your-domain"></a>Ingin menghapus domain Anda?
 
-Untuk menghapus domain Anda dari Microsoft, ikuti langkah-langkah dalam artikel ini: [menghapus domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Untuk menghapus domain dari Microsoft, ikuti langkah-langkah dalam artikel ini: [Menghapus domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
-Anda perlu memperbarui setiap pengguna atau grup yang ditetapkan untuk nama domain tersebut sebelum Anda menghapus domain tersebut.
+Anda harus memperbarui pengguna atau grup yang ditetapkan pada nama domain tersebut sebelum menghapusnya.
   
-[Periksa artikel domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) untuk solusi umum lainnya.
+[Periksa artikel domain untuk](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) solusi umum lainnya.
   

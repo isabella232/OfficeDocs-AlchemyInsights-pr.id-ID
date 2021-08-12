@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan atau menonaktifkan berbagi eksternal untuk situs SharePoint
+title: Mengaktifkan atau menonaktifkan berbagi eksternal untuk situs SharePoint eksternal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 63b94ccff3ed97a52ce8886f4fdce9d3fd1e4c83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5aabe52ce1a294b97b0e85fbf04c61456c87b240b40328febe1634aad1a17c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920362"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Mengaktifkan atau menonaktifkan berbagi eksternal untuk situs SharePoint
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Mengaktifkan atau menonaktifkan berbagi eksternal untuk situs SharePoint eksternal
 
-Untuk sebuah situs:
+Untuk situs:
   
-1. Di pusat admin SharePoint baru, di panel kiri, klik **situs**.
+1. Di pusat SharePoint admin baru, di panel kiri, klik **situs.**
     
-2. Pilih situs atau situs, dan pada pita, klik **berbagi**.
+2. Pilih situs atau situs, dan pada pita, klik **Berbagi.**
     
-Secara default, situs baru yang dibuat pengguna (kedua situs tim yang termasuk dalam grup dan situs komunikasi Microsoft 365) memiliki pengaturan berbagi yang sama seperti pengaturan seluruh organisasi Anda, kecuali pengaturan di seluruh organisasi memungkinkan berbagi file menggunakan link yang tidak memerlukan masuk. Dalam kasus ini, situs memperbolehkan berbagi dengan pengguna eksternal baru dan yang sudah ada yang masuk. Untuk mengubah pengaturan untuk situs tertentu, gunakan Pusat admin SharePoint yang baru.
+Secara default, situs baru yang dibuat pengguna (kedua situs tim milik situs Microsoft 365 Grup dan situs komunikasi) memiliki pengaturan berbagi yang sama seperti pengaturan untuk seluruh organisasi Anda, kecuali jika pengaturan untuk seluruh organisasi memungkinkan berbagi file menggunakan tautan yang tidak memerlukan masuk. Dalam kasus ini, situs memungkinkan berbagi dengan pengguna eksternal baru dan yang sudah ada yang masuk. Untuk mengubah pengaturan untuk situs tertentu, gunakan pusat admin SharePoint baru.
   
 > [!NOTE]
-> Pengaturan berbagi eksternal untuk setiap situs dapat lebih ketat daripada pengaturan seluruh organisasi Anda, tetapi tidak lebih permisif dari pengaturan seluruh organisasi. 
+> Pengaturan berbagi eksternal untuk situs apa pun dapat menjadi lebih terbatas daripada pengaturan untuk seluruh organisasi Anda, tetapi tidak lebih bebas dari pengaturan untuk seluruh organisasi. 
   
 
