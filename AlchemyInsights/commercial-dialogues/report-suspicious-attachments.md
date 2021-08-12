@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948922"
 ---
 # <a name="report-suspicious-attachments"></a>Melaporkan lampiran yang mencurigakan
 
-1. Dalam Flyout **penyerahan baru** , pilih **lampiran**, lalu Unggah file yang ingin Anda Pindai.
+1. Di **flyout Pengiriman** baru, pilih **Lampiran**, lalu unggah file yang ingin Anda pindai.
     > [!NOTE]
-    > Ada batasan 3 MB saat ini. Jika file melebihi 3 MB, pertimbangkan untuk mengirimkannya menggunakan ID email sebagai gantinya.
-2. Jika Anda memilih **seharusnya diblokir**, maka akan secara otomatis menandai item tersebut sebagai **malware**.
-3. Pilih **kirim**.
+    > Ada batasan 3 MB saat ini. Jika file melebihi 3 MB, pertimbangkan untuk mengirimkannya dengan menggunakan ID email.
+2. Jika Anda memilih **Seharusnya telah diblokir ,** item secara otomatis akan menandai item sebagai **Malware**.
+3. Pilih **Kirim.**

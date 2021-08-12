@@ -1,5 +1,5 @@
 ---
-title: Masalah kinerja-SharePoint atau OneDrive
+title: Masalah kinerja yang SharePoint atau OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911845"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint atau OneDrive lambat, tidak dapat diakses, atau tidak tersedia untuk beberapa pengguna
 
 SharePoint atau OneDrive mungkin lambat, tidak dapat diakses, atau tidak tersedia, atau mungkin menampilkan kesalahan layanan yang tidak tersedia atau 503, karena beberapa alasan:
   
-- Jika situs SharePoint atau OneDrive Anda lambat atau tertunda untuk beberapa pengguna, mungkin ada masalah layanan sementara ketika pengguna mengalami keterlambatan atau kesalahan navigasi saat mengakses situs SharePoint atau konten OneDrive. Lihat [dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.
+- Jika proses SharePoint atau OneDrive Anda lambat atau tertunda untuk beberapa pengguna, mungkin terdapat masalah layanan sementara ketika pengguna mengalami penundaan yang sering terjadi atau kesalahan navigasi saat mengakses situs SharePoint atau OneDrive eksternal. Periksa dasbor [Kesehatan layanan untuk](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) melihat apakah organisasi Anda terkena dampak.
   
-- Pengguna mungkin menerima *server 503 adalah kesalahan sibuk* ketika mencoba menavigasi ke situs SharePoint atau OneDrive. Kesalahan ini bisa disebabkan oleh pembatasan dalam Layanan SharePoint. SharePoint Online menerapkan pembatasan untuk mempertahankan kinerja yang optimal dan keandalan layanan SharePoint Online. Pembatasan membatasi jumlah tindakan pengguna atau panggilan serentak (berdasarkan skrip atau kode) untuk mencegah penggunaan sumber daya secara berlebihan. Untuk informasi selengkapnya tentang pembatasan, [Hindari mendapatkan pembatasan atau diblokir di SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Pengguna mungkin menerima kesalahan *server 503* sibuk ketika mencoba menavigasi ke situs SharePoint atau OneDrive lain. Kesalahan ini bisa disebabkan oleh pembatasan dalam layanan SharePoint ini. SharePoint Online menerapkan pembatasan untuk mempertahankan kinerja yang optimal dan keandalan layanan SharePoint Online. Pembatasan membatasi jumlah tindakan pengguna atau panggilan serentak (berdasarkan skrip atau kode) untuk mencegah penggunaan sumber daya secara berlebihan. Untuk informasi selengkapnya tentang pembatasan, lihat, Menghindari pembatasan atau [pemblokiran di](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)SharePoint Online.
 
-- Jika Anda mengalami kinerja yang lambat dengan situs atau halaman SharePoint **klasik** atau **modern** , gunakan [alat diagnostik halaman](https://aka.ms/perftool) untuk menganalisis halaman.
+- Jika anda mengalami kinerja yang lambat dengan **situs** **atau** halaman SharePoint modern atau klasik, manfaatkan alat Diagnostik [Halaman](https://aka.ms/perftool) untuk menganalisis halaman.
   
-- Jika Anda masih mengalami kinerja yang lambat umum, silakan Tinjau sumber daya di bagian bawah artikel ini: [pengenalan ke tuning kinerja untuk SharePoint online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Jika Anda masih mengalami kinerja lambat umum, silakan tinjau sumber daya di bagian bawah artikel ini: Pengenalan pada [penyetelan kinerja untuk SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

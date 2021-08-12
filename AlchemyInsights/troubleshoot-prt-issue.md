@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972719"
 ---
 # <a name="troubleshoot-prt-issue"></a>Memecahkan masalah PRT
 
-Untuk perangkat apa pun yang diselesaikan dengan benar, harus terdaftar dan di negara bagian yang baik dan dapat memperoleh token refresh utama (PRT).
+Agar perangkat apa pun dapat menyelesaikan autentikasi, perangkat harus terdaftar sepenuhnya dan dalam keadaan baik serta dapat memperoleh Token Refresh Utama (PRT).
 
-Proses registrasi gabungan Azure AD Pendaftaran memerlukan perangkat untuk berada di jaringan perusahaan. Ini juga berfungsi melalui VPN namun ada beberapa hal yang perlu diperhatikan. Kami telah mendengar Pelanggan yang memerlukan bantuan dengan pemecahan masalah hibrid proses pendaftaran gabungan Azure AD di bawah kondisi kerja jarak jauh. Berikut ini adalah rincian apa yang terjadi ' di bawah kap ' selama proses registrasi.
+Proses pendaftaran gabungan Azure AD hibrid memerlukan perangkat untuk berada di jaringan perusahaan. Peringatan juga dapat digunakan di VPN, tetapi terdapat beberapa peringatan untuk hal tersebut. Kami telah mendengar pelanggan yang membutuhkan bantuan dalam pemecahan masalah proses pendaftaran gabungan Azure AD hibrid dalam keadaan kerja jarak jauh. Berikut uraian tentang apa yang terjadi 'di balik balik layar' selama proses pendaftaran.
 
-**Lingkungan autentikasi awan (menggunakan sinkronisasi hash kata sandi Azure atau autentikasi kirim langsung)**
+**Lingkungan autentikasi cloud (menggunakan sinkronisasi hash kata sandi Azure AD atau autentikasi langsung)**
 
-Alur pendaftaran ini juga dikenal sebagai "gabungan sinkronisasi".
+Aliran pendaftaran ini juga dikenal sebagai "Sinkronisasi Gabung".
 
-1. Windows 10 menemukan catatan SCP saat pengguna masuk ke perangkat.
-    1. Perangkat tersebut pertama kali mencoba untuk mengambil informasi penyewa dari SCP sisi klien dalam registri [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Untuk informasi selengkapnya, lihat [dokumen](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)ini.
-    2. Jika gagal, perangkat berkomunikasi dengan Active Directory lokal (AD) untuk mendapatkan informasi penyewa dari titik koneksi Layanan (SCP). Untuk memverifikasi SCP, silakan lihat [dokumen](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)ini. 
-
-> [!NOTE]
-> Kami merekomendasikan untuk mengaktifkan SCP dalam iklan dan hanya menggunakan SCP sisi klien untuk validasi awal.
-
-2. Windows 10 mencoba untuk berkomunikasi dengan Azure AD di bawah konteks sistem untuk mengautentikasi dirinya. Anda dapat memverifikasi apakah perangkat dapat mengakses sumber daya Microsoft di bawah akun sistem dengan menggunakan skrip konektivitas registrasi perangkat uji.
-
-3. Windows 10 menghasilkan sertifikat yang ditandatangani sendiri dan menyimpannya di bawah objek komputer di AD di tempat. Ini memerlukan garis pandang ke pengontrol domain.
-
-4. Objek perangkat yang memiliki sertifikat disinkronkan ke Azure AD melalui Azure AD Connect. Siklus sinkronisasi adalah setiap 30 menit secara default, namun tergantung pada konfigurasi Azure AD Connect. Untuk informasi selengkapnya, lihat [dokumen](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)ini.
-
-5. Pada tahap ini, Anda akan bisa melihat perangkat subjek dalam status "tertunda" di bawah bilah perangkat Azure portal.
-
-6. Di pengguna berikutnya masuk ke Windows 10, pendaftaran akan diselesaikan. 
+1. Windows 10 menemukan catatan SCP pada saat pengguna masuk ke perangkat.
+    1. Perangkat pertama mencoba mengambil informasi penyewa dari SCP pihak klien dalam registri [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Untuk informasi selengkapnya, lihat dokumen [ini](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    2. Jika gagal, perangkat berkomunikasi dengan Direktori Aktif (AD) di tempat untuk mendapatkan informasi penyewa dari Service Connection Point (SCP). Untuk memverifikasi SCP, silakan rujuk ke dokumen [ini.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
 > [!NOTE]
-> Jika Anda menggunakan VPN dan logoff-proses masuk mengakhiri konektivitas domain, Anda bisa memicu pendaftaran secara manual:
- 1. Menerbitkan dsregcmd/Join secara lokal pada prompt admin atau jarak jauh melalui PSExec ke PC Anda. Sebagai contoh, PsExec-s \\ win10client01 CMD, dsregcmd/Join
+> Kami menyarankan untuk mengaktifkan SCP di AD dan hanya menggunakan SCP pihak klien untuk validasi awal.
 
- 2. Untuk detail selengkapnya tentang masalah gabungan hibrid, lihat [memecahkan masalah perangkat](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 mencoba berkomunikasi dengan Azure AD di bawah konteks sistem untuk mengautentikasi dirinya terhadap Azure AD. Anda bisa memverifikasi apakah perangkat bisa mengakses sumber daya Microsoft di bawah akun sistem dengan menggunakan skrip Konektivitas Registrasi Perangkat Uji.
+
+3. Windows 10 membuat sertifikat yang ditandatangani sendiri dan menyimpannya di bawah objek komputer di AD lokal. Hal ini membutuhkan pengontrol domain yang tak terlihat.
+
+4. Objek perangkat yang memiliki sertifikat disinkronkan ke Azure AD melalui Azure AD Koneksi. Siklus sinkronisasi adalah setiap 30 menit secara default, tetapi bergantung pada konfigurasi Azure AD Koneksi. Untuk informasi selengkapnya, silakan lihat dokumen [ini](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. Pada tahap ini, Anda akan dapat melihat perangkat subjek dalam status "Tertunda" di bawah Blade perangkat Portal Azure.
+
+6. Pada pengguna berikutnya masuk Windows 10, pendaftaran akan diselesaikan. 
+
+> [!NOTE]
+> Jika menggunakan VPN dan proses masuk logo akan mengakhiri konektivitas domain, Anda dapat memicu pendaftaran secara manual:
+ 1. Masalah dsregcmd /gabung secara lokal pada perintah admin atau secara jarak jauh melalui PSExec ke PC Anda. Misalnya, PsExec -s \\ win10client01 cmd, dsregcmd /join
+
+ 2. Untuk detail selengkapnya tentang masalah Gabung Hibrid, lihat [Memecahkan masalah perangkat.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)
