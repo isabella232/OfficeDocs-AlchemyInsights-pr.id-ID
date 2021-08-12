@@ -1,5 +1,5 @@
 ---
-title: Tentang email pengarahan
+title: Tentang Email pengarahan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955861"
 ---
-# <a name="about-briefing-email"></a>Tentang email pengarahan
+# <a name="about-briefing-email"></a>Tentang Email pengarahan
 
-Untuk mempelajari selengkapnya tentang pengarahan, lihat [gambaran umum email pengarahan](https://docs.microsoft.com/briefing/be-overview).  
+Untuk mempelajari selengkapnya tentang Briefing, [lihat Gambaran umum email briefing.](https://docs.microsoft.com/briefing/be-overview)  
 
-Fitur ini saat ini sedang diluncurkan, sehingga organisasi Anda mungkin tidak menerima email pengarahan meskipun Anda telah mengaktifkan pengarahan. Juga, perhatikan bahwa pengguna tidak dijamin menerima email pengarahan setiap hari. Email hanya dikirimkan saat pengguna setidaknya memiliki satu saran yang dapat ditindaklanjuti untuk hari tersebut. Untuk informasi selengkapnya, lihat Tanya [jawab umum untuk email pengarahan](https://docs.microsoft.com/briefing/be-faqs).
+Fitur ini saat ini sedang diluncurkan, sehingga organisasi Anda mungkin tidak akan menerima email Pengarahan meskipun Anda telah mengaktifkan Briefing. Perhatikan juga bahwa pengguna tidak dijamin untuk menerima email Pengarahan setiap hari. Email dikirim hanya jika pengguna memiliki sedikitnya satu saran yang dapat ditindaklanjuti untuk hari tersebut. Untuk informasi selengkapnya, [lihat Tanya jawab umum untuk email Pengarahan.](https://docs.microsoft.com/briefing/be-faqs)

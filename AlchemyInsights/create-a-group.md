@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929308"
 ---
 # <a name="create-a-group"></a>Membuat grup
 
@@ -30,9 +30,9 @@ Pastikan Anda memiliki wewenang untuk membuat grup baru. Administrator global da
 **Mengelola izin pembuatan Grup**
 
 1. Administrator global dapat mengelola izin pembuatan grup (untuk alasan terkait keamanan) atau grup Office 365 yang dibuat di portal Azure atau Panel Access, dengan memilih "Pengguna dapat membuat grup keamanan di portal Azure" atau "Pengguna dapat membuat grup Office 365 di portal Azure" di opsi Semua grup Umum  >  **(Pengaturan).**
-2. Anda juga dapat membatasi pembuatan grup untuk memilih grup pengguna jika memiliki lisensi Azure Active Directory P1 Premium.
+2. Anda juga dapat membatasi pembuatan grup untuk memilih grup pengguna jika memiliki lisensi Azure Active Directory P1 Premium mereka.
 
-**Menonaktifkan pemberitahuan selamat datang untuk anggota grup Office 365 baru**
+**Menonaktifkan pemberitahuan selamat datang untuk anggota Office 365 grup baru**
 
-Pemberitahuan selamat datang yang dikirimkan kepada pengguna yang ditambahkan ke grup Office 365 bisa dinonaktifkan dengan menyetel **UnifiedGroupWelcomeMessageEnabled** ke False di Powershell. Pelajari tentang pengaturan ini di [sini](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+Pemberitahuan selamat datang yang dikirimkan kepada pengguna yang ditambahkan ke grup Office 365 dapat dinonaktifkan dengan mengatur **UnifiedGroupWelcomeMessageEnabled** ke False di Powershell. Pelajari tentang pengaturan ini di [sini](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

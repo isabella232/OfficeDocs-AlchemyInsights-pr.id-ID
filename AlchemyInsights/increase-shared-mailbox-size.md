@@ -1,5 +1,5 @@
 ---
-title: 1815 meningkatkan ukuran kotak surat bersama
+title: 1815 Tingkatkan ukuran kotak surat bersama
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755890"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912745"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Memperbesar ukuran kotak surat bersama
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Menambah ukuran kotak surat bersama
 
-Anda dapat menambah ukuran kotak surat bersama dari ukuran default 50 GB ke 100 GB dengan menetapkan kotak surat bersama lisensi P2 Exchange Online (yang disertakan dalam lisensi E3 dan E5). Saat Anda menetapkan lisensi P2 ke kotak surat bersama di [pengguna aktif](https://portal.office.com/adminportal/home), ukurannya akan secara otomatis ditingkatkan dalam 15 menit.
+Anda dapat menambah ukuran kotak surat bersama dari ukuran default 50 GB menjadi 100 GB dengan menetapkan lisensi kotak surat bersama Exchange Online P2 (yang disertakan dalam lisensi E3 dan E5). Saat Anda menetapkan lisensi P2 untuk kotak surat bersama di [Pengguna](https://portal.office.com/adminportal/home)aktif, ukuran akan ditingkatkan secara otomatis dalam 15 menit.

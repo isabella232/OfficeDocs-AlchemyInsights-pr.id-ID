@@ -1,5 +1,5 @@
 ---
-title: Aturan nonaktif/akun dinonaktifkan
+title: Aturan Langganan/Akun dinonaktifkan
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938446"
 ---
-# <a name="azure-subscription-disabled"></a>Langganan Azure dinonaktifkan
+# <a name="azure-subscription-disabled"></a>Langganan Azure Dinonaktifkan
 
-Langganan Azure Anda bisa dinonaktifkan karena kredit Anda telah kedaluwarsa, Anda mencapai batas pembelanjaan Anda, memiliki tagihan tertunda, mencapai batas kartu kredit Anda, atau karena langganan dibatalkan oleh administrator akun. Lihat di bawah ini tentang cara mengaktifkan kembali langganan Anda. Pelajari selengkapnya: [mengaktifkan kembali langganan Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Langganan Azure Anda dapat dinonaktifkan karena kredit telah kedaluwarsa, Anda telah mencapai batas pengeluaran, memiliki tagihan jatuh tempo, mencapai batas kartu kredit, atau karena langganan telah dibatalkan oleh Administrator Akun. Lihat di bawah ini tentang cara mengaktifkan kembali langganan Anda. Pelajari selengkapnya: [Mengaktifkan kembali langganan Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Mengaktifkan kembali langganan Azure Anda (langganan secara tidak sengaja dibatalkan)** [Administrator akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) bisa mengaktifkan kembali langganan bayar-AS-You-Go yang dibatalkan di pusat akun:
+**Aktifkan kembali Langganan Azure Anda (langganan dibatalkan secara tidak sengaja)** Administrator [Akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) bisa mengaktifkan kembali langganan Pay-As-You-Go yang dibatalkan di Pusat Akun:
 
-1. Masuk ke [pusat akun](https://account.windowsazure.com/Subscriptions).
-2. Pilih langganan yang dibatalkan. Klik **aktifkan kembali** .
+1. Masuk ke [Pusat Akun.](https://account.windowsazure.com/Subscriptions)
+2. Pilih langganan yang dibatalkan. Klik **Aktifkan kembali.**
 
-Untuk tipe langganan lainnya, [Hubungi dukungan](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) untuk mengaktifkan kembali langganan Anda.
+Untuk tipe langganan lainnya, [hubungi dukungan](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) agar langganan Anda diaktifkan kembali.
 
-**Kartu kredit yang kedaluwarsa**
+**Kartu kredit kedaluwarsa**
 
-Saat Anda mendaftar untuk **akun gratis Azure** , Anda mendapatkan langganan uji coba gratis, yang memberi Anda $200 dalam kredit Azure selama 30 hari dan 12 bulan layanan gratis. Di akhir 30 hari, Azure menonaktifkan langganan Anda. Metode berlangganan dinonaktifkan untuk melindungi Anda dari biaya yang tidak disengaja untuk penggunaan melebihi kredit dan layanan gratis yang disertakan dengan langganan Anda. Untuk terus menggunakan Azure Services, Anda harus [memutakhirkan langganan Anda](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Setelah memutakhirkan, langganan Anda masih memiliki akses ke layanan gratis untuk 12 bulan. Anda hanya dikenakan biaya untuk penggunaan di luar layanan dan kuantitas gratis.  
-Pelajari selengkapnya: [kartu kredit kedaluwarsa](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
+Saat mendaftar akun gratis **Azure,** Anda akan mendapatkan langganan Uji Coba Gratis, yang memberikan Anda $200 kredit Azure untuk layanan gratis selama 30 hari dan 12 bulan. Di akhir 30 hari, Azure akan menonaktifkan langganan Anda. Langganan Anda dinonaktifkan untuk melindungi Anda dari secara tidak sengaja menimbulkan biaya untuk penggunaan di luar kredit dan layanan gratis yang disertakan dengan langganan Anda. Untuk terus menggunakan layanan Azure, Anda harus [meningkatkan langganan Anda](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). Setelah memutakhirkan, langganan Anda masih memiliki akses ke layanan gratis selama 12 bulan. Anda hanya akan dikenai biaya untuk penggunaan di luar layanan dan kuantitas gratis.  
+Pelajari selengkapnya: [Kartu kredit kedaluwarsa](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**Batas pembelanjaan tercapai**
+**Batas pengeluaran tercapai**
 
-Saat penggunaan Anda mencapai batas pembelanjaan, Azure menonaktifkan langganan Anda untuk sisa periode tagihan tersebut. Metode berlangganan dinonaktifkan untuk melindungi Anda dari biaya yang tidak disengaja untuk penggunaan melebihi kredit yang disertakan dengan langganan Anda. Untuk menghapus batas pengeluaran Anda, lihat [batas pengeluaran Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-Pelajari selengkapnya: [mencapai batas pembelanjaan Anda](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+Saat penggunaan Anda mencapai batas pengeluaran, Azure akan menonaktifkan langganan Anda untuk sisa periode tagihan tersebut. Langganan dinonaktifkan untuk melindungi Anda dari secara tidak sengaja menimbulkan biaya untuk penggunaan di luar kredit yang disertakan dengan langganan Anda. Untuk menghapus batas pengeluaran Anda, lihat [Batas pengeluaran Azure.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)  
+Pelajari selengkapnya: [Mencapai batas pengeluaran Anda](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**Tagihan tempo sebelumnya**
+**Tagihan lewat jatuh tempo**
 
-Untuk mengatasi saldo jatuh tempo sebelumnya, lihat [mengatasi masalah saldo tempo sebelumnya untuk langganan Azure Anda setelah mendapatkan email dari Azure](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
+Untuk mengatasi saldo terhinggka, [lihat Mengatasi masalah saldo jatuh tempo sebelumnya untuk langganan Azure Anda setelah menerima email dari Azure.](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Tagihan melebihi batas kartu kredit Anda**
 
-Untuk mengatasi masalah ini, [Alihkan ke kartu kredit yang berbeda](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Atau jika Anda mewakili sebuah bisnis, Anda bisa [beralih ke bayar dengan faktur](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+Untuk mengatasi masalah ini, [beralihlah ke kartu kredit lain](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). Atau jika Anda mewakili bisnis, Anda bisa [beralih untuk membayar dengan faktur](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**Catatan** : tanggal ulang tahun langganan baru (SA) akan ditetapkan ke langganan yang telah diaktifkan kembali. Jumlah hari (interval) di mana langganan ditangguhkan, akan ditambahkan ke tanggal SA asli. Tanggal ulang tahun apa pun yang jatuh pada tanggal 29, 30, atau 31 akan mengakibatkan tanggal SA diatur ke tanggal 1 bulan berikutnya.  
-Misalnya
+**Catatan:** Tanggal Hari Jadi Langganan (SA) baru akan ditetapkan ke langganan yang telah diaktifkan kembali. Jumlah hari (interval) saat langganan ditangguhkan, akan ditambahkan ke tanggal SA asli. Tanggal Hari Jadi yang jatuh pada tanggal 29, 30, atau 31st akan mengakibatkan tanggal SA diatur ke tanggal 1 bulan berikutnya.  
+Contoh:
 
-- Ulang tahun langganan asli Anda adalah tanggal 25;
-- Metode berlangganan ditangguhkan pada 10/3 dan diaktifkan kembali pada 10/9;
-- Metode berlangganan dinonaktifkan selama 6 hari (interval 6);
-- Interval kemudian ditambahkan ke SA asli, dan jumlahnya menjadi tanggal SA baru (25 + 6 = 31). 
+- Hari Jadi Langganan Anda adalah tanggal 25;
+- Langganan ditangguhkan pada 3/10 dan diaktifkan kembali pada 9/10;
+- Langganan dinonaktifkan selama 6 hari (interval 6);
+- Interval kemudian ditambahkan ke SA asli, dan jumlah menjadi tanggal SA yang baru (25+6=31). 
 
-**Catatan** : dalam contoh ini, karena tanggal sa sekarang lebih besar dari 28, tanggal sa baru akan menjadi ke-1 bulan berikutnya.
+**Catatan**: Dalam contoh ini, karena tanggal SA kini lebih besar dari 28, tanggal SA yang baru akan menjadi tanggal ke-1 bulan berikutnya.
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
 - [Beralih langganan](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Membatalkan langganan](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [Marketplace Azure](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- Menemukan [admin akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [Apa yang harus saya lakukan jika langganan Azure saya dinonaktifkan?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Batalkan langganan](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
+- [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
+- Menemukan [Admin Akun](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [Apa yang harus saya lakukan jika langganan Azure dinonaktifkan?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Batas pengeluaran Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -1,5 +1,5 @@
 ---
-title: Tipe entitas tidak muncul dalam hasil pencarian terkategori atau relevansi dalam antarmuka terpadu Dynamics 365
+title: Tipe entitas tidak ditampilkan dalam hasil pencarian yang dikategorikan atau relevansi dalam Antarmuka Terpadu Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946721"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Tipe entitas tidak muncul di hasil pencarian
+# <a name="entity-type-not-showing-in-search-results"></a>Tipe entitas tidak ditampilkan di hasil pencarian
 
-Untuk tipe entitas untuk diperlihatkan dalam pencarian terkategori atau pencarian relevansi dalam antarmuka terpadu Dynamics 365, itu harus terlebih dahulu ditambahkan ke modul aplikasi.
+Agar tipe entitas ditampilkan dalam pencarian yang dikategorikan atau pencarian relevansi di Antarmuka Terpadu Dynamics 365, aplikasi harus ditambahkan terlebih dahulu ke modul aplikasi.
 
-Catatan: saat mencari lampiran dalam pencarian relevansi, entitas lampiran harus ditambahkan ke modul aplikasi meskipun catatan induk adalah apa yang diperlihatkan dalam hasil.
+Catatan: Saat mencari lampiran dalam pencarian relevansi, entitas lampiran harus ditambahkan ke modul aplikasi meskipun rekaman induk adalah rekaman yang diperlihatkan dalam hasil.
