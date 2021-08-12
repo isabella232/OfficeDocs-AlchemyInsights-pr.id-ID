@@ -1,5 +1,5 @@
 ---
-title: Melompati pengalihan email ke alamat baru
+title: Lewati pengalihan email ke alamat baru
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966688"
 ---
-# <a name="skip-redirecting-email-to-new-address"></a>Melompati pengalihan email ke alamat baru
+# <a name="skip-redirecting-email-to-new-address"></a>Lewati pengalihan email ke alamat baru
 
-Lewati langkah mengalihkan email ke alamat baru jika Anda memiliki catatan DNS kustom. Anda dapat menambahkan catatan yang diperlukan nanti. Beberapa layanan Office 365 mungkin tidak tersedia hingga Anda menambahkan catatan secara manual dengan pendaftar Anda.
+Lewati langkah pengalihan email ke alamat baru jika Anda memiliki catatan DNS kustom. Anda kemudian dapat menambahkan catatan yang diperlukan. Beberapa Office 365 layanan mungkin tidak tersedia hingga Anda menambahkan catatan secara manual ke pendaftar.
 
-Untuk melewati pengalihan email ke alamat baru, pilih **lewati langkah ini > verifikasi**.
+Untuk melewati pengalihan email ke alamat baru, pilih **Lewati langkah ini > Verifikasi.**

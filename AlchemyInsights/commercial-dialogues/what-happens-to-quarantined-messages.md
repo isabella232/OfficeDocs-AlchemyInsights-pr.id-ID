@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746976"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966580"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Apa yang terjadi pada pesan yang dikarantina?
 
-Jika Anda memilih untuk tidak melakukan apa pun, pesan akan dihapus oleh Office 365 secara otomatis setelah kedaluwarsa. Perhatikan hal berikut:
+Jika Anda memilih untuk tidak melakukan apa-apa, pesan akan dihapus secara Office 365 otomatis setelah kedaluwarsa. Perhatikan hal berikut:
 
-1. Secara default, pesan spam, massal, malware, dan phishing disimpan dalam karantina untuk 15 hari.
-2. Pesan yang dikarantina yang cocok dengan aturan alur email disimpan dalam karantina selama 7 hari (Anda tidak bisa mengustominya).
+1. Secara default, pesan spam, massal, malware, dan pengelabuan (phishing) disimpan di karantina selama 15 hari.
+2. Pesan yang dikarantina yang sesuai dengan aturan aliran email disimpan di karantina selama 7 hari (Anda tidak bisa mengkustomisasi ini).
 3. Saat Office 365 menghapus pesan dari karantina, Anda tidak bisa mendapatkannya kembali.
-4. Jika mau, Anda bisa mengubah periode penyimpanan untuk pesan yang dikarantina dengan menggunakan pengaturan Pertahankan spam untuk (hari) di kebijakan filter konten Anda.
+4. Jika mau, Anda bisa mengubah periode penyimpanan untuk pesan yang dikarantina dengan menggunakan pengaturan Pertahankan spam selama (hari) di kebijakan filter konten Anda.

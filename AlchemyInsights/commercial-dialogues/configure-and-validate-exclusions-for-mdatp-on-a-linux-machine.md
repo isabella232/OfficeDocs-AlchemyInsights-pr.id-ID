@@ -1,5 +1,5 @@
 ---
-title: Mengonfigurasi dan memvalidasi pengecualian untuk MDATP pada mesin Linux
+title: Mengonfigurasi dan memvalidasi pengecualian untuk MDATP di komputer Linux
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916418"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Mengonfigurasi dan memvalidasi pengecualian untuk MDATP pada mesin Linux
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Mengonfigurasi dan memvalidasi pengecualian untuk MDATP di komputer Linux
 
-Anda bisa mengecualikan file, folder, proses, dan file tertentu yang dibuka dari pemindaian MDATP. Pengecualian membantu mencegah deteksi perangkat lunak dan file yang salah atau dikustomisasi ke organisasi Anda. Pengecualian juga membantu mengurangi masalah kinerja yang disebabkan oleh MDATP.
+Anda dapat mengecualikan file, folder, proses, dan file tertentu yang dibuka dari pemindaian MDATP. Pengecualian membantu mencegah kesalahan deteksi perangkat lunak dan file yang unik atau dikustomisasi untuk organisasi Anda. Pengecualian juga membantu mengurangi masalah kinerja yang disebabkan oleh MDATP.
 
-Untuk mempelajari selengkapnya, lihat [mengonfigurasi dan memvalidasi pengecualian untuk MDATP untuk Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
+Untuk mempelajari selengkapnya, [lihat Mengonfigurasi dan memvalidasi pengecualian untuk MDATP untuk Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
 > [!IMPORTANT]
-> Pengecualian yang diuraikan dalam artikel ini tidak berlaku untuk kapabilitas lain dari MDATP untuk Linux, termasuk deteksi titik akhir dan respons (EDR). File yang Anda kecualikan dengan menggunakan metode yang diuraikan dalam artikel ini masih dapat memicu peringatan EDR dan kapabilitas deteksi lainnya.
+> Pengecualian yang dijelaskan dalam artikel ini tidak berlaku untuk kapabilitas MDATP untuk Linux lainnya, termasuk deteksi dan respons titik akhir (EDR). File yang Dikecualikan dengan menggunakan metode yang dijelaskan dalam artikel ini masih dapat memicu EDR teks dan kapabilitas deteksi lainnya.

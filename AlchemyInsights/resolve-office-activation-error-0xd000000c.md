@@ -14,18 +14,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 15286a34e6118ca5f379b52b2db26e4d6a4d3925
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c10caf49bb2937ff80f403bd7ff3d57a47205dc11d8e295b2a34ddacf0eacfad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959245"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Mengatasi kesalahan aktivasi Office 0xD000000C
 
 - Pastikan Internet Anda berfungsi pada Mac tempat Anda akan menginstal. Anda dapat melakukan ini dengan membuka browser Internet dan masuk ke [Microsoft](https://www.microsoft.com). Jika halaman dimuat, koneksi internet Anda sedang bekerja.
 
-- Keluar dari semua aplikasi Microsoft 365.
+- Keluar dari Microsoft 365 aplikasi Anda.
 
 - Unduh dan jalankan [alat penghapusan lisensi ](https://go.microsoft.com/fwlink/?linkid=849815)untuk menghapus semua entri kunci Office.
 

@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745411"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916346"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Mengonfigurasi dan memvalidasi pengecualian untuk MDATP di Mac
 
-Anda bisa mengecualikan file, folder, proses, dan file tertentu yang dibuka dari pemindaian MDATP pada Mac. Pengecualian membantu mencegah deteksi perangkat lunak dan file yang salah atau dikustomisasi ke organisasi Anda. Pengecualian juga membantu mengurangi masalah kinerja yang disebabkan oleh MDATP.
+Anda dapat mengecualikan file, folder, proses, dan file tertentu yang dibuka dari pemindaian MDATP di Mac. Pengecualian membantu mencegah kesalahan deteksi perangkat lunak dan file yang unik atau dikustomisasi untuk organisasi Anda. Pengecualian juga membantu mengurangi masalah kinerja yang disebabkan oleh MDATP.
 
-Untuk mempelajari selengkapnya, lihat [mengonfigurasi dan memvalidasi pengecualian untuk MDATP pada Mac](https://go.microsoft.com/fwlink/?linkid=2144616).
+Untuk mempelajari selengkapnya, [lihat Mengonfigurasi dan memvalidasi pengecualian untuk MDATP di Mac](https://go.microsoft.com/fwlink/?linkid=2144616).
