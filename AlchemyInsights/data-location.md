@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914618"
 ---
 # <a name="data-location"></a>Lokasi data
 
-Anda bisa menampilkan lokasi penyewa Anda di pusat admin dengan menavigasi ke [halaman **profil organisasi** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) dan memilih **Lokasi data**.
+Anda bisa menampilkan lokasi penyewa Anda di pusat admin dengan menavigasi ke halaman [ **Profil** organisasi dan](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) memilih Lokasi **Data.**
 
-Untuk aplikasi yang tidak Anda Subscribe, lihat [tempat data pelanggan Microsoft 365 disimpan](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+Untuk aplikasi di mana Anda tidak berlangganan, lihat [Tempat penyimpanan Microsoft 365 data pelanggan Anda.](https://docs.microsoft.com/office365/enterprise/o365-data-locations)

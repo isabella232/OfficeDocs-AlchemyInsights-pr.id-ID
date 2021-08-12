@@ -1,5 +1,5 @@
 ---
-title: Cara menambahkan dan mengelola langkah-langkah yang direkomendasikan administrator
+title: Cara menambahkan dan mengelola administrator - langkah-langkah yang direkomendasikan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,53 +13,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963790"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cara menambahkan dan mengelola langkah-langkah yang direkomendasikan administrator
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cara menambahkan dan mengelola administrator - langkah-langkah yang direkomendasikan
 
-Berdasarkan Deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan dapat mengatasi masalah mereka sendiri setelah mengikuti dokumentasi kami.
+Berdasarkan deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Sebagian besar pelanggan bisa mengatasi sendiri masalah mereka setelah mengikuti dokumentasi kami.
 
-**Mengedit administrator langganan atau administrator bersama**
+**Mengedit Administrator Langganan atau Rekan Administrator**
 
-- Administrator akun bisa mengedit kedua peran sedangkan administrator langganan hanya dapat mengubah administrator bersama di [portal Azure](https://ms.portal.azure.com/#home).
+- Administrator Akun dapat mengedit kedua peran itu sementara Administrator Langganan hanya bisa mengubah Rekan administrator di [portal Azure.](https://ms.portal.azure.com/#home)
 - [Menambahkan atau mengubah administrator langganan Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Memperbarui administrator langganan atau Co-Administrator untuk langganan internal (MENGUDARA)**
+**Memperbarui Langganan Administrator atau Co-Administrator Langganan Internal (AIRS)**
 
-Administrator layanan atau administrator bersama bisa melakukan sendiri tindakan ini dengan menggunakan langkah-langkah berikut:
+Administrator Layanan atau Rekan administrator dapat melayani sendiri tindakan ini dengan menggunakan langkah-langkah berikut:
 
-1. Masuk ke [portal Azure](https://ms.portal.azure.com/#home) dan klik **biaya manajemen + tagihan** di bilah kiri.
-2. Klik item baris dengan langganan Anda. Ini akan membuka gambaran umum langganan Anda.
-3. Pada bilah **langganan** , klik **properti**. 
-4. Klik tombol **admin Layanan** .
-5. Masukkan email pengguna yang ingin Anda setel sebagai administrator layanan dan klik **OK**.
+1. Masuk ke [portal Azure dan](https://ms.portal.azure.com/#home) klik **Manajemen Biaya + Tagihan** di blade kiri.
+2. Klik item baris dengan langganan Anda. Langkah ini akan membuka Gambaran Umum untuk langganan Anda.
+3. Pada **blade Langganan,** klik **Properti.** 
+4. Klik **tombol Admin** Layanan.
+5. Masukkan email pengguna yang ingin Anda atur sebagai Administrator Layanan dan klik **OK.**
 
-**Tambahkan/Ubah/Hapus administrator bersama**
+**Menambahkan/Mengubah/Menghapus Rekan Administrator**
 
-1. Masuk ke [Azure portal](https://ms.portal.azure.com/#home) sebagai administrator layanan.
-2. Buka [langganan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) dan pilih langganan. (Rekan kerja tunggal hanya dapat ditetapkan di lingkup langganan.)
-3. Navigasikan ke administrator klasik **Access Control (iam)**  >    >  **Tambahkan**  >  **Add Co-administrator** untuk membuka panel **Tambahkan bersama admin** (jika opsi Tambahkan bersama administrator dinonaktifkan, maka Anda tidak memiliki izin).
-4. Pilih pengguna yang ingin Anda tambahkan dan klik **Tambahkan**.
+1. Masuk ke [portal Azure](https://ms.portal.azure.com/#home) sebagai Administrator Layanan.
+2. Buka [Langganan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) dan pilih langganan. (Rekan admin hanya dapat ditetapkan pada lingkup langganan.)
+3. Navigasi ke Kontrol **akses (IAM)** Administrator klasik Tambahkan administrator bersama untuk membuka panel Tambahkan  >    >    >   **rekan admin** (Jika opsi Tambahkan administrator bersama dinonaktifkan, hal itu akan menunjukkan bahwa Anda tidak memiliki izin).
+4. Pilih pengguna yang ingin Anda tambahkan dan klik **Tambahkan.**
 
 **Pelajari lebih lanjut:**
-- [Menambahkan administrator bersama](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Menghapus administrator bersama](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Mengubah administrator Layanan](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Menampilkan administrator akun](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Mengelola Access menggunakan portal RBAC dan Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Menambahkan Rekan Administrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Menghapus rekan administrator](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Mengubah Administrator Layanan](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Menampilkan Administrator Akun](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Mengelola akses menggunakan portal RBAC dan Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
 **Menambahkan/menghapus pengguna menggunakan Azure Active Directory (AD)**
 
-Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada dari organisasi Azure Active Directory (Azure AD):
+Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada Azure Active Directory organisasi (Azure AD):
 
-1. Untuk menambahkan pengguna baru, masuk ke [Azure portal](https://ms.portal.azure.com/#home) sebagai administrator pengguna untuk organisasi.
-2. Pilih **direktori aktif Azure**, pilih **pengguna** , lalu klik **pengguna baru**.
-3. Pada halaman **pengguna** , isi informasi yang diperlukan. Klik **buat**. Pengguna dibuat dan ditambahkan ke penyewa Azure AD Anda.
+1. Untuk menambahkan pengguna baru, masuk ke [portal Azure](https://ms.portal.azure.com/#home) sebagai Administrator pengguna untuk organisasi.
+2. Pilih **Azure Active Directory**, pilih **Pengguna** lalu klik **Pengguna baru.**
+3. Di **halaman** Pengguna, isi informasi yang diperlukan. Klik **Buat.** Pengguna dibuat dan ditambahkan ke penyewa Azure AD Anda.
 
 **Pelajari selengkapnya**:
 
@@ -67,17 +67,17 @@ Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada dari
 - [Menghapus pengguna](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Menambahkan atau memperbarui informasi profil pengguna menggunakan Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang disarankan**
 
 - [Apa itu kontrol akses berbasis peran (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Memahami peran berbeda di Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Memahami peran yang berbeda di Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
 - [Izin peran administrator di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Tutorial: memberi akses untuk pengguna menggunakan RBAC dan portal Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Tutorial: Berikan akses untuk pengguna menggunakan RBAC dan portal Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Memecahkan masalah RBAC di Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Menata sumber daya Anda dengan grup manajemen Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Mengelola sumber daya dengan grup manajemen Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
 - [Cara meminta salinan faktur Azure melalui email](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
 - [Cara menambahkan, memperbarui, atau menghapus kartu kredit atau debit dari Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Langganan Kelola (aktivasi ulang/Batalkan/pengalihan)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Mengelola (Mengaktifkan ulang/Membatalkan/Mengalihkan) langganan](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 

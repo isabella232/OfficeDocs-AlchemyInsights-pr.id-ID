@@ -1,5 +1,5 @@
 ---
-title: CTRL + H memperlihatkan temukan, bukan ganti di Excel 2016
+title: CTRL+H memperlihatkan Temukan, bukan Ganti di Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914726"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H memperlihatkan temukan, bukan ganti di Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H memperlihatkan Temukan, bukan Ganti di Excel
 
-Di Excel 2016, menekan CTRL + H membuka dialog Temukan dan ganti dan memperlihatkan tab temukan, daripada tab ganti. mengklik ganti pada tab Beranda melakukan hal yang sama. Masalah ini telah diperbaiki dalam versi 1708 (8431,2094). Untuk memperbaiki hal ini, perbarui ke versi terbaru Office. Pilih Perbarui pembaruan akun **file** \> **Account** \> **Update Options** \> **sekarang**.
+Di Excel 2016, menekan CTRL+H akan membuka dialog Temukan dan Ganti dan memperlihatkan tab Temukan, bukan tab Ganti. Mengklik Ganti pada tab Beranda akan melakukan hal yang sama. Masalah ini telah diperbaiki dalam versi 1708 (8431.2094). Untuk memperbaiki ini, perbarui ke versi terbaru Office. Pilih **Opsi** \> **Pembaruan** \> **Akun File** \> **Sekarang.**
   
