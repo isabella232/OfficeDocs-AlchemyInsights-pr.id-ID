@@ -1,5 +1,5 @@
 ---
-title: Masuk ke pencatat domain Anda
+title: Masuk ke pendaftar domain Anda
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9a9c2cb422ca73d5d56183bf0176a16fb15c523
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ef354cb6f7251081793d46b430789f55029020039bb3748cb8ece3b951e787a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745192"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929992"
 ---
-# <a name="sign-in-to-your-domain-registrar"></a>Masuk ke pencatat domain Anda
+# <a name="sign-in-to-your-domain-registrar"></a>Masuk ke pendaftar domain Anda
 
-Anda perlu masuk ke pendaftar domain Anda dari jendela browser kedua Anda.
+Anda perlu masuk ke pendaftar domain dari jendela browser kedua.
 
-Jika Anda tidak mengetahui informasi masuk Anda, hubungi dukungan teknis pencatat Anda untuk bantuan.
+Jika tidak mengetahui informasi masuk, hubungi dukungan teknis pendaftar untuk mendapatkan bantuan.

@@ -1,5 +1,5 @@
 ---
-title: Menghentikan pesan agar tidak berpindah ke arsip secara otomatis
+title: Menghentikan pemindahan pesan ke arsip secara otomatis
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 2cb3e29dfd4f422e946b7887d4d44f373ff03794
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929956"
 ---
-# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Menghentikan pesan agar tidak berpindah ke arsip secara otomatis
+# <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Menghentikan pemindahan pesan ke arsip secara otomatis
 
-Jika Anda menggunakan kebijakan penyimpanan, Anda bisa mengubah usia penyimpanan dalam kebijakan tersebut untuk menghentikan pengarsipan pesan secara otomatis. Berikut caranya:
+Jika Anda menggunakan kebijakan penyimpanan, Anda bisa mengubah usia penyimpanan dalam kebijakan itu untuk menghentikan pengarsipan pesan secara otomatis. Berikut caranya:
 
-1. Di [Pusat admin Exchange](https://go.microsoft.com/fwlink/?linkid=2059104), pilih   >  **tag penyimpanan** manajemen kepatuhan. Temukan tag penyimpanan Pindahkan ke arsip Anda.
-2. Dalam tag penyimpanan, Ubah periode penyimpanan (periode arsip) agar **tidak pernah** menghentikan item yang Diarsipkan secara otomatis oleh kebijakan penyimpanan.
+1. Di pusat [Exchange ,](https://go.microsoft.com/fwlink/?linkid=2059104)pilih **tag penyimpanan manajemen**  >  **kepatuhan**. Temukan tag Pindahkan ke Penyimpanan arsip.
+2. Di tag penyimpanan, ubah periode penyimpanan (periode arsip) menjadi **Tidak** pernah untuk menghentikan item diarsipkan secara otomatis oleh kebijakan penyimpanan.
 
 > [!NOTE]
-> Ini akan mengubah pengaturan Arsip untuk semua kotak surat dengan tag penyimpanan ini diterapkan.
+> Ini akan mengubah pengaturan arsip untuk semua kotak surat dengan tag penyimpanan ini yang diterapkan.

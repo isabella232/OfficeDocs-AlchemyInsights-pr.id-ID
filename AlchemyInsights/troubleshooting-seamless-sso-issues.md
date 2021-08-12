@@ -1,5 +1,5 @@
 ---
-title: Pemecahan masalah SSO yang mulus
+title: Pemecahan masalah SSO yang Mulus
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920866"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Memecahkan masalah Sign-On tunggal tanpa hambatan
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Pemecahan masalah Seamless Sign-On tunggal
 
-1. Tanyakan atau Cari jawaban untuk pertanyaan yang Anda miliki di [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
-1. Untuk masalah umum dengan akses menyeluruh (SSO, Single sign-on), Tinjau panduan berikut untuk memecahkan masalah Anda:
-    - [Memecahkan masalah saat menambahkan aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [Memecahkan masalah masuk tunggal berbasis kata sandi di Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
-    - [Memecahkan masalah masuk tunggal berbasis SAML di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
-    - [Debug tunggal berbasis SAML ke aplikasi di direktori aktif Azure](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
-    - Video: [praktik terbaik masuk tunggal untuk Azure Active Directory dan akun Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
+1. Tanyakan atau cari jawaban atas pertanyaan yang Anda miliki di [Tanya Jawab Microsoft&A.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
+1. Untuk masalah umum dengan Masuk Tunggal Tanpa Hambatan (SSO), tinjau panduan berikut ini untuk memecahkan masalah Anda:
+    - [Memecahkan masalah penambahan aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
+    - [Memecahkan masalah akses masuk tunggal berbasis kata sandi di Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
+    - [Memecahkan masalah akses masuk tunggal berbasis SAML Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Debug akses masuk tunggal berbasis SAML ke aplikasi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
+    - Video: [Praktik terbaik masuk tunggal untuk akun Azure Active Directory dan Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
     - [Menemukan laporan aktivitas di portal Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
