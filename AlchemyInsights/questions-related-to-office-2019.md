@@ -1,5 +1,5 @@
 ---
-title: Pertanyaan yang terkait dengan Office 2019
+title: Pertanyaan terkait dengan Office 2019
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911089"
 ---
 # <a name="about-office-2019"></a>Tentang Office 2019
 
-Office 2019 adalah untuk pelanggan yang belum siap untuk Cloud namun atau memiliki kebutuhan khusus untuk penggunaan Office lokal atau hibrid. Ini menyertakan subset fitur yang bermakna yang telah ditambahkan ke Microsoft 365 selama tiga tahun terakhir, tetapi bukan bagian dari Microsoft 365.
+Office 2019 adalah untuk pelanggan yang belum siap untuk awan atau memiliki kebutuhan tertentu untuk penggunaan Office lokal atau hibrid. Fitur ini mencakup subset fitur bermakna yang telah ditambahkan Microsoft 365 selama tiga tahun terakhir, tetapi bukan merupakan bagian dari Microsoft 365.
   
-Aplikasi Microsoft 365 untuk perusahaan, versi Office yang tersambung dengan Cloud, memberikan pengalaman Office yang paling produktif dan aman. Menyediakan akses ke rangkaian Layanan melebihi versi lokal yang dimiliki dan menerima pembaruan fitur baru secara berkelanjutan.
+Aplikasi Microsoft 365 untuk perusahaan, versi Office yang tersambung ke cloud, memberikan pengalaman terbaik saat Office aman. Layanan ini menyediakan akses ke beberapa layanan yang tidak melebihi jumlah versi lokal dan menerima pembaruan fitur baru secara terus-menerus.
   
-Jadi, jika Anda memiliki aplikasi desktop Office sebagai bagian dari langganan Microsoft 365 Anda sudah memiliki versi terbaru Office.
+Jadi, jika memiliki aplikasi desktop Office Anda sebagai bagian dari Microsoft 365 langganan yang sudah Anda miliki, Office.
   
 Untuk informasi selengkapnya, lihat:
   
-[Tanya Jawab Umum Office 2019 Commercial untuk Windows dan Mac](https://support.microsoft.com/help/4133312)
+[Office 2019 Komersial untuk Windows dan Mac](https://support.microsoft.com/help/4133312)
   
-[Nomor versi utama Office 2019 tinggal di 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Nomor versi utama dari versi Office 2019 akan tetap berada pada 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Penunjukan tahun di Office 2016 dan aplikasi klien Microsoft 365 akan dihapus dari entri menu mulai](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Mendesain tahun di Office 2016 dan Microsoft 365 klien anda akan dihapus menu Mulai entri](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

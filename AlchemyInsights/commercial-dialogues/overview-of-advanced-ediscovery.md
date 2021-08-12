@@ -1,5 +1,5 @@
 ---
-title: Gambaran umum eDiscovery tingkat lanjut
+title: Gambaran umum Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916166"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Gambaran umum eDiscovery tingkat lanjut
+# <a name="overview-of-advanced-ediscovery"></a>Gambaran umum Advanced eDiscovery
 
-Advanced eDiscovery memungkinkan Anda untuk menganalisis data yang tidak terstruktur guna membantu menurunkan biaya eDiscovery. Anda dapat menerapkan analisis teks, pembelajaran mesin, dan pengodean relevansi/prediktif. Berikut adalah beberapa tips:
+Advanced eDiscovery memungkinkan Anda untuk menganalisis data yang tidak terstruktur guna membantu menurunkan biaya eDiscovery. Anda dapat menerapkan analisis teks, pembelajaran mesin, dan pengodean relevansi/prediktif. Berikut beberapa tips untuk Anda:
 
-- Fitur eDiscovery tingkat lanjut memerlukan langganan E5 untuk organisasi atau langganan Office 365 E3 dengan add-on kepatuhan tingkat lanjut.
-- Untuk membuat kasus eDiscovery tingkat lanjut yang baru, masuk ke [pusat kepatuhan & keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143) **dan pilih eDiscovery**  >  **tingkat lanjut** eDiscovery.
-- Untuk informasi selengkapnya, lihat [gambaran umum tentang EDiscovery tingkat lanjut Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Untuk informasi tentang langkah yang diperlukan untuk menyiapkan eDiscovery tingkat lanjut, lihat [menyiapkan Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Fitur Advanced eDiscovery ini memerlukan langganan E5 untuk organisasi atau langganan Office 365 E3 dengan add-on Kepatuhan Tingkat Lanjut.
+- Untuk membuat kasus Advanced eDiscovery baru, masuk ke [Pusat Kepatuhan & dan](https://go.microsoft.com/fwlink/p/?linkid=2077143) pilih fitur **eDiscovery**  >  **Advanced eDiscovery**.
+- Untuk informasi selengkapnya, lihat [Gambaran umum Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).
+- Untuk informasi tentang langkah-langkah yang diperlukan untuk Advanced eDiscovery, [lihat Menyiapkan Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).

@@ -13,19 +13,19 @@ ms.custom:
 - "1891"
 - "1600011"
 - "9000287"
-ms.openlocfilehash: 8ed373939f82f7f96fd51587210dcc26f28e75f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fab6c1e12e750ab8fab046bf3d575a4bfc0d191495e4c8c2c48698dd98106aa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942251"
 ---
 # <a name="service-incident-in-progress"></a>Insiden Layanan sedang berlangsung
 
-Anda mungkin terpengaruh oleh insiden layanan atau penasihat yang saat ini sedang diselidiki. Anda dapat memeriksa status terbaru dengan masuk ke halaman [Kesehatan Layanan](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Anda mungkin dipengaruhi oleh laporan atau insiden layanan yang sedang diselidiki saat ini. Anda dapat memeriksa status terbaru dengan masuk ke [halaman Kesehatan](https://admin.microsoft.com/adminportal/home#/servicehealth) Layanan.
   
 Demi kenyamanan Anda, Anda dapat menemukan ringkasan insiden ini di bawah ini:
   
-> **Nomor insiden:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Nomor insiden:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Deskripsi dampak: {ImpactDescription}

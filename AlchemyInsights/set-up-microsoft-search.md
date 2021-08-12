@@ -1,5 +1,5 @@
 ---
-title: Menyiapkan Microsoft Search
+title: Siapkan Microsoft Search
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958156"
 ---
-# <a name="set-up-microsoft-search"></a>Menyiapkan Microsoft Search
+# <a name="set-up-microsoft-search"></a>Siapkan Microsoft Search
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+Microsoft Search menyediakan antarmuka yang ramah pengguna untuk mencari dan menemukan hasil di organisasi Anda di seluruh layanan dan aplikasi Microsoft 365 untuk membantu menyelesaikan apa yang sedang Anda kerjakan. Langganan ini disertakan tanpa biaya tambahan dengan langganan Anda yang Microsoft 365 memenuhi syarat.
 
-Gunakan panduan [penyiapan Microsoft Search](https://go.microsoft.com/fwlink/?linkid=2156919) untuk mengonfigurasi apakah Anda ingin mencobanya kepada sekelompok pengguna atau meluncurkannya kepada semua orang dalam organisasi. Anda akan menetapkan admin Pencarian dan editor Pencarian lalu mengkustomisasi pengalaman pencarian untuk pengguna Anda dengan jawaban dan opsi tambahan, seperti menambahkan ekstensi Bing ke Chrome atau mengatur Bing sebagai mesin pencarian default.
+Gunakan panduan [Microsoft Search setup untuk](https://go.microsoft.com/fwlink/?linkid=2156919) mengonfigurasi apakah Anda ingin mencobanya ke sekelompok pengguna atau gulir untuk setiap orang dalam organisasi Anda. Anda akan menetapkan admin Pencarian dan Editor pencarian lalu mengkustomisasi pengalaman pencarian untuk pengguna Anda dengan jawaban dan opsi tambahan, seperti menambahkan ekstensi Bing ke Chrome atau mengatur Bing sebagai mesin pencarian default.
