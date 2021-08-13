@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah pendaftaran perangkat Windows di Microsoft Intune
+title: Memecahkan masalah pendaftaran Windows perangkat di Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981044"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Memecahkan masalah pendaftaran perangkat Windows di Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Memecahkan masalah pendaftaran Windows perangkat di Microsoft Intune
 
 Tinjau sumber daya yang tercantum di bawah ini untuk mengatasi masalah Anda sekarang.
   
@@ -35,12 +35,12 @@ Beberapa pesan kesalahan umum dan langkah penyelesaian:
 
 -  Perangkat tersebut sudah didaftarkan oleh pengguna lain. Jika demikian, hapus perangkat dari konsol Azure Intune atau hapus pendaftaran perangkat secara manual sebelum mencoba lagi.
 
--  Perangkatnya adalah Windows 10 Home. Hanya SKU Windows 10 Pro, Pendidikan, dan Perusahaan yang dapat bergabung dengan Azure Active Directory.
+-  Perangkat tidak Windows 10 Home. Hanya Windows 10 Pro SKU Pendidikan, Pendidikan, dan Perusahaan yang dapat bergabung Azure Active Directory.
 
 Sumber daya tambahan untuk membantu mengatasi masalah Anda:
   
 -  Gunakan [Portal Pemecahan Masalah Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) untuk mendiagnosis dan mengatasi kegagalan pendaftaran umum. Tinjau [dokumen ini](https://docs.microsoft.com/intune/help-desk-operators) untuk detail selengkapnya.
 
--  Tinjau dokumen ini untuk melihat daftar kesalahan umum yang mencegah pendaftaran dan resolusi untuk masing-masing dokumen: [Panduan pemecahan masalah](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) dan Dokumen pemecahan [masalah.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+-  Tinjau dokumen ini untuk daftar kesalahan umum yang mencegah pendaftaran dan resolusi untuk masing-masing: [Panduan pemecahan masalah](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) dan [Dokumen pemecahan masalah](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Pelajari cara mendaftarkan perangkat Windows di Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Pelajari cara mendaftarkan Windows Anda di Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

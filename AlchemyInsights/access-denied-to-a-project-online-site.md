@@ -1,5 +1,5 @@
 ---
-title: Akses ditolak untuk situs Project Web App
+title: Access denied to a Project Web App site
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955348"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Memberikan izin kepada pengguna di Project online
+# <a name="give-users-permissions-in-project-online"></a>Memberi izin kepada pengguna di Project Online
 
-Memberikan akses kepada pengguna ke situs Project Web App menggunakan mode izin SharePoint:
+Memberi pengguna akses ke situs Project Web App menggunakan SharePoint Mode Izin:
 
-1. Masuk ke Project online sebagai admin.
-2. Pada halaman Beranda Project Web App, pilih **bagikan** di sudut kanan atas.
-3. Dalam kotak dialog **bagikan Project Web App** , ketikkan nama pengguna orang yang ingin Anda beri akses ke dalam kotak **undang orang** .
-4. Pilih **Perlihatkan opsi**, dan di menu **pilih tingkat izin** , pilih **manajer proyek untuk Project Web App**.
-5. Pilih **bagikan**.
+1. Masuk ke Project Online sebagai admin.
+2. Di Project Web App utama, pilih **Bagikan** di sudut kanan atas.
+3. Di **kotak dialog Project Web App** Lokasi, ketikkan nama pengguna dari orang yang ingin Anda beri akses ke dalam **kotak Undang** Orang.
+4. Pilih **Perlihatkan** Opsi , dan di menu **Pilih tingkat izin,** pilih Project Manajer untuk **Project Web App**.
+5. Pilih **Bagikan.**
 
-Jika Anda menggunakan mode izin proyek, atau untuk informasi selengkapnya, lihat [menambahkan orang ke Project online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Jika Anda menggunakan mode Project Izin, atau untuk informasi selengkapnya, silakan lihat [Menambahkan orang Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
