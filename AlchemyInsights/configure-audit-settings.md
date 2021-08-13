@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 464c0e8a37b5f572db319ee6f304bb2c6858f748ce8e6d58d155e458ce8517a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915482"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>Mengonfigurasi pengaturan audit SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>Mengonfigurasi SharePoint audit situs
 
-Admin kumpulan situs SharePoint dapat melacak tindakan pengguna pada konten dengan mengonfigurasi pengaturan audit.
+SharePoint kumpulan situs dapat melacak tindakan pengguna pada konten dengan mengonfigurasi pengaturan audit.
   
-1. Buka situs SharePoint.
+1. Buka SharePoint situs.
     
-2. Klik ikon pengaturan, lalu klik **pengaturan situs**. Jika Anda tidak melihat "pengaturan situs," klik **informasi situs**, lalu klik **Tampilkan semua pengaturan situs**.
+2. Klik Pengaturan Situs, lalu klik **Pengaturan situs.** Jika Anda tidak melihat "Pengaturan situs," klik **Informasi situs,** lalu klik **Tampilkan semua pengaturan situs.**
     
-3. Di bawah **administrasi kumpulan situs**, pilih **pengaturan audit kumpulan situs**. (Jika Anda tidak melihatnya, klik **masuk ke pengaturan situs tingkat teratas** terlebih dahulu.) 
+3. Di **bawah Administrasi Kumpulan Situs,** pilih Pengaturan audit kumpulan **situs**. (Jika Anda tidak melihatnya, klik Masuk **ke pengaturan situs tingkat atas terlebih** dahulu.) 
     
-Untuk informasi tentang apa yang disertakan dalam laporan log audit SharePoint dan cara menampilkannya, lihat [mengonfigurasi pengaturan audit untuk kumpulan situs](https://go.microsoft.com/fwlink/?linkid=404050).
+Untuk informasi tentang apa yang disertakan dalam SharePoint log audit dan cara menampilkannya, lihat [Mengonfigurasi pengaturan audit untuk kumpulan situs.](https://go.microsoft.com/fwlink/?linkid=404050)
   
 

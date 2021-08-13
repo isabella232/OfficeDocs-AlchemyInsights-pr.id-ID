@@ -1,5 +1,5 @@
 ---
-title: Mengonfigurasi supervisi
+title: Konfigurasi Pengawasan
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0cbf3d1382bd4757a7a4d8e923138009f69f80f29f9f19905c88ea37ac1f0cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915446"
 ---
-# <a name="configure-supervision-policies"></a>Mengonfigurasi kebijakan supervisi
+# <a name="configure-supervision-policies"></a>Mengonfigurasi Kebijakan Pengawasan
 
-Kebijakan supervisi di Microsoft 365 memungkinkan Anda untuk memantau email Exchange, Skype for Business online, Microsoft teams, dan komunikasi pihak ketiga yang dikirim di dalam dan di luar organisasi Anda. Peninjau yang ditunjuk dapat memeriksa pesan yang dipantau untuk memastikan bahwa mereka mematuhi kebijakan, manajemen risiko, dan standar kepatuhan Peraturan organisasi Anda dan mengatasinya dengan tipe klasifikasi.
+Kebijakan pengawasan di Microsoft 365 memungkinkan Anda memantau email Exchange, Skype for Business Online, Microsoft Teams, dan komunikasi pihak ke-3 yang dikirim di dalam dan di luar organisasi Anda. Peninjau yang ditunjuk dapat memeriksa pesan yang dipantau untuk memastikan pesan patuh terhadap kebijakan, manajemen risiko, dan standar kepatuhan peraturan organisasi Anda dan mengatasinya dengan tipe klasifikasi.
 
-Untuk menggunakan kebijakan supervisi di organisasi Anda, Anda perlu:
+Untuk menggunakan kebijakan Pengawasan di organisasi Anda, Anda perlu:
 
-- Menentukan komunikasi untuk dipantau.
-- Putuskan siapa yang akan melakukan peninjauan komunikasi.
-- Kebijakan pengaturan supervisi
+- Menentukan komunikasi yang akan dipantau.
+- Tentukan siapa yang akan melakukan peninjauan komunikasi.
+- Kebijakan Penyiapan Pengawasan
 
-Pelajari lebih lanjut:
+Pelajari selengkapnya:
 
-- [Gambaran umum kebijakan supervisi](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Mengonfigurasi kebijakan supervisi](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Gambaran umum kebijakan Pengawasan](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
+- [Mengonfigurasi kebijakan Pengawasan](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
