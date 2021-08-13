@@ -1,5 +1,5 @@
 ---
-title: Komentar pada item daftar
+title: Komentar pada Item daftar
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995490"
 ---
-# <a name="comments-on-list-items"></a>Komentar pada item daftar
+# <a name="comments-on-list-items"></a>Komentar pada Item daftar
 
-Pengguna dapat melihat semua komentar pada item daftar dan filter di antara tampilan yang memperlihatkan komentar atau aktivitas yang terkait dengan item.
+Pengguna dapat menampilkan semua komentar pada item daftar dan memfilter antar tampilan yang memperlihatkan komentar atau aktivitas yang terkait dengan item.
 
-Pengguna perlu memperhatikan hal berikut sebelum mereka bisa menambahkan dan menghapus komentar:
+Pengguna perlu memperhatikan hal berikut sebelum mereka dapat menambahkan dan menghapus komentar:
 
-- Komentar mengikuti pengaturan izin yang melekat di SharePoint.
-- Daftar klasik yang belum dibuat untuk diperlihatkan dalam antarmuka pengguna modern, seperti daftar tugas, tidak akan memiliki fitur komentar ini.
-- Komentar pada daftar di teams tidak tersedia dengan rilis ini.
-- Komentar tidak diindeks oleh pencarian.
+- Komentar mengikuti pengaturan izin yang tindaklanjuti SharePoint.
+- Daftar klasik yang belum dibuat untuk muncul dalam antarmuka pengguna modern, seperti daftar tugas, tidak akan memiliki fitur komentar ini.
+- Mengomentari daftar Teams tidak tersedia dengan rilis ini.
+- Komentar tidak diindeks oleh Pencarian.
 
-Admin bisa menonaktifkan fitur ini pada tingkat organisasi dengan mengubah parameter **Commentsonlistitemsdisabled** dalam Cmdlet PowerShell **set-spotenant** .
+Admin bisa menonaktifkan fitur ini di tingkat organisasi dengan mengubah parameter **CommentsOnListItemsDisabled** dalam cmdlet **PowerShell Set-SPOTenant.**
 
-Saat ini tidak dimungkinkan untuk menonaktifkan komentar pada tingkat situs atau daftar. Kami berharap untuk memiliki kontrol tersebut dalam pembaruan yang lebih baru, mungkin dalam kuartal pertama 2021.
+Saat ini tidak dimungkinkan untuk menonaktifkan mengomentari di tingkat situs atau daftar. Kami berharap dapat memiliki kontrol tersebut dalam pembaruan mendatang, kemungkinan pada kuartal pertama 2021.

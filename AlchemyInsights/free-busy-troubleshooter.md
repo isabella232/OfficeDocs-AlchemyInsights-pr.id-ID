@@ -1,5 +1,5 @@
 ---
-title: Pemecah masalah bebas/sibuk 607
+title: Pemecah Masalah Bebas/Sibuk 607
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987686"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Langkah pemecahan masalah ketersediaan kalender (bebas/sibuk)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Langkah-langkah pemecahan masalah untuk ketersediaan kalender (Bebas/Sibuk)
 
-Secara umum alat terbaik untuk pemecahan masalah masalah bebas/sibuk adalah [Exchange remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) untuk melihat tempatnya gagal. RCA akan memberi Anda catatan mendetail tentang apa yang berhasil dan apa yang gagal dengan pesan kesalahan tertentu yang dapat Anda Cari untuk menemukan solusi. Juga memiliki link ke [asisten dukungan dan pemulihan Microsoft](https://diagnostics.office.com/).
+Pada umumnya, alat terbaik untuk memecahkan masalah Bebas/Sibuk adalah [Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) untuk melihat di mana masalah ini gagal. RCA akan memberi Anda catatan mendetail tentang apa yang berfungsi dan apa yang gagal dengan pesan kesalahan tertentu yang dapat Anda cari untuk menemukan solusi. Situs tersebut juga memiliki tautan ke [situs web Microsoft Asisten Dukungan dan Pemulihan](https://diagnostics.office.com/).
 
-Alat lain yang baik untuk dicoba adalah [alat pemeriksaan kalender untuk Outlook](https://www.microsoft.com/download/details.aspx?id=28786) jika pengguna memiliki Outlook.
+Alat lain yang bagus untuk dicoba [adalah Alat Pemeriksaan Kalender Outlook](https://www.microsoft.com/download/details.aspx?id=28786) jika pengguna telah Outlook.

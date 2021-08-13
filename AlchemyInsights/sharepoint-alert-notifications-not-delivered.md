@@ -1,5 +1,5 @@
 ---
-title: Pemberitahuan peringatan SharePoint tidak terkirim
+title: SharePoint pemberitahuan pemberitahuan tidak terkirim
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957904"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>Pemberitahuan peringatan SharePoint tidak terkirim
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint pemberitahuan pemberitahuan tidak terkirim
 
-Silakan periksa folder sampah dalam email, karena terkadang pemberitahuan mungkin ada di sana.
+Harap periksa folder SAMPAH di email Anda, karena terkadang pemberitahuan mungkin masuk ke sana.
 
-Tentukan apakah **semua pemberitahuan tidak terkirim** atau **pemberitahuan individu** dari file atau pustaka tertentu tidak terkirim.
+Tentukan **apakah semua pemberitahuan tidak terkirim** atau apakah pemberitahuan **dari** pustaka atau file tertentu tidak terkirim.
 
-- **Pemberitahuan individual tidak terkirim**: Jika pemberitahuan individu dari file atau pustaka tertentu tidak terkirim, Anda bisa mencoba untuk menghapus dan membuatnya kembali. Lihat [mengelola, menampilkan, atau menghapus pemberitahuan SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) untuk membuat ulang pemberitahuan.
-- **Semua pemberitahuan tidak terkirim**: jika semua pemberitahuan dari beberapa file atau pustaka tidak terkirim, kunjungi [dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk memeriksa setiap saran/insiden yang mungkin terjadi dengan SharePoint atau Exchange. Masalah ini mungkin dengan kapabilitas pemberitahuan SharePoint atau keterlambatan dalam email melalui Exchange. Akan sangat penting untuk diingat Apakah email lain sedang dikirim, dan jika tidak, masalah cenderung dengan penundaan Exchange.
+- **Peringatan individu tidak terkirim:** Jika pemberitahuan individu dari pustaka atau file tertentu tidak terkirim, Anda dapat mencoba menghapus dan membuatnya ulang. Lihat [Mengelola, menampilkan, atau SharePoint untuk](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) membuat ulang pemberitahuan.
+- Semua **pemberitahuan** tidak terkirim: Jika semua pemberitahuan dari beberapa file atau pustaka tidak terkirim, kunjungi dasbor [Kesehatan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) Layanan untuk memeriksa penasihat/insiden yang mungkin terjadi setelah SharePoint atau Exchange. Masalah ini mungkin terjadi karena SharePoint pemberitahuan atau penundaan dalam email melalui Exchange. Penting juga untuk diperhatikan apakah email lain sedang dikirim, dan jika tidak, masalah kemungkinan besar Exchange penundaan.
 
-Tanya jawab umum tentang pemberitahuan:
+Tanya Jawab Umum tentang pemberitahuan:
 
-- Tidak dimungkinkan untuk mengirim pemberitahuan ke grup distribusi, hanya grup keamanan dan O365 yang didukung.
-- Anda tidak dapat mengustomisasi Templat email pemberitahuan; Anda perlu menggunakan alur kerja Microsoft FLOW atau SharePoint Designer untuk mencapainya.
+- Tidak dimungkinkan untuk mengirim pemberitahuan ke Grup Distribusi, hanya Keamanan dan grup O365 yang didukung.
+- Anda tidak bisa mengkustomisasi templat email pemberitahuan; Anda perlu menggunakan Microsoft FLOW atau SharePoint Designer Workflow untuk mendapatkannya.
 
-## <a name="related-topics"></a>Topik terkait
+## <a name="related-topics"></a>Topik Terkait
 
-Ingin mencoba Microsoft Flow di SharePoint online?
+Ingin mencoba Microsoft Flow di SharePoint Online?
 
-- [Buat alur](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [Membuat Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
 - [SharePoint dan Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

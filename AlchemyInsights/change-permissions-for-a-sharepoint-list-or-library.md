@@ -1,5 +1,5 @@
 ---
-title: Mengubah izin untuk daftar atau pustaka SharePoint
+title: Mengubah izin untuk SharePoint daftar atau pustaka pustaka baru
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979460"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Mengubah izin untuk daftar atau pustaka SharePoint
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Mengubah izin untuk SharePoint daftar atau pustaka pustaka baru
 
-1. Buka situs SharePoint di browser web dan buka daftar atau pustaka.
+1. Masuk ke SharePoint Anda dalam browser web dan buka daftar atau pustaka.
     
-2. Klik ikon pengaturan di kanan atas, lalu klik Pengaturan **pustaka** atau **pengaturan daftar**. (Jika Anda tidak melihat perintah, pilih tab **pustaka** atau **Daftar** untuk membuka pita, lalu klik **pengaturan pustaka** atau **pengaturan daftar** pada pita.) 
+2. Klik ikon Pengaturan di kanan atas, lalu klik Pengaturan **pustaka atau** **Pengaturan daftar.** (Jika Anda tidak melihat perintah,  pilih **tab** Pustaka atau Daftar untuk membuka pita, lalu klik Pustaka **Pengaturan** atau Daftar **Pengaturan** di pita.) 
     
-3. Di bawah **izin dan manajemen**, klik **izin untuk daftar ini** atau **izin untuk pustaka dokumen ini**.
+3. Di **bawah Izin dan Manajemen,** klik Izin untuk daftar **atau** Izin untuk pustaka **dokumen ini.**
     
-Perhatikan bahwa secara default, daftar dan pustaka SharePoint mewarisi izin mereka dari situs tersebut. Jika Anda membatalkan warisan izin, izin saat ini akan disalin ke daftar atau pustaka dan semuanya ada di dalamnya. Jika izin untuk situs tersebut diubah nanti, perubahan tidak akan diterapkan ke daftar atau pustaka dan item di dalamnya.
+Perhatikan bahwa secara default, SharePoint daftar dan pustaka mewarisi izin mereka dari situs. Jika Anda memutuskan pewarisan izin, izin saat ini akan disalin ke daftar atau pustaka dan semua yang ada di dalamnya. Jika izin untuk situs kemudian diubah, perubahan tidak akan diterapkan ke daftar atau pustaka dan item di dalamnya.
   
 
