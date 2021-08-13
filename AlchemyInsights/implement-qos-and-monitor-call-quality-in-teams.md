@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3e333394d3cb3f91ad48f3b443987fba23c7c2a5245b31555ef07ccf09e46be4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926428"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Menerapkan QoS dan memantau kualitas panggilan di Teams
 
-Analitik Panggilan dan Dasbor Kualitas Panggilan dapat digunakan untuk membantu memecahkan masalah kualitas panggilan di Microsoft Teams. Untuk mempelajari selengkapnya tentang Quality of Service (QoS), Call Analytics, dan Dasbor Kualitas Panggilan (CQD), lihat Menerapkan [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)dan Memantau Kualitas Panggilan di Microsoft Teams . 
+Analitik Panggilan dan Dasbor Kualitas Panggilan bisa digunakan untuk membantu memecahkan masalah kualitas panggilan di Microsoft Teams. Untuk mempelajari selengkapnya tentang Quality of Service (QoS), Analitik Panggilan, dan Dasbor Kualitas Panggilan (CQD), lihat Menerapkan [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)dan Memantau Kualitas Panggilan Microsoft Teams . 

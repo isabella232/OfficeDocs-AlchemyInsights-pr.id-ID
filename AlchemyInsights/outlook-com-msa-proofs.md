@@ -1,5 +1,5 @@
 ---
-title: Bukti MSA Outlook.com
+title: Outlook.com bukti MSA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f8cdef6068e0adef44f8b4172d2429c86947cb39e7a0eeb168ca6b4400e8b585
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983960"
 ---
-# <a name="security-info-and-security-codes"></a>Informasi keamanan dan kode keamanan
+# <a name="security-info-and-security-codes"></a>Info keamanan dan kode keamanan
 
-Untuk menambahkan informasi keamanan ke akun Microsoft Anda:
+Untuk menambahkan info keamanan ke akun Microsoft Anda:
 
-1. Masuk ke [dasar keamanan](https://account.microsoft.com/security) dengan akun Microsoft Anda.
-1. Pilih **info kontak keamanan**.
-1. Pilih **Tambahkan Info keamanan** dan ikuti instruksi untuk memasukkan nomor telepon atau alamat email.
-1. Anda akan menerima kode keamanan di nomor telepon atau alamat email tersebut. Masukkan kode keamanan yang Anda terima di jendela **Tambahkan Info keamanan** dan pilih **berikutnya**.
+1. Masuk ke [Dasar-dasar keamanan](https://account.microsoft.com/security) dengan akun Microsoft Anda.
+1. Pilih **Info kontak keamanan**.
+1. Pilih **Tambahkan info keamanan** dan ikuti instruksi untuk memasukkan nomor telepon atau alamat email.
+1. Anda akan menerima kode keamanan di nomor telepon atau alamat email tersebut. Masukkan kode keamanan yang Anda terima di **jendela Tambahkan info** keamanan dan pilih **Berikutnya**.
 
-Jika Anda ingin menghapus nomor telepon atau alamat email, pilih **Hapus** di sampingnya.
+Jika ingin menghapus nomor telepon atau alamat email, pilih **Hapus di** sampingnya.
 
-Jika Anda ingin mengubah nomor telepon atau alamat email yang menerima pemberitahuan keamanan, pilih **Ubah opsi pemberitahuan**.
+Jika ingin mengubah nomor telepon atau alamat email yang akan menerima pemberitahuan keamanan, pilih **Ubah opsi pemberitahuan**.
 
-Untuk mempelajari selengkapnya, Baca informasi [keamanan akun Microsoft dan kode verifikasi](https://support.microsoft.com/help/12428/).
+Untuk mempelajari selengkapnya, baca [Informasi keamanan akun Microsoft dan kode verifikasi](https://support.microsoft.com/help/12428/).

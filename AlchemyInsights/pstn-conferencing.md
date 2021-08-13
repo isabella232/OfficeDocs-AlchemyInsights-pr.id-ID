@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943630"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>Panggilan PSTN dengan Skype for Business Online
 
-Untuk melakukan panggilan PSTN di Microsoft 365, Anda memerlukan Paket Panggilan [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) atau koneksi dengan infrastruktur telepon PSTN lokal Anda. Untuk informasi selengkapnya, lihat sumber daya berikut ini: 
+Untuk melakukan panggilan PSTN di Microsoft 365, Anda membutuhkan [Paket Panggilan Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) atau koneksi dengan infrastruktur telepon PSTN lokal. Untuk informasi selengkapnya, lihat sumber daya berikut ini: 
 
-- [Ketersediaan negara dan kawasan untuk Konferensi Audio dan Paket Panggilan Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Ketersediaan negara dan kawasan untuk Konferensi Audio dan Microsoft Teams Paket Panggilan](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Pertanyaan umum Konferensi Audio](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Menambahkan dana dan mengelola Kredit Komunikasi](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Penelepon PSTN tidak bisa bergabung dalam panggilan konferensi dial-in Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Penelepon PSTN tidak bisa bergabung dalam Skype for Business konferensi dial-in](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

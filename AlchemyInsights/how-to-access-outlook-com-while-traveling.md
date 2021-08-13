@@ -1,5 +1,5 @@
 ---
-title: Cara mengakses Outlook.com saat bepergian
+title: Cara mengakses Outlook.com saat berpergian
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,13 +13,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 9180e7f6194d6bd862c2e51ca6459188e4c25134
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68d68a7acfd99174bae5b14d3560fc2e02b580bf62d1bf4f948543708c901a8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926608"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a>Cara mengakses Outlook.com saat bepergian
+# <a name="how-to-access-outlookcom-while-traveling"></a>Cara mengakses Outlook.com saat berpergian
 
-Untuk mengakses Outlook.com saat bepergian, pastikan Info keamanan akun Microsoft Anda-alamat email atau nomor telepon alternatif di mana Anda bisa mendapatkan kode keamanan-terserah tanggal. Untuk mempelajari selengkapnya, lihat [cara mengakses Outlook.com saat bepergian](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mengakses Outlook.com saat bepergian, pastikan informasi keamanan akun Microsoft Anda - alamat email atau nomor telepon alternatif tempat Anda bisa mendapatkan kode keamanan - telah diperbarui. Untuk mempelajari selengkapnya, lihat [Cara mengakses Outlook.com saat berpergian](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: 1800001 membuat atau mengedit profil
+title: 1800001 Membuat atau mengedit profil
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965392"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Membuat atau mengedit profil Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Membuat atau mengedit Outlook anda
 
-Untuk membuat profil Outlook baru, Edit profil, atau ganti nama profil, gunakan langkah-langkah berikut ini.
+Untuk membuat profil Outlook, mengedit profil, atau mengganti nama profil, gunakan langkah-langkah berikut ini.
   
-1. Di Outlook, pilih **File** \> **pengaturan akun** file \> **Kelola profil**.
+1. Di Outlook, pilih **Akun File** \> **Pengaturan** \> **Kelola Profil**.
     
-2. Dari dialog **penyetelan email** , pilih **Perlihatkan profil**.
+2. Dari dialog **Penyiapan Email,** pilih **Perlihatkan Profil**.
     
 3. Lakukan salah satu hal berikut ini:
     
   - Untuk membuat profil baru, pilih **Tambahkan**.
     
-  - Untuk mengedit atau mengganti nama profil, pilih **properti**.
+  - Untuk mengedit atau mengganti nama profil, pilih **Properti**.
     
-Jika Anda mengalami masalah saat membuat atau mengedit profil Outlook, Anda bisa menjalankan [alat profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) di komputer yang terpengaruh. Ini akan melakukan beberapa pemeriksaan, dan saat Anda siap akan membuat profil Outlook dengan alamat email Anda. 
+Jika mengalami masalah dalam membuat atau mengedit profil Outlook, Anda dapat menjalankan alat [profil Outlook di](https://aka.ms/SaRA-OutlookSetupProfile) komputer yang terpengaruh. Pemeriksa Ejaan akan melakukan beberapa pemeriksaan, dan jika sudah siap, Anda akan membuat profil Outlook dengan alamat email Anda. 
   
 
