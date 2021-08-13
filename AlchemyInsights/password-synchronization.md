@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960838"
 ---
 # <a name="password-synchronization"></a>Sinkronisasi kata sandi
 
-**Sinkronisasi hash kata sandi tidak berfungsi sama sekali**
+**Sinkronisasi Hash Kata Sandi tidak berfungsi sama sekali**
 
-Beberapa masalah umum yang dihadapi pelanggan ketika sinkronisasi hash kata sandi tidak berfungsi:
+Beberapa masalah umum yang dialami pelanggan ketika Sinkronisasi Hash Kata Sandi tidak berfungsi adalah:
 
-- Akun direktori aktif yang digunakan oleh Azure AD Connect untuk berkomunikasi dengan direktori aktif di tempat tidak diberikan **replikasi perubahan direktori** dan **replikasi perubahan direktori semua** izin, yang diperlukan untuk sinkronisasi kata sandi-Anda perlu memperbaikinya dengan memberikan izin ini ke akun direktori aktif.
-- Sinkronisasi hash kata sandi dinonaktifkan setelah administrator mengubah metode Sign-In pengguna dari **sinkronisasi kata sandi** ke opsi lain seperti **Federasi dengan AD FS** dalam panduan Azure AD Connect-Anda bisa memperbaikinya dengan mengaktifkan ulang fitur **sinkronisasi hash kata sandi** dalam panduan Azure AD Connect.
-- Masalah konektivitas dengan direktori aktif di tempat. Misalnya, beberapa pengontrol domain tidak dapat diakses oleh Azure AD Connect, atau port yang [diperlukan](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) diblokir oleh firewall-Anda harus memperbaikinya dengan memastikan bahwa konektivitas antara server Azure AD Connect dan direktori aktif di tempat berfungsi dengan benar.
-- Server Azure AD Connect sedang berada dalam mode pementasan, yang akan menyebabkan server tidak bisa menggunakan hash kata sandi-untuk memecahkan masalah, ikuti langkah-langkah yang diuraikan dalam [memecahkan masalah sinkronisasi kata sandi dengan sinkronisasi AZURE AD Connect-tidak ada kata sandi yang disinkronkan](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- Akun Direktori Aktif yang digunakan oleh Azure AD Koneksi untuk berkomunikasi dengan Direktori Aktif di  tempat tidak diberikan Replika Perubahan **Direktori** dan Mereplikasi Perubahan Direktori Semua izin, yang diperlukan untuk sinkronisasi kata sandi - Anda perlu memperbaiki ini dengan memberi izin ini ke akun Direktori Aktif.
+- Sinkronisasi hash kata sandi dinonaktifkan setelah administrator mengubah metode  User Sign-In dari Sinkronisasi Kata Sandi ke opsi lain seperti Federasi dengan **AD FS** dalam panduan Koneksi Azure AD - Anda dapat memperbaikinya dengan mengaktifkan kembali fitur sinkronisasi **hash** kata sandi dalam panduan Koneksi Azure AD.
+- Masalah konektivitas dengan Direktori Aktif di tempat. Misalnya, beberapa pengontrol domain tidak dapat diakses oleh Azure AD [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) Koneksi, atau port yang diperlukan diblokir oleh Firewall - Anda perlu memperbaikinya dengan memastikan bahwa konektivitas antara server azure AD Koneksi dan Direktori Aktif lokal berfungsi dengan benar.
+- Server Azure AD Koneksi saat ini sedang dalam mode pengaturan, yang akan mengakibatkan server tidak dapat menggunakan hash kata sandi - Untuk memecahkan masalah, ikuti langkah-langkah yang diuraikan di bagian Memecahkan masalah sinkronisasi kata sandi dengan sinkronisasi Azure AD Koneksi - Tidak ada kata sandi yang [disinkronkan.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-**Sinkronisasi hash kata sandi tidak berfungsi untuk beberapa pengguna saya**
+**Sinkronisasi Hash Kata Sandi tidak berfungsi untuk beberapa pengguna saya**
 
-1. Jika Anda melihat bahwa hash kata sandi tidak disinkronkan untuk pengguna, gunakan tugas **pemecahan masalah** di Azure AD Connect untuk menyelidiki dan mengatasi masalah tersebut. Melakukan tugas berikut:
+1. Jika Anda menyadari bahwa hash kata sandi tidak disinkronkan untuk pengguna, gunakan tugas pemecahan masalah di Azure AD Koneksi menyelidiki dan mengatasi masalah tersebut.  Lakukan tugas-tugas berikut:
 
-    untuk. [Menjalankan tugas pemecahan masalah dalam panduan](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Menjalankan tugas pemecahan masalah dalam panduan](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
     b. [Menggunakan cmdlet pemecahan masalah untuk menyelidiki masalah sinkronisasi hash kata sandi untuk penggunaan tertentu](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Objek pengguna Active Directory lokal diaktifkan untuk opsi **pengguna harus mengubah kata sandi pada logon berikutnya** . Ketika opsi ini diaktifkan, pengguna diberi kata sandi sementara dan akan diminta untuk mengubah kata sandi pada logon berikutnya. Azure AD Connect tidak menyinkronkan kata sandi sementara ke Azure AD.
+2. Objek Pengguna Direktori Aktif di tempat diaktifkan untuk Pengguna harus **mengubah kata sandi pada opsi masuk** berikutnya. Saat opsi ini diaktifkan, pengguna diberikan kata sandi sementara dan akan diminta untuk mengubah kata sandi pada saat masuk berikutnya. Azure AD Koneksi tidak menyinkronkan kata sandi sementara ke Azure AD.
 
-Untuk mengatasi masalah di atas, lakukan salah satu tugas berikut:
+Untuk mengatasi masalah di atas, lakukan salah satu tugas berikut ini:
 
-- Minta pengguna untuk masuk ke aplikasi di tempat (misalnya, desktop Windows) dan ubah kata sandinya. Kata sandi baru akan disinkronkan ke Azure AD.
-- Memiliki administrator yang memperbarui kata sandi pengguna tanpa mengaktifkan opsi **pengguna harus mengubah kata sandi pada logon berikutnya**, dan berbagi kata sandi baru dengan pengguna.
+- Mintalah pengguna untuk masuk ke aplikasi lokal (misalnya, desktop Windows) dan mengubah kata sandi. Kata sandi baru akan disinkronkan ke Azure AD.
+- Mempunyai administrator yang memperbarui kata sandi pengguna tanpa mengaktifkan opsi Pengguna harus mengubah kata sandi pada saat masuk berikutnya **,** dan bagikan kata sandi yang baru dengan pengguna.
 
-3. Objek pengguna direktori aktif lokal **tidak dikonfigurasi dengan benar** untuk sinkronisasi objek atau sinkronisasi kata sandi. Untuk memecahkan masalah ini, ikuti langkah-langkah yang diuraikan dalam [memecahkan sinkronisasi hash kata sandi dengan sinkronisasi AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. Objek Pengguna Direktori Aktif di tempat tidak dikonfigurasi **dengan benar untuk sinkronisasi** objek atau sinkronisasi kata sandi. Untuk memecahkan masalah ini, ikuti langkah-langkah yang diuraikan dalam Memecahkan masalah sinkronisasi [hash kata sandi dengan sinkronisasi Koneksi Azure AD.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 

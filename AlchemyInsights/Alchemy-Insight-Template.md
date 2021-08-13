@@ -1,5 +1,5 @@
 ---
-title: sama seperti nama file yang terbaik
+title: sama dengan nama file paling baik
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918898"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Header Alchemy yang diperlukan H1, H2's tidak berfungsi."
-Praktik terbaik dan panduan untuk Alkimia penulisan:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Header Alkimia yang Diperlukan H1, H2 tidak berfungsi."
+Praktik Terbaik dan panduan untuk penulisan Alkimia:
 
-1. **Jangan bersarang wawasan Alchemy dalam folder**-ini akan merusak struktur URL. Kami sedang berusaha memperbaiki hal ini.
-1. File dalam folder **Alchemyinsights** harus memiliki nama file huruf kecil dengan tanda hubung untuk spasi. ***cara-untuk-mengaktifkan-litigasi-Hold***.
-    1. Sertakan ID aturan atau ID Bucket dari [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) di bidang ms. kustom. KS. ***Ms. kustom: 100021***
-1. Gunakan sisa metadata di bagian atas file ini sebagai Templat Anda.
-1. Di [portal mitra Alkimia](https://alchemyportal.azurewebsites.net), navigasikan ke bagian **judul Insight pelanggan:** dan gunakan sebagai titik awal untuk judul H1 Anda untuk Insight. 
+1. **Jangan menumpuk Alkimia Insights dalam folder**- ini akan merusak struktur url. Kami sedang mencari solusi untuk memperbaiki masalah ini.
+1. File di folder **AlkimiaInsights** harus memiliki nama file dalam huruf kecil dengan tanda hubung untuk spasi misalnya. **_how-to-enable-litigation-hold_**.
+    1. Sertakan ID Aturan atau ID wadah dari [portal Mitra Alkimia](https://alchemyportal.azurewebsites.net) dalam bidang ms.custom. misalnya ***ms.custom: 100021***
+1. Gunakan metadata lainnya di bagian atas file ini sebagai templat Anda.
+1. Di [portal Mitra Alkimia,](https://alchemyportal.azurewebsites.net)navigasikan ke bagian Judul **Wawasan Pelanggan:** dan gunakan sebagai titik awal untuk judul H1 Anda untuk wawasan. 
     > [!NOTE]
-    > Wawasan Alkimia harus memiliki hanya satu H1 di bagian atas atau akan hancur dalam produksi. H2s tidak merender baik gunakan **tebal** atau Konvensi lainnya untuk menandakan bagian terpisah.
-1. Berikutnya, isi teks isi menggunakan materi draf di bagian wawasan pelanggan dari halaman aturan Alchemy
-    1. Daftar berpoin baik-baik saja
-    1. Daftar bernomor terlalu
-    1. **Tebal** dan *miring* adalah-OK
-    1. Link harus selalu berupa **"link ke web"/eksternal** atau **Deep-link ke elemen UI**, bukan link internal.
-    1. Gambar tidak didukung secara resmi pada saat ini, tetapi pada peta jalan.
+    > Alkimia Insights HARUS memiliki hanya satu H1 di bagian atas atau H1 yang akan terhingka dalam proses produksi. H2 tidak merender baik jadi gunakan huruf **tebal** atau konvensi lainnya untuk menandakan bagian yang terpisah.
+1. Berikutnya, isi teks isi menggunakan materi draf di Customer Insights bagian halaman Aturan Alkimia
+    1. Daftar berpoin tidak masalah
+    1. Daftar bernomor juga
+    1. **Huruf** tebal *dan miring* tidak apa-apa
+    1. Tautan harus selalu berupa **"tautan ke web"/eksternal** ATAU **tautan dalam ke elemen UI,** bukan tautan internal.
+    1. Gambar tidak didukung secara resmi saat ini, tetapi saat ini berada dalam peta.
 
-Dan ini sudah terlalu panjang. Praktik terbaik adalah sekitar 400 karakter---------------------------------
+Dan ini benar-benar sudah agak lama. Latihan terbaik adalah tentang 400 karakter ---------------------------------
 
-Setelah konten Anda siap, tarik ke cabang langsung. Lalu, masuk ke [portal mitra Alkimia](https://alchemyportal.azurewebsites.net) dan masukkan nama file ke dalam bidang URL. 
+Setelah konten Anda siap, tarik konten ke cabang langsung. Lalu, masuk ke [portal Mitra Alkimia](https://alchemyportal.azurewebsites.net) dan masukkan nama file ke dalam bidang url. 

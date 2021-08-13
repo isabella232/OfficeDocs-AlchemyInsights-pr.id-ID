@@ -1,5 +1,5 @@
 ---
-title: Memeriksa ejaan dalam Outlook di web
+title: Memeriksa ejaan di Outlook di web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000007"
 - "1992"
-ms.openlocfilehash: f8968b14b952c1198a8e185b8391d6dccdd257ba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3e9fce9b0d1d1a8f88a8e69ece83e8a6776d5a5b36a8490676e274b23741052f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924340"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Menggunakan browser Anda untuk memeriksa ejaan
+# <a name="use-your-browser-to-check-spelling"></a>Menggunakan browser untuk memeriksa ejaan
 
-Tidak ada opsi Pemeriksaan ejaan di Outlook di web. Untuk memeriksa ejaan, Anda harus menggunakan browser web. Pemeriksaan ejaan tersedia di Microsoft Edge, Internet Explorer 10 dan versi yang lebih baru, serta versi terbaru Firefox, Chrome, dan Safari. Centang opsi untuk browser web Anda untuk mempelajari selengkapnya tentang cara memeriksa ejaan.
+Tidak ada opsi pemeriksaan ejaan di Outlook di web. Untuk memeriksa ejaan, silakan gunakan browser web. Pemeriksa ejaan tersedia di Microsoft Edge, Internet Explorer 10 versi yang lebih baru, serta versi terbaru Firefox, Chrome, dan Safari. Periksa opsi untuk browser web Anda untuk mempelajari selengkapnya tentang cara memeriksa ejaan.
