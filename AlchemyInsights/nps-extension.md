@@ -1,5 +1,5 @@
 ---
-title: Ekstensi server kebijakan jaringan
+title: Ekstensi Server Kebijakan Jaringan
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985904"
 ---
-# <a name="network-policy-server-extension"></a>Ekstensi server kebijakan jaringan
+# <a name="network-policy-server-extension"></a>Ekstensi Server Kebijakan Jaringan
 
-Ekstensi server kebijakan jaringan (NPS) untuk autentikasi multi-Factor Azure AD menambahkan kapabilitas MFA berbasis awan ke infrastruktur autentikasi Anda menggunakan server yang sudah ada. Dengan ekstensi NPS, Anda bisa menambahkan panggilan telepon, pesan teks, atau verifikasi aplikasi telepon ke alur autentikasi yang sudah ada tanpa harus menginstal, mengonfigurasi, dan memelihara server baru.
+Ekstensi Network Policy Server (NPS) untuk Azure AD Multi-Factor Authentication menambahkan kapabilitas MFA berbasis awan pada infrastruktur autentikasi Anda menggunakan server yang sudah ada. Dengan ekstensi NPS, Anda dapat menambahkan panggilan telepon, pesan teks, atau verifikasi aplikasi telepon ke aliran autentikasi yang sudah ada tanpa harus menginstal, mengonfigurasi, dan memelihara server baru.
 
-Ekstensi NPS bertindak sebagai adapter antara RADIUS dan autentikasi multi-Factor Azure AD berbasis awan untuk menyediakan faktor autentikasi kedua untuk pengguna yang disinkronisasikan atau disinkronkan.
+Ekstensi NPS bertindak sebagai adaptor antara RADIUS dan Azure AD Multi-Factor Authentication berbasis awan untuk memberikan faktor autentikasi kedua bagi pengguna gabungan atau yang disinkronkan.
 
-Untuk detail selengkapnya tentang cara kerja ekstensi NPS, lihat [mengintegrasikan infrastruktur server kebijakan jaringan (NPS) yang ada dengan autentikasi multi-Factor AZURE AD](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Untuk detail selengkapnya tentang cara kerja ekstensi NPS, lihat Mengintegrasikan infrastruktur [Network Policy Server (NPS) Anda yang](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)sudah ada dengan Azure AD Multi-Factor Authentication.

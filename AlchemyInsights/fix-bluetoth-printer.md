@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki printer Bluetooth
+title: Memperbaiki Bluetooth printer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5f2ebf9b54814e47063a7b096ceb83db526f268b28f95bc251e31ac717fc6620
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928444"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Memperbaiki masalah koneksi printer Bluetooth
+# <a name="fix-bluetooth-printer-connection-issues"></a>Memperbaiki Bluetooth koneksi printer Anda
 
-Coba langkah-langkah pemecahan masalah ini agar printer Bluetooth Anda berfungsi kembali:
+Cobalah langkah-langkah pemecahan masalah ini agar Bluetooth printer Anda berfungsi kembali:
 
 
 1. Periksa untuk memastikan Bluetooth telah diaktifkan:
-    1. Pilih **Mulai**  >  **Pengaturan**  >  **Perangkat**  >  **Bluetooth & perangkat lain**.
-    2. Alihkan tombol Bluetooth **ke Aktif**.
-2. Jalankan pemecah masalah Bluetooth. <br>
-    Pilih **Mulai**, ketik **pengaturan pemecahan** masalah , lalu pilih opsi Pemecahan **masalah** pengaturan. Pilih **Bluetooth** dari menu **dan Jalankan pemecah masalah**.
+    1. Pilih **Mulai**  >  **Pengaturan**  >  **Perangkat**  >  **Bluetooth & lain**.
+    2. Alihkan Bluetooth ke **Aktif**.
+2. Jalankan pemecah Bluetooth masalah. <br>
+    Pilih **Mulai**, ketik **pengaturan pemecahan** masalah , lalu pilih opsi Pemecahan **masalah** pengaturan. Pilih **Bluetooth** dari menu dan **Jalankan pemecah masalah**.
 
 Jika tidak berhasil, coba hapus dan instal ulang printer Bluetooth Anda:
 
@@ -41,6 +41,6 @@ Jika tidak berhasil, coba hapus dan instal ulang printer Bluetooth Anda:
 3. Matikan dan mulai ulang printer Anda.
    1. Matikan printer Anda dan cabut kabel daya. Tunggu 30 detik. 
    2. Colokkan kembali kabel printer lalu nyalakan printer.
-4. Instal ulang printer di Pengaturan:
+4. Instal ulang printer Anda di Pengaturan:
     1. Pilih **Mulai**  >  **Pengaturan**  >    >  **Printer Perangkat & pemindai**.
     2. Pilih **tautan Tambahkan printer atau** pemindai di bagian atas layar, lalu ikuti instruksi untuk menginstal ulang printer.
