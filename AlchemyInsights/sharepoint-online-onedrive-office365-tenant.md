@@ -1,5 +1,5 @@
 ---
-title: SharePoint online atau OneDrive ' menyetel '
+title: SharePoint Pengaturan 'Pengaturan' atau OneDrive online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093601"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint online atau OneDrive "menyetel"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Pengaturan "Menyiapkan" secara online atau OneDrive
 
-Saat pengguna ditambahkan ke penyewa yang sudah ada, mereka mungkin melihat ikon SharePoint online atau OneDrive for Business yang tercantum sebagai "penyetelan" atau "kami masih mengupayakan penyetelan file" hingga proses penyediaan telah selesai. Ikuti [panduan pemecahan masalah](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) ini untuk mendapatkan bantuan.
+Saat pengguna ditambahkan ke penyewa yang sudah ada, mereka mungkin melihat ikon SharePoint Online atau OneDrive for Business tercantum sebagai "Menyiapkan" atau "Kami sedang berupaya menyiapkan file" hingga proses penyediaan selesai. Ikuti Panduan [Pemecahan Masalah ini](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) untuk mendapatkan bantuan.
 
-Jika lebih dari 24 jam telah berlalu sejak pertama kali melihat masalah ini, silakan log kasus dukungan.
+Jika sudah lebih dari 24 jam sejak masalah ini muncul pertama kali, silakan catat kasus dukungan.
 
-Kami memahami bahwa 24 jam mungkin terlihat lama. Dalam banyak kasus, kami sedang mengupayakan solusi. Harap Beri kami setidaknya 24 jam untuk menyelesaikan solusi.
+Kami memahami bahwa waktu 24 jam mungkin terasa lama. Dalam banyak kasus, kami sudah mencari solusinya. Harap beri kami setidaknya 24 jam untuk menyelesaikan solusi.
