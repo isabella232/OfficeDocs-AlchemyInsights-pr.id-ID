@@ -1,5 +1,5 @@
 ---
-title: Menginstal, menyetel, dan menyinkronkan file OneDrive atau SharePoint di Mac
+title: Menginstal, menyiapkan, dan menyinkronkan OneDrive atau SharePoint tertentu di Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 6ad860d51d2ce82c7500a663f83234a2961f08b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e40f43435a069e150bc95976f8c04a09fa60244cad268f283f326c1df363704
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957508"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Menginstal, menyetel, dan menyinkronkan file OneDrive atau SharePoint di Mac 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>Menginstal, menyiapkan, dan menyinkronkan OneDrive atau SharePoint tertentu di Mac 
 
-Instal, siapkan, dan sinkronkan file OneDrive atau SharePoint di Mac dengan instruksi dari [file sinkronisasi dengan klien sinkronisasi onedrive di Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
+Menginstal, menyiapkan, dan menyinkronkan OneDrive atau SharePoint di Mac dengan instruksi dari Sinkronkan file dengan klien [OneDrive Sync di Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
 
-Jika aplikasi OneDrive diinstal dan disiapkan di Mac, namun pengguna mengalami masalah sinkronisasi, lihat [memperbaiki masalah sinkronisasi dengan OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
+Jika aplikasi OneDrive telah diinstal dan disiapkan di Mac tetapi pengguna mengalami masalah sinkronisasi, lihat Memperbaiki masalah sinkronisasi [dengan OneDrive (Mac).](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756)
 
 > [!NOTE]
-> Fitur Pindahkan folder yang diketahui di OneDrive Sync untuk Windows tidak tersedia untuk Mac.
+> Fitur Pemindahan Folder Diketahui di OneDrive Sync untuk Windows tidak tersedia untuk Mac.
 
 
 

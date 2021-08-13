@@ -1,5 +1,5 @@
 ---
-title: Sinkronisasi profil pengguna SharePoint online
+title: SharePoint Sinkronisasi Profil Pengguna Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003095"
 - "5848"
-ms.openlocfilehash: abb4b671091fee60fcf836acb15bc3dbdaac7b54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb2c3a2c43a59882dab3f8035dd20e69579a46a7c8bde7badc80310a1ab57f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957472"
 ---
-# <a name="sharepoint-online-user-profile-synchronization"></a>Sinkronisasi profil pengguna SharePoint online
+# <a name="sharepoint-online-user-profile-synchronization"></a>SharePoint Sinkronisasi Profil Pengguna Online
 
-Microsoft SharePoint menggunakan pekerjaan sinkronisasi direktori aktif untuk mengimpor informasi atribut pengguna dan grup ke aplikasi profil pengguna (UPA).Untuk informasi selengkapnya, lihat artikel di bawah ini.
+Microsoft SharePoint menggunakan pekerjaan sinkronisasi Direktori Aktif untuk mengimpor informasi atribut pengguna dan grup ke dalam Aplikasi Profil Pengguna (UPA).Untuk informasi selengkapnya, silakan lihat artikel di bawah ini.
 
-- [Sinkronisasi profil pengguna SharePoint online](https://docs.microsoft.com/sharepoint/user-profile-sync)
+- [SharePoint Sinkronisasi Profil Pengguna Online](https://docs.microsoft.com/sharepoint/user-profile-sync)

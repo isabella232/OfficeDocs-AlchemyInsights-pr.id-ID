@@ -1,5 +1,5 @@
 ---
-title: Pertanyaan dan masalah dengan akses sumber daya
+title: Pertanyaan dan masalah dengan akses Sumber Daya
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967300"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>Pertanyaan dan masalah dengan akses sumber daya
+# <a name="questions-and-issues-with-resource-access"></a>Pertanyaan dan masalah dengan akses Sumber Daya
 
-Untuk informasi tentang tipe profil yang didukung Intune untuk memungkinkan akses bagi pengguna untuk infrastruktur dan sumber daya perusahaan, lihat:
+Untuk informasi tentang tipe profil yang didukung Intune untuk memungkinkan akses bagi pengguna ke infrastruktur dan sumber daya perusahaan, lihat:
 
-- [Menambahkan dan menggunakan pengaturan Wi-Fi di perangkat Anda di Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [Menambahkan pengaturan email ke perangkat yang menggunakan Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [Menambahkan dan menggunakan Wi-Fi email pada perangkat Anda di Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Menambahkan pengaturan email ke perangkat menggunakan Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
 - [Menggunakan sertifikat untuk autentikasi di Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [Membuat profil VPN untuk menyambungkan ke server VPN di Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Membuat profil VPN untuk tersambung ke server VPN di Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Baca selengkapnya...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

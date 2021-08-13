@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770590"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957436"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kapan profil saya berubah sinkronisasi ke aplikasi profil pengguna SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kapan perubahan profil saya disinkronkan ke SharePoint Profil Pengguna saya?
 
-Sinkronisasi gambar profil di SharePoint online memerlukan tindakan pengguna untuk memulai sinkronisasi foto mereka. Tidak ada sinkronisasi otomatis foto ke SharePoint online. SharePoint online hanya menyinkronkan foto dari Exchange Online, bukan Azure Active Directory.
+Sinkronisasi Gambar Profil SharePoint Online memerlukan tindakan pengguna untuk memulai sinkronisasi foto mereka. Tidak ada sinkronisasi otomatis foto ke SharePoint Online. SharePoint Online hanya menyinkronkan foto dari Exchange Online, bukan Azure Active Directory.
 
-Jika pengguna tidak pernah melakukan tindakan yang akan meminta sinkronisasi atau mereka telah memperbarui gambar profil mereka dan yang baru tidak muncul di SharePoint online, pengguna mungkin perlu meminta untuk menyinkronkan. Berikut cara melakukannya:
+Jika pengguna belum pernah melakukan tindakan yang akan meminta sinkronisasi atau memperbarui gambar profil mereka dan gambar yang baru tidak muncul di SharePoint Online, pengguna mungkin perlu memintanya untuk disinkronkan. Berikut ini cara mereka bisa melakukan ini:
 
-1. Buka browser web dalam sesi pribadi atau penyamaran dan [masuk ke Office.com](https://www.office.com/).
+1. Buka browser web dalam sesi In-Private atau Incognito dan [buka Office.com](https://www.office.com/).
 
-2. Masuk dengan akun kantor atau sekolah mereka, dan klik petak OneDrive atau SharePoint.
+2. Masuk dengan akun kantor atau sekolah mereka, dan klik OneDrive atau SharePoint mereka.
 
-3. [Menambahkan foto profil mereka ke Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Tambahkan foto profil mereka ke Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-[Informasi tentang sinkronisasi gambar profil di Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Info tentang sinkronisasi gambar profil di Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 
