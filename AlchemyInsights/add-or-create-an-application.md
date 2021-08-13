@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: cc28fdacdd7261c96eaf7224ea27f215a828c059dafdb01085434d06551c6e0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954412"
 ---
 # <a name="adding-or-creating-an-application"></a>Menambahkan atau membuat aplikasi
 
-- [Mulai cepat: menambahkan aplikasi ke penyewa Azure Active Directory (AZURE AD) Anda](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) memperlihatkan cara menambahkan aplikasi ke penyewa Azure AD Anda.
-- [Tutorial: Tambahkan aplikasi lokal untuk akses jarak jauh melalui proksi aplikasi di Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) memperlihatkan kepada Anda cara mempersiapkan lingkungan Anda untuk digunakan dengan proksi aplikasi. Setelah lingkungan Anda siap, Anda akan menggunakan portal Azure untuk menambahkan aplikasi lokal ke penyewa Azure AD Anda.
-- Untuk membantu mengintegrasikan aplikasi Anda dengan Azure Active Directory, kami telah mengembangkan [kumpulan tutorial](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) yang memandu Anda melalui konfigurasi.
+- [Mulai cepat: Menambahkan aplikasi ke penyewa Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) Anda memperlihatkan cara menambahkan aplikasi ke penyewa Azure AD.
+- [Tutorial: Menambahkan aplikasi lokal untuk akses jarak jauh](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) melalui Proksi Aplikasi di Azure Active Directory memperlihatkan cara mempersiapkan lingkungan Anda untuk digunakan dengan Proksi Aplikasi. Setelah lingkungan siap, Anda akan menggunakan portal Azure untuk menambahkan aplikasi lokal ke penyewa Azure AD.
+- Untuk membantu mengintegrasikan aplikasi Azure Active Directory Anda, kami [telah mengembangkan kumpulan tutorial yang](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) akan memandu Anda melalui konfigurasi.

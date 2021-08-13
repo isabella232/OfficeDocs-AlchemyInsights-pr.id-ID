@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402270"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966040"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Mengonfigurasi Seamless Single Sign-on (SSO)
 
@@ -38,10 +38,10 @@ Untuk aplikasi dalam galeri, Anda akan menemukan instruksi langkah demi langkah 
 
 **Mengonfigurasi SSO berbasis SAML**
 
-1. Mulai cepat: Menyiapkan akses masuk tunggal (SSO) berbasis SAML untuk aplikasi di [penyewa Azure Active Directory (Azure AD) Anda.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
+1. Mulai cepat: Menyiapkan akses masuk tunggal (SSO) berbasis SAML untuk aplikasi di penyewa [Azure Active Directory (Azure AD) Anda.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)
 2. Untuk mempelajari selengkapnya tentang opsi berbasis SAML untuk akses masuk tunggal, lihat Memahami [akses masuk tunggal berbasis SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
-3. Untuk mempelajari tentang respons dan permintaan autentikasi SAML 2.0 yang didukung Azure Active Directory (Azure AD) untuk Sign-On Tunggal (SSO), lihat Protokol [Sign-On SAML Tunggal.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-4. Untuk mempelajari cara membuat dan mengonfigurasi akses masuk tunggal (SSO) berbasis SAML untuk aplikasi di Azure Active Directory (Azure AD) menggunakan API Microsoft Graph, lihat Mengonfigurasi akses masuk tunggal berbasis SAML untuk aplikasi menggunakan [API Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+3. Untuk mempelajari tentang respons dan permintaan autentikasi SAML 2.0 yang mendukung Azure Active Directory (Azure AD) untuk Akses Sign-On Tunggal (SSO), [lihat Protokol Sign-On SAML Tunggal.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Untuk mempelajari cara membuat dan mengonfigurasi masuk tunggal (SSO) berbasis SAML untuk aplikasi Anda di Azure Active Directory (Azure AD) menggunakan API Microsoft Graph, lihat Mengonfigurasi akses masuk tunggal berbasis SAML untuk aplikasi Anda menggunakan [API Microsoft Graph.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
 5. Untuk mempelajari cara Azure AD menggunakan protokol SAML, [lihat Bagaimana platform identitas Microsoft menggunakan protokol SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
 
 **Konfigurasi Token dan Klaim**
@@ -55,5 +55,5 @@ Untuk aplikasi dalam galeri, Anda akan menemukan instruksi langkah demi langkah 
 
 **Memecahkan masalah Konfigurasi SSO**
 
-- Untuk tanya jawab umum tentang Akses Tunggal Tanpa Hambatan Azure Active Directory Sign-On (SSO Tanpa Hambatan), lihat Akses Masuk Tunggal Tanpa [Hambatan Azure Active Directory: Tanya jawab umum](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
-- Untuk informasi pemecahan masalah umum terkait akses tunggal Tanpa Hambatan Azure Active Directory (Azure AD) Sign-On (SSO Tanpa Hambatan), lihat Memecahkan masalah Akses Masuk Tunggal Tanpa [Hambatan Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
+- Untuk tanya jawab umum tentang Azure Active Directory Seamless Single Sign-On (Seamless SSO), [lihat Azure Active Directory Seamless Single Sign-On: Frequently asked questions](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq).
+- Untuk informasi pemecahan masalah umum terkait Azure Active Directory Tunggal Tanpa Hambatan (Azure AD) Sign-On (SSO Tanpa Hambatan), lihat Azure Active Directory Akses [Masuk Tunggal Tanpa Hambatan.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

@@ -1,5 +1,5 @@
 ---
-title: Penyimpanan dan penghapusan OneDrive
+title: OneDrive penyimpanan dan penghapusan
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985364"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Penyimpanan dan penghapusan OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive penyimpanan dan penghapusan
 
-- Anda dapat [memulihkan pengguna yang sudah menghapus OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . Mereka berada di keranjang sampah untuk 93 hari.
+- Anda bisa [memulihkan pengguna yang dihapus dari OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) Anda sendiri. Produk berada di keranjang sampah selama 93 Hari.
 
 - Lihat [artikel ini](https://docs.microsoft.com/onedrive/retention-and-deletion) untuk mempelajari:
-    - Cara memberi pengguna lain akses ke OneDrive pengguna yang dihapus.
-    - Apa yang terjadi pada OneDrive pengguna ketika Anda menghapus akun Microsoft 365 pengguna untuk organisasi Anda.
+    - Cara memberikan pengguna lain akses ke akun pengguna yang OneDrive.
+    - Apa yang terjadi pada kebijakan OneDrive pengguna saat Anda menghapus akun Microsoft 365 pengguna untuk organisasi Anda.
     - Cara mengonfigurasi delegasi akses otomatis.
-    - Cara kerja proses penghapusan OneDrive.
+    - Cara OneDrive penghapusan berfungsi.
 
-- Untuk informasi tentang memulihkan item dari keranjang sampah di OneDrive, lihat [memulihkan file atau folder yang dihapus](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Untuk informasi tentang memulihkan item dari keranjang sampah di OneDrive, lihat [Memulihkan file atau folder yang dihapus](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Tertarik dengan keamanan dan penangguhan pusat kepatuhan?
-    - [Kebijakan penyimpanan untuk OneDrive dan situs SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [penangguhan eDiscovery untuk OneDrive dan situs SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Tertarik dalam penyimpanan dan penyimpanan Pusat Keamanan dan Kepatuhan?
+    - [Kebijakan penyimpanan untuk OneDrive dan SharePoint baru](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery hold untuk OneDrive dan SharePoint eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
