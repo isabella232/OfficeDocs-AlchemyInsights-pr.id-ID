@@ -9,40 +9,40 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc6731d5a7747bb4fc8d6cef1b6ac0045d11917d7f97abbb21eea9613b1b1aa2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700458"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093834"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Membatasi akses di SharePoint atau OneDrive
 
-Ada banyak cara untuk membatasi akses ke Layanan SharePoint online/OneDrive. Metode pembatasan akses ini diuraikan di bawah ini. 
+Ada banyak cara untuk membatasi akses ke SharePoint Online/OneDrive ini. Berikut berbagai metode pembatasan akses yang diuraikan di bawah ini. 
 
-**Pembatasan izin**
+**Pembatasan Izin**
 
-Di SharePoint online dan OneDrive for Business, kami membatasi akses ke item seperti situs, file, dan folder dengan hanya memberikan akses ke grup/individu yang seharusnya memiliki akses.
+Di SharePoint Online dan OneDrive for Business, kami membatasi akses ke item seperti situs, file, dan folder dengan hanya memberikan akses ke grup/individu yang harus memiliki akses.
 
-- [Mengkustomisasi izin untuk daftar atau pustaka SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Mengkustomisasi izin untuk SharePoint pustaka grup](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Mengkustomisasi izin situs SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Mengkustomisasi SharePoint situs Anda](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Mengubah izin pada subfolder](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Mengubah izin di subfolder](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Mengontrol akses dari perangkat yang tidak dikelola](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Kontrol akses dari perangkat yang tidak dikelola](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Sebagai admin SharePoint atau global, Anda dapat memblokir atau membatasi akses ke SharePoint dan konten OneDrive dari perangkat yang tidak dikelola (yang bukan iklan hibrid yang digabungkan atau patuh di Intune).
+Sebagai admin SharePoint global, Anda dapat memblokir atau membatasi akses ke konten SharePoint dan OneDrive dari perangkat yang tidak kelola (yang bukan merupakan gabungan ad hibrid atau mematuhi in Intune).
 
-**Pembatasan lokasi jaringan**
+**Pembatasan Lokasi Jaringan**
 
-Sebagai admin TI, Anda dapat mengontrol akses ke SharePoint dan sumber daya OneDrive berdasarkan lokasi jaringan yang Anda percayai. Ini juga dikenal sebagai kebijakan berbasis lokasi. Untuk informasi selengkapnya, lihat [mengontrol akses ke data SharePoint online dan OneDrive berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Sebagai admin TI, Anda bisa mengontrol akses ke sumber SharePoint dan OneDrive berdasarkan lokasi jaringan yang ditentukan yang Anda percayai. Ini juga dikenal sebagai kebijakan berbasis lokasi. Untuk informasi selengkapnya, silakan lihat [Mengontrol akses ke SharePoint Online OneDrive data berdasarkan lokasi jaringan](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Pembatasan kunci situs** 
+**Pembatasan Penguncian Situs** 
 
-Dalam SharePoint online, Anda memiliki kemampuan untuk mengunci kumpulan situs, sehingga tidak ada orang yang memiliki akses. Ini diatur melalui PowerShell dan [SharePoint online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) menggunakan properti [set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
+Di SharePoint Online Anda memiliki kemampuan untuk mengunci kumpulan situs, sehingga tidak ada seorang pun yang memiliki akses. Opsi ini diatur melalui PowerShell dan [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) menggunakan properti [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
 
 **Membatasi pengguna membuat situs atau subsitus**
 
-Sebagai admin SharePoint atau admin global, Anda bisa memungkinkan pengguna Anda membuat dan mengelola situs SharePoint mereka sendiri, menentukan jenis situs yang dapat mereka buat, dan menentukan lokasi situs. Untuk informasi selengkapnya, lihat [mengelola pembuatan situs di SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Sebagai admin SharePoint atau Admin global, Anda dapat memungkinkan pengguna membuat dan mengelola situs SharePoint mereka sendiri, menentukan jenis situs yang dapat dibuat, dan menentukan lokasi situs. Untuk informasi selengkapnya, silakan lihat [Mengelola pembuatan situs di SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564787"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062352"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Memulihkan item yang tidak lagi berada di folder Item terhapus Anda
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Memulihkan item yang tidak lagi berada di folder Item dihapus Anda
 
-Jika Anda tidak dapat menemukan item dalam folder Item terhapus, tempat berikutnya untuk dilihat adalah folder Item yang dapat dipulihkan. Ini adalah folder tersembunyi yang akan dipindahkan item ketika:
-- File dihapus dari folder Item terhapus.
-- Folder Item terhapus dikosongkan, baik oleh Anda atau oleh kumpulan kebijakan milik administrator TI Anda.
-- Anda menghapus item dengan memilihnya dan menekan **Shift + Delete**.
+Jika Anda tidak dapat menemukan item di folder Item Dihapus, berikutnya lihat pada folder Item yang Dapat Dipulihkan. Ini adalah folder tersembunyi tempat item dipindahkan ketika:
+- Item dihapus dari folder Item Terhapus.
+- Folder Item Terhapus dikosongkan, baik oleh Anda atau oleh kebijakan yang diatur oleh administrator IT.
+- Anda menghapus item dengan memilihnya dan menekan **Shift+Delete**.
 
-Untuk menampilkan dan memulihkan item yang telah dipindahkan ke folder Item yang dapat dipulihkan:
-1. Di browser web, masuk ke Outlook Web App menggunakan URL yang disediakan oleh orang yang mengelola email untuk organisasi Anda. Masukkan nama pengguna dan kata sandi Anda, lalu pilih **masuk**.
-1. Dalam daftar folder email Anda, klik kanan **item terhapus**, lalu pilih **Pulihkan Item terhapus...**.
+Untuk menampilkan dan memulihkan item yang telah dipindahkan ke folder Item yang Dapat Dipulihkan:
+1. Di browser web, masuk ke Outlook Web App menggunakan URL yang disediakan oleh orang yang mengelola email untuk organisasi Anda. Masukkan nama pengguna dan kata sandi Anda, lalu **pilih Masuk**.
+1. Dalam daftar folder email Anda, klik kanan **Item Terhapus**, lalu pilih **pulihkan item terhapus...**.
 1. Jika perlu, gunakan kotak pencarian untuk menemukan item yang ingin dipulihkan.
-1. Saat Anda menemukan item, pilih item, lalu klik **Pulihkan**.
+1. Saat menemukannya, pilih item, lalu klik **pulihkan.**
    Item yang dipulihkan dipindahkan ke lokasi default untuk setiap tipe item.
-    - Pesan masuk ke kotak masuk Anda.
-    - Item kalender masuk ke kalender Anda.
-    - Kontak masuk ke folder kontak Anda.
-    - Tugas masuk ke folder tugas Anda.
+    - Pesan masuk ke Kotak Masuk Anda.
+    - Item kalender masuk ke Kalender Anda.
+    - Kontak di masuk ke folder Kontak.
+    - Tugas di masuk ke folder Tugas.
 
-**Tips untuk memulihkan item dalam folder Item yang dapat dipulihkan**
+**Tips memulihkan item di folder Item Yang Dapat Dipulihkan**
 
-- Tanggal dihapus untuk item dalam folder Item yang dapat dipulihkan adalah saat item dipindahkan ke folder Item terhapus. Ini bukan tanggal item dipindahkan ke folder Item yang dapat dipulihkan.
-- Item di folder Item yang dapat dipulihkan tidak memiliki ikon, sehingga semuanya terlihat sangat mirip.
-    - Jika Anda mencari kontak, Cari item yang memiliki nama orang tersebut, tapi tanpa baris subjek.
-    - Jika Anda mencari janji kalender, Cari item yang tidak memiliki nama orang atau baris subjek.
-    - Jika Anda mencari kontak, janji kalender, atau tugas mencari teks item tersebut.
-- Untuk memulihkan beberapa item, arahkan mouse ke setiap item dan pilih kotak centang di sampingnya, klik **Pulihkan**. Anda juga bisa memulihkan beberapa item berdekatan dengan memilih kotak centang untuk item pertama, tahan tombol **Shift** , lalu pilih kotak centang untuk item terakhir. Saat semua item dipilih, pilih **Pulihkan**.
-- Anda bisa menghapus item dari daftar **Pulihkan Item terhapus** . Cukup pilih item, lalu pilih **Bersihkan**. Jika Anda menghapus item, Anda tidak akan bisa menggunakan Pulihkan Item terhapus untuk mendapatkannya kembali. Membersihkan pesan tidak akan menghapusnya dari cadangan apa pun yang dibuat sebelum Anda menghapusnya.
-- Organisasi Anda mungkin telah menentukan berapa lama item dalam folder Item yang dapat dipulihkan tersedia untuk pemulihan. Misalnya, mungkin ada kebijakan yang menghapus apa pun yang telah ada di folder Item terhapus Anda selama 30 hari dan kebijakan lain yang memungkinkan Anda memulihkan item dalam folder Item yang dapat dipulihkan hingga 14 hari lagi.
+- Tanggal penghapusan untuk item dalam folder Item yang Dapat Dipulihkan adalah ketika item tersebut dipindahkan ke folder Item Dihapus. Tanggal tersebut bukanlah tanggal saat item dipindahkan ke folder Item yang Dapat Dipulihkan.
+- Item di folder Item yang Dapat Dipulihkan tidak memiliki ikon, sehingga semuanya terlihat sangat mirip.
+    - Jika mencari kontak, cari item yang memiliki nama orang tersebut, tetapi tanpa baris subjek.
+    - Jika mencari janji temu kalender, cari item yang tidak memiliki nama orang atau baris subjek.
+    - Jika mencari kontak, janji temu kalender, atau tugas, cari teks item tersebut.
+- Untuk memulihkan beberapa item, arahkan mouse ke setiap item dan pilih kotak centang di sampingnya, klik **pulihkan.** Anda juga dapat memulihkan beberapa item yang berdekatan dengan memilih kotak centang item pertama, menekan dan menahan tombol **Shift,** lalu memilih kotak centang untuk item terakhir. Setelah semua item dipilih, pilih **pulihkan**.
+- Anda dapat membersihkan item dari **daftar Pulihkan item** yang dihapus. Cukup pilih item, lalu pilih **purge**. Jika membersihkan item, Anda tidak akan dapat menggunakan Pulihkan item dihapus untuk mengembalikannya. Membersihkan pesan tidak akan menghapusnya dari cadangan apa pun yang dibuat sebelum Anda membersihkannya.
+- Organisasi Anda mungkin telah menentukan berapa lama item di folder Item Dapat Dipulihkan tersedia untuk pemulihan. Misalnya, mungkin terdapat kebijakan bahwa menghapus apa pun yang telah ada di folder Item Dihapus Anda selama 30 hari dan kebijakan lain yang memungkinkan Anda memulihkan item di folder Item yang Dapat Dipulihkan hingga 14 hari berikutnya.
