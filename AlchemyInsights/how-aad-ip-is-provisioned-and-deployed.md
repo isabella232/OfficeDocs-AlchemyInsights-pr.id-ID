@@ -1,5 +1,5 @@
 ---
-title: Cara proteksi identitas Azure Active Directory ditetapkan dan disebarkan
+title: Cara Azure Active Directory Perlindungan Identitas telah ditetapkan dan digunakan
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927862"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Cara proteksi identitas Azure Active Directory ditetapkan dan disebarkan?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Bagaimana Azure Active Directory Perlindungan Identitas telah ditetapkan dan digunakan?
 
-Secara default, fitur proteksi identitas Azure Active Directory diaktifkan pada tingkat penyewa untuk semua pengguna dalam penyewa.
+Secara default, fitur perlindungan Azure Active Directory Proteksi Identitas diaktifkan di tingkat penyewa untuk semua pengguna dalam penyewa.
 
-Untuk mempelajari selengkapnya, lihat [apa itu Azure Active Directory Identity Protection?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Untuk mempelajari selengkapnya, lihat [Apa yang Azure Active Directory Perlindungan Identitas?](https://go.microsoft.com/fwlink/?linkid=2130395)
