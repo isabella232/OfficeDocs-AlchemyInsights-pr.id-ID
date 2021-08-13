@@ -1,5 +1,5 @@
 ---
-title: Berbagi di SharePoint
+title: Bagikan di SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094285"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Cara berbagi di SharePoint online
+# <a name="how-to-share-in-sharepoint-online"></a>Cara berbagi di SharePoint Online
 
 Untuk berbagi situs:
   
 1. Buka situs di browser web.
     
-2. Jika situs milik Grup Microsoft 365, klik ikon pengaturan di kanan atas, lalu klik **izin situs**. Klik **undang orang**, lalu pilih untuk menambahkan anggota ke grup Microsoft 365 atau hanya berbagi situs. 
+2. Jika situs tersebut milik Microsoft 365 situs, klik ikon Pengaturan di kanan atas, lalu klik **Izin situs.** Klik **Undang orang,** lalu pilih untuk menambahkan anggota ke Microsoft 365 grup atau hanya berbagi situs. 
     
-    Untuk situs komunikasi, klik **bagikan situs** di kanan atas, masukkan nama orang tersebut, lalu pilih tingkat izin (baca, Edit, atau kontrol penuh). 
+    Untuk situs komunikasi, klik **Bagikan situs** di kanan atas, masukkan nama orang tersebut, lalu pilih tingkat izin (Baca, Edit, atau Kontrol Penuh). 
     
-    Untuk situs tim klasik, klik **bagikan** di sudut kanan atas. Masukkan nama orang yang ingin Anda undang atau ketikkan setiap orang untuk berbagi dengan semua orang di organisasi Anda. Klik **bagikan**.
+    Untuk situs tim klasik, **klik Bagikan** di sisi kanan atas. Masukkan nama orang yang ingin Anda undang atau ketik Setiap Orang untuk dibagikan dengan semua orang di organisasi Anda. Klik **Bagikan.**
     
 [Pelajari cara berbagi file atau folder](https://go.microsoft.com/fwlink/?linkid=511430)
   

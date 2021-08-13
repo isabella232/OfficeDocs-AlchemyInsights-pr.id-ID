@@ -1,5 +1,5 @@
 ---
-title: Pensiun Layanan Access
+title: Layanan Access akan pensiun
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938698"
 ---
-# <a name="access-services-retirement"></a>Pensiun Layanan Access
+# <a name="access-services-retirement"></a>Layanan Access akan pensiun
 
-Seperti yang kami Umumkan di MC97576, pada bulan Maret 2017, dan melanjutkan untuk berkomunikasi selama tahun lalu Layanan Access telah dihentikan. Fase berikutnya dalam proses ini adalah penghapusan database Web Access yang menggunakan daftar SharePoint sebagai penyimpanan data yang mendasari.
+Seperti yang telah kami sampaikan sebelumnya di MC97576, pada Maret 2017, dan terus berkomunikasi selama beberapa tahun Layanan Access akan dihentikan. Fase berikutnya dalam proses ini akan menjadi penghapusan Database Web Access yang menggunakan daftar SharePoint sebagai penyimpanan data yang mendasarinya.
 
-**Bagaimana hal ini mempengaruhi saya?**
+**Bagaimana hal ini memengaruhi saya?**
 
-Mulai 2019 Juni, kami akan menghentikan pembuatan database Access baru di SharePoint online dan menutup layanan dan aplikasi yang tersisa pada bulan April 2020.
+Mulai Juni 2019, kami akan menghentikan pembuatan database Access baru di SharePoint Online dan mematikan layanan serta aplikasi lainnya pada April 2020.
 
 **Apa yang perlu saya lakukan untuk mempersiapkan perubahan ini?**
 
-Kami menyarankan agar Anda membuat rencana transisi untuk database Web Access organisasi Anda. Admin dapat menggunakan [pemindai aplikasi akses SharePoint](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) untuk mendapatkan inventaris aplikasi Access yang digunakan situs.
+Kami menyarankan Anda untuk membuat rencana transisi untuk database web Access organisasi. Admin dapat menggunakan [SharePoint pemindai aplikasi Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) untuk mendapatkan inventaris dari aplikasi Access yang digunakan oleh situs.
 
-Ada beberapa cara untuk melakukan migrasi data database Web Access:
+Ada beberapa cara untuk melakukan migrasi data database web Access:
 
-- Mengimpor ke database Access lokal (. ACCDB) atau ke file Excel.
-- Kami juga merekomendasikan menjelajahi Microsoft PowerApps sebagai platform alternatif untuk membuat solusi bisnis tanpa kode untuk perangkat web dan seluler.
+- Mengimpor ke database Access lokal (. ACCDB) atau ke Excel anda.
+- Kami juga menyarankan Microsoft PowerApps sebagai platform alternatif untuk membuat solusi bisnis tanpa kode bagi perangkat seluler dan web.

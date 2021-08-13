@@ -1,5 +1,5 @@
 ---
-title: Berbagi buku kerja Excel
+title: Berbagi Excel kerja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3c2a51afb1b376af4782e49e5b308c9811b5e61bfeea1f52852a79178e818968
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094321"
 ---
-# <a name="collaborate-on-excel-documents"></a>Berkolaborasi pada dokumen Excel
+# <a name="collaborate-on-excel-documents"></a>Berkolaborasi pada Excel dokumen
 
-Untuk berkolaborasi dengan kolega pada dokumen Excel, **gunakan fitur penulisan bersama**. 
+Untuk berkolaborasi dengan kolega Excel dokumen bersama, **gunakan fitur penulisan bersama**. 
 
-Pelajari tentang mengaktifkan dan menggunakan fitur ini, selain melihat jawaban atas tanya jawab umum tentang berbagi dan skenario penulisan bersama, di Berkolaborasi di buku kerja Excel pada saat yang sama dengan [penulisan bersama](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
+Pelajari tentang mengaktifkan dan menggunakan fitur ini, selain melihat jawaban atas tanya jawab umum tentang berbagi dan skenario penulisan bersama, di Berkolaborasi [di buku](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)kerja Excel secara bersamaan dengan penulisan bersama .
