@@ -1,5 +1,5 @@
 ---
-title: Memulihkan Grup Yammer yang Dihapus
+title: Memulihkan Grup Yammer Dihapus
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958768"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>Memulihkan grup Yammer yang dihapus
 
-Grup yang [terhubung ke Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) di Yammer dapat dipulihkan dalam 30 hari setelah penghapusan dengan mengikuti langkah-langkah untuk Memulihkan Grup [Microsoft 365 yang dihapus.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
-Dalam beberapa kasus, grup Yammer mungkin tidak tersambung ke grup Microsoft 365. Jika demikian, tidak dimungkinkan untuk memulihkan grup secara otomatis, tetapi mungkin dapat mengakses data yang dihapus dalam ekspor [data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer jika kebijakan penyimpanan [data](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) jaringan diatur ke Penghapusan *Sementara.* Hubungi [Administrator Terverifikasi untuk](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) jaringan Yammer Anda untuk memeriksa kebijakan penyimpanan data, atau untuk melakukan ekspor data.
+[Office 365 yang tersambung ke internet Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) dapat dipulihkan dalam 30 hari setelah penghapusan dilakukan dengan mengikuti langkah-langkah untuk Memulihkan grup Microsoft 365 yang [dihapus.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+Dalam beberapa kasus, Yammer grup tersebut mungkin tidak tersambung ke Microsoft 365 grup. Jika demikian, tidak dimungkinkan untuk memulihkan grup secara otomatis, tetapi mungkin dapat mengakses data yang dihapus di ekspor [data](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer jika kebijakan penyimpanan [data](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) jaringan diatur ke Penghapusan *Sementara.* Hubungi [Administrator Terverifikasi untuk](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) Yammer jaringan Anda untuk memeriksa kebijakan penyimpanan data, atau untuk melakukan ekspor data.

@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913286"
 ---
 # <a name="change-your-language"></a>Mengubah bahasa Anda
 
-1. Untuk Chang bahasa di Outlook, masuk ke pengaturan [**bahasa dan waktu**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**pengaturan** \> **Tampilkan semua pengaturan**  >  **General**  >  **bahasa dan waktu**umum Outlook).
+1. Untuk mengubah bahasa di Outlook, masuk ke [**Pengaturan bahasa**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) dan waktu (**Pengaturan** Tampilkan Outlook \> **pengaturan Bahasa** Umum dan  >    >  **waktu**).
 
 2. Pilih bahasa Anda.
 
 3. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [mengubah pengaturan zona waktu dan bahasa di Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Untuk mempelajari selengkapnya, lihat [Mengubah pengaturan zona waktu dan bahasa Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki masalah menampilkan pesan yang diproteksi di Outlook
+title: Memperbaiki masalah saat menampilkan pesan yang diproteksi Outlook
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 3ed8f26a7745ab11282f4f52ad7dc5c84885227b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967156"
 ---
-# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Memperbaiki masalah tampilan pesan yang diproteksi di Outlook
+# <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Memperbaiki masalah menampilkan pesan yang diproteksi di Outlook
 
-Jika Penerima mengalami masalah dalam membuka pesan terenkripsi, pastikan Penerima mengklik link dalam pesan untuk meminta kode akses satu kali.
+Jika penerima mengalami masalah saat membuka pesan terenkripsi, pastikan bahwa penerima mengklik link di dalam pesan untuk meminta kode akses satu kali.
 
-Untuk membuka pesan terenkripsi, pengguna harus melakukan langkah-langkah berikut:
+Untuk membuka pesan terenkripsi, pengguna harus melakukan langkah-langkah berikut ini:
 
-1. Bergantung pada klien email yang digunakan, klik **Baca pesan** atau perintah serupa. Pengguna dialihkan ke halaman di mana mereka bisa masuk dan menerima kode sekali pakai.
+1. Bergantung pada klien email yang digunakan, klik **Baca pesan atau** perintah yang serupa. Pengguna diarahkan ke halaman tempat mereka dapat masuk dan menerima kode sekali pakai.
 
 > [!NOTE]
-> Untuk pengguna Gmail, mereka akan diminta untuk masuk dengan Gmail. Pesan akan terbuka di tab baru setelah mengklik **Izinkan**.
+> Untuk pengguna Gmail, mereka akan diminta untuk masuk dengan Gmail. Pesan akan terbuka di tab baru setelah mengklik **Perbolehkan.**
 
 2. Periksa email Anda untuk kode sekali pakai, lalu masukkan kode tersebut di jendela browser.
 
 3. Klik **Lanjutkan** untuk membaca pesan.
 
-Untuk informasi selengkapnya, lihat [mengirim, menampilkan, dan membalas pesan terenkripsi di Outlook untuk PC](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980).
+Untuk informasi selengkapnya, [lihat Mengirim, menampilkan, dan membalas pesan terenkripsi Outlook untuk PC.](https://support.microsoft.com/topic/send-view-and-reply-to-encrypted-messages-in-outlook-for-pc-eaa43495-9bbb-4fca-922a-df90dee51980)
 
 
