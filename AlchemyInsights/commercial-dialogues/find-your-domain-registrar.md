@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a3f35489337e641ea0a300618c5336417262056
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 3ed5fadebfe188c399cb80abf57f0a08033a0930e72bc7e77bd9ac889638fe60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746842"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949498"
 ---
 # <a name="find-your-domain-registrar"></a>Menemukan pencatat domain Anda
 
-Di jendela browser kedua Anda, ikuti langkah berikut:
+Di jendela browser kedua Anda, ikuti langkah-langkah ini:
 
-1. Pada [halaman pencarian internic](https://lookup.icann.org/), dalam kotak **pencarian whois** , ketikkan domain Anda. Misalnya, **contoso.com**. Nama domain yang diakhiri dengan kombinasi dua huruf (seperti **. ca** atau **. jp** ) tidak akan berfungsi dengan alat ini.
-2. Pilih opsi **domain** , lalu klik **kirim**.
-3. Pada halaman **hasil pencarian whois** , temukan entri pencatat. Entri ini mencantumkan organisasi yang menyediakan layanan pencatat untuk domain Anda.
+1. Pada halaman [pencarian InterNIC,](https://lookup.icann.org/)dalam kotak **Pencarian Whois,** ketik domain Anda. Misalnya, dalam **contoso.com**. Nama domain yang berakhiran dengan kombinasi dua huruf (seperti **.ca** atau **.jp** ) tidak akan berfungsi dengan alat ini.
+2. Pilih **opsi Domain,** lalu klik **Kirim.**
+3. Pada halaman **Hasil Pencarian Whois,** temukan entri Pencatat. Entri ini mencantumkan organisasi yang menyediakan layanan pencatat untuk domain Anda.

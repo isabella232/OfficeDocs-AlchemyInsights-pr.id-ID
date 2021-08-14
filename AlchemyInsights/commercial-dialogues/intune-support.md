@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949426"
 ---
 # <a name="intune-support"></a>Dukungan Intune
 
-Dialog ini merupakan bagian dari proses dukungan Intune. Jika Anda tidak memiliki Intune terkait masalah, silakan lakukan salah satu hal berikut:
+Dialog ini adalah bagian dari proses dukungan Intune. Jika tidak memiliki masalah terkait Intune, lakukan salah satu hal berikut:
 
-- [Untuk manajer konfigurasi atau dukungan Co-Management klik link ini dan pilih petak yang relevan.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Untuk non-Intune, masalah manajer non-Endpoint ikuti tautan ini lalu klik tombol bantuan di sudut kanan atas portal admin.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Untuk Pengelola Konfigurasi atau Co-Management dukungan, klik tautan ini, lalu pilih ubin yang relevan.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Untuk masalah non-Intune, pengelola non-Titik Akhir mengikuti tautan ini, lalu klik tombol bantuan di sudut kanan atas portal admin.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
