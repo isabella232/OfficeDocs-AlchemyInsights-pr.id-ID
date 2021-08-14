@@ -1,5 +1,5 @@
 ---
-title: Menyiapkan dan mengaktifkan Penjawab Otomatis Teams
+title: Penyetelan dan mengaktifkan Teams Penjawab Otomatis
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b54108c9df524f97b111a17952cfc8dfb5f2e8aa09cdf105e9452fcc27dc1028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51787320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921694"
 ---
 # <a name="set-up-a-cloud-auto-attendant"></a>Menyiapkan penjawab otomatis Awan
 
-Penjawab otomatis saat ini memiliki persyaratan lisensi tertentu. Lihat [Apa itu penjawab otomatis Cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) untuk mempelajari tentang membuat dan menyiapkan penjawab otomatis Teams. 
+Penjawab otomatis saat ini memiliki persyaratan lisensi tertentu. Lihat [Apa itu penjawab otomatis Cloud?](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) untuk mempelajari tentang membuat dan Teams otomatis. 
 
 Untuk informasi selengkapnya, lihat:
 
-- [Menyiapkan penjawab otomatis Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) dengan Microsoft Teams. 
-- [Buat antrean panggilan Cloud](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) dengan Microsoft Teams. 
-- [Menjawab panggilan antrean dan penjawab otomatis secara langsung dari Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [Menyetel penjawab otomatis Awan](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) dengan penjawab Microsoft Teams. 
+- [Buat antrean panggilan Awan](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) dengan Microsoft Teams. 
+- [Jawab panggilan antrean panggilan dan penjawab otomatis langsung dari Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 

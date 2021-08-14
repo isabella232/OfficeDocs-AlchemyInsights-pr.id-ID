@@ -1,5 +1,5 @@
 ---
-title: Permintaan untuk kembali dari Outlook.com beta ke Outlook.com klasik
+title: Permintaan untuk kembali dari Outlook.com beta ke versi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 0668e330897698481ce00ca331e183b0c1d44885
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53fe28be4f02087eba1ba096f165801d23e244ab95135564801f6e9dec231c9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961735"
 ---
-# <a name="the-new-outlookcom"></a>Outlook.com baru
+# <a name="the-new-outlookcom"></a>The new Outlook.com
 
-Tidak mungkin lagi membiarkan pengalaman Outlook.com baru dan kembali ke versi klasik Outlook.com.
+Anda tidak lagi dapat meninggalkan pengalaman baru Outlook.com dan kembali ke Outlook.com versi klasik.
 
-Jika Anda ingin memberi umpan balik tentang Outlook.com baru, masuk ke [Forum Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Anda dapat memberikan suara pada ide atau masalah yang ingin Anda lihat teralamatkan, dan kami akan langsung membalas komentar dan saran teratas.
+Jika ingin memberikan umpan balik tentang fitur baru Outlook.com, kunjungi [forum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Anda dapat memilih ide atau masalah yang perlu diatasi, dan kami akan langsung merespons komentar dan saran teratas.
 
 [Dapatkan bantuan dengan Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

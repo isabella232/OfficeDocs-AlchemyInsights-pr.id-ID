@@ -1,5 +1,5 @@
 ---
-title: Tidak dapat mengunggah gambar ke obrolan tim
+title: Tidak dapat mengunggah gambar ke obrolan Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930804"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Tidak dapat mengunggah gambar ke obrolan tim
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Tidak dapat mengunggah gambar ke obrolan Teams
 
 Saran pemecahan masalah:
 
-- Jika Anda menggunakan teams di web, coba browser lain. Untuk daftar browser yang didukung, lihat bagian "browser" dari [batasan dan spesifikasi untuk Microsoft teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Periksa kompatibilitas perangkat keras dan OS Anda. Untuk informasi selengkapnya, lihat [persyaratan perangkat keras untuk Microsoft teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Periksa apakah Anda memiliki versi tim terbaru. Untuk informasi selengkapnya, lihat [proses pembaruan teams](https://docs.microsoft.com/microsoftteams/teams-client-update) untuk detailnya.
+- Jika Anda menggunakan Teams di web, coba browser lain. Untuk daftar browser yang didukung, lihat bagian "Browser" dari Batasan [dan spesifikasi untuk semua Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Periksa kompatibilitas perangkat keras dan OS. Untuk informasi selengkapnya, lihat [Persyaratan perangkat keras untuk Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Periksa apakah Anda memiliki versi Teams terbaru. Untuk informasi selengkapnya, lihat [Teams pembaruan detailnya.](https://docs.microsoft.com/microsoftteams/teams-client-update)

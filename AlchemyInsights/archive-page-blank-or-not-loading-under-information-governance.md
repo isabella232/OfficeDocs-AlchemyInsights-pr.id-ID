@@ -1,5 +1,5 @@
 ---
-title: Halaman arsip kosong atau tidak memuat di bawah tata kelola informasi
+title: Halaman arsip kosong atau tidak memuat di bawah Tata Kelola Informasi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997353"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Halaman arsip kosong atau tidak memuat di bawah tata kelola informasi
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Halaman arsip kosong atau tidak memuat di bawah Tata Kelola Informasi
 
-Jika halaman **Arsip** di bawah tata kelola informasi di pusat keamanan dan kepatuhan kosong atau tidak dimuat, gunakan opsi **Arsip** di pusat kepatuhan M365 yang baru.
+Jika halaman **Arsip** di bawah Tata Kelola Informasi di pusat Keamanan  dan Kepatuhan kosong atau tidak dimuat, gunakan opsi Arsip di Pusat Kepatuhan M365 baru sebagai gantinya.
 
 1. Pergi ke [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Pilih tata kelola informasi.
-1. Lalu klik opsi **Arsip** .
+1. Pilih Tata Kelola Informasi.
+1. Kemudian, klik **opsi** Arsipkan.
 
 Atau ikuti URL ini: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

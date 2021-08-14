@@ -1,5 +1,5 @@
 ---
-title: Kelola Semua Grup Perusahaan Yammer
+title: Yammer Kelola Semua Grup Perusahaan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 158ebc4992d3dbea1c337ebf3a4768aaee8e0e2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8974f730fb2dbeba47812daed26cb753dfce165c6ae79dbd7e630e6f195b278a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997461"
 ---
 # <a name="all-company-group"></a>Semua Grup Perusahaan
 
-Komunitas Semua Perusahaan kini mendukung kemampuan serupa untuk komunitas lainnya di Yammer. Ini termasuk opsi seperti foto sampul dan penamaan. Dimungkinkan juga untuk membatasi postingan Semua Perusahaan di Yammer. Untuk informasi selengkapnya, lihat [Semua Perusahaan kini berfungsi seperti komunitas Yammer lainnya](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
+Komunitas Semua Perusahaan kini mendukung kemampuan serupa untuk komunitas lain di Yammer. Ini termasuk opsi seperti foto sampul dan penamaan. Dimungkinkan juga untuk membatasi postingan Semua Perusahaan di Yammer. Untuk informasi selengkapnya, lihat [Semua Perusahaan kini berfungsi seperti komunitas Yammer lainnya](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).
 
 ## <a name="common-issues-and-solutions"></a>Masalah dan solusi umum
 
 - Semua pembatasan kustomisasi atau pengiriman perusahaan tidak tersedia untuk admin jaringan. Buka permintaan layanan untuk mengaktifkan grup Semua Perusahaan modern.
 
-- Community Insights tidak memperlihatkan data lama. Sekarang karena Semua Perusahaan adalah komunitas yang nyata, data sebelumnya untuk jaringan tidak diperlihatkan.
+- Komunitas Insights tidak memperlihatkan data lama. Sekarang karena Semua Perusahaan adalah komunitas yang nyata, data sebelumnya untuk jaringan tidak diperlihatkan.
 
-- Semua Perusahaan sepertinya dihapus. Jika komunitas tersambung ke grup Microsoft 365, grup tersebut dapat dihapus. Grup Microsoft 365 harus dipulihkan dalam penyewa.
+- Semua Perusahaan sepertinya dihapus. Bila komunitas tersambung ke sebuah Microsoft 365 grup tersebut, grup itu bisa dihapus. The Microsoft 365 group must be restored in the tenant.
 

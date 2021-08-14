@@ -1,5 +1,5 @@
 ---
-title: Menyetel tata kelola informasi Microsoft
+title: Menyiapkan tata kelola informasi Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921622"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Menyetel tata kelola informasi Microsoft
+# <a name="set-up-microsoft-information-governance"></a>Menyiapkan tata kelola informasi Microsoft
 
-[Panduan penyetelan tata kelola informasi Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) memberi Anda informasi yang perlu Anda Siapkan dan Kelola Strategi Tata Kelola Organisasi Anda, untuk memastikan bahwa data Anda diklasifikasikan dan dikelola sesuai dengan panduan siklus hidup tertentu yang Anda atur.
+The [Microsoft Information governance setup guide](https://go.microsoft.com/fwlink/?linkid=2146529) provides you with the information you'll need to set up and manage your organization's governance strategy, to ensure that your data is classified and managed according to the specific lifecycle guidelines you set.
 
-Dengan panduan ini, Anda akan mempelajari cara membuat, menerapkan otomatis, atau menerbitkan label, kebijakan label, dan kebijakan penyimpanan yang diterapkan ke catatan konten dan kepatuhan organisasi yang dapat digunakan kembali. Anda juga akan mendapatkan informasi tentang mengimpor file CSV dengan paket file untuk skenario massal atau untuk menerapkannya secara manual ke dokumen individual.
+Dengan panduan ini, Anda akan mempelajari cara membuat, menerapkan secara otomatis, atau menerbitkan label, kebijakan label, dan kebijakan penyimpanan yang diterapkan ke rekaman konten dan kepatuhan organisasi Anda yang dapat digunakan kembali. Anda juga akan mendapatkan informasi tentang mengimpor file CSV dengan rencana file untuk skenario massal atau untuk menerapkannya secara manual ke masing-masing dokumen.

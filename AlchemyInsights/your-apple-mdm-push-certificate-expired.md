@@ -1,5 +1,5 @@
 ---
-title: Sertifikat push Apple MDM Anda telah kedaluwarsa
+title: Sertifikat Push Apple MDM Anda telah kedaluwarsa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997425"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Sertifikat push Apple MDM Anda telah kedaluwarsa
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Sertifikat Push Apple MDM Anda telah kedaluwarsa
 
-Sertifikat Apple MDM push valid selama satu tahun dan harus diperpanjang setiap tahunnya untuk memelihara pengelolaan perangkat macOS dan iOS. Jika sertifikat kedaluwarsa, perangkat Apple yang terdaftar tidak dapat dihubungi, dan perangkat baru tidak dapat didaftarkan.
+Sertifikat Apple MDM push valid selama satu tahun dan harus diperpanjang setiap tahunnya untuk memelihara pengelolaan perangkat macOS dan iOS. Jika sertifikat Anda kedaluwarsa, perangkat Apple yang terdaftar tidak bisa dihubungi, dan perangkat baru tidak bisa terdaftar.
 
-Untuk langkah-langkah memperpanjang sertifikat push Apple MDM, lihat [memperpanjang sertifikat push Apple Mdm](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Untuk langkah-langkah untuk memperpanjang sertifikat Apple MDM Push, lihat [Memperpanjang sertifikat push MDM Apple.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)
