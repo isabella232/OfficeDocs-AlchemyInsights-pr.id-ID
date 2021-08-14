@@ -1,5 +1,5 @@
 ---
-title: Menangani Pengelabuan di Outlook.com
+title: Menangani pengelabuan (phishing) Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095905"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Cara menangani email Pengelabuan
+# <a name="how-to-deal-with-a-phishing-email"></a>Cara menangani email pengelabuan (phishing)
 
-Penipuan phishing adalah email yang tampak sah namun sebenarnya merupakan upaya untuk mencuri informasi pribadi atau uang Anda. Penipu juga dapat menggunakan teknik yang disebut spoofing untuk membuatnya tampak seolah-olah Anda telah menerima email dari diri Anda sendiri.
+Penipuan pengelabuan adalah email yang tampak sah, tetapi sebenarnya merupakan usaha untuk mencuri informasi pribadi atau uang Anda. Penipu juga dapat menggunakan teknik yang disebut spoofing agar spoofing tampak seperti saat Anda menerima email dari diri sendiri.
 
-Jika Anda mendapatkan email yang terlihat seperti scam Pengelabuan, Anda bisa melaporkannya dengan memilih pesan lalu memilih **Junk**  >  **phishing**junk.
+Jika mendapatkan email yang terlihat seperti penipuan pengelabuan, Anda dapat melaporkannya dengan memilih pesan, lalu memilih **Pengelabuan**  >  **Sampah.**
 
-*Catatan:* Saat Anda menandai pesan sebagai Pengelabuan, hanya melaporkan pengirim.Tidak memblokir pengirim pesan Anda di masa mendatang. Untuk memblokir pengirim, Anda perlu menambahkan pengirim ke daftar pengirim yang diblokir. Untuk informasi selengkapnya, lihat [memblokir pengirim atau membuka Blokir pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Catatan:* Ketika pesan di tandai sebagai pengelabuan, pengirim hanya akan dilaporkan. Pengirim tidak akan dapat memblokir pengirim tersebut mengirimkan pesan di masa mendatang. Untuk memblokir pengirim, Anda harus menambahkan pengirim ke daftar pengirim yang diblokir. Untuk informasi selengkapnya, lihat [Memblokir pengirim atau membuka blokir pengirim di Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Pelajari tentang cara [menangani penyalahgunaan, Pengelabuan, atau spoofing di Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) dan [keamanan Outlook.com tingkat lanjut untuk pelanggan Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Pelajari cara menangani [penyalahgunaan, pengelabuan, atau spoofing di Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) dan keamanan [Outlook.com](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)tingkat lanjut bagi Microsoft 365 pelanggan .

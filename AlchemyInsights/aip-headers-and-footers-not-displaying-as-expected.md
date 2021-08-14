@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951784"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: Header dan footer tidak ditampilkan seperti yang diharapkan
 
 Jika Anda mengalami masalah dengan penandaan visual yang tidak ditampilkan seperti yang diharapkan, lihat panduan berikut ini:
 
 1. Pastikan Anda telah meninjau [Ketika penandaan visual diterapkan](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Untuk label Office, [tinjau Saat Office 365 menerapkan penandaan konten dan enkripsi](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
+2. Untuk Office, tinjau [Ketika Office 365 menerapkan penandaan konten dan enkripsi.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
 3. Jika Anda ingin menghapus header/footer yang sudah ada, [tinjau Menghapus header dan footer dari solusi label lain](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions).
 
 Jika Anda masih mengalami masalah, kumpulkan log klien Perlindungan Informasi Azure dan lampirkan log yang diekspor ke tiket ini.

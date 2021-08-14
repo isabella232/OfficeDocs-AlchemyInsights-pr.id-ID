@@ -1,5 +1,5 @@
 ---
-title: Konteks klien-tidak ada perangkat terdaftar
+title: Konteks klien - tidak ada perangkat terdaftar
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a5738d933ebe63d6ffb7e1a1008b6e3d5ea2ad47f453a4aa0028e566f344ec
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681335"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930542"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Konteks klien-tidak ada perangkat terdaftar
+# <a name="client-context---no-enrolled-devices"></a>Konteks klien - tidak ada perangkat terdaftar
 
-Penyewa Anda tidak memiliki perangkat manajemen perangkat seluler (MDM) yang terdaftar dengan Intune. Jika Anda ingin mendaftarkan dan mengelola perangkat Anda melalui Intune MDM, silakan Tinjau dokumentasi [di sini](https://docs.microsoft.com/intune/device-enrollment) untuk platform yang diinginkan. Jika Anda menggunakan fitur proteksi MDM pihak ketiga atau hanya aplikasi, tidak ada tindakan yang mungkin diperlukan. 
+Penyewa Anda tidak memiliki perangkat terdaftar manajemen perangkat seluler (MDM) dengan Intune. Jika Anda ingin mendaftarkan dan mengelola perangkat Melalui Intune MDM, silakan tinjau dokumentasi di [sini](https://docs.microsoft.com/intune/device-enrollment) untuk platform yang diinginkan. Jika Anda menggunakan MDM pihak ketiga atau hanya fitur Proteksi Aplikasi, tidak ada tindakan yang perlu dilakukan. 

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951640"
 ---
 # <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Pengaturan kebijakan proteksi aplikasi Android di Microsoft Intune
 
 Ada tiga kategori pengaturan kebijakan proteksi aplikasi untuk perangkat Android:
 
-**Perlindungan data** mengontrol bagaimana data perusahaan ditangani, seperti, apakah data bisa disalin atau ditempelkan ke aplikasi lain atau apakah cuplikan layar bisa diambil dari aplikasi tersebut. Pengaturan juga memberlakukan enkripsi pada data perusahaan dan mengelola Apakah data tertentu dapat disinkronkan dengan aplikasi perangkat asli, seperti daftar kontak atau browser web. Untuk mempelajari selengkapnya, lihat [perlindungan data](https://go.microsoft.com/fwlink/?linkid=2135259).
+**Perlindungan data** mengontrol cara menangani data perusahaan, seperti, apakah data dapat disalin atau disisipkan ke aplikasi lain atau apakah cuplikan layar dapat diambil dari aplikasi. Pengaturan juga memberlakukan enkripsi pada data perusahaan dan mengelola apakah data tertentu dapat disinkronkan dengan aplikasi perangkat asli, seperti daftar kontak atau browser web. Untuk mempelajari selengkapnya, lihat [Proteksi data](https://go.microsoft.com/fwlink/?linkid=2135259).
 
-**Persyaratan Access** memandu cara pengguna mengakses aplikasi. Misalnya, aplikasi dapat mengharuskan pengguna memasukkan PIN atau sidik jari untuk mengaksesnya. Untuk mempelajari selengkapnya, lihat [persyaratan akses](https://go.microsoft.com/fwlink/?linkid=2135260).
+**Persyaratan akses** memandu cara pengguna mengakses aplikasi. Misalnya, sebuah aplikasi mungkin mengharuskan pengguna untuk memasukkan PIN atau sidik jari untuk mengaksesnya. Untuk mempelajari selengkapnya, lihat [Persyaratan Access](https://go.microsoft.com/fwlink/?linkid=2135260).
 
-**Peluncuran bersyarat** mengatur pengaturan keamanan masuk untuk aplikasi, seperti pin maksimal sebelum penguncian atau sistem operasi minimum yang diperlukan untuk menjalankan aplikasi. Untuk mempelajari selengkapnya, lihat [peluncuran bersyarat](https://go.microsoft.com/fwlink/?linkid=2135507).
+**Peluncuran bersyarat** mengatur pengaturan keamanan masuk untuk aplikasi, seperti upaya PIN maksimal sebelum lockout atau sistem operasi minimum yang diperlukan untuk menjalankan aplikasi. Untuk mempelajari selengkapnya, lihat [Peluncuran bersyarat](https://go.microsoft.com/fwlink/?linkid=2135507).
