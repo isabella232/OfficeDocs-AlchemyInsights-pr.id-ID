@@ -1,5 +1,5 @@
 ---
-title: Mengunduh data penggunaan
+title: Data penggunaan unduhan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004265"
 ---
-# <a name="download-usage-data"></a>Mengunduh data penggunaan
+# <a name="download-usage-data"></a>Data penggunaan unduhan
 
-Anda telah memilih langganan yang terkait dengan perjanjian Azure Enterprise.
+Anda telah memilih langganan yang terkait dengan perjanjian Azure enterprise.
 
-Untuk menampilkan dan mengunduh data penggunaan sebagai pelanggan perusahaan Azure (EA), lakukan langkah-langkah berikut:
+Untuk menampilkan dan mengunduh data penggunaan sebagai pelanggan Enterprise Azure (EA), lakukan langkah-langkah berikut:
 
 > [!NOTE]
-> Anda harus merupakan administrator perusahaan, pemilik akun, atau administrator Departemen, dengan kebijakan Tampilkan biaya yang diaktifkan. 
+> Anda harus menjadi administrator perusahaan, pemilik akun, atau administrator departemen, dengan kebijakan biaya tampilan diaktifkan. 
 
-1. Masuk ke Azure portal dan Cari **biaya manajemen + tagihan**.
-2. Pilih profil tagihan dan klik **biaya penggunaan +**.
-3. Pada layar yang muncul, pilih bulan yang Anda perlukan laporannya, dan klik **Unduh**.
+1. Masuk ke portal Azure dan cari Manajemen **Biaya + Tagihan**.
+2. Pilih profil tagihan dan klik **Penggunaan + biaya.**
+3. Di layar yang muncul, pilih bulan yang Anda perlukan laporannya, dan klik **Unduh.**
 
-Jika salinan faktur diperlukan, hubungi mitra lisensi Microsoft (mitra atau penasihat perangkat lunak Anda). Mereka akan menaikkan alat Call-Logging (CLT) ke pusat operasi kawasan (ROC) melalui Explore.ms.
+Jika salinan faktur diperlukan, hubungi Mitra Lisensi Microsoft (mitra atau penasihat perangkat lunak). Mereka akan menaikkan Call-Logging Tool (CLT) ke Pusat Operasi Regional (ROC) Explore.ms.
 
-**Pembaruan-Nov 2020**
+**Pembaruan - Nov 2020**
 
-Untuk pelanggan komersial EA Direct yang dipilih, kami meluncurkan fitur (pratinjau pribadi) untuk **mengunduh fungsi faktur** di Azure portal. Untuk mengunduh faktur sebagai bagian dari fitur **pratinjau pribadi** , lakukan langkah-langkah di bawah ini:
+Untuk Pelanggan Komersial Langsung EA yang dipilih, kami meluncurkan fitur (pratinjau pribadi) untuk **fungsionalitas Unduh** Faktur di Portal Azure. Untuk mengunduh faktur sebagai bagian dari fitur pratinjau **pribadi,** lakukan langkah-langkah di bawah ini:
 
-1. Masuk ke Azure portal menggunakan URL: https://portal.azure.com/?EaInvoice=true 
+1. Masuk ke portal Azure menggunakan URL: https://portal.azure.com/?EaInvoice=true 
 2. Cari **Manajemen Biaya + Tagihan**. 
-3. Klik **biaya penggunaan +**. 
-4. Pada layar yang muncul, pilih bulan yang Anda perlukan laporannya, dan klik **Unduh**.
+3. Klik **Penggunaan + biaya.** 
+4. Di layar yang muncul, pilih bulan yang Anda perlukan laporannya, dan klik **Unduh.**
