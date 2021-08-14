@@ -1,5 +1,5 @@
 ---
-title: Menghapus data perusahaan dari Intune-aplikasi yang dikelola
+title: Menghapus data perusahaan dari aplikasi yang dikelola Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997749"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Menghapus data perusahaan dari Intune-aplikasi yang dikelola
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Menghapus data perusahaan dari aplikasi yang dikelola Intune
 
-Intune mendukung penghapusan data perusahaan dari aplikasi terkelola kebijakan perlindungan aplikasi (aplikasi). 
+Intune mendukung penghapusan data perusahaan dari aplikasi yang dikelola Kebijakan Perlindungan Aplikasi (APP, Application Protection Policy). 
 
-Untuk mempelajari selengkapnya tentang mengusap, menghapus, atau menghapus data perusahaan dari aplikasi ini, lihat [cara menghapus hanya data perusahaan dari aplikasi yang dikelola Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Untuk mempelajari selengkapnya tentang penghapusan, penghapusan, atau penghapusan data perusahaan dari aplikasi ini, lihat Cara menghapus hanya data perusahaan [dari aplikasi yang dikelola Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
