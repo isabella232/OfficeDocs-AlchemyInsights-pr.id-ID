@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949820"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022610"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Komponen web editor konten atau editor skrip hilang
 
-Dua komponen web yang tidak tersedia di SharePoint untuk Microsoft 365 modern Pages adalah komponen **web editor skrip** dan **komponen web editor konten**. Namun, ada [komponen Web siap pakai modern](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) yang dapat memenuhi beberapa tujuan yang sama. Atau, Anda dapat membuat [komponen Web kustom atau melakukan migrasi komponen web editor skrip yang sudah ada](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) ke kerangka SharePoint.  
+Dua komponen web yang tidak tersedia di SharePoint untuk Microsoft 365 modern adalah **komponen web Editor skrip** dan komponen web Editor **konten.** Namun, terdapat komponen web modern [yang dapat](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) memenuhi beberapa tujuan yang sama. Atau, Anda dapat membuat [komponen web kustom atau melakukan migrasi komponen web editor skrip yang sudah ada](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) SharePoint Framework.  
 
-Untuk informasi selengkapnya, lihat [di mana komponen web editor konten dan skrip di SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Untuk informasi selengkapnya, [lihat Di mana komponen web Editor konten dan Editor skrip SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)

@@ -1,5 +1,5 @@
 ---
-title: informasi kalender 608 pada penyetelan hibrid
+title: 608 Informasi kalender tentang penyetelan Hibrid
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "896"
 - "3800005"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: beeaeeacffc8e56f7b25458a9978d0bdfe954af1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e946c6594f0244706835f13bbee1594a7e705306740e20ce599cad18d70fb79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989558"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Masalah bebas/sibuk kalender di lingkungan hibrid
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a>Masalah bebas/sibuk pada kalender di lingkungan hibrid
 
-Jika pengguna mengalami masalah dalam melihat informasi bebas/sibuk kalender dalam lingkungan hibrid, jalankan kembali panduan konfigurasi hibrid. Untuk informasi selengkapnya tentang panduan konfigurasi hibrid, lihat [panduan konfigurasi hibrid](https://go.microsoft.com/fwlink/p/?linkid=528149).
+Jika pengguna mengalami masalah saat melihat informasi bebas/sibuk pada kalender di lingkungan hibrid, jalankan kembali panduan Konfigurasi Hibrid. Untuk informasi selengkapnya tentang panduan Konfigurasi Hibrid, lihat [Panduan Konfigurasi Hibrid](https://go.microsoft.com/fwlink/p/?linkid=528149).
 
-Untuk langkah pemecahan masalah dalam lingkungan hibrid, lihat [memecahkan masalah penggunaan hibrid](https://technet.microsoft.com/library/jj659053.aspx).
+Untuk langkah-langkah pemecahan masalah dalam lingkungan hibrid, [lihat Memecahkan masalah penerapan hibrid](https://technet.microsoft.com/library/jj659053.aspx).

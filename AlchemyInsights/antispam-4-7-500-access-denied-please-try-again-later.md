@@ -1,5 +1,5 @@
 ---
-title: 1051 AntiSpam 4.7.500 Access ditolak, silakan coba lagi nanti
+title: 1051 Antispam 4.7.500 Access denied, please try again later
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932676"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>akses 4.7.500 ditolak, silakan coba lagi nanti
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Akses ditolak, silakan coba lagi nanti
 
 Kesalahan ini terjadi ketika volume lalu lintas email dari alamat IP sumber melebihi batas berdasarkan reputasi (atau kurangnya reputasi) alamat IP sumber.
 
-Memblokir email dari alamat IP sumber akan kedaluwarsa dalam satu jam. Jika alamat IP sumber adalah server email lokal yang merupakan milik Anda, verifikasi konfigurasi konektor aliran email. Jika perilaku berlanjut selama lebih dari satu jam, hubungi dukungan untuk meminta pengecualian untuk alamat IP sumber.
+Memblokir email dari alamat IP sumber akan kedaluwarsa dalam waktu satu jam. Jika alamat IP sumber adalah server email lokal milik Anda, verifikasi konfigurasi konektor alur email. Jika perilaku berlanjut selama lebih dari satu jam, hubungi dukungan untuk meminta pengecualian untuk alamat IP sumber.

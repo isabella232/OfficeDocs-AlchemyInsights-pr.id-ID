@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962674"
 ---
-# <a name="adblock"></a>Unduhan
+# <a name="adblock"></a>AdBlock
 
-Beberapa pengguna saat ini mengalami masalah saat membaca atau menulis email saat menggunakan Google Chrome dengan ekstensi AdBlock. Untuk mengatasi masalah ini:
+Beberapa pengguna saat ini mengalami masalah ketika membaca atau menulis email saat menggunakan Google Chrome dengan ekstensi AdBlock. Untuk mengatasi masalah ini:
 
-1. Gunakan [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   atau browser web lainnya.
-1. Kecualikan Outlook.com dari pengaturan AdBlock.Di sudut kanan atas Google Chrome, pilih AdBlock lalu **AdBlock**   pilih **jangan jalankan pada halaman pada domain ini**.Refresh browser Anda untuk memuat Outlook.com lagi.
+1. Gunakan [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) atau browser web lain.
+1. Jangan Outlook.com dari pengaturan AdBlock. Di sudut kanan atas Google Chrome, pilih **AdBlock,** lalu pilih **Jangan jalankan di halaman pada domain ini**. Refresh browser Anda untuk memuat Outlook.com lagi.
