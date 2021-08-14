@@ -1,5 +1,5 @@
 ---
-title: Menghapus pengguna dari grup SharePoint
+title: Menghapus pengguna dari SharePoint grup
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094567"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>Menghapus pengguna dari grup SharePoint
+# <a name="remove-users-from-a-sharepoint-group"></a>Menghapus pengguna dari SharePoint grup
 
-Grup SharePoint adalah kumpulan pengguna yang semuanya memiliki kumpulan izin yang sama ke situs dan konten. Daripada menetapkan izin satu orang pada satu waktu, Anda bisa menggunakan grup untuk dengan mudah memberikan tingkat izin yang sama ke banyak orang sekaligus.
+Grup SharePoint adalah kumpulan pengguna yang semuanya memiliki kumpulan izin yang sama untuk situs dan konten. Daripada menetapkan izin satu orang pada satu waktu, Anda bisa menggunakan grup untuk dengan mudah memberikan tingkat izin yang sama ke banyak orang sekaligus.
 
 - [Menghapus pengguna dari grup](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [Menambahkan atau menghapus anggota dari Grup Microsoft 365 menggunakan pusat admin](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Menambahkan atau menghapus anggota Microsoft 365 Grup admin menggunakan pusat admin](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

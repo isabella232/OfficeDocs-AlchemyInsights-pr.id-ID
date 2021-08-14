@@ -1,5 +1,5 @@
 ---
-title: Memulihkan file atau folder yang dihapus
+title: Memulihkan folder atau file yang dihapus
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,32 +13,32 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2e0b9f6cb795a7314dd97ad6ebe7ddd73b37ae918d8b31d78c150945c8a9dfd1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942064"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Memulihkan item terhapus dari SharePoint
 
-Saat Anda menghapus item atau situs dari SharePoint, item tersebut tidak segera dihapus. Item yang terhapus masuk ke keranjang sampah untuk periode waktu tertentu. Pada saat itu, Anda dapat memulihkan item yang dihapus ke lokasi aslinya. Untuk informasi selengkapnya, kunjungi link di bawah ini.
+Saat Anda menghapus item atau situs dari SharePoint, item tersebut tidak segera dihapus. Item yang terhapus masuk ke keranjang sampah untuk periode waktu tertentu. Pada saat itu, Anda dapat memulihkan item yang dihapus ke lokasi aslinya. Untuk informasi selengkapnya, silakan kunjungi tautan di bawah ini.
 
-- [Memulihkan item di keranjang sampah situs SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Memulihkan item di Keranjang Sampah situs SharePoint baru](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 - [Memulihkan file atau folder yang dihapus di OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-- [Menghapus item atau mengosongkan keranjang sampah](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
+- [Menghapus item atau mengosongkan Keranjang Sampah](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
-- [Memulihkan kumpulan situs yang dihapus (termasuk grup, komunikasi, dan situs lainnya)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
+- [Memulihkan kumpulan situs yang dihapus (Termasuk grup, komunikasi, dan situs lain)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [Memulihkan OneDrive yang dihapus](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [Memulihkan OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-- [SharePoint online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+- [SharePoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **Fitur Pemulihan File**
 
-Jika banyak file OneDrive atau SharePoint terhapus, ditimpa, rusak, atau terinfeksi oleh malware, Anda bisa memulihkan seluruh pustaka OneDrive atau SharePoint ke waktu sebelumnya menggunakan fitur Pulihkan file.
+Jika ada banyak file OneDrive atau SharePoint Anda terhapus, ditimpa, rusak, atau terinfeksi oleh malware, Anda dapat memulihkan seluruh pustaka OneDrive atau SharePoint ke versi sebelumnya menggunakan fitur pemulihan file.
 
 - [Memulihkan pustaka OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

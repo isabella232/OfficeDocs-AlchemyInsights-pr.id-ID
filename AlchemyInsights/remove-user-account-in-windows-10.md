@@ -1,5 +1,5 @@
 ---
-title: Menghapus akun pengguna di Windows 10
+title: Hapus akun pengguna di Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094609"
 ---
 # <a name="remove-an-account-in-windows-10"></a>Menghapus akun di Windows 10
 
-Berikut cara menghapus akun dari Windows 10:
+Berikut cara menghapus akun dari akun Windows 10:
 
-1. Masuk ke **Mulai**  >  **Pengaturan**  >  **Akun**  >  **Keluarga & orang lain** **(atau Orang lain**, jika Anda menggunakan Windows 10 Enterprise).
+1. Buka Mulai  >  **Pengaturan**  >  **Keluarga Akun**& orang lain  >  (atau **Orang****lain** , jika Anda menggunakan Windows 10 Enterprise).
 2. Pilih akun yang ingin Anda hapus, pilih **Hapus**, lalu pilih **Hapus akun dan data**.
  
 **Catatan:** Anda tidak bisa menghapus akun yang saat ini Anda masuki.  Jika Anda perlu mengganti akun tempat Anda masuk:
