@@ -1,5 +1,5 @@
 ---
-title: Cara menambahkan atau menghapus delegasi di Mac
+title: Cara menambahkan atau menghapus Delegasi di Mac
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945376"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Cara menambahkan atau menghapus delegasi di Mac
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Cara menambahkan atau menghapus Delegasi di Mac
 
-Lakukan hal berikut ini untuk menambahkan atau menghapus delegasi di Mac:
+Lakukan hal berikut ini untuk menambahkan atau menghapus Delegasi di Mac:
 
-**Cara menambahkan delegasi di Mac**:
+**Cara menambahkan Delegasi di Mac:**
 
-1. Dari menu **alat** , pilih **akun**.
-1. Pilih akun Exchange yang akan Anda gunakan untuk mengakses item yang didelegasikan, klik **tingkat lanjut**, lalu klik **delegasi**.
-1. Di bawah **orang yang saya Delegasikan**, klik **Tambahkan**. .
-1. Ketikkan nama orang yang menambahkan Anda sebagai delegasi.
-1. Pilih nama orang tersebut dalam hasil pencarian, lalu klik **Tambahkan**.
+1. Dari menu **Alat,** pilih **Akun.**
+1. Pilih delegasi Exchange yang akan Anda gunakan untuk mengakses item yang didelegasikan, klik **Tingkat** Lanjut, **lalu klik Delegasi.**
+1. Di **bawah Orang yang mendelegasikan kepada saya,** klik **Tambahkan.** .
+1. Ketik nama orang yang menambahkan Anda sebagai delegasi.
+1. Pilih nama orang tersebut di hasil pencarian, lalu klik **Tambahkan.**
  
-**Cara menghapus delegasi di Mac**:
+**Cara menghapus Delegasi di Mac:**
 
-1. Dari menu **alat** , pilih **akun**.
-1. Pilih akun Exchange yang ingin Anda ubah, klik **tingkat lanjut**, lalu klik * * * * delegasi tab.
-1. Di bawah **orang yang saya Delegasikan untuk**, pilih orang yang ingin Anda Hentikan sebagai delegasi, lalu klik **Hapus**.
+1. Dari menu **Alat,** pilih **Akun.**
+1. Pilih akun Exchange yang ingin Anda ubah, klik **Tingkat** Lanjut, lalu klik tab Delegasi.
+1. Di **bawah Orang yang mendelegasikan** kepada saya, pilih orang yang Anda ingin berhenti menjadi delegasinya, lalu klik **Hapus.**

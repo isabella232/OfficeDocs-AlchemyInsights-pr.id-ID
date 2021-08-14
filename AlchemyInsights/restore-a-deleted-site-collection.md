@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f9a5f78c1a0eae2632fbf7c5132e520847feef415f7b6887d5d7796af720304
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958840"
 ---
 # <a name="restore-a-deleted-site"></a>Memulihkan situs yang dihapus
 
-Saat admin menghapus situs SharePoint, admin ditempatkan di keranjang sampah kumpulan situs, tempat file disimpan selama 93 hari sebelum dihapus secara permanen. Untuk memulihkan situs:
+Bila admin menghapus SharePoint situs, situs itu diletakkan di Keranjang Sampah kumpulan situs, tempat situs itu disimpan selama 93 hari sebelum dihapus secara permanen. Untuk memulihkan situs:
   
-1. Di pusat admin SharePoint baru, klik **keranjang sampah** pada pita. 
+1. Di pusat SharePoint admin baru, klik **Keranjang Sampah** di pita. 
     
-2. Pilih kotak centang di samping kumpulan situs yang ingin Anda Pulihkan.
+2. Pilih kotak centang di samping kumpulan situs yang ingin Anda pulihkan.
     
-3. Klik **Pulihkan Item terhapus**.
+3. Klik **Pulihkan Item Dihapus.**
     
-Untuk memulihkan situs komunikasi yang dihapus, Anda bisa menggunakan pusat admin SharePoint yang baru. Jika tidak, Anda perlu menggunakan Microsoft PowerShell. Untuk memulihkan situs yang termasuk dalam grup Microsoft 365, Anda perlu memulihkan grup di pusat admin Exchange. Grup dapat dipulihkan selama 30 hari setelah dihapus.
+Untuk memulihkan situs komunikasi yang dihapus, Anda dapat menggunakan pusat admin SharePoint baru. Jika tidak, Anda harus menggunakan Microsoft PowerShell. Untuk memulihkan situs milik Microsoft 365 grup, Anda harus memulihkan grup di pusat admin Exchange Mereka. Grup dapat dipulihkan selama 30 hari setelah grup dihapus.
   
 

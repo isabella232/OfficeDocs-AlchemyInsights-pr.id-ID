@@ -1,5 +1,5 @@
 ---
-title: Masalah dengan AAD Connect Health
+title: Masalah dengan AAD Koneksi Kesehatan
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923755"
 ---
-# <a name="problem-with-aad-connect-health"></a>Masalah dengan AAD Connect Health
+# <a name="problem-with-aad-connect-health"></a>Masalah dengan AAD Koneksi Kesehatan
 
-- Pastikan Anda memiliki wewenang untuk melakukan operasi. Admin global memiliki akses secara default. Selain itu, Anda bisa menggunakan [kontrol akses berbasis peran](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) untuk mendelegasikan izin pendaftaran ke kontributor.
+- Pastikan Anda memiliki wewenang untuk melakukan operasi. Admin Global secara default memiliki akses. Selain itu, Anda bisa menggunakan [Kontrol Akses Berbasis Peran](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) untuk mendelegasikan izin pendaftaran ke Kontributor.
 - Pastikan titik akhir yang diperlukan diaktifkan, dan tidak diblokir karena firewall. Untuk detailnya, lihat [persyaratan](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Pendaftaran dapat gagal karena komunikasi keluar menjadi sasaran inspeksi SSL oleh lapisan jaringan.
-- Pastikan Anda telah memverifikasi pengaturan pemberitahuan untuk kesehatan Azure AD Connect. Tinjau pengaturan Anda. [Panduan](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) ini dapat membantu Anda memahami cara mengonfigurasi pengaturan pemberitahuan untuk pemberitahuan kesehatan Azure AD Connect.
-- Untuk mempelajari selengkapnya tentang laporan sinkronisasi kesehatan AAD Connect dan cara mengunduhnya, lihat [laporan tingkat objek sinkronisasi](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Pendaftaran dapat gagal karena komunikasi keluar sedang dikenakan inspeksi SSL oleh lapisan jaringan.
+- Pastikan Anda telah memverifikasi pengaturan pemberitahuan untuk Azure AD Koneksi Health. Silakan tinjau pengaturan Anda. Panduan [ini](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) dapat membantu Anda memahami cara mengonfigurasi pengaturan pemberitahuan untuk Azure AD Koneksi pemberitahuan kesehatan.
+- Untuk mempelajari selengkapnya tentang laporan sinkronisasi AAD Koneksi Kesehatan dan cara mengunduhnya, lihat [Laporan sinkronisasi tingkat objek](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-Untuk memecahkan masalah pemberitahuan kesehatan AAD Connect, ikuti [panduan pemecahan masalah untuk menyambungkan pemberitahuan kesegaran data kesehatan](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) dan tanya jawab umum, lihat [pertanyaan umum tentang penginstalan kesehatan AAD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Untuk memecahkan masalah Koneksi AAD, ikuti panduan pemecahan masalah untuk pemberitahuan [pembaruan data AAD Koneksi](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Kesehatan dan untuk pertanyaan yang sering diajukan, lihat Pertanyaan umum penginstalan [AAD Koneksi Kesehatan.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)

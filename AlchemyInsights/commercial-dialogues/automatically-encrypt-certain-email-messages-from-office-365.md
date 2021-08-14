@@ -1,5 +1,5 @@
 ---
-title: Secara otomatis mengenkripsi pesan email tertentu dari Office 365
+title: Mengenkripsi pesan email tertentu secara otomatis dari office 365
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988838"
 ---
-# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Secara otomatis mengenkripsi pesan email tertentu dari Office 365
+# <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Mengenkripsi pesan email tertentu secara otomatis dari office 365
 
-1. Dari [Pusat admin Exchange](https://outlook.office365.com/ecp/), pilih **aturan > alur email**. 
-2. Klik ikon **baru (+)** , lalu klik **Terapkan enkripsi pesan Office 365 dan perlindungan hak ke pesan**.
-3. Di **nama**, masukkan nama untuk aturan, seperti *Enkripsikan semua pesan*.
-4. Dalam **menerapkan aturan ini**, pilih **[Terapkan ke semua pesan]**. 
-5. Di samping bidang **lakukan berikut** , klik **pilih satu**. 
-6. Di menu turun bawah **Templat RMS** , pilih **Enkripsikan**, lalu klik **OK**. (Jika Anda tidak melihat opsi ini, itu berarti paket Anda tidak menyertakan enkripsi otomatis. Tapi Anda bisa menambahkannya!)
-7. Periksa kotak centang **audit aturan ini dengan tingkat keparahan** , lalu pilih tingkat yang diinginkan. Jika perusahaan Anda memiliki kewajiban kontraktual untuk mengirim semua email terenkripsi, saya menyarankan untuk mengatur tingkat ke **tinggi**.
-8. Di bawah **Pilih model untuk aturan ini**, klik **Terapkan**. 
-9. Pilih pilihan opsional apa pun (dari daftar pilihan opsional yang bisa Anda buat pada saat ini, banyak yang bisa dibiarkan dengan pengaturan default untuk kesederhanaan).
+1. Dari pusat [admin Exchange ,](https://outlook.office365.com/ecp/)pilih aliran email > **email**. 
+2. Klik ikon **Baru (+),** lalu klik Terapkan Enkripsi Pesan Office 365 **dan proteksi hak ke pesan.**
+3. Di **Nama**, masukkan nama untuk aturan, seperti *Enkripsi semua pesan*.
+4. Di **Terapkan aturan ini jika**, pilih **[Terapkan ke semua pesan]**. 
+5. Di samping **Lakukan bidang berikut** ini, klik Pilih salah **satu.** 
+6. Di menu **turun bawah templat RMS,** pilih **Enkripsi,** lalu klik **OK.** (Jika Anda tidak melihat opsi ini, artinya paket Anda tidak menyertakan enkripsi otomatis. Tapi Anda bisa menambahkannya!)
+7. Centang kotak **Audit aturan ini dengan tingkat keparahan,** lalu pilih tingkat yang diinginkan. Jika perusahaan Anda memiliki kewajiban kontraktual untuk mengirim semua email terenkripsi, saya merekomendasikan mengatur tingkatan ke **Tinggi.**
+8. Di **bawah Pilih model untuk aturan ini,** klik **Terapkan.** 
+9. Pilih salah satu pilihan opsional (dari daftar pilihan opsional yang bisa Anda buat pada titik ini, banyak di antaranya yang bisa dibiarkan dengan pengaturan default untuk memudahkan).
 10. Klik **Simpan**.
 
 > [!IMPORTANT]
-> Anda dapat selalu kembali dan mengedit aturan ini nanti.
+> Anda selalu bisa kembali dan mengedit aturan ini nanti.
 
-Untuk informasi selengkapnya tentang membuat aturan untuk enkripsi, lihat [menentukan aturan aliran email untuk mengenkripsi pesan email di Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Untuk informasi selengkapnya tentang membuat aturan enkripsi, lihat [Menentukan aturan alur email untuk mengenkripsi pesan email Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

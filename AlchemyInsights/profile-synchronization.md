@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923647"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kapan profil saya berubah sinkronisasi ke aplikasi profil pengguna SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kapan perubahan profil saya disinkronkan ke SharePoint Profil Pengguna saya?
 
-SharePoint Online menggunakan pekerjaan timer impor direktori aktif (impor iklan) untuk mengimpor pengguna dan grup ke dalam aplikasi profil pengguna. 
+SharePoint Online menggunakan pekerjaan pengatur waktu Impor Direktori Aktif (Impor AD) untuk mengimpor pengguna dan grup ke dalam Aplikasi Profil Pengguna. 
   
-1. Impor AD menyinkronkan perubahan dari Bursa direktori SharePoint online ke aplikasi profil pengguna. Perubahan ini diproses dalam batch.
+1. Impor AD menyinkronkan perubahan dari SharePoint Online Directory Store ke Aplikasi Profil Pengguna. Perubahan ini diproses dalam kumpulan.
     
-2. Pekerjaan timer berjalan hingga perubahan disinkronkan.
+2. Pekerjaan pengatur waktu berjalan hingga perubahan disinkronkan.
     
 > [!NOTE]
-> Waktu yang diperlukan pekerjaan yang dijalankan bergantung pada jumlah perubahan yang akan diproses. Sejumlah besar perubahan memakan waktu lebih lama. Perjanjian tingkat layanan (SLA) menyatakan bahwa perubahan kepada pengguna di direktori SharePoint online akan tercermin dalam aplikasi profil pengguna dalam 24 jam. 
+> Waktu yang dibutuhkan untuk menjalankan pekerjaan bergantung pada jumlah perubahan yang diproses. Perubahan dalam jumlah besar membutuhkan waktu lebih lama. Perjanjian Tingkat Layanan (SLA, Service Level Agreement) menyatakan bahwa perubahan untuk pengguna di Direktori SharePoint Online akan dicerminkan dalam Aplikasi Profil Pengguna dalam 24 jam. 
   
-[Informasi selengkapnya tentang sinkronisasi profil pengguna di SharePoint online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Info selengkapnya tentang sinkronisasi profil pengguna di SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

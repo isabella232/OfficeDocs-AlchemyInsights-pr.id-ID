@@ -1,5 +1,5 @@
 ---
-title: Menyiapkan proyek
+title: Menyiapkan Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Targetkan tidak lebih dari 500 kata untuk sebuah artikel.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Satu artikel hanya berisi 500 kata.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958012"
 ---
-# <a name="setting-up-project"></a>Menyiapkan proyek
+# <a name="setting-up-project"></a>Menyiapkan Project
 
- Untuk menyiapkan Microsoft Project, ikuti langkah-langkah dalam [artikel ini](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Untuk menyetel Microsoft Project, ikuti langkah-langkah dalam [artikel ini](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
 
-**Pemberitahuan untuk pengguna Mac:** Produk proyek tidak tersedia untuk MacOS saat ini. 
+**Pemberitahuan untuk pengguna Mac:** Produk Project tersebut belum tersedia untuk MacOS saat ini. 
   
-Jika Anda mengalami kesalahan selama penyetelan, [Instal Project menggunakan Asisten dukungan dan pemulihan](https://aka.ms/SaRA-ProjectSetupScenario).
+Jika Anda menemukan kesalahan selama penyetelan, [instal Project menggunakan Asisten Dukungan dan Pemulihan](https://aka.ms/SaRA-ProjectSetupScenario).
