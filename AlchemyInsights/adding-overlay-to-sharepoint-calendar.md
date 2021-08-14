@@ -1,5 +1,5 @@
 ---
-title: Menambahkan Overlay ke kalender SharePoint
+title: Menambahkan Overlay ke SharePoint kalender
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953019"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Menambahkan Overlay ke kalender SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Menambahkan Overlay ke SharePoint kalender
 
-Kalender SharePoint adalah tipe daftar klasik yang terkadang membingungkan dengan Kalender Grup Microsoft 365.
+SharePoint Kalender adalah tipe daftar klasik yang terkadang membingungkan dengan Microsoft 365 Grup Baru.
  
-Jika Anda menggunakan kalender SharePoint di situs Anda, Anda bisa menyapukan kalender Exchange Anda sendiri ke kalender tersebut untuk membuat tampilan kalender gabungan. Alternatifnya, Anda bisa menyapukan kalender SharePoint lain selama kedua kalender SharePoint berada dalam kumpulan situs yang sama.
+Jika Anda menggunakan kalender SharePoint di situs Anda, Anda bisa overlay kalender Exchange Anda sendiri ke dalamnya untuk membuat tampilan kalender gabungan. Alternatifnya, Anda bisa menyapukan kalender SharePoint lain selama SharePoint kalender tersebut berada dalam kumpulan situs yang sama.
  
-Untuk menambahkan Overlay ke kalender SharePoint klasik, ikuti langkah-langkah di Overlay [kalender SharePoint dengan kalender dari Exchange atau SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Untuk menambahkan Overlay ke kalender SharePoint klasik, ikuti langkah-langkah dalam Overlay kalender SharePoint dengan kalender dari [Exchange atau SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).

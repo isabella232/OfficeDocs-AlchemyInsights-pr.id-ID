@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953116"
 ---
 # <a name="adding-members-to-private-channels"></a>Menambahkan anggota ke saluran pribadi
 
-Pemilik saluran privat adalah seseorang yang membuat saluran pribadi dan orang ini hanya memiliki hak istimewa untuk menambahkan atau menghapus orang secara langsung darinya. Pemilik saluran privat bisa menambahkan anggota tim apa pun ke saluran privat yang mereka buat, termasuk tamu.
+Pemilik saluran pribadi adalah pemilik saluran pribadi yang membuat saluran pribadi dan orang ini hanya memiliki hak istimewa untuk langsung menambahkan atau menghapus orang-orang dari saluran tersebut. Pemilik saluran pribadi dapat menambahkan anggota tim ke saluran pribadi yang mereka buat, termasuk tamu.
 
-Pemilik tim bisa melihat nama semua saluran pribadi dalam timnya dan juga dapat menghapus saluran privat apa pun di tim (saluran privat yang dihapus bisa dipulihkan dalam 30 hari setelah dihapus.). Pemilik tim tidak bisa melihat file dalam saluran pribadi atau percakapan dan daftar anggota saluran privat kecuali mereka adalah anggota dari saluran pribadi tersebut.
+Pemilik tim dapat melihat nama semua saluran pribadi di tim mereka dan juga dapat menghapus semua saluran pribadi dalam tim (Saluran privat yang dihapus dapat dipulihkan dalam 30 hari setelah dihapus.). Pemilik tim tidak dapat melihat file di saluran pribadi atau daftar percakapan dan anggota saluran pribadi kecuali mereka adalah anggota dari saluran pribadi tersebut.
 
-Anggota tim hanya dapat melihat saluran pribadi yang telah ditambahkan.
+Anggota tim hanya dapat melihat saluran pribadi tempat mereka ditambahkan.
 
-Untuk informasi selengkapnya, lihat [menambahkan dan menghapus pemilik dan anggota](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) dari saluran pribadi.
+Untuk informasi selengkapnya, lihat [Menambahkan dan menghapus pemilik dan anggota](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) dari saluran pribadi.

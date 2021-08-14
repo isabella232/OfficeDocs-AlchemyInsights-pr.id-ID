@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985472"
 ---
 # <a name="onboarding-microsoft-defender-atp"></a>ATP Pertahanan Microsoft Onboarding
 
-Agar sumber daya dapat digunakan ATP Pertahanan Microsoft di Windows 10, Windows server, serta komputer Mac dan Linux, lihat: 
+Untuk sumber daya ke ATP Pertahanan Microsoft untuk Windows 10, server Windows, serta mesin Mac dan Linux, lihat: 
 
 - **Windows 10 komputer** Tergantung pada persyaratan bisnis, Anda dapat memilih opsi untuk menggunakan komputer yang menjalankan Windows 10. Untuk informasi selengkapnya, lihat [Alat dan metode onboarding untuk Windows 10 saya](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
 
-- **Windows baru** Untuk ATP Pertahanan Microsoft onboard untuk versi Server Windows Anda, lihat [Server onboard ke layanan ATP Pertahanan Microsoft](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows baru** Untuk onboard AtP Pertahanan Microsoft untuk versi Windows Server, lihat [Server Onboard ke layanan ATP Pertahanan Microsoft.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
 - **Titik akhir Windows non-Windows**  Sebelum menggunakan sistem non-Windows, Anda harus memenuhi persyaratan sistem untuk [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) atau [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 

@@ -1,5 +1,5 @@
 ---
-title: Layanan transfer-memindahkan semua layanan RDFE ke langganan lain
+title: Layanan Transfer - Memindahkan semua layanan RDFE ke langganan lain
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940062"
 ---
-# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Layanan transfer-memindahkan semua layanan RDFE ke langganan lain
+# <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Layanan Transfer - Memindahkan semua layanan RDFE ke langganan lain
 
-**Memindahkan sumber daya**
+**Pindahkan sumber daya**
 
-Sumber daya Azure dapat dipindahkan ke langganan atau sumber daya lain Azure di bawah langganan yang sama menggunakan Azure portal, Azure PowerShell, Azure CLI, atau REST API untuk memindahkan sumber daya.
+Sumber daya Azure dapat dipindahkan ke langganan Azure atau grup sumber daya lain dalam langganan yang sama menggunakan portal Azure, Azure PowerShell, Azure CLI, atau API REST untuk memindahkan sumber daya.
 
 Sebelum Anda bisa memindahkan sumber daya, lihat:
 
-- [Checklist sebelum memindahkan sumber daya](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
+- [Daftar Periksa sebelum memindahkan sumber daya](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
 - [Layanan yang bisa dipindahkan](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Cara memvalidasi perpindahan](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Memindahkan panduan untuk Layanan](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Cara memvalidasi pemindahan](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
+- [Panduan pemindahan untuk layanan](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Untuk memindahkan sumber daya yang sudah ada ke grup atau langganan sumber daya lain, Anda bisa menggunakan:
+Untuk memindahkan sumber daya yang sudah ada ke grup atau langganan sumber daya lain, Anda dapat menggunakan:
 
 - [Portal Azure](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
-- [CLI Azure](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
-- [API REST](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
+- [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
+- [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Tutorial: [memindahkan sumber daya Azure ke grup atau langganan sumber daya lain](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Tutorial: [Memindahkan sumber daya Azure ke grup atau langganan sumber daya lain](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
-**Memecahkan masalah kesalahan dengan manajer sumber daya Azure**
+**Memecahkan masalah kesalahan dengan Azure Resource Manager**
 
-Lihat artikel di bawah ini untuk mempelajari tentang beberapa kesalahan penyebaran Azure Umum dan menerima informasi untuk mengatasinya. Jika tidak dapat menemukan kode kesalahan untuk penyebaran kesalahan, lihat [menemukan kode kesalahan](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+Lihat artikel di bawah ini untuk mempelajari tentang beberapa kesalahan umum penyebaran Azure dan menerima informasi untuk mengatasinya. Jika tidak dapat menemukan kode kesalahan untuk kesalahan penyebaran, lihat [Menemukan kode kesalahan.](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code)
 
-- [Memecahkan masalah kesalahan penyebaran](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Memecahkan masalah pemindahan sumber daya Azure ke grup sumber daya atau langganan baru](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Memecahkan masalah kesalahan penggunaan](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
+- [Memecahkan masalah pemindahan sumber daya Azure ke grup atau langganan sumber daya baru](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Perhatikan bahwa jika Anda ingin memutakhirkan langganan Azure, seperti beralih dari gratis ke prabayar, Anda perlu mengonversi langganan Anda.
+Perlu diperhatikan bahwa jika ingin memutakhirkan langganan Azure, seperti beralih dari gratis ke layanan berbayar saat Anda bepergian, Anda perlu mengonversi langganan.
 
-- Untuk memutakhirkan uji coba gratis, lihat [memutakhirkan uji coba gratis atau langganan Microsoft Imagine Azure untuk membayar sesuai](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)permintaan.
-- Untuk mengubah akun prabayar, lihat [mengubah langganan Azure Pay-As-You-Go ke Penawaran yang berbeda](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
+- Untuk memutakhirkan uji coba gratis, lihat Mutakhirkan Uji Coba Gratis atau langganan [Microsoft Imagine Azure ke Bayar-Saat-Anda-Masuk.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)
+- Untuk mengubah akun berbayar saat Anda menggunakan, lihat Mengubah langganan [Azure Pay-As-You-Go ke penawaran lain.](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer)
 
-**Untuk menambahkan atau mengaitkan langganan Azure ke penyewa direktori aktif Azure Anda:**
+**Untuk menambahkan atau mengaitkan langganan Azure ke penyewa Azure Active Directory Anda:**
 
-1. Masuk dan pilih langganan yang ingin Anda gunakan dari [halaman langganan di Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Pilih **Ubah direktori**.
-3. Tinjau peringatan apa pun yang muncul, lalu pilih **Ubah**.
-4. Direktori diubah untuk langganan dan Anda akan mendapatkan pesan yang berhasil.
-5. Gunakan pengalih *direktori* untuk masuk ke direktori baru Anda. Mungkin butuh waktu hingga 10 menit agar semuanya muncul dengan benar.
+1. Masuk dan pilih langganan yang ingin Anda gunakan dari [halaman Langganan di portal Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. Pilih **Ubah direktori.**
+3. Tinjau peringatan yang muncul, lalu pilih **Ubah**.
+4. Direktori diubah untuk langganan dan Anda akan mendapatkan pesan berhasil.
+5. Gunakan *pengalih* Direktori untuk masuk ke direktori baru Anda. Mungkin membutuhkan waktu hingga 10 menit agar semuanya muncul dengan benar.
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang Disarankan**
 
 - [Mentransfer kepemilikan langganan Azure](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Memindahkan sumber daya ke grup sumber daya atau langganan baru](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Mengelola sumber daya menggunakan Azure portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Memindahkan sumber daya ke grup atau langganan sumber daya baru](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Mengelola sumber daya menggunakan portal Azure](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)

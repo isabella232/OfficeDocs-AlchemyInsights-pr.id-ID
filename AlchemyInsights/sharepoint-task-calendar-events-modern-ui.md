@@ -1,5 +1,5 @@
 ---
-title: Daftar tugas dan acara kalender di UI modern
+title: Daftar Acara Tugas dan Kalender di UI Modern
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "2627"
-ms.openlocfilehash: d8b6382c1d9f05e981842bce95f0e5b61d2b7434
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f229837492d9ed8ca6f28e1dc4bc01f5ebec30438a868c1c9c25640e4003ccc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941335"
 ---
-# <a name="task-and-calendar-event-list-in-modern-ui"></a>Daftar tugas dan acara kalender di UI modern
+# <a name="task-and-calendar-event-list-in-modern-ui"></a>Daftar Acara Tugas dan Kalender di UI Modern
 
-Anda mungkin melihat kesalahan di tampilan "judul" seperti `< ID >_.000` pada daftar tugas dan acara saat mencoba menampilkannya dalam tampilan modern.
+Anda mungkin melihat kesalahan dalam tampilan "Judul" seperti dalam daftar TUGAS dan `< ID >_.000` ACARA ketika mencoba menyajikannya dalam Tampilan Modern.
 
-Tipe daftar dan pustaka tertentu belum dibuat untuk ditampilkan dalam antarmuka pengguna modern seperti daftar tugas atau daftar acara.
+Tipe daftar dan pustaka tertentu belum dibuat untuk muncul dalam antarmuka pengguna modern seperti Daftar tugas atau Daftar acara.
 
-Salah satu item prioritas untuk kami adalah mendukung daftar tugas dan acara sebagai bagian dari UX modern. Namun kami tidak memiliki ETA untuk dukungan ini, jadi silakan lanjutkan menggunakan pengalaman klasik untuk daftar ini.
+Salah satu item prioritas bagi kami adalah mendukung daftar TASK dan EVENT sebagai bagian dari UX modern. Namun kami tidak memiliki ETA untuk dukungan ini, jadi silakan terus menggunakan pengalaman klasik untuk daftar ini.
 
-Untuk informasi selengkapnya, kunjungi [Maksimalkan penggunaan daftar dan pustaka modern](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+Untuk informasi selengkapnya, kunjungi [Memaksimalkan penggunaan daftar dan pustaka modern.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)

@@ -1,5 +1,5 @@
 ---
-title: Membuat tanda tangan email di Outlook di web
+title: Membuat tanda tangan email Outlook di web
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: e0df3bb3ed1ca61b34133814332f643c280a2251
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177553"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965536"
 ---
-# <a name="create-email-signature-in-outlook-on-the-web"></a>Membuat tanda tangan email di Outlook di web
+# <a name="create-email-signature-in-outlook-on-the-web"></a>Membuat tanda tangan email Outlook di web
 
 1. Masuk ke Outlook di web.
-2. Di bilah navigasi atas, pilih **pengaturan**  >  **email**.
-3. Di panel **opsi** , di bawah **email**, pilih   >  **tanda tangan email** tata letak.
-4. Dalam kotak teks, ketikkan tanda tangan Anda dan gunakan opsi pemformatan yang tersedia untuk mengubah tampilannya.
+2. Pada bilah navigasi atas, pilih **Pengaturan**  >  **Email**.
+3. Di panel **Opsi,** di bawah **Email, pilih Tata** **Letak** Tanda  >  **tangan Email.**
+4. Dalam kotak teks, ketikkan tanda tangan Anda, lalu gunakan opsi pemformatan yang tersedia untuk mengubah tampilannya.
 
     > [!TIP]
-    > Menyisipkan file gambar (misalnya, dalam format. gif atau. jpg) untuk tanda tangan Anda tidak didukung, tapi Anda bisa menyalin gambar dari halaman web dan menempelkannya ke dalam kotak tanda tangan.
+    > Menyisipkan file gambar (misalnya, dalam format .gif atau .jpg) untuk tanda tangan tidak didukung, tapi Anda bisa menyalin gambar dari halaman web dan menempelkannya ke dalam kotak tanda tangan.
 
-5. Jika Anda ingin tanda tangan Anda ditampilkan di bagian bawah semua pesan email keluar, termasuk Balasan dan penerusan, pilih **sertakan tanda tangan saya secara otomatis pada pesan baru yang saya tulis**.
+5. Jika Anda menginginkan tanda tangan Anda ditampilkan di bagian bawah semua pesan email keluar, termasuk balasan dan penerusan, pilih Sertakan tanda tangan saya secara otomatis pada pesan **baru yang saya buat**.
 6. Klik **Simpan**.
