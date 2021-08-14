@@ -1,5 +1,5 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 Layanan tidak tersedia. Akses ditolak, Traffic tidak diterima dari IP ini
+title: 1047 AntiSpam 550 5.7.708 Layanan tidak tersedia. Access denied, traffic not accepted from this IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cca7f38a38c28216371ac6d034d1f00870e814a48b5552edbc58f4faf871ac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932136"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Access ditolak, Traffic tidak diterima dari IP ini
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Access denied, traffic not accepted from this IP
 
-Kesalahan ini terjadi saat mengirim email dari alamat IP reputasi rendah yang umum dan biasanya digunakan oleh pelanggan baru.
+Kesalahan ini terjadi saat mengirimkan email dari alamat IP dikenal dengan reputasi rendah yang biasanya digunakan oleh pelanggan baru.
 
-Jika Anda harus mengirim email dari alamat IP ini sebelum Anda bisa membeli lisensi, hubungi dukungan untuk meminta pengecualian hingga Anda dapat membeli lisensi.
+Jika anda harus mengirim email dari alamat IP ini sebelum bisa membeli lisensi, hubungi dukungan untuk meminta pengecualian hingga Anda bisa membeli lisensi.

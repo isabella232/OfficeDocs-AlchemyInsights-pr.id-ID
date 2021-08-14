@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975860"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Menggunakan Microsoft Intune untuk mengelola akses web di Microsoft Edge untuk iOS dan Android
 
-Microsoft Edge untuk iOS dan Android memungkinkan pengguna menelusuri web dari beberapa profil yang sepenuhnya terpisah.
+Microsoft Edge untuk iOS dan Android memungkinkan pengguna menelusuri web dari beberapa profil yang benar-benar terpisah.
 
-Kemampuan perlindungan terluas untuk data Microsoft 365 akan tersedia saat Anda berlangganan perangkat Enterprise Mobility + Security, yang mencakup fitur Microsoft Intune dan Azure Active Directory Premium, seperti akses bersyarat. Setidaknya, Anda perlu menerapkan kebijakan akses kondisional yang (1) memungkinkan pengguna untuk terhubung dari perangkat seluler ke Microsoft Edge untuk iOS dan Android, serta (2) menerapkan kebijakan perlindungan aplikasi Microsoft Intune yang menyediakan pengalaman penelusuran yang dilindungi.
+Kapabilitas perlindungan terluas untuk data Microsoft 365 akan tersedia saat Anda berlangganan ke perangkat Enterprise Mobility + Security, yang mencakup Microsoft Intune dan Azure Active Directory Premium pengguna, seperti akses bersyarat. Setidaknya, Anda perlu menerapkan kebijakan akses bersyarat yang (1) memungkinkan pengguna untuk tersambung dari perangkat seluler ke Microsoft Edge untuk iOS dan Android, dan hal itu (2) menerapkan kebijakan proteksi aplikasi Microsoft Intune yang menyediakan pengalaman penelusuran yang diproteksi.
 
 Untuk memahami cara menggunakan akses dan kebijakan bersyarat, lihat:
 
-[Menerapkan kebijakan akses kondisional Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Menerapkan Azure Active Directory akses kondisional](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Membuat kebijakan perlindungan aplikasi Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Membuat Microsoft Intune proteksi aplikasi](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Menggunakan akses tunggal untuk aplikasi web Azure Active Directory yang tersambung dengan kebijakan di browser yang dilindungi kebijakan](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Gunakan masuk tunggal untuk aplikasi web Azure Active Directory tersambung dengan kebijakan dalam browser yang dilindungi kebijakan](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Menggunakan konfigurasi aplikasi untuk mengelola pengalaman penelusuran](https://go.microsoft.com/fwlink/?linkid=2132483)
 

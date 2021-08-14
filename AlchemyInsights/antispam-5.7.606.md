@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 296ff78d6e285ed31f1fd3268b9078a2ffffc3515a59f367685d054fc76bcc4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821378"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932208"
 ---
 # <a name="banned-sending-ip"></a>Banned sending IP
 
-Saat mengirim ke penerima Office 365, pengirim mungkin mengalami kesalahan ini. Pengirim harus mengunjungi [Portal Delist IP Anti-Spam Office 365](https://sender.office.com/) dan memberikan alamat IP dan alamat email mereka yang harus dipisahkan. Jika mereka tidak menerima email verifikasi dari portal, pastikan mereka memeriksa folder spam dan/atau mencoba dengan alamat email berbeda. 
+Saat mengirim ke Office 365 penerima, pengirim mungkin mengalami kesalahan ini. Pengirim harus mengunjungi [Portal Office 365 IP Anti-Spam](https://sender.office.com/) dan memberikan alamat IP mereka yang harus dipisahkan. Jika mereka tidak menerima email verifikasi dari portal, pastikan mereka memeriksa folder spam dan/atau mencoba dengan alamat email berbeda. 
 
 - Untuk instruksi mendetail, lihat [Menggunakan portal hapus daftar untuk menghapus diri Anda sendiri dari daftar pengirim yang diblokir](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).

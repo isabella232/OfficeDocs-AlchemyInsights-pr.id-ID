@@ -1,5 +1,5 @@
 ---
-title: 'Aplikasi Azure V 1.2-fase 7: rilis prod dan tindak lanjut bot'
+title: 'Azure Apps V1.2 - Fase 7: Rilis pro dan tindak lanjut - Bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009935"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Aplikasi Azure V 1.2-fase 7: rilis prod dan tindak lanjut bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 - Fase 7: Rilis pro dan tindak lanjut - Bot
 
-[Panduan Integrasi aplikasi pihak ketiga](https://admin.microsoft.com/AdminPortal/Home) akan membantu Anda menjalankan tugas berikut: 
-- Integrasi aplikasi Cloud pihak ketiga Anda dengan Azure AD, 
+Panduan [integrasi aplikasi pihak ketiga akan](https://admin.microsoft.com/AdminPortal/Home) membantu Anda menjalankan tugas-tugas berikut: 
+- Integrasikan aplikasi awan pihak ketiga Dengan Azure AD, 
 - Konfigurasi opsi masuk terbaik untuk organisasi Anda.
 
-Dengan mengintegrasikan aplikasi Anda dan mengonfigurasi masuk tunggal, Anda akan menyederhanakan akses dengan memungkinkan pengguna meluncurkan aplikasi dari dalam portal **aplikasi saya** di Office 365. Penyederhanaan akses ini akan mengurangi jumlah perintah masuk atau menghapusnya sama sekali.
+Dengan mengintegrasikan aplikasi dan mengonfigurasi akses masuk tunggal, Anda akan menyederhanakan akses dengan memungkinkan pengguna untuk meluncurkan aplikasi dari **dalam** portal Aplikasi Saya di Office 365. Penyederhanaan akses ini akan mengurangi jumlah perintah masuk atau menghilangkannya secara bersamaan.
