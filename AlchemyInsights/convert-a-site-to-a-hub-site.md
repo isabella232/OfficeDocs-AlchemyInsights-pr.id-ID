@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929812"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Membuat situs hub SharePoint
+# <a name="create-a-sharepoint-hub-site"></a>Membuat situs SharePoint hub
 
-1. Di pusat admin SharePoint yang baru, di bawah **situs**, klik **situs aktif**.
+1. Di pusat admin SharePoint baru, di bawah **Situs,** klik **Situs aktif.**
 
-2. Pilih situs yang ingin Anda jadikan situs hub, klik **situs hub**, lalu klik **Daftar sebagai situs hub**.
+2. Pilih situs yang Anda inginkan menjadi situs hub, klik **Situs hub,** lalu klik **Daftar sebagai situs hub.**
 
-3. Masukkan nama tampilan untuk situs hub dan tentukan masing-masing pengguna atau grup keamanan yang ingin Anda Izinkan untuk mengaitkan situs dengan hub.
+3. Masukkan nama tampilan untuk situs hub dan tentukan masing-masing pengguna atau grup keamanan yang ingin Anda izinkan untuk mengaitkan situs dengan hub.
 
     > [!NOTE]
-    >  Kami menyarankan agar Anda memilih situs komunikasi, atau situs tim yang menggunakan templat baru. Jika Anda menggunakan situs tim klasik, navigasi hub hanya akan muncul di halaman modern, dan pengaturan situs hub hanya akan muncul di halaman modern. Situs yang sudah terkait dengan hub lain tidak dapat didaftarkan sebagai situs hub.
+    >  Kami menyarankan agar Anda memilih situs komunikasi, atau situs tim yang menggunakan templat baru. Jika Anda menggunakan situs tim klasik, navigasi hub hanya akan muncul pada halaman modern, dan pengaturan situs hub hanya akan muncul pada halaman modern. Situs yang sudah terkait dengan hub lain tidak bisa didaftarkan sebagai situs hub.
   
 [Pelajari selengkapnya tentang situs hub](https://go.microsoft.com/fwlink/?linkid=869149)
   

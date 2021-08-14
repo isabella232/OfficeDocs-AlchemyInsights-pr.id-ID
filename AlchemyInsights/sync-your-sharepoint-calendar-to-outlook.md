@@ -1,5 +1,5 @@
 ---
-title: Menyinkronkan kalender SharePoint Anda ke Outlook
+title: Menyinkronkan Kalender SharePoint Anda ke Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008882"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Masalah sinkronisasi kalender Anda ke perangkat
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Masalah saat menyinkronkan kalender ke perangkat
 
-Kalender SharePoint adalah tipe daftar klasik yang terkadang membingungkan dengan kalender grup Microsoft 365.
+SharePoint Kalender adalah tipe daftar klasik yang terkadang membingungkan dengan Microsoft 365 Grup Baru.
 
-Untuk menyinkronkan kalender SharePoint ke Outlook, ikuti langkah-langkah berikut:
+Untuk menyinkronkan kalender SharePoint ke Outlook, ikuti langkah-langkah ini:
 
-1. Klik ikon gerigi **pengaturan** , lalu klik **konten situs**.
-2. Buka kalender yang ingin Anda sinkronkan (yang merupakan tipe daftar acara).
-3. Di menu pita klasik, klik **kalender**, lalu klik **Sambungkan ke Outlook**.
-4. Dalam pop-up yang meminta Anda untuk mengonfirmasi sinkronisasi, klik **Perbolehkan**.
+1. Klik ikon **Pengaturan** lalu klik **Konten Situs.**
+2. Buka kalender yang ingin Anda sinkronkan (yang merupakan tipe daftar Acara).
+3. Di menu pita klasik, klik **Kalender**, lalu klik **Koneksi untuk Outlook**.
+4. Di pop-up yang meminta Anda untuk mengonfirmasi sinkronisasi, klik **Perbolehkan.**
 
 >[!Note]
-> Saat Anda membuat perubahan dalam kalender Outlook yang disinkronkan, maka akan muncul di kalender SharePoint dan sebaliknya.
+> Saat Anda membuat perubahan di kalender kalender Outlook, perubahan akan muncul di kalender SharePoint sebaliknya.
 
-Untuk informasi selengkapnya tentang grup Microsoft 365, lihat [artikel](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)ini.
+Untuk informasi selengkapnya tentang Microsoft 365 Grup, lihat artikel [ini](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

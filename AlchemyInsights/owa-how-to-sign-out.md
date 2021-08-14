@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063163"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>Cara keluar dari Outlook di web
 
-Untuk keluar dari Outlook di web **, pilih nama**atau gambar Anda di sudut kanan atas, lalu pilih keluar.
+Untuk keluar dari Outlook di web, pilih nama atau gambar Anda di sudut kanan atas **dan pilih Keluar**.
 
-Untuk berhenti masuk secara otomatis ke akun kantor atau sekolah Anda:
+Untuk berhenti masuk secara otomatis ke akun kerja atau sekolah Anda:
 
-1. Pilih nama atau gambar Anda, lalu pilih **keluar**.
-1. Masuk ke [Outlook.Office.com](https://outlook.office.com/) dan pilih **gunakan akun lain**.
+1. Pilih nama atau foto Anda dan **pilih Keluar**.
+1. Masuk ke [Outlook.office.com](https://outlook.office.com/) lalu pilih **Gunakan akun lain**.
 1. Masuk dengan alamat email yang ingin Anda gunakan.
 
-Untuk mempelajari selengkapnya, lihat [cara masuk atau keluar dari Outlook di web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Untuk mempelajari selengkapnya, [lihat Cara masuk ke atau keluar dari Outlook di web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

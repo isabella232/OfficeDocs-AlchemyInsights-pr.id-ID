@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki aturan alamat pengirim/daftar domain
+title: Memperbaiki Alamat Pengirim daftar Domain/Domain
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746744"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930028"
 ---
-# <a name="fix-sender-addressdomain-list-rules"></a>Memperbaiki aturan alamat pengirim/daftar domain
+# <a name="fix-sender-addressdomain-list-rules"></a>Memperbaiki Alamat Pengirim daftar Domain/Domain
 
-Kebijakan anti spam di penyewa Anda mempengaruhi pesan ini. Pengirim pesan ditemukan dalam daftar Izinkan atau Blokir. Untuk meninjau kebijakan, lakukan hal berikut:
+Kebijakan anti spam di penyewa Anda memengaruhi pesan ini. Pengirim pesan ditemukan dalam daftar Perbolehkan atau Blokir. Untuk meninjau kebijakan, lakukan hal berikut:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), lalu masuk ke kebijakan **manajemen ancaman**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pada tab **standar** , jika **pengaturan standar** diaktifkan, centang kotak **Perbolehkan** dan **blokir** daftar.
-3. Pada tab **kustom** , jika **pengaturan kustom** diaktifkan, Tinjau kebijakan dengan memilih **Edit kebijakan** dan centang kotak **Izinkan daftar** dan **blokir**.
+1. Masuk ke [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Pada tab **Standar,** jika **pengaturan Standar** diaktifkan, centang daftar **Perbolehkan daftar** dan Blokir **daftar.**
+3. Pada tab **Kustom,** jika **pengaturan Kustom** diaktifkan, tinjau kebijakan dengan memilih Edit kebijakan **dan** mencentang daftar Perbolehkan daftar dan **Blokir.** 
 
-Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [mengonfigurasi kebijakan filter spam Anda](https://go.microsoft.com/fwlink/?linkid=2101431).
+Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [Mengonfigurasi kebijakan filter spam Anda](https://go.microsoft.com/fwlink/?linkid=2101431).

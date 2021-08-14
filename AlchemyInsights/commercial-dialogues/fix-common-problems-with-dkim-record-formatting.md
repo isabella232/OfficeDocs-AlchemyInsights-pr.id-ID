@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 0a59ca1c93121cb4681c0d44b85a9b756c07895b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930064"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>Memperbaiki masalah umum dengan pemformatan rekaman DKIM
 
-Sebagian besar masalah penyiapan DKIM terkait dengan catatan DNS yang tidak benar.
+Sebagian besar masalah pengaturan DKIM terkait dengan catatan DNS yang tidak benar.
 
-Untuk memperbaiki masalah penyetelan DKIM, verifikasi bahwa catatan CNAME DKIM (**bukan** rekaman txt) diformat dengan benar. Untuk informasi selengkapnya, lihat [apa yang perlu Anda lakukan untuk menyetel DKIM secara manual di Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+Untuk memperbaiki masalah pengaturan DKIM, verifikasi bahwa catatan DKIM CNAME (**bukan rekaman** TXT) telah diformat dengan benar. Untuk informasi selengkapnya, lihat [Apa yang perlu Anda lakukan untuk menyiapkan DKIM secara Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
 
-Jika Anda memerlukan bantuan dengan catatan DNS secara umum, lihat [membuat catatan DNS di penyedia hosting DNS untuk Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Jika Anda membutuhkan bantuan dengan catatan DNS secara umum, lihat [Membuat catatan DNS di penyedia hosting DNS apa pun untuk Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
 > [!NOTE]
-> Setelah Anda membuat atau memperbarui catatan DNS DKIM Anda di layanan hosting DNS untuk domain Anda, Anda harus menunggu catatan DNS untuk disebarkan.
+> Setelah membuat atau memperbarui catatan DNS DKIM di layanan hosting DNS untuk domain, Tunggu hingga catatan DNS dis propagate.
