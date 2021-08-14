@@ -1,5 +1,5 @@
 ---
-title: '8000016: cara menghapus folder'
+title: '8000016: Cara menghapus folder'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,18 +14,18 @@ ms.custom:
 - "8000016"
 - "2004"
 ms.assetid: ''
-ms.openlocfilehash: 7b53932df90e66cc2cee6482342100d7c7df01b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36eef08dc4706fabd068d63710e944eafd14b24a0913d9408496cffd2d0b0ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063235"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Cara menghapus folder dalam Outlook di web
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Cara menghapus folder di Outlook di web
 
-1. Di panel folder, klik kanan folder atau subfolder yang ingin Anda hapus.
+1. Di panel folder, klik kanan folder atau subfolder yang ingin dihapus.
 2. Pilih **Hapus folder**.
 3. Pilih **OK** untuk mengonfirmasi.
 
-Untuk mempelajari selengkapnya, lihat [bekerja dengan folder pesan di Outlook di web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Untuk mempelajari selengkapnya, lihat [Bekerja dengan folder pesan Outlook di web](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

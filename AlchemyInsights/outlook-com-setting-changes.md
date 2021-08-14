@@ -1,5 +1,5 @@
 ---
-title: Pengaturan Outlook.com
+title: Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 953bb7feec3099e7125c41b7177057ff40efa5be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0fa87db304c2935f60848bf69c0fcc2217ac4414abd53718f418785e8804c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095257"
 ---
 # <a name="settings-in-outlookcom"></a>Pengaturan di Outlook.com
 
-Jika Penerima adalah internal atau eksternal untuk organisasi Anda dan jika mereka menggunakan akun email Office 365 atau Outlook.com, klien berikut ini seharusnya tidak harus melakukan sesuatu yang spesial untuk membuka pesan: **outlook 2016, Outlook di Web/Outlook Web App, aplikasi seluler** Outlook
+Jika penerima ber merupakan internal atau eksternal untuk organisasi Anda DAN jika mereka menggunakan akun email Office 365 atau Outlook.com, klien berikut ini tidak harus melakukan apa pun untuk membuka pesan: **Outlook 2016, Outlook di web / Outlook Web App, Outlook aplikasi seluler**
 
-**Delegasi** pengguna yang mengproteksi email dikirim ke, tidak dapat membuka pesan yang diproteksi. Hanya Penerima asli (orang yang mengproteksi email yang dikirim ke) yang bisa menampilkan informasi dalam email.
+**Delegasi pengguna** yang mengirimkan email yang diproteksi, tidak dapat membuka pesan yang diproteksi. Hanya penerima asli (orang yang mengirimkan email dilindungi) yang bisa menampilkan informasi dalam email.
 
-- Jika Penerima berada di penyedia layanan Internet lain dan mereka &nbsp; tidak dapat membuka pesan dan melihat lampiran ' rpmsg ', ikuti instruksi di bawah ini:
+- Jika penerima berada di penyedia layanan internet lain dan mereka tidak dapat membuka pesan dan melihat lampiran &nbsp; 'rpmsg', ikuti instruksi di bawah ini:
     
     - Pilih **Baca** pesan.
     
-    - Mereka diarahkan ke halaman di mana mereka harus memilih **masuk dengan kode akses satu kali**.
+    - Mereka akan diarahkan ke halaman di mana mereka **harus memilih masuk dengan kode akses satu kali**.
     
-    - Kode akses sekali pakai dikirim ke alamat email yang sama. Masukkan kode di jendela browser, lalu pilih **Lanjutkan** untuk membaca pesan Anda.
+    - Kode akses sekali pakai dikirim ke alamat email yang sama. Masukkan kode di jendela browser, lalu pilih **Lanjutkan untuk** membaca pesan Anda.
 
-- Jika Anda tidak dapat mengenkripsi pesan dari organisasi lain, ikuti langkah-langkah pemecahan masalah yang ditentukan dalam [artikel](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)ini.
+- Jika Anda tidak dapat mengenkripsi pesan dari organisasi lain, ikuti langkah-langkah penyelesaian yang ditentukan dalam artikel [ini](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164).
 
-- Jika kotak surat Penerima berada di **Yahoo atau Gmail**, silakan ikuti instruksi yang </span> ditemukan di [artikel](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)ini.
+- Jika kotak surat penerima berada di **Yahoo atau Gmail**, silakan ikuti instruksi yang ada di artikel </span> [ini](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
 
-- Kebijakan perlindungan hanya berlaku untuk [format file yang diketahui](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). Lampiran OneDrive for Business tidak didukung untuk enkripsi.
+- Kebijakan proteksi berlaku hanya untuk [format file yang dikenal.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types) OneDrive for Business lain tidak didukung untuk enkripsi.
 
-- Kotak surat bersama **tidak dapat membuka pesan terenkripsi saat ini melalui klien apa pun**. 
+- Kotak surat **bersama tidak dapat membuka pesan terenkripsi yang saat ini melalui klien apa pun.** 

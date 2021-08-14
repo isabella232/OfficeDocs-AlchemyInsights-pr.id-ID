@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686313"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868385"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Cara menambahkan atau mengedit PPN
 
@@ -34,4 +34,4 @@ ms.locfileid: "53686313"
 3. Di halaman detail langganan, di bagian **Alamat penggunaan layanan,** pilih **Edit alamat penggunaan layanan**.
 4. Di panel **Edit alamat penggunaan layanan** Anda, ketik ID PPN Anda di kotak nomor **PPN,** lalu pilih **Simpan.** Setelah Anda melakukan ini, PPN tidak akan ditagihkan pada tagihan Anda berikutnya.
 
-Untuk mempelajari selengkapnya, [lihat Pajak apa yang akan dikenakan untuk tagihan Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Untuk mempelajari selengkapnya, [lihat Pajak apa yang akan dikenakan untuk tagihan Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

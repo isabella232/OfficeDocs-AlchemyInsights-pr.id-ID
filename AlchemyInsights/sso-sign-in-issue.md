@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah masuk pengguna tanpa batas tunggal (SSO)
+title: Memecahkan masalah masuk pengguna Tanpa Hambatan Masuk Tunggal (SSO, Seamless Single Sign-on)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009431"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Memecahkan masalah masuk pengguna tanpa batas tunggal (SSO)
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Memecahkan masalah masuk pengguna Tanpa Hambatan Masuk Tunggal (SSO, Seamless Single Sign-on)
 
-Untuk mengatasi masalah masuk pengguna tanpa hambatan menyeluruh (SSO), gunakan sumber daya berikut ini:
+Untuk mengatasi masalah masuk pengguna Masuk Tunggal (SSO) tanpa hambatan, gunakan sumber daya yang direkomendasikan berikut ini:
 
-- [Perintah persetujuan tidak terduga saat masuk ke aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
-- [Kesalahan yang tidak terduga saat melakukan persetujuan ke aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Memecahkan masalah masuk ke aplikasi dari Azure AD aplikasi saya](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Perintah persetujuan yang tidak diharapkan saat masuk ke aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Kesalahan yang tidak diharapkan ketika melakukan persetujuan untuk aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Memecahkan masalah saat masuk ke aplikasi dari Azure AD My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
 - [Halaman aplikasi memperlihatkan pesan kesalahan setelah pengguna masuk](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-- [Masalah masuk ke aplikasi Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [Masalah saat masuk ke aplikasi tunggal berbasis SAML yang dikonfigurasikan](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [Mengalami masalah saat masuk ke aplikasi Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [Masalah masuk ke aplikasi masuk tunggal berbasis SAML yang dikonfigurasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Untuk membuat permintaan fitur atau mengajukan pertanyaan teknis tentang SSO yang mulus, lihat [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Untuk membuat permintaan fitur atau mengajukan pertanyaan teknis tentang SSO Tanpa Hambatan, [lihat&Microsoft.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
 
