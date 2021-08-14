@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945970"
 ---
-# <a name="fix-a-flow-that-failed"></a>Memperbaiki alur yang gagal
+# <a name="fix-a-flow-that-failed"></a>Memperbaiki aliran yang gagal
 
-1. Masuk ke [Microsoft Flow](https://flow.microsoft.com/), dan klik ikon pemberitahuan di bagian kanan atas. (Atau di aplikasi seluler, pilih tab aktivitas.) Pilih alur yang gagal melihat detailnya.
+1. Masuk [ke Microsoft Flow](https://flow.microsoft.com/), lalu klik ikon Pemberitahuan di kanan atas. (Atau, di aplikasi seluler, pilih tab Aktivitas.) Pilih alur yang gagal melihat detailnya.
     
-2. Temukan langkah dengan ikon tanda seru berwarna merah untuk melihat pesan kesalahan untuk alur.
+2. Temukan langkah dengan ikon tanda seru merah untuk melihat pesan kesalahan untuk aliran.
     
-3. Bergantung pada pesan kesalahan, Anda harus dapat mengedit aliran dan memperbaikinya. 
+3. Tergantung pada pesan kesalahan, Anda dapat mengedit alur dan memperbaikinya. 
     
-[Kesalahan aliran umum](https://go.microsoft.com/fwlink/?linkid=872110)
+[Kegagalan aliran umum](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

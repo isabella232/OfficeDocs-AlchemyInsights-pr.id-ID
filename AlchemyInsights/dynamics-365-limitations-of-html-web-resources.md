@@ -1,5 +1,5 @@
 ---
-title: Skema XML formulir Dynamics 365
+title: Skema XML Formulir Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d8d652e991c0ebaae6a79230a5fd0fcacf8ce6bbdf2622dfdcc448cc7e2353c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711314"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947266"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Batasan sumber daya web (HTML) halaman web
+# <a name="webpage-html-web-resources-limitations"></a>Batasan sumber daya web halaman web (HTML)
 
-* Sumber daya web HTML tidak dapat berisi kode apa pun yang harus dijalankan di server. Halaman ASP.NET tidak dapat diunggah sebagai sumber daya web HTML.
+* Sumber daya web HTML tidak bisa berisi kode apa pun yang harus dijalankan pada server. ASP.NET tidak bisa diunggah sebagai sumber daya web HTML.
 
-* Sumber daya web HTML hanya dapat menerima sejumlah parameter string kueri. Informasi selengkapnya: [melewatkan parameter ke sumber daya web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Sumber daya web HTML hanya bisa menerima jumlah parameter string kueri terbatas. Informasi selengkapnya: [Meneruskan parameter ke sumber daya web HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Sumber daya web halaman web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Sumber daya web Halaman Web (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

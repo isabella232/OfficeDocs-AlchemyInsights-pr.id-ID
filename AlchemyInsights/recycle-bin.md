@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991650"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Memulihkan item di SharePoint online
+# <a name="restore-items-in-sharepoint-online"></a>Memulihkan item di SharePoint Online
 
-Saat Anda menghapus item di SharePoint online, item dipertahankan untuk Total 93 hari. Mereka tinggal di keranjang sampah situs sepanjang waktu, kecuali jika Anda mengosongkan atau menghapus item darinya. Dalam hal ini, item masuk ke keranjang sampah kumpulan situs, tempat mereka tinggal untuk sisa hari 93. Pada akhir waktu, item dihapus secara permanen. Untuk memulihkan item yang dihapus dari keranjang sampah situs:
+When you delete items in SharePoint Online, they're retained for a total of 93 days. They stay in the site recycle bin the whole time, unless you empty it or delete the items from it. Dalam hal ini, item akan masuk ke keranjang sampah kumpulan situs, di mana item tersebut tetap berada selama 93 hari. Pada akhir waktu, item dihapus secara permanen. Untuk memulihkan item yang dihapus dari keranjang sampah situs:
   
-1. Buka situs dan klik **keranjang sampah** di panel kiri. 
+1. Masuk ke situs dan klik **Keranjang sampah** di panel kiri. 
     
-    Jika Anda tidak melihat **keranjang sampah** di panel kiri, klik ikon pengaturan di kanan atas, lalu klik **konten situs**. Keranjang sampah ada di ujung kanan bilah perintah di bagian atas.
+    Jika Anda tidak melihat **Keranjang sampah di** panel kiri, klik ikon Pengaturan di kanan atas, lalu klik Konten **situs.** Keranjang Sampah berada di sudut kanan bilah perintah di bagian atas.
     
-2. Pada halaman **keranjang sampah** , pilih item yang ingin Anda Pulihkan dengan mengarahkan penunjuk dan mengklik ikon tanda centang yang muncul. 
+2. Pada halaman **Keranjang Sampah,** pilih item yang ingin Anda pulihkan dengan menunjuknya dan mengklik ikon tanda centang yang muncul. 
     
-3. Klik **Pulihkan**.
+3. Klik **Pulihkan.**
     
-[Memulihkan item yang dihapus dari keranjang sampah kumpulan situs](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+[Memulihkan item terhapus dari Keranjang sampah kumpulan situs](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
   
 

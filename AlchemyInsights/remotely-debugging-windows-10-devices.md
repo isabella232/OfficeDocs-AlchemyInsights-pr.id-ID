@@ -1,5 +1,5 @@
 ---
-title: Memulai dengan penelusuran kesalahan perangkat Windows 10 secara jarak jauh
+title: Memulai dengan penelusuran kesalahan jarak Windows 10 berbeda
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959398"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Memulai dengan penelusuran kesalahan perangkat Windows 10 secara jarak jauh
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Memulai dengan penelusuran kesalahan jarak Windows 10 berbeda
 
-Untuk melakukan debug konten langsung dari jarak jauh di perangkat Windows 10 dari komputer Windows atau macOS:
+Untuk melakukan debug konten langsung dari jarak jauh Windows 10 perangkat dari Windows macOS:
 
 1. Siapkan perangkat Windows 10 Anda untuk penelusuran kesalahan jarak jauh, lalu sambungkan ke perangkat dari komputer pengembangan Anda.
-2. Periksa dan debug konten langsung di perangkat Windows 10 dari komputer pengembangan Anda.
-3. Konten Screencast dari perangkat Windows 10 Anda ke instans DevTools di komputer pengembangan Anda.
+2. Periksa dan debug konten langsung pada perangkat Windows 10 anda dari komputer pengembangan.
+3. Konten Screencast dari Windows 10 Anda ke instans DevTools di komputer pengembangan Anda.
 
-Untuk mempelajari selengkapnya, lihat [Mulai menggunakan Penelusuran Kesalahan Jarak Jauh Perangkat Windows 10 menggunakan Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Untuk mempelajari selengkapnya, lihat [Mulai Dengan Penelusuran Kesalahan Windows 10 Jarak Jauh menggunakan Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

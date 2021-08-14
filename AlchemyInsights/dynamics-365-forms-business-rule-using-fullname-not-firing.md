@@ -1,5 +1,5 @@
 ---
-title: Aturan bisnis Dynamics 365 forms menggunakan bidang fullname tidak diaktifkan
+title: Aturan Dynamics 365 Forms Business menggunakan bidang nama lengkap tidak dapat digunakan
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947410"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Bidang nama lengkap tidak didukung dengan aplikasi Inteface terpadu
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Bidang Nama Lengkap tidak didukung dengan aplikasi inteface yang terpadu
 
-Tindakan atau ketentuan yang menggunakan bidang **nama lengkap** (fullname) tidak didukung dalam aplikasi berdasarkan antarmuka terpadu. Alternatifnya, Anda bisa menggunakan tindakan atau kondisi dengan bidang **nama depan** (FirstName) dan **nama belakang** (LastName).
+Tindakan atau kondisi yang menggunakan **bidang Nama Lengkap** (nama lengkap) tidak didukung dalam aplikasi berdasarkan antarmuka terpadu. Atau, Anda dapat menggunakan tindakan atau kondisi dengan **bidang Nama Depan** (nama depan) dan Nama **Belakang** (nama belakang).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)
