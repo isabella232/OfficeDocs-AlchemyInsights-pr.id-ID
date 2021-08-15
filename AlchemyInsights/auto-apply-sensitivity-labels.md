@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969296"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Menerapkan label sensitivitas otomatis
 
-Label sensitivitas dapat diterapkan secara manual ke konten oleh pengguna, atau Anda bisa mengonfigurasinya untuk diterapkan secara otomatis ke konten.
+Label sensitivitas bisa diterapkan secara manual pada konten oleh pengguna, atau Anda bisa mengonfigurasinya agar secara otomatis diterapkan ke konten.
 
-Secara otomatis menerapkan label sensitivitas menghapus kebutuhan untuk melatih pengguna tentang cara mengklasifikasikan konten dan kebutuhan untuk memberi tahu konfigurasi kebijakan.
+Secara otomatis menerapkan label sensitivitas menghapus perlunya melatih pengguna tentang cara mengklasifikasikan konten dan kebutuhan untuk memberi tahu mereka tentang konfigurasi kebijakan.
 
-Untuk menerapkan label secara otomatis, berikut ini diperlukan:
+Untuk menerapkan label secara otomatis, hal berikut ini diperlukan:
 
-- Langganan P2 perlindungan informasi Azure
-- [Mengunduh dan menginstal klien pelabelan terpadu proteksi informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Langganan Azure Information Protection P2
+- [Mengunduh dan menginstal klien label terpadu Perlindungan Informasi Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Kami sedang mengupayakan dukungan asli yang tidak memerlukan klien pelabelan terpadu proteksi informasi Azure di masa mendatang.
+Kami sedang mengerjakan dukungan asli yang tidak akan memerlukan klien label terpadu Perlindungan Informasi Azure di masa mendatang.
 
-Saat ini, hanya Windows yang mendukung klien pelabelan terpadu.  Fitur ini belum didukung di Mac, iOS, dan Android.
+Saat ini, Windows mendukung klien label terpadu.  Fitur ini belum didukung di Mac, iOS, dan Android.
 
 Untuk informasi selengkapnya tentang label sensitivitas dan menerapkannya secara otomatis ke konten, lihat:
 

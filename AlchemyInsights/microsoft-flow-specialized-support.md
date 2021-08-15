@@ -1,5 +1,5 @@
 ---
-title: Dukungan khusus Microsoft Flow
+title: Microsoft Flow Dukungan Khusus
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725050"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975932"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Dukungan khusus Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Dukungan Khusus
 
-Untuk dukungan Microsoft Flow khusus, silakan masuk ke [Pusat admin Power platform](https://aka.ms/flowadminsupport)yang baru. Portal baru menyediakan jalur yang lebih langsung ke dukungan berbantuan yang dioptimalkan untuk Microsoft Flow dan produk Power platform lainnya.
+Untuk dukungan Microsoft Flow khusus, silakan kunjungi pusat [admin platform Power yang baru.](https://aka.ms/flowadminsupport) Portal baru menyediakan jalur lebih langsung ke dukungan yang dioptimalkan untuk produk Microsoft Flow dan platform Daya lainnya.
 
-Pelajari lebih lanjut:
-- [Informasi tentang lisensi gratis Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Alur di FAQ organisasi Anda](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Paket Microsoft 365 dan Dynamics 365 yang menyertakan Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Pertanyaan penagihan dan pengukuran Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)
+Pelajari selengkapnya:
+- [Informasi tentang Microsoft Flow Gratis](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow Tanya Jawab Umum di organisasi Anda](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 dan paket Dynamics 365 yang menyertakan Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow pertanyaan tentang tagihan dan pengukuran](https://go.microsoft.com/fwlink/?linkid=2072612)
