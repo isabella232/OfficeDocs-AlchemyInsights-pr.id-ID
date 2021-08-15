@@ -1,5 +1,5 @@
 ---
-title: Aturan dasar pendaftaran untuk Bucket iOS
+title: Aturan Dasar Pendaftaran untuk wadah iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030059"
 ---
-# <a name="intune-device-enrollment"></a>Intune pendaftaran perangkat
+# <a name="intune-device-enrollment"></a>Pendaftaran Perangkat Intune
 
 [Mempelajari tentang pendaftaran perangkat dengan Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
@@ -27,11 +27,11 @@ ms.locfileid: "47784166"
 
 [Menyiapkan pendaftaran perangkat Android dengan Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Menyiapkan pendaftaran perangkat Windows dengan Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Menyiapkan pendaftaran Windows perangkat dengan Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 Pemecahan masalah pendaftaran perangkat
 
-1. Gunakan [portal pemecahan masalah Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   untuk mendiagnosis dan mengatasi kegagalan pendaftaran umum. Tinjau [dokumen ini](https://docs.microsoft.com/intune/help-desk-operators) untuk detail selengkapnya.
+1. Gunakan [Portal Pemecahan Masalah Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) untuk mendiagnosis dan mengatasi kegagalan pendaftaran umum. Tinjau [dokumen ini](https://docs.microsoft.com/intune/help-desk-operators) untuk detail selengkapnya.
 
 2. Tinjau dokumen ini untuk daftar kesalahan umum yang mencegah pendaftaran dan resolusi:
     - [Panduan pemecahan masalah](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)

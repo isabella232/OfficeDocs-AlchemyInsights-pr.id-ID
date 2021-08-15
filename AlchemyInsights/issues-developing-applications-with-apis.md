@@ -1,5 +1,5 @@
 ---
-title: Masalah dalam mengembangkan aplikasi dengan api
+title: Masalah dalam mengembangkan aplikasi dengan API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013463"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Masalah dalam mengembangkan aplikasi dengan api
+# <a name="issues-developing-applications-with-apis"></a>Masalah dalam mengembangkan aplikasi dengan API
 
-Untuk mulai menggunakan API grafik Azure Active Directory, lihat [panduan mulai cepat AZURE AD GRAPH api](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) , atau Tampilkan [dokumentasi referensi api Azure AD graph interaktif](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+Untuk mulai menggunakan API Azure Active Directory Graph, lihat panduan mulai cepat [API Azure AD Graph,](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) atau lihat dokumentasi referensi [API Graph Azure AD interaktif.](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)
 
-**Akhir dukungan untuk Azure Active Directory Authentication Library (ADAL) dan Azure AD graph API (Graf AAD)**
+**Akhir dukungan untuk Azure Active Directory Authentication Library (ADAL) dan API Azure AD Graph (AAD Graph)**
 
-**Mulai 30 juni 2020**, kami tidak akan lagi menambahkan fitur baru untuk ADAL dan Azure AD graph. Kami akan terus menyediakan dukungan teknis dan pembaruan keamanan tetapi tidak lagi menyediakan pembaruan fitur.
+**Mulai 30 Juni 2020,** kami tidak akan lagi menambahkan fitur baru untuk ADAL dan Azure AD Graph. Kami akan terus menyediakan dukungan teknis dan pembaruan keamanan, namun tidak akan lagi menyediakan pembaruan fitur.
 
-**Mulai 30 juni 2022**, kami akan mengakhiri dukungan untuk ADAL dan Azure AD graph dan tidak akan lagi menyediakan dukungan teknis atau pembaruan keamanan.
+**Mulai 30 Juni 2022,** kami akan mengakhiri dukungan untuk ADAL dan Azure AD Graph dan tidak akan lagi menyediakan dukungan teknis atau pembaruan keamanan.
 
-Aplikasi yang menggunakan ADAL pada versi OS yang sudah ada akan terus berfungsi setelah waktu ini tetapi tidak akan mendapatkan dukungan teknis atau pembaruan keamanan apa pun.
+Aplikasi yang menggunakan ADAL di versi OS yang sudah ada akan terus berfungsi setelah waktu ini, tetapi tidak akan mendapatkan dukungan teknis atau pembaruan keamanan apa pun.
 
-Aplikasi menggunakan grafik Azure AD setelah waktu ini mungkin tidak lagi menerima respons dari titik akhir Azure AD graph.
+Aplikasi yang menggunakan Azure AD Graph setelah waktu ini mungkin tidak lagi menerima respons dari titik akhir Azure AD Graph akhir.
 
 **Migrasi ADAL**
 
-Sebaiknya Perbarui ke [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), yang memiliki fitur dan pembaruan keamanan terbaru.
+Kami merekomendasikan Anda memperbarui ke [Pustaka Autentikasi Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), yang memiliki fitur dan pembaruan keamanan terbaru.
 
-Jika Anda menggunakan Microsoft Apps, Ketahuilah bahwa Microsoft sedang dalam proses migrasi aplikasinya ke MSAL dengan tenggat waktu dukungan akhir, memastikan mereka akan mendapatkan manfaat dari peningkatan keamanan dan fitur yang sedang berlangsung.
+Jika Anda menggunakan aplikasi Microsoft, ketahui bahwa Microsoft sedang dalam proses migrasi aplikasinya ke MSAL sebelum tenggat waktu akhir dukungan, yang memastikan mereka akan mendapatkan manfaat dari keamanan msAL yang sedang berlangsung dan penyempurnaan fitur.
 
 1. [Baca FAQ ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Pelajari tentang cara melakukan migrasi aplikasi secara per platform](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Jika Anda memerlukan bantuan untuk memahami aplikasi mana yang menggunakan ADAL, kami menyarankan agar Anda meninjau semua kode sumber aplikasi Anda, dan jika ada, hubungi penyedia ISVs atau aplikasi apa pun. Dukungan Microsoft juga bisa memberi Anda daftar semua aplikasi non-Microsoft ADAL di penyewa Anda.
+1. [Pelajari cara melakukan migrasi aplikasi secara per platform.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Jika memerlukan bantuan memahami aplikasi mana yang menggunakan ADAL, kami menyarankan Anda meninjau semua kode sumber aplikasi, dan jika ada, hubungi ISVs atau penyedia aplikasi. Dukungan Microsoft juga dapat menyediakan daftar semua aplikasi non-Microsoft ADAL di penyewa Anda.
 
-**Migrasi Graf AAD**
+**Migrasi Grafik AAD**
 
-Untuk aplikasi yang menggunakan Azure AD graph, ikuti panduan kami untuk melakukan migrasi [aplikasi AZURE AD graph ke Microsoft graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+Untuk aplikasi yang menggunakan Azure AD Graph, ikuti panduan kami untuk melakukan migrasi aplikasi [Azure AD Graph ke Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
 
-1. [Daftar Periksa migrasi kami menyediakan titik mulai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. Portal pendaftaran aplikasi Azure memperlihatkan aplikasi mana yang menggunakan grafik AAD. Kami menyarankan agar Anda meninjau semua kode sumber aplikasi, dan jika ada, hubungi penyedia ISVs atau aplikasi apa pun. Dukungan Microsoft juga bisa memberi Anda daftar semua penggunaan grafik AAD dalam penyewa Anda.
-1. Agar aplikasi Anda dapat mengakses data di Microsoft graph, pengguna atau administrator harus memberinya izin yang benar melalui proses persetujuan. [Referensi izin Microsoft graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) mencantumkan izin yang terkait dengan setiap kumpulan utama api Microsoft graph. Ini juga memberikan panduan tentang cara menggunakan izin.
+1. [Daftar periksa migrasi kami menyediakan poin memulai](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. Portal pendaftaran aplikasi Azure Anda memperlihatkan aplikasi mana yang menggunakan Grafik AAD. Kami menyarankan Anda meninjau semua kode sumber aplikasi, dan jika memungkinkan, hubungi semua ISV atau penyedia aplikasi. Dukungan Microsoft juga dapat menyediakan daftar semua penggunaan AAD Graph penyewa Anda.
+1. Agar aplikasi Anda mengakses data di Microsoft Graph, pengguna atau administrator harus memberikan izin yang tepat melalui proses persetujuan. Referensi [izin Graph Microsoft](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) mencantumkan izin yang terkait dengan setiap rangkaian utama API Microsoft Graph. Panduan juga tentang cara menggunakan izin.

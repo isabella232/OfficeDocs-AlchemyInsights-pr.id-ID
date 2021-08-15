@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51552ecf6c6ef4e91f092751aa33f55e961b34133fd7e8763e84f1a2c894d5a9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030023"
 ---
 # <a name="error-messages-when-sharing"></a>Pesan kesalahan saat berbagi
 
-Jika Anda menerima pesan kesalahan saat mencoba berbagi dengan pengguna eksternal, kemungkinan besar berbagi eksternal tidak diaktifkan atau berbagi diatur ke tidak memperbolehkan tingkat berbagi yang sedang dilakukan pengguna.
+Jika Anda menerima pesan kesalahan ketika mencoba berbagi dengan pengguna eksternal, kemungkinan besar berbagi eksternal tidak diaktifkan atau berbagi diatur untuk tidak mengizinkan tingkat berbagi yang pengguna coba lakukan.
   
-Di pusat admin SharePoint baru, klik **berbagi** di panel kiri. Pilih tingkat berbagi yang ingin Anda Perbolehkan. Pastikan berbagi eksternal diaktifkan untuk situs. 
+Di panel SharePoint admin baru, klik **berbagi** di panel kiri. Pilih tingkat berbagi yang ingin Anda izinkan. Pastikan berbagi eksternal diaktifkan untuk situs tersebut. 
   
-Jika pengguna mencoba masuk menerima pesan kesalahan, silakan coba langkah-langkah berikut:
+Jika pengguna yang mencoba masuk menerima pesan kesalahan, silakan coba langkah-langkah berikut:
   
-- Pastikan bahwa pengguna telah menerima undangan berbagi yang dikirim.
+- Pastikan bahwa pengguna telah menerima undangan berbagi yang telah dikirim.
     
-- Pastikan bahwa pengguna menerima undangan dengan alamat email yang dikirimkan kepada pengguna.
+- Pastikan bahwa pengguna menerima undangan dengan alamat email yang dikirimkan undangan.
     
 

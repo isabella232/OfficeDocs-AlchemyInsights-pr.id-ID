@@ -1,5 +1,5 @@
 ---
-title: Pengenalan ke bilah aplikasi SharePoint
+title: Pengenalan ke Bilah SharePoint Aplikasi
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001439"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>Pengenalan ke bilah aplikasi SharePoint
+# <a name="introduction-to-the-sharepoint-app-bar"></a>Pengenalan ke Bilah SharePoint Aplikasi
 
-Bilah aplikasi dirancang untuk menyempurnakan pengalaman pencarian cara global selagi menampilkan konten yang dipersonalisasi secara dinamis. Bilah aplikasi akan **aktif secara default** dan dapat dinonaktifkan untuk sementara waktu (**setel-SPOTemporarilyDisableAppBar $True**) menggunakan versi terbaru PowerShell. Bilah aplikasi dapat dinonaktifkan hingga akhir Oktober, yang akan diaktifkan kembali secara otomatis.
+Bilah aplikasi dirancang untuk meningkatkan pengalaman pencarian global sembari menampilkan konten yang dipersonalisasi secara dinamis. Bilah aplikasi akan aktif secara **default** dan dapat dinonaktifkan untuk sementara waktu (**Set-SPOTemporarilyDisableAppBar $true**) menggunakan versi terbaru PowerShell. Bilah aplikasi dapat dinonaktifkan hingga akhir Oktober, dan pada titik ini bilah aplikasi akan diaktifkan kembali secara otomatis.
 
 Untuk informasi selengkapnya, lihat:
 
-- [Pengenalan ke bilah aplikasi SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [Pengenalan bilah SharePoint aplikasi](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
 - [Menyiapkan situs rumah untuk organisasi Anda](https://docs.microsoft.com/sharepoint/home-site)
-- [Menggunakan bilah aplikasi SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [Menggunakan SharePoint bilah aplikasi](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

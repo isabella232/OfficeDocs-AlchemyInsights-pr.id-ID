@@ -1,5 +1,5 @@
 ---
-title: Tips untuk mengekspor laporan untuk pencarian konten
+title: Tips untuk mengekspor laporan untuk Pencarian Konten
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978884"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tips untuk mengekspor laporan untuk pencarian konten
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tips untuk mengekspor laporan untuk Pencarian Konten
 
-Anda mungkin perlu menampilkan laporan pencarian konten dan bukan mengekspor hasil pencarian lengkap. Jika demikian, Anda hanya dapat mengekspor laporan hasil pencarian. Berikut adalah beberapa tips:
+Anda mungkin perlu menampilkan laporan Pencarian Konten daripada mengekspor hasil pencarian lengkap. Jika demikian, Anda hanya dapat mengekspor laporan hasil pencarian. Berikut beberapa tips untuk Anda:
 
-- Pastikan akun Anda ditetapkan sebagai peran manajemen pencarian kepatuhan.
-- Pastikan komputer Anda telah memenuhi semua [prasyarat](https://go.microsoft.com/fwlink/?linkid=2102407). Tidak semua browser didukung, seperti Chrome.
-- Mempersempit hasil ekspor Anda menjadi kurang dari 20TB sehingga ekspor tidak akan gagal. Coba gunakan rentang tanggal yang lebih kecil atau lebih sedikit lokasi pencarian.
-- Mengekspor laporan diperhitungkan terhadap jumlah maksimum laporan yang bisa dijalankan pada waktu yang sama.
+- Pastikan akun Anda diberi peran manajemen Pencarian Kepatuhan.
+- Pastikan komputer Anda telah memenuhi [semua prasyarat.](https://go.microsoft.com/fwlink/?linkid=2102407) Tidak semua browser didukung, seperti Chrome.
+- Persempit hasil ekspor Anda menjadi kurang dari 20TB sehingga ekspor tidak akan gagal. Cobalah menggunakan rentang tanggal yang lebih kecil atau lebih sedikit lokasi pencarian.
+- Mengekspor laporan dihitung berdasarkan jumlah maksimum laporan yang bisa berjalan pada saat yang sama.
 
-Untuk mempelajari selengkapnya, lihat [mengekspor laporan pencarian konten](https://go.microsoft.com/fwlink/?linkid=2102409)
+Untuk mempelajari selengkapnya, [lihat Mengekspor Laporan Pencarian Konten](https://go.microsoft.com/fwlink/?linkid=2102409)
