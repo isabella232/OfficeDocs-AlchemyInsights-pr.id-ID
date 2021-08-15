@@ -1,5 +1,5 @@
 ---
-title: masalah-berbagi-dengan-Outlook-customer-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960118"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Masalah saat berbagi dengan Outlook customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Masalah berbagi dengan Outlook Customer Manager
 
-Jika Anda mengalami masalah dengan Outlook customer Manager, kami menyarankan agar Anda terlebih dahulu mencoba mengosongkan tembolok browser Anda. Misalnya di Internet Explorer Anda akan:
+Jika mengalami masalah berbagi dengan pelanggan Outlook Customer Manager, cobalah menghapus cache browser terlebih dahulu. Misalnya di Internet Explorer Anda akan:
 
-1. Masuk ke pengaturan **pengaturan**  >  >**umum** di bawah   >  **cache dan database** Riwayat penelusuran.
-2. Hapus file singgahan untuk situs web "outlookapps.com."
-3. Mulai ulang Outlook.
+1. Masuk ke **Pengaturan**  >  **Umum** > Pengaturan bawah **Cache dan** database riwayat  >  **penelusuran.**
+2. Hapus file cache untuk situs web "outlookapps.com."
+3. Mulai Outlook.
 
-Untuk informasi selengkapnya tentang berbagi, lihat [berbagi informasi di Outlook customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Untuk informasi selengkapnya tentang berbagi, lihat [Berbagi informasi Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

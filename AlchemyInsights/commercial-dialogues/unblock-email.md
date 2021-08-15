@@ -1,5 +1,5 @@
 ---
-title: Buka blokir email
+title: Membuka blokir email
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994724"
 ---
-# <a name="unblock-email"></a>Buka blokir email
+# <a name="unblock-email"></a>Membuka blokir email
 
-Jika akun email pengguna diblokir untuk mengirim spam, berikut ini cara melakukannya:
+Jika akun email pengguna diblokir untuk mengirimkan spam, berikut cara untuk memulainya kembali:
 
-1. Reset kata sandi untuk akun yang terpengaruh dengan *segera*. Jangan kirim kata sandi baru kepada pengguna melalui email. Hal ini mencegah siapa pun mengaksesnya untuk mengirim spam.
-2. Masuk ke pusat kepatuhan & keamanan dan lihat apakah akun tersebut ada di [Daftar pengguna terbatas](https://protection.office.com/#/restrictedusers).
-3. Pilih ikon **pencarian** dan masukkan nama pengguna yang dibatasi. Misalnya, jika alamat email pengguna adalah *Rob@contoso.com*, cukup masukkan **Rob**.
-4. Jika akun ada, pilih **buka blokir**. Ikuti langkah-langkah di panel Flyout, lalu pilih **ya** untuk mengonfirmasi.  
+1. Mereset kata sandi untuk akun yang terpengaruh *dengan segera.* Jangan kirim kata sandi baru kepada pengguna melalui email. Ini mencegah siapa pun mengaksesnya untuk mengirim spam.
+2. Masuk ke Pusat & Keamanan dan lihat apakah akun tersebut berada di [daftar Pengguna Terbatas.](https://protection.office.com/#/restrictedusers)
+3. Pilih **ikon Pencarian** dan masukkan nama pengguna pengguna yang dibatasi. For example, if the user's email address is *rob@contoso.com*, just enter **rob**.
+4. Jika akun tersebut ada, pilih Buka **blokir**. Ikuti langkah-langkah di panel flyout, lalu pilih **Ya** untuk mengonfirmasi.  
     > [!NOTE]
-    > Setelah tidak diblokir, akun harus dapat mulai mengirim pesan dalam jam 3-4.
+    > Setelah tidak diblokir, akun tersebut akan dapat mulai mengirim pesan dalam waktu 3-4 jam.

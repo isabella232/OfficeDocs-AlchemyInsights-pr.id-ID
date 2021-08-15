@@ -8,19 +8,19 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: cfdd11c9ecbcc4613c6337db7877f4cddca939a6
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 20fe0db53fd329a51dfbcf8be6add27ff7b5c7d40e3caf69bc252dc0c5c07738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960010"
 ---
 # <a name="publish-deploy-and-manage-add-ins"></a>Menerbitkan, menyebarkan, dan mengelola add-in
 
-Ada metode berbeda untuk membuat Add-in Office tersedia. Di bawah ini adalah beberapa titik awal yang bagus:
+Ada beberapa metode untuk Office add-in tersedia. Berikut adalah beberapa titik awal yang bagus:
 
-- [Menentukan administrator dan pengguna yang bisa menginstal dan mengelola add-in untuk Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
-- [Menerbitkan Add-in Office menggunakan penyebaran terpusat melalui Pusat admin Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
+- [Tentukan administrator dan pengguna yang dapat menginstal dan mengelola add-in untuk Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Menerbitkan Office Add-in menggunakan Penyebaran Terpusat melalui pusat admin Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment)
 - [Sebarkan add-in di pusat admin](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)
 - [Mengelola add-in di pusat admin](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide)
-- [Gambaran umum platform Add-in Office](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
+- [Office Gambaran umum platform add-in](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins)
