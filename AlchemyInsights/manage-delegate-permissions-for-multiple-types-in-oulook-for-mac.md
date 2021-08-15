@@ -1,5 +1,5 @@
 ---
-title: Mengelola izin delegasi untuk beberapa tipe item di Outlook untuk Mac
+title: Mengelola izin delegasi untuk beberapa tipe item Outlook untuk Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564702"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962890"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Mengelola izin delegasi untuk beberapa tipe item di Outlook untuk Mac
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Mengelola izin delegasi untuk beberapa tipe item Outlook untuk Mac
 
-1. Pada menu **alat** , pilih **akun**, lalu pilih akun yang ingin Anda ubah izinnya.
-2. Klik **tingkat lanjut**, lalu klik **delegasi**.
-3. Di bawah **delegasi**, yang menampilkan daftar delegasi yang bisa bertindak atas nama, pilih delegasi.
-4. Klik tombol **tindakan** , klik **Atur izin**, lalu buat perubahan yang Anda inginkan.
+1. Pada menu **Alat,** pilih **Akun**, dan pilih akun yang ingin Anda ubah izinnya.
+2. Klik **Tingkat** Lanjut, lalu **klik Delegasi.**
+3. Di **bawah Delegasi,** yang menampilkan daftar delegasi yang bisa bertindak atas nama, pilih delegasi.
+4. Klik tombol **Tindakan,** klik **Atur Izin,** lalu buat perubahan yang Anda inginkan.
 
 > [!NOTE]
-> Jika Anda mengatur tingkat izin ke **tidak ada**, delegasi tetap ada di daftar, yang memungkinkan Anda untuk memulihkan kembali izin nanti.
+> Jika Anda mengubah tingkat izin menjadi **Tidak** Ada, delegasi masih ada di daftar, yang memungkinkan Anda untuk mengembalikan izin nanti.

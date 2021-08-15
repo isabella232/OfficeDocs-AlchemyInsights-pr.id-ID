@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 728a96a1ebfa3e064128a29d30971736ea2f6236ecf1c9152b0a542efdc032e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018765"
 ---
 # <a name="change-account-picture"></a>Ubah foto akun
 
-Jika Anda menggunakan nama pengguna dan kata sandi untuk masuk ke Windows 10, Anda menggunakan akun lokal. **Untuk mengubah foto akun lokal Anda:**
+Jika Anda menggunakan nama pengguna dan kata sandi untuk Windows 10, Anda menggunakan akun lokal. **Untuk mengubah foto akun lokal Anda:**
 
-1. Masuk ke **Mulai**  >  **Pengaturan**  >  **Akun Info**  >  **Anda**.
+1. Masuk ke **Mulai**  >  **Pengaturan**  >  **Akun Info**  >  **Anda.**
 2. Di **bawah Buat gambar** Anda, klik Telusuri untuk **satu.** Atau, jika perangkat Anda memiliki kamera, klik **Kamera** dan ambil selfie. 
-    **Catatan**: Windows mengingat tiga gambar terakhir yang telah Anda gunakan. Klik gambar di halaman Info Anda untuk beralih ke gambar tersebut.
+    **Catatan**: Windows akan mengingat tiga gambar terakhir yang telah Anda gunakan. Klik gambar di halaman Info Anda untuk beralih ke gambar tersebut.
 
 Jika Anda menggunakan alamat email dan kata sandi untuk masuk, Anda menggunakan akun Microsoft. Untuk mengubah foto akun Microsoft Anda:
 

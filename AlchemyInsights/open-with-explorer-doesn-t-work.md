@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 164d5fe8c992df825d1f52f19792e1623526c35c58ff2f1e1ab601fdcf5f0f53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011339"
 ---
 # <a name="open-with-explorer-isnt-working"></a>Buka dengan Explorer tidak berfungsi
 
-Jika **buka dengan Explorer** atau **tampilan di file Explorer** tidak berfungsi, pastikan layanan WebClient diatur agar **berjalan** dengan mengikuti langkah-langkah di bawah ini. Misalnya, mungkin memerlukan waktu lama untuk membuka pustaka SharePoint atau OneDrive saat Layanan tidak berjalan. 
+Jika **Buka dengan Explorer** atau Tampilkan di File **Explorer** tidak berfungsi pastikan layanan WebClient diatur ke Berjalan dengan mengikuti **langkah-langkah** di bawah ini. Misalnya, mungkin akan memakan waktu lama untuk membuka pustaka SharePoint atau OneDrive saat layanan tidak berjalan. 
   
-1. Dalam kotak pencarian Windows, ketik jalankan, pilih Jalankan aplikasi desktop, ketikkan Services. MSC, lalu pilih **Enter**.
+1. Dalam kotak Windows pencarian, ketikkan jalankan, pilih aplikasi desktop Jalankan, ketik services.msc, lalu pilih **Enter**.
     
-2. Gulir ke bawah ke layanan WebClient dan periksa kolom **status** . Jika status layanan WebClient tidak **berjalan**, klik ganda Layanan tersebut, klik **mulai**, lalu klik **OK**. Aktifkan layanan, jika diperlukan, dengan memilih **manual** atau **otomatis** dalam kotak **tipe startup** . 
+2. Gulir ke bawah ke layanan WebClient dan periksa **kolom Status.** Jika status layanan WebClient tidak **Berjalan,** klik ganda layanan, klik **Mulai,** lalu klik **OK.** Aktifkan layanan, jika diperlukan, dengan memilih **Manual atau** **Otomatis dalam** kotak **Tipe mulai.** 
     
 > [!NOTE]
-> Untuk memecahkan masalah yang dibuka di file Explorer, lihat [membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Jelajahi sinkronisasi sebagai alternatif yang lebih baik: [sinkronkan file SharePoint dengan klien sinkronisasi OneDrive yang baru](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Untuk memecahkan masalah saat membuka di File Explorer, lihat [Membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Jelajahi sinkronisasi sebagai alternatif yang lebih [baik: Sinkronkan SharePoint file dengan klien OneDrive Sync baru.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

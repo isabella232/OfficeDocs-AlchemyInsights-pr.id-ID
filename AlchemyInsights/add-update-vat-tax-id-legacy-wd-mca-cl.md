@@ -1,5 +1,5 @@
 ---
-title: Tambahkan atau Perbarui PPN/ID pajak-warisan WD + MCA _ langkah yang direkomendasikan
+title: Menambahkan atau memperbarui ID PPN/Pajak - Langkah-langkah yang disarankan WD + MCA CL _ Warisan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953692"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Tambahkan atau Perbarui PPN/Tax ID-Legacy WD + MCA-langkah yang direkomendasikan CL
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>Menambahkan atau memperbarui ID PPN/Pajak - Legacy WD + MCA CL - Langkah yang disarankan
 
-ID pajak digunakan untuk penghitungan pengecualian pajak dan muncul di faktur Anda.
+ID Pajak digunakan untuk perhitungan bebas pajak dan muncul di faktur Anda.
 
-1. Masuk ke halaman [tagihan manajemen biaya +](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. Klik **properti** dari sisi kiri. 
-3. Klik **Kelola id pajak** dari panel **id pajak** , lalu masukkan ID pajak baru Anda.
-4. Klik **Perbarui**. 
+1. Masuk ke halaman [Manajemen Biaya +](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) Tagihan. 
+2. Klik  Properti dari sisi kiri. 
+3. Klik **Kelola ID Pajak** dari panel ID **Pajak,** lalu masukkan ID Pajak baru Anda.
+4. Klik **Perbarui.** 
 
-Jika Anda tidak melihat panel **id pajak** , itu berarti id pajak belum dikumpulkan untuk kawasan Anda, atau memperbarui id pajak di Portal tidak didukung untuk akun Anda.
+Jika Tidak melihat panel **ID** Pajak, artinya ID Pajak belum dikumpulkan untuk kawasan Anda, atau memperbarui ID Pajak di portal tidak didukung untuk akun Anda.
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang disarankan**
 
-[Negara/wilayah dan mata uang yang didukung](https://azure.microsoft.com/pricing/faq/)
+[Negara/kawasan dan mata uang yang didukung](https://azure.microsoft.com/pricing/faq/)
 
