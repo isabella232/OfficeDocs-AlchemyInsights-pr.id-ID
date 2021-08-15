@@ -14,18 +14,18 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ee9a7b58f36137f0bc5647c14c01dff9e2e6d49b9c2eac5fa5996c258fbafbb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010126"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Mencetak pada kedua sisi kertas (pencetakan dupleks)
 
 **Apakah printer saya mampu melakukan pencetakan dupleks?**
 
-Ringkasan fitur atau manual printer Anda akan memberi tahu apakah printer dapat mencetak di kedua sisi kertas, yang juga dikenal sebagai "pencetakan dupleks." Jika Anda memiliki Microsoft Office, cara lain untuk mencari tahu adalah dengan membuka aplikasi Office seperti Word atau Excel, masuk ke **File > Print**, pastikan printer yang tepat dipilih, dan mencari kapabilitasnya di bagian Pengaturan. Misalnya: 
+Ringkasan fitur atau manual printer Anda akan memberi tahu apakah printer dapat mencetak di kedua sisi kertas, yang juga dikenal sebagai "pencetakan dupleks." Jika memiliki Microsoft Office, cara lain untuk mencari tahu adalah dengan membuka aplikasi Office seperti Word atau Excel, masuk ke **File > Cetak**, pastikan printer yang tepat telah dipilih, dan mencari kemampuan di bagian Pengaturan. Misalnya: 
 
 ![Pengaturan printer](media/print-settings.png)
 
