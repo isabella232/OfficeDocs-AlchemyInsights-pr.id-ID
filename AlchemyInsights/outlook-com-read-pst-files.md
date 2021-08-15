@@ -1,5 +1,5 @@
 ---
-title: file 9000199 PST di Outlook.com
+title: 9000199 PST di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777029"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024425"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>File data PST di Outlook.com
 
-Tidak dimungkinkan untuk mengimpor Outlook. File data PST ke akun Outlook.com Anda menggunakan browser.
+Impor produk tidak dapat dilakukan untuk Outlook . File data PST ke akun Outlook.com Anda menggunakan browser.
 
-Untuk mengimpor. File data PST, Anda harus menggunakan aplikasi desktop Outlook. Untuk mempelajari selengkapnya, baca [mengimpor email, kontak, dan kalender dari Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Untuk mengimpor . Data file PST, Anda harus menggunakan Outlook desktop tersebut. Untuk mempelajari selengkapnya, baca [Mengimpor email, kontak, dan kalender dari kalender Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
