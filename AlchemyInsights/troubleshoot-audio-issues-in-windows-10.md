@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81a7f77bd6565c52ec9d752934a872e59cc11e89b90a646d17c3549d72e8a69f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039429"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Memecahkan masalah audio di Windows 10
 
@@ -55,12 +55,12 @@ Untuk memastikan driver telah diperbarui:
 
 2. Di **bawah Suara, video, dan pengontrol permainan**, pilih kartu suara Anda, buka, pilih tab **Driver,** lalu pilih **Perbarui Driver**.
 
-**Catatan**: Jika Windows tidak menemukan driver baru, cari driver di situs web produsen perangkat dan ikuti instruksi mereka.
+**Catatan**: Windows menemukan driver baru, cari driver di situs web produsen perangkat dan ikuti instruksi mereka.
 
 **Instal ulang driver**
 
 Jika tidak dapat memperbarui melalui Manajer Perangkat atau menemukan driver baru di situs web produsen, cobalah langkah-langkah berikut:
 
-1. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio, lalu pilih Hapus **instalan**. Mulai ulang perangkat dan Windows akan berusaha menginstal ulang driver.
+1. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio, lalu pilih Hapus **instalan**. Hidupkan ulang perangkat dan Windows Anda mencoba menginstal ulang driver.
 
-2. Jika menginstal ulang driver tidak berhasil, coba gunakan driver audio umum yang hadir dengan Windows. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio Anda > Perbarui perangkat lunak **driver** Telusuri komputer saya untuk perangkat lunak driver Biarkan saya memilih dari daftar driver perangkat di komputer saya , pilih Perangkat Audio Definisi Tinggi , pilih Berikutnya , dan ikuti instruksi untuk  >    >  menginstalnya.  
+2. Jika menginstal ulang driver tidak berhasil, coba gunakan driver audio umum yang dilengkapi dengan Windows. Di Manajer Perangkat, klik kanan (atau tekan dan tahan) driver audio Anda > Perbarui perangkat lunak **driver** Telusuri komputer saya untuk perangkat lunak driver Biarkan saya memilih dari daftar driver perangkat di komputer saya , pilih Perangkat Audio Definisi Tinggi , pilih Berikutnya , dan ikuti instruksi untuk  >    >  menginstalnya.  

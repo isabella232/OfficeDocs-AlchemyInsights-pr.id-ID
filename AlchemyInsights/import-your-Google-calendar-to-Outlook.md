@@ -1,5 +1,5 @@
 ---
-title: Mengimpor Kalender Google Anda ke Outlook
+title: Mengimpor kalender Google Anda ke Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014831"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>Mengimpor Kalender Google Anda ke Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>Mengimpor kalender Google Anda ke Outlook
 
-Ulangi prosedur ini setiap Kalender Google yang ingin Anda impor ke Outlook.
+Ulangi prosedur ini setiap Google Kalender yang ingin Anda impor ke Outlook.
 
-1. Di Outlook di desktop Anda (Outlook 2013 atau Outlook 2016), buka **kalender** Anda.
-1. Klik **file**  >  **buka & ekspor**  >  **impor/ekspor**.
-1. Dalam **panduan impor dan ekspor**, pilih **impor file iCalendar (. ics) atau vCalendar**, lalu klik **berikutnya**.
-1. Telusuri ke tempat Anda menyimpan file yang diekstraksi, dan pilih yang diakhiri dengan **Gmail.com**, dan klik **OK**.
-1. Klik **impor**
+1. Dalam Outlook desktop Anda (Outlook 2013 atau Outlook 2016), masuk ke **Kalender .**
+1. Klik **File**  >  **Open & Export**  >  **Import/Export.**
+1. Di Panduan **Impor dan Ekspor**, pilih Impor file **iCalendar (.ics) atau vCalendar,** lalu klik **Berikutnya.**
+1. Telusuri tempat Anda menyimpan file yang diekstrak, dan pilih file yang diakhiri dengan **gmail.com**, dan klik **OK.**
+1. Klik **Impor**
 
-Buka kalender Outlook Anda. Sekarang Anda akan melihat acara Google Kalender di sana.
+Masuk ke kalender Outlook Anda. Sekarang Anda akan melihat acara dalam Kalender Google Anda di sana.

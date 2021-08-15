@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 0282d565d4fb05f22f41e227d280ddeee23e4b8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb714428b29cde80ac379d59a1ca4a46f07cfbebbdc459c73ef100b7a17a72b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992006"
 ---
 # <a name="see-your-own-outlookcom-email-address"></a>Melihat alamat email Outlook.com Anda sendiri
 
-Untuk melihat alamat email default yang Anda gunakan saat mengirim email, masuk ke [pengaturan email sinkronisasi](https://outlook.live.com/mail/options/mail/accounts) dan lihat di bawah **Atur alamat dari default**.
+Untuk melihat alamat email default yang Anda gunakan saat mengirim email, masuk ke [pengaturan Sinkronisasi email dan](https://outlook.live.com/mail/options/mail/accounts) lihat di bawah Atur alamat Dari **default.**
 
-Jika Anda telah menyambungkan akun email lain ke akun Outlook.com Anda, Anda bisa memilih untuk mengirim email dari alamat tersebut.
+Jika Anda telah menghubungkan akun email lain ke akun Outlook.com, Anda bisa memilih untuk mengirim email dari alamat tersebut.
 
 1. Pilih tiga titik <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- di bagian bawah jendela buat dan pilih **Perlihatkan dari**   untuk melihat baris dari.
-2. Di atas baris kepada, pilih **dari**   dan pilih alamat email mana yang ingin Anda gunakan.
+ di bagian bawah jendela buat dan pilih **Perlihatkan Dari** untuk melihat baris Dari.
+2. Di atas baris Kepada, pilih **Dari,** lalu pilih alamat email yang ingin digunakan.
 
-Pelajari selengkapnya tentang [pengiriman email dari alamat yang berbeda di Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Pelajari selengkapnya tentang [mengirim email dari alamat lain di Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
