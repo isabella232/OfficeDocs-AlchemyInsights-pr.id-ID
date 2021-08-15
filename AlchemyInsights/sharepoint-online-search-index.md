@@ -1,5 +1,5 @@
 ---
-title: Pencarian di SharePoint online
+title: Mencari di SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf21e311d29b801bd04e48adfba9446abf78de9377d2a029aebccbac3910c62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022805"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Perayapan dan pengindeksan konten di SharePoint online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Perayapan dan pengindeksan konten di SharePoint Online
 
-Konten harus dirayapi dan ditambahkan ke indeks pencarian untuk pengguna untuk menemukan apa yang mereka Cari di SharePoint online.
+Konten harus dirayapi dan ditambahkan ke indeks pencarian agar pengguna dapat menemukan apa yang mereka cari di SharePoint Online.
 
-- Pastikan konten dapat ditemukan dengan [menjadikan konten situs mudah dicari](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Pastikan konten bisa ditemukan dengan membuat [konten situs mudah dicari.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
 
-- Saat Anda telah mengubah properti yang dikelola, atau ketika Anda telah mengubah pemetaan properti rayapan dan terkelola, situs tersebut harus dirayapi ulang sebelum perubahan Anda akan tercermin dalam indeks pencarian.
+- When you have changed a managed property, or when you have changed the mapping of crawled and managed properties, the site must be re-crawled before your changes will be reflected in the search index.
 
-- Untuk informasi selengkapnya, lihat [secara manual meminta Crawling dan mengindeks ulang situs, pustaka atau daftar](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- For more info, see [Manually request crawling and re-indexing of a site, a library or a list](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- Tunggu setidaknya 24 jam setelah meminta indeks ulang yang merangkak dan penuh secara manual untuk melihat apakah Anda masih mengalami masalah.
+- Tunggu setidaknya 24 jam setelah meminta perayapan dan indeks ulang penuh secara manual untuk melihat apakah Anda masih mengalami masalah.
 
-- Jika lebih dari 24 jam telah berlalu sejak Anda memulai Crawl dan Re-index penuh, silakan log kasus dukungan. Dalam banyak kasus, kami sedang mengupayakan solusi. Harap Beri kami setidaknya 24 jam untuk menyelesaikan solusi.
+- Jika telah berlalu lebih dari 24 jam sejak Anda memulai perayapan dan indeks ulang penuh, silakan catat kasus dukungan. Dalam banyak kasus, kami sudah mencari solusinya. Harap beri kami setidaknya 24 jam untuk menyelesaikan solusi.
 
-**Penting**: jika situs, dokumen (pustaka), atau daftar telah dihapus dan masih diperlihatkan di hasil pencarian, pengguna akan menerima **file 404 kesalahan yang tidak ditemukan** saat mencoba mengaksesnya. Masalah ini harus dicatat sebagai kasus dukungan untuk investigasi lebih lanjut.
+**Penting**: Jika situs, dokumen (pustaka), atau daftar telah dihapus dan masih muncul di hasil pencarian, pengguna akan menerima File Kesalahan **404** Tidak Ditemukan saat mencoba mengaksesnya. Masalah ini harus dicatat sebagai kasus dukungan untuk penyelidikan lebih lanjut.
 
 
 

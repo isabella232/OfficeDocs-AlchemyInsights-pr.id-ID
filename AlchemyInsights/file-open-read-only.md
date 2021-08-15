@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029807"
 ---
 # <a name="file-open-read-only"></a>File terbuka sebagai baca-saja
 
@@ -38,18 +38,18 @@ File dari internet dan lokasi lain yang berpotensi tidak aman dapat berisi virus
   
  **Apakah OneDrive penuh?**
   
-Jika file disimpan di OneDrive, dan OneDrive penuh, Anda tidak akan dapat menyimpan dokumen hingga tersedia ruang penyimpanan di bawah batas yang diberikan. Anda dapat memeriksa ruang yang tersedia di OneDrive dengan mengklik ikon OneDrive di pusat pemberitahuan dan memilih Kelola penyimpanan, atau masuk ke , masuk, lalu catat jumlah ruang yang digunakan di bagian kiri bawah [https://onedrive.live.com](https://onedrive.live.com) layar.
+Jika file disimpan di sumber OneDrive dan ruang penyimpanan OneDrive penuh, Anda tidak akan dapat menyimpan dokumen hingga tersedia ruang penyimpanan di bawah batas yang diberikan. Anda dapat memeriksa ruang yang tersedia di OneDrive dengan mengklik ikon OneDrive di pusat pemberitahuan dan memilih Kelola penyimpanan, atau masuk ke , masuk, lalu catat jumlah ruang yang digunakan di bagian kiri bawah [https://onedrive.live.com](https://onedrive.live.com) layar.
   
  **Apakah Office diaktifkan?**
   
-Jika Office tidak diaktifkan, atau jika langganan telah kedaluwarsa, Anda hanya dapat menggunakan Mode Fungsionalitas Berkurang secara baca-saja. Untuk informasi tentang cara mengaktifkan Office, lihat: [Produk Tanpa Lisensi dan kesalahan aktivasi di Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Jika Office diaktifkan, atau jika langganan telah kedaluwarsa, Anda hanya dapat menggunakan Mode Fungsionalitas Berkurang secara baca-saja. Untuk informasi tentang cara mengaktifkan Office, lihat: [Produk Tanpa Lisensi dan kesalahan aktivasi dalam Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Jika semuanya gagal...**
   
 - Coba mulai ulang komputer
     
-- Menginstal pembaruan Office
+- Menginstal Office pembaruan
     
-- Jalankan Perbaikan online Office
+- Melakukan Perbaikan online Office
     
 

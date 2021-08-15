@@ -1,5 +1,5 @@
 ---
-title: Menghapus penyewa
+title: Hapus penyewa
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993896"
 ---
-# <a name="delete-tenant"></a>Menghapus penyewa
+# <a name="delete-tenant"></a>Hapus penyewa
 
 Untuk menghapus Azure AD, pastikan:
-- Anda adalah administrator global di direktori.
-- Anda tidak masuk dengan akun yang memiliki direktori default seperti contoso.onmicrosoft.com dalam akun masuk, seperti admin@contoso.onmicrosoft.com.
-- Hapus semua aplikasi aktif dalam direktori sebelum penghapusan. Untuk menghapus aplikasi aktif, navigasikan ke pendaftaran aplikasi dan Hapus aplikasi yang sudah ada.
-- Tidak ada langganan aktif untuk layanan online Microsoft apa pun, seperti Microsoft Azure, Office 365 atau Azure AD premium yang terkait pada direktori. Mentransfer langganan atau mempercepat pembatalan langganan aktif melalui dukungan dan tagihan Azure. Pelajari selengkapnya tentang cara membatalkan langganan Office 365 dan Azure. Untuk panduan tentang mengaitkan atau menambahkan langganan yang sudah ada ke penyewa, lihat [mengaitkan atau menambahkan langganan Azure ke penyewa AZURE AD Anda](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- Tidak ada lisensi aktif. Untuk menghapus lisensi, lihat [cara menghapus langganan untuk menghapus lisensi](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- Tidak ada pengguna aktif lainnya dalam direktori selain diri Anda sebagai administrator global saat mencoba menghapus Azure AD. Menghapus pengguna aktif lainnya, dan setiap dependensi pada nama domain kustom dalam penyewa juga harus dihapus, seperti pengguna yang dibuat dengan admin@contoso.com.
+- Anda adalah Administrator Global di direktori.
+- Anda TIDAK masuk dengan akun yang memiliki direktori default seperti contoso.onmicrosoft.com masuk, seperti akun admin@contoso.onmicrosoft.com.
+- Hapus setiap aplikasi aktif dalam direktori sebelum penghapusan. Untuk menghapus aplikasi aktif, navigasi ke Pendaftaran aplikasi dan hapus aplikasi yang sudah ada.
+- Tidak ada langganan aktif untuk Layanan Online Microsoft apa pun, seperti Microsoft Azure, Office 365, atau Azure AD Premium terkait dalam direktori. Transfer langganan Anda atau percepat pembatalan langganan aktif melalui Dukungan dan Tagihan Azure. Pelajari selengkapnya tentang Cara Membatalkan Office 365 dan Azure. Untuk panduan tentang mengaitkan atau menambahkan langganan yang sudah ada ke penyewa, lihat Mengaitkan atau [menambahkan langganan Azure ke penyewa Azure AD.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+- Tidak ada lisensi Aktif. Untuk menghapus lisensi, lihat [Cara menghapus Langganan untuk Menghapus lisensi.](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription)
+- Tidak ada pengguna aktif lain di direktori selain Anda sendiri sebagai Administrator Global saat mencoba menghapus Azure AD. Hapus pengguna aktif lainnya, dan dependensi apa pun pada nama domain kustom di penyewa juga harus dihapus, seperti pengguna yang dibuat dengan admin@contoso.com.
 
 Untuk langkah detail selengkapnya tentang cara:
-- Hapus "Azure Active Directory" atau "langganan", lihat [menghapus direktori Azure Active](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
-- Menghapus aplikasi dalam direktori, lihat [menghapus aplikasi](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+- Hapus "Azure Active Directory" atau "langganan", lihat [Menghapus Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
+- Menghapus aplikasi di direktori, lihat [Menghapus Aplikasi.](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app) 
