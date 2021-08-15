@@ -1,5 +1,5 @@
 ---
-title: File SharePoint hilang
+title: SharePoint file tidak ditemukan
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000100"
 - "7470"
-ms.openlocfilehash: e86b999f44973cbea597f6f48d9a620879bc1b34
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 583fec061c38a4270fb662a84c5f660415a0e2a2d6ac78994d9cb8d8b6b3d8b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023309"
 ---
-# <a name="sharepoint-files-are-missing"></a>File SharePoint hilang
+# <a name="sharepoint-files-are-missing"></a>SharePoint file tidak ditemukan
 
-Jika banyak file OneDrive atau SharePoint Anda dihapus, ditimpa, rusak, atau terinfeksi oleh malware, kami memberi pengguna berbagai opsi untuk membantu dalam proses pemulihan.
+Jika ada banyak file OneDrive atau SharePoint Anda terhapus, ditimpa, rusak, atau terinfeksi oleh malware kami memberi pengguna berbagai opsi untuk membantu dalam proses pemulihan.
 
-Untuk informasi selengkapnya, lihat [cara memulihkan item yang hilang, dihapus atau rusak di SharePoint online dan OneDrive for Business](https://go.microsoft.com/fwlink/?linkid=2110774).
+Untuk informasi selengkapnya, [lihat Cara memulihkan item yang hilang, dihapus,](https://go.microsoft.com/fwlink/?linkid=2110774)atau rusak di SharePoint Online dan OneDrive for Business .

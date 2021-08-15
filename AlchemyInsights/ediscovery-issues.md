@@ -1,5 +1,5 @@
 ---
-title: 1829-eDiscovery-masalah
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030428"
 ---
-# <a name="ediscovery-issues"></a>masalah eDiscovery
+# <a name="ediscovery-issues"></a>Masalah eDiscovery
 
-Mencari opsi eDiscovery? Dengan navigasi yang dirancang ulang di pusat kepatuhan & keamanan, opsi eDiscovery Anda mungkin telah dipindahkan.  Anda dapat menemukan opsi eDiscovery di lokasi berikut ini di pusat kepatuhan & keamanan berdasarkan apa yang ingin Anda lakukan:
+Mencari opsi eDiscovery? Dengan navigasi yang didesain ulang di Pusat Keamanan & Kepatuhan, opsi eDiscovery Anda mungkin telah dipindahkan.  Anda dapat menemukan opsi eDiscovery di lokasi berikut di Pusat & Kepatuhan Berdasarkan hal yang ingin Anda lakukan:
 
-- Gunakan pencarian konten untuk mencari konten dalam email, dokumen, percakapan Skype for Business, lalu mengekspor data-masuk ke pencarian **konten >** pencarian
+- Gunakan Pencarian Konten untuk mencari konten dalam email, dokumen, percakapan Skype for Business organisasi, lalu mengekspor data - Buka Pencarian **> Pencarian Konten**
 
-- Membuat kasus eDiscovery untuk mencari konten dan menempatkan lokasi konten yang ditahan-buka **ediscovery > eDiscovery**
+- Membuat kasus eDiscovery untuk mencari konten dan menahan lokasi konten - Buka **eDiscovery > eDiscovery**
 
-- Gunakan solusi eDiscovery tingkat lanjut yang baru dan menyeluruh untuk mengidentifikasi dan berkomunikasi dengan custodians, Pertahankan data Kustodian yang relevan dengan kasus, mengumpulkan data dan menambahkannya ke kumpulan ulasan, dan mengurangi volume data dengan menerapkan analitik untuk menyisihkan data yang tidak diperlukan dan memfokuskan pada apa yang paling relevan dengan kasus-masuk ke **ediscovery > tingkat lanjut** eDiscovery
+- Gunakan solusi baru Advanced eDiscovery ujung untuk mengidentifikasi dan berkomunikasi dengan ahli ahli, mempertahankan data lokal yang relevan dengan kasus tersebut, mengumpulkan data dan menambahkannya ke kumpulan tinjauan, dan mengurangi volume data dengan menerapkan analitik untuk menunjukkan data yang tidak diperlukan dan fokus pada hal yang paling relevan dengan kasus ini - Buka **> Advanced eDiscovery**
 
 Untuk informasi selengkapnya, lihat:
 
-- [Pencarian konten](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [Pencarian Konten](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [kasus eDiscovery di pusat kepatuhan & keamanan](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [Kasus eDiscovery di Pusat & Keamanan](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Solusi eDiscovery tingkat lanjut di Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery solusi di Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

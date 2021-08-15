@@ -1,5 +1,5 @@
 ---
-title: Aplikasi fungsi Azure
+title: Aplikasi Fungsi Azure
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7843"
-ms.openlocfilehash: 11ccf3d819845383d06d25ff41c647fa456a3de1
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: bd5c16c68e69c8d9739bdc84d6d678681b5395fed3b90420d7b78cc47664eaed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984562"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979640"
 ---
-# <a name="azure-function-apps"></a>Aplikasi fungsi Azure
+# <a name="azure-function-apps"></a>Aplikasi Fungsi Azure
 
-[Mengonfigurasi aplikasi layanan aplikasi atau Azure fungsi Anda untuk menggunakan masuk AZURE AD](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) memperlihatkan kepada Anda cara mengonfigurasi Azure App atau fungsi Azure untuk menggunakan Azure Active Directory (Azure AD) sebagai penyedia autentikasi.
+[Mengonfigurasi Layanan Aplikasi](https://docs.microsoft.com/azure/app-service/configure-authentication-provider-aad) atau aplikasi Azure Functions untuk menggunakan masuk Azure AD memperlihatkan cara mengonfigurasi Layanan Aplikasi Azure atau Fungsi Azure untuk menggunakan Azure Active Directory (Azure AD) sebagai penyedia autentikasi.
