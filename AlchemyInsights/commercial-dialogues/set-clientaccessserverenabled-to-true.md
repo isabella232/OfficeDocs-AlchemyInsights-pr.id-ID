@@ -1,5 +1,5 @@
 ---
-title: Setel ClientAccessServerEnabled ke True
+title: Mengatur ClientAccessServerEnabled ke True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746413"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994868"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>Setel ClientAccessServerEnabled ke True
+# <a name="set-clientaccessserverenabled-to-true"></a>Mengatur ClientAccessServerEnabled ke True
 
-Jika Anda tidak bisa membuka pesan email terenkripsi dan sebagai gantinya melihat lampiran **MSG** , lakukan langkah-langkah berikut:
+Jika Tidak dapat membuka pesan email terenkripsi dan sebagai gantinya, lihat lampiran **rpmsg,** lakukan langkah-langkah berikut:
 
-1. Menyambungkan ke Exchange Online PowerShell.
+1. Koneksi ke Exchange Online PowerShell.
 
 > [!NOTE]
-> Untuk menyambungkan ke Exchange Online PowerShell, Anda harus masuk menggunakan akun admin global atau Exchange admin.
+> Untuk menyambungkan ke Exchange Online PowerShell, Anda harus masuk menggunakan admin global atau Exchange admin.
 
-   untuk. Buka Windows PowerShell, lalu jalankan perintah berikut: `$UserCredential = Get-Credential`
-b. Dalam kotak dialog **permintaan kredensial Windows PowerShell** , masukkan akun kerja atau sekolah dan kata sandi Anda, c. Klik **OK**. 
+   a. Buka Windows PowerShell, lalu jalankan perintah berikut:`$UserCredential = Get-Credential`
+b. Dalam kotak **dialog Windows PowerShell Permintaan Kredensial,** masukkan akun kerja atau sekolah dan kata sandi, c. Klik **OK**. 
 
 2. Jalankan perintah berikut ini untuk membuat sesi baru:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    untuk. Jalankan perintah berikut:
+    a. Jalankan perintah berikut:
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. Jalankan `Get-IRMConfiguration` perintah.
+3. Perintah `Get-IRMConfiguration` Jalankan.
 
-4. Periksa pengaturan **Clientaccessserverenabled** . 
+4. Periksa pengaturan **ClientAccessServerEnabled.** 
 
-    untuk. Jika pengaturan **Clientaccessserverenabled** diatur ke **false**, Jalankan cmdlet berikut: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. Jika **pengaturan ClientAccessServerEnabled** diatur ke **False,** jalankan cmdlet berikut: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> Selalu tutup sesi PowerShell Anda dengan perintah berikut ini: `Remove-PSSession $Session`
+> Selalu tutup sesi powershell dengan perintah berikut: `Remove-PSSession $Session`
 
 Untuk informasi selengkapnya, lihat [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

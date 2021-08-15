@@ -1,5 +1,5 @@
 ---
-title: Menyetel tanda tangan email di Outlook untuk iOS
+title: Menyiapkan tanda tangan email di Outlook untuk iOS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: db2360baaf94d322f97c56c37af492f7c37b900b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1de8ee459689287eca449694568145c516af5009cf39e237f3f82bdeb27403e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482486"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994904"
 ---
-# <a name="set-up-an-email-signature-in-outlook-for-ios"></a>Menyetel tanda tangan email di Outlook untuk iOS
+# <a name="set-up-an-email-signature-in-outlook-for-ios"></a>Menyiapkan tanda tangan email di Outlook untuk iOS
 
-Ada banyak sumber daya hebat di internet yang menjelaskan cara melakukan ini. Silakan Cari Internet untuk: "cara menyetel tanda tangan email di Outlook untuk iOS"
+Ada banyak sumber daya hebat di internet yang menjelaskan cara melakukan ini. Silakan cari di Internet: "Cara menyiapkan tanda tangan email di Outlook untuk iOS"

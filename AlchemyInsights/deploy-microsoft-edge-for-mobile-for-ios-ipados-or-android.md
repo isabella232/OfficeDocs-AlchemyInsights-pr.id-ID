@@ -1,5 +1,5 @@
 ---
-title: Menyebarkan Microsoft Edge untuk ponsel untuk iOS/iPadOS atau Android
+title: Menyebarkan Microsoft Edge untuk Mobile untuk iOS/iPadOS atau Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005453"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Menyebarkan Microsoft Edge untuk ponsel untuk iOS/iPadOS atau Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Menyebarkan Microsoft Edge untuk Mobile untuk iOS/iPadOS atau Android
 
-Skenario terpandu yang diringkas di bawah akan membantu Anda menetapkan Microsoft Edge kepada pengguna iOS, iPadOS, dan perangkat Android. Setelah Anda menyelesaikan langkah-langkah ini, kebijakan Microsoft Intune akan mengaktifkan fitur berikut Microsoft Edge untuk bisnis:
+Skenario yang dipandu yang diringkas di bawah ini akan membantu Microsoft Edge pengguna perangkat iOS, iPadOS, dan Android. Setelah Anda menyelesaikan langkah-langkah Microsoft Intune ini, kebijakan akan mengaktifkan fitur dan Microsoft Edge untuk bisnis berikut:
 
 - Identitas ganda
-- Integrasi dengan kebijakan proteksi aplikasi Microsoft Intune
-- Integrasi dengan proksi aplikasi Azure Active Directory
-- Pintasan Halaman favorit dan Beranda terkelola
+- Integrasi dengan Microsoft Intune proteksi aplikasi
+- Integrasi dengan Azure Active Directory Proksi Aplikasi
+- Pintasan favorit dan laman yang dikelola
 
 > [!NOTE]
-> Jika Anda memblokir pengguna dari perangkat seluler yang didaftarkan, skenario yang dipandu ini tidak akan berfungsi dan pengguna perlu menginstal Microsoft Edge secara mandiri.
+> Jika Anda memblokir pengguna dari mendaftarkan perangkat seluler, skenario yang dipandu ini tidak akan berfungsi dan pengguna harus menginstal Microsoft Edge sendiri.
 
-Untuk menggunakan Microsoft Edge untuk ponsel untuk iOS/iPadOS atau Android, lihat:
+Untuk menyebarkan Microsoft Edge Mobile untuk iOS/iPadOS atau Android, lihat:
 
-1. [Tuntutan](https://go.microsoft.com/fwlink/?linkid=2133027)
-2. [Muka](https://go.microsoft.com/fwlink/?linkid=2133520)
-3. [Membahas](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Susunan](https://go.microsoft.com/fwlink/?linkid=2133521)
-5. [Mengumpulkan](https://go.microsoft.com/fwlink/?linkid=2132869)
-6. [Peninjauan dan pembuatan](https://go.microsoft.com/fwlink/?linkid=2133522)
+1. [Prasyarat](https://go.microsoft.com/fwlink/?linkid=2133027)
+2. [Pengenalan](https://go.microsoft.com/fwlink/?linkid=2133520)
+3. [Dasar](https://go.microsoft.com/fwlink/?linkid=2133421)
+4. [Konfigurasi](https://go.microsoft.com/fwlink/?linkid=2133521)
+5. [Tugas](https://go.microsoft.com/fwlink/?linkid=2132869)
+6. [Meninjau dan membuat](https://go.microsoft.com/fwlink/?linkid=2133522)

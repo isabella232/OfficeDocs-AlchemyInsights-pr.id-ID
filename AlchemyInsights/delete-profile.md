@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680102"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005525"
 ---
 # <a name="delete-a-profile"></a>Menghapus profil
 
 Untuk menghapus profil, gunakan langkah-langkah berikut ini.
   
-1. Di Outlook, pilih **File** \> **pengaturan akun** file \> **Kelola profil**.
+1. Di Outlook, pilih **Akun File** \> **Pengaturan** \> **Kelola Profil**.
 
-2. Pilih **Perlihatkan profil**.
+2. Pilih **Perlihatkan Profil**.
 
-3. Dalam dialog **email** , pilih profil yang ingin Anda hapus, lalu klik **Hapus**.
+3. Dalam dialog **Email,** pilih profil yang ingin dihapus, lalu klik **Hapus.**
 
     > [!NOTE]
-    > Outlook mungkin memperingatkan Anda bahwa menghapus profil Anda akan menghapus data offline. Anda tidak akan kehilangan informasi apa pun yang disimpan di file data Outlook (. pst) atau informasi apa pun yang disimpan di akun online Anda, misalnya Outlook.com, Exchange, atau akun Microsoft 365.
+    > Outlook mungkin memperingatkan Anda bahwa menghapus profil Anda akan menghapus data offline. Anda tidak akan kehilangan informasi apa pun yang disimpan di File Data Outlook (.pst) atau informasi apa pun yang disimpan di akun online, misalnya akun Outlook.com, Exchange, atau Microsoft 365.
   
-Untuk manajemen profil **Outlook untuk Mac** , lihat [mengelola profil atau identitas di Outlook untuk Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) atau gunakan langkah-langkah berikut ini.
+Untuk **Outlook profil Mac,** lihat [Mengelola profil atau](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) identitas di komputer Outlook Mac atau gunakan langkah-langkah berikut ini.
   
-1. Dari Finder, buka folder **aplikasi** .
+1. Dari Finder, **buka** folder Aplikasi.
 
-2. Ctrl + klik atau klik kanan **Microsoft Outlook**, lalu pilih **Perlihatkan konten paket**.
+2. Ctrl+klik atau klik kanan **Microsoft Outlook**, lalu pilih **Perlihatkan Konten Paket.**
 
-3. Pilih **konten** \> **berbagi dukungan**, lalu Luncurkan **manajer profil Outlook**.
+3. Pilih **Konten** \> **Dukungan Bersama**, lalu luncurkan Outlook Manajer **Profil**.

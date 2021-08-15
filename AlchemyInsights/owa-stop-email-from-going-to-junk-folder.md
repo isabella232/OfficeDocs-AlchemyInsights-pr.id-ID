@@ -1,5 +1,5 @@
 ---
-title: Hentikan pesan dari masuk ke folder email sampah dalam Outlook di web
+title: Menghentikan pesan masuk ke folder Email Sampah di Outlook di web
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 68ff66f0f92d84f788963f5f17f8e695813bc3fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f1b0704353d07c03bbb0b805fd32010958ff254b2823f535544b0f636c2919
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982514"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Hentikan pesan dari masuk ke folder email sampah Anda di Outlook di web
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Hentikan pesan masuk ke folder Email Sampah Anda di Outlook di web
 
-Jika Anda menemukan bahwa pesan email dalam folder email sampah Anda bukan sampah:
+Jika Anda menemukan bahwa sebuah pesan email di folder Email Sampah Anda bukan sampah:
 
-1. Buka folder email sampah dan pilih pesan. (*Catatan:* item dalam folder email sampah dihapus setelah 30 hari.)
-1. Di atas daftar pesan, pilih **bukan sampah**  >  **bukan sampah**.
+1. Buka folder Email Sampah Anda dan pilih pesannya. (*Catatan:* Item di folder Email Sampah Anda dihapus setelah 30 hari.)
+1. Di atas daftar pesan, pilih **Bukan sampah**  >  **Bukan sampah**.
 
-Jika Anda ingin mencegah pesan dari pengirim masuk ke folder email sampah, tambahkan pengirim ke daftar pengirim aman Anda:
+Jika Anda ingin mencegah masuk pesan dari pengirim ke folder Email Sampah, tambahkan pengirim ke daftar pengirim aman Anda:
 
-1. Pilih ikon gerigi <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- untuk membuka panel pengaturan.
-1. Pilih **Tampilkan semua**  >  **email sampah**pengaturan Outlook.
-1. Di bawah **pengirim dan domain yang aman**, pilih **Tambahkan**.
-1. Masukkan alamat email atau domain yang ingin Anda tambahkan, lalu pilih **Simpan**.
+1. Pilih ikon gerbok <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ untuk membuka Pengaturan pencarian.
+1. Pilih **Tampilkan semua Outlook pengaturan Sampah** Email  >  **sampah.**
+1. Di **Brankas pengirim dan domain**, pilih **Tambahkan**.
+1. Masukkan alamat email atau domain yang ingin Anda tambahkan dan pilih **Simpan**.
