@@ -1,5 +1,5 @@
 ---
-title: Pemecahan masalah dan kesalahan alat migrasi SharePoint
+title: Pemecahan SharePoint dan kesalahan Alat Migrasi
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020663"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Pemecahan masalah dan kesalahan alat migrasi SharePoint
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Pemecahan SharePoint dan kesalahan Alat Migrasi
 
-Anda mungkin mengalami beberapa masalah dan kesalahan umum ketika menggunakan alat migrasi SharePoint (SPMT). Silakan rujuk link di bawah ini untuk informasi selengkapnya.
+Anda mungkin mengalami beberapa masalah dan kesalahan umum ketika menggunakan SharePoint Migration Tool (SPMT). Silakan lihat tautan di bawah ini untuk informasi selengkapnya.
 
-- [Memecahkan masalah dan kesalahan SPMT Umum](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Memecahkan masalah dan kesalahan SPMT umum](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [Pemecahan masalah penginstalan SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [Memecahkan masalah penginstalan SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

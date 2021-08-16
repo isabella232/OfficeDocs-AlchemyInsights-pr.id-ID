@@ -1,5 +1,5 @@
 ---
-title: 976-cara-untuk-mengaktifkan-litigasi-Hold
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780566"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067519"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Tempatkan kotak surat di penangguhan hukum
+# <a name="place-a-mailbox-on-legal-hold"></a>Menempatkan kotak surat saat sedang berada dalam perlindungan hukum
 
-- Untuk menempatkan kotak surat di penahanan litigasi atau penangguhan di tempat, lisensi Exchange Online paket 2 lisensi paket [2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) Exchange Online diperlukan. Jika kotak surat ditetapkan lisensi paket 1, Anda bisa menetapkan lisensi Add [-on pengarsipan](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)Exchange Online yang terpisah.
+- Untuk menempatkan kotak surat pada In-Place Litigasi, lisensi Exchange Online Paket 2 [Exchange Online Paket 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) diperlukan. Jika kotak surat diberi lisensi Paket 1, Anda bisa menetapkan lisensi add-on Exchange Online Archiving terpisah [Exchange Online Archiving add-on.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)
 
-- Untuk mengaktifkan penahanan litigasi untuk satu pengguna, [ikuti langkah-langkah ini](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). Ketika penahanan litigasi diaktifkan, Semua konten dalam kotak surat dipertahankan.
+- Untuk mengaktifkan Penahanan Litigasi bagi satu pengguna, ikuti [langkah-langkah berikut.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) Saat Litigasi diaktifkan, semua konten dalam kotak surat akan dipertahankan.
 
-- Untuk mempertahankan konten di semua kotak surat di organisasi Anda atau untuk membuat tipe penyimpanan lainnya, gunakan kebijakan atau label penyimpanan. Perhatikan bahwa untuk kebijakan penyimpanan di seluruh organisasi, pengguna baru secara otomatis ditetapkan ke kebijakan tersebut. Untuk informasi selengkapnya, lihat [mempelajari tentang kebijakan penyimpanan dan label penyimpanan](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
+- Untuk mempertahankan konten dalam semua kotak surat di organisasi Anda atau untuk membuat tipe penyimpanan lainnya, gunakan kebijakan penyimpanan atau label. Perhatikan bahwa untuk kebijakan penyimpanan tingkat organisasi, pengguna baru secara otomatis ditetapkan ke kebijakan tersebut. Untuk informasi selengkapnya, lihat [Pelajari tentang kebijakan penyimpanan dan penyimpanan label](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 

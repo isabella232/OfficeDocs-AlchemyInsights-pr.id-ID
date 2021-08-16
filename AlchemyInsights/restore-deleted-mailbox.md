@@ -15,24 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 07ad754a927be92ece07f91c5a64d8084c96d0344925467a195033bdd3f445ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075079"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Memulihkan kotak surat yang dihapus
 
-Saat pengguna kehilangan lisensi Exchange Online, kotak surat mereka dipertahankan selama 30 hari dan bisa dipulihkan hanya dengan menetapkan ulang lisensi kepada pengguna.
+Jika pengguna kehilangan lisensi Exchange Online, kotak surat mereka akan dipertahankan selama 30 hari dan dapat dipulihkan dengan menetapkan ulang lisensi kepada pengguna tersebut.
   
-1. Di pusat admin Microsoft 365, masuk ke halaman pengguna  \> **aktif** pengguna. Pilih pengguna yang dimaksud.
+1. Di bagian pusat admin Microsoft 365, buka **halaman Pengguna** \> **Aktif** pengguna. Pilih pengguna yang dimaksud.
 
-2. Pada tab **lisensi dan aplikasi** , tetapkan lisensi Exchange Online dan pilih **Simpan perubahan**.
+2. Pada tab **Lisensi dan Aplikasi,** tetapkan lisensi Exchange Online dan pilih **Simpan perubahan.**
 
-Jika Anda mencoba memulihkan kotak surat bersama atau pengguna yang telah dihapus, pesan juga dapat dipulihkan selama 30 hari. Anda bisa menemukannya di bawah **pengguna** yang \> **dihapus pengguna**; kotak surat bersama tidak memerlukan lisensi. Silakan lihat [memulihkan pengguna](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Jika mencoba memulihkan kotak surat bersama atau pengguna yang telah dihapus, kotak surat tersebut juga dapat dipulihkan selama 30 hari. Anda bisa menemukannya di **bawah** \> **Pengguna Pengguna dihapus**; kotak surat bersama tidak memerlukan lisensi. Lihat Memulihkan [pengguna.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
 
-Pemulihan email dari kotak surat pengguna dapat dilakukan oleh admin dengan masuk ke [Pusat admin Exchange yang baru](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353).
+Pemulihan email dari kotak surat pengguna bisa dilakukan oleh admin dengan masuk ke Pusat [Admin Exchange baru.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
 
-Terakhir, jika Anda mencoba memulihkan kotak surat yang tidak aktif, [ikuti instruksinya di sini](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
+Terakhir, jika mencoba memulihkan kotak surat Tidak Aktif, ikuti [instruksi di sini.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
   
