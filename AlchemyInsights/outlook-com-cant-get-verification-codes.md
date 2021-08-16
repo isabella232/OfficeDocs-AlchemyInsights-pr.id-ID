@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064207"
 ---
 # <a name="cant-get-verification-codes"></a>Tidak bisa mendapatkan kode verifikasi
 
-Jika Anda tidak bisa mengakses email atau nomor telepon alternatif Anda, masuk ke halaman [dasar keamanan](https://account.microsoft.com/security) akun Microsoft Anda, pilih **saya tidak memilikinya** di halaman masuk, dan ikuti instruksi untuk mengganti Info keamanan Anda.
+Jika tidak dapat mengakses email atau nomor telepon alternatif, [](https://account.microsoft.com/security) masuk ke halaman  Dasar-dasar keamanan akun Microsoft, pilih Saya tidak memilikinya di halaman masuk, lalu ikuti instruksi untuk mengganti info keamanan Anda.
 
-*Catatan:* [Aplikasi Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) tidak memerlukan koneksi internet untuk memberi Anda kode verifikasi.
+*Catatan:* Aplikasi [Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) tidak memerlukan koneksi internet untuk memberi Anda kode verifikasi.
 
-Untuk mempelajari selengkapnya, Baca informasi [keamanan akun Microsoft dan kode verifikasi](https://support.microsoft.com/help/12428/).
+Untuk mempelajari selengkapnya, baca [Informasi keamanan akun Microsoft dan kode verifikasi](https://support.microsoft.com/help/12428/).

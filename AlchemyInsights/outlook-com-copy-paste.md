@@ -1,5 +1,5 @@
 ---
-title: Copy paste Outlook.com
+title: Outlook.com menyalin tempel
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011087"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Salin dan tempel di Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Menyalin dan menempelkan di Outlook.com
 
-Tidak ada tombol Salin atau tempel di Outlook.com, tetapi Anda bisa menggunakan pintasan keyboard:
+Tidak ada tombol salin atau tempel di Outlook.com, tetapi Anda dapat menggunakan pintasan keyboard:
 
-**Di PC:** CTRL + C untuk menyalin, CTRL + X untuk memotong, dan CTRL + V untuk menempel.
+**Di PC:** CTRL+C untuk menyalin, CTRL+X untuk memotong, dan CTRL+V untuk menempelkannya.
 
-**Di Mac:** CMD + C untuk menyalin, CMD + X untuk dipotong, dan CMD + V untuk ditempelkan.
+**Di Mac:** CMD+C untuk menyalin, CMD+X untuk memotong, dan CMD+V untuk menempelkan.
