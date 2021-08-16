@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002297"
 ---
 # <a name="get-started-with-yammer"></a>Mulai menggunakan Yammer
 
-Yammer adalah jaringan sosial perusahaan pribadi terbaik, aman, dan privat. Yammer menyediakan pengalaman yang menarik dan mudah digunakan di web dan di aplikasi Yammer untuk perangkat Android dan iOS. Yammer dapat diintegrasikan dengan Microsoft teams dan Outlook. Yammer juga menyediakan pengalaman integrasi yang diperbarui di SharePoint online.
+Yammer adalah jejaring sosial perusahaan yang baik, aman, dan privat. Yammer menyediakan pengalaman yang menarik dan mudah digunakan di web dan di aplikasi Yammer untuk perangkat Android dan iOS. Yammer bisa terintegrasi dengan Microsoft Teams dan Outlook. Yammer juga menyediakan pengalaman integrasi yang diperbarui di SharePoint Online.
 
-Gunakan Advisor penyebaran Yammer untuk mempersiapkan jaringan Yammer dengan menambahkan domain, menentukan admin, dan menggabungkan jaringan Yammer. Menyebarkan Yammer lalu mengustomisasi tampilan, mengonfigurasi keamanan dan kepatuhan, serta menyempurnakan pengaturan.
+Gunakan Yammer penyebaran untuk menyiapkan jaringan Yammer Anda dengan menambahkan domain, menetapkan admin, dan menggabungkan Yammer jaringan. Sebarkan Yammer lalu kustomisasi tampilan, konfigurasi keamanan dan kepatuhan, dan perbaiki pengaturan.

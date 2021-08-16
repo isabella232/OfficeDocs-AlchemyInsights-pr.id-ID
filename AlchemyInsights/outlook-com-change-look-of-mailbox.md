@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096481"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Mengubah tampilan kotak surat Outlook.com Anda
 
-Anda dapat mengubah tampilan daftar pesan dan panel baca di Outlook.com.
+Anda dapat mengubah tampilan panel baca dan daftar pesan Outlook.com.
 
-- Untuk mengubah tata letak jendela pesan, buka opsi [panel baca](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Untuk mengubah cara pengurutan email Anda, di bagian atas daftar pesan, pilih **filter**  >  **Urutkan menurut** , lalu pilih cara yang Anda inginkan untuk mengurutkan email.
-- Untuk mengelompokkan pesan Anda menurut percakapan, buka opsi [organisasi pesan](https://outlook.live.com/mail/options/mail/layout/conversations) Anda.
-- Untuk mengaktifkan atau menonaktifkan kotak masuk prioritas, buka opsi [tata letak](https://outlook.live.com/mail/options/mail/layout/focused) Anda.
+- Untuk mengubah tata letak jendela pesan, buka opsi [Panel baca.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- Untuk mengubah pengurutan email, di bagian atas daftar pesan, pilih **Filter**  >  **Urutkan menurut,** lalu pilih cara yang diinginkan untuk mengurutkan email.
+- Untuk mengelompokkan pesan berdasarkan percakapan, buka opsi [Organisasi pesan.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Untuk mengaktifkan atau menonaktifkan Kotak Masuk Prioritas, buka opsi [Tata Letak.](https://outlook.live.com/mail/options/mail/layout/focused)

@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: ad2ab70e9f2b34e1921b75122b85162ea70a521a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55f06a9f19d30526b2d5218223087749d29ff784a492c82858aaeacbd6166391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096589"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>Menambahkan akun Gmail Anda ke Outlook.com
 
-1. Buka [pengaturan email sinkronisasi](https://go.microsoft.com/fwlink/?linkid=875264)Anda.
-2. Di bawah **akun tersambung**, pilih **Gmail**.
-3. Masukkan nama tampilan (Penerima nama akan melihat Kapan mereka menerima pesan email dari Anda).
-4. Pilih jika Outlook.com harus mengimpor email dari Gmail dan tempat email yang diimpor akan disimpan.
+1. Buka pengaturan [Sinkronisasi Email Anda.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. Di **bawah Akun tersambung**, pilih **Gmail.**
+3. Masukkan nama tampilan (nama yang akan dilihat penerima saat mereka menerima pesan email dari Anda).
+4. Pilih apakah Outlook.com akan mengimpor email dari Gmail dan tempat email yang diimpor akan disimpan.
 5. Pilih **OK** untuk masuk ke halaman masuk Google.
 
-Menyinkronkan dari akun tersambung ke akun Outlook.com Anda hanya satu arah. Email yang dikirim dari akun Gmail Anda menggunakan Outlook.com tidak akan muncul dalam item terkirim di Gmail.
+Menyinkronkan dari akun tersambung ke akun Outlook.com hanya satu arah. Email yang dikirim dari akun Gmail Anda menggunakan Outlook.com tidak akan muncul dalam Item Terkirim di Gmail.
 
-Anda dapat mengirim email di Outlook.com dari akun Gmail yang tersambung. Saat menulis email, pilih **dari** dan pilih alamat Gmail Anda, atau [Perbarui alamat dari default Anda](https://go.microsoft.com/fwlink/?linkid=875264).
+Anda bisa mengirim email di Outlook.com dari akun Gmail tersambung. Ketika menulis email, pilih Dari, **lalu** pilih alamat Gmail, atau perbarui [alamat Dari default.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Untuk informasi selengkapnya, lihat [menambahkan akun email lain ke Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk informasi selengkapnya, lihat [Menambahkan akun email lain ke Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
