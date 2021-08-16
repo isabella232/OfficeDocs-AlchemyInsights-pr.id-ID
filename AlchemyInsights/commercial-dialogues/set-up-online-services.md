@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070399"
 ---
 # <a name="set-up-online-services"></a>Menyiapkan layanan online
 
-Untuk menyiapkan layanan online, lakukan langkah-langkah berikut:
+Untuk menyetel layanan online, lakukan langkah-langkah berikut ini:
 
-1. Pada halaman **Tambahkan catatan untuk situs web Anda** : a. Klik **berikutnya**, jika Anda tidak memiliki situs web. Lalu, Anda mendarat di halaman **perbarui pengaturan DNS** .
-    b. Temukan catatan di penyedia hosting DNS Anda, jika Anda memiliki situs web. Lalu, Salin dan tempelkan ke halaman.
-2. Klik **berikutnya** untuk masuk ke halaman **perbarui pengaturan DNS** .
+1. Pada halaman **Tambahkan catatan untuk situs web** Anda: a. Klik **Berikutnya,** jika Anda tidak memiliki situs web. Lalu, Anda berada di **halaman Perbarui pengaturan DNS.**
+    b. Temukan catatan di penyedia hosting DNS Anda, jika Anda memiliki situs web. Lalu, salin dan tempelkan ke dalam halaman.
+2. Klik **Berikutnya** untuk masuk ke **halaman Perbarui pengaturan** DNS.

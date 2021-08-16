@@ -1,5 +1,5 @@
 ---
-title: Menyebarkan panduan Office untuk pengguna jarak jauh
+title: Panduan Office untuk pengguna jarak jauh
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031445"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Menyebarkan panduan Office untuk pengguna jarak jauh
+# <a name="deploy-office-to-remote-users-wizard"></a>Panduan Office untuk pengguna jarak jauh
 
-Sekarang yang bekerja dari jarak jauh adalah norma, pengguna perlu menerima pengaturan Office organisasi Anda saat mereka tidak tersambung ke jaringan internal Anda atau saat menggunakan perangkat mereka sendiri.
+Sekarang karena bekerja dari jarak jauh adalah hal yang umum, pengguna harus menerima pengaturan Office organisasi Anda saat mereka tidak tersambung ke jaringan internal Anda atau saat menggunakan perangkat mereka sendiri.
 
-Gunakan panduan [Pengdeploy Office untuk pengguna jarak jauh](https://go.microsoft.com/fwlink/?linkid=2149564) untuk membuat Instalasi Office yang dikustomisasi lalu mengirim pengguna skrip PowerShell yang dihasilkan dengan mulus menginstal Office dengan konfigurasi Anda.
+Gunakan panduan [Office](https://go.microsoft.com/fwlink/?linkid=2149564) untuk pengguna jarak jauh untuk membuat penginstalan Office yang dikustomisasi lalu kirim kepada pengguna skrip PowerShell yang dihasilkan yang akan dengan mulus menginstal Office dengan konfigurasi Anda.

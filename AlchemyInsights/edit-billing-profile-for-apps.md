@@ -1,5 +1,5 @@
 ---
-title: Mengedit profil tagihan untuk aplikasi
+title: Edit profil tagihan untuk aplikasi
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571740"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100837"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Mengedit profil tagihan untuk aplikasi
+# <a name="edit-billing-profile-for-apps"></a>Edit profil tagihan untuk aplikasi
 
-**Mengedit profil tagihan**
+**Edit profil tagihan**
 
-1. Buka halaman tagihan **tagihan**  >  **[&](https://go.microsoft.com/fwlink/p/?linkid=848039)** , lalu klik **profil tagihan**.
+1. Masuk ke **halaman**  >  **[Tagihan & pembayaran,](https://go.microsoft.com/fwlink/p/?linkid=848039)** lalu klik Profil **tagihan**.
 
 2. Dari daftar profil tagihan, pilih profil tagihan yang ingin Anda edit.
 
 **Untuk mengubah profil tagihan di aplikasi**
 
-1. Masuk ke halaman **tagihan**  >  **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** , lalu klik tab **aplikasi** .
+1. Masuk ke **halaman Tagihan**  >  **[Produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda, lalu klik **tab** Aplikasi.
 
-2. Temukan dan pilih aplikasi yang ingin Anda Kelola.  
+2. Temukan dan pilih aplikasi yang ingin Anda kelola.  
 
-3. Di samping **profil tagihan**, klik **Edit** dan pilih profil tagihan yang ingin Anda kaitkan dengan aplikasi tersebut.
+3. Di samping **Profil tagihan**, **klik Edit,** lalu pilih profil tagihan yang ingin Anda kaitkan dengan aplikasi.

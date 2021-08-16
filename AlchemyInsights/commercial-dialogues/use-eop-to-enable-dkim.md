@@ -1,5 +1,5 @@
 ---
-title: Menggunakan Exchange Online PowerShell untuk mengaktifkan DKIM untuk domain tertentu
+title: Menggunakan Exchange Online PowerShell untuk mengaktifkan DKIM bagi domain tertentu
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070306"
 ---
-# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Menggunakan Exchange Online PowerShell untuk mengaktifkan DKIM untuk domain tertentu
+# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Menggunakan Exchange Online PowerShell untuk mengaktifkan DKIM bagi domain tertentu
 
-Jika Anda tidak dapat membuat catatan DNS DKIM di pusat admin, coba gunakan Exchange Online PowerShell. 
+Jika tidak dapat membuat catatan DNS DKIM di pusat admin, coba gunakan PowerShell Exchange Online. 
 
-Untuk membuat catatan DNS DKIM menggunakan Exchange Online PowerShell, lakukan langkah-langkah berikut:
+Untuk membuat catatan DNS DKIM menggunakan PowerShell Exchange Online, lakukan langkah-langkah berikut ini:
 
-1. Buka Windows PowerShell sebagai administrator dan jalankan perintah berikut dalam urutan yang dijelaskan:
+1. Buka Windows PowerShell sebagai administrator dan jalankan perintah berikut dalam urutan yang diuraikan:
 
-    untuk. `$UserCredential = Get-Credential`
+    a. `$UserCredential = Get-Credential`
 
     b. `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    's. `Import-PSSession $Session -DisableNameChecking`
+    c. `Import-PSSession $Session -DisableNameChecking`
     
-Jika Anda mengalami masalah saat menyambungkan ke Exchange Online PowerShell, lihat [menyambungkan ke Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Jika anda mengalami masalah saat menyambungkan ke Exchange Online PowerShell, [lihat Koneksi ke Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 
-2. Setelah Anda tersambung ke Exchange Online PowerShell, jalankan perintah berikut:
+2. Setelah tersambung ke PowerShell Exchange Online, jalankan perintah berikut:
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 
-3. Setelah perintah di atas berhasil dieksekusi, jalankan perintah berikut ini untuk mengakhiri sesi PowerShell Exchange Online:
+3. Setelah perintah di atas berhasil dijalankan, jalankan perintah berikut untuk mengakhiri Exchange Online PowerShell:
 
     `Remove-PSSession $Session` 
 
