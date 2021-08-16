@@ -1,5 +1,5 @@
 ---
-title: Intune perangkat inventaris
+title: Inventaris Perangkat Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014075"
 ---
-# <a name="intune-device-inventory"></a>Intune perangkat inventaris
+# <a name="intune-device-inventory"></a>Inventaris Perangkat Intune
 
-Bilah perangkat menyediakan wawasan administrator ke perangkat di bawah manajemen di Intune pada basis per perangkat. Informasi yang diperlihatkan meliputi: perangkat keras, aplikasi yang ditemukan, status kepatuhan perangkat, dan status konfigurasi perangkat.
+Blade Perangkat memberikan wawasan administrator ke perangkat dalam manajemen di Intune setiap perangkat. Informasi yang diperlihatkan meliputi: Perangkat Keras, aplikasi yang ditemukan, status Kepatuhan Perangkat, dan status Konfigurasi Perangkat.
 
-Inventaris data untuk perangkat keras dan ditemukan aplikasi dikumpulkan dalam siklus tujuh hari. Aplikasi dan elemen perangkat keras tertentu yang dilaporkan berbeda tergantung pada sistem operasi perangkat dan apakah perangkat tersebut bersifat pribadi atau milik perusahaan.
+Data inventaris untuk perangkat keras dan aplikasi yang ditemukan dikumpulkan dalam siklus tujuh hari. Aplikasi dan elemen tertentu dari perangkat keras yang dilaporkan berbeda bergantung pada sistem operasi perangkat dan apakah perangkat tersebut dimiliki secara pribadi atau milik perusahaan.
 
-Untuk informasi selengkapnya, lihat [melihat detail perangkat di Intune](https://docs.microsoft.com/intune/device-inventory).
+Untuk informasi selengkapnya, lihat [Lihat detail perangkat di Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **FAQ**
 
-T: saya tidak menerima daftar inventaris lengkap tentang aplikasi yang ada di perangkat Windows yang didaftarkan Intune. Mengapa tidak?
+T: Saya tidak menerima daftar inventaris lengkap aplikasi yang ada di perangkat Windows Intune. Mengapa tidak?
 
-J: saat ini, hanya aplikasi modern yang dicantumkan untuk PC Windows 10 yang diidentifikasi sebagai perangkat korporat. Intune tidak mengumpulkan informasi tentang aplikasi Win32 yang terinstal di perangkat ini.
+A: Saat ini, hanya aplikasi modern yang tercantum Windows 10 PC yang diidentifikasi sebagai perangkat perusahaan. Intune tidak mengumpulkan informasi tentang aplikasi Win32 yang diinstal di perangkat ini.
 
 P: Mengapa nomor telepon tidak dikumpulkan dari semua perangkat?
 
-A: telepon yang dikategorikan sebagai perangkat korporat di Intune tidak diidentifikasi dengan nomor telepon lengkap mereka saat, misalnya, Anda menjalankan laporan inventaris perangkat seluler. Bawalah-Anda-sendiri-nomor telepon perangkat selalu ditutupi dengan tanda bintang (* * * *), dan hanya memperlihatkan empat digit terakhir.
+A: Telepon yang dikategorikan sebagai perangkat perusahaan di Intune tidak diidentifikasi dengan nomor telepon lengkapnya ketika, misalnya, Anda menjalankan laporan inventaris perangkat seluler. Nomor telepon bawa-anda-sendiri selalu diseminggikan sebagian dengan tanda bintang (****), dan hanya memperlihatkan empat digit terakhir.

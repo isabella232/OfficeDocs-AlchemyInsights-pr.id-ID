@@ -1,5 +1,5 @@
 ---
-title: Membuat situs di SharePoint online
+title: Membuat situs di SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: dcc0f24e807c4fcf4930cd9d988d053d894171f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0ab24766fb3685a90bd29b66168364b7451e1c98685ed792eb595bec9cb1b0ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032237"
 ---
 # <a name="create-a-site"></a>Membuat situs
 
-Anda dapat membuat berbagai tipe situs di SharePoint online. Untuk mempelajari cara melakukan ini di pusat admin SharePoint baru, lihat [membuat situs](https://go.microsoft.com/fwlink/?linkid=866295). Untuk informasi tentang memungkinkan pengguna membuat situs mereka sendiri, lihat [mengelola pembuatan situs di SharePoint online](https://go.microsoft.com/fwlink/?linkid=866296).
+Anda bisa membuat tipe situs berbeda di SharePoint Online. Untuk mempelajari cara melakukannya di pusat admin SharePoint baru, [lihat Membuat situs](https://go.microsoft.com/fwlink/?linkid=866295). Untuk informasi tentang mengizinkan pengguna membuat situs mereka sendiri, lihat [Mengelola pembuatan situs di SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=866296)
  
-Untuk informasi tentang tipe situs baru, lihat situs [tim](https://go.microsoft.com/fwlink/?linkid=866292) atau situs [komunikasi](https://go.microsoft.com/fwlink/?linkid=866294)grup yang terhubung.
+Untuk informasi tentang tipe situs baru, lihat Mengelompokkan [situs tim yang tersambung atau](https://go.microsoft.com/fwlink/?linkid=866292) Situs [komunikasi.](https://go.microsoft.com/fwlink/?linkid=866294)
     
 
 

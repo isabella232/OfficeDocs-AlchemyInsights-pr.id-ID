@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2fe193cebfb00b22eda54f2dc0b264db7b9b84cb
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045135"
 ---
 # <a name="view-all-quarantined-messages"></a>Menampilkan semua pesan yang dikarantina
 
-1. Di pusat admin, masuk ke [pusat kepatuhan & keamanan.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Masuk ke karantina peninjauan **manajemen manajemen**  >    >  .
-3. Secara default, pesan diurutkan dari terbaru ke terlama berdasarkan tanggal saat pesan diterima. Anda dapat mengurutkan bidang dengan mengklik header.
-4. Anda hanya dapat melakukan operasi massal hingga 100 item, sehingga pemfilteran juga dapat mengurangi rangkaian hasil jika Anda memiliki lebih dari 100 item.
+1. Di pusat admin, masuk ke pusat [Keamanan & Kepatuhan.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Buka **Karantina**  >  **Tinjauan Manajemen**  >  **ancaman**.
+3. Secara default, pesan diurutkan dari terbaru ke ter lama berdasarkan tanggal pesan diterima. Anda bisa mengurutkan pada bidang dengan mengklik header.
+4. Anda hanya dapat melakukan operasi massal hingga pada 100 item, sehingga pemfilteran juga dapat membantu mengurangi kumpulan hasil jika memiliki lebih dari 100 item.

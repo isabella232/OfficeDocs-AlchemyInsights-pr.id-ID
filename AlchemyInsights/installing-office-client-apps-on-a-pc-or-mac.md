@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014219"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Menginstal aplikasi klien Office di PC atau MAC
 
@@ -27,7 +27,7 @@ Untuk menginstal aplikasi klien Office, pastikan Anda memiliki langganan Office 
 
 Jika memiliki langganan yang menyertakan aplikasi Microsoft 365, Anda tidak akan melihat opsi untuk menginstalnya kecuali telah memiliki [lisensi yang ditetapkan](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Jika Anda adalah admin Office 365 yang bertanggung jawab untuk menetapkan lisensi, lihat [Menetapkan lisensi kepada pengguna](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Selain itu, gunakan [pengaturan pengunduhan perangkat lunak Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) untuk menentukan apakah pengguna dapat menginstal aplikasi Office di perangkatnya sendiri.
 
-**Catatan:** Laporan [Aktivasi Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) memberi Anda tampilan tentang pengguna mana yang telah menginstal dan mengaktifkan aplikasi Microsoft 365 setidaknya di satu perangkat.
+**Catatan**: Laporan [Office Aktivasi](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) memberi Anda tampilan tentang pengguna mana yang telah menginstal dan mengaktifkan aplikasi Microsoft 365 mereka setidaknya di satu perangkat.
 
 Kemudian, minta pengguna:
 

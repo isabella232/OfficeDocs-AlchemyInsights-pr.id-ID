@@ -1,5 +1,5 @@
 ---
-title: Menghemat ruang disk dengan File OneDrive Sesuai Permintaan untuk Mac
+title: Menghemat ruang disk dengan OneDrive File Sesuai Permintaan untuk Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003530"
 - "6878"
-ms.openlocfilehash: 3b2e13a57e5b0195c8e2e38dabc439f5b4e8c23e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5f3b268867637a6a9d4d753a77dd599dab495aab53bb143f4bb74b35487d7e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074359"
 ---
-# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Menghemat ruang disk dengan File OneDrive Sesuai Permintaan untuk Mac
+# <a name="save-disk-space-with-onedrive-files-on-demand-for-mac"></a>Menghemat ruang disk dengan OneDrive File Sesuai Permintaan untuk Mac
 
-Files On-Demand OneDrive membantu Anda mengakses semua file di OneDrive tanpa harus mengunduhnya, juga tanpa menggunakan ruang penyimpanan di perangkat.  
+OneDrive Files On-Demand helps you access all your files in OneDrive without having to download all of them and use storage space on your device.  
 
-Untuk akun OneDrive baru di Mac OS Mojave atau yang lebih baru, File Sesuai Permintaan diaktifkan secara default ketika Anda menyiapkan OneDrive. Pengguna yang sudah ada perlu mengaktifkan File Sesuai Permintaan di Preferensi OneDrive.  
+Untuk akun OneDrive baru di Mac OS Mojave atau yang lebih baru, File Sesuai Permintaan diaktifkan secara default ketika Anda menyiapkan OneDrive. Pengguna yang sudah ada perlu mengaktifkan File Sesuai Permintaan OneDrive Preferensi.  
 
 [Pelajari selengkapnya tentang File Sesuai Permintaan untuk Mac OS.](https://support.microsoft.com/office/529f6d53-e572-4922-a585-e7a318c135f0)

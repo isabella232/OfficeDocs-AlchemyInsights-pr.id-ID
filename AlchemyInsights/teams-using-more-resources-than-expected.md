@@ -1,5 +1,5 @@
 ---
-title: Panduan pemutakhiran teams
+title: Teams panduan pemutakhiran
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364887"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998694"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams menggunakan lebih banyak sumber daya komputer daripada yang diharapkan
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams menggunakan lebih banyak sumber daya komputer dari yang diharapkan
 
-Kinerja hebat dan pengalaman pengguna adalah masalah teratas di Microsoft. Waktu peluncuran tim telah disempurnakan, dan kami akan terus menyempurnakan tim, termasuk konsumsi sumber daya keseluruhan.  
+Kinerja dan pengalaman pengguna yang hebat menjadi perhatian utama di Microsoft. Teams waktu peluncuran telah ditingkatkan, dan kami akan terus menyempurnakan penggunaan Teams, termasuk konsumsi sumber daya secara keseluruhan.  
 
-Untuk informasi tentang tim dan penggunaan sumber daya, lihat [bagaimana Microsoft teams menggunakan memori](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  dan  [teams lambat selama Rapat video pada laptop yang ditempelkan ke monitor 4k/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Untuk informasi tentang Teams dan penggunaan sumber daya, lihat [Bagaimana Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) menggunakan memori dan Teams lambat selama rapat video di laptop ditampuk ke [monitor 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).

@@ -1,5 +1,5 @@
 ---
-title: Hilang ' LocalizedNames ' dalam Element ' savedquery '
+title: "'Nama LocalizedNames' hilang di 'savedquery' elemen"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065611"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Hilang ' LocalizedNames ' dalam Element ' savedquery '
+# <a name="missing-localizednames-in-element-savedquery"></a>'Nama LocalizedNames' hilang di 'savedquery' elemen
 
-Untuk bantuan tentang ' LocalizedNames ' yang hilang, lihat ["elemen ' savedquery ' memiliki konten yang tidak lengkap. Daftar kemungkinan elemen yang diharapkan: kesalahan ' LocalizedNames ' "terjadi saat mengimpor solusi Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Untuk bantuan terkait 'LocalizedNames' yang hilang, [lihat "Elemen 'query tersimpan' memiliki konten yang tidak lengkap. Daftar elemen yang mungkin diharapkan: Kesalahan 'LocalizedNames'" terjadi ketika mengimpor solusi Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
 
-Cari karakter khusus di nama tampilan yang mungkin menyebabkan masalah. Hapus karakter khusus apa pun di nama tampilan dan ekspor lagi solusinya.
+Cari karakter khusus dalam nama tampilan yang mungkin menyebabkan masalah. Hapus setiap karakter khusus dalam nama tampilan, lalu ekspor kembali solusi tersebut.

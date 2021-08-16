@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811614"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014291"
 ---
 # <a name="install-visio"></a>Menginstal Visio
 
-Visio dijual sebagai aplikasi mandiri jadi jika Anda belum memilikinya, [beli atau coba Visio](https://products.office.com/visio). 
+Visio dijual sebagai aplikasi mandiri sehingga jika Anda belum memilikinya, Beli atau cobalah aplikasi [Visio](https://products.office.com/visio). 
 
-**Catatan**: Visio online paket 1 tidak menyertakan versi desktop Visio, sehingga instalasi tidak dimungkinkan.
+**Catatan:** Visio Online Paket 1 tidak menyertakan versi desktop Visio, sehingga penginstalan tidak dapat dilakukan.
 
-Jika Anda memiliki langganan Visio online paket 2, Anda harus [menetapkan lisensi](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) kepada pengguna atau mereka tidak memiliki opsi untuk menginstal Visio dari **instalasi saya** di [portal akun saya](https://portal.office.com/account#installs). 
+Jika Anda berlangganan Visio Online Paket 2, Anda [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) harus menetapkan lisensi kepada pengguna atau mereka tidak akan memiliki  opsi untuk menginstal Visio dari Instalasi saya di [portal Akun](https://portal.office.com/account#installs)saya. 
 
-Versi lisensi non-volume Visio Standard atau Visio Professional terkait dengan akun Microsoft dan tidak dapat dikelola di pusat admin. Untuk menginstal versi ini, pengguna harus masuk ke [account.Microsoft.com](https://account.microsoft.com) dengan akun Microsoft yang terkait dengan versi Visio ini.
+Versi lisensi non-volume Visio Standard lisensi Visio Professional terkait dengan akun Microsoft dan tidak dapat dikelola di pusat admin. Untuk menginstal versi ini, pengguna harus masuk [account.microsoft.com](https://account.microsoft.com) akun Microsoft yang terkait dengan versi Visio.
 
-Untuk bantuan yang lebih mendetail Lihat [menginstal Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) dan mengikuti langkah-langkah untuk versi Visio Anda.
+Untuk bantuan yang lebih mendetail, [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) instal dan ikuti langkah-langkah untuk versi Visio.
 
-Untuk informasi selengkapnya, lihat:<br>
-[Panduan penggunaan untuk Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Skenario yang didukung untuk menginstal versi Office, Project, dan Visio yang berbeda di komputer yang sama](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Lisensi Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Untuk informasi selengkapnya lihat:<br>
+[Panduan penyebaran untuk Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Skenario yang didukung untuk menginstal versi instalasi Office, Project, dan Visio pada komputer yang sama](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Lisensi](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
