@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah-pengguna tidak ditemukan di direktori
+title: Memecahkan masalah - Pengguna tidak ditemukan dalam direktori
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 79429f8e9523ad6b08cd2cd2b19dd221bac797d00de142cbb18826b86fb5ae4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098173"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Memecahkan masalah-pengguna tidak ditemukan di direktori
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Memecahkan masalah - Pengguna tidak ditemukan dalam direktori
 
-Jika pengguna menerima pesan kesalahan "pengguna tidak dapat ditemukan" di direktori, coba lagi di mana tipe masalah adalah pengguna tidak ada di direktori.
+Jika pengguna menerima pesan kesalahan "pengguna tidak dapat ditemukan" di direktori, silakan coba lagi di mana Tipe Masalah adalah Pengguna yang tidak berada dalam direktori.
 
-Langkah-langkah berikut ini bisa diselesaikan untuk memecahkan masalah.
+Langkah-langkah berikut ini dapat diselesaikan untuk memecahkan masalah tersebut.
 
-- Pastikan akun yang menerima undangan email adalah akun yang sama yang digunakan untuk masuk nanti. Pastikan pengguna menggunakan akun yang sama untuk menerima undangan dan masuk ke situs. 
+- Pastikan akun yang menerima undangan email adalah akun yang digunakan untuk masuk nanti. Pastikan pengguna menggunakan akun yang sama untuk menerima undangan dan masuk ke situs. 
 
-Untuk informasi selengkapnya, lihat [cara mengelola alias untuk akun Microsoft Anda </a> untuk mengelola masuk Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Untuk informasi selengkapnya, [lihat Cara mengelola alias untuk akun Microsoft Anda untuk mengelola Microsoft 365 </a> masuk.](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases) 
 
-- Telusuri ke setiap situs tempat pengguna menerima kesalahan. 
+- Telusuri ke setiap situs di mana pengguna menerima kesalahan. 
 
-Tambahkan "/_layouts/15/People.aspx/membershipgroupid = 0" (di dalam tanda kutip ganda) ke bagian akhir URL situs. 
+Tambahkan "/_layouts/15/people.aspx/membershipgroupid=0" (dalam tanda kutip ganda) ke akhir URL situs. 
 
-Contoh: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Contoh: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Pilih pengguna dari daftar.
 
-- Klik **Hapus izin pengguna** dari pita. 
--  Tambahkan kembali pengguna dan kirim ulang undangan ke pengguna.
+- Klik **Hapus Izin Pengguna** dari Pita. 
+-  Tambahkan kembali Pengguna dan Kirim ulang undangan kepada pengguna.
 

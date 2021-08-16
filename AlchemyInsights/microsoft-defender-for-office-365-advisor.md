@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender untuk Office 365 Advisor
+title: Pertahanan Microsoft untuk Office 365 penasihat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098111"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender untuk Office 365 Advisor
+# <a name="microsoft-defender-for-office-365-advisor"></a>Pertahanan Microsoft untuk Office 365 penasihat
 
-[Microsoft Defender untuk Office 365 Advisor](https://go.microsoft.com/fwlink/?linkid=2146614) melindungi organisasi Anda dari ancaman berbahaya yang mungkin dihadapi lingkungan Anda melalui pesan email, link, dan alat kolaborasi pihak ketiga. Panduan ini memberi Anda sumber daya dan informasi untuk membantu Anda mempersiapkan dan mengidentifikasi rencana Microsoft Defender agar sesuai dengan kebutuhan organisasi Anda.
+Pertahanan [Microsoft untuk Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) penasihat melindungi organisasi Anda dari ancaman berbahaya yang mungkin dialami lingkungan Anda melalui pesan email, tautan, dan alat kolaborasi pihak ketiga. Panduan ini memberi Anda sumber daya dan informasi untuk membantu mempersiapkan dan mengidentifikasi rencana Pertahanan Microsoft agar sesuai dengan kebutuhan organisasi Anda.
