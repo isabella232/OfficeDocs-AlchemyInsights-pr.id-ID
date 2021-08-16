@@ -1,5 +1,5 @@
 ---
-title: Cara menonaktifkan grup eksternal
+title: Cara menonaktifkan Grup Eksternal
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 30495253bdabbe618817cce45790dbf5d565b2db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7c020aa02a9ffbc10e4e52717e0005a3bbbe2b721380183a3a0c90387b1dd4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704168"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015659"
 ---
-# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cara memberi akses ke pengguna eksternal di Yammer
+# <a name="how-to-give-access-to-external-users-in-yammer"></a>Cara memberikan akses ke pengguna eksternal di Yammer
 
 Ada empat cara pengguna eksternal bisa mengakses jaringan Anda di Yammer.
   
-1. **Pengguna tamu** -admin Yammer dapat mengundang kontak dari domain eksternal sebagai pengguna di jaringan rumah. Pengguna ini akan melihat umpan semua perusahaan dan juga bisa bergabung dalam grup lain dalam jaringan.
+1. **Pengguna tamu** - Yammer Admin dapat mengundang kontak dari domain eksternal sebagai pengguna pada jaringan asal. Pengguna ini akan melihat umpan Semua Perusahaan, serta dapat bergabung dengan grup lain dalam jaringan.
 
-2. **Pengguna eksternal dalam grup eksternal** -grup eksternal memperbolehkan pengguna eksternal. Lingkup akses pengguna eksternal terbatas pada grup eksternal. Dengan grup eksternal, Anda hanya bisa mengundang kontak dari jaringan Yammer yang memungkinkan pengguna untuk berpartisipasi dalam percakapan eksternal.
+2. **Pengguna eksternal dalam grup eksternal** - Grup eksternal mengizinkan pengguna eksternal. Jangkauan akses pengguna eksternal terbatas pada grup eksternal. Dengan grup eksternal, Anda hanya bisa mengundang kontak dari Yammer eksternal yang memungkinkan pengguna berpartisipasi dalam percakapan eksternal.
 
-3. **Pengguna eksternal dalam percakapan Yammer dalam grup internal** -opsi ini memperbolehkan peserta eksternal untuk ditambahkan ke percakapan tertentu. Peserta eksternal hanya dapat berpartisipasi dalam percakapan yang telah diundang secara eksplisit ke dan ke lampiran apa pun dalam percakapan tersebut. Mereka mengakses percakapan ini melalui kotak masuk Yammer mereka (di jaringan mereka). Mereka tidak memiliki akses ke seluruh jaringan Anda.
+3. **Pengguna eksternal dalam Yammer percakapan internal** - Opsi ini memungkinkan peserta eksternal untuk ditambahkan ke percakapan tertentu. Peserta eksternal hanya bisa berpartisipasi dalam percakapan di mana mereka telah diundang secara eksplisit dan pada lampiran apa pun dalam percakapan itu. Mereka mengakses percakapan ini melalui kotak Yammer masuk mereka (pada jaringan mereka). Mereka tidak memiliki akses ke jaringan Anda yang lain.
 
-4. **Jaringan eksternal** -opsi ini memungkinkan Anda mengundang pengguna eksternal ke jaringan eksternal yang dapat dibuat admin terverifikasi di jaringan Anda. Opsi ini paling cocok untuk hosting komunitas eksternal.
+4. **Jaringan Eksternal** - Opsi ini memungkinkan Anda mengundang pengguna eksternal ke jaringan eksternal yang dapat dibuat oleh Admin terverifikasi dalam jaringan Anda. Opsi ini paling sesuai untuk menerima komunitas eksternal.
 
-Untuk informasi selengkapnya, lihat [menambahkan peserta pesan eksternal ke percakapan Yammer Anda](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) dan [FAQ pesan eksternal (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
+Untuk informasi selengkapnya, silakan lihat [Menambahkan peserta pesan eksternal ke faq Yammer percakapan](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) eksternal dan Tanya Jawab Umum Pesan Eksternal [(Yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   

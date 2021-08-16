@@ -13,16 +13,16 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: 4ace759a6cfe6e161c5572472b7459f8fd4c6021
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 94c762cb8fbca608b06464f79f04d0a81fa37ca1fa10204b405a18bd79f4bade
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823718"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986300"
 ---
 # <a name="move-email-to-microsoft-365"></a>Memindahkan email ke Microsoft 365
 
-Anda memiliki beberapa opsi untuk melakukan migrasi email ke Microsoft 365. Penasihat [migrasi email Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) membantu Anda memilih yang terbaik untuk lingkungan Anda dan juga memandu Anda melalui migrasi email.
+Anda memiliki beberapa opsi untuk melakukan migrasi email ke Microsoft 365. Penasihat [Microsoft 365 migrasi email membantu](https://aka.ms/alchemyinsight-mailmigrationadvisor) Anda memilih yang terbaik untuk lingkungan Anda dan juga memandu Anda melalui migrasi email.
   
 Untuk membaca tentang opsi Anda tanpa memulai migrasi, silakan [lihat Memutuskan jalur migrasi](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 

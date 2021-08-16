@@ -1,5 +1,5 @@
 ---
-title: 8000063 cara mengklik kanan di Mac
+title: 8000063 Cara mengklik kanan di Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001943"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Cara mengklik kanan pada Mac
+# <a name="how-to-right-click-on-a-mac"></a>Cara mengklik kanan di Mac
 
-Di komputer Mac, klik kanan dikenal sebagai klik sekunder atau klik kontrol. Jika mouse, trackpad, atau perangkat input lainnya tidak menyertakan tombol klik kanan atau cara lain untuk melakukan klik kanan, tahan tombol **Control** di keyboard saat Anda mengklik.
+Di komputer Mac, klik kanan dikenal sebagai klik sekunder atau klik Kontrol. Jika mouse, trackpad, atau perangkat input lainnya tidak menyertakan tombol klik kanan atau cara lain untuk melakukan klik kanan, tahan tombol **Control** di keyboard saat Anda mengklik.
   
-Untuk informasi selengkapnya, buka [dukungan Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Untuk informasi selengkapnya, lihat [Dukungan Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

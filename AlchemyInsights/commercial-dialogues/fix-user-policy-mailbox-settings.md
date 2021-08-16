@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki pengaturan kebijakan pengguna/kotak surat
+title: Memperbaiki pengaturan kebijakan/kotak surat pengguna
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034721"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Memperbaiki pengaturan kebijakan pengguna/kotak surat
+# <a name="fix-user-policymailbox-settings"></a>Memperbaiki pengaturan kebijakan/kotak surat pengguna
 
-Pengaturan email sampah pada kotak surat terpengaruh pesan ini. Untuk meninjau pengaturan, lakukan hal berikut:
+Pengaturan email sampah pada kotak surat memengaruhi pesan ini. Untuk meninjau pengaturan, lakukan hal berikut:
 
-1. Luncurkan Exchange Management Shell. Untuk informasi selengkapnya, lihat [membuka Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Jalankan perintah ini (menggunakan alamat email pengguna):  **Get-mailboxjunkmailconfiguration-Identity "user@domain.com"**
-3. Periksa apakah alamat email pengirim adalah bagian dari **Trustedsendersanddomains** atau **blockedsendersanddomains**. Jika alamat email berada dalam salah satu daftar, Anda mungkin harus menghapusnya. Untuk mempelajari selengkapnya, lihat [set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. Luncurkan Exchange Shell Manajemen. Untuk informasi selengkapnya, [lihat Membuka Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+2. Jalankan perintah ini (menggunakan alamat email pengguna):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Periksa apakah alamat email pengirim merupakan bagian dari **TrustedSendersAndDomains** atau **BlockedSendersAndDomains**. Jika alamat email berada di salah satu daftar, Anda mungkin harus menghapusnya. Untuk mempelajari selengkapnya, lihat [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).

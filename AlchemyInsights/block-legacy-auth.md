@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2f2a0c3888920a969a6fc70af7ef7bfd8435bdcf975e0f31452b5da85e3a208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968884"
 ---
 # <a name="blocking-legacy-authentication"></a>Memblokir autentikasi warisan
 
@@ -29,7 +29,7 @@ Autentikasi warisan adalah istilah yang merujuk pada permintaan autentikasi yang
 
 Untuk informasi selengkapnya tentang memblokir autentikasi warisan dan mengaktifkan autentikasi modern, lihat [Memblokir autentikasi warisan](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-Keamanan default di Azure Active Directory (Azure AD) memudahkan untuk mengamankan dan membantu melindungi organisasi Anda. Default keamanan berisi pengaturan keamanan yang telah dikonfigurasi sebelumnya untuk serangan umum.
+Default keamanan di Azure Active Directory (Azure AD) memudahkan untuk mengamankan dan membantu melindungi organisasi Anda. Default keamanan berisi pengaturan keamanan yang telah dikonfigurasi sebelumnya untuk serangan umum.
 Untuk informasi selengkapnya tentang default keamanan, lihat [Apa itu default keamanan?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
 **Catatan**: Jika penyewa dibuat pada atau setelah 22 Oktober 2019, mungkin Anda mengalami perilaku aman secara default yang baru dan telah mengaktifkan default keamanan dalam penyewa.  Dalam upaya melindungi semua pengguna kami, default keamanan sedang diluncurkan ke semua penyewa baru yang dibuat.

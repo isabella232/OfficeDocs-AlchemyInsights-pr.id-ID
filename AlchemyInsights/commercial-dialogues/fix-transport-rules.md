@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 635009ed4b78d2b05b0eef1f3298765b10f86ede
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d89283dec427ba3d4f55fc1f180efc13da16ae15c3d5a6c0c06a696faa6df7f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034757"
 ---
 # <a name="fix-transport-rules"></a>Memperbaiki aturan transpor
 
-Aturan aliran email kustom terpengaruh pesan ini. Untuk meninjau aturan yang tepat, lakukan hal berikut:
+Aturan aliran email kustom memengaruhi pesan ini. Untuk meninjau aturan yang tepat, lakukan hal berikut:
 
-1. Dalam hasil pengiriman, di bawah **informasi tambahan**, perhatikan **GUID** atau **nama kebijakan**.
-2. Luncurkan Exchange Management Shell. Untuk informasi selengkapnya, lihat [membuka Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
-3. Jalankan perintah ini (menggunakan GUID dari pengiriman Anda):  **Get-TransportRule-identitas "GUID" | FL * Deskripsi***
-4. Tinjau Deskripsi untuk melihat kondisi yang dikonfigurasi yang mempengaruhi pesan tersebut.
+1. Dalam hasil pengiriman, di **bawah Informasi tambahan,** perhatikan **GUID** atau **Nama Kebijakan**.
+2. Luncurkan Exchange Shell Manajemen. Untuk informasi selengkapnya, [lihat Membuka Exchange Management Shell](https://go.microsoft.com/fwlink/?linkid=2101432).
+3. Jalankan perintah ini (menggunakan GUID dari pengiriman  **Anda): Get-TransportRule -identity "GUID" | fl * Deskripsi***
+4. Tinjau deskripsi untuk melihat kondisi yang dikonfigurasi yang memengaruhi pesan tersebut.
 
 Untuk mempelajari selengkapnya, lihat [Get-TransportRule](https://go.microsoft.com/fwlink/?linkid=2101523).
