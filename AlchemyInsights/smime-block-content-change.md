@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cca0219e7963b5a74b71a9f5eb4d1f5796299bfaa97c9d8265dcbf3f641b172
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022067"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook kini akan memblokir konten eksternal di S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook kini akan memblokir konten eksternal default di S/MIME
 
-Kami memperkenalkan langkah-langkah keamanan yang ditambahkan di Outlook untuk Windows dengan memblokir konten eksternal dalam pesan terenkripsi dan ditandatangani S/MIME secara default dan mencegah menimpa pada setiap pesan.
+Kami memperkenalkan langkah-langkah keamanan tambahan di Outlook untuk Windows dengan memblokir konten eksternal dalam pesan terenkripsi dan MIME yang ditandatangani secara default dan mencegah penggantian berdasarkan per pesan.
 
-Untuk detail selengkapnya, lihat [Outlook untuk Windows memblokir konten eksternal dalam pesan S/MIME](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Untuk detail selengkapnya, lihat [Outlook untuk Windows memblokir konten eksternal dalam pesan S/MIME.](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)
