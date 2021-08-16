@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101305"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Tidak dapat menginstal atau menjalankan Alat Ekspor eDiscovery?
 
@@ -28,7 +28,7 @@ Jika tidak dapat menginstal atau menjalankan Alat Ekspor eDiscovery untuk mengun
   
 - Komputer yang Anda gunakan memenuhi prasyarat berikut:
 
-  - Windows 7 versi 32- atau 64-bit dan versi yang lebih baru
+  - Versi 32 bit atau 64 bit Windows 7 dan yang lebih baru
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ Jika tidak dapat menginstal atau menjalankan Alat Ekspor eDiscovery untuk mengun
 
 - Organisasi Anda dapat tersambung ke titik akhir di Azure, yaitu **\* .blob.core.windows.net** (wildcard mewakili pengidentifikasi unik untuk pekerjaan ekspor Anda).
 
-- Anda mendapatkan peran Ekspor di Pusat Kepatuhan Keamanan Microsoft 365. &amp; Secara default, peran ini hanya ditetapkan pada grup peran Manajer eDiscovery. Lihat [Menetapkan izin eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Anda mendapatkan peran Ekspor di Pusat Microsoft 365 &amp; Keamanan Keamanan. Secara default, peran ini hanya ditetapkan pada grup peran Manajer eDiscovery. Lihat [Menetapkan izin eDiscovery.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Untuk informasi selengkapnya, lihat [Mengekspor hasil Pencarian Konten.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

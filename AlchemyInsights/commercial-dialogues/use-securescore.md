@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033785"
 ---
 # <a name="use-securescore"></a>Menggunakan SecureScore
 
-Skor aman adalah alat analitik keamanan yang merekomendasikan apa yang bisa Anda lakukan untuk mengurangi risiko lebih lanjut. Skor aman melihat pengaturan dan aktivitas Office 365 Anda dan membandingkannya dengan baseline yang ditetapkan oleh Microsoft. Anda akan mendapatkan Skor berdasarkan cara menyelaraskan Anda dengan praktik keamanan terbaik.
+Secure Score adalah alat analitik keamanan yang merekomendasikan apa yang bisa Anda lakukan untuk mengurangi risiko lebih lanjut. Secure Score melihat pengaturan Office 365 aktivitas Anda dan membandingkannya dengan baseline yang dibuat oleh Microsoft. Anda akan mendapatkan skor berdasarkan cara menyelaraskan Anda dengan praktik keamanan terbaik.
 
-Ingin mencoba Skor aman? Saat Anda masuk ke Office 365 sebagai admin global, masuk ke [SecureScore.com.](https://securescore.office.com/)
+Ingin mencoba Secure Score? Saat Anda masuk ke akun Office 365 admin global, buka [SecureScore.com.](https://securescore.office.com/)

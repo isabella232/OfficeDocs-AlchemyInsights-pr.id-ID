@@ -1,5 +1,5 @@
 ---
-title: Tidak ada hasil yang dikembalikan selama pencarian konten/ekspor
+title: Tidak ada hasil yang dikembalikan selama Pencarian/Ekspor Konten
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
-ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
+ms.openlocfilehash: 5c04364f98dccbcad0f011df866f137d79c166ad3839b408d6be447d50a87ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49727226"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101269"
 ---
-# <a name="no-results-returned-during-content-searchexport"></a>Tidak ada hasil yang dikembalikan selama pencarian konten/ekspor
+# <a name="no-results-returned-during-content-searchexport"></a>Tidak ada hasil yang dikembalikan selama Pencarian/Ekspor Konten
 
-Jika Anda mengalami masalah dengan skenario eDiscovery berikut:
+Jika Anda mengalami masalah dengan skenario eDiscovery berikut ini:
 
-- Pencarian konten/ekspor mengembalikan data atau data tidak terduga
-- Pencarian eDiscovery atau gagal mengekspor
+- Pencarian/Ekspor Konten tidak mengembalikan data atau data yang tidak diharapkan
+- Pencarian eDiscovery atau Ekspor gagal
 
-Ini mungkin disebabkan oleh filter keamanan kepatuhan tertentu yang disiapkan oleh admin tertentu dan tidak dikomunikasikan kepada semua admin.
+Hal ini mungkin terjadi karena Filter Keamanan Kepatuhan tertentu yang disiapkan oleh Admin tertentu dan belum dikomunikasikan ke semua Admin.
 
-Untuk mengatasi masalah ini, periksa apakah ada filter keamanan kepatuhan yang mungkin menyebabkan masalah ini:
+Untuk mengatasi ini, periksa apakah ada Filter Keamanan Kepatuhan apa pun yang mungkin menyebabkan masalah ini:
 
-1. Menyambungkan ke pusat keamanan dan kepatuhan PowerShell
-2. Jalankan perintah berikut ini:
+1. Koneksi ke Powershell Pusat Keamanan dan Kepatuhan
+2. Jalankan commandlet berikut:
 
     `$org = “yourdomain.com”`
 
     `Get-ComplianceSecurityFilter -Organization $org`
 
-Untuk informasi tambahan tentang filter keamanan kepatuhan, lihat [pemfilteran izin untuk pencarian konten](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)
+Untuk informasi tambahan tentang Filter Keamanan Kepatuhan, lihat [Pemfilteran Izin untuk Pencarian Konten](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)

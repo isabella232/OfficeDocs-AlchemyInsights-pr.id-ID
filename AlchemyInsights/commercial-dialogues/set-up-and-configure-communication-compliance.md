@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 8892a49dc1fb4a5bb18d743807f80302360f9c29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8c82c89dce2025f7d818e0ae65310b40200551c4c6ea34306c4104dc8557efcf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070759"
 ---
 # <a name="set-up-and-configure-communication-compliance"></a>Menyiapkan dan mengonfigurasi kepatuhan komunikasi
 
-Untuk referensi mendatang, pengguna yang dipantau oleh kepatuhan komunikasi harus memiliki lisensi kepatuhan Microsoft 365 E5 atau lisensi Office 365 Enterprise E3.
+Untuk referensi mendatang, pengguna yang dipantau oleh kepatuhan komunikasi harus memiliki Microsoft 365 E5 Compliance lisensi atau Office 365 Enterprise E3.
 
-* Jika Anda ingin menyiapkan atau mengonfigurasi kepatuhan komunikasi, lihat [mulai menggunakan kepatuhan komunikasi](https://go.microsoft.com/fwlink/?linkid=2111549).
-* Jika Anda tidak memiliki paket Enterprise E5 yang sudah ada dan ingin mencoba supervisi, [Daftar untuk uji coba Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).
+* Jika Anda ingin menyiapkan atau mengonfigurasi kepatuhan komunikasi, lihat [Mulai menggunakan kepatuhan komunikasi](https://go.microsoft.com/fwlink/?linkid=2111549).
+* Jika Anda tidak memiliki paket Enterprise E5 dan ingin mencoba Pengawasan, daftar untuk uji coba dari [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279).

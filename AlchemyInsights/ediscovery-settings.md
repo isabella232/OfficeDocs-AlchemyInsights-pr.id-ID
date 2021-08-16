@@ -1,5 +1,5 @@
 ---
-title: Pengaturan eDiscovery
+title: Pengaturan Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101233"
 ---
-# <a name="ediscovery-settings"></a>Pengaturan eDiscovery
+# <a name="ediscovery-settings"></a>Pengaturan Ediscovery
 
-pencarian eDiscovery/konten memungkinkan Anda mencari, menangguhkan, dan mengekspor konten dari kotak surat Exchange Online, SharePoint online dan OneDrive for Business, percakapan Skype for Business, Microsoft teams, dan grup Microsoft 365.
+Pencarian eDiscovery/Konten memungkinkan Anda mencari, menahan, dan mengekspor konten dari kotak surat Exchange Online, situs SharePoint Online dan OneDrive for Business, percakapan Skype for Business, Microsoft Teams, dan Grup Microsoft 365.
 
-- Jika Anda mencari opsi menu pencarian konten atau eDiscovery, lihat [masalah eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Pelajari tentang izin yang diperlukan untuk melakukan pencarian eDiscovery dari [izin yang diperlukan untuk pencarian eDiscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Jika pencarian Anda tidak mengembalikan hasil yang diharapkan, lihat [pencarian tidak mengembalikan hasil yang diharapkan](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Jika Anda mencari opsi menu eDiscovery atau Pencarian Konten, lihat [Masalah eDiscovery.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Pelajari mengenai izin yang diperlukan untuk melakukan pencarian eDiscovery dari [Izin yang diperlukan untuk pencarian eDiscovery.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Jika pencarian Anda tidak mengembalikan hasil yang diharapkan, lihat [Pencarian tidak mengembalikan hasil yang diharapkan.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Untuk informasi selengkapnya tentang eDiscovery, lihat [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Untuk informasi selengkapnya tentang ediscovery, lihat [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
