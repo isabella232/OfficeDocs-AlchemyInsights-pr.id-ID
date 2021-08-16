@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069571"
 ---
 # <a name="create-a-communication-site"></a>Membuat situs komunikasi
 
-Untuk membuat situs komunikasi di SharePoint online, selesaikan langkah-langkah berikut: 
+Untuk membuat situs komunikasi di SharePoint Online, selesaikan langkah-langkah berikut ini: 
   
-1. Di sudut kiri atas halaman, klik peluncur aplikasi dan pilih petak SharePoint. Jika tidak melihat petak SharePoint, klik **situs** atau **semua aplikasi** jika SharePoint tidak terlihat. 
+1. Di sudut kiri atas halaman, klik peluncur aplikasi dan pilih petak SharePoint. Jika Anda tidak melihat petak SharePoint, klik **Situs** **atau Semua** SharePoint tidak terlihat. 
     
-2. Di bagian atas halaman SharePoint, klik **buat situs** dan pilih **situs komunikasi**. Ikuti langkah-langkah dalam panduan pembuatan situs. 
+2. Di bagian atas halaman SharePoint, klik **Buat situs dan** pilih Situs **Komunikasi.** Ikuti langkah-langkah dalam panduan pembuatan situs. 
     
- **Catatan**: jika Anda tidak melihat opsi untuk **membuat situs**, pembuatan situs layanan mandiri mungkin dinonaktifkan. Hubungi orang yang mengelola Microsoft 365 di organisasi Anda untuk membuat situs tim. Jika Anda adalah administrator penyewa, lihat [mengelola pembuatan situs di SharePoint online untuk mengaktifkan pembuatan situs layanan mandiri untuk organisasi Anda.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Catatan**: Jika Anda tidak melihat opsi untuk **Membuat situs,** pembuatan situs mandiri mungkin dinonaktifkan. Hubungi orang yang mengelola Microsoft 365 orang di organisasi Anda untuk membuat situs tim. Jika Anda adalah administrator penyewa, lihat Mengelola pembuatan situs di SharePoint Online untuk [mengaktifkan pembuatan situs layanan mandiri bagi organisasi Anda.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Catatan:** Jika Anda mencoba membuat situs komunikasi dan URL ditambahkan ke nomor acak, kemungkinan besar situs dengan URL yang sama sudah ada di lingkungan SharePoint atau telah dihapus dan masih ada di situs yang dihapus (keranjang sampah). Gunakan [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) untuk mengevaluasi keranjang sampah dan [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) menghapus situs dari keranjang sampah. 
+ **Catatan:** Jika Anda mencoba membuat Situs Komunikasi dan URL ditambahkan dengan angka acak, kemungkinan situs dengan URL yang sama sudah ada di lingkungan SharePoint atau telah dihapus dan masih ada di Situs Dihapus (Keranjang Sampah). Gunakan [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) untuk mengevaluasi keranjang sampah dan untuk menghapus situs dari keranjang [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) sampah. 
   
 
