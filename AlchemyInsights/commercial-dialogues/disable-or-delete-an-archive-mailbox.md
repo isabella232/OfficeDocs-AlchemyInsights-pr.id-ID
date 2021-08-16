@@ -1,5 +1,5 @@
 ---
-title: Menonaktifkan atau menghapus kotak surat Arsip
+title: Menonaktifkan atau menghapus kotak surat arsip
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 91d3029a824567de080bdf4adcec431ab3ccb70f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1b5565c70cad29fb1741598dae9f24c7d2484180d7b31283c32894fa3c16139d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746889"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017495"
 ---
-# <a name="disable-or-delete-an-archive-mailbox"></a>Menonaktifkan atau menghapus kotak surat Arsip
+# <a name="disable-or-delete-an-archive-mailbox"></a>Menonaktifkan atau menghapus kotak surat arsip
 
-Untuk menonaktifkan kotak surat Arsip atau menghapus secara permanen konten, lakukan langkah-langkah berikut:
+Untuk menonaktifkan kotak surat arsip atau menghapus konten secara permanen, lakukan langkah-langkah berikut:
 
-1. Masuk ke [pusat kepatuhan & keamanan]( https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Pilih **Arsip tata kelola data**  >  .
-3. Pilih pengguna yang kotak surat arsip yang ingin Anda Nonaktifkan, lalu di panel detail di sebelah kanan, klik **Nonaktifkan** lalu klik **ya** di kotak pesan peringatan.
-4. Mungkin perlu beberapa menit agar arsip ditampilkan sebagai nonaktif. Refresh panel detail untuk memperlihatkan status yang diperbarui.
-5. Anda memiliki waktu 30 hari untuk mengaktifkan kembali kotak surat Arsip. Setelah 30 hari, informasi akan dihapus secara permanen.
+1. Masuk ke [Pusat & Kepatuhan Keamanan]( https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Pilih **Arsip tata kelola**  >  **data**.
+3. Pilih pengguna yang kotak surat arsipnya ingin Anda nonaktifkan,  lalu pada panel detail di sebelah kanan, klik Nonaktifkan, lalu klik **Ya** dalam kotak pesan peringatan.
+4. Mungkin perlu waktu beberapa menit agar arsip ditampilkan sebagai dinonaktifkan. Refresh panel detail untuk memperlihatkan status yang diperbarui.
+5. Anda memiliki waktu 30 hari untuk mengaktifkan kembali kotak surat arsip. Setelah 30 hari, informasi dihapus secara permanen.

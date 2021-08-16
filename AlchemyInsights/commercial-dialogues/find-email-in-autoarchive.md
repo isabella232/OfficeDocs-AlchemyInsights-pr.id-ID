@@ -1,5 +1,5 @@
 ---
-title: Menemukan email di AutoArchive
+title: Menemukan email dalam Arsip Otomatis
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: ce969ca2d3e07d6b7548cf7a553e8b5bee4799be
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a6a6a311708fc23a63656f5b8ccf572e30bc13dab1728bc3be48ad36aeb35077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017279"
 ---
-# <a name="find-email-in-autoarchive"></a>Menemukan email di AutoArchive
+# <a name="find-email-in-autoarchive"></a>Menemukan email dalam Arsip Otomatis
 
-File arsip adalah tipe file data Outlook (. pst). Arsip otomatis pertama kali dijalankan, file arsip secara otomatis dibuat di: C:\Users\YourUserName\Documents\Outlook Files\archive.pst.
+File arsip merupakan tipe file yang Outlook Data File (.pst). Pada kali pertama Arsip Otomatis dijalankan, file arsip dibuat secara otomatis di: C:\Users\NamaPenggunaAnda\Documents\Outlook Files\archive.pst.
 
-Untuk melihat arsip otomatis Anda:
+Untuk menampilkan Arsip Otomatis Anda:
 
-1. Di Outlook, pilih tab **file** > **membuka**  >  **file data Outlook**.
-2. Telusuri ke lokasi file PST dan buka. Ini akan menambahkan file PST ke daftar folder.
-3. Anda dapat mencari folder untuk pesan email sebelumnya.
+1. Di Outlook, pilih tab **File** > **Buka**  >  **Outlook File Data.**
+2. Telusuri ke lokasi file PST dan buka file. Langkah ini akan menambahkan file PST ke daftar folder.
+3. Anda bisa mencari folder untuk pesan email yang lama.

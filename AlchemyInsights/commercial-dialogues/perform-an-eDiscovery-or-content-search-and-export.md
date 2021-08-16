@@ -1,5 +1,5 @@
 ---
-title: Melakukan pencarian eDiscovery/konten dan mengekspor
+title: Melakukan eDiscovery/Pencarian Konten dan mengekspor
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016631"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Melakukan pencarian eDiscovery/konten dan mengekspor
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Melakukan eDiscovery/Pencarian Konten dan mengekspor
 
 Berikut cara untuk mencari konten di organisasi Anda dan mengekspornya:
 
-1. Masuk ke [pusat kepatuhan & keamanan](https://go.microsoft.com/fwlink/?linkid=2086958) dan navigasikan ke **pencarian**  >  **konten** pencarian  >  **+ pencarian baru**.
+1. Masuk ke Pusat [& Keamanan dan](https://go.microsoft.com/fwlink/?linkid=2086958) navigasikan ke Pencarian **Konten**  >  **Pencarian**+  >  **Pencarian baru.**
 1. Masukkan kata kunci dan kondisi yang ingin Anda cari.
-1. Di bagian bawah halaman, tentukan lokasi untuk dicari (seperti email, pesan tim, situs SharePoint), atau klik **semua lokasi**.
-1. Klik **simpan & Jalankan**. Beri nama pada kueri pencarian Anda, lalu klik **Simpan**. Kueri akan berjalan dan memperlihatkan hasilnya kepada Anda.
+1. Di bagian bawah halaman, tentukan lokasi untuk mencari (seperti email, pesan Teams, SharePoint), atau klik **Semua lokasi**.
+1. Klik **Simpan & jalankan.** Beri nama kueri pencarian Anda, lalu klik **Simpan.** Kueri akan berjalan dan memperlihatkan hasilnya kepada Anda.
 
-Untuk mempelajari cara mengekspor hasil pencarian, lihat [mengekspor hasil pencarian konten](https://go.microsoft.com/fwlink/?linkid=2102118).
+Untuk mempelajari cara mengekspor hasil pencarian, lihat [Mengekspor hasil Pencarian Konten.](https://go.microsoft.com/fwlink/?linkid=2102118)
 
