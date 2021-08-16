@@ -1,5 +1,5 @@
 ---
-title: Memblokir atau membuka Blokir pengirim di Outlook.com
+title: Memblokir atau membuka blokir pengirim di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041517"
 ---
-# <a name="block-or-unblock-senders"></a>Memblokir atau membuka Blokir pengirim
+# <a name="block-or-unblock-senders"></a>Memblokir atau membuka blokir pengirim
 
-Pesan dari alamat email atau domain pada daftar pengirim yang diblokir tidak akan masuk ke kotak surat Outlook.com Anda.
+Pesan dari alamat email atau domain di daftar pengirim yang diblokir tidak akan masuk ke kotak surat Outlook.com Anda.
 
 **Dari kotak masuk Anda:**
 
-- Dalam daftar pesan, pilih pesan, lalu pilih **Junk**  >  **blokir**sampah.
+- Di daftar pesan, pilih pesan, lalu pilih **Blokir**  >  **Sampah**.
 
-**Dari pengaturan:**
+**Dari Pengaturan:**
 
-1. Buka pengaturan [email sampah](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. Di bawah **pengirim dan domain yang diblokir**, pilih **Tambahkan**.
-3. Ketikkan alamat email dari domain yang ingin Anda blokir dan tekan Enter.
+1. Buka [pengaturan Email](https://outlook.live.com/mail/options/mail/junkEmail) sampah.
+2. Di **bawah Pengirim dan domain yang diblokir,** pilih **Tambahkan.**
+3. Ketik alamat email domain yang ingin Anda blokir dan tekan Enter.
 4. Pilih **Simpan**.
 
-Untuk membuka Blokir pengirim, pilih ikon sampah di samping alamat email atau domain yang ingin Anda buka Blokir.
+Untuk membuka blokir pengirim, pilih ikon sampah di samping alamat email atau domain yang ingin dibuka blokirnya.
 
-Untuk mempelajari selengkapnya, lihat [memblokir pengirim atau menandai email sebagai sampah](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mempelajari selengkapnya, lihat [Memblokir pengirim atau menandai email sebagai sampah](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

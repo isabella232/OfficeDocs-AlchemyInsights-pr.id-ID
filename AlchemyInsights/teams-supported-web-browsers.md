@@ -1,5 +1,5 @@
 ---
-title: Browser web yang didukung Teams
+title: Teams web yang didukung oleh pengguna
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981224"
 ---
-# <a name="teams-supported-web-browsers"></a>Browser web yang didukung Teams
+# <a name="teams-supported-web-browsers"></a>Teams web yang didukung oleh pengguna
 
-Teams sepenuhnya mendukung browser internet yang tercantum dalam artikel, Batasan dan spesifikasi untuk [Microsoft Teams,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)dengan pengecualian yang tercantum untuk panggilan dan rapat.
+Teams sepenuhnya mendukung browser internet yang tercantum dalam artikel, Batasan dan spesifikasi untuk [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), dengan pengecualian untuk panggilan dan rapat.
