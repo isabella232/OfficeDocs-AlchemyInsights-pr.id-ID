@@ -1,5 +1,5 @@
 ---
-title: Izin hibah
+title: Memberikan izin
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056385"
 ---
-# <a name="grant-permissions"></a>Izin hibah
+# <a name="grant-permissions"></a>Memberikan izin
 
-1. **Memberikan izin admin penyewa-lebar**: Lihat persetujuan [hibah-lebar izin admin untuk aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) untuk instruksi langkah-demi-langkah untuk memberikan izin admin penyewa-lebar dari portal Azure, menggunakan PowerShell Azure AD, atau dari perintah persetujuan itu sendiri.
-1. **Pemberian persetujuan atas nama pengguna tertentu**: sebagai ganti pemberian persetujuan untuk seluruh organisasi, administrator juga dapat menggunakan [api Microsoft graph](https://docs.microsoft.com/graph/use-the-api) untuk memberikan persetujuan kepada izin yang didelegasikan atas nama pengguna tunggal. Untuk informasi selengkapnya, lihat [mendapatkan akses atas nama pengguna](https://docs.microsoft.com/graph/auth-v2-user).
+1. Memberikan persetujuan **admin** tingkat penyewa: Lihat Memberikan persetujuan [admin](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) tingkat penyewa ke aplikasi untuk instruksi langkah demi langkah untuk memberikan persetujuan admin tingkat penyewa dari portal Azure, menggunakan Azure AD PowerShell, atau dari perintah persetujuan itu sendiri.
+1. **Memberikan** persetujuan atas nama pengguna tertentu: Sebagai ganti memberikan izin untuk seluruh organisasi, administrator juga dapat menggunakan [API Microsoft Graph](https://docs.microsoft.com/graph/use-the-api) untuk memberikan izin yang didelegasikan atas nama pengguna tunggal. Untuk informasi selengkapnya, [lihat Mendapatkan akses atas nama pengguna.](https://docs.microsoft.com/graph/auth-v2-user)

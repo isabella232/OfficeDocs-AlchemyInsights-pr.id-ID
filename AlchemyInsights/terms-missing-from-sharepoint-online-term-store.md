@@ -1,5 +1,5 @@
 ---
-title: Persyaratan yang hilang dari penyimpanan istilah SharePoint online
+title: Istilah yang hilang SharePoint Penyimpanan Istilah Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039609"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Persyaratan yang hilang dari penyimpanan istilah SharePoint online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Istilah yang hilang SharePoint Penyimpanan Istilah Online
 
-Persyaratan di penyimpanan istilah SharePoint online yang Anda harapkan untuk melihat tidak muncul atau sedang sebentar muncul.
+Istilah dalam SharePoint Istilah Online yang Anda harapkan tidak muncul atau muncul sebentar-sebentar.
   
-Jika lebih dari 24 jam telah berlalu sejak pertama kali melihat masalah ini, silakan log kasus dukungan. Kami memahami bahwa 24 jam mungkin terlihat lama. Dalam banyak kasus, kami sedang mengerjakan sebuah solusi jadi tolong beri kami setidaknya 24 jam.
+Jika sudah lebih dari 24 jam sejak masalah ini muncul pertama kali, silakan catat kasus dukungan. Kami memahami bahwa waktu 24 jam mungkin terasa lama. Dalam banyak kasus, kami sedang mencari solusi, jadi beri kami setidaknya 24 jam.
   

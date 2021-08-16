@@ -1,5 +1,5 @@
 ---
-title: Saya mengalami masalah dengan konektor agen proksi aplikasi
+title: Saya mengalami masalah dengan Konektor Agen Proksi Aplikasi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7802"
-ms.openlocfilehash: d4b4f1c3a309d2bfec4734fe7edad742dff0204e
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: 26c2823a980b7c5112355b33499489f3d2fad9f4033c4a665a0e423a80ef85c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49885009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039717"
 ---
-# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Saya mengalami masalah dengan konektor agen proksi aplikasi
+# <a name="im-having-a-problem-with-the-application-proxy-agent-connector"></a>Saya mengalami masalah dengan Konektor Agen Proksi Aplikasi
 
-1. Konektor proksi aplikasi Microsoft Azure Active Directory adalah komponen domain internal yang menggunakan koneksi keluar untuk membuat konektivitas dari titik akhir yang tersedia awan ke domain internal.
-1. Jika Anda mengalami masalah saat menginstal konektor agen proksi aplikasi, ikuti [langkah-langkah ini](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) untuk memecahkan masalah.
-1. Jika Anda menggunakan layanan proksi aplikasi untuk akses jarak jauh ke aplikasi web lokal, tapi Anda mengalami masalah saat menyambungkan ke aplikasi tersebut, gunakan [artikel ini](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) untuk membantu Anda memecahkan masalah dengan konektor proksi aplikasi Azure Active Directory (Azure AD).
+1. Microsoft Azure Active Directory Konektor Proksi Aplikasi adalah komponen domain internal yang menggunakan koneksi keluar untuk menetapkan konektivitas dari titik akhir awan yang tersedia ke domain internal.
+1. Jika Anda mengalami masalah saat menginstal Konektor Agen Proksi Aplikasi, ikuti [langkah-langkah ini untuk](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem/?WT.mc_id=UI_AAD_Enterprise_Apps_Support_L2_Overview) memecahkan masalah.
+1. Jika Anda menggunakan layanan Proksi Aplikasi untuk akses jarak jauh ke aplikasi web lokal, tapi Anda [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) mengalami masalah dalam menyambungkan ke aplikasi, gunakan artikel ini untuk membantu Anda memecahkan masalah dengan konektor Proksi Aplikasi Azure Active Directory (Azure AD).

@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
-ms.openlocfilehash: 5fead002ffe2089835f9419e9fe0ce0353c9dd03
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e2a728b80d7c175682f17117cc1e61c109f56eb987483be12187d048467a4c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039573"
 ---
 # <a name="restore-a-previous-file-version"></a>Memulihkan versi file sebelumnya
 
-Dengan Riwayat Versi online, Anda bisa melihat dan memulihkan versi lama file Anda di OneDrive atau SharePoint. Riwayat Versi berfungsi dengan semua tipe file, termasuk PDF, file CAD, foto, dan video. Untuk memulihkan versi file sebelumnya:
+Dengan riwayat versi online, Anda dapat melihat dan memulihkan versi lama file di OneDrive atau SharePoint. Riwayat versi dapat digunakan dengan semua tipe file, termasuk PDF, file CAD, foto, dan video. Untuk memulihkan versi file sebelumnya:
   
-1. Buka pustaka dokumen SharePoint atau lokasi OneDrive.
+1. Buka pustaka SharePoint dokumen atau OneDrive dokumen.
     
-2. Klik di sebelah kiri file untuk memilihnya, lalu klik **Riwayat Versi**. Jika Anda tidak melihat Riwayat Versi di bilah perintah, klik lainnya ( **...** ). 
+2. Klik di sebelah kiri file untuk memilihnya, lalu klik **Riwayat versi.** Jika tidak melihat Riwayat versi di bilah perintah, klik Selengkapnya ( **...** ). 
     
-3. Klik versi yang ingin Anda Tampilkan, atau klik lainnya ( **...** ) di sebelah kanan sebuah versi lalu klik **Pulihkan**.
+3. Klik versi yang ingin Anda lihat, atau klik Lainnya ( **...** ) di sebelah kanan versi lalu klik **Pulihkan.**
     
 

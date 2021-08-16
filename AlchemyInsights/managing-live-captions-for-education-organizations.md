@@ -1,5 +1,5 @@
 ---
-title: Mengelola keterangan langsung untuk organisasi pendidikan
+title: Mengelola keterangan langsung untuk organisasi Pendidikan
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066698"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>Mengelola keterangan langsung untuk organisasi pendidikan
+# <a name="managing-live-captions-for-education-organizations"></a>Mengelola keterangan langsung untuk organisasi Pendidikan
 
-Kami menyarankan agar admin organisasi pendidikan mempertimbangkan penggunaan paket kebijakan untuk keselamatan dan pendidik pelajar dan pendidik. Untuk informasi selengkapnya, lihat:  
+Kami menyarankan admin organisasi Pendidikan untuk mempertimbangkan menggunakan paket kebijakan untuk siswa dan pendidik dan keselamatan pendidik. Untuk informasi selengkapnya, lihat:  
 
-- [Paket kebijakan di Microsoft teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [Paket kebijakan di Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [Kebijakan yang harus ditetapkan untuk keselamatan pelajar](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Kebijakan yang harus ditetapkan untuk keamanan pelajar](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [Kebijakan yang harus ditetapkan untuk pendidik](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Kebijakan yang harus ditetapkan kepada pendidik](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-Jika Anda hanya ingin mengelola kemampuan untuk mengaktifkan keterangan langsung, lihat [mengaktifkan keterangan langsung](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Untuk informasi selengkapnya, lihat [mengelola kebijakan Rapat di teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Jika Anda hanya ingin mengelola kemampuan untuk mengaktifkan keterangan langsung, lihat [Mengaktifkan keterangan langsung](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). Untuk informasi selengkapnya, lihat [Mengelola kebijakan rapat di Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

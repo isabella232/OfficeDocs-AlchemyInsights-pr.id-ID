@@ -1,5 +1,5 @@
 ---
-title: Informasi selengkapnya tentang masalah DLP
+title: Info selengkapnya tentang masalah DLP
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fee9defac7b29999056cac161f271c4c97306e2fe2cbd9a23b1b956b2ee02e98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030833"
 ---
 # <a name="information-about-dlp-issues"></a>Informasi tentang masalah DLP
 
@@ -24,15 +24,15 @@ ms.locfileid: "47679732"
 
 **Informasi tentang kebijakan DLP**
 
-Dengan kebijakan DLP, Anda bisa mengidentifikasi, memantau, dan secara otomatis melindungi informasi sensitif di seluruh Microsoft 365.
+Dengan kebijakan DLP, Anda bisa mengidentifikasi, memantau, dan secara otomatis memproteksi informasi sensitif di Microsoft 365.
 
-Silakan kunjungi link ini untuk informasi selengkapnya:
+Silakan kunjungi tautan ini untuk informasi selengkapnya:
 
-- [Gambaran umum pencegahan kehilangan data](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Apa yang dicari tipe informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Gambaran umum tentang pencegahan kehilangan data](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
+- [Yang mencari tipe informasi sensitif](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 - [Membuat tipe informasi sensitif kustom](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Mengirim pemberitahuan email dan memperlihatkan Tips kebijakan](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Memproteksi file SharePoint online dengan label penyimpanan dan DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [DLP dan Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Mengirim pemberitahuan email dan memperlihatkan tips kebijakan](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Lindungi SharePoint Online Anda dengan label penyimpanan dan DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP dan Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Untuk menguji data Anda dengan tipe informasi sensitif bawaan atau kustom, gunakan opsi **tipe uji** di bawah tipe informasi sensitif **klasifikasi**  >  **Sensitive info types**. Untuk informasi selengkapnya, lihat [menguji tipe informasi sensitif kustom](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Untuk menguji data dengan tipe informasi bawaan atau sensitif kustom, gunakan opsi **Tipe uji** di bawah Klasifikasi **Tipe**  >  **informasi sensitif**. Untuk informasi selengkapnya, lihat [Menguji tipe informasi sensitif kustom.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)

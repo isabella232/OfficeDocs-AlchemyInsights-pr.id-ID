@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: f6af9e73bd88d1c4f37a1b7d408f8f89b9423f70
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 768bd098ca7ebb6c1e6c5637e80325e6ab71fcb6d517f8600f7a42f00db478c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066763"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Mengelola akun dan langganan Anda
 
@@ -34,7 +34,7 @@ ms.locfileid: "51823898"
 
 - [Pengajaran dan pembelajaran dari jarak jauh di Office 365 Pendidikan](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**Di pusat admin Microsoft 365, Anda dapat:** 
+**Dalam pusat admin Microsoft 365 Anda dapat:** 
 
 - [Melihat penagihan Anda](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 

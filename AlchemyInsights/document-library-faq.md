@@ -14,12 +14,12 @@ ms.custom:
 - "5676"
 - "9000292"
 - "5680"
-ms.openlocfilehash: 551fc98b2b2053811a3b282edd03d6245ed7df26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ba373dc3a21e75870e30f6dd3fd60223738aab7b72e721cf7a1067aa69d829ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030716"
 ---
 # <a name="document-library-faq"></a>FAQ pustaka dokumen
 
