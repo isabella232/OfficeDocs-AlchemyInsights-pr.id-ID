@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049347"
 ---
 # <a name="teams-admin-center"></a>Pusat Admin Teams
 
@@ -32,5 +32,5 @@ Jika pengguna tidak muncul di Pusat Admin Teams, lihat item berikut:
 
 - Apakah Anda membuat pengguna atau menetapkan lisensi dalam 24 jam terakhir? Pastikan Anda menunggu setidaknya 24 jam sebelum membuka tiket dukungan.
 - Pastikan Anda menetapkan lisensi yang sesuai?
-- Jika memiliki Direktori Aktif lokal, verifikasi bahwa nilai [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) atau alamat SIP di bidang ProxyAddresses dalam Direktori Aktif lokal berformat unik dan formatnya sesuai dengan **sip:** Nama pengguna dari pusat [admin Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Jika ingin tetap menggunakan Skype for Business Server dan meminta pengguna untuk menggunakan di tempat dan Online: ikuti "Siapkan hibrid dengan Teams dan **Skype for Business Online"** di Panel Kontrol Skype for Business Server dan pindahkan pengguna Secara Online.
+- Jika memiliki Direktori Aktif lokal, verifikasi bahwa nilai [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) atau alamat SIP di bidang ProxyAddresses dalam Direktori Aktif lokal berformat unik dan formatnya sesuai dengan **sip:** Nama pengguna dari [pusat admin Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Jika ingin mempertahankan Skype for Business Server dan mengatur pengguna agar berada di tempat dan Online: ikuti "Menyiapkan hibrid dengan Teams dan **Skype for Business Online"** di Panel Kontrol Skype for Business Server dan memindahkan pengguna Secara Online.

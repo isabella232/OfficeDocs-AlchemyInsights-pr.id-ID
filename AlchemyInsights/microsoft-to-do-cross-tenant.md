@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Defender
+title: Pertahanan Microsoft 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815941"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012167"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft untuk melakukan berbagi silang
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do lintas penyewa
 
-Microsoft untuk mendukung berbagi daftar antara akun pribadi dan akun kerja. Ini memungkinkan pengguna di organisasi Anda
+Microsoft To Do mendukung berbagi daftar antara akun pribadi dan kerja. Ini memungkinkan pengguna di organisasi Anda
 
 bergabung, menampilkan, mengubah, dan menambahkan data ke daftar yang dimiliki oleh akun Microsoft pribadi.
 
-Pengaturan admin baru tersedia untuk administrator untuk menonaktifkan fitur ini dengan menghapus centang opsi.
+Pengaturan admin baru tersedia bagi administrator untuk menonaktifkan fitur ini dengan membatalkan pemeriksaan opsi.
 
-Admin dapat menemukan pengaturan ini di portal admin di bawah **pengaturan** pengaturan  >  **organisasi**  >  **Layanan**  >  **Microsoft untuk dilakukan** .  
+Admin dapat menemukan pengaturan ini di portal admin di bawah **Pengaturan**  >  **Org Pengaturan**  >  **Services**  >  **Microsoft To Do**.  
 
-[Mengapa saya tidak bisa bergabung dalam daftar bersama?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
+[Mengapa saya tidak dapat bergabung dalam daftar bersama?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
