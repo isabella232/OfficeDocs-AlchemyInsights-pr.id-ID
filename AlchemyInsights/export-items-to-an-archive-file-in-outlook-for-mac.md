@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100405"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Mengekspor item ke file arsip di Outlook untuk Mac
 
-Untuk mengurangi ukuran kotak masuk Anda, secara manual mengarsipkan pesan email, kontak, dan item lain ke file data Outlook untuk Mac (. Olm). Anda dapat menyimpan file. Olm ke lokasi mana pun di Mac atau di komputer lain untuk diamankan.
+Untuk mengurangi ukuran kotak masuk Anda, arsipkan pesan email, kontak, dan item lain secara manual ke Outlook untuk File Data Mac (.olm). Anda dapat menyimpan file .olm ke lokasi mana pun di Mac Anda atau di mesin yang berbeda untuk disimpan.
 
-1. Pada tab **alat** , klik **ekspor**.
+1. Pada tab **Alat,** klik **Ekspor.**
 
 > [!NOTE]
-> Tidak melihat tombol **ekspor** ? Pastikan Anda memiliki versi terbaru Outlook. Pada menu **bantuan** Outlook, klik **Periksa pembaruan**. Jika semua pembaruan Outlook diterapkan dan Anda masih tidak melihat tombol **ekspor** , Cari **ekspor** pada menu **file** Outlook.
+> Tidak melihat tombol **Ekspor?** Pastikan Anda memiliki versi terbaru Outlook. Pada menu **Outlook,** klik **Periksa Pembaruan.** Jika semua Outlook pembaruan telah diterapkan dan Anda masih  tidak melihat tombol Ekspor, cari **Ekspor** pada menu Outlook **File.**
 
-2. Dalam kotak **ekspor ke file arsip (. Olm)** , centang item yang ingin Anda ekspor, dan klik **Lanjutkan**.
+2. Dalam kotak **Ekspor ke File Arsip (.olm),** periksa item yang ingin Anda ekspor, dan klik **Lanjutkan.**
 
-3. Dalam kotak **Simpan sebagai** , di bawah **favorit**, pilih folder **unduhan** , dan klik **Simpan**.
+3. Dalam kotak **Simpan** Sebagai, di **bawah Favorit**, pilih folder **Unduhan,** dan klik **Simpan.**
 
-4. Setelah data Anda diekspor dan Anda mendapatkan pemberitahuan, klik **selesai**.
+4. Setelah data Anda diekspor dan Anda mendapatkan pemberitahuan, klik **Selesai.**
 
-Untuk informasi tentang cara mengakses data yang telah Anda simpan di file data Outlook untuk Mac (. Olm), lihat [mengimpor pesan email, kontak, dan item lain ke dalam Outlook 2016 untuk Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+Untuk informasi tentang cara mengakses data yang telah Anda simpan di File Data Outlook Mac (.olm), lihat Mengimpor pesan [email, kontak,](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)dan item lain ke dalam Outlook 2016 untuk Mac .
 
-**Saya ingin mengekspor ke iCloud atau ke beberapa tipe file arsip lainnya**
+**Saya ingin mengekspor ke iCloud atau beberapa jenis file arsip lainnya**
 
-Opsi hanya ekspor yang tersedia saat ini adalah file arsip. Olm. Untuk meminta opsi ekspor tambahan, kunjungi [kotak saran Outlook](https://outlook.uservoice.com/) untuk meninggalkan umpan balik Anda. Tim Outlook aktif memantau forum ini.
+Satu-satunya opsi ekspor yang tersedia saat ini adalah file arsip .olm. Untuk meminta opsi ekspor tambahan, kunjungi Kotak [Outlook Saran tambahan untuk](https://outlook.uservoice.com/) memberikan umpan balik. Tim Outlook secara aktif memantau forum ini.
 
 **Lihat juga**
 
-- [Mengimpor file. PST ke Outlook 2016 untuk Mac dari Outlook untuk Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [Mengimpor file .pst ke dalam Outlook 2016 untuk Mac dari Outlook untuk Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [Menggunakan Time Machine untuk mengarsipkan atau mencadangkan item secara otomatis di Outlook 2016 untuk Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [Menggunakan Time Machine untuk mengarsipkan atau mencadangkan item secara otomatis Outlook 2016 untuk Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
