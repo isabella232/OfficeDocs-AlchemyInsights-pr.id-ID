@@ -1,5 +1,5 @@
 ---
-title: Pesan kesalahan Layanan metadata terkelola
+title: Pesan kesalahan Layanan Metadata Terkelola
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58394b854877aaf2f537c33195193d23cc3891524cb2f867246ba4bf5f9e73a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099001"
 ---
-# <a name="managed-metadata-service-error-message"></a>Pesan kesalahan Layanan metadata terkelola
+# <a name="managed-metadata-service-error-message"></a>Pesan kesalahan Layanan Metadata Terkelola
 
-Saat Anda membuka penyimpanan istilah, Anda mungkin melihat pesan kesalahan: "Layanan metadata terkelola atau koneksi tidak tersedia. Pool aplikasi atau layanan web metadata terkelola mungkin belum dimulai. Hubungi administrator Anda. "
+Saat Anda membuka Penyimpanan Istilah, Anda mungkin melihat pesan kesalahan: "Layanan atau Koneksi Metadata Terkelola saat ini tidak tersedia. Application Pool atau Managed Metadata Web Service mungkin belum dimulai. Silakan hubungi administrator Anda."
   
-Jika lebih dari 24 jam telah berlalu sejak pertama kali melihat masalah ini, silakan log kasus dukungan. Kami memahami bahwa 24 jam mungkin terlihat lama. Dalam banyak kasus, kami sedang mengerjakan sebuah solusi jadi tolong beri kami setidaknya 24 jam.
+Jika sudah lebih dari 24 jam sejak masalah ini muncul pertama kali, silakan catat kasus dukungan. Kami memahami bahwa waktu 24 jam mungkin terasa lama. Dalam banyak kasus, kami sedang mencari solusi, jadi beri kami setidaknya 24 jam.
   

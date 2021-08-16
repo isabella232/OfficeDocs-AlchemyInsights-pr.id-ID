@@ -1,5 +1,5 @@
 ---
-title: Mengelola grup tanpa lisensi Exchange
+title: Mengelola Grup tanpa Lisensi Exchange
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: 8a02362eb716e7e879deae7392d86ccc9f10ce5c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 949c37b035a85dd9996a741da73eb2e8a0dbfdcfc7dcef3905aa78e5759404e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796075"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099073"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Mengelola grup tanpa lisensi Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>Mengelola Grup tanpa Lisensi Exchange
 
-Jika akun admin Anda tidak memiliki kotak surat, Anda mungkin mendapatkan kesalahan tentang lisensi produk yang hilang ketika Anda mencoba mengedit grup Microsoft 365.
+Jika akun admin tidak memiliki kotak surat, Anda mungkin mendapatkan kesalahan tentang lisensi produk yang hilang ketika mencoba mengedit Grup Microsoft 365.
   
-Karena Anda adalah admin penyewa, Anda dapat mengedit grup meskipun Anda tidak memiliki lisensi Exchange. Cukup buka grup [Pusat admin Exchange](https://outlook.office365.com/ecp.aspx) \> **Groups** untuk mengelola grup Microsoft 365.
+Karena Anda adalah admin penyewa, Bisa saja Anda mengedit Grup meskipun Anda tidak memiliki lisensi Exchange penyewa. Cukup masuk ke [Exchange Pusat Admin](https://outlook.office365.com/ecp.aspx) untuk mengelola Microsoft 365 \>  Grup.
   
-Jika Anda ingin mengedit grup di pusat admin, tambahkan lisensi Exchange ke akun admin Anda. Anda harus menunggu hingga kotak surat dibuat sepenuhnya sebelum Anda bisa mengedit grup.
+Jika Anda ingin mengedit Grup di pusat admin, tambahkan Exchange lisensi ke akun admin Anda. Anda perlu menunggu hingga kotak surat sepenuhnya dibuat sebelum Anda bisa mengedit grup.
   

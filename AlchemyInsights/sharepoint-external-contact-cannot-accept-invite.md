@@ -8,20 +8,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 892e06498cea60851f9771e646a6e6dfbec6abdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c809c5ebb40a48a1c22116caf3118c67ccdd1416bf7284409886ed0c96250410
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023381"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Kontak eksternal tidak dapat menerima undangan SharePoint
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Kontak eksternal tidak dapat menerima SharePoint undangan
 
-Jika eksternal tidak dapat menerima undangan berbagi, Coba kunjungi link di bawah ini.
+Jika pengguna eksternal tidak dapat menerima undangan berbagi, silakan kunjungi tautan di bawah ini.
 
-- [Pesan kesalahan ketika pengguna eksternal menerima undangan SharePoint online dengan menggunakan akun lain](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Pesan kesalahan saat pengguna eksternal menerima undangan SharePoint Online dengan menggunakan akun lain](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Akses ditolak ke folder bersama](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
+- [Access denied to a shared folder](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
 - [Berbagi kesalahan di SharePoint dan OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
