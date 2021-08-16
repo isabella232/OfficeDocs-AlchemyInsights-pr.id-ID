@@ -1,5 +1,5 @@
 ---
-title: Meningkatkan pembatasan pembatasan untuk migrasi email
+title: Menambah batas pembatasan EWS untuk migrasi email
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "2691"
 - "3500008"
 ms.assetid: ''
-ms.openlocfilehash: 88b739e5e59ada7fb33cfc076181ba397af21f4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24194ccb4ef4d981001ebf1c0c911eb881a53a5f178529b783ee9114af944e90
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099361"
 ---
-# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Meningkatkan pembatasan pembatasan untuk migrasi email
+# <a name="increase-ews-throttling-limits-for-mail-migration"></a>Menambah batas pembatasan EWS untuk migrasi email
 
-Untuk menambah EWS penyewa Anda membatasi batas untuk migrasi email, silakan lanjutkan dan Buka Tiket dukungan.
+Untuk menambah batas pembatasan EWS penyewa Anda dalam migrasi email, silakan lanjutkan dan buka tiket dukungan.

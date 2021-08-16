@@ -1,5 +1,5 @@
 ---
-title: Memantau akses bersyarat Intune
+title: Memantau Akses Kondisional Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025505"
 ---
-# <a name="monitor-intune-conditional-access"></a>Memantau akses bersyarat Intune
+# <a name="monitor-intune-conditional-access"></a>Memantau Akses Kondisional Intune
 
-Pengguna yang ditargetkan dengan akses bersyarat akan menerima email pemberitahuan jika mereka tidak memenuhi persyaratan akses organisasi Anda. Untuk mengatasinya, kami menyarankan satu atau beberapa solusi berikut:
+Pengguna yang mendapatkan akses kondisional akan menerima email pemberitahuan jika mereka tidak memenuhi persyaratan akses organisasi Anda. Untuk mengatasinya, kami menyarankan satu atau beberapa solusi berikut:
 
-1. Jika perangkat dianggap terdaftar, Anjurkan pengguna untuk masuk ke aplikasi portal perusahaan dan memverifikasi bahwa perangkat tersebut muncul di portal perusahaan. Jika tidak, pengguna harus mendaftarkan perangkat.
-1. Di portal Azure, masuk ke **Intune**  >  **Device Compliance**. 
-1. Untuk menampilkan laporan kepatuhan perangkat untuk memverifikasi bahwa perangkat pengguna ditandai sebagai sesuai, di bawah **monitor**, klik **kepatuhan perangkat**.
-1. Di portal Azure, masuk ke **Intune**  >  **Device Compliance**. Di bawah **Kelola,** klik **kebijakan**. Dalam daftar kebijakan kepatuhan, verifikasi bahwa profil ditetapkan untuk perangkat pengguna Anda. Jika tidak ada profil yang ditetapkan, maka Intune tidak akan dapat mengonfirmasi status kepatuhan perangkat.
-1. Mengedit penetapan akses bersyarat pengguna.
-1. Di portal Azure, navigasikan ke   >  **kebijakan akses bersyarat** Intune  >  , pilih kebijakan dari daftar, dan klik **pengguna dan grup**.
-1. Untuk menargetkan kebijakan tertentu pada seseorang, tambahkan ke **Daftar sertakan**. Untuk memastikan bahwa seseorang dihilangkan dari kebijakan, tambahkan ke **Daftar Kecualikan**.
+1. Jika perangkat terdaftar, sarankan pengguna untuk masuk ke aplikasi Company Portal dan pastikan bahwa perangkat muncul di Company Portal. Jika tidak ada, pengguna harus mendaftarkan perangkat tersebut.
+1. Di portal Azure, masuk ke **Intune**  >  **Device compliance**. 
+1. Untuk menampilkan laporan kepatuhan perangkat untuk memastikan bahwa perangkat pengguna telah ditandai sebagai memenuhi syarat, di **bawah Monitor,** klik **Kepatuhan perangkat.**
+1. Di portal Azure, masuk ke **Intune**  >  **Device compliance**. Di **bawah Kelola,** klik **Kebijakan.** Dalam daftar kebijakan kepatuhan, verifikasi bahwa profil telah ditetapkan ke perangkat pengguna Anda. Jika belum ditetapkan, Intune tidak akan dapat mengonfirmasi status kepatuhan perangkat.
+1. Edit penetapan akses kondisional pengguna.
+1. Di portal Azure, navigasikan ke **Kebijakan akses kondisional Intune**  >    >  , pilih kebijakan dari daftar, lalu klik **Pengguna dan grup.**
+1. Untuk menargetkan kebijakan tertentu kepada seseorang, tambahkan orang tersebut ke **dalam daftar Sertakan.** Untuk memastikan bahwa seseorang tidak termasuk dalam kebijakan, tambahkan orang tersebut ke **dalam daftar Pengecualian.**
 
-**Link yang berguna:**
+**Tautan yang berguna:**
 
 - [Gambaran umum kepatuhan perangkat](https://docs.microsoft.com/intune/device-compliance-get-started)
-- [Pemecahan masalah CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Memecahkan masalah CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 - [Kebijakan pemecahan masalah](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
-- [Monitoring Intune Device Compliance](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Memantau kepatuhan perangkat Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Langkah-langkah ini hanya membantu dalam pemecahan masalah akses bersyarat fitur direktori aktif Azure. Memungkinkan untuk mengkarantina perangkat yang memblokir akses email itu dengan kebijakan Exchange. Informasi selengkapnya tentang manajemen perangkat Exchange bisa ditemukan [**di sini**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
+> Langkah-langkah ini hanya berguna dalam memecahkan Azure Active Directory Akses Bersyarat. Juga dimungkinkan untuk melakukan karantina perangkat yang memblokir akses email dengan Exchange email. Informasi selengkapnya tentang Exchange manajemen perangkat Anda bisa ditemukan di [**sini**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).

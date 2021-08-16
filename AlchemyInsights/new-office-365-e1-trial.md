@@ -1,5 +1,5 @@
 ---
-title: Uji Coba Office 365 E1 baru
+title: Percobaan Office 365 E1 Baru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: fc2f20488e55f73ed2437220d3fd56ff64848450
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 53be3bad8018b434bdac15ea953d3ccf5a83f59377f19bb2441247ee4892e26c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825194"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025433"
 ---
-# <a name="new-office-365-e1-trial"></a>Uji Coba Office 365 E1 baru
+# <a name="new-office-365-e1-trial"></a>Percobaan Office 365 E1 Baru
 
-Mulai 1 Juli 2020, lisensi Uji Coba Office 365 E1 tidak lagi tersedia. Jika Anda perlu memberi lisensi kepada pengguna untuk Microsoft Teams, baca deskripsi layanan [Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) untuk daftar langganan berbayar yang menyertakan Teams. Selain itu, organisasi yang memenuhi syarat dapat [menggunakan Versi gratis Teams,](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)atau karyawan dapat [mengaktifkan pengalaman Exploratory Teams.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
+Mulai 1 Juli 2020, lisensi Office 365 E1 Uji Coba tidak lagi tersedia. Jika Anda perlu memberi lisensi kepada pengguna Microsoft Teams, [baca Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) deskripsi layanan berbayar untuk daftar langganan berbayar yang menyertakan Teams. Selain itu, organisasi yang memenuhi syarat dapat menggunakan versi [Gratis Teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), atau karyawan dapat mengaktifkan pengalaman [Teams Exploratory.](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory)
