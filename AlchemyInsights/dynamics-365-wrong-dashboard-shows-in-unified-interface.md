@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365-dasbor yang salah ditampilkan di antarmuka terpadu Dynamics 365
+title: Dynamics 365 - Dasbor yang Salah Ditampilkan dalam Antarmuka Terpadu Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1edb2a7e9e0c270c7e98eb43d2f6514d70c39a19ea97d189322ca387b6842a18
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101485"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dasbor yang salah ditampilkan di antarmuka terpadu Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Dasbor yang salah ditampilkan dalam antarmuka terpadu Dynamics 365
 
-Ada beberapa alasan mengapa Anda melihat dasbor yang berbeda dari yang Anda duga:
+Ada beberapa alasan mengapa Anda mungkin melihat dasbor berbeda dari dasbor yang Anda harapkan:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Pengguna telah mengatur dasbor default pengguna 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Pengguna telah menetapkan dasbor default pengguna 
 
-Biasanya Anda bisa mengidentifikasi dasbor default pengguna diatur jika tombol **Atur sebagai default** tidak muncul di bilah perintah dasbor. Dasbor default pengguna akan menimpa semua dasbor default lainnya, meskipun dasbor default pengguna tidak ada di aplikasi saat ini.
+Biasanya Anda dapat mengidentifikasi dasbor default pengguna diatur jika **tombol Atur Sebagai Default** tidak muncul di bilah perintah dasbor. Dasbor default pengguna akan menimpa semua dasbor default lainnya, bahkan jika dasbor default pengguna tidak berada di aplikasi saat ini.
 
-Gunakan solusi berikut untuk membuka dasbor default mereka.
+Gunakan solusi berikut ini untuk membatalkan pengaturan dasbor default.
 
-1. Membuat dasbor pribadi baru.
+1. Buat dasbor pribadi baru.
 
-2. Setel dasbor baru sebagai default pengguna.
+2. Atur dasbor baru tersebut sebagai default pengguna.
 
 3. Hapus dasbor tersebut.
 
 ## <a name="the-dashboard-is-set-in-the-sitemap"></a>Dasbor diatur dalam peta situs
 
-Anda mungkin telah menetapkan dasbor default organisasi dengan memilih dasbor dan memilih ' setel sebagai default ' di bawah ' kustomisasi sistem '. Tapi dasbor yang ditentukan dalam desainer Sitemap akan lebih diutamakan daripada dasbor ini, jika pengguna memiliki akses ke dasbor tersebut.
+Anda mungkin telah mengatur dasbor default organisasi dengan memilih dasbor dan memilih 'Atur Sebagai Default' di bawah 'Kustomisasi Sistem'. Namun dasbor yang ditetapkan dalam desainer peta situs akan diutamakan dari dasbor ini, jika pengguna memiliki akses ke dasbor tersebut.
 
-Untuk meminta pengguna melihat dasbor yang telah Anda setel sebagai default organisasi, Anda bisa:
+Untuk membuat pengguna melihat dasbor yang telah Anda atur sebagai default organisasi, Anda bisa:
 
-* Mengatur dasbor tersebut dalam peta situs
+* Atur dasbor tersebut di peta situs
 
-* Menghapus akses ke dasbor yang ditentukan Sitemap untuk pengguna tersebut
+* Menghapus akses ke dasbor peta situs yang ditentukan untuk pengguna tersebut

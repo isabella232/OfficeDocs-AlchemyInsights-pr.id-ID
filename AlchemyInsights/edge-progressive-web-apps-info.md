@@ -1,5 +1,5 @@
 ---
-title: Pelajari tentang Progressive Web App (PWAs) di Microsoft Edge (Kromium)
+title: Pelajari tentang Progressive Web Apps (PWA) di Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101449"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Pelajari tentang Progressive Web App (PWAs) di Microsoft Edge (Kromium)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Pelajari tentang Progressive Web Apps (PWA) di Microsoft Edge (Chromium)
 
-PWAs adalah situs web yang disempurnakan untuk berfungsi seperti aplikasi asli pada platform yang mendukungnya. PWAs menggabungkan kualitas terbaik aplikasi web dan asli.
+PWA adalah situs web yang terus disempurnakan untuk berfungsi seperti aplikasi asli di platform yang mendukungnya. PWAs menggabungkan kualitas terbaik aplikasi web dan asli.
 
-Dari perspektif platform web, [Pwas di Microsoft Edge (Kromium)](https://go.microsoft.com/fwlink/?linkid=2135193) didasarkan pada standar. Mereka memperbolehkan pengguna menginstal aplikasi secara langsung dari browser, dan mereka tidak memerlukan Microsoft Store-penyebaran atau pendaftaran berbasis. Desktop PWAs didukung pada platform mana pun di mana Microsoft Edge (Kromium) tersedia.
+Dari perspektif platform web, [PWA di Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) didasarkan pada standar. Aplikasi memungkinkan pengguna menginstal aplikasi secara langsung dari dalam browser, dan mereka tidak memerlukan Microsoft Store atau pendaftaran berbasis-pengguna. PWAs desktop didukung di platform apa pun tempat Microsoft Edge (Chromium) tersedia.
