@@ -15,12 +15,12 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 2ebfabc02b937557439a4fa13da3e5cfcadf2e5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b42a67b7608d6471b2bcf4ba6c12c7239ccc6504b07ee0eaba17b570cd3869e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723790"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041229"
 ---
 # <a name="print-email-and-calendars-in-outlookcom"></a>Mencetak email dan kalender di Outlook.com
 
@@ -32,6 +32,6 @@ Untuk mencetak pesan email:
 Untuk mencetak kalender Anda:
 
 1. Di sudut kanan atas halaman, pilih <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' /> **Mencetak**.
-1. Pilih rentang tampilan dan waktu, lalu pilih **cetak**.
+1. Pilih rentang waktu dan tampilan, lalu pilih **Cetak.**
 
 Pelajari selengkapnya tentang cara [mencetak email dan kalender di Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

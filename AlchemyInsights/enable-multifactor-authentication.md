@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan autentikasi multifaktor
+title: Aktifkan Multifactor Authentication
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002915"
 ---
-# <a name="enable-multi-factor-authentication"></a>Mengaktifkan autentikasi multifaktor
+# <a name="enable-multi-factor-authentication"></a>Mengaktifkan multi-factor authentication
 
-Untuk mengaktifkan multi-Factor Authentication di pusat admin Microsoft 365:
+Untuk mengaktifkan multi-factor authentication di pusat admin Microsoft 365:
 
-1. Masuk ke halaman **Users** pengguna \> **aktif** pengguna.
+1. Masuk ke **halaman Pengguna** \> **Aktif** pengguna.
     
-2. Di bagian atas halaman, pilih **autentikasi multifaktor**. 
+2. Di bagian atas halaman, pilih **Autentikasi multi-faktor**. 
     
-3. Temukan pengguna atau pengguna yang ingin Anda Aktifkan untuk autentikasi multifaktor. Untuk melihat semua pengguna, Anda mungkin perlu mengubah filter **status autentikasi multifaktor** di bagian atas.
+3. Temukan satu atau beberapa pengguna yang ingin Anda aktifkan untuk multi-factor authentication. Untuk melihat semua pengguna, Anda mungkin perlu mengubah filter **status Multi-Factor Auth** di bagian atas.
     
-4. Pilih kotak centang di samping pengguna yang ingin Anda Aktifkan.
+4. Pilih kotak centang di samping pengguna yang ingin Anda aktifkan.
     
-5.  Di panel Info pengguna yang tepat, di bawah **langkah cepat**, pilih **Aktifkan**. 
+5.  Di panel info pengguna sebelah kanan, di bawah **langkah cepat**, pilih **Aktifkan**. 
     
-6. Dalam kotak dialog yang terbuka, pilih **Aktifkan multi-Factor Auth**. 
+6. Dalam kotak dialog yang terbuka, pilih **aktifkan multi-factor auth**. 
     
 

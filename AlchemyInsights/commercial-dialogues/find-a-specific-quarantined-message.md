@@ -1,5 +1,5 @@
 ---
-title: Menemukan pesan tertentu yang dikarantina
+title: Menemukan pesan spesifik yang dikarantina
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 3f9bd87a30bc7062afbe39dcc7df19b8eac37741
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967948"
 ---
-# <a name="find-a-specific-quarantined-message"></a>Menemukan pesan tertentu yang dikarantina
+# <a name="find-a-specific-quarantined-message"></a>Menemukan pesan spesifik yang dikarantina
 
-1. Masuk ke [pusat kepatuhan & keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Masuk ke karantina peninjauan **manajemen manajemen**  >    >  .
-3. Pilih **pencarian**.
-4. Pilih kombinasi kondisi dengan memilih kotak centang di sampingnya (Anda tidak dapat menggunakan wildcard saat ini).
+1. Masuk ke [Pusat & Kepatuhan Keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+2. Buka **Karantina**  >  **Tinjauan Manajemen**  >  **ancaman**.
+3. Pilih **Pencarian.**
+4. Pilih kombinasi kondisi apa pun dengan memilih kotak centang di sampingnya (Anda tidak dapat menggunakan wildcard saat ini).
