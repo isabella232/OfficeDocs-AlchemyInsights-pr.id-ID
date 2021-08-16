@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams-akses tamu
+title: Microsoft Teams - Akses Tamu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012311"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft teams-akses tamu
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams - Akses Tamu
 
-Jika Anda perlu bantuan berkomunikasi dengan pengguna di luar organisasi Anda di teams, Anda harus memutuskan apakah akan menggunakan [akses tamu atau akses eksternal (Federasi)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), atau Anda bisa menggunakan keduanya.
+Jika memerlukan bantuan untuk berkomunikasi dengan pengguna di luar Organisasi di Teams, Anda perlu memutuskan apakah akan menggunakan Akses Tamu atau Akses Eksternal [(Federasi),](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)atau menggunakan keduanya.
 
-Pastikan untuk [meninjau perbedaan](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) untuk memahami fitur yang tersedia untuk masing-masing.  Misalnya, Access eksternal (Federasi) memungkinkan untuk komunikasi 1:1, seperti obrolan dan kehadiran.  Namun, pengguna gabungan tidak dapat berpartisipasi dalam kolaborasi teams.  Jika Anda ingin agar pengguna eksternal bergabung dan berpartisipasi dalam percakapan saluran teams atau berbagi file, Anda harus mengaktifkan akses tamu.
+Pastikan untuk [meninjau perbedaan dalam memahami](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) fitur yang tersedia untuk masing-masing.  Misalnya, Akses eksternal (federasi) memungkinkan komunikasi 1:1, seperti Obrolan dan Kehadiran.  Pengguna gabungan tidak bisa berpartisipasi Teams kolaborasi.  Jika Anda ingin pengguna eksternal bergabung dan berpartisipasi dalam Teams Saluran Percakapan atau Berbagi File, Anda harus mengaktifkan Akses Tamu.
 
-**Opsi 1: Aktifkan akses tamu** Di pusat admin teams, masuk ke [pengaturan luas organisasi > akses tamu](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) dan Aktifkan "Izinkan akses tamu di teams".  Untuk penyewa dengan semua pengaturan default lainnya, ini harus Anda lakukan.  Untuk mengustomisasi konfigurasi akses tamu Anda, pastikan Anda mengikuti semua langkah dalam [Daftar Periksa akses tamu](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Setelah selesai, Anda harus [menunggu hingga 24 jam](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) agar pengaturan dapat diterapkan.
+**Opsi 1: Aktifkan Akses Tamu** Di Teams Admin, Masuk ke [Org Wide Pengaturan > Akses Tamu,](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) lalu aktifkan "Perbolehkan Akses Tamu Teams".  Untuk penyewa dengan semua pengaturan default lainnya, Anda hanya perlu melakukannya.  Untuk mengustomisasi konfigurasi Akses Tamu, pastikan Anda mengikuti semua langkah-langkah dalam [Daftar Periksa Akses Tamu.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Setelah selesai, Anda perlu menunggu [hingga 24 jam](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) hingga pengaturan diterapkan.
 
-Jika Anda yakin telah menyelesaikan semua langkah dalam daftar periksa, dan sudah lebih dari 24 Jam, Lanjutkan dan cobalah untuk [menambahkan tamu ke tim Anda](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Jika Anda yakin telah menyelesaikan semua langkah-langkah dalam Daftar Periksa, dan sudah lebih dari 24 jam, lanjutkan dan coba menambahkan Tamu ke [Tim Anda.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Untuk informasi selengkapnya, termasuk video cara penggunaan, lihat [akses tamu di Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Untuk informasi selengkapnya, termasuk video cara kerja, lihat [Akses tamu di Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Opsi 2: mengaktifkan akses eksternal (Federasi)** Jika Anda juga ingin mengaktifkan akses eksternal (Federasi), di pusat admin teams, masuk ke [pengaturan di seluruh organisasi > akses eksternal](https://admin.teams.microsoft.com/company-wide-settings/external-communications) dan Aktifkan "pengguna bisa berkomunikasi dengan pengguna Skype for Business dan teams", lalu ikuti semua langkah di [memungkinkan pengguna tim Anda mengobrol dan berkomunikasi dengan pengguna di organisasi lain](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Opsi 2: Aktifkan Akses Eksternal (Federasi)** Jika Anda juga ingin mengaktifkan Akses Eksternal (Federasi), di Pusat Admin Teams masuk ke Akses Eksternal [Pengaturan >](https://admin.teams.microsoft.com/company-wide-settings/external-communications) lebar organisasi dan mengaktifkan "Pengguna dapat berkomunikasi dengan pengguna Skype for Business dan Teams", lalu ikuti semua langkah dalam Biarkan pengguna [Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)Anda mengobrol dan berkomunikasi dengan pengguna di organisasi lain .

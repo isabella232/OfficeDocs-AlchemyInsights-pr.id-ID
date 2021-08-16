@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966976"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296054"
 ---
 # <a name="release-quarantined-messages"></a>Merilis pesan yang dikarantina
 
-Anda dapat merilis pesan yang dikarantina (atau kumpulan pesan) ke semua penerima, atau hanya merilis pesan kepada orang-orang tertentu yang Anda pilih dari daftar semua penerima.
+Anda dapat merilis pesan yang dikarantina (atau kumpulan pesan) ke semua penerima, atau hanya merilis pesan kepada orang-orang tertentu yang Anda pilih dari daftar semua penerima. Berikut caranya:
 
-1. Masuk ke [Pusat & Kepatuhan Keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Buka **Karantina**  >  **Tinjauan Manajemen**  >  **ancaman**.
-3. Pilih pesan yang ingin Anda rilis.
-4. Setelah Anda melepaskan pesan, pilih **Refresh** untuk merefresh data Anda, lalu klik ganda pesan. Anda akan melihat bahwa pesan telah dirilis ke penerima yang dimaksud.
+1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Email &** \> **Tinjau** \> **Kolaborasi.**
+
+   Untuk langsung masuk ke halaman **Karantina,** gunakan <https://security.microsoft.com/quarantine> .
+
+2. Di halaman **Karantina,** verifikasi bahwa tab **email** dipilih, lalu lakukan salah satu langkah berikut:
+   - **Satu pesan**: Pilih pesan. Dalam flyout detail yang muncul, **pilih Rilis email**, konfigurasi opsi yang Anda inginkan, lalu klik Lepaskan **pesan.**
+   - **Beberapa pesan**: Pilih hingga 100 pesan untuk merilis pesan ke semua penerima (Anda tidak dapat menentukan penerima asli individu). Dalam **daftar turun bawah** Tindakan massal yang muncul, **pilih Lepaskan pesan**, konfigurasi opsi yang Anda inginkan, lalu klik Pesan **rilis.**
+
+Untuk informasi selengkapnya, lihat artikel berikut ini:
+
+- [Menemukan dan merilis pesan yang dikarantina sebagai pengguna](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Mengelola pesan dan file yang dikarantina sebagai admin](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

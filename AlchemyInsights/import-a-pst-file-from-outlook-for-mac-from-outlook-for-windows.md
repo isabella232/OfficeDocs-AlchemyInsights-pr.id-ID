@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 2732c9c1f644e3ba30db9716a7a0ab53e51c2d29d4cfeabc485133ed99531a05
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d18a5e56c758119bec0cbed9e60fb015ff17855b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53987398"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295910"
 ---
 # <a name="import-a-pst-file-from-outlook-for-windows-to-outlook-for-mac"></a>Mengimpor file .pst dari Outlook untuk Windows ke Outlook untuk Mac 
 
-Untuk mentransfer pesan dan item lain dari komputer berbasis Windows ke Mac, Outlook untuk Mac dapat mengimpor Outlook File Data (.pst) yang dibuat di Outlook untuk Windows.
+Untuk mentransfer pesan dan item lain dari komputer berbasis Windows ke Mac, Outlook untuk Mac dapat mengimpor File Data Outlook (.pst) yang dibuat di Outlook untuk Windows.
 
 **Dalam versi yang lebih baru - impor file .pst dari Windows ke Mac**
 
@@ -53,14 +53,13 @@ Untuk mentransfer pesan dan item lain dari komputer berbasis Windows ke Mac, Out
 
    Item yang diimpor muncul di panel navigasi di bawah **Di Komputer Saya**.
 
-> [!NOTE]
-> Outlook untuk Mac hanya bisa mengimpor file .pst berbasis Unicode, yang merupakan format standar untuk file Folder Pribadi untuk versi Outlook (untuk Windows) 2003 dan yang lebih baru. File .pst berformat ANSI, juga dikenal sebagai File Folder Pribadi Outlook 97-2002, adalah format folder pribadi standar untuk menyimpan data dalam Outlook untuk Windows dalam versi 97-2002. Format file ini tidak bisa diimpor ke dalam Outlook untuk Mac. Jika Anda memiliki file .pst berformat ANSI versi yang lebih lama, tidak ada prosedur otomatis untuk mengonversi file itu ke format file yang lebih baru. Namun, Anda dapat membuat File Data Outlook (.pst) baru di Microsoft Outlook untuk Windows 2003 atau versi yang lebih baru, lalu mengimpor item dari file lama ke file baru. Anda kemudian dapat mengimpor file .pst baru ke Outlook untuk Mac. Untuk informasi selengkapnya tentang cara membuat file .pst dan mengimpor item, **lihat** Bantuan untuk versi Outlook untuk Windows.
+**Catatan:** Outlook untuk Mac hanya bisa mengimpor file .pst berbasis Unicode, yang merupakan format standar untuk file Folder Pribadi untuk Outlook (untuk Windows) 2003 dan versi yang lebih baru. File .pst berformat ANSI, juga dikenal sebagai File Folder Pribadi Outlook 97-2002, adalah format folder pribadi standar untuk menyimpan data dalam Outlook untuk Windows dalam versi 97-2002. Format file ini tidak bisa diimpor ke dalam Outlook untuk Mac. Jika Anda memiliki file .pst berformat ANSI versi yang lebih lama, tidak ada prosedur otomatis untuk mengonversi file itu ke format file yang lebih baru. Namun, Anda dapat membuat File Data Outlook (.pst) baru di Microsoft Outlook untuk Windows 2003 atau versi yang lebih baru, lalu mengimpor item dari file lama ke file baru. Anda kemudian dapat mengimpor file .pst baru ke Outlook untuk Mac. Untuk informasi selengkapnya tentang cara membuat file .pst dan mengimpor item, **lihat** Bantuan untuk versi Outlook untuk Windows.
 
-**Membuka File Data Outlook (.pst atau .olm)**
+**Membuka File Outlook Data (.pst atau .olm)**
 
-Anda bisa mengimpor Outlook untuk Windows File Data (.pst) atau File Data Outlook untuk Mac (.olm). File data ini bisa berisi sejumlah besar data dari beberapa tipe item. Outlook File Data sering digunakan sebagai arsip atau untuk mentransfer data antar komputer.
+Anda bisa mengimpor Outlook untuk Windows Data (.pst) atau File Data Outlook untuk Mac (.olm). File data ini bisa berisi sejumlah besar data dari beberapa tipe item. Outlook File Data sering digunakan sebagai arsip atau untuk mentransfer data antar komputer.
 
-1. Di menu Outlook File Mac, klik **Impor.**
+1. Pada menu Outlook File Mac, klik **Impor.**
 
 2. Klik **Outlook File Data,** lalu klik panah kanan.
 
@@ -72,8 +71,7 @@ Anda bisa mengimpor Outlook untuk Windows File Data (.pst) atau File Data Outloo
 
 Item yang diimpor muncul di panel navigasi di bawah **Di Komputer Saya**.
 
-> [!NOTE]
-> Outlook untuk Mac hanya bisa mengimpor file .pst berbasis Unicode yang merupakan format standar untuk file Folder Pribadi untuk versi Outlook (untuk Windows) 2003 dan yang lebih baru. File .pst berformat ANSI, juga dikenal sebagai file .pst Outlook 97-2002, tidak bisa diimpor ke dalam Outlook untuk Mac. Jika Anda memiliki file .pst berformat ANSI versi yang lebih lama, tidak ada prosedur otomatis untuk mengonversi file itu ke format file yang lebih baru. Namun, Anda dapat membuat File Data Outlook (.pst) baru di Microsoft Outlook untuk Windows 2003 atau yang lebih baru, lalu mengimpor item dari file lama ke file baru. Anda kemudian dapat mengimpor file .pst baru ke Outlook untuk Mac. Untuk informasi selengkapnya tentang cara membuat file .pst dan mengimpor item, lihat Bantuan untuk versi Outlook untuk Windows. 
+**Catatan:** Outlook untuk Mac hanya bisa mengimpor file .pst berbasis Unicode yang merupakan format standar untuk file Folder Pribadi untuk Outlook (untuk Windows) 2003 dan versi yang lebih baru. File .pst berformat ANSI, juga dikenal sebagai file .pst Outlook 97-2002, tidak bisa diimpor ke Outlook untuk Mac. Jika Anda memiliki file .pst berformat ANSI versi yang lebih lama, tidak ada prosedur otomatis untuk mengonversi file itu ke format file yang lebih baru. Namun, Anda dapat membuat File Data Outlook (.pst) baru di Microsoft Outlook untuk Windows 2003 atau yang lebih baru, lalu mengimpor item dari file lama ke file baru. Anda kemudian dapat mengimpor file .pst baru ke Outlook untuk Mac. Untuk informasi selengkapnya tentang cara membuat file .pst dan mengimpor item, lihat Bantuan untuk versi Outlook untuk Windows. 
 
 **Membuka item entourage dari arsip atau versi yang lebih lama**
 
@@ -83,12 +81,12 @@ Anda bisa mengimpor item seperti pesan email, kontak, dan acara dari Entourage 2
 
 2. Klik **Informasi Entourage dari arsip atau versi yang lebih** lama, klik panah kanan, lalu ikuti instruksi.
 
-> [!NOTE]
+**Catatan:**
 - Jika Anda menggunakan akun Microsoft Exchange dengan Entourage, semua item di dalam akun Exchange diunduh dari server Exchange setelah proses impor selesai. Setiap aturan atau jadwal terkait dengan Exchange ini mungkin perlu dikonfigurasi ulang di versi Outlook.
 
 - Jika Anda mengimpor item dari Entourage 2004 atau Entourage 2008, informasi kategori untuk item di akun Exchange tidak diimpor ke Outlook. Namun, dengan Entourage 2008, Web Services Edition, informasi kategori akan diunduh dari server Exchange.
 
-- Outlook ini tidak menyertakan Pusat Project Baru. Jika Anda menggunakan pusat Project di Entourage lalu mengimpor informasi Entourage Anda ke dalam Outlook, asosiasi Pusat Project dikonversi menjadi kategori. Misalnya, jika Anda menambahkan item ke sebuah proyek yang berjudul "Makalah Riset" di Entourage, item ini ditetapkan ke kategori yang disebut "Makalah Riset" di Outlook.
+- Outlook ini tidak menyertakan Pusat Project. Jika Anda menggunakan pusat Project di Entourage lalu mengimpor informasi Entourage Anda ke dalam Outlook, asosiasi Pusat Project dikonversi menjadi kategori. Misalnya, jika Anda menambahkan item ke sebuah proyek yang berjudul "Makalah Riset" di Entourage, item ini ditetapkan ke kategori yang disebut "Makalah Riset" di Outlook.
 
 - Tampilan kustom, pengaturan pencarian, dan informasi waktu perjalanan acara dari Entourage tidak diimpor ke dalam Outlook. Outlook tidak menyertakan informasi waktu perjalanan apa pun.
 
@@ -100,8 +98,7 @@ Anda bisa mengimpor item seperti pesan email, kontak, dan acara dari Entourage 2
 
 3. Di kotak pencarian, masukkan nama folder yang ingin Anda pindahkan, dan klik **Pindahkan.**
 
-> [!TIP]
-> Untuk menyalin item dari folder arsip ke folder lain Outlook, cukup seret item ke folder di mana Anda ingin menempatkan salinan.
+   **Tips**: Untuk menyalin item dari folder arsip ke folder lain Outlook, cukup seret item ke folder yang diinginkan untuk menempatkan salinan.
 
 **Lihat juga**
 

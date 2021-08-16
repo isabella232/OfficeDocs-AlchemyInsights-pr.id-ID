@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.custom:
 - "9000252"
 - "1842"
-ms.openlocfilehash: b126b7b266bb50c121130872071e7ce2231df547
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd99b54dde2c838e527381a0acff0f62f575fa33d11ef406b005761399b969a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064495"
 ---
 # <a name="unable-to-receive-email"></a>Tidak dapat menerima email
 
-Jika Anda mengalami masalah dengan Outlook.com, pertama-tama Periksa [status layanan](https://go.microsoft.com/fwlink/p/?linkid=837482).
+Jika Anda mengalami masalah dengan pengguna Outlook.com, terlebih dahulu periksa [status layanan](https://go.microsoft.com/fwlink/p/?linkid=837482).
 
-1. Periksa kotak masuk **lainnya** . Untuk mempelajari cara menonaktifkan kotak masuk prioritas, lihat [menonaktifkan kotak masuk prioritas](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2). 
-2. Lihat di folder [ **email sampah** ](https://outlook.live.com/mail/junkemail)Anda. Jika kotak masuk penuh, Anda tidak akan menerima pesan baru. Untuk membuat ruang di kotak masuk Anda, coba mengosongkan folder sampah Anda dengan mengklik kanan **email sampah**  >  **Hapus semua**.
-3. Periksa **filter kotak masuk**Anda. 
-    1. Untuk pemfilteran, masuk ke bagian atas daftar pesan Anda dan pilih **filter**  >  **semua**.
-    2. Untuk pengurutan, pilih **filter**  >  **Urutkan menurut**  >  **tanggal** atau **dari**.
-4. Periksa daftar pengirim dan pengirim yang [diblokir](https://outlook.live.com/mail/options/mail/junkEmail) .
-5. Periksa [aturan kotak masuk](https://outlook.live.com/mail/options/mail/rules)Anda.
-6. Akun Anda mungkin diblokir sementara karena kami melihat beberapa aktivitas masuk yang tidak biasa. Lihat [membuka blokir akun Outlook.com saya](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
+1. Periksa Kotak **Masuk Lainnya.** Untuk mempelajari cara menonaktifkan Kotak Masuk Prioritas, lihat [Menonaktifkan Kotak Masuk Prioritas](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2). 
+2. Cari di folder [ **Email Sampah** Anda.](https://outlook.live.com/mail/junkemail) Jika kotak masuk Penuh, Anda tidak akan menerima pesan baru. Untuk mengosongkan kotak masuk Anda, coba kosongkan folder sampah dengan mengklik kanan **Email Sampah Hapus**  >  **semua.**
+3. Periksa Filter **Kotak Masuk Anda.** 
+    1. Untuk pemfilteran, masuk ke bagian atas daftar pesan, lalu pilih **Filter**  >  **Semua.**
+    2. Untuk pengurutan, pilih **Filter**  >  **Urutkan menurut**  >  **Tanggal** atau **Dari**.
+4. Periksa daftar [pengirim dan pengirim](https://outlook.live.com/mail/options/mail/junkEmail) yang Brankas diblokir.
+5. Periksa Aturan [Kotak Masuk Anda.](https://outlook.live.com/mail/options/mail/rules)
+6. Akun Anda mungkin diblokir sementara karena kami melihat adanya aktivitas masuk yang tidak biasa. Lihat [Membuka blokir Outlook.com saya.](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)
 
-Pelajari selengkapnya tentang cara [memperbaiki masalah sinkronisasi email Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+Pelajari selengkapnya tentang cara [Memperbaiki Outlook.com pada masalah sinkronisasi email](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
