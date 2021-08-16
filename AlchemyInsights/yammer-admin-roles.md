@@ -1,5 +1,5 @@
 ---
-title: Tentang admin Yammer
+title: Tentang Yammer admin
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003221"
 - "9714"
-ms.openlocfilehash: fd8534d44c44f2ea8e6b0de8c361109915566868
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a5d71f509b7006264b15549c7e8450d4ed7025b7dea3cfd80fe6f0fdf50b0b9c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989702"
 ---
-# <a name="about-yammer-admins"></a>Tentang admin Yammer
+# <a name="about-yammer-admins"></a>Tentang Yammer admin
 
 **Admin jaringan**
 
-Admin global secara otomatis dipromosikan ke peran admin yang diverifikasi dalam jaringan Yammer. Dalam kasus berikut, promosi ini mungkin tidak terjadi dengan benar:
+Admin global secara otomatis dipromosikan ke peran Admin Diverifikasi di Yammer mereka. Dalam kasus berikut, promosi ini mungkin tidak terjadi dengan benar:
 
-- Beberapa jaringan Yammer ada, dan admin sedang masuk ke yang salah. [Konsolidasi jaringan](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) diperlukan untuk masuk ke satu jaringan Yammer.
-- PIM Azure sedang digunakan. Pengguna mungkin tidak dipromosikan ke admin global cukup lama agar promosi dapat terjadi. Pembaruan mendatang untuk Yammer mungkin mengatasi masalah ini, tetapi yang paling baik adalah mempromosikan pengguna ke admin global secara manual.
-- Masalah sinkronisasi ada pada jaringan Yammer. Dalam hal ini, permintaan dukungan akan diperlukan untuk investigasi lebih lanjut.
+- Ada beberapa Yammer jaringan dan admin masuk ke jaringan yang salah. [Konsolidasi jaringan](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) diperlukan untuk masuk ke satu Yammer jaringan.
+- Azure AZURE AZURE sedang digunakan. Pengguna mungkin tidak akan dipromosikan ke admin global cukup lama agar promosi terjadi. Pembaruan mendatang untuk Yammer mungkin mengatasi masalah ini, tapi paling baik mempromosikan pengguna untuk menjadi admin global secara manual.
+- Masalah sinkronisasi terjadi di Yammer jaringan. Dalam hal ini, permintaan dukungan akan diperlukan untuk diselidiki lebih lanjut.
 
-Untuk informasi selengkapnya tentang peran admin Yammer, lihat [mengelola admin yammer](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins).
+Untuk informasi selengkapnya tentang Yammer peran admin, [lihat Yammer admin .](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins)
 
 **Admin grup**
 
-Grup admin untuk grup tersambung Microsoft 365 disinkronkan dengan keanggotaan grup dari Azure AD. Untuk grup besar, sinkronisasi ini dapat memerlukan waktu lama.
+Admin grup untuk Microsoft 365 yang tersambung disinkronkan dengan keanggotaan grup dari Azure AD. Untuk grup besar, sinkronisasi ini dapat berlangsung lama.

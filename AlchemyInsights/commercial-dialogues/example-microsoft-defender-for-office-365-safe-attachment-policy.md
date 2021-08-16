@@ -1,5 +1,5 @@
 ---
-title: Contoh kebijakan Microsoft Defender untuk Office 365 Safe attachment
+title: Contoh Pertahanan Microsoft untuk Office 365 Brankas Attachment
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988298"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Contoh kebijakan Microsoft Defender untuk Office 365 Safe attachment
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Contoh Pertahanan Microsoft untuk Office 365 Brankas Attachment
 
-Pengaturan ini mengaktifkan kebijakan yang *tidak disebut keterlambatan* yang akan mengirimkan pesan dengan segera lalu melepaskan kembali lampiran setelah dipindai:
+Pengaturan ini mengaktifkan kebijakan *yang disebut Tidak ada* penundaan yang mengirimkan pesan dengan segera lalu menghapus kembali lampiran setelah dipindai:
 
-- **Nama**: tidak ada keterlambatan
-- **Deskripsi**: mengirimkan pesan dengan segera dan melampirkan kembali lampiran setelah pemindaian.
-- **Respons**: Pilih opsi **pengiriman dinamis** . Untuk informasi selengkapnya, lihat [pengiriman dinamis dalam kebijakan lampiran aman](https://go.microsoft.com/fwlink/?linkid=2092328).
-- Bagian **lampiran pengalihan** : Pilih opsi untuk **mengaktifkan pengalihan**, lalu masukkan alamat email administrator global Microsoft 365, administrator keamanan, atau analis keamanan yang akan menyelidiki lampiran berbahaya.
-- **Diterapkan ke** bagian: Pilih **domain Penerima**, lalu pilih domain Anda. Pilih **Tambahkan**, lalu pilih **OK**. Setelah selesai, pilih **Simpan**.
+- **Nama**: Tidak ada penundaan
+- **Deskripsi**: Mengirimkan pesan dengan segera dan menyerang kembali lampiran setelah memindai.
+- **Respons**: Pilih **opsi Pengiriman** Dinamis. Untuk informasi selengkapnya, lihat [Pengiriman Dinamis Brankas Kebijakan Lampiran](https://go.microsoft.com/fwlink/?linkid=2092328).
+- **Mengalihkan bagian** lampiran: Pilih opsi untuk Mengaktifkan pengalihan **,** lalu masukkan alamat email administrator global Microsoft 365, administrator keamanan, atau analis keamanan yang akan menyelidiki lampiran berbahaya.
+- **Bagian Diterapkan** Ke: **Pilih Domain penerima adalah**, lalu pilih domain Anda. Pilih **tambahkan**, lalu pilih **OK.** Setelah Anda selesai, pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [lampiran aman di Microsoft Defender untuk Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).
+Untuk mempelajari selengkapnya, [lihat Brankas Lampiran di Pertahanan Microsoft untuk Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).

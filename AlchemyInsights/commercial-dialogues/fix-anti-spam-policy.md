@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 509b05f511b518e26f61039aa5175a47fea425d0
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988262"
 ---
 # <a name="fix-anti-spam-policy"></a>Memperbaiki kebijakan anti spam
 
-Kebijakan anti spam kustom di penyewa Anda mempengaruhi pesan ini. Untuk meninjau kebijakan, lakukan hal berikut:
+Kebijakan anti spam kustom di penyewa Anda memengaruhi pesan ini. Untuk meninjau kebijakan, lakukan hal berikut:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), lalu masuk ke kebijakan **manajemen ancaman**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pada tab **kustom** , pilih **kebijakan filter spam default** atau kebijakan kustom lainnya yang mungkin telah Anda buat, lalu pilih **Edit kebijakan**.
-3. Perluas opsi **properti spam** dan Tinjau pengaturan **Tandai sebagai spam** .
+1. Masuk ke [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Pada tab **Kustom,** pilih Kebijakan **filter spam default atau** kebijakan kustom lain yang mungkin telah Anda buat, lalu pilih Edit **kebijakan**.
+3. Memperluas opsi **Properti** spam dan meninjau **pengaturan Tandai sebagai** spam.
 
-Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [mengonfigurasi pengaturan kebijakan filter spam kustom](https://go.microsoft.com/fwlink/?linkid=2101054).
+Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [Mengonfigurasi pengaturan kebijakan filter spam kustom](https://go.microsoft.com/fwlink/?linkid=2101054).

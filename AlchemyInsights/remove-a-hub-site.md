@@ -11,20 +11,20 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e16d56681825ab469f4dc9c142fc0fc22bdce62ba6a4bedce0ad8f488acf71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023957"
 ---
 # <a name="remove-a-hub-site"></a>Menghapus situs hub
 
-Untuk menghapus registrasi situs hub di pusat admin SharePoint yang baru:
+Untuk membatalkan pendaftaran situs hub di pusat admin SharePoint baru:
   
-1. Di pusat admin SharePoint yang baru, di bawah **situs**, klik **situs aktif**.
+1. Di pusat admin SharePoint baru, di bawah **Situs,** klik **Situs aktif.**
 
-2. Pilih situs, klik **situs hub**, lalu klik **Batalkan registrasi sebagai situs hub**.
+2. Pilih situs, klik **Situs hub,** lalu klik **Pisahkan pendaftaran sebagai situs hub.**
 
 3. Klik **OK**.
 

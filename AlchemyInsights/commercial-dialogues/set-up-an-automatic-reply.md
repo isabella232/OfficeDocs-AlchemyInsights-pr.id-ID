@@ -1,5 +1,5 @@
 ---
-title: Menyetel balasan otomatis
+title: Menyiapkan balasan otomatis
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994940"
 ---
-# <a name="set-up-an-automatic-reply"></a>Menyetel balasan otomatis
+# <a name="set-up-an-automatic-reply"></a>Menyiapkan balasan otomatis
 
-Gunakan balasan otomatis kapan pun Anda ingin memperbolehkan orang yang mengirimi Anda email tahu bahwa Anda tidak akan segera membalas pesan mereka. Setelah balasan otomatis diaktifkan, pesan akan dikirim sekali ke setiap pengirim.
+Gunakan balasan otomatis setiap kali Anda ingin memberi tahu pengirim email bahwa Anda tidak akan segera merespons pesannya. Setelah balasan otomatis diaktifkan, balasan akan dikirimkan sekaligus ke masing-masing pengirim.
 
 1. Masuk ke Outlook.com.
-2. Pada bilah navigasi, pilih **pengaturan**  >  **setel balasan otomatis**. Jika **setel balasan otomatis** tidak ditampilkan, pilih   >  **opsi** pengaturan  >  **balasan otomatis**.
-3. Mengubah pengaturan untuk balasan otomatis Anda di sini, termasuk hanya memiliki balasan otomatis untuk periode waktu tertentu, mengirim satu balasan sekali ke semua anggota di organisasi Anda, atau hanya mengirim Balasan kepada anggota di luar organisasi Anda.
+2. Pada bilah navigasi, pilih **Pengaturan**  >  **Atur balasan otomatis**. Jika **Atur balasan otomatis** tidak diperlihatkan, pilih **Pengaturan**  >  **Opsi**  >  **Balasan otomatis**.
+3. Ubah pengaturan untuk balasan otomatis di sini, termasuk hanya meminta balasan otomatis untuk periode waktu tertentu, mengirim balasan sekali kepada semua anggota di organisasi Anda, atau mengirim balasan hanya kepada anggota di luar organisasi Anda.
