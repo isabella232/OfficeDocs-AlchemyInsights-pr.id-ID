@@ -1,5 +1,5 @@
 ---
-title: Perbandingan paket Azure AD
+title: Perbandingan Paket Azure AD
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045639"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Perbandingan paket direktori aktif Azure
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory rencana bisnis
 
-Azure Active Directory tersedia dalam empat edisi: gratis, aplikasi Office 365, P1 Premium, dan P2 Premium.
+Azure Active Directory hadir dalam empat edisi: Gratis, Office 365 Aplikasi, Premium P1, dan Premium P2.
 
-Edisi gratis disertakan dengan langganan Azure. Edisi premium tersedia melalui perwakilan Microsoft Anda, [program lisensi volume terbuka](https://go.microsoft.com/fwlink/?linkid=2110873), dan [program penyedia solusi awan](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Edisi Gratis disertakan dengan langganan Azure. Edisi Premium tersedia melalui perwakilan Microsoft Anda, [program Program Lisensi Volume](https://go.microsoft.com/fwlink/?linkid=2110873)Terbuka, dan program [Penyedia Solusi Awan](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
 
-Pelanggan Azure dan Office 365 juga dapat membeli Azure Active Directory Premium P1 dan P2 online. Untuk mempelajari selengkapnya, lihat [fitur dan harga Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081447).
+Pelanggan Azure dan Office 365 Anda juga dapat membeli langganan Azure Active Directory Premium P1 dan P2 secara online. Untuk mempelajari selengkapnya, lihat [Azure Active Directory dan harga terbaru](https://go.microsoft.com/fwlink/?linkid=2081447).

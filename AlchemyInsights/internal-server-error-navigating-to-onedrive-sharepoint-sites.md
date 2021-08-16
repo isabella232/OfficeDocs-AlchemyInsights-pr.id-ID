@@ -1,5 +1,5 @@
 ---
-title: Masalah kinerja-SharePoint atau OneDrive
+title: Masalah kinerja yang SharePoint atau OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028439"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Kesalahan server internal ketika menavigasi ke situs SharePoint atau OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Kesalahan server internal ketika menavigasi ke Sharepoint atau OneDrive saya
 
-Pengguna mungkin menerima kesalahan server internal 500 saat mencoba menavigasi ke situs SharePoint atau OneDrive. 
+Pengguna mungkin menerima kesalahan server internal 500 saat mencoba menavigasi ke SharePoint atau OneDrive anda. 
 
-Coba Kosongkan tembolok browser sebelum menavigasi ke situs.
+Silakan coba hapus cache browser sebelum menavigasi ke situs.
 
 
-1. Di browser Microsoft Edge, masuk ke selengkapnya... pengaturan >
+1. Di browser Microsoft Edge, masuk ke Lainnya...> Pengaturan
 
-2. Di bawah Hapus data penelusuran, pilih **pilih apa yang harus dihapus**
+2. Di bawah Hapus data penjelajahan, pilih **Pilih yang akan dihapus**
 
-3. Pilih kotak centang Cookie dan data situs web yang disimpan, lalu pilih **Hapus**.
+3. Pilih kotak centang Cookie dan data situs web yang disimpan dan pilih **Hapus**.
 
-Catatan: langkah-langkah ini mungkin berbeda ketika menggunakan browser lain seperti Firefox atau Chrome.
+Catatan: Langkah-langkah ini mungkin berbeda ketika menggunakan browser lain seperti Firefox atau Chrome.
 
-Jika ini tidak mengatasi masalah, Anda bisa memeriksa apakah ada pemeliharaan aktif yang terjadi pada penyewa Anda dengan menavigasi ke [pusat pesan](https://portal.office.com/adminportal/home#/MessageCenter).
+Jika ini tidak mengatasi masalah, Anda dapat memeriksa apakah terdapat pemeliharaan aktif yang terjadi pada penyewa Anda dengan menavigasi ke [Pusat pesan](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Terakhir, pastikan Anda mengunjungi halaman [Kesehatan Layanan](https://portal.office.com/adminportal/home#/servicehealth) untuk memeriksa setiap saran/kejadian yang mungkin terjadi.
+Terakhir, pastikan Anda [mengunjungi halaman Kesehatan](https://portal.office.com/adminportal/home#/servicehealth) Layanan untuk memeriksa laporan/insiden yang mungkin terjadi.
 
