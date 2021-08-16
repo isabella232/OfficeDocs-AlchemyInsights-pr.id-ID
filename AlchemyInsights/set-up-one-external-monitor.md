@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051777"
 ---
 # <a name="set-up-one-monitor"></a>Menyiapkan satu monitor
 
 **Memeriksa pengaturan proyek PC Anda**
 
-1. Buka pengaturan proyek Anda dengan menekan tombol berikut ini pada saat yang sama: Tombol Windows (tombol Mulai logo Windows) + P.
+1. Buka pengaturan proyek Anda dengan menekan tombol berikut ini pada saat yang sama: Windows (Windows logo tombol Mulai) + P.
 2. Pilih **Duplikat**, **Perpanjang**, atau **Layar kedua** saja , tergantung pada preferensi Anda.
 
 **Catatan:** Jika PC Anda hanya memiliki satu port tampilan (seperti HDMI atau VGA), Anda akan memerlukan stasiun docking atau adaptor USB untuk menyiapkan beberapa monitor.

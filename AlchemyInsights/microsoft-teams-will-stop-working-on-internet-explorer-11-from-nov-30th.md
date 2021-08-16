@@ -1,5 +1,5 @@
 ---
-title: Microsoft teams akan berhenti bekerja di Internet Explorer 11 dari 30 November
+title: Microsoft Teams akan berhenti berfungsi di Internet Explorer 11 dari 30 Nov
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026945"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft teams akan berhenti bekerja di Internet Explorer 11 dari 30 November
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams akan berhenti berfungsi di Internet Explorer 11 dari 30 Nov
 
-Seperti yang disampaikan di MC225570, mulai 30 November 2020, Microsoft teams Web App tidak lagi mendukung Internet Explorer (IE) 11. 
+Sebagaimana dikomunikasikan di MC225570, mulai 30 November 2020, aplikasi web Microsoft Teams tidak akan lagi mendukung Internet Explorer (IE) 11. 
 
-Kami menyarankan agar Anda memperbarui ke [Microsoft Edge](https://www.microsoft.com/edge) yang baru untuk pengalaman online yang lebih aman dan lebih inovatif. 
+Kami menyarankan Anda memperbarui ke solusi [yang](https://www.microsoft.com/edge) Microsoft Edge pengalaman online yang lebih aman dan inovatif. 
 
-Untuk informasi selengkapnya, lihat [aplikasi microsoft 365 mengucapkan selamat tinggal pada Internet Explorer 11 dan Windows 10 Sunsets warisan Microsoft Edge-komunitas teknologi Microsoft](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Untuk informasi selengkapnya, lihat Microsoft 365 baru seperti [foto Di Internet Explorer 11](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) dan Windows 10 matahari Warisan Microsoft Edge - Komunitas Teknologi Microsoft
 

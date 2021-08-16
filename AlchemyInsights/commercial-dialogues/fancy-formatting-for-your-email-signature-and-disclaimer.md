@@ -1,5 +1,5 @@
 ---
-title: Pemformatan mewah untuk tanda tangan email dan sanggahan Anda
+title: Pemformatan indah untuk tanda tangan email dan sanggahan
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058689"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Pemformatan mewah untuk tanda tangan email dan sanggahan Anda
-Untuk informasi tentang pemformatan mewah (seperti cara menambahkan ikon media sosial, Gambar, dan tautan ke sanggahan organisasi Anda), informasi kompatibilitas dengan perangkat seluler, dan lainnya.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Pemformatan indah untuk tanda tangan email dan sanggahan
+Untuk informasi tentang pemformatan indah (seperti cara menambahkan ikon media sosial, gambar, dan link ke sanggahan organisasi Anda), informasi tentang kompatibilitas dengan perangkat seluler, dan lainnya.
 
-Silakan Cari **sumber daya tanda tangan email** internet. Beberapa perusahaan yang menyediakan informasi dan alat adalah mitra Microsoft Gold.
+Silakan cari sumber daya tanda **tangan email di Internet.** Beberapa perusahaan yang menyediakan informasi dan alat adalah Mitra Microsoft Gold.
