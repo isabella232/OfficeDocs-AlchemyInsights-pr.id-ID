@@ -1,5 +1,5 @@
 ---
-title: Pengalihan panggilan, grup panggilan, dan berdering bersamaan dalam teams
+title: Penerusan panggilan, panggilan grup, dan berdering bersamaan di Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447381"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996417"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Pengalihan panggilan, grup panggilan, dan berdering bersamaan dalam teams
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Penerusan panggilan, panggilan grup, dan berdering bersamaan di Teams
 
-Menyetel penerusan panggilan
+Menyiapkan penerusan panggilan
 
-1. Di klien teams, klik foto profil Anda di bagian atas teams, lalu pilih **pengaturan > panggilan**.
-2. Di bawah **aturan jawaban panggilan**, pilih Alihkan **panggilan saya**, lalu pilih tempat yang Anda inginkan untuk panggilan yang diteruskan: pesan suara, orang lain, atau grup panggilan.
+1. Di klien Teams klik foto profil Anda di bagian atas Teams, lalu pilih **Panggilan Pengaturan > .**
+2. Di **bawah Aturan menjawab** panggilan , pilih Teruskan panggilan saya , lalu pilih tempat Anda ingin meneruskan panggilan Anda: pesan suara, orang lain, atau grup panggilan. 
 
-Menyetel penerusan panggilan ke grup panggilan
+Menyiapkan penerusan panggilan ke grup panggilan
 
-1. Di bawah **aturan jawaban panggilan**, pilih Alihkan **panggilan saya**.
-2. Di menu **teruskan ke** , pilih **grup panggilan**.
-3. Di bawah **Tambahkan orang**, tambahkan orang yang Anda inginkan dalam grup panggilan Anda. Anda bisa menambahkan hingga 25 orang. Siapa pun yang Anda tambahkan akan menerima pemberitahuan.
+1. Di **bawah Aturan menjawab panggilan**, pilih **Teruskan panggilan saya.**
+2. Di menu **Teruskan** ke, pilih **Grup panggilan**.
+3. Di **bawah Tambahkan orang,** tambahkan orang yang Anda inginkan di grup panggilan Anda. Anda dapat menambahkan hingga 25 orang. Semua orang yang Anda tambahkan akan mendapatkan pemberitahuan.

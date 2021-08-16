@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027386"
 ---
 # <a name="deploy-microsoft-365"></a>Menyebarkan Microsoft 365
 
-[Penasihat penyebaran Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646) menyediakan pelanggan komersial dengan panduan ketika menyiapkan alat produktivitas, kebijakan keamanan, dan kapabilitas manajemen perangkat. Dengan langganan Microsoft 365 Business Premium atau Microsoft 365 untuk Enterprise, Anda bisa menggunakan penasihat ini untuk menyetel dan mengonfigurasi perangkat organisasi Anda.
+Penasihat [Microsoft 365 penyebaran menyediakan](https://go.microsoft.com/fwlink/?linkid=2072646) panduan bagi pelanggan komersial saat menyiapkan alat produktivitas, kebijakan keamanan, dan kapabilitas manajemen perangkat. Dengan langganan Microsoft 365 Business Premium atau Microsoft 365 untuk perusahaan, Anda dapat menggunakan penasihat ini untuk menyiapkan dan mengonfigurasi perangkat organisasi.
 
-Anda akan menerima panduan dan akses ke sumber daya untuk mengaktifkan layanan Cloud Anda, memperbarui perangkat ke versi Windows 10 terbaru yang didukung, dan menggabungkan perangkat ke Azure Active Directory (Azure AD), semuanya di satu lokasi terpusat.
+Anda akan menerima panduan dan akses ke sumber daya untuk mengaktifkan layanan awan, memperbarui perangkat ke versi terbaru Windows 10 yang didukung, dan menggabungkan perangkat ke Azure Active Directory (Azure AD), semuanya di satu lokasi pusat.

@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996489"
 ---
 # <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Tidak dapat menambahkan atau membuat tanda tangan baru di Outlook
 
-Ini adalah masalah umum. Kami sedang berusaha memperbaikinya dan status akan diperbarui di [Outlook membeku mengklik tombol tanda tangan](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Ini merupakan masalah yang sering terjadi. Kami berusaha memperbaikinya dan status akan diperbarui di komputer Outlook [mengklik tombol Tanda Tangan.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
 
-Untuk mengatasi masalah ini, [coba langkah-langkah](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) untuk menghapus instalan aplikasi desktop Microsoft Office yang telah terinstal sebelumnya. 
+Untuk mengatasi masalah ini, [pertama-Microsoft Office langkah-langkah](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) untuk menghapus instalan aplikasi desktop. 
 
-Jika itu tidak berfungsi untuk mesin yang terpengaruh, coba [solusi berbasis registri](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Jika tidak berhasil, silakan coba solusi [berbasis registri.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)

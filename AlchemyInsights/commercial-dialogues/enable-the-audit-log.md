@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988406"
 ---
 # <a name="enable-the-audit-log"></a>Mengaktifkan log audit
 
-Kepatuhan komunikasi memerlukan log audit untuk memperlihatkan pemberitahuan dan melacak tindakan remediasi yang dilakukan oleh peninjau. Log audit adalah ringkasan semua aktivitas yang terkait dengan kebijakan organisasi yang ditentukan, termasuk Kapan saja perubahan kebijakan kepatuhan komunikasi. Untuk mengaktifkan pembuatan log audit:
+Kepatuhan komunikasi memerlukan log audit untuk memperlihatkan peringatan dan melacak tindakan perbaikan yang diambil oleh peninjau. Log audit adalah ringkasan semua aktivitas yang terkait dengan kebijakan organisasi yang ditentukan, termasuk kapan pun kebijakan kepatuhan komunikasi berubah. Untuk mengaktifkan pembuatan log audit:
 
-1. Di [pusat kepatuhan & keamanan](https://go.microsoft.com/fwlink/?linkid=2101341), masuk ke pencarian   >  **log audit** pencarian.
+1. Di Pusat [& Kepatuhan Keamanan,](https://go.microsoft.com/fwlink/?linkid=2101341)masuk ke **Pencarian pencarian** log  >  **audit**.
 2. Pilih **Aktifkan pengauditan**.
 
-    Setelah Anda mengaktifkan pengauditan, sebuah pesan ditampilkan yang mengatakan bahwa log audit sedang dipersiapkan dan Anda bisa menjalankan pencarian dalam beberapa jam setelah persiapan selesai. Anda hanya perlu melakukan tindakan ini sekali.
+    Setelah Anda mengaktifkan pengauditan, sebuah pesan menampilkan pesan yang mengatakan bahwa log audit sedang disiapkan dan Anda dapat menjalankan pencarian dalam beberapa jam setelah persiapan selesai. Anda hanya perlu melakukan tindakan ini sekali saja.
 
-Untuk mempelajari selengkapnya, lihat [mengaktifkan atau menonaktifkan pencarian log audit](https://go.microsoft.com/fwlink/?linkid=2129077) dan [mencari log audit](https://go.microsoft.com/fwlink/?linkid=2123729).
+Untuk mempelajari selengkapnya, [lihat Mengaktifkan atau menonaktifkan pencarian log](https://go.microsoft.com/fwlink/?linkid=2129077) audit dan Mencari log [audit](https://go.microsoft.com/fwlink/?linkid=2123729).

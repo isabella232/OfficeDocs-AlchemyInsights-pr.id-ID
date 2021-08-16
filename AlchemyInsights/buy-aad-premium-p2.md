@@ -1,5 +1,5 @@
 ---
-title: Beli P2 Premium direktori aktif Azure P2
+title: Beli Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996669"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Beli P2 Premium direktori aktif Azure P2
+# <a name="buy-azure-active-directory-premium-p2"></a>Beli Azure Active Directory Premium P2
 
-Untuk mencoba atau membeli Azure Active Directory Premium P2, ikuti langkah-langkah berikut:
+Untuk mencoba atau membeli produk Azure Active Directory Premium P2, ikuti langkah-langkah ini:
 
-1. Masuk ke   >    >  [**keamanan dan identitas**](https://go.microsoft.com/fwlink/?linkid=2131946)Layanan pembelian tagihan, lalu klik **Azure Active Directory Premium P2**.
-Jika Anda telah memilih uji coba gratis, selesaikan proses dengan mengikuti instruksi di Halaman; Jika tidak, lanjutkan ke langkah 2.
-1. Pada halaman berikutnya, masukkan jumlah lisensi pengguna dan periode pembayaran, lalu klik **cek keluar sekarang**.
-1. Pada halaman **checkout** , Tinjau informasi harga, lalu klik **berikutnya**.
-1. Pada halaman berikutnya, masukkan informasi alamat dan pembayaran Anda, lalu Tempatkan pesanan Anda.
-1. Masukkan nomor telepon Anda, lalu klik **teks saya** atau **hubungi saya**.
-1. Masukkan kode verifikasi yang kami kirimkan kepada Anda, lalu selesaikan proses dengan mengikuti instruksi di halaman.
+1. Masuk ke **layanan**  >  **Pembelian Tagihan** Keamanan dan  >  [**identitas**](https://go.microsoft.com/fwlink/?linkid=2131946), lalu klik **Azure Active Directory Premium P2**.
+Jika Anda telah memilih uji coba gratis, selesaikan prosesnya dengan mengikuti instruksi di halaman; jika tidak, lanjutkan ke langkah 2.
+1. Pada halaman berikutnya, masukkan jumlah lisensi pengguna dan periode pembayaran, lalu klik **Check out sekarang.**
+1. Di halaman **Checkout,** tinjau info harga, lalu klik **Berikutnya**.
+1. Pada halaman berikutnya, masukkan informasi pembayaran dan alamat Anda, lalu pesan.
+1. Masukkan nomor telepon Anda, lalu klik Kirimkan **pesan teks atau** Hubungi **saya**.
+1. Masukkan kode verifikasi yang sudah kami kirimkan, lalu selesaikan prosesnya dengan mengikuti instruksi di halaman.
