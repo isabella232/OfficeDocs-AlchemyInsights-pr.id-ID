@@ -1,5 +1,5 @@
 ---
-title: Tentang log audit periode Penyimpanan
+title: Tentang periode penyimpanan log audit
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5a8601bc7757e77882d8dab709e007a2f6df3b0c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: d98e11748027a0262b8353063fca68894abc3783238e368f59f7457ea2ba0a8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006318"
 ---
-# <a name="about-audit-logs-retention-periods"></a>Tentang log audit periode Penyimpanan
+# <a name="about-audit-logs-retention-periods"></a>Tentang periode penyimpanan log audit
 
-Periode penyimpanan untuk log audit bergantung pada langganan Office 365 organisasi Anda.
+Periode penyimpanan untuk log audit bergantung pada langganan audit Office 365 Anda.
 
 - **Office 365 E3**: 90 hari.
-- **Office 365 E5**: 365 hari. Penyimpanan satu tahun saat ini berada dalam pratinjau.
-- **E3 dan add-on kepatuhan tingkat lanjut Office 365**: 365 hari. Penyimpanan satu tahun saat ini berada dalam pratinjau.
-- Untuk mendaftar dalam program pratinjau, ajukan permintaan dengan dukungan Microsoft dan sertakan yang berikut ini sebagai Deskripsi tentang apa yang Anda perlukan Bantuan: **pratinjau pribadi log Office 365 audit jangka panjang**.
+- **Office 365 E5**: 365 hari. Penyimpanan satu tahun saat ini sedang dalam pratinjau.
+- **E3 dan Office 365 Advanced Compliance tambahan :** 365 hari. Penyimpanan satu tahun saat ini sedang dalam pratinjau.
+- Untuk mendaftar dalam program pratinjau, mengajukan permintaan dengan Dukungan Microsoft dan sertakan yang berikut ini sebagai deskripsi tentang apa yang Anda perlukan bantuan dengannya: Pratinjau privat **log audit Office 365 jangka panjang.**
 > [!NOTE]
-> Periode penyimpanan didasarkan pada lisensi per pengguna. Misalnya, jika pengguna di organisasi Anda memiliki lisensi E3, maka catatan audit untuk aktivitas yang dilakukan oleh pengguna tersebut dipertahankan untuk 90 hari. Jika pengguna lain memiliki lisensi E5, catatan auditnya dipertahankan selama satu tahun.
+> Periode penyimpanan didasarkan pada pelisensian per pengguna. Misalnya, jika seorang pengguna di organisasi memiliki lisensi E3, catatan audit untuk aktivitas yang dilakukan oleh pengguna tersebut akan dipertahankan selama 90 hari. Jika pengguna lain memiliki lisensi E5, catatan audit mereka akan dipertahankan selama satu tahun.
 
-Untuk mempelajari selengkapnya, lihat [FAQ](https://go.microsoft.com/fwlink/?linkid=2115336)ini.
+Untuk mempelajari selengkapnya, lihat FAQ [ini.](https://go.microsoft.com/fwlink/?linkid=2115336)

@@ -1,5 +1,5 @@
 ---
-title: Menambahkan subdomain
+title: Tambahkan subdomain
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 08a5d4a51ee8de1a29607bb04ebc05d85faaddaa
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5cef08bd626ae7362fd3bf33f2f58a7b83b2b7cca7a64ee5abc9efaa546acd72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006347"
 ---
-# <a name="add-a-subdomain"></a>Menambahkan subdomain
+# <a name="add-a-subdomain"></a>Tambahkan subdomain
 
 Langkah-langkah untuk menambahkan subdomain sama dengan menambahkan domain biasa. 
 
 > [!IMPORTANT]
-> Untuk menambahkan subdomain, Anda harus mengelola pengaturan DNS Anda sendiri di situs web pendaftar. Jika Anda mengizinkan Microsoft mengelola pengaturan DNS Anda dengan NS Records, Anda tidak bisa menambahkan subdomain. 
+> Untuk menambahkan subdomain, Anda harus mengelola pengaturan DNS sendiri di situs web pendaftar Anda. Jika Anda memperbolehkan Microsoft mengelola pengaturan DNS Anda dengan catatan NS, Anda tidak bisa menambahkan subdomain. 
 
-Untuk menambahkan subdomain, lakukan langkah-langkah berikut:
+Untuk menambahkan subdomain, lakukan langkah-langkah berikut ini:
 
-1. Di pusat admin, navigasikan ke **penyetelan > domain**.
-2. Klik **Tambahkan domain**.
-3. Ketikkan nama subdomain. Misalnya, jika Anda memiliki domain **contoso.com**, subdomain anda mungkin **_London.contoso.com_**.
+1. Di pusat admin, navigasikan ke **Pengaturan > Domain.**
+2. Klik **Tambahkan domain.**
+3. Ketikkan nama subdomain. Misalnya, jika Anda pemilik **domain** contoso.com , subdomain Anda mungkin **_london.contoso.com_**.
 4. Klik **Berikutnya**.
-5. Jika Anda ingin menyiapkan layanan online untuk subdomain, Lanjutkan melalui panduan atau
-6. RIf Anda ingin melewatkan pengaturan layanan online untuk subdomain, klik **Simpan** dan closejendela.
+5. Jika Anda ingin menyiapkan layanan online untuk subdomain tersebut, lanjutkan melalui panduan ATAU
+6. RJika Anda tidak ingin menyetel layanan online untuk subdomain, klik **Simpan** dan tutup jendela.
 

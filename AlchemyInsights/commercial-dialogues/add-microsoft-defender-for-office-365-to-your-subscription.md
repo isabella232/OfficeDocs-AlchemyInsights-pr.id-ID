@@ -1,5 +1,5 @@
 ---
-title: Tambahkan Microsoft Defender untuk Office 365 ke langganan Anda
+title: Menambahkan Pertahanan Microsoft Office 365 ke langganan Anda
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006245"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Tambahkan Microsoft Defender untuk Office 365 ke langganan Anda
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>Menambahkan Pertahanan Microsoft Office 365 ke langganan Anda
 
 Untuk melakukan ini:
 
-1. Di pusat admin, masuk ke   >  [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)tagihan.
-2. Pada halaman **Layanan pembelian** , tekan **Ctrl + F** untuk membuka kotak pencarian, lalu Cari **Microsoft Defender untuk Office 365**. Jika Anda tidak menemukan add-on, itu karena paket Anda tidak mendukung menambahkannya.
+1. Di pusat admin, masuk ke **layanan**  >  [Pembelian Tagihan](https://go.microsoft.com/fwlink/p/?linkid=868433).
+2. Di halaman **Beli layanan,** tekan **CTRL+F** untuk membuka kotak pencarian, lalu cari Pertahanan **Microsoft untuk Office 365**. Jika tidak menemukan add-on, hal tersebut dikarenakan paket Anda tidak mendukung penambahannya.
 3. Pilih **Beli sekarang**, lalu ikuti perintah di halaman.
