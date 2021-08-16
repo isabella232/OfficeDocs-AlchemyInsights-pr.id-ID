@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070003"
 ---
 # <a name="whats-a-domain"></a>Apa itu domain
 
-Domain adalah bagian dari alamat email Anda yang setelah simbol @. Misalnya, di alamat rob@contoso.com, domain adalah **contoso.com**. Sebagian besar bisnis lebih suka menggunakan nama domain mereka sendiri di alamat email mereka.
+Domain adalah bagian dari alamat email Anda yang setelah simbol @. Misalnya, dalam alamat rob@contoso.com, domainnya adalah **contoso.com**. Sebagian besar bisnis memilih untuk menggunakan nama domain mereka sendiri di alamat email mereka.
 
-Berikut ini adalah beberapa tips terkait domain:
+Berikut ini beberapa tips terkait domain:
 
 - Anda dapat membeli nama domain dari Microsoft. Dengan cara ini, Anda akan memiliki alamat email kustom.
-- Atau, Anda cukup menambahkan domain yang sudah Anda miliki ke Office 365.
+- Atau, cukup tambahkan domain yang sudah dimiliki Office 365.
 
-Untuk informasi selengkapnya, [Tonton video yang hebat ini](https://www.youtube.com/watch).
+Untuk informasi selengkapnya, [tonton video ini.](https://www.youtube.com/watch)

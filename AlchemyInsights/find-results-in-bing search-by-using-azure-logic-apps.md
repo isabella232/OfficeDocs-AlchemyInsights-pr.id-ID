@@ -1,5 +1,5 @@
 ---
-title: Menemukan hasil dalam pencarian Bing menggunakan aplikasi logika Azure
+title: Mencari hasil di Bing Pencarian dengan menggunakan Azure Logic Apps
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9212"
-ms.openlocfilehash: 3859e8de3dc97701eac97a9447efa28d4c36c874
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: bba3b2ebe638cc776d60abde237f53418dd5ff6c03475d0312df8f647bf8c636
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015911"
 ---
-# <a name="find-results-in-bing-search-by-using-azure-logic-apps"></a>Menemukan hasil dalam pencarian Bing menggunakan aplikasi logika Azure
+# <a name="find-results-in-bing-search-by-using-azure-logic-apps"></a>Mencari hasil di Bing Pencarian dengan menggunakan Azure Logic Apps
 
-Dengan menggunakan Bing Search dari dalam aplikasi logika, Anda bisa mengotomatisasi pemrosesan hasil pencarian dan membuat hasil tersebut tersedia untuk tindakan lain. Misalnya, Anda dapat menemukan item berita lalu meminta Twitter memposting sebagai Tweet di umpan Anda.
+Dengan menggunakan Bing Cari dari dalam aplikasi logika, Anda bisa mengotomatisasi pemrosesan hasil pencarian dan membuat hasil tersebut tersedia untuk tindakan lain. Misalnya, Anda dapat menemukan item berita lalu mempostingnya sebagai tweet di umpan Anda.
 
-Untuk mempelajari selengkapnya, lihat [menemukan hasil di pencarian Bing dengan menggunakan aplikasi logika Azure](https://go.microsoft.com/fwlink/?linkid=2151928).
+Untuk mempelajari selengkapnya, lihat [Menemukan hasil Bing Pencarian dengan menggunakan Azure Logic Apps](https://go.microsoft.com/fwlink/?linkid=2151928).

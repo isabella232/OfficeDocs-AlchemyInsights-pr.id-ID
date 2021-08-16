@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9696"
-ms.openlocfilehash: a37efc40cfb9bfc43c615b3317002734ccf29b0c
-ms.sourcegitcommit: a6ab402f59e5ee1492bcf5ab7f18714fc251717d
+ms.openlocfilehash: a3da73e07a5c8c7670cc3adade7490ffeef31c8affddf389a48a8be11e8b58a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "51036732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031121"
 ---
 # <a name="device-sync"></a>Sinkronisasi perangkat
 
-**Jika sinkronisasi perangkat tidak berfungsi, Ingatlah hal berikut ini:**
+**Jika Sinkronisasi perangkat tidak berfungsi, ingatlah poin berikut:**
 
-- Objek perangkat akan terlihat di Azure portal hanya setelah menjalankan registrasi perangkat.
-- Jika Anda ingin perangkat digabungkan dengan domain lokal dan Azure, yaitu gabungan hibrid, ikuti tautan di bawah ini untuk detailnya:
+- Objek perangkat akan terlihat di portal Azure hanya setelah melakukan pendaftaran Perangkat.
+- Jika ingin perangkat tergabung dalam domain Lokal dan Azure, misalnya gabungan hibrid, ikuti tautan di bawah ini untuk detailnya:
   - [https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering)
   - [https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-managed-domains)
