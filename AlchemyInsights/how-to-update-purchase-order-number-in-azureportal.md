@@ -1,5 +1,5 @@
 ---
-title: Cara memperbarui nomor pesanan pembelian di Azure portal
+title: Cara memperbarui nomor Pesanan Pembelian di Portal Azure
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028799"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Cara memperbarui nomor pesanan pembelian di Azure portal
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Cara memperbarui nomor Pesanan Pembelian di Portal Azure
 
-Anda bisa memperbarui nomor pesanan pembelian (PO) di portal Azure. Untuk melakukannya, Anda harus memiliki pemilik atau peran kontributor pada akun tagihan untuk perjanjian pelanggan Microsoft (MCA). 
+Anda dapat memperbarui nomor Pesanan Pembelian (PO) di Portal Azure. Untuk melakukannya, Anda harus memiliki peran pemilik atau kontributor pada akun tagihan untuk Perjanjian Pelanggan Microsoft (MCA). 
 
-Untuk memperbarui nomor PO Anda:
-1. Masuk ke Azure portal dan navigasikan ke **manajemen biaya + tagihan**.
-1. Klik **profil tagihan** dan pilih profil tagihan untuk memperbarui nomor PO.
-1. Klik **properti** , lalu pilih **Perbarui nomor PO**. 
+Untuk memperbarui Nomor PO Anda:
+1. Masuk ke portal Azure dan navigasi ke Manajemen **Biaya + Tagihan**.
+1. Klik **Profil Tagihan** dan pilih profil tagihan untuk memperbarui Nomor PO.
+1. Klik **Properti** dan pilih **Perbarui nomor PO.** 
 
-**Dokumentasi yang direkomendasikan**
+**Dokumentasi yang disarankan**
 
 - [Memahami faktur MCA Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Memperbarui pengaturan akun tagihan](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Perbarui pengaturan akun tagihan](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

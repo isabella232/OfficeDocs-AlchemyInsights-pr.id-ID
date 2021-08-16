@@ -1,5 +1,5 @@
 ---
-title: Ketersediaan koneksi Viva Microsoft
+title: Microsoft Viva Connections Ketersediaan
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000467"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Ketersediaan koneksi Viva Microsoft
+# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections Ketersediaan
 
-Koneksi Viva Microsoft akan tersedia untuk desktop pada paruh pertama 2021 dan untuk ponsel pada musim panas 2021. Fitur tambahan akan diluncurkan selama periode 2022.
+Microsoft Viva Connections akan tersedia untuk desktop pada paruh pertama 2021 dan untuk seluler di musim panas 2021. Fitur tambahan akan diluncurkan selama 2022.
 
-Untuk informasi selengkapnya, lihat bagaimana [koneksi Microsoft Viva membantu setiap orang untuk tetap terhubung dan mendapatkan informasi](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+Untuk informasi selengkapnya, lihat bagaimana [Microsoft Viva Connections semua orang agar tetap terlibat dan mendapatkan informasi terbaru.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)

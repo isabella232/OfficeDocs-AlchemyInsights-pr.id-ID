@@ -1,5 +1,5 @@
 ---
-title: Mulai menggunakan kueri pemburuan tingkat lanjut
+title: Mulai dengan kueri pencarian tingkat lanjut
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746721"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016991"
 ---
-# <a name="get-started-with-advanced-hunting-queries"></a>Mulai menggunakan kueri pemburuan tingkat lanjut
+# <a name="get-started-with-advanced-hunting-queries"></a>Mulai dengan kueri pencarian tingkat lanjut
 
-Peneliti keamanan Microsoft secara berkala berbagi [kueri berburu tingkat lanjut di GitHub](https://go.microsoft.com/fwlink/?linkid=2144624).
+Peneliti keamanan Microsoft secara rutin berbagi [kueri pencarian tingkat lanjut GitHub](https://go.microsoft.com/fwlink/?linkid=2144624).
 
-Peneliti juga menyediakan permintaan berburu tingkat lanjut untuk menemukan aktivitas dan indikator yang terkait dengan [ancaman yang muncul](https://go.microsoft.com/fwlink/?linkid=2145808). Kueri ini disediakan sebagai bagian dari laporan analitik ancaman, di pusat keamanan Microsoft Defender.
+Peneliti juga menyediakan kueri pencarian tingkat lanjut untuk menemukan aktivitas dan indikator yang terkait [dengan ancaman yang muncul.](https://go.microsoft.com/fwlink/?linkid=2145808) Kueri ini disediakan sebagai bagian dari laporan analitik ancaman, dalam Pusat Keamanan Pertahanan Microsoft.

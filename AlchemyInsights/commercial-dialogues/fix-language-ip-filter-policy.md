@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017099"
 ---
 # <a name="fix-languageip-filter-policy"></a>Memperbaiki kebijakan filter bahasa/IP
 
-Kebijakan anti spam kustom di penyewa Anda mempengaruhi pesan ini. Untuk meninjau kebijakan, lakukan hal berikut:
+Kebijakan anti spam kustom di penyewa Anda memengaruhi pesan ini. Untuk meninjau kebijakan, lakukan hal berikut:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), lalu masuk ke kebijakan **manajemen ancaman**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pada tab **kustom** , pilih **kebijakan filter spam default** atau kebijakan kustom lainnya yang mungkin telah Anda buat, lalu pilih **Edit kebijakan**.
-3. Perluas opsi **spam internasional** dan Tinjau pengaturannya.
+1. Masuk ke [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Pada tab **Kustom,** pilih Kebijakan **filter spam default atau** kebijakan kustom lain yang mungkin telah Anda buat, lalu pilih Edit **kebijakan**.
+3. Memperluas opsi **Spam** internasional dan meninjau pengaturan.
 
-Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [mengonfigurasi pengaturan kebijakan filter spam kustom](https://go.microsoft.com/fwlink/?linkid=2101054).
+Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [Mengonfigurasi pengaturan kebijakan filter spam kustom](https://go.microsoft.com/fwlink/?linkid=2101054).
