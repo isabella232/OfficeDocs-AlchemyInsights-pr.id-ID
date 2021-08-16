@@ -1,5 +1,5 @@
 ---
-title: Masalah saat mengintegrasikan Seamless SSO dengan aplikasi lokal saya
+title: Masalah dengan mengintegrasikan SSO Mulus dengan aplikasi lokal saya
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028295"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Masalah saat mengintegrasikan Seamless SSO dengan aplikasi lokal saya
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Masalah dengan mengintegrasikan SSO Mulus dengan aplikasi lokal saya
 
-Untuk memecahkan masalah saat mengintegrasikan SSO tanpa hambatan dengan aplikasi di tempat, lakukan hal berikut:
+Untuk memecahkan masalah dengan mengintegrasikan SSO Mulus dengan aplikasi lokal, lakukan hal berikut:
 
-**Langkah yang direkomendasikan**
+**Langkah-langkah yang direkomendasikan**
 
-1. Untuk mengonfigurasi **aplikasi lokal** untuk **masuk tunggal melalui proksi aplikasi**, lihat [kubah kata sandi untuk masuk tunggal dengan proksi aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Pemecahan masalah proksi aplikasi**: kami menyarankan agar Anda mulai meninjau alur pemecahan masalah [konektor proksi aplikasi debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), untuk menentukan apakah konektor proksi aplikasi dikonfigurasikan dengan benar. Jika Anda masih mengalami masalah saat menyambungkan ke aplikasi, ikuti langkah-langkah pemecahan masalah dalam [masalah aplikasi proksi aplikasi debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Anda bisa [mengidentifikasi masalah CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) dengan menggunakan alat debug browser berikut ini:
+1. Untuk mengonfigurasi aplikasi lokal untuk masuk **tunggal** melalui Proksi Aplikasi, lihat Penyimpanan kata sandi untuk masuk tunggal dengan [Proksi Aplikasi.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)
+1. **Pemecahan masalah Proksi** Aplikasi: kami menyarankan agar Anda mulai meninjau aliran pemecahan masalah, [masalah Debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)Konektor Proksi Aplikasi, untuk menentukan apakah konektor Proksi Aplikasi telah dikonfigurasi dengan benar. Jika Anda masih mengalami masalah dalam menyambungkan ke aplikasi, ikuti langkah pemecahan masalah dalam [Masalah aplikasi Proksi Aplikasi Debug.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) Anda dapat [mengidentifikasi masalah CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) dengan menggunakan alat debug browser berikut ini:
     1. Luncurkan browser dan telusuri ke aplikasi web.
     1. Tekan **F12** untuk memunculkan konsol debug.
-    1. Cobalah untuk mereproduksi transaksi, dan Tinjau pesan konsol. Pelanggaran CORS menghasilkan kesalahan konsol tentang Origin.
-    1. Beberapa masalah CORS tidak bisa diatasi, seperti ketika aplikasi Anda mengalihkan ke login.microsoftonline.com untuk diautentikasi, dan token akses kedaluwarsa. Panggilan CORS lalu gagal. Penanganan masalah untuk skenario ini adalah memperpanjang masa berlaku token Access, untuk mencegahnya kedaluwarsa selama sesi pengguna. Untuk informasi selengkapnya tentang cara melakukannya, lihat [masa Token yang dapat dikonfigurasikan dalam platform Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+    1. Cobalah untuk mereproduksi transaksi, dan tinjau pesan konsol. Pelanggaran CORS menghasilkan kesalahan konsol tentang origin.
+    1. Beberapa masalah CORS tidak dapat diatasi, seperti saat aplikasi Anda mengalihkan login.microsoftonline.com ke autentikasi, dan token akses kedaluwarsa. Panggilan CORS gagal. Solusi untuk skenario ini adalah untuk memperpanjang masa berlaku token akses, untuk mencegahnya kedaluwarsa selama sesi pengguna. Untuk informasi selengkapnya tentang cara melakukan hal ini, lihat [Masa berlaku token yang dapat platform identitas Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
-**Dokumen yang direkomendasikan**
+**Dokumen yang disarankan**
 
-- [Cara mengonfigurasi single sign-on ke aplikasi proksi aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Single sign-on SAML untuk aplikasi lokal dengan proksi aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Memahami dan memecahkan masalah CORS proksi aplikasi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Memecahkan masalah konfigurasi delegasi Kerberos yang dibatasi untuk proksi aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Cara mengonfigurasi masuk tunggal ke aplikasi Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Akses masuk tunggal SAML untuk aplikasi lokal dengan Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Memahami dan menyelesaikan Azure Active Directory CORS Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Memecahkan masalah konfigurasi delegasi kerberos terbatas untuk Proksi Aplikasi](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

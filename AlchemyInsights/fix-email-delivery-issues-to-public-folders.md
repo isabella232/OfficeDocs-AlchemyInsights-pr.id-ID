@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068815"
 ---
 # <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Memperbaiki masalah pengiriman email ke folder publik email aktif
 
-Jika pengirim eksternal tidak dapat mengirim pesan ke folder publik yang mendukung email Anda, dan pengirim menerima kesalahan: **tidak dapat ditemukan (550 5.4.1)**, verifikasi domain email untuk folder publik dikonfigurasikan sebagai domain relay internal dan bukan domain otoritatif:
+Jika pengirim eksternal tidak bisa mengirim pesan ke folder publik email aktif Anda, dan pengirim menerima kesalahan: tidak bisa ditemukan **(550 5.4.1),** verifikasi bahwa domain email untuk folder publik dikonfigurasi sebagai domain relai internal dan bukan domain otoritatif:
 
-1. Buka [Pusat admin Exchange (eac)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Buka pusat [admin Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Masuk ke domain **email** yang \> **diterima**, pilih domain diterima, lalu klik **Edit**.
+2. Masuk ke **Alur email Domain** \> **yang** diterima , pilih domain yang diterima, lalu klik **Edit.**
 
-3. Di halaman properti yang terbuka, jika tipe domain diatur ke **otoritatif**, Ubah nilai ke **relay internal** lalu klik **Simpan**.
+3. Di halaman properti yang terbuka, jika tipe domain diatur ke **Otoritatif,** ubah nilai ke **Relay internal** lalu klik **Simpan.**
 
-Jika pengirim eksternal menerima kesalahan yang **tidak Anda miliki izin (550 5.7.13)**, jalankan perintah berikut di [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) untuk melihat izin untuk pengguna anonim dalam folder publik:
+Jika pengirim eksternal menerima kesalahan Anda tidak memiliki izin **(550 5.7.13),** jalankan perintah berikut di [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) untuk melihat izin bagi pengguna anonim dalam folder publik:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Misalnya, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Untuk memperbolehkan pengguna eksternal mengirim email ke folder publik ini, tambahkan akses CreateItems ke pengguna anonim. Misalnya, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
+Untuk memperbolehkan pengguna eksternal mengirim email ke folder publik ini, tambahkan akses CreateItems langsung ke pengguna Anonim. Misalnya, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .

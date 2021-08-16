@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947446"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874398"
 ---
 # <a name="domain-status---no-services-selected"></a>Status Domain - Tidak ada layanan yang dipilih
 
@@ -28,9 +28,9 @@ Untuk memilih layanan untuk domain Anda:
 
 1. Dari **Pengaturan**  >  [**Domain**](https://admin.microsoft.com/Adminportal/Home), centang kotak di samping domain dengan pesan status Tidak **ada layanan yang dipilih.**
 1. Pilih **Kelola DNS** untuk memulai Panduan Penyetelan Domain.
-    - Jika anda **memilih Tambahkan catatan DNS Anda** sendiri, pastikan untuk memilih layanan saat diminta. Layanan lainnya bisa tersedia di bawah **Opsi Tingkat Lanjut.**
+    - Jika memilih **Tambahkan catatan DNS Anda sendiri,** pastikan untuk memilih layanan ketika diminta. Layanan lainnya bisa tersedia di bawah **Opsi Tingkat Lanjut.**
     - Jika Anda memilih **Biarkan Microsoft menambahkan catatan DNS Anda atau** **Opsi** lainnya Siapkan layanan online saya untuk saya, semua layanan yang tersedia  >   disarankan dan dipilih secara otomatis.
 1. Lanjutkan panduan untuk menyelesaikan penyiapan DNS dan pilihan layanan Anda.
  
-Untuk bantuan tambahan dalam menyiapkan domain Anda, lihat [Menambahkan catatan DNS untuk menyambungkan domain Anda](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Untuk bantuan tambahan dalam menyiapkan domain Anda, lihat [Menambahkan catatan DNS untuk menyambungkan domain Anda](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 

@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978848"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874542"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Mengirim pesan email menggunakan jejak pesan
 
-1. Masuk ke Office 365 [Pusat & Keamanan ,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Jejak **pesan**  >  [aliran email](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. Masuk ke pusat Exchange admin (EAC) di <https://admin.exchange.microsoft.com> \> **Jejak pesan** \> **aliran email**.
+
+   Untuk langsung masuk ke halaman **Jejak pesan,** gunakan <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Pilih **+ Mulai penelusuran**.
 3. Lihat opsi yang disajikan. Pilih penerima dan pengirim, lalu sesuaikan rentang tanggal yang sesuai. Anda dapat membiarkan pengaturan default untuk opsi selebihnya.
 4. Pilih **Pencarian.** Daftar pesan email akan ditampilkan berdasarkan kriteria pencarian Anda. Klik ganda pesan yang ingin Anda kirim, lalu pilih **Kirim pesan**.
-5. Untuk mempelajari selengkapnya, lihat [Jejak pesan di Pusat & Kepatuhan Keamanan](https://go.microsoft.com/fwlink/?linkid=2101557).
+
+Untuk mempelajari selengkapnya, [lihat Jejak pesan di EAC modern.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)
