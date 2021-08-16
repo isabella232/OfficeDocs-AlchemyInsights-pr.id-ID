@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com kalender beta
+title: kalender beta 9000198 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064567"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Pengalaman kalender baru masuk ke Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Pengalaman Kalender baru untuk Outlook.com
 
-Tampilan baru ini menghadirkan desain dan pembelajaran terbaik dari pengalaman email ke kalender.
+Tampilan baru memberikan desain dan pembelajaran terbaik dari pengalaman Email ke Kalender.
 
-Anda akan menikmati desain modern yang mengurangi kekacauan visual dan memberi Anda cara yang lebih cepat untuk menavigasi kalender Anda. Lebih mudah menemukan kalender yang menarik untuk aktivitas favorit Anda — mulai dari acara TV hingga tim dan acara olahraga.
+Anda akan menikmati desain modern yang mengurangi kesemrawutan visual dan memberi Anda cara yang lebih cepat untuk menavigasi kalender. Menemukan kalender yang menarik untuk aktivitas favorit kini menjadi lebih mudah, mulai dari acara TV hingga tim olahraga dan acara.
 
-Kami memperluas kumpulan ikon acara dan memperbarui tampilan dan nuansa yang sudah ada, dan kini kami menambahkan ikon yang relevan secara otomatis ke acara Anda, sehingga Anda bisa dengan mudah melihat apa yang sedang terjadi secara sekilas.
+Kami memperluas kumpulan ikon acara serta memperbarui tampilan dan nuansa ikon yang sudah ada—dan sekarang kami secara otomatis menambahkan ikon yang relevan ke acara Anda, sehingga Anda bisa dengan mudah melihat apa yang terjadi secara sekilas.
 
-Anda dapat memberikan umpan balik tentang fitur baru melalui [saluran UserVoice kalender Outlook.com](https://go.microsoft.com/fwlink/?linkid=2103075).
+Anda dapat memberikan umpan balik tentang fitur baru [melalui saluran UserVoice Kalender Outlook.com.](https://go.microsoft.com/fwlink/?linkid=2103075)

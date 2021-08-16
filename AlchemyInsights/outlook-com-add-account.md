@@ -1,5 +1,5 @@
 ---
-title: 9000236 Outlook.com menambahkan akun
+title: 9000236 Outlook.com tambahkan akun
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: 96b0b38522707d0abd3ee9e9b64652061f0c7791
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b34f74d662fab02f7ac8dad27b2d02c7ebb9db44efb614d6005741d4cebdb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064675"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Menambahkan akun email lain ke Outlook.com
 
-Saat Anda menambahkan akun email lain ke Outlook.com, Anda bisa menggunakan Outlook.com untuk mengirim dan membaca pesan email dari akun tersebut tanpa harus keluar Outlook.com. Setiap akun yang Anda tambahkan ke Outlook.com disebut akun tersambung.
+Saat Anda menambahkan akun email lain ke Outlook.com, Anda bisa menggunakan Outlook.com untuk mengirim dan membaca pesan email dari akun tersebut tanpa meninggalkan Outlook.com. Setiap akun yang Anda tambahkan Outlook.com disebut akun tersambung.
 
-Catatan: sinkronisasi dari akun tersambung ke akun Outlook.com Anda hanya sekali jalan. Email yang dikirim dari akun tersambung Anda menggunakan Outlook.com tidak akan muncul di akun tersambung Anda mengirim item.
+Catatan: Menyinkronkan dari akun yang tersambung ke akun Outlook.com hanya satu arah. Email yang dikirim dari akun tersambung Anda menggunakan Outlook.com tidak akan muncul dalam Item Terkirim akun tersambung Anda.
 
 Untuk menambahkan akun tersambung:
 
-1. Buka [pengaturan email sinkronisasi](https://go.microsoft.com/fwlink/?linkid=875264)Anda.
-2. Di bawah **akun tersambung**, pilih **Gmail** atau **akun email lainnya**.
-3. Pada halaman Sambungkan akun Anda, masukkan nama tampilan (nama penerima akan melihat ketika mereka menerima pesan email dari Anda) dan alamat email lengkap dan kata sandi akun email yang ingin Anda Sambungkan ke akun Outlook.com Anda.
+1. Buka pengaturan [Sinkronisasi Email Anda.](https://go.microsoft.com/fwlink/?linkid=875264)
+2. Di **bawah Akun tersambung**, pilih **Gmail** atau Akun **email lain**.
+3. Di Koneksi akun Anda, masukkan nama tampilan (nama yang akan dilihat penerima saat menerima pesan email dari Anda) dan alamat email lengkap serta kata sandi akun email yang ingin disambungkan ke akun Outlook.com.
 
-Anda dapat mengirim email dari akun yang telah Anda Sambungkan ke akun Outlook.com. Saat menulis email, pilih **dari** dan pilih alamat email mana yang ingin Anda gunakan, atau [Perbarui alamat dari default Anda](https://go.microsoft.com/fwlink/?linkid=875264).
+Anda dapat mengirim email dari akun mana pun yang tersambung ke akun Outlook.com. Ketika menulis email, pilih **Dari, lalu** pilih alamat email yang ingin digunakan, atau [perbarui alamat Dari default.](https://go.microsoft.com/fwlink/?linkid=875264)
 
-Untuk informasi selengkapnya, baca [menambahkan akun email lain ke Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk informasi selengkapnya, baca [Menambahkan akun email lain ke Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Jika Anda ingin membuat alamat email baru yang menggunakan akun Outlook.com yang sama, baca [menambahkan atau menghapus alias email](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Jika Anda ingin membuat alamat email baru yang menggunakan akun Outlook.com yang sama, baca [Menambahkan atau menghapus alias email.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)

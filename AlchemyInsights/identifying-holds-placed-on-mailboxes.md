@@ -1,5 +1,5 @@
 ---
-title: Mengidentifikasi penangguhan ditempatkan pada kotak surat
+title: Mengidentifikasi hold yang diletakkan pada kotak surat
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668097"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987572"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Mengidentifikasi penangguhan ditempatkan pada kotak surat
+# <a name="identify-holds-placed-on-mailboxes"></a>Identifikasi hold yang diletakkan pada kotak surat
 
-Apakah Anda memiliki konten Microsoft 365 yang **dipertahankan** dengan **penangguhan yang tidak** bisa Anda identifikasi? Perlu **mencari tahu** di mana penangguhan berada di **kotak surat** ? Penangguhan (*fitur penyimpanan*) dapat diterapkan oleh salah satu metode berikut:
+Apakah Anda memiliki Microsoft 365 lain yang sedang **dipertahankan oleh** penahanan **yang** tidak dapat Anda identifikasi? Perlu **mengetahui lokasi** penyimpanan di kotak **surat** ? Penyimpanan (*fitur penyimpanan*) dapat diterapkan dengan salah satu metode berikut ini:
   
-- Penahanan litigasi
+- Litigasi Tahan
 
-- penangguhan eDiscovery
+- eDiscovery hold
 
-- Penangguhan di tempat
+- In-Place Rapat
 
-- Kebijakan retensi Microsoft 365 
+- Microsoft 365 penyimpanan 
 
-  - Kebijakan Penyimpanan lokasi tertentu
+  - Kebijakan penyimpanan lokasi tertentu
 
-  - Kebijakan Penyimpanan di seluruh organisasi
+  - Kebijakan penyimpanan tingkat organisasi
 
-- Label Microsoft 365
+- Microsoft 365 label
 
-Untuk mengidentifikasi tipe penangguhan yang diterapkan ke kotak surat pengguna, lihat [cara mengidentifikasi tipe penangguhan yang ditempatkan pada kotak surat Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Untuk mengidentifikasi tipe penyimpanan mana yang diterapkan ke kotak surat pengguna, lihat Cara mengidentifikasi tipe penyimpanan yang ditempatkan di [Exchange Online surat pengguna.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

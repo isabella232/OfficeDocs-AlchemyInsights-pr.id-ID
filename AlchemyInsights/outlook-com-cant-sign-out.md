@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752758"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984644"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>Tidak dapat keluar dari Outlook.com
 
-Untuk keluar dari Outlook.com, pilih nama atau gambar Anda di sudut kanan atas layar, lalu pilih **keluar**.
+Untuk keluar dari Outlook.com, pilih nama atau gambar Anda di sudut kanan atas **layar,** lalu pilih Keluar .
 
-Jika Anda tidak melihat gambar Anda di bagian atas layar, periksa apakah pemblokiran iklan diaktifkan. Terkadang hal ini menyebabkan gambar tidak ditampilkan.
+Jika tidak melihat gambar Anda di bagian atas layar, periksa untuk mengetahui apakah pemblokiran iklan diaktifkan. Terkadang hal ini menyebabkan gambar tidak ditampilkan.
 
-Jika Anda masih tidak dapat keluar dari Outlook.com, klik  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) Tutup semua jendela browser.
+Jika Anda masih tidak bisa keluar dari Outlook.com, klik [https://login.live.com/logout.srf](https://login.live.com/logout.srf) lalu tutup semua jendela browser.

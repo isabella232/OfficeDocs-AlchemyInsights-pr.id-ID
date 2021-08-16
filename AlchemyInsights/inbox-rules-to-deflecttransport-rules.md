@@ -1,5 +1,5 @@
 ---
-title: aturan kotak masuk 929 untuk aturan deflectTransport
+title: 929 Aturan kotak masuk untuk mencemarkan Aturan transformasi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a143d36d1656e205311cde4aaff3c0c21815182ee82c60039b2219addac218cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028655"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>Aturan aliran email (juga dikenal sebagai aturan transpor)
 
-- Gambaran umum aturan alur email: [aturan alur email (aturan transpor) di Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Gambaran umum aturan aliran email: [Aturan aliran email (aturan transpor) Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Aturan alur email penyetelan: [prosedur aturan aliran email di Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Aturan aliran email penyiapan: [Prosedur aturan aliran email di Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Membuat, mengubah, dan menghapus aturan alur email: [mengelola aturan aliran email](https://technet.microsoft.com/library/jj657505.aspx)
+- Membuat, mengubah, dan menghapus aturan aliran email: [Mengelola aturan aliran email](https://technet.microsoft.com/library/jj657505.aspx)
 
-Anda juga bisa mengelola aturan aliran email di Exchange Online PowerShell. Untuk informasi selengkapnya, lihat [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (tampilan), [TransportRule baru](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (buat), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (DELETE), [set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (Modify existing), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (Disable existing), dan [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (Enable existing).
+Anda juga dapat mengelola aturan aliran email Exchange Online PowerShell. Untuk informasi selengkapnya, lihat [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (tampilan), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (buat), [Remove-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (hapus), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (ubah yang sudah ada), [Disable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (nonaktifkan yang sudah ada), dan [Enable-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (aktifkan yang sudah ada).
 
-Cmdlet aturan alur email tambahan: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (daftar tindakan yang tersedia), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (kondisi dan pengecualian daftar yang tersedia), [transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (aturan ekspor), dan [transportrulecollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (impor aturan).
+Cmdlet aturan aliran email tambahan: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (tindakan daftar yang tersedia), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (kondisi dan pengecualian daftar yang tersedia), [Export-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (aturan ekspor), dan [Import-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (aturan impor).
