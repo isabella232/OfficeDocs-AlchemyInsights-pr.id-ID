@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825374"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000359"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Melakukan migrasi dari AIP ke MIP/Unified Labeling di Pusat Kepatuhan
 
@@ -25,11 +25,11 @@ Untuk melakukan migrasi dari label AIP ke Label Terpadu di pusat Keamanan dan Ke
 
 **Mengaktifkan proteksi dari portal Azure**
 
-1. Jika Anda belum melakukannya, buka jendela browser baru dan [masuk ke portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navigasikan ke **blade Perlindungan Informasi Azure.** Misalnya, pada menu hub, klik Semua **layanan dan** mulai mengetik **Informasi** dalam kotak Filter. Pilih **Azure Information Protection**. Jika Anda belum mengakses blade Perlindungan Informasi Azure sebelumnya, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) lihat langkah tambahan satu kali untuk menambahkan blade ini ke portal. Untuk membuka blade Perlindungan Informasi Azure, Anda harus memiliki paket [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) atau paket Office 365 yang menyertakan Manajemen Hak. Jika Anda memiliki salah satu langganan ini namun melihat pesan bahwa langganan yang valid tidak dapat ditemukan, hubungi [Dukungan Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) atau gunakan saluran dukungan standar Anda.
+1. Jika Anda belum melakukannya, buka jendela browser baru dan [masuk ke portal Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). Navigasikan ke **blade Perlindungan Informasi Azure.** Misalnya, pada menu hub, klik Semua **layanan dan** mulai mengetik **Informasi** dalam kotak Filter. Pilih **Azure Information Protection**. Jika Anda belum mengakses blade Perlindungan Informasi Azure sebelumnya, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) lihat langkah tambahan satu kali untuk menambahkan blade ini ke portal. Untuk membuka blade Perlindungan Informasi Azure, Anda harus memiliki paket perlindungan informasi [Azure Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) atau Office 365 yang mencakup Manajemen Hak. Jika Anda memiliki salah satu langganan ini namun melihat pesan bahwa langganan yang valid tidak dapat ditemukan, hubungi [Dukungan Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) atau gunakan saluran dukungan standar Anda.
 
 2. Temukan **opsi** menu Kelola, dan pilih Aktivasi **proteksi**. Klik **Aktifkan**, lalu konfirmasi tindakan Anda. Ketika aktivasi selesai, bilah informasi **menampilkan Aktivasi selesai dengan sukses**.
 
-**Melakukan migrasi label Perlindungan Informasi Azure ke Pusat Keamanan Office 365 & Kepatuhan**
+**Melakukan migrasi label Perlindungan Informasi Azure Office 365 Pusat & Kepatuhan**
 
 1. Pastikan Anda masuk sebagai pengguna dengan izin Administrator Global.
 
