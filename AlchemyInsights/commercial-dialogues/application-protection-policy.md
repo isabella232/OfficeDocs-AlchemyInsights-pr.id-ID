@@ -1,5 +1,5 @@
 ---
-title: Persyaratan kebijakan perlindungan aplikasi
+title: Persyaratan kebijakan proteksi aplikasi
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995373"
 ---
-# <a name="application-protection-policy-requirements"></a>Persyaratan kebijakan perlindungan aplikasi
+# <a name="application-protection-policy-requirements"></a>Persyaratan kebijakan proteksi aplikasi
 
-Persyaratan kebijakan perlindungan aplikasi:
+Persyaratan kebijakan proteksi aplikasi:
 
 - Pengguna memiliki lisensi Intune atau EMS.
 - Pengguna termasuk dalam grup yang ditargetkan oleh kebijakan proteksi aplikasi.
-- Hanya satu pengguna korporat yang masuk ke aplikasi yang dilindungi di perangkat.
-- [Aplikasi telah menerapkan Intune SDK. Untuk daftar aplikasi yang mendukung SDK, lihat aplikasi Microsoft Intune Protected.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Hanya satu pengguna perusahaan yang masuk ke aplikasi yang dilindungi pada satu perangkat.
+- [Aplikasi telah menerapkan Intune SDK. Untuk daftar aplikasi yang mendukung SDK, lihat Microsoft Intune yang diproteksi.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Baca selengkapnya...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
