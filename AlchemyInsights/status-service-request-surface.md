@@ -1,5 +1,5 @@
 ---
-title: Memeriksa status permintaan pesanan layanan untuk permukaan atau Xbox
+title: Periksa status permintaan pesanan layanan untuk Surface atau Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9752"
 - "9005678"
-ms.openlocfilehash: 27ba522e299f552df582cd41e964a3e97f455cc8
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 0f9f5e9af09f5c4de431ecd990e6d193df6224149d72c48946425824ad60dd23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036347"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021527"
 ---
-# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Memeriksa status permintaan pesanan layanan untuk permukaan atau Xbox
+# <a name="check-the-status-of-a-service-order-request-for-surface-or-xbox"></a>Periksa status permintaan pesanan layanan untuk Surface atau Xbox
 
-Jika Anda ingin menampilkan detail pesanan layanan Anda (misalnya, permintaan perbaikan), ikuti langkah-langkah berikut:
+Jika Anda ingin menampilkan detail pesanan layanan (misalnya, permintaan perbaikan), ikuti langkah-langkah ini:
 
-1. Masuk ke layanan perangkat.
+1. Masuk ke Layanan Perangkat.
 
-1. Pilih **Perlihatkan detail** untuk melihat riwayat lengkap dan pembaruan terbaru.
+1. Pilih **Tampilkan detail** untuk melihat riwayat lengkap dan pembaruan terakhir.
 

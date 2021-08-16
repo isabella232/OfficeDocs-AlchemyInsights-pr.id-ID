@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: c97254cbbe4fd3b83f15149be99b6768fac38848
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa364306ca2eda7097bf1098ebcd690bd0808a78c39f6657b4049b8e85897dac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738352"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021779"
 ---
 # <a name="solutions-for-issues-while-installing-office"></a>Solusi untuk masalah saat menginstal Office
 
 Cobalah salah satu solusi ini untuk memperbaiki kesalahan Office:
   
-- Hidupkan ulang komputer Anda dan coba [Instal Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Hidupkan ulang komputer Anda [dan cobalah Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Unduh dan instal [Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Saat dibuka, dari **menghapus instalasi produk Office** pilih Versi yang ingin Anda hapus dan pilih **berikutnya**.
+1. Ketika terbuka, dari Hapus **instalan Office produk,** pilih versi yang ingin Dihapus instalannya, lalu pilih **Berikutnya.**
 
 2. Terus telusuri layar dan mulai ulang komputer saat diminta.
 
-    Setelah memulai ulang, Asisten dukungan dan pemulihan otomatis membuka kembali untuk menyelesaikan proses penghapusan instalan.
+    Setelah menghidupkan ulang, Asisten Dukungan dan Pemulihan terbuka kembali secara otomatis untuk menyelesaikan proses penghapusan instalan.
 
-3. Ikuti perintah yang tersisa, dan [instal ulang Office](https://portal.office.com/OLS/MySoftware.aspx) atau tutup asisten.
+3. Ikuti perintah yang tersisa, lalu [instal Office](https://portal.office.com/OLS/MySoftware.aspx) atau tutup asisten.
 
-- [Menggunakan Penginstal offline Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) untuk menginstal Office
+- [Gunakan penginstal Office offline untuk](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) menginstal Office
 
-Untuk informasi selengkapnya tentang kesalahan penginstalan, lihat [pesan kesalahan saat menginstal Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Untuk informasi selengkapnya tentang kesalahan instalasi, lihat [Pesan kesalahan saat Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   
