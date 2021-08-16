@@ -1,5 +1,5 @@
 ---
-title: Mencegah pencarian Microsoft di Bing dari instalasi dengan aplikasi Microsoft 365
+title: Mencegah Microsoft Search di Bing diinstal dengan Aplikasi Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040113"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Mencegah pencarian Microsoft di Bing dari instalasi dengan aplikasi Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Mencegah Microsoft Search di Bing diinstal dengan Aplikasi Microsoft 365
 
-Untuk mencegah Layanan latar belakang untuk Microsoft Search di Bing menginstal aplikasi Microsoft 365 untuk perusahaan, gunakan salah satu opsi berikut ini:
+Untuk mencegah layanan latar belakang untuk Microsoft Search di Bing diinstal dengan Aplikasi Microsoft 365 untuk perusahaan, gunakan salah satu opsi berikut ini:
 
-- Office Deployment tool atau kebijakan grup
-- Microsoft Endpoint Configuration Manager (Current Branch) atau Microsoft Intune
+- Alat Office Penyebaran atau Kebijakan Grup
+- Microsoft Endpoint Configuration Manager (cabang saat ini) atau Microsoft Intune
 
-Untuk mempelajari selengkapnya, lihat [cara mencegah Layanan latar belakang untuk Microsoft Search di Bing terinstal dengan aplikasi microsoft 365 untuk perusahaan](https://go.microsoft.com/fwlink/?linkid=2151946).
+Untuk mempelajari selengkapnya, [lihat Cara mencegah layanan latar belakang untuk Microsoft Search di Bing diinstal dengan Aplikasi Microsoft 365 untuk perusahaan](https://go.microsoft.com/fwlink/?linkid=2151946).

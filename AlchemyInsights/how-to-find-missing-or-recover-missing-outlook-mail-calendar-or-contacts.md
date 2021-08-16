@@ -1,5 +1,5 @@
 ---
-title: 204 cara menemukan hilang atau Pulihkan email, kalender, atau kontak Outlook yang hilang
+title: 204 Cara menemukan alamat email, kalender, atau kontak yang hilang atau Outlook dipulihkan
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029159"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Cara menemukan dan memulihkan pesan, kontak, atau item kalender yang hilang di Outlook
 
-1. Di Outlook, masuk ke daftar folder email Anda, lalu pilih **item terhapus**. **Penting**: jika Anda tidak melihat folder **item terhapus** , melainkan melihat folder **sampah** , akun Anda tidak mendukung pemulihan item yang tidak lagi berada di folder **item terhapus** Anda.
+1. Dalam Outlook, masuk ke daftar folder email Anda, lalu **pilih Item Dihapus.** **Penting**: Jika Anda tidak melihat **folder** Item Terhapus tetapi melihat **folder** Keranjang Sampah, akun Anda tidak mendukung pemulihan item yang tidak lagi berada di folder **Item Dihapus.**
 
-2. Pada menu **Beranda** , klik **Pulihkan Item terhapus dari server**. **Penting**: jika tidak ada **Pulihkan Item terhapus dari perintah server** pada menu, akun Anda tidak mendukung pemulihan item yang tidak lagi berada di folder **item terhapus** Anda.
+2. Pada menu **Beranda,** klik **Pulihkan Item Terhapus Dari Server.** **Penting**: Jika tidak ada perintah Pulihkan Item Dihapus Dari **Server** pada menu, akun Anda tidak akan mendukung pemulihan item yang tidak lagi berada di folder **Item Dihapus.**
 
-3. Pilih item yang ingin Anda Pulihkan, klik **Pulihkan item yang dipilih**, lalu klik **OK**.
+3. Pilih item yang ingin Anda pulihkan, klik **Pulihkan Item yang** Dipilih, lalu klik **OK.**
 
-**Di mana item yang dipulihkan sudah ada?** Saat Anda memulihkan item dari folder Item yang dapat dipulihkan, item tersebut dipindahkan ke folder **item terhapus** . Setelah memulihkan item, Anda dapat menemukannya di folder **item terhapus** , lalu memindahkannya ke folder lain.
+**Masuk ke mana item yang dipulihkan?** Saat Anda memulihkan item dari folder Item yang Dapat Dipulihkan, item tersebut akan dipindahkan ke folder **Item** Dihapus. Setelah Anda memulihkan sebuah item, Anda bisa menemukannya di folder **Item Terhapus** lalu Anda bisa memindahkannya ke folder lain.
 
-Anda juga bisa menggunakan [saya mengalami masalah saat mengirim, menerima, atau menemukan alat pesan email](https://aka.ms/SaRA-OutlookSendReceive) **pada mesin yang terpengaruh**. Alat ini akan memeriksa sejumlah masalah dan akan menyarankan solusi yang memungkinkan.
+Anda juga dapat menggunakan [alat Saya mengalami masalah saat mengirim, menerima, atau mencari pesan email di](https://aka.ms/SaRA-OutlookSendReceive) komputer yang **terpengaruh.** Alat ini akan memeriksa sejumlah masalah dan akan menyarankan solusi yang memungkinkan.
