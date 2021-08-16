@@ -1,5 +1,5 @@
 ---
-title: Perangkat tulis balik
+title: Device Writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101953"
 ---
-# <a name="device-writeback"></a>Perangkat tulis balik
+# <a name="device-writeback"></a>Device Writeback
 
-Alat tulis balik perangkat digunakan dalam skenario berikut ini:
+Device Writeback digunakan dalam skenario berikut:
 
-- Mengaktifkan [Windows Halo untuk bisnis menggunakan hibrid sertifikat penyebaran kepercayaan](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Mengaktifkan akses bersyarat berdasarkan perangkat ke aplikasi terproteksi ADFS (2012 R2 atau yang lebih tinggi)
+- Mengaktifkan [Windows Hello for Business menggunakan penyebaran kepercayaan sertifikat hibrid](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Mengaktifkan Akses Kondisional berdasarkan perangkat ke aplikasi yang diproteksi ADFS (2012 R2 atau yang lebih tinggi) (mengandalkan kepercayaan pihak
 
     > [!NOTE]
-    > Langganan Azure AD Premium diperlukan untuk tulis ulang perangkat.
+    > Langganan Azure AD Premium diperlukan untuk menulis kembali perangkat.
 
-Ini memberikan keamanan dan kepastian tambahan bahwa akses ke aplikasi hanya diberikan kepada perangkat tepercaya. Untuk informasi selengkapnya tentang akses bersyarat, lihat [mengelola risiko dengan akses bersyarat](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) dan [menyiapkan akses bersyarat di tempat menggunakan pendaftaran perangkat Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Hal ini memberikan jaminan dan keamanan tambahan bahwa akses ke aplikasi hanya diberikan kepada perangkat tepercaya. Untuk informasi selengkapnya tentang Akses Bersyarat, [lihat Mengelola Risiko](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) dengan Akses Bersyarat dan Menyiapkan Akses Bersyarat Lokal menggunakan Azure Active Directory Registrasi [Perangkat.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Untuk informasi selengkapnya tentang mengaktifkan tulis balik perangkat untuk perangkat, lihat [mengaktifkan](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)tulis balik perangkat.
+Untuk informasi selengkapnya tentang Mengaktifkan Device Writeback untuk Perangkat, lihat [Mengaktifkan Device Writeback](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).

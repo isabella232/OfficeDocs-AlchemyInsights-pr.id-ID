@@ -8,13 +8,13 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 3df9fb6d1c52926877b7d7a03dbe5d2ec46b3854
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19a26076e6dac3ce3550365d463fa5ce3ee4ea8be9c3cb409d4dd69f19f021ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102169"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Aplikasi desktop untuk SharePoint
 
-Organisasi Anda dimasukkan dalam program pratinjau pribadi untuk aplikasi desktop untuk SharePoint. Microsoft saat ini tidak mendukung aplikasi desktop untuk SharePoint (pratinjau pribadi). Gunakan Mitra Microsoft Private preview terdaftar Anda untuk mendapatkan bantuan dengan aplikasi desktop untuk SharePoint.
+Organisasi Anda dimasukkan dalam program Pratinjau Privat untuk Aplikasi Desktop untuk SharePoint. Saat ini, Microsoft tidak mendukung Aplikasi Desktop untuk SharePoint (Pratinjau Privat). Silakan gunakan mitra Pratinjau Privat Microsoft yang terdaftar untuk mendapatkan bantuan dengan Aplikasi Desktop untuk SharePoint.

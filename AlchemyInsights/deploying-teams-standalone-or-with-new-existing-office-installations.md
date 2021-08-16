@@ -1,5 +1,5 @@
 ---
-title: Menyebarkan tim sebagai mandiri atau dengan instalasi Office yang baru atau yang sudah ada
+title: Menyebarkan Teams mandiri atau dengan penginstalan baru atau yang Office sudah ada
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: c3ca4365abc41509ccf602c5b9046655706840fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8baefafc1c2f9583345779c5ae7a9d3d0e05c4b3b7e1b3a74a9a22f7ceed02a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102205"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Menyebarkan tim sebagai mandiri atau dengan instalasi Office yang baru atau yang sudah ada
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Menyebarkan Teams mandiri atau dengan penginstalan baru atau yang Office sudah ada
 
-Microsoft teams kini disertakan sebagai bagian dari ***instalasi baru*** aplikasi Microsoft 365 untuk perusahaan, aplikasi Microsoft 365 untuk bisnis, dan Office untuk Mac. Untuk informasi selengkapnya, lihat [Kapan Microsoft teams mulai disertakan dengan instalasi Office yang baru?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams kini disertakan sebagai bagian dari ***penginstalan baru*** Aplikasi Microsoft 365 untuk perusahaan, Aplikasi Microsoft 365 untuk bisnis, Office untuk Mac. Untuk informasi selengkapnya, [lihat Kapan Microsoft Teams mulai disertakan dengan penginstalan baru Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Selain itu, dimulai dengan versi 1906 di saluran saat ini, teams akan ***ditambahkan ke instalasi*** aplikasi Microsoft 365 untuk perusahaan (dan aplikasi Microsoft 365 untuk bisnis) di perangkat yang menjalankan Windows saat Anda memperbarui instalasi yang sudah ada ke versi terbaru. Untuk informasi selengkapnya, lihat [apa tentang Instalasi Office yang sudah ada?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
-
-> [!NOTE]
-> Jika Anda tidak ingin menunggu untuk jadwal peluncuran ini, Anda bisa menggunakan teams sebagai mandiri untuk pengguna Anda dengan [mengikuti instruksi ini](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   atau Anda bisa meminta pengguna Anda untuk menginstal teams sendiri  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
-
-Jika organisasi Anda belum siap untuk menggunakan teams, kami memiliki langkah-langkah yang bisa Anda lakukan untuk ***mengecualikan tim*** dari instalasi Office yang [baru](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) atau [yang sudah ada](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) . Jika Anda ingin agar teams terinstal, tetapi tidak ingin tim memulai secara otomatis untuk pengguna setelah terinstal, lihat [mencegah Microsoft teams dimulai secara otomatis setelah penginstalan](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-Untuk ***Menghapus instalan teams*** dari perangkat yang menjalankan Windows, lihat [menghapus instalasi Microsoft teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk membersihkan Microsoft teams dari beberapa mesin atau pengguna target, lihat [penyebaran Microsoft teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)menjadi lebih bersih.
-
-Jika Anda menggunakan komputer bersama, Layanan desktop jarak jauh (RDS), atau infrastruktur Desktop Virtual (VDI), lihat [lingkungan komputer dan VDI bersama dengan Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-Jika Anda menggunakan Office untuk Mac, lihat [penginstalan Microsoft teams di Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Selain itu, mulai Versi 1906 dalam Saluran Saat  Ini, Teams akan ditambahkan ke penginstalan Aplikasi Microsoft 365 untuk perusahaan (dan Aplikasi Microsoft 365 untuk bisnis) yang sudah ada pada perangkat yang menjalankan Windows ketika Anda memperbarui penginstalan yang ada ke versi terbaru. Untuk informasi selengkapnya, [lihat Bagaimana dengan instalasi klien yang sudah Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> Setelah teams terinstal, pembaruan [akan diperbarui secara otomatis](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) setiap dua minggu dengan fitur baru dan pembaruan kualitas. 
+> Jika tidak ingin menunggu jadwal peluncuran ini, Anda dapat menyebarkan Teams sebagai mandiri [](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) untuk pengguna dengan mengikuti instruksi ini atau meminta pengguna menginstal Teams sendiri dari [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
+
+Jika organisasi Anda belum siap untuk menyebarkan Teams, kami memiliki langkah-langkah yang dapat [](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) dilakukan [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) untuk mengecualikan ***Teams*** dari penginstalan baru atau yang sudah Office. Jika ingin Teams diinstal tetapi tidak ingin Teams mulai secara otomatis bagi pengguna setelah terinstal, lihat Mencegah Microsoft Teams dimulai secara otomatis [setelah penginstalan.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
+
+Untuk ***menghapus Teams*** dari perangkat yang menjalankan Windows, lihat Menghapus [Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Untuk pembersihan Microsoft Teams dari beberapa komputer atau pengguna target, [lihat Microsoft Teams pembersihan penyebaran baru](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+Jika Anda menggunakan komputer bersama, Remote Desktop Services (RDS), atau Virtual Desktop Infrastructure (VDI), lihat Lingkungan komputer bersama dan [VDI dengan Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+
+Jika Anda menggunakan Windows Office untuk Mac, [lihat Microsoft Teams penginstalan di Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> Setelah Teams diinstal, aplikasi secara otomatis [diperbarui kira-kira](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) setiap dua minggu dengan pembaruan fitur dan kualitas baru. 

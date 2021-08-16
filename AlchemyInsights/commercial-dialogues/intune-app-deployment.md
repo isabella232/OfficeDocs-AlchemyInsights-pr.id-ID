@@ -1,5 +1,5 @@
 ---
-title: Proses penyebaran aplikasi Intune
+title: Proses Penyebaran Aplikasi Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034433"
 ---
-# <a name="intune-app-deployment-process"></a>Proses penyebaran aplikasi Intune
+# <a name="intune-app-deployment-process"></a>Proses Penyebaran Aplikasi Intune
 
-Menyebarkan aplikasi dengan Intune mengikuti proses di bawah ini:
+Penyebaran aplikasi dengan Intune mengikuti proses di bawah ini:
 
-- Menambahkan aplikasi-Anda bisa menambahkan aplikasi App Store atau mengunggah baris aplikasi bisnis.
-- Menetapkan aplikasi-menentukan lingkup penyebaran aplikasi.
-- Aplikasi pemantauan-menampilkan status penginstalan aplikasi, daftar ditemukan aplikasi, dan mengelola aplikasi yang dibeli dari toko aplikasi.
-- [Aplikasi telah menerapkan INTUNE SDK. Untuk daftar aplikasi yang mendukung SDK, lihat aplikasi Microsoft Intune Protected](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Menambahkan aplikasi - Anda dapat menambahkan aplikasi App Store atau mengunggah aplikasi Line of Business.
+- Menetapkan aplikasi - Menentukan lingkup penggunaan aplikasi.
+- Memantau aplikasi - Lihat status penginstalan aplikasi, daftar aplikasi yang ditemukan, dan kelola aplikasi yang dibeli dari toko aplikasi.
+- [Aplikasi telah menerapkan Intune SDK. Untuk daftar aplikasi yang mendukung SDK, lihat Microsoft Intune yang diproteksi.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Baca selengkapnya tentang penerapan dan manajemen aplikasi Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Baca selengkapnya tentang penyebaran dan manajemen aplikasi Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
