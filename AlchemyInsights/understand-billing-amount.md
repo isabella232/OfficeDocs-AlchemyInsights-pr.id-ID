@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919642"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304336"
 ---
 # <a name="understand-billing-amount"></a>Memahami konsep tagihan
 
@@ -28,7 +28,7 @@ ms.locfileid: "53919642"
 - Pahami ketentuan tentang biaya Penggunaan Azure: [Ketentuan penggunaan dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Untuk mendapatkan PDF faktur Anda dan salinan file penggunaan harian mendetail (.CSV): [Mendapatkan data faktur dan penggunaan](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Catatan**: Jika Anda membatalkan langganan/sumber daya di pertengahan siklus tagihan, Anda mungkin masih melihat biaya yang akan dikenakan untuk setiap penggunaan di bulan sebelumnya. Misalnya, jika siklus tagihan Anda adalah dari tanggal 26 setiap bulan hingga tanggal 25 bulan berikutnya & Anda menangguhkan langganan pada tanggal 23, yaitu 28 hari ke dalam siklus penagihan untuk Juni, Anda mungkin melihat biaya untuk 28 hari penggunaan. Jika Anda melihat biaya yang terlalu banyak untuk membatalkan langganan, harap pastikan, Anda tidak memiliki paket dukungan lain yang menyebabkan biaya tersebut. Jika Anda melakukannya, silakan lanjutkan dan batalkan paket tersebut.
+**Catatan**: Jika Anda membatalkan langganan/sumber daya di pertengahan siklus tagihan, Anda mungkin masih melihat biaya yang akan dikenakan untuk setiap penggunaan di bulan sebelumnya. Misalnya, jika siklus tagihan Anda adalah dari tanggal 26 setiap bulan hingga tanggal 25 bulan berikutnya & Anda menangguhkan langganan pada tanggal 23, yang merupakan 28 hari ke dalam siklus tagihan untuk juni, Anda mungkin melihat biaya untuk 28 hari penggunaan. Jika Anda melihat biaya yang terlalu banyak untuk membatalkan langganan, harap pastikan, Anda tidak memiliki paket dukungan lainnya yang menyebabkan biaya tersebut. Jika Anda melakukannya, silakan lanjutkan dan batalkan paket tersebut.
 
 **Perjanjian Pelanggan Microsoft (MCA):**
 
@@ -36,25 +36,25 @@ ms.locfileid: "53919642"
 
 - Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk [ke: Tutorial: Meninjau faktur Perjanjian Pelanggan Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Memahami persyaratan pada faktur Anda: [Ketentuan faktur Perjanjian Pelanggan Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Pahami persyaratan tentang biaya Penggunaan [Azure: Ketentuan Penggunaan Perjanjian Pelanggan Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pahami persyaratan atas biaya Penggunaan [Azure: Ketentuan Penggunaan Perjanjian Pelanggan Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Jika Anda memiliki Perjanjian [Pelanggan Microsoft,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)Anda dapat mengunduh penggunaan di [portal Azure.](https://portal.azure.com/)
 
 **Perjanjian Mitra Microsoft (MPA):**
 
-- Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk [ke: Tutorial: Meninjau faktur Perjanjian Mitra Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Untuk membantu meninjau dan memahami tagihan Anda, silakan merujuk ke: [Tutorial: Meninjau faktur Perjanjian Mitra Microsoft Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Memahami persyaratan pada faktur Anda: [Ketentuan dalam faktur Perjanjian Mitra Microsoft dijelaskan](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Perjanjian Enterprise (EA)**
 
 - Untuk membantu meninjau dan memahami tagihan Anda, lihat: [Memahami tagihan Azure Perjanjian Enterprise Anda](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Jika merupakan pelanggan Azure dengan pelanggan Perjanjian Enterprise (pelanggan EA), Anda tidak dapat mengunduh faktur organisasi. Faktur dikirim ke siapa saja yang disiapkan untuk menerima faktur untuk pendaftaran, Anda bisa mengunduh penggunaan di [portal Azure.](https://portal.azure.com/)
+- Jika merupakan pelanggan Azure dengan pelanggan Perjanjian Enterprise (pelanggan EA), Anda tidak dapat mengunduh faktur organisasi. Faktur dikirim ke siapa saja yang disiapkan untuk menerima faktur untuk pendaftaran, Anda dapat mengunduh penggunaan di [portal Azure](https://portal.azure.com/).
 
 Tinjau faktur overage layanan:
 
 - Masuk ke **portal Enterprise.** Pilih **Laporan**
 - Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan cocokkan periode pada faktur
-- Jumlah Total **Penggunaan** harus cocok dengan Jumlah **Total yang** Diperpanjang pada layanan Anda saat ini
-- Masuk ke **Pengunduhan Penggunaan > Unduhan** Laporan Tingkat Lanjut untuk mendapatkan informasi selengkapnya tentang biaya Anda Catatan : Laporan ini tidak menyertakan pajak, biaya untuk pemesanan, atau biaya marketplace 
+- Jumlah Total **Penggunaan** harus cocok dengan Jumlah **Total Yang** Diperpanjang pada faktur lebih dari satu layanan Anda
+- Masuk ke **Pengunduhan Penggunaan >** Laporan Tingkat Lanjut untuk mendapatkan informasi selengkapnya tentang biaya Anda Catatan : Laporan ini tidak mencakup pajak, biaya untuk pemesanan, atau biaya marketplace 
 
 **Azure Marketplace**
 
@@ -67,9 +67,11 @@ Bandingkan total Azure Marketplace pada Laporan > Ringkasan Penggunaan di portal
 - Masuk ke **portal Enterprise.** Pilih **Laporan**
 - Di sudut kanan atas tab, alihkan tampilan dari **M** ke **C** dan cocokkan periode pada faktur
 - Total **Azure Marketplace** harus cocok dengan Penjualan Total **pada** faktur marketplace Anda
-- Buka **Unduh Penggunaan** untuk mendapatkan informasi selengkapnya tentang biaya berbasis penggunaan Anda. Di **bawah Biaya Marketplace**, **pilih** **Unduh** Catatan : Laporan ini tidak termasuk pajak atau pertunjukkan pembelian satu kali
+- Buka **Unduh Penggunaan** untuk mendapatkan informasi selengkapnya tentang biaya berbasis penggunaan Anda. Di **bawah Biaya Marketplace**, pilih **Unduh** 
 
-**Penyedia Solusi Cloud (CSP)**
+**Catatan**: Laporan ini tidak termasuk pajak atau memperlihatkan pembelian satu kali
+
+**Penyedia Solusi Cloud Tunggal (CSP)**
 
 - Pelajari selengkapnya tentang cara kerja tagihan di program Azure Penyedia Solusi Cloud (Azure CSP): [Tagihan Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Pelajari tentang membaca dan memahami tagihan CSP Anda: [Faktur Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)

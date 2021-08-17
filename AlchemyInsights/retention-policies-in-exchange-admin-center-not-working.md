@@ -1,5 +1,5 @@
 ---
-title: Kebijakan Penyimpanan di Pusat Admin Exchange tidak berfungsi
+title: Kebijakan Penyimpanan di Exchange Admin tidak berfungsi
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074935"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Kebijakan Penyimpanan di Pusat Admin Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Kebijakan Penyimpanan di Exchange Admin
 
 Jika Anda ingin kami menjalankan pemeriksaan otomatis untuk pengaturan yang disebutkan di bawah ini, pilih tombol kembali <-- di bagian atas halaman ini, lalu masukkan alamat email pengguna yang mengalami masalah dengan kebijakan penyimpanan.
 
-Jika Anda mengalami masalah dengan kebijakan penyimpanan di Pusat Admin Exchange yang tidak berlaku pada kotak surat atau item yang tidak berpindah ke kotak surat arsip, periksa hal berikut ini:
+Jika Anda mengalami masalah dengan kebijakan penyimpanan di Pusat Admin Exchange tidak berlaku untuk kotak surat atau item yang tidak berpindah ke kotak surat arsip, periksa hal berikut ini:
 
 **Penyebab Akar:**
 
@@ -38,7 +38,7 @@ Jika Anda mengalami masalah dengan kebijakan penyimpanan di Pusat Admin Exchange
  
 **Catatan:** Jika kotak surat lebih kecil dari 10 MB, Asisten Folder Yang Dikelola tidak akan memproses kotak surat secara otomatis.
  
-Untuk informasi selengkapnya tentang kebijakan penyimpanan di Pusat Admin Exchange, lihat:
+Untuk informasi selengkapnya tentang kebijakan penyimpanan di Exchange Admin Tingkat Lanjut, lihat:
 
 - [Tag penyimpanan dan kebijakan penyimpanan](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 
