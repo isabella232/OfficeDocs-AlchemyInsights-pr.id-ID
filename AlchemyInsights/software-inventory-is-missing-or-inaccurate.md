@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107128"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Inventaris perangkat lunak hilang atau tidak akurat
 
-Inventaris perangkat lunak di ATP Pertahanan Microsoft menyediakan nama produk atau vendor, nomor versi terbarunya, dan mendeteksi kerentanan dan nama produk. Untuk informasi selengkapnya, lihat [Inventaris perangkat lunak - Pengelolaan Ancaman dan Kerentanan](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Inventaris perangkat lunak di layanan ATP Pertahanan Microsoft menyediakan nama produk atau vendor, nomor versi terbarunya, dan deteksi serta kerentanan. Untuk informasi selengkapnya, lihat [Inventaris perangkat lunak - Pengelolaan Ancaman dan Kerentanan](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Anda dapat melaporkan informasi yang tidak jelas atau tidak lengkap, nomor versi yang tidak akurat, atau informasi inventaris perangkat lunak yang diperbaiki dengan mengikuti langkah-langkah berikut ini.  
 
