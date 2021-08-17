@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105755"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Memecahkan masalah sinkronisasi kata sandi
 
-Untuk memecahkan masalah sinkronisasi kata sandi, mulai menggunakan tugas pemecahan masalah AAD ini untuk menentukan mengapa kata sandi tidak disinkronkan. Untuk memulai, masuk ke [Kelola sinkronisasi langsung](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Untuk memecahkan masalah sinkronisasi kata sandi, mulailah dengan menggunakan AAD Koneksi memecahkan masalah untuk menentukan mengapa kata sandi tidak tersinkron. Untuk memulai, buka [Mengelola sinkronisasi langsung](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. Buka sesi Windows PowerShell baru di server Azure AD Connect Anda, lalu pilih opsi **Jalankan sebagai administrator** .
+1. Buka sesi Windows PowerShell baru di server Azure AD Koneksi, lalu pilih **opsi Jalankan sebagai** Administrator.
 
-2. Jalankan set-ExecutionPolicy Remotesanye atau set-ExecutionPolicy tidak terbatas.
+2. Jalankan Set-ExecutionPolicy RemoteSigned atau Set-ExecutionPolicy Tidak Terbatas.
 
-3. Mulai panduan Azure AD Connect.
+3. Mulai panduan Koneksi Azure AD.
 
-4. Masuk ke halaman tugas tambahan > **memecahkan masalah**  >  **berikutnya**.
+4. Masuk ke halaman Tugas Tambahan > **Pemecahan**  >  **Masalah Berikutnya.**
 
 5. Pilih **Luncurkan** untuk membuka menu pemecahan masalah PowerShell.
 
-6. Pilih **memecahkan masalah sinkronisasi kata sandi**.
+6. Pilih **Pecahkan Masalah Sinkronisasi Kata Sandi.**
 
     Masalah biasanya adalah kata sandi tidak disinkronkan untuk akun pengguna tertentu.
 
-    **Catatan** Sinkronisasi kata sandi gagal jika sinkronisasi kata sandi yang terakhir berhasil adalah beberapa waktu yang lalu.
+    **Catatan** Sinkronisasi kata sandi gagal jika sinkronisasi kata sandi yang berhasil terakhir dilakukan beberapa waktu lalu.
 
-Untuk bantuan selengkapnya tentang pemecahan masalah sinkronisasi kata sandi, lihat [memecahkan masalah sinkronisasi hash kata sandi dengan sinkronisasi AZURE AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Untuk bantuan selengkapnya dalam memecahkan masalah sinkronisasi kata sandi, [lihat Memecahkan masalah sinkronisasi hash kata sandi dengan Azure AD Koneksi sinkronisasi](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).

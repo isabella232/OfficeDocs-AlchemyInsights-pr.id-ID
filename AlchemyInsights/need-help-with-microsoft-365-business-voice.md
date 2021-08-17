@@ -1,5 +1,5 @@
 ---
-title: Perlu bantuan dengan Microsoft 365 Business Premium Voice?
+title: Butuh bantuan dengan Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077257"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Perlu bantuan dengan Microsoft 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Butuh bantuan dengan Microsoft 365 Business Premium Voice?
 
-Microsoft 365 Business Premium Voice memudahkan organisasi kecil dan menengah untuk mengubah Microsoft Teams menjadi sistem telepon yang canggih dan fleksibel. Untuk informasi selengkapnya tentang Business Voice, lihat [Apa itu Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Suara memudahkan organisasi kecil dan menengah mengubah Microsoft Teams menjadi sistem telepon yang kuat dan fleksibel. Untuk informasi selengkapnya tentang Suara Bisnis, lihat [Apa itu Microsoft 365 Business Premium Suara?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going. 
+Jika Anda sudah memperoleh Microsoft 365 Business Premium Voice, [panduan Memulai bisa](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) membantu Anda memulai. 

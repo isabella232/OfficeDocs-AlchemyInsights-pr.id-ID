@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045963"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>Tidak dapat memilih kontak ketika menulis email
 
-Saat menulis email baru, beberapa pelanggan tidak melihat daftar kontak mereka saat mereka mengklik tombol **kepada** atau **CC** . Untuk memilih kontak, mulai mengetik dalam bidang **kepada** atau **CC** dan kontak terkait akan ditampilkan.
+Ketika menulis email baru, beberapa pelanggan tidak melihat daftar kontak mereka ketika mereka mengklik **tombol Kepada** **atau Cc.** Untuk memilih kontak, mulai mengetik dalam bidang **Kepada** **atau Cc** dan kontak terkait akan ditampilkan.
