@@ -1,5 +1,5 @@
 ---
-title: Situs web publik SharePoint online akan dihentikan
+title: SharePoint Situs web publik online akan dihentikan
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051237"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Situs web publik SharePoint online telah dihentikan
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Situs web publik online telah dihentikan
 
-Situs web publik SharePoint online telah dihentikan.
+SharePoint Situs web publik online telah dihentikan.
 
-Jika Anda membuat situs web publik SharePoint online, Anda dapat terus menggunakannya melalui 31 Maret 2018. Jika Anda ingin terus memiliki situs web publik, Anda perlu membuat yang baru dengan penyedia baru. Konten di situs web publik SharePoint online Anda telah dihapus.
+Jika membuat situs web SharePoint Publik online, Anda dapat terus menggunakannya hingga 31 Maret 2018. Jika Ingin terus memiliki situs web publik, Anda harus membuat yang baru dengan penyedia yang baru. Konten di situs web SharePoint Online Anda telah dihapus.
 
-Untuk informasi tentang penghentian situs web publik, lihat [detail tentang proses penghentian fitur](https://go.microsoft.com/fwlink/?linkid=866980).
+Untuk informasi tentang penghentian situs web publik, [lihat Detail tentang proses penghentian fitur.](https://go.microsoft.com/fwlink/?linkid=866980)

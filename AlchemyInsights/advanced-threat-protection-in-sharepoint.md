@@ -13,23 +13,23 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 847a350eca09e4ad265864427b2b4ac51826f47ce96d37f694462dbb567da31d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 822407858ddbdcd8e7cae6286fce7893e3eae5cfcdef44b1c8ad332c67a3ee77
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952252"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882754"
 ---
 # <a name="microsoft-defender-for-office-365-in-sharepoint-and-onedrive"></a>Pertahanan Microsoft untuk Office 365 di SharePoint dan OneDrive
 
 Lihat yang berikut:
-- [Pertahanan Microsoft untuk Office 365, SharePoint, OneDrive dan Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
-- [Deteksi Threat Explorer dan Realtime](/microsoft-365/security/office-365-security/threat-explorer-views)
+- [Pertahanan Microsoft untuk Office 365, SharePoint, OneDrive dan Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Deteksi Threat Explorer dan Realtime](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 
 Informasi Tambahan:
 
-- [Deteksi Virus di SPO](/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
-- [Enkripsi Data di ODB dan SPO](/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
-- [Mengamankan data Anda di SharePoint](/sharepoint/safeguarding-your-data)</br>
+- [Deteksi Virus di SPO](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Enkripsi Data di ODB dan SPO](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
+- [Mengamankan data Anda di SharePoint](https://docs.microsoft.com/sharepoint/safeguarding-your-data)</br>
 - [Deteksi Ransomware dan memulihkan file](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

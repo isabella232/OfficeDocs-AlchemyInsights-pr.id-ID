@@ -12,20 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54070363"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882570"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Menyiapkan kebijakan Brankas Tautan di Pertahanan Microsoft untuk Office 365
 
-Kebijakan default untuk Brankas Links in Microsoft Defender for Office 365 is already created for you. Untuk mengubah konfigurasi:
+1. Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com/> , buka Email & Kebijakan **Kolaborasi** \> **& Aturan** \> **Brankas** \> **tautan di** **bagian** Kebijakan.
 
-1. Masuk ke [Office 365 Pusat & Kepatuhan .](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Pilih **Kebijakan Manajemen**  >  **Ancaman**. Di halaman **Kebijakan,** pilih [Pertahanan Microsoft untuk Office 365 Brankas Tautan](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. Di **bagian Kebijakan yang berlaku untuk seluruh organisasi,** pilih **Default**, lalu pilih **ikon Edit.**
-4. Di **bagian Blokir URL berikut** ini, tentukan satu atau beberapa URL yang ingin anda cegah orang-orang di organisasi Anda untuk tidak mengunjungi. Untuk mempelajari selengkapnya, [lihat "Blokir daftar URL berikut ini" Brankas Tautan.](https://go.microsoft.com/fwlink/?linkid=2092123)
-5. Di bagian **Pengaturan yang berlaku untuk konten kecuali email,** pilih (atau kosongkan) opsi yang ingin Anda gunakan. (Disarankan agar Anda memilih semua opsi.)
-6. Pilih **Simpan**.
+   Untuk langsung masuk ke Brankas **Tautan,** gunakan <https://security.microsoft.com/safelinksv2> .
+
+2. Di halaman **Brankas Tautan,** lakukan salah satu langkah berikut:
+   - Untuk menambahkan kebijakan baru, pilih **+ Buat**. Panduan akan diluncurkan untuk membantu Anda menetapkan pengaturan kebijakan.
+   - Untuk mengedit kebijakan yang sudah ada, pilih kebijakan dengan mengklik nama kebijakan tersebut. Dalam flyout detail yang muncul, pilih **Edit** di bagian yang berisi pengaturan yang ingin Anda konfigurasikan.
+   - Untuk memblokir URL dari Brankas Proteksi link atau mengonfigurasi pengaturan untuk Brankas Link di aplikasi Office 365 yang didukung, klik Pengaturan **global**, konfigurasi pengaturan yang Anda inginkan, lalu klik **Simpan**.
+
+3. Setelah Anda meninjau pengaturan, pilih Kirim **(baru)** atau **Simpan** (edit).
+
+Untuk informasi selengkapnya, lihat artikel berikut ini:
+
+- [Menyiapkan Brankas Tautan di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+- [Mengonfigurasi pengaturan global untuk Brankas Link Di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
