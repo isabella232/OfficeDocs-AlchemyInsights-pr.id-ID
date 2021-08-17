@@ -1,5 +1,5 @@
 ---
-title: 610 Pelajari tentang grup Microsoft 365
+title: 610 Pelajari Microsoft 365 Baru
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087463"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>Mempelajari tentang grup Microsoft 365
+# <a name="learn-about-microsoft-365-groups"></a>Pelajari tentang Microsoft 365 Grup
 
-Grup Microsoft 365 adalah layanan yang berfungsi dengan alat Office 365 yang Anda gunakan, jadi Anda bisa berkolaborasi dengan rekan tim saat menulis dokumen, membuat lembar bentang, mengerjakan rencana proyek, menjadwalkan Rapat, atau mengirim email. Untuk informasi selengkapnya, lihat [mempelajari tentang grup Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Grup adalah layanan yang bekerja dengan alat Office 365 yang sudah Anda gunakan, sehingga Anda bisa berkolaborasi dengan rekan satu tim saat menulis dokumen, membuat lembar bentang, mengerjakan rencana proyek, menjadwalkan rapat, atau mengirim email. Untuk informasi selengkapnya, lihat [Pelajari tentang Microsoft 365 Grup](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

@@ -14,16 +14,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310934"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895710"
 ---
 # <a name="payment-faq"></a>FAQ Pembayaran
 
-Kelola pembayaran di **pusat admin Microsoft 365**.
+Mengelola pembayaran di **pusat admin Microsoft 365**.
 
 - Masuk ke **Tagihan > [Produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** untuk menetapkan atau mengubah metode pembayaran langganan.
 - Masuk ke **Metode > [Pembayaran untuk](https://go.microsoft.com/fwlink/p/?linkid=2018806)** menambahkan, memperbarui, mengganti, atau menghapus metode pembayaran.

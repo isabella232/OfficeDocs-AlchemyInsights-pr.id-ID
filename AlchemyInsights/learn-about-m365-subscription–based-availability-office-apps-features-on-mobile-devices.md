@@ -1,5 +1,5 @@
 ---
-title: Pelajari tentang langganan Microsoft 365 – ketersediaan berbasis aplikasi Office di perangkat seluler
+title: Pelajari Microsoft 365 ketersediaan berbasis langganan Office aplikasi di perangkat seluler
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087427"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Pelajari tentang langganan Microsoft 365 – ketersediaan berbasis aplikasi Office di perangkat seluler
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Pelajari Microsoft 365 ketersediaan berbasis langganan Office aplikasi di perangkat seluler
 
-Semua paket Microsoft 365 memungkinkan Anda menampilkan dokumen di Word, Excel, PowerPoint, dan OneNote di perangkat seluler iOS, Android, dan Windows. Namun, ketersediaan fitur dan file aplikasi ini bergantung pada metode berlangganan Anda — paket kualifikasi 365 Microsoft atau paket yang tidak memenuhi syarat, atau skema pembelian satu kali Office — dan ukuran layar perangkat seluler.
+Semua Microsoft 365 seluler memungkinkan Anda menampilkan dokumen di Word, Excel, PowerPoint, dan OneNote di iOS, Android, dan Windows seluler. Namun, ketersediaan fitur dan file aplikasi tersebut bergantung pada langganan Anda — paket Microsoft 365 yang memenuhi syarat atau paket yang tidak memenuhi syarat, atau pembelian satu kali Office — dan ukuran layar perangkat seluler.
 
-Untuk mempelajari selengkapnya, lihat [apa yang bisa Anda lakukan di aplikasi Office di perangkat seluler dengan langganan Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Untuk mempelajari selengkapnya, lihat [Apa yang bisa Anda lakukan Office aplikasi di perangkat seluler dengan langganan Microsoft 365 .](https://go.microsoft.com/fwlink/?linkid=2135575) 

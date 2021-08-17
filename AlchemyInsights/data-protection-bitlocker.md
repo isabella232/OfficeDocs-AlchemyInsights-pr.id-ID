@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815618"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118597"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Mengaktifkan enkripsi Bitlocker dengan Intune
 
-Kebijakan Perlindungan Titik Akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi Bitlocker untuk perangkat Windows. Untuk informasi selengkapnya, lihat [Pengaturan Windows 10 (dan yang lebih baru) untuk melindungi perangkat menggunakan Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+Kebijakan Perlindungan Titik Akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi Bitlocker untuk Windows Anda. Untuk informasi selengkapnya, lihat [Windows 10 (dan yang lebih baru) untuk melindungi perangkat menggunakan Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
 
 Selain Kebijakan Proteksi Titik Akhir, ada juga Laporan Enkripsi yang menyediakan tampilan yang lebih mendetail tentang status enkripsi untuk perangkat. Laporan ini bisa diakses dari portal MEM di bawah **Perangkat > Monitor**, lalu di bawah **Konfigurasi** pilih [Enkripsi laporan](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
 
@@ -36,8 +36,8 @@ Untuk informasi tentang memecahkan masalah bitlocker, lihat [Memecahkan masalah 
  
 **FAQ**
 
-T: Edisi Windows apa yang mendukung enkripsi perangkat menggunakan Kebijakan Proteksi Titik Akhir?<br>
-A: Pengaturan dalam Kebijakan Perlindungan Titik Akhir Intune diimplementasikan menggunakan [CSP Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Tidak semua edisi atau build Windows mendukung CSP Bitlocker. <br><br>
+T: Edisi produk Windows mendukung enkripsi perangkat menggunakan Kebijakan Proteksi Titik Akhir?<br>
+A: Pengaturan dalam Kebijakan Perlindungan Titik Akhir Intune diimplementasikan menggunakan [CSP Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Tidak semua edisi atau build versi Windows mendukung CSP Bitlocker. <br><br>
 
 T: Bagaimana Cara Bitlocker diaktifkan di perangkat tanpa memerlukan interaksi pengguna akhir?<br>
 A: Selama prasyarat yang diperlukan terpenuhi, Anda dapat mengaktifkan Bitlocker "Enkripsi Tanpa Enkripsi" melalui Intune. Lihat detail persyaratan perangkat dan pengaturan kebijakan contoh untuk mengaktifkan enkripsi tanpa suara di dokumen berikut: Mengaktifkan Enkripsi [Bitlocker tanpa diam.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices) <br><br>
@@ -50,6 +50,6 @@ T: Jika perangkat dienkripsi sebagai akibat dari aplikasi kebijakan Intune, apak
 A: Penghapusan kebijakan terkait enkripsi NOT menghasilkan dekripsi drive yang dikonfigurasi.
  
 T: Mengapa Kebijakan Kepatuhan Intune memperlihatkan bahwa perangkat saya tidak mengaktifkan Bitlocker?<br>
-A: Pengaturan "Bitlocker diaktifkan" di Kebijakan Kepatuhan Intune menggunakan klien Windows Device Health Attestation (CRM). Klien ini hanya mengukur status perangkat pada saat boot. Jadi, jika perangkat belum dinyalakan ulang setelah enkripsi Bitlocker selesai, layanan klienED TIDAK akan melaporkan Bitlocker sebagai aktif.
+A: Pengaturan "Bitlocker diaktifkan" di Kebijakan Kepatuhan Intune menggunakan klien Windows Device Health Attestation (GDPR). Klien ini hanya mengukur status perangkat pada saat boot. Jadi, jika perangkat belum dinyalakan ulang setelah enkripsi Bitlocker selesai, layanan klienED TIDAK akan melaporkan Bitlocker sebagai aktif.
  
  

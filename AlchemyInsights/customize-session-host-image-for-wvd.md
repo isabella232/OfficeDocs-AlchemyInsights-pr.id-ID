@@ -1,5 +1,5 @@
 ---
-title: Mengkustomisasi gambar host sesi untuk Desktop Virtual Windows
+title: Mengkustomisasi gambar tuan rumah sesi Windows Desktop Virtual
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118639"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Mengkustomisasi gambar host sesi untuk Desktop Virtual Windows
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Mengkustomisasi gambar tuan rumah sesi Windows Desktop Virtual
 
-Ada dua cara untuk mempersiapkan mesin virtual (VM) dengan menggunakan gambar hard disk virtual Master untuk Desktop Virtual Windows:
+Terdapat dua cara untuk menyiapkan mesin virtual (VM) menggunakan gambar master Hard Disk Virtual untuk komputer Windows Desktop Virtual:
 
-1. [Buat VM dari gambar yang dikelola di Azure](https://go.microsoft.com/fwlink/?linkid=2127906), lalu Lewati ke [persiapan dan penginstalan perangkat lunak](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Buat gambar secara lokal](https://go.microsoft.com/fwlink/?linkid=2128065) dengan mengunduh gambar, [penyediaan VM Hyper-V](https://go.microsoft.com/fwlink/?linkid=2127907), lalu mengkustomisasinya sesuai kebutuhan Anda.
+1. [Buat VM dari gambar terkelola di Azure](https://go.microsoft.com/fwlink/?linkid=2127906), lalu lanjutkan ke persiapan dan penginstalan perangkat [lunak.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Buat gambar secara lokal](https://go.microsoft.com/fwlink/?linkid=2128065) dengan mengunduh gambar, [menyediakan VM Hyper-V,](https://go.microsoft.com/fwlink/?linkid=2127907)lalu mengkustomisasinya agar sesuai dengan kebutuhan Anda.
 
-Untuk mempelajari selengkapnya, lihat [mempersiapkan dan mengustomisasi gambar VHD Master](https://go.microsoft.com/fwlink/?linkid=2127838).
+Untuk mempelajari selengkapnya, lihat [Mempersiapkan dan mengustomisasi gambar master VHD](https://go.microsoft.com/fwlink/?linkid=2127838).

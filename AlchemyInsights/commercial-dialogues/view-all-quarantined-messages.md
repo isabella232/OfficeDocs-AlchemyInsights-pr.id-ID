@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045135"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311402"
 ---
 # <a name="view-all-quarantined-messages"></a>Menampilkan semua pesan yang dikarantina
 
-1. Di pusat admin, masuk ke pusat [Keamanan & Kepatuhan.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Buka **Karantina**  >  **Tinjauan Manajemen**  >  **ancaman**.
+1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Email &** \> **Tinjau** \> **Kolaborasi.**
+
+   Untuk langsung masuk ke halaman **Karantina,** gunakan <https://security.microsoft.com/quarantine> .
+
+2. Di halaman **Karantina,** verifikasi bahwa tab **email** dipilih.
 3. Secara default, pesan diurutkan dari terbaru ke ter lama berdasarkan tanggal pesan diterima. Anda bisa mengurutkan pada bidang dengan mengklik header.
 4. Anda hanya dapat melakukan operasi massal hingga pada 100 item, sehingga pemfilteran juga dapat membantu mengurangi kumpulan hasil jika memiliki lebih dari 100 item.
+
+Untuk informasi selengkapnya, lihat artikel berikut ini:
+
+- [Menemukan dan merilis pesan yang dikarantina sebagai pengguna](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Mengelola pesan dan file yang dikarantina sebagai admin](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

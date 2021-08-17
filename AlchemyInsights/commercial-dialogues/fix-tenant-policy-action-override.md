@@ -1,5 +1,5 @@
 ---
-title: Memperbaiki kebijakan penyewa (menimpa tindakan)
+title: Memperbaiki kebijakan Penyewa (penggantian tindakan)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745881"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896078"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Memperbaiki kebijakan penyewa (menimpa tindakan)
+# <a name="fix-tenant-policy-action-override"></a>Memperbaiki kebijakan Penyewa (penggantian tindakan)
 
-Kebijakan anti spam di penyewa Anda mempengaruhi pesan ini. Untuk meninjau kebijakan, lakukan hal berikut:
+Salah satu kebijakan anti spam Anda mempengaruhi pesan ini. Untuk meninjau kebijakan, lakukan langkah-langkah berikut ini:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), lalu masuk ke kebijakan **manajemen ancaman**  >    >  [anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Periksa untuk melihat apakah **sumber kebijakan** menunjukkan hal berikut:  **Add-Xheader/Modifysubject/redirect/Delete/No Action/Bcc message**
+1. Dalam portal Pertahanan Microsoft 365 di <https://security.microsoft.com/> , buka Email & **Kolaborasi** \> **& aturan** kebijakan \> **Ancaman** Anti \> **spam** di **bagian** Kebijakan.
 
-    Jika demikian, pada tab **kustom** , periksa pengaturan kebijakan yang mempengaruhi pesan. Ada kemungkinan bahwa **pengaturan standar** yang diterapkan ke semua pelanggan Exchange Online Protection mempengaruhi pesan tersebut.
+   Untuk langsung masuk ke **halaman Kebijakan anti spam,** gunakan <https://security.microsoft.com/antispam> .
 
-Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [mengonfigurasi kebijakan filter spam Anda](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Pada halaman Kebijakan **anti spam,** pilih kebijakan dengan mengklik nama kebijakan ( Tipe adalah  Kebijakan **anti spam** kustom atau Nama adalah Kebijakan masuk **Anti Spam (Default)**).
+3. Di flyout detail yang muncul, pilih **Edit tindakan** di **bagian** Tindakan.
+4. Di bagian Tindakan **pesan,** tinjau putusan untuk **Spam,** **Spam**  kepercayaan **tinggi,** Pengelabuan , dan Pengelabuan kepercayaan tinggi untuk melihat apakah salah satu nilai berikut ini dipilih:
+   - **Tambahkan header X**
+   - **Menambahkan baris subjek dengan teks**
+   - **Alihkan pesan ke alamat email**
+   - **Menghapus pesan**
+   - **Tidak ada tindakan**
+
+   Pengaturan Standar mungkin diterapkan **ke semua** pelanggan Exchange Online Protection dampak pesan.
+
+Untuk informasi selengkapnya, [lihat Mengonfigurasi kebijakan anti spam di EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

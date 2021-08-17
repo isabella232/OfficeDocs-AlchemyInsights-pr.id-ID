@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029735"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895890"
 ---
 # <a name="expired-subscription"></a>Langganan kedaluwarsa
 
@@ -35,7 +35,7 @@ Tampaknya Anda memiliki satu atau beberapa langganan yang kedaluwarsa. Jika ingi
 3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
 4. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Melakukan pembelian baru**
   
@@ -44,4 +44,4 @@ Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/mic
 3. Masukkan jumlah lisensi yang diperlukan, serta pilih apakah ingin membayar setiap bulan atau satu tahun penuh. Pilih apakah Anda ingin menetapkan lisensi secara otomatis kepada semua pengguna yang saat ini belum memiliki lisensi. Lalu pilih **Check out sekarang.**
 4. Ikuti langkah-langkah yang tersisa untuk menyelesaikan check out.
 
-Untuk mempelajari selengkapnya, lihat [Membeli langganan lain](/microsoft-365/commerce/buy-another-subscription).
+Untuk mempelajari selengkapnya, lihat [Membeli langganan lain](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

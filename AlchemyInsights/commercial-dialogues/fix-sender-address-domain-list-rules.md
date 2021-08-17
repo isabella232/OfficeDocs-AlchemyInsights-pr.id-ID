@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930028"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896114"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Memperbaiki Alamat Pengirim daftar Domain/Domain
 
-Kebijakan anti spam di penyewa Anda memengaruhi pesan ini. Pengirim pesan ditemukan dalam daftar Perbolehkan atau Blokir. Untuk meninjau kebijakan, lakukan hal berikut:
+Salah satu kebijakan anti spam Anda mempengaruhi pesan ini. Pengirim pesan ditemukan dalam daftar Perbolehkan atau Blokir. Untuk meninjau kebijakan, lakukan langkah-langkah berikut ini:
 
-1. Masuk ke [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pada tab **Standar,** jika **pengaturan Standar** diaktifkan, centang daftar **Perbolehkan daftar** dan Blokir **daftar.**
-3. Pada tab **Kustom,** jika **pengaturan Kustom** diaktifkan, tinjau kebijakan dengan memilih Edit kebijakan **dan** mencentang daftar Perbolehkan daftar dan **Blokir.** 
+1. Dalam portal Pertahanan Microsoft 365 di <https://security.microsoft.com/> , buka Email & **Kolaborasi** \> **& aturan** kebijakan \> **Ancaman** Anti \> **spam** di **bagian** Kebijakan.
 
-Untuk informasi selengkapnya tentang mengonfigurasi kebijakan filter spam, lihat [Mengonfigurasi kebijakan filter spam Anda](https://go.microsoft.com/fwlink/?linkid=2101431).
+   Untuk langsung masuk ke **halaman Kebijakan anti spam,** gunakan <https://security.microsoft.com/antispam> .
+
+2. Pada halaman Kebijakan **anti spam,** pilih kebijakan dengan mengklik nama kebijakan ( Tipe adalah  Kebijakan **anti spam** kustom atau Nama adalah Kebijakan masuk **Anti Spam (Default)**).
+3. Dalam flyout detail yang muncul, pilih **Edit** pengirim dan domain yang diperbolehkan dan diblokir di bagian Pengirim dan domain yang diperbolehkan **dan** diblokir.
+4. Di bagian **yang** diperbolehkan, tinjau pengirim dan domain dengan mengklik **Kelola pengirim \<nn\> atau** **Perbolehkan domain.**
+
+Untuk informasi selengkapnya, [lihat Mengonfigurasi kebijakan anti spam di EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

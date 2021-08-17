@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 028ae1b86a98c8dab1940b715c266f3d481c71ef1ec84e932e9c74817bccdef5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503259"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895830"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>Cara membeli penawaran pendidikan
 
@@ -34,4 +34,4 @@ Permohonan Anda untuk Office 365 Pendidikan telah disetujui. Untuk membeli:
 
 Jika ingin membeli langganan yang berbeda dengan langganan uji coba, masuk ke **halaman Layanan** \> [Pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) Tagihan. Di **bawah Paket Pendidikan**, pilih paket yang Anda inginkan.
 
-Untuk mempelajari selengkapnya, lihat [Membeli langganan dari uji coba gratis Anda](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Untuk mempelajari selengkapnya, lihat [Membeli langganan dari uji coba gratis Anda](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
