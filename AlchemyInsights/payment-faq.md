@@ -14,26 +14,26 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 53c0b7aad5012afb2e923e6b52cb9ec4852f2e27d67dcbbf0845616a0a8e64ad
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503079"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310934"
 ---
 # <a name="payment-faq"></a>FAQ Pembayaran
 
-Mengelola pembayaran di **pusat admin Microsoft 365**.
+Kelola pembayaran di **pusat admin Microsoft 365**.
 
 - Masuk ke **Tagihan > [Produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)** untuk menetapkan atau mengubah metode pembayaran langganan.
-- Masuk ke **Tagihan > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806)** untuk menambahkan, memperbarui, mengganti, atau menghapus metode pembayaran.
+- Masuk ke **Metode > [Pembayaran untuk](https://go.microsoft.com/fwlink/p/?linkid=2018806)** menambahkan, memperbarui, mengganti, atau menghapus metode pembayaran.
 
-- **Metode Pembayaran** - Jika membayar menggunakan kartu kredit atau rekening bank, metode pembayaran yang terkait dengan langganan Anda akan dikenakan biaya dalam beberapa hari setelah tagihan dibuat. Jika pembayaran gagal, perbarui metode pembayaran Anda. Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+- **Metode Pembayaran** - Jika membayar menggunakan kartu kredit atau rekening bank, metode pembayaran yang terkait dengan langganan Anda akan dikenakan biaya dalam beberapa hari setelah tagihan dibuat. Jika pembayaran gagal, perbarui metode pembayaran Anda. Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Pemberitahuan Tertunggak** - Pembayaran dapat ditolak karena beberapa alasan, termasuk jika kartu kredit telah kedaluwarsa. Anda dapat menggunakan fitur **Selesaikan pembayaran** kapan saja untuk mengubah informasi kartu kredit dan langsung memasukkan ulang pembayaran. Untuk informasi selengkapnya, lihat [Bagaimana jika saya memiliki saldo beredar?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **Pemberitahuan Tertunggak** - Pembayaran dapat ditolak karena beberapa alasan, termasuk jika kartu kredit telah kedaluwarsa. Anda dapat menggunakan fitur **Selesaikan pembayaran** kapan saja untuk mengubah informasi kartu kredit dan langsung memasukkan ulang pembayaran. Untuk informasi selengkapnya, lihat [Bagaimana jika saya memiliki saldo beredar?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-    **Penting**: Setelah memperbarui metode pembayaran, Anda mungkin masih mengalami pemberitahuan pembayaran ditolak atau tertunggak jika Anda belum menghubungkan metode pembayaran dengan langganan Anda. Anda dapat mengubah metode pembayaran untuk satu atau beberapa langganan. Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+    **Penting**: Setelah memperbarui metode pembayaran, Anda mungkin masih mengalami pemberitahuan pembayaran ditolak atau tertunggak jika Anda belum menghubungkan metode pembayaran dengan langganan Anda. Anda dapat mengubah metode pembayaran untuk satu atau beberapa langganan. Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Frekuensi Pembayaran dan Tagihan** - Tagihan akan dihasilkan setiap bulan atau setiap tahunnya tergantung pada frekuensi penagihan yang dipilih pada saat menyelesaikan pembelian. Pilihan ini dapat diubah kapan saja. Untuk informasi selengkapnya, lihat [Mengubah frekuensi tagihan](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- **Frekuensi Pembayaran dan Tagihan** - Tagihan akan dihasilkan setiap bulan atau setiap tahunnya tergantung pada frekuensi penagihan yang dipilih pada saat menyelesaikan pembelian. Pilihan ini dapat diubah kapan saja. Untuk informasi selengkapnya, lihat [Mengubah frekuensi tagihan](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
-Untuk panduan lengkap membayar langganan Anda, lihat [Cara membayar langganan Anda.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Untuk panduan lengkap membayar langganan Anda, lihat [Cara membayar langganan Anda.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

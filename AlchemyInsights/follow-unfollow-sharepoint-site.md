@@ -1,5 +1,5 @@
 ---
-title: Mengikuti atau tidak mengikuti situs SharePoint
+title: Mengikuti atau tidak mengikuti SharePoint Anda
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744427"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116983"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Mengikuti atau tidak mengikuti situs SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Mengikuti atau tidak mengikuti SharePoint Anda
 
-Jika pengguna mengalami masalah setelah atau berhenti mengikuti sumber daya SharePoint, selesaikan langkah-langkah berikut:
+Jika pengguna mengalami masalah mengikuti atau tidak mengikuti SharePoint sumber daya, selesaikan langkah-langkah ini:
 
-* Minta pengguna untuk keluar dan masuk kembali ke SharePoint dan cobalah langkah yang sama untuk mengikuti/berhenti mengikuti sumber daya SharePoint.
-* Menentukan apakah masalah dengan situs atau semua situs tertentu. Jika masalah terjadi dengan situs tertentu, pastikan fitur "konten berikut" aktif untuk situs tersebut dengan masuk ke **pengaturan situs > mengelola fitur situs > konten berikut**. Jika fitur diatur ke aktif, coba menonaktifkan dan mengaktifkan lagi fitur tersebut untuk situs tersebut.
-* Minta pengguna untuk mencoba browser internet yang berbeda untuk melihat apakah masalah tersebut khusus untuk browser pengguna.
-* Jika semua pengguna dan semua situs mengalami masalah yang sama, lihat [dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terpengaruh.
+* Mintalah pengguna untuk keluar dan masuk kembali ke akun SharePoint dan coba langkah yang sama untuk mengikuti/tidak mengikuti sumber SharePoint mereka.
+* Tentukan apakah masalah terjadi pada situs tertentu atau di semua situs. Jika masalah terjadi pada situs tertentu, pastikan fitur "Mengikuti Konten" aktif untuk situs dengan masuk ke Situs Pengaturan > Mengelola Fitur **Situs > Mengikuti Konten.** Jika fitur diatur ke Aktif, cobalah untuk menonaktifkan dan mengaktifkan fitur lagi untuk situs.
+* Mintalah pengguna untuk mencoba browser internet lain untuk melihat apakah masalah khusus untuk browser pengguna.
+* Jika semua pengguna dan semua situs mengalami masalah yang sama, periksa [Dasbor Kesehatan Layanan](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) untuk melihat apakah organisasi Anda terkena dampak.

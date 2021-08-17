@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116911"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Mendapatkan salinan tagihan atau penggunaan Anda
 
-**Unduh faktur Azure Anda (.pdf)**
+**Mengunduh faktur Azure Anda (.pdf)**
 
-1. Pilih langganan Anda [dari halaman Langganan di](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) portal Azure sebagai pengguna dengan akses ke [faktur](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) lalu pilih **Faktur**
-2. Klik **Unduh Faktur** untuk menampilkan salinan faktur PDF Anda. Jika **tersedia, lihat** [Mengapa saya tidak melihat faktur untuk periode tagihan terakhir?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Anda juga dapat menampilkan penggunaan harian dengan mengklik periode tagihan Untuk mendapatkan PDF faktur dan salinan file penggunaan harian mendetail (. CSV): [Mendapatkan data faktur dan penggunaan](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Pilih langganan Anda dari [Halaman langganan](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) di portal Azure sebagai [pengguna yang memiliki akses ke faktur](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support), lalu pilih **Faktur**.
+2. Klik **Unduh Faktur** untuk menampilkan salinan faktur PDF Anda. Jika tertulis **Tidak tersedia**, lihat [Mengapa saya tidak melihat faktur untuk periode penagihan terakhir?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
+3. Anda juga dapat melihat penggunaan harian Anda dengan mengklik periode penagihan. Untuk mendapatkan file PDF faktur Anda dan salinan detail file penggunaan harian (.CSV) Anda: [Dapatkan faktur dan data penggunaan](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Mendapatkan faktur dalam email (.pdf)**
 
@@ -47,10 +47,10 @@ Jika Anda memiliki Perjanjian [Pelanggan Microsoft,](https://docs.microsoft.com/
 
 Jika Anda memiliki Perjanjian Pelanggan Microsoft, Anda bisa memilih untuk mendapatkan faktur Anda dalam email. Semua manajer Pemilik, Kontributor, Pembaca, dan Faktur profil tagihan akan mendapatkan faktur melalui email. Pembaca tidak dapat memperbarui preferensi faktur email
 
-- Cari **Manajemen Biaya + Tagihan**. Pilih **profil tagihan**. Di bawah Pengaturan, pilih **Properti**
+- Cari **Manajemen Biaya + Tagihan**. Pilih **profil tagihan**. Di Pengaturan, pilih **Properti**
 - Di bawah Faktur Email, **pilih Perbarui preferensi faktur email.** Pilih ikut. Klik **Perbarui**
 
-**Enterprise Agreement (EA)**
+**Perjanjian Enterprise (EA)**
 
 Untuk menampilkan dan mengunduh data penggunaan sebagai pelanggan EA, Anda harus menjadi Administrator Perusahaan, Pemilik Akun, atau Admin Departemen dengan kebijakan biaya tampilan diaktifkan.
 

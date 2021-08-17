@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a82edfe215e138af40c2105f065b0dc9502db3c8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 02930406d85046a1e889fd3912f50946dc51853ad48be16a3320611d943a0d8d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53685737"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889929"
 ---
 # <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Kesalahan 404: File tidak ditemukan di SharePoint atau OneDrive
 
-Jika Anda menerima kesalahan 404 tidak ditemukan, lihat [Kesalahan: 404 File/Halaman](/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)tidak ditemukan di OneDrive atau SharePoint .
+Jika Anda menerima kesalahan 404 tidak ditemukan, lihat [Kesalahan: 404 File/Halaman](https://docs.microsoft.com/sharepoint/troubleshoot/administration/error-404-onedrive-sharepoint)tidak ditemukan di OneDrive atau SharePoint .

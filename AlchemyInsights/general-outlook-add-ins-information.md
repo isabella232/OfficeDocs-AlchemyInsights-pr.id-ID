@@ -1,5 +1,5 @@
 ---
-title: Informasi Add-in Outlook Umum
+title: Informasi Outlook add-in umum
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678469"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116947"
 ---
-# <a name="general-outlook-add-ins-information"></a>Informasi Add-in Outlook Umum
+# <a name="general-outlook-add-ins-information"></a>Informasi Outlook add-in umum
 
-Kunjungi situs web ini untuk sumber daya dokumentasi All-in Anda mengenai [pembuatan Add-in Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Kunjungi situs web ini untuk sumber daya dokumentasi semua proses terkait [Outlook add-in.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Untuk sumber daya tambahan tentang mengelola, menggunakan, dan mengaktifkan Add-in, lihat:
+Untuk sumber daya tambahan terkait pengelolaan, penggunaan, dan pengabkaan add-in, lihat:
 
-- [Menentukan apakah penyebaran terpusat Add-in berfungsi untuk organisasi Anda](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Tentukan apakah Penyebaran Terpusat add-in berfungsi untuk organisasi Anda.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [Mengelola penyebaran add-in di pusat admin Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Menentukan administrator dan pengguna yang bisa menginstal dan mengelola add-in untuk Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Tentukan administrator dan pengguna yang dapat menginstal dan mengelola add-in untuk Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

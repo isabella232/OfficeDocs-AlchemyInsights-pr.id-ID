@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972278"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899247"
 ---
 # <a name="unlocking-an-account"></a>Membuka kunci akun
 
@@ -25,7 +25,7 @@ Ada kemungkinan pengguna terkunci dari Microsoft 365 akibat salah mencoba kata s
 
 **Email Dibatasi**
 
-Sebagai admin, jika salah satu pengguna Anda dibatasi untuk mengirim email, Anda dapat [membuka sendiri blokir akun tersebut](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Pengguna akan dapat mengirim email dalam satu jam setelah pembatasan dihapus.
+Sebagai admin, jika salah satu pengguna Anda dibatasi untuk mengirim email, Anda dapat [membuka sendiri blokir akun tersebut](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Pengguna akan dapat mengirim email dalam satu jam setelah pembatasan dihapus.
 
 **Mengatur Ulang Kata Sandi Pengguna**
 
@@ -39,6 +39,6 @@ Sebagai admin, jika salah satu pengguna Anda dibatasi untuk mengirim email, Anda
 
 2. Pilih pengguna dan klik tiga titik (tindakan lainnya), lalu **klik Edit status masuk.**
 
-Untuk skenario pengaturan ulang kata sandi lainnya, termasuk Pengaturan Ulang Kata Sandi Mandiri, lihat [Mengatur ulang kata sandi Microsoft 365 Business](/microsoft-365/admin/add-users/reset-passwords).
+Untuk skenario pengaturan ulang kata sandi lainnya, termasuk Pengaturan Ulang Kata Sandi Mandiri, lihat [Mengatur ulang kata sandi Microsoft 365 Business](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-Layanan ini mencegah pengguna mengirimkan email setelah mendeteksi bukti akun yang dibobol dan/atau spam keluar. Sebagai tindakan pencegahan, ikut langkah-langkah dalam [Merespons Akun Email yang Dibobol di Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) untuk pengguna.
+Layanan ini mencegah pengguna mengirimkan email setelah mendeteksi bukti akun yang dibobol dan/atau spam keluar. Sebagai tindakan pencegahan, ikut langkah-langkah dalam [Merespons Akun Email yang Dibobol di Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) untuk pengguna.
