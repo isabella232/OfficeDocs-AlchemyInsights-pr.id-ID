@@ -1,5 +1,5 @@
 ---
-title: Kumpulan replika
+title: Rangkaian replika
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110683"
 ---
-# <a name="replica-set"></a>Kumpulan replika
+# <a name="replica-set"></a>Rangkaian replika
 
-Tambahkan juga disebut sebagai domain terkelola. Sebenarnya ada dua pengontrol domain yang dijalankan dan dipelihara oleh backend. Dua DCs menyertakan satu DC utama dan satu replikasi DC. Pencadangan di AADDS (domain terkelola) adalah proses otomatis yang dikelola oleh platform Azure. Dalam Kejadian masalah dengan domain terkelola Anda, dukungan Azure dapat membantu Anda memulihkan dari cadangan.
+AADDS juga disebut sebagai domain terkelola. Ini sebenarnya adalah dua pengontrol domain yang dijalankan dan dikelola oleh backend. Dua DCs tersebut mencakup satu DC utama dan satu replikasi DC. Pencadangan dalam AADDS (domain terkelola) adalah proses otomatis yang dikelola oleh platform Azure. Dalam hal terjadi masalah dengan domain terkelola Anda, dukungan Azure dapat membantu Anda dalam memulihkan dari cadangan.
 
-Anda membuat setiap rangkaian replika dalam jaringan virtual. Setiap jaringan virtual harus dipengpeered ke setiap jaringan virtual lainnya yang menghosting kumpulan replika domain terkelola. Konfigurasi ini membuat topologi jaringan mesh yang mendukung replikasi direktori. Jaringan virtual bisa mendukung beberapa kumpulan replika, asalkan setiap rangkaian replika berada dalam subnet virtual berbeda.
+Anda membuat setiap rangkaian replika di jaringan virtual. Setiap jaringan virtual harus diasingkan ke setiap jaringan virtual lainnya yang menjadi host kumpulan replika domain terkelola. Konfigurasi ini membuat topologi jaringan jala yang mendukung replikasi direktori. Jaringan virtual bisa mendukung beberapa set replika, asalkan setiap rangkaian replika berada dalam subnet virtual yang berbeda.
 
-Untuk detail selengkapnya tentang kumpulan replika, lihat [rangkaian replika konsep](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).
+Untuk detail selengkapnya tentang Kumpulan replika, lihat [Kumpulan Replika Konsep.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)

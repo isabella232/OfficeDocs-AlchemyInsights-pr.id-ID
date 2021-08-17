@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721009"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110736"
 ---
-# <a name="rename-a-sharepoint-site"></a>Mengganti nama situs SharePoint
+# <a name="rename-a-sharepoint-site"></a>Mengganti nama SharePoint Anda
 
-Langkah-langkah untuk mengubah/mengganti nama URL situs didokumentasikan di [mengubah alamat situs](https://docs.microsoft.com/sharepoint/change-site-address); Misalnya, untuk mengubah dari https://contoso.sharepoint.com/sites/sample1 ke https://contoso.sharepoint.com/sites/sample2 .
+Langkah-langkah untuk mengubah/mengganti nama URL situs didokumentasikan [dalam Mengubah alamat situs](https://docs.microsoft.com/sharepoint/change-site-address); misalnya, untuk mengubah dari https://contoso.sharepoint.com/sites/sample1 menjadi https://contoso.sharepoint.com/sites/sample2 .
 
-Untuk kesalahan yang diketahui saat mengganti nama, lihat [kesalahan saat Anda mengganti nama alamat situs SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Untuk kesalahan yang diketahui saat mengganti nama, lihat [Kesalahan saat Anda mengganti SharePoint alamat situs.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-Untuk efek yang diketahui setelah mengganti nama, lihat [efek mengubah alamat situs](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Untuk efek umum setelah penggantian nama, [lihat Efek mengubah alamat situs](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
 
-**Catatan:** Anda tidak bisa mengubah nama domain (dalam contoh di atas, Bagian "contoso" dari URL) di URL SharePoint online. 
+**Catatan:** Anda tidak bisa mengubah nama domain (dalam contoh di atas, bagian "contoso" dari URL) dalam URL SharePoint Online. 
 
 Untuk informasi selengkapnya, lihat:
 
 - [Mengubah nama domain SharePoint Anda](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Kesalahan saat Anda mengganti nama alamat situs SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Kesalahan saat Anda mengganti SharePoint alamat situs](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

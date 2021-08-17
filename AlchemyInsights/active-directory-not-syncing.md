@@ -14,16 +14,16 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889221"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314207"
 ---
 # <a name="active-directory-not-syncing"></a>Direktori Aktif tidak tersinkron
 
-Jika menerima kesalahan sinkronisasi, seperti "tidak ada sinkronisasi terbaru", atau pemberitahuan status sinkronisasi direktori di portal admin Office mengatakan, "Terakhir disinkronkan lebih dari 3 hari yang lalu," mungkin AADConnect memiliki pengaturan yang salah atau izin tidak cukup untuk melakukan sinkronisasi.  
+Jika Anda menerima kesalahan sinkronisasi, seperti "tidak ada sinkronisasi terbaru," atau pemberitahuan status sinkronisasi direktori di portal admin Office mengatakan, "Terakhir disinkronkan lebih dari 3 hari yang lalu," mungkin AADConnect memiliki pengaturan yang salah atau izin tidak cukup untuk melakukan sinkronisasi.  
 
 Menginstal ulang AADConnect menggunakan pengaturan ekspres dapat mengatasi masalah dengan cepat:
 

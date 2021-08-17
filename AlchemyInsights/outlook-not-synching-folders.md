@@ -1,5 +1,5 @@
 ---
-title: Outlook tidak menyinkronkan folder
+title: Outlook tidak bisa membuat folder yang tidak tersinpresi
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111223"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook tidak menyinkronkan folder
+# <a name="outlook-not-synching-folders"></a>Outlook tidak bisa membuat folder yang tidak tersinpresi
 
-Jika Outlook tidak menyinkronkan folder seperti yang diharapkan, ada beberapa hal yang bisa Anda coba untuk memperbaikinya.
+Jika Outlook tidak tersinerasi seperti yang diharapkan, ada beberapa hal yang dapat Anda coba untuk memperbaikinya.
 
-1. Kurangi jumlah folder dalam kotak surat utama atau bersama. [Lihat masalah kinerja Outlook ketika ada terlalu banyak item atau folder dalam folder file Cached mode. OST atau. pst](https://support.microsoft.com/help/2768656).
-2. Menonaktifkan caching dari semua folder bersama.
-3. Ubah konfigurasi kotak surat Exchange sekunder ke akun Exchange kedua dalam profil Anda.
+1. Mengurangi jumlah folder dalam kotak surat utama atau bersama. Lihat Outlook masalah kinerja saat terdapat terlalu banyak item atau folder dalam mode Singgahan [folder file .ost atau .pst.](https://support.microsoft.com/help/2768656)
+2. Nonaktifkan cache dari semua folder bersama.
+3. Ubah konfigurasi kotak surat Exchange sekunder ke akun Exchange lain di profil Anda.
 
-Untuk informasi selengkapnya, lihat [kinerja dan masalah sinkronisasi ketika Anda bekerja dengan folder di kotak surat sekunder di Outlook](https://support.microsoft.com/help/3115602).
+Untuk informasi selengkapnya, lihat [Masalah kinerja dan sinkronisasi ketika Anda bekerja dengan folder dalam kotak surat sekunder di Outlook](https://support.microsoft.com/help/3115602).
