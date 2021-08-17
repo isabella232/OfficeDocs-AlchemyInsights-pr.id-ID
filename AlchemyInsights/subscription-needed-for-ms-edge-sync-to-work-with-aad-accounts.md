@@ -1,5 +1,5 @@
 ---
-title: Langganan yang diperlukan untuk sinkronisasi Microsoft Edge untuk bekerja dengan akun direktori aktif Azure
+title: Langganan diperlukan agar Microsoft Edge disinkronkan agar berfungsi dengan Azure Active Directory tersebut
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573682"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049608"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Langganan yang diperlukan untuk sinkronisasi Microsoft Edge untuk bekerja dengan akun direktori aktif Azure
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Langganan diperlukan agar Microsoft Edge disinkronkan agar berfungsi dengan Azure Active Directory tersebut
 
-Sinkronisasi akan bekerja dengan salah satu dari langganan berikut ini:
+Sinkronisasi akan berfungsi dengan salah satu langganan berikut:
 
 1. Azure Active Directory Premium (P1 dan P2)
 1. Microsoft 365 Business Premium
-1. Office 365 E3 dan lebih baru
-1. Proteksi informasi Azure (P1 dan P2)
-1. Semua langganan Office 365 Education:
+1. Office 365 E3 atas
+1. Perlindungan Informasi Azure (P1 dan P2)
+1. Semua Office 365 Education baru:
     - Aplikasi Microsoft untuk pelajar atau pengajar
-    - Exchange Online untuk pelajar atau pengajar
-    - Office 365 A1 atau yang lebih baru
-    - Microsoft 365 A1 atau yang lebih baru
-    - Proteksi informasi Azure P1 atau P2, untuk pelajar atau pengajar
+    - Exchange Online untuk Pelajar atau Pengajar
+    - Office 365 A1 atau lebih baru
+    - Microsoft 365 A1 atas
+    - Azure Information Protection P1 atau P2, untuk Pelajar atau Pengajar
