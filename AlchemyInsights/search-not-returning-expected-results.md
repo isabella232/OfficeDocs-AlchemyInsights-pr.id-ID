@@ -1,5 +1,5 @@
 ---
-title: 1491-pencarian-tidak dikembalikan-diharapkan-hasil
+title: 1491-search-not-returning-expected-results
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 846034d68a59d053cbe37aeba3a75e20a60786fd7ff24106964229b1deb77608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052713"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Pencarian konten tidak mengembalikan hasil yang diharapkan
+# <a name="content-search-not-returning-expected-results"></a>Pencarian Konten tidak mengembalikan hasil yang diharapkan
 
-Saat menjalankan pencarian konten dari pusat kepatuhan & keamanan Microsoft 365, Anda mungkin menerima hasil pencarian yang tidak diharapkan. Pertimbangkan hal-hal berikut yang bisa mempengaruhi hasil pencarian Anda:
+Ketika menjalankan Pencarian Konten dari pusat Microsoft 365 & Kepatuhan, Anda mungkin menerima hasil pencarian yang tidak diharapkan. Pertimbangkan hal-hal berikut yang dapat mempengaruhi hasil pencarian Anda:
 
-- **Lokasi konten dan kondisi pencarian**: Pastikan Anda telah memilih lokasi konten dan kondisi pencarian yang tepat. Jika Anda menjalankan pencarian besar (dengan banyak lokasi), pertimbangkan untuk memisahkan dalam beberapa pencarian.
+- **Lokasi konten dan kondisi pencarian**: Pastikan Anda telah memilih lokasi konten dan kondisi pencarian yang tepat. Jika Anda menjalankan pencarian besar (dengan banyak lokasi), pertimbangkan untuk membaginya menjadi beberapa pencarian.
 
-- **Item yang diindeks sebagian**:  [item yang diindeks sebagian](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) dari kotak surat disertakan dalam hasil pencarian yang diperkirakan. Namun, sebagian item yang diindeks dari situs di SharePoint dan OneDrive tidak disertakan dalam perkiraan pencarian.
+- **Item terindeks sebagian:**  [Item yang diindeks sebagian dari](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) kotak surat disertakan dalam perkiraan hasil pencarian. Namun, item yang diindeks sebagian dari situs SharePoint dan OneDrive tidak disertakan dalam perkiraan pencarian.
 
-- **Kegagalan pencarian**: saat mencari sejumlah besar kotak surat (lebih dari 100.000 kotak surat), Anda mungkin mendapatkan kesalahan pencarian, dengan kode kesalahan seperti CS008-009 dan CS012-002). Dalam kasus ini, coba lagi pencarian untuk lokasi konten gagal. Lihat  [artikel ini](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) untuk informasi selengkapnya.
+- Kegagalan **pencarian:** Saat mencari banyak kotak surat (lebih dari 100.000 kotak surat), Anda mungkin mendapatkan kesalahan pencarian, dengan kode kesalahan seperti CS008-009 dan CS012-002). Dalam kasus ini, coba lagi pencarian hanya untuk lokasi konten yang gagal. Lihat  [artikel ini](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) untuk informasi selengkapnya.

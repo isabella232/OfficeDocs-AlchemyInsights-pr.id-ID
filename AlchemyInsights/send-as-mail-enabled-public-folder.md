@@ -1,5 +1,5 @@
 ---
-title: Kirim sebagai email yang mengaktifkan folder publik di EXO
+title: Folder Publik Kirim Sebagai Email yang Diaktifkan di EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48461961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052569"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Email SendAs mengaktifkan folder publik
+# <a name="sendas-mail-enabled-public-folder"></a>Folder Publik SendAs Mail Enabled
 
-Contoh berikut ini menetapkan izin "Kirim sebagai" untuk folder publik yang didukung email NewPF1 kepada pengguna Jason.
+Contoh berikut ini menetapkan izin "Kirim Sebagai" untuk folder publik dengan dukungan email NewPF1 kepada pengguna Jason.
 
-Add-RecipientPermission-identitas ' NewPF1 '-Trustee "Jason"-AccessRights ' SendAs '
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Untuk informasi mendetail dan sintaks, lihat [menetapkan izin "Kirim sebagai" atau izin "Kirim atas nama" untuk folder publik dengan dukungan email](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Untuk informasi parameter dan sintaks yang mendetail, lihat Menetapkan izin "Kirim Sebagai" atau "Kirim Atas [Nama" untuk folder publik berkemampuan email.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883358"
 ---
 # <a name="microsoft-secure-score"></a>Skor Aman Microsoft
 
-Anda dapat membuat lingkungan Anda lebih aman dengan menggunakan Skor Aman Microsoft. Anggaplah itu sebagai skor kredit untuk keamanan. Fitur ini memberi tahu Anda tindakan yang dapat dilakukan, yang dapat membantu meningkatkan keamanan organisasi Anda.
+Anda dapat membuat lingkungan Anda lebih aman dengan menggunakan Skor Aman Microsoft. Anggaplah itu sebagai skor kredit untuk keamanan. Fitur ini memberi tahu tindakan yang dapat dilakukan untuk membantu meningkatkan keamanan organisasi Anda.
 
-1. Masuk ke Pusat [Kepatuhan & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Pilih kartu Microsoft Secure Score atau masuk ke [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
-    > [!TIP]
-    >  Di halaman Gambaran Umum Skor Aman Microsoft, pilih Tindakan peningkatan untuk mendapatkan rekomendasi mengamankan organisasi Anda. Anda bisa memilih Filter atau Kelompokkan menurut di tabel untuk dengan cepat mengidentifikasi tindakan yang mungkin lebih baik jika Anda menyelesaikannya sesuai urutan.
-1. Pilih tindakan peningkatan dari daftar. Flyout akan muncul, yang memberikan deskripsi singkat tentang tindakan tersebut.
-1. Klik **Pengaturan tampilan**, lalu ikuti panduan yang disediakan di langkah **Berikutnya.**
+1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Mengamankan skor**.
+
+   Untuk langsung masuk ke halaman **Skor aman,** gunakan <https://security.microsoft.com/securescore>
+
+2. Pada tab **Gambaran** Umum di **bagian Tindakan untuk meninjau** dan **Tindakan** penyempurnaan teratas, perhatikan saran apa pun untuk mengamankan organisasi Anda.
+
+3. Pada tab **Tindakan** peningkatan, perhatikan **entri tindakan** Peringkat **Peningkatan** yang t memiliki **nilai Status** alamat **Untuk atau** **Reg diobulasi.** Anda bisa menggunakan **Filter** **atau Kelompokkan** menurut di dalam tabel untuk mengidentifikasi tindakan dengan cepat yang mungkin lebih baik jika Anda menyelesaikannya secara urutan.
+
+4. Pilih alamat **Kepada** atau Item **regresi** dari daftar pada tab **Tindakan** peningkatan. Halaman baru terbuka dan memberikan deskripsi lengkap serta **tombol Kelola** untuk memperbaiki masalah tersebut.
+
     > [!NOTE]
     > Anda diberikan poin untuk mengonfigurasi fitur keamanan yang direkomendasikan, namun ingatlah bahwa beberapa tindakan diberi label sebagai **[Tidak Skor]**. Ini berarti bahwa meskipun Anda mengimplementasikan tindakan peningkatan itu, Anda tidak akan dianugerahkan poin apa pun untuk skor Anda. Jika tidak, *bisa memakan waktu hingga 24 jam* agar skor Anda diperbarui.
 
-Untuk informasi selengkapnya tentang Skor Microsoft Secure, lihat [Skor Aman Microsoft.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Untuk informasi selengkapnya tentang Skor Microsoft Secure, lihat [Skor Aman Microsoft.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)
