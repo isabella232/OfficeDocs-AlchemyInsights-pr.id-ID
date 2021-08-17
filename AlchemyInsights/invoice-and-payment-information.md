@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502611"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892130"
 ---
 # <a name="invoice-and-payment-information"></a>Informasi faktur dan pembayaran
 
 **Pembayaran**
 
-Saat membeli langganan Microsoft 365 untuk bisnis langsung dari Microsoft, Anda dapat membayar dengan kartu kredit atau debit.  Di beberapa negara/kawasan, rekening bank juga dapat digunakan untuk membayar.  Anda dapat mempelajari cara mengelola dan memecahkan masalah metode pembayaran ini [dari Kelola metode pembayaran](/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Hal ini mencakup penyelesaian masalah saat kartu kredit Anda ditolak dan memperbarui informasi pembayaran.
+Saat membeli langganan Microsoft 365 untuk bisnis langsung dari Microsoft, Anda dapat membayar dengan kartu kredit atau debit.  Di beberapa negara/kawasan, rekening bank juga dapat digunakan untuk membayar.  Anda dapat mempelajari cara mengelola dan memecahkan masalah metode pembayaran ini [dari Kelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). Hal ini mencakup penyelesaian masalah saat kartu kredit Anda ditolak dan memperbarui informasi pembayaran.
 
 **Faktur/Tagihan**
 
@@ -37,4 +37,4 @@ Anda dapat menemukan dan mengunduh faktur Anda di **halaman Tagihan**  >  [& pem
 
 Faktur dibuat secara bulanan atau tahunan, tergantung pada frekuensi tagihan yang dipilih selama pembelian.  Jika membayar tahunan, Anda akan mendapatkan tagihan di pertengahan periode ketika menambahkan atau menghapus lisensi untuk langganan.
 
-- Untuk informasi selengkapnya, [lihat Memahami faktur Anda untuk Microsoft 365 untuk bisnis.](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- Untuk informasi selengkapnya, [lihat Memahami faktur Anda untuk Microsoft 365 untuk bisnis.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
