@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Advanced Hunting Shared queries
+title: 9001220 kueri bersama pencarian tingkat lanjut mdatp
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042129"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Berbagi kueri pemburuan tingkat lanjut
+# <a name="sharing-advanced-hunting-queries"></a>Berbagi kueri pencarian tingkat lanjut
 
-Kueri perburuan tingkat lanjut dapat dibagikan kepada pengguna di organisasi yang sama. Anda juga dapat menemukan kueri yang dibagikan secara publik di GitHub. Kueri ini memungkinkan Anda dengan cepat mengejar skenario perburuan ancaman tertentu tanpa harus menulis kueri dari awal.
+Kueri pencarian tingkat lanjut bisa dibagikan di antara pengguna dalam organisasi yang sama. Anda juga bisa menemukan kueri yang dibagikan untuk GitHub. Kueri ini memungkinkan Anda segera melanjutkan skenario pencarian ancaman tertentu tanpa harus menulis kueri dari awal.
   
-Untuk detailnya, lihat [menggunakan kueri yang dibagikan di perburuan tingkat lanjut](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Untuk detailnya, [lihat Menggunakan kueri bersama dalam pencarian tingkat lanjut](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).

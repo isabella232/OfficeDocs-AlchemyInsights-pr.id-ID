@@ -1,5 +1,5 @@
 ---
-title: Membatalkan Microsoft 365 Anda
+title: Batalkan Microsoft 365 Anda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071479"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303832"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Membatalkan langganan Microsoft 365 Anda?
 
@@ -30,7 +30,6 @@ Kami menyesal Anda harus pergi, tetapi jika ingin membatalkan langganan, berikut
 
 **Pengembalian dana: Kredit prorasi akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.**
 
-> [!NOTE]
-> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
+**Catatan**: Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
 
-Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
