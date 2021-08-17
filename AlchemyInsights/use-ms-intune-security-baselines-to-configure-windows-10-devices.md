@@ -1,5 +1,5 @@
 ---
-title: Menggunakan baseline keamanan Microsoft Intune untuk mengonfigurasi perangkat Windows 10
+title: Menggunakan Microsoft Intune baseline keamanan untuk mengonfigurasi Windows 10 Anda
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004135"
 - "7211"
-ms.openlocfilehash: 24257f1ac5752df1598d08fcfdb95ee2642adfea
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: a94c6b72df3874ee80413adac86d60306175734b6ff28b2e015e05eec6f3838b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104347"
 ---
-# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Menggunakan baseline keamanan Microsoft Intune untuk mengonfigurasi perangkat Windows 10
+# <a name="use-microsoft-intune-security-baselines-to-configure-windows-10-devices"></a>Menggunakan Microsoft Intune baseline keamanan untuk mengonfigurasi Windows 10 Anda
 
-Dasar-dasar keamanan Intune membantu melindungi pengguna dan perangkat. Baseline keamanan adalah grup yang dikonfigurasi sebelumnya dari pengaturan Windows yang digunakan untuk menerapkan grup pengaturan dan nilai default yang diketahui yang direkomendasikan oleh tim keamanan yang relevan. Dengan membuat profil baseline keamanan di Intune, Anda membuat Templat yang terdiri dari beberapa profil konfigurasi perangkat.
+Baseline keamanan Intune membantu melindungi pengguna dan perangkat. Baseline keamanan adalah Windows yang telah dikonfigurasi sebelumnya dari pengaturan, yang digunakan untuk menerapkan grup pengaturan umum dan nilai default yang direkomendasikan oleh tim keamanan yang relevan. Dengan membuat profil baseline keamanan di Intune, Anda membuat templat yang terdiri dari beberapa profil konfigurasi perangkat.
 
-Saat Anda menggunakan baseline keamanan untuk grup pengguna atau perangkat, pengaturan diterapkan ke perangkat yang berjalan di Windows 10 atau yang lebih baru. Misalnya, Baseline Security baseline secara otomatis (1) memungkinkan BitLocker untuk drive yang dapat dilepas, (2) memerlukan kata sandi untuk membuka kunci perangkat, dan (3) menonaktifkan autentikasi dasar. Jika nilai default tidak berfungsi untuk lingkungan Anda, kustomisasi baseline untuk menerapkan pengaturan yang Anda perlukan.
+Saat Anda menerapkan baseline keamanan ke sejumlah pengguna atau perangkat, pengaturan akan diterapkan ke perangkat yang dijalankan di Windows 10 baru. Misalnya, MDM Security Baseline secara otomatis (1) mengaktifkan BitLocker untuk drive yang dapat dilepas, (2) memerlukan kata sandi untuk membuka kunci perangkat, dan (3) menonaktifkan autentikasi dasar. Ketika nilai default tidak berfungsi untuk lingkungan Anda, kustomisasikan garis dasar untuk menerapkan pengaturan yang Anda perlukan.
 
-Baseline keamanan juga membantu membuat alur kerja aman menyeluruh di Microsoft 365. Berikut ini adalah beberapa manfaat dari hal ini:
+Baseline keamanan juga membantu menetapkan alur kerja aman secara end-to-end Microsoft 365. Berikut adalah beberapa manfaat dari hal ini:
 
-- Baseline keamanan menyertakan praktik terbaik dan saran untuk pengaturan yang mempengaruhi keamanan. Karena mitra Intune dengan tim keamanan Windows yang membuat baseline untuk kebijakan grup, rekomendasi ini didasarkan pada panduan yang solid dan pengalaman yang luas.
-- Jika Anda baru menggunakan Intune dan tidak yakin tempat memulainya, baseline keamanan akan membantu Anda membuat dan menggunakan profil aman dengan cepat.
-- Jika saat ini Anda menggunakan kebijakan grup, maka migrasi ke Intune untuk tujuan manajemen jauh lebih mudah dengan baseline keamanan, karena dibangun ke dalam Intune dan menyertakan kapabilitas terdepan untuk manajemen.
+- Baseline keamanan mencakup praktik terbaik dan rekomendasi untuk pengaturan yang mempengaruhi keamanan. Karena Intune bermitra dengan Windows keamanan grup yang membuat baseline untuk kebijakan grup, rekomendasi ini didasarkan pada panduan yang solid dan pengalaman ekstensif.
+- Jika Anda baru menggunakan Intune dan tidak yakin dari mana memulai, baseline keamanan akan membantu Anda membuat dan menggunakan profil yang aman dengan cepat.
+- Jika saat ini Anda menggunakan kebijakan grup, migrasi ke Intune untuk tujuan manajemen jauh lebih mudah dengan baseline keamanan, karena baseline keamanan disertakan dalam Intune dan menyertakan kapabilitas yang canggih untuk manajemen.
 
-Untuk mempelajari selengkapnya, lihat [baseline keamanan Windows](https://go.microsoft.com/fwlink/?linkid=2141503) dan [manajemen perangkat seluler](https://go.microsoft.com/fwlink/?linkid=2141701).
+Untuk mempelajari selengkapnya, lihat [Windows dasar keamanan dan](https://go.microsoft.com/fwlink/?linkid=2141503) Manajemen perangkat [seluler](https://go.microsoft.com/fwlink/?linkid=2141701).

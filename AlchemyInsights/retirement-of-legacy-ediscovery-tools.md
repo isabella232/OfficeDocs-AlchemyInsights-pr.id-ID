@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e7f898ac1a9e9469f633192be18e2a3a362023c83c9e510593196b5a4a0daf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074677"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Pensiun dari Alat eDiscovery Warisan
 
-Sebagai hasil dari fungsi eDiscovery yang baru dan diperbaiki dalam pusat Kepatuhan Microsoft 365, alat dan commandlet eDiscovery warisan berikut ini akan dihentikan dalam beberapa bulan mendatang:
+Sebagai hasil dari fungsi eDiscovery yang baru dan ditingkatkan di pusat Kepatuhan Microsoft 365, alat dan commandlet eDiscovery warisan berikut ini akan dihentikan dalam bulan-bulan mendatang:
 
 - [In-Place eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) [and In-Place Holds](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) in the Exchange admin center.
 
@@ -33,7 +33,7 @@ Sebagai hasil dari fungsi eDiscovery yang baru dan diperbaiki dalam pusat Kepatu
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
 - Cmdlet [Cari-Kotak Surat](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) di Exchange Online PowerShell.
-- Operasi berikut ini di API Layanan Web Exchange:
+- Operasi berikut ini di Exchange API Layanan Web:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
@@ -47,7 +47,7 @@ Sebagai hasil dari fungsi eDiscovery yang baru dan diperbaiki dalam pusat Kepatu
 
 **Untuk informasi selengkapnya, lihat:**
 
- - [Melakukan migrasi pencarian dan tahan eDiscovery warisan ke pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Melakukan migrasi pencarian dan tahan eDiscovery warisan pada pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Pensiun dari alat eDiscovery warisan](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [Tanya Jawab Umum tentang In-Place eDiscovery dan In-Place Rapat](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 

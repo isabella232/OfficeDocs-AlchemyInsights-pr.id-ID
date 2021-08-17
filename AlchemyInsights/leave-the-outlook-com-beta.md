@@ -1,5 +1,5 @@
 ---
-title: 8000035 meninggalkan Outlook.com beta
+title: 8000035 Tinggalkan Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676345"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042849"
 ---
-# <a name="the-new-outlookcom"></a>Outlook.com baru
+# <a name="the-new-outlookcom"></a>The new Outlook.com
 
-Tidak mungkin lagi membiarkan Outlook.com beta dan kembali ke versi klasik Outlook.com.
+Anda tidak lagi dapat membiarkan Outlook.com beta dan kembali ke Outlook.com versi klasik.
   
-Jika Anda ingin memberi umpan balik tentang Outlook.com baru, masuk ke [Forum Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Anda dapat memberikan suara pada ide atau masalah yang ingin Anda lihat teralamatkan, dan kami akan langsung membalas komentar dan saran teratas.
+Jika ingin memberikan umpan balik tentang fitur baru Outlook.com, kunjungi [forum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Anda dapat memilih ide atau masalah yang perlu diatasi, dan kami akan langsung merespons komentar dan saran teratas.
   
 [Pelajari selengkapnya tentang Outlook.com baru.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   
