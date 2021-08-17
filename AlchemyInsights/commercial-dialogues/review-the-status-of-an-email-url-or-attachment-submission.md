@@ -1,5 +1,5 @@
 ---
-title: Meninjau status pengiriman email, URL, atau lampiran
+title: Meninjau status pengiriman lampiran, URL, atau email
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 3514600ba19efe508adc552fa26bdd64ec107f00
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081829"
 ---
-# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Meninjau status pengiriman email, URL, atau lampiran
+# <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Meninjau status pengiriman lampiran, URL, atau email
 
-Setelah mengirimkan pesan email, URL, atau lampiran, Anda bisa memeriksa status dan hasil pada halaman pengiriman yang sama.
+Setelah mengirimkan pesan email, URL, atau lampiran, Anda dapat memeriksa status dan hasilnya di halaman pengiriman yang sama.
 
-Anda akan melihat kemajuan pengiriman pada halaman, dan Anda juga bisa menelusuri ke bawah ke dalam pengiriman sebelumnya untuk melihat detail penyerahan dan hasil.
+Anda akan melihat kemajuan pengiriman di halaman, dan Anda juga dapat menelusuri detail ke dalam pengiriman sebelumnya untuk melihat detail pengiriman dan hasilnya.
 
 > [!NOTE]
-> Setelah Anda mengirimkan item menggunakan Explorer pengiriman, mungkin perlu beberapa menit agar hasil muncul.
+> Setelah Anda mengirimkan item menggunakan Submissions Explorer, mungkin perlu waktu beberapa menit agar hasil muncul.

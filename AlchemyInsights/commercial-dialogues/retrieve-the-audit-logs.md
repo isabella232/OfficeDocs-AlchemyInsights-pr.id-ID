@@ -1,5 +1,5 @@
 ---
-title: Ambil log audit
+title: Mengambil log audit
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482113"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893594"
 ---
-# <a name="retrieve-the-audit-logs"></a>Ambil log audit
+# <a name="retrieve-the-audit-logs"></a>Mengambil log audit
 
-Saat pertama kali Anda membuka log audit, maka akan kosong. Anda harus melakukan pencarian untuk melihat apa yang ada di sana. Berikut ini cara melakukan pencarian umum untuk semua aktivitas:
+Saat pertama kali Anda membuka log audit, log audit akan kosong. Anda harus melakukan pencarian untuk melihat apa yang ada di sana. Berikut cara melakukan pencarian umum untuk semua aktivitas:
 
-1. Masuk ke [halaman pencarian log audit](https://protection.office.com/#/unifiedauditlog) (atau navigasikan ke keamanan pusat **admin**  >  **& pusat kepatuhan**  >  **pencarian & penyelidikan**  >  **log audit** investigasi).
-1. Dalam kotak **aktivitas** , terima default, **Perlihatkan hasil untuk semua aktivitas**.
-1. Tentukan rentang tanggal, dan di kotak **pengguna** menerima nilai default untuk mengembalikan hasil bagi semua pengguna, atau pilih nama pengguna yang ingin Anda selidiki.
-1. Klik **Cari**. Aktivitas muncul di bawah **hasil**.
-1. Untuk menampilkan detail, klik aktivitas, lalu pilih **informasi selengkapnya**. Anda akan melihat informasi selengkapnya seperti klien, pengguna yang melakukan tindakan, dsb.
+1. Lakukan salah satu tindakan berikut ini:
+   - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
+   - Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
+
+2. Pada tab **Pencarian** dari halaman **Audit,** konfigurasi pengaturan berikut ini:
+   - **Rentang tanggal dan waktu**: Pilih rentang tanggal/waktu dalam **kotak** Mulai **dan** Akhir.
+   - **Aktivitas**: Verifikasi **bahwa Perlihatkan hasil untuk semua** aktivitas dipilih.
+   - **Pengguna**: Terima nilai default kosong untuk mengembalikan hasil bagi semua pengguna, atau masukkan satu atau beberapa pengguna.
+
+3. Bila Anda sudah selesai, klik **Cari.** Aktivitas akan muncul di halaman **Pencarian audit baru.**
+
+4. Pilih aktivitas dalam hasil untuk membuka flyout detail. Anda akan melihat informasi selengkapnya seperti Klien, Pengguna yang melakukan tindakan, dll.
+
+Untuk mempelajari selengkapnya, lihat [Mencari log audit untuk menyelidiki masalah dukungan umum.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

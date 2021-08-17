@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918470"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312762"
 ---
 # <a name="frequent-excel-crashes"></a>Sering Excel Crash?
 
@@ -28,12 +28,11 @@ Sering mengalami crash Excel Anda dapat disebabkan oleh add-in yang rusak. Anda 
 
 3. Dalam kotak Add-Ins yang tersedia, kosongkan kotak centang di samping add-in yang ingin Anda nonaktifkan, lalu klik **OK.**
 
-> [!NOTE]
-> Jika Excel crash saat diluncurkan, harap luncurkan dalam mode Brankas otomatis dengan menekan dan menahan Ctrl saat Anda memulai program.
+**Catatan**: Jika Excel crash saat diluncurkan, harap luncurkan di mode Brankas dengan menekan dan menahan Ctrl saat Anda memulai program.
   
 Jika Anda masih mengalami masalah, lihat artikel berikut ini:
   
-- [Saya mendapatkan kesalahan "berhenti berfungsi" ketika memulai Office 2016 atau 2013 pada PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Saya mendapatkan kesalahan "berhenti berfungsi" ketika memulai Office 2016 atau 2013 di PC saya](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
 - [Cara memecahkan masalah crash dan tidak merespons dengan Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 

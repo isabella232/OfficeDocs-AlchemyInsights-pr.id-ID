@@ -15,26 +15,26 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502395"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893058"
 ---
 # <a name="billing-and-payment"></a>Tagihan dan pembayaran
 
-Tagihan Anda dapat ditemukan di **tab**  >  [Tagihan & pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
+Tagihan Anda dapat ditemukan di **tab Tagihan**  >  [& pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
 
 **Menerima faktur melalui email**
 
-Pada **halaman**  >  [Pemberitahuan Tagihan](https://go.microsoft.com/fwlink/p/?linkid=853212) Tagihan, Anda  dapat mengaktifkan fitur ini dan mengelola pengguna yang akan menerima faktur sebagai lampiran email. Faktur akan dikirimkan ke alamat email pengguna dalam daftar Penerima pemberitahuan. Daftar ini mencakup semua admin tagihan dan global.  Anda dapat mengelola siapa yang mendapatkan pemberitahuan faktur dengan mengubah perannya.  Menghapus peran admin global atau admin tagihan akan menghapus pengguna tersebut dari daftar penerima, dan menambahkan peran admin global atau admin tagihan akan menambahkan pengguna ke daftar penerima.
+Pada **halaman**  >  [Pemberitahuan Tagihan](https://go.microsoft.com/fwlink/p/?linkid=853212) Tagihan, Anda  dapat mengaktifkan fitur ini dan mengelola pengguna yang akan menerima faktur sebagai lampiran email. Faktur akan dikirimkan ke alamat email pengguna dalam daftar Penerima pemberitahuan. Daftar ini mencakup semua admin tagihan dan global.  Anda dapat mengelola siapa yang mendapatkan pemberitahuan faktur dengan mengubah perannya.  Menghapus peran admin global atau tagihan akan menghapus pengguna tersebut dari daftar penerima, dan menambahkan peran admin global atau penagihan akan menambahkan pengguna ke daftar penerima.
 
 **Catatan:** Anda akan menerima dua email terpisah: email yang memberi tahu bahwa tagihan telah siap dengan instruksi untuk masuk ke Pusat admin untuk menampilkannya, dan email kedua yang berisi laporan tagihan sebagai lampiran.
 
 **Pembayaran**
 
-Jika membayar menggunakan kartu kredit atau rekening bank, metode pembayaran yang terkait dengan langganan Anda akan dikenakan biaya dalam beberapa hari setelah tagihan dibuat. Jika pembayaran gagal, perbarui atau ubah metode pembayaran Anda.
+Jika membayar menggunakan kartu kredit atau rekening bank, metode pembayaran yang terkait dengan langganan Anda akan dikenai biaya dalam beberapa hari setelah tagihan dibuat. Jika pembayaran gagal, perbarui atau ubah metode pembayaran Anda.
 
 Jika telah menambahkan kartu baru dan masih menerima pemberitahuan penolakan pada kartu kredit yang lama, Anda mungkin perlu mengaitkan kartu baru tersebut dengan langganan.
 
@@ -55,10 +55,10 @@ Jika telah menambahkan kartu baru dan masih menerima pemberitahuan penolakan pad
 
 7. Metode pembayaran baru sudah dipilih di daftar menurun. Pilih **Ganti**.
 
-Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekuensi tagihan**
 
 Tagihan dibuat secara bulanan atau tahunan, tergantung pada frekuensi tagihan yang dipilih saat checkout.  
 
-**Catatan**: Pesanan dengan tagihan tahunan dapat menerima tagihan di pertengahan periode jika perubahan dilakukan seperti menambahkan atau menghapus lisensi. [Ubah frekuensi tagihan Anda.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Catatan**: Pesanan dengan tagihan tahunan dapat menerima tagihan di pertengahan periode jika perubahan dilakukan seperti menambahkan atau menghapus lisensi. [Ubah frekuensi tagihan Anda.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)

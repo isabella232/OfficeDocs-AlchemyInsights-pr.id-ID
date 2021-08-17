@@ -1,5 +1,5 @@
 ---
-title: Mengubah latar belakang Anda untuk Rapat teams
+title: Mengubah latar belakang rapat Teams rapat
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082369"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Mengubah latar belakang Anda untuk Rapat teams
+# <a name="change-your-background-for-a-teams-meeting"></a>Mengubah latar belakang rapat Teams rapat
 
-Jika Anda ingin mengubah apa yang muncul di belakang Anda dalam video, Anda bisa memburamkan latar belakang Anda atau menggantinya seluruhnya dengan gambar apa pun yang Anda inginkan.
+Jika ingin mengubah apa yang muncul di belakang video, Anda dapat memburamkan latar belakang atau menggantinya sepenuhnya dengan gambar yang diinginkan.
 
-Untuk mempelajari selengkapnya tentang cara mengubah latar belakang Anda, sebelum atau selama Rapat, lihat [mengubah latar belakang Anda untuk Rapat teams](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Untuk mempelajari selengkapnya tentang cara mengubah latar belakang, sebelum atau selama rapat, lihat Mengubah latar belakang [Anda untuk rapat Teams rapat](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
 
 > [!NOTE]
-> Untuk saat ini, pengguna Linux tidak dapat menggunakan fitur ini. Efek latar belakang juga tidak akan tersedia untuk Anda jika Anda menggunakan teams melalui infrastruktur desktop virtual yang dioptimalkan (VDI).
+> Untuk saat ini, pengguna Linux tidak dapat menggunakan fitur ini. Efek latar belakang juga tidak akan tersedia jika Anda menggunakan aplikasi Teams infrastruktur desktop virtual yang dioptimalkan (VDI, Virtual Desktop Infrastructure).

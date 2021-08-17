@@ -1,5 +1,5 @@
 ---
-title: Menggunakan kunci produk Office
+title: Menggunakan Office kunci produk
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083917"
 ---
-# <a name="using-office-product-keys"></a>Menggunakan kunci produk Office
+# <a name="using-office-product-keys"></a>Menggunakan Office kunci produk
 
-**Kunci Produk Office**
+**Office Kunci Produk**
 
-Gunakan akun Microsoft Anda, bukan kunci produk, untuk menginstal dan mengaktifkan Office dan aplikasi Microsoft 365 yang dibeli secara individual, seperti Project, Visio, Word, Excel, dan Outlook. Untuk informasi selengkapnya, [lihat Office meminta kunci produk](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+Gunakan akun Microsoft Anda, bukan kunci produk, untuk menginstal dan mengaktifkan Office dan aplikasi Microsoft 365 yang dibeli secara individual, seperti Project, Visio, Word, Excel, dan Outlook. Untuk informasi selengkapnya, [Office anda meminta kunci produk](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- Jika pembelian Office Anda telah disertakan dengan kunci produk, lihat [Tempat memasukkan kunci produk Office.](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
+- If your purchase of Office came with a product key, see [Where to enter your Office product key](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Untuk bantuan dengan kunci produk Office 365 Home atau Personal, lihat [Menggunakan kunci produk dengan Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
+- Untuk bantuan tentang kunci Office 365 produk Home atau Personal, lihat [Menggunakan kunci produk dengan Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
-**Mengaktifkan langganan Office** 
+**Mengaktifkan Office Langganan** 
 
-- Jika Anda membeli langganan Microsoft 365 dari toko ritel, lihat Memasukkan kunci produk Anda untuk [Aplikasi Microsoft 365 untuk bisnis.](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
+- Jika membeli langganan Microsoft 365 dari toko ritel, lihat [Memasukkan kunci produk Anda untuk Aplikasi Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- Jika ada pesan kesalahan saat mencoba untuk menukarkan kunci produk, lihat Masalah dengan kunci produk [Microsoft 365 untuk bisnis Anda?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- If there's an error message when you try to redeem a product key, see [Problems with your Microsoft 365 for business product key?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

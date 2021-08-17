@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b6fbaf3f2ab30888d7a8f9d6f5aeccb65b5cfd0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918898"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312828"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Header Alkimia yang Diperlukan H1, H2 tidak berfungsi."
 Praktik Terbaik dan panduan untuk penulisan Alkimia:
@@ -27,8 +27,8 @@ Praktik Terbaik dan panduan untuk penulisan Alkimia:
     1. Sertakan ID Aturan atau ID wadah dari [portal Mitra Alkimia](https://alchemyportal.azurewebsites.net) dalam bidang ms.custom. misalnya ***ms.custom: 100021***
 1. Gunakan metadata lainnya di bagian atas file ini sebagai templat Anda.
 1. Di [portal Mitra Alkimia,](https://alchemyportal.azurewebsites.net)navigasikan ke bagian Judul **Wawasan Pelanggan:** dan gunakan sebagai titik awal untuk judul H1 Anda untuk wawasan. 
-    > [!NOTE]
-    > Alkimia Insights HARUS memiliki hanya satu H1 di bagian atas atau H1 yang akan terhingka dalam proses produksi. H2 tidak merender baik jadi gunakan huruf **tebal** atau konvensi lainnya untuk menandakan bagian yang terpisah.
+
+**Catatan**: Alkimia Insights HARUS memiliki hanya satu H1 di bagian atas atau H1 yang akan terhingka dalam proses produksi. H2 tidak merender baik jadi gunakan huruf **tebal** atau konvensi lainnya untuk menandakan bagian yang terpisah.
 1. Berikutnya, isi teks isi menggunakan materi draf di Customer Insights bagian halaman Aturan Alkimia
     1. Daftar berpoin tidak masalah
     1. Daftar bernomor juga
