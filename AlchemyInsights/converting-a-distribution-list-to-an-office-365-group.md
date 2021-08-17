@@ -1,5 +1,5 @@
 ---
-title: 712 Mengonversi daftar distribusi menjadi grup Microsoft 365
+title: 712 Mengonversi daftar distribusi menjadi Microsoft 365 grup
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: bf67bb6cde723ceb878488a0bfbe08315a945949
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
+ms.openlocfilehash: 3193dfa1223f91533e17f31f6db4061d09266a6f2e4f1b46fffc40f8fb50fda1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51897316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081145"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Mengonversi grup distribusi menjadi Grup Microsoft 365
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Mengonversi grup distribusi menjadi Microsoft 365 Grup
 
-Anda dapat mengonversi grup distribusi ke Grup Microsoft 365 jika mereka memenuhi kriteria tertentu. Untuk mengonversi grup atau memecahkan masalah konversi, lihat [Memutakhirkan daftar distribusi ke Grup Microsoft 365 di Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+Anda dapat mengonversi grup distribusi ke Microsoft 365 Lain jika mereka memenuhi kriteria tertentu. Untuk mengonversi grup atau memecahkan masalah konversi, lihat [Memutakhirkan daftar distribusi Microsoft 365 Grup di Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
 
-Kami juga memiliki skrip yang dapat Anda jalankan untuk membantu Anda memenuhi syarat Validasi Grup Distribusi [untuk pemutakhiran ke Grup Microsoft 365.](https://aka.ms/DLToM365Group)
+Kami juga memiliki skrip yang dapat Anda jalankan untuk membantu Anda memenuhi syarat Validasi [Grup Distribusi untuk pemutakhiran ke Microsoft 365 Grup](https://aka.ms/DLToM365Group).

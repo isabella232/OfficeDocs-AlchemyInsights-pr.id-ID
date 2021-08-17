@@ -1,5 +1,5 @@
 ---
-title: Penyetelan DKIM
+title: DKIM Penyiapan
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,43 +10,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808710"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108559"
 ---
-# <a name="setup-dkim"></a>Penyetelan DKIM
+# <a name="setup-dkim"></a>DKIM Penyiapan
 
-Instruksi lengkap untuk mengonfigurasi DKIM untuk domain kustom di Microsoft 365 ada [di sini](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+Instruksi lengkap untuk mengonfigurasi DKIM untuk domain kustom dalam Microsoft 365 ada [di sini.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim)
 
-1. Untuk **setiap** domain kustom, Anda perlu membuat **dua** catatan CNAME DKIM di layanan hosting DNS domain Anda (biasanya, pencatat domain). Misalnya, contoso.com dan fourthcoffee.com memerlukan empat catatan CNAME DKIM: dua untuk contoso.com dan dua untuk fourthcoffee.com.
+1. Untuk **setiap** domain kustom, Anda perlu membuat **dua** catatan DKIM CNAME di layanan hosting DNS domain (biasanya, pendaftar domain). Misalnya, untuk contoso.com dan fourthcoffee.com memerlukan empat data CNAME DKIM: dua untuk contoso.com dan dua untuk fourthcoffee.com.
 
-   Catatan CNAME DKIM untuk **setiap** domain kustom menggunakan format berikut:
+   Catatan DKIM CNAME untuk **setiap** domain kustom menggunakan format berikut:
 
    - **Nama host**: `selector1._domainkey.<CustomDomain>`
 
-     **Mengarahkan ke alamat atau nilai**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Alamat atau nilai yang ditujukan:**`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
    - **Nama host**: `selector2._domainkey.<CustomDomain>`
 
-     **Mengarahkan ke alamat atau nilai**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Alamat atau nilai yang ditujukan:**`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> adalah teks di sebelah kiri `.mail.protection.outlook.com` catatan MX yang dikustomisasi untuk domain kustom (misalnya, `contoso-com` untuk domain contoso.com). \<InitialDomain\> adalah domain yang Anda gunakan saat mendaftar untuk Microsoft 365 (misalnya, contoso.onmicrosoft.com).
+   \<DomainGUID\> adalah teks di sebelah kiri dalam catatan MX yang dikustomisasi untuk domain kustom `.mail.protection.outlook.com` (misalnya, `contoso-com` untuk bidang contoso.com). \<InitialDomain\>adalah domain yang Anda gunakan saat Anda mendaftar untuk Microsoft 365 (misalnya, contoso.onmicrosoft.com).
 
-2. Setelah Anda membuat catatan CNAME untuk domain kustom Anda, selesaikan instruksi berikut:
+2. Setelah membuat catatan CNAME untuk domain kustom Anda, selesaikan instruksi berikut ini:
 
-   untuk. [masuk ke Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) dengan akun kantor atau sekolah Anda.
+   a. [masuk ke Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) dengan akun kerja atau sekolah Anda.
 
-   b. Pilih ikon peluncur aplikasi di kiri atas dan pilih **admin**.
+   b. Pilih ikon peluncur aplikasi di kiri atas dan pilih **Admin**.
 
-   's. Di navigasi kiri bawah, Perluas **admin** dan pilih **Exchange**.
+   c. Di navigasi kiri bawah, perluas **Admin dan** **pilih Exchange**.
 
-   dih. Buka **proteksi**  >  **DKIM**.
+   d. Buka **Proteksi**  >  **DKIM**.
 
-   e. Pilih domain, lalu pilih **Aktifkan** untuk **tanda tangani pesan untuk domain ini dengan tanda tangan DKIM**. Ulangi langkah ini untuk setiap domain kustom.
+   e. Pilih domain, lalu pilih **Aktifkan untuk** Menandatangani pesan untuk domain ini dengan tanda **tangan DKIM**. Ulangi langkah ini untuk setiap domain kustom.

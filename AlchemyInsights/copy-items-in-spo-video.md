@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "7542"
 - "5300013"
-ms.openlocfilehash: c50467983dc399432c37016367cdde19d2391c62
-ms.sourcegitcommit: a4d95e7612c05a1f90cc6c68c64aee769df89c4f
+ms.openlocfilehash: c2acb9732ec9182f4cf9bc3647a8eea1f68bc265356d0a062d9c9e86aedf66a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/05/2020
-ms.locfileid: "49583640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080857"
 ---
 # <a name="copy-files-to-sharepoint"></a>Menyalin file ke SharePoint
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FOeS?autoplay=false]
 
-Anda dapat menyalin file dari browser web ke lokasi yang berbeda di SharePoint.
+Anda dapat menyalin file dari browser web ke lokasi lain di SharePoint.
 
-Untuk informasi selengkapnya, lihat [memindahkan atau menyalin](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
+Untuk informasi selengkapnya, lihat [Memindahkan atau Menyalin](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)

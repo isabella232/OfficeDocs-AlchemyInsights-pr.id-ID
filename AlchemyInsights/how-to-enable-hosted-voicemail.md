@@ -1,5 +1,5 @@
 ---
-title: Cara mengaktifkan pesan suara yang dihosting
+title: Cara mengaktifkan Pesan Suara yang Dihosting
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055557"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Cara mengaktifkan pesan suara yang dihosting
+# <a name="how-to-enable-hosted-voicemail"></a>Cara mengaktifkan Pesan Suara yang Dihosting
 
-Untuk mengaktifkan pesan suara, **Hostedvoicemail** harus diatur ke $True.
+Untuk mengaktifkan Pesan Suara, **HostedVoicemail** harus diatur ke $true.
 
-Properti **Hostedvoicemail** pada pengguna menggunakan PowerShell jarak jauh (RPS).
+Properti **HostedVoicemail** pada pengguna menggunakan Remote PowerShell (RPS).
 
-Untuk informasi selengkapnya tentang menyambungkan ke RPS, lihat [gambaran umum Microsoft teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) untuk informasi selengkapnya tentang menyambungkan ke RPS.
+Untuk informasi selengkapnya tentang menyambungkan ke RPS, lihat Microsoft Teams Gambaran Umum [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) untuk informasi selengkapnya tentang menyambungkan ke RPS.
 
-1. Admin teams harus masuk ke PowerShell jarak jauh untuk teams.
-1. Dari wantian perintah, admin teams dapat menjalankan **set-csuser user@contoso.com-HostedVoiceMail $True** tempat SIP URI berasal dari pengguna yang bersangkutan.
+1. Admin Teams harus masuk ke PowerShell Jarak Jauh untuk Teams.
+1. Dari perintah PowerShell, Admin Teams dapat menjalankan **user@contoso.com set-csuser -HostedVoiceMail $true** tempat sip uri adalah pengguna yang dimaksud.
 
 > [!NOTE]
-> Perubahan pada kebijakan dapat memakan waktu hingga 24 jam untuk meniru.
+> Perubahan pada kebijakan bisa memakan waktu hingga 24 jam untuk direplikasi.
