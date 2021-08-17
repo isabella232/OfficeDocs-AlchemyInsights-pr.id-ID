@@ -13,16 +13,16 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014903"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887503"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Mengidentifikasi alamat IP dan klien dalam log audit
 
-Alamat IP yang berkaitan dengan aktivitas oleh Microsoft 365 atau administrator diperlihatkan dalam Log Audit. Informasi klien juga dicatat. Berikut langkah-langkah untuk mengidentifikasi informasi tersebut
+Alamat IP yang terkait dengan aktivitas oleh pengguna Microsoft 365 administrator diperlihatkan dalam Log Audit. Informasi klien juga dicatat. Berikut langkah-langkah untuk mengidentifikasi informasi tersebut
 
 1. Masuk ke pusat [Microsoft 365 Kepatuhan Anda.](https://protection.office.com/)
 
@@ -36,4 +36,4 @@ Alamat IP yang berkaitan dengan aktivitas oleh Microsoft 365 atau administrator 
 
 Dalam hasil, Anda dapat melihat alamat IP untuk aktivitas tersebut di panel hasil. Pilih catatan audit untuk melihat informasi mendetail dalam **flyout** Detail (misalnya, Klien, Pengguna yang melakukan tindakan, dll.).
 
-Untuk informasi selengkapnya, [lihat Menemukan alamat IP komputer yang digunakan untuk mengakses akun dibobol.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)
+Untuk informasi selengkapnya, [lihat Menemukan alamat IP komputer yang digunakan untuk mengakses akun dibobol.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)

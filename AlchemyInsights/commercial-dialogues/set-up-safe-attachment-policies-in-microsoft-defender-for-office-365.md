@@ -1,5 +1,5 @@
 ---
-title: Menyetel Brankas Lampiran di Pertahanan Microsoft untuk Office 365
+title: Menyiapkan kebijakan Brankas Lampiran di Pertahanan Microsoft untuk Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058545"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888373"
 ---
-# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Menyetel Brankas Lampiran di Pertahanan Microsoft untuk Office 365
+# <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>Menyiapkan kebijakan Brankas Lampiran di Pertahanan Microsoft untuk Office 365
 
-1. Masuk ke pusat [Office 365 Keamanan & dan](https://go.microsoft.com/fwlink/p/?linkid=2077143) pilih **Kebijakan Manajemen**  >  **Ancaman** Brankas  >  **Lampiran**.
-2. Untuk mengaktifkan fitur ini bagi beban kerja lainnya, pilih Aktifkan Pertahanan Microsoft untuk **Office 365 untuk SharePoint Online, OneDrive, dan Microsoft Teams**.
-3. Untuk membuat kebijakan baru, pilih **ikon Baru** ( **+** ).
-4. Tentukan nama, deskripsi, dan pengaturan untuk kebijakan tersebut.
-5. Pilih **Simpan**.
+1. Dalam portal Pertahanan Microsoft 365 di , masuk ke Email & Kebijakan <https://security.microsoft.com/>  \> **Kolaborasi & aturan** kebijakan ancaman Brankas \>  \> **Lampiran** di **bagian** Kebijakan.
+
+   Untuk langsung masuk ke **Brankas Lampiran,** gunakan <https://security.microsoft.com/safeattachmentv2> .
+
+2. Pada halaman **Brankas Lampiran,** lakukan salah satu langkah berikut ini:
+   - Untuk menambahkan kebijakan baru, pilih **+ Buat**. Panduan akan diluncurkan untuk membantu Anda menetapkan pengaturan kebijakan.
+   - Untuk mengedit kebijakan yang sudah ada, pilih kebijakan dengan mengklik nama kebijakan tersebut. Dalam flyout detail yang muncul, pilih **Edit** di bagian yang berisi pengaturan yang ingin Anda konfigurasikan.
+   - Untuk mengaktifkan atau menonaktifkan Brankas Lampiran untuk SharePoint, OneDrive, dan Microsoft Teams, klik Pengaturan **global**, aktifkan atau nonaktifkan pengaturan, lalu klik **Simpan.**
+
+3. Setelah Anda meninjau pengaturan, pilih Kirim **(baru)** atau **Simpan** (edit).
+
+Untuk informasi selengkapnya, lihat artikel berikut ini:
+
+- [Menyiapkan Brankas Lampiran di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [Mengaktifkan Brankas Lampiran untuk SharePoint, OneDrive, dan Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

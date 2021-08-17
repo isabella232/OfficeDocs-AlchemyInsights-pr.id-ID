@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988111"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888409"
 ---
 # <a name="fix-connection-policy"></a>Perbaiki kebijakan koneksi
 
-Email ditandai aman dan dikirimkan ke kotak masuk pengguna karena alamat IP pengirim ditandai aman dalam kebijakan Filter Koneksi. Untuk meninjau kebijakan, lakukan hal berikut:
+Email ditandai aman dan dikirimkan ke Kotak Masuk pengguna karena alamat IP sumber ditandai sebagai aman dalam kebijakan filter koneksi default. Untuk meninjau kebijakan, lakukan langkah-langkah berikut ini:
 
-1. Masuk ke [Office 365 Security & Compliance Center,](https://go.microsoft.com/fwlink/p/?linkid=2077143)lalu masuk ke Threat **management**  >  **Policy**  >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pada tab **Kustom,** pilih **Kebijakan filter koneksi**, lalu pilih Edit **kebijakan**.
-3. Meninjau daftar **IP yang** Diizinkan. Lihat apakah **Brankas ini** diaktifkan.
+1. Dalam portal Pertahanan Microsoft 365 di , masuk ke Email & Kebijakan Kolaborasi <https://security.microsoft.com/>  \> **& aturan** kebijakan \>  \> **Ancaman Anti spam** di **bagian** Kebijakan.
 
-    > [!NOTE]
-    > Microsoft berlangganan ke sumber pihak ketiga dari pengirim tepercaya. Jika **Brankas** ini diaktifkan, pengirim tepercaya ini tidak akan ditandai sebagai spam. Saya merekomendasikan untuk memilih opsi ini, karena akan mengurangi jumlah positif palsu (email baik yang diklasifikasikan sebagai spam) yang Anda terima.
+   Untuk langsung masuk ke **halaman Kebijakan anti spam,** gunakan <https://security.microsoft.com/antispam> .
+
+2. Di **halaman Kebijakan anti spam,** pilih kebijakan bernama **Kebijakan filter koneksi (Default)** dengan mengklik nama kebijakan.
+
+3. Di flyout detail yang muncul, klik **Edit kebijakan filter koneksi** di bagian **Pemfilteran** koneksi.
+
+4. Tinjau entri di **bagian Selalu perbolehkan pesan** dari alamat IP atau rentang alamat berikut ini, dan lihat apakah Aktifkan daftar **aman** dipilih.
+
+   > [!NOTE]
+   > Microsoft berlangganan ke sumber pihak ketiga dari pengirim tepercaya. Jika daftar aman diaktifkan, pengirim tepercaya ini tidak ditandai sebagai spam secara tidak sengaja. Kami merekomendasikan untuk memilih opsi ini, karena akan mengurangi jumlah positif palsu (email baik yang diklasifikasikan sebagai spam) yang Anda terima.
+
+Untuk informasi selengkapnya, lihat [Mengonfigurasi pemfilteran koneksi](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).
