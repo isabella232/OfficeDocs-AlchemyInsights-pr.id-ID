@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502863"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314531"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Pembaruan Microsoft 365 prabayar
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502863"
 3. Di halaman detail langganan, di bagian **Pengaturan langganan dan pembayaran,** pilih **Perpanjang tanggal akhir.**
 4. Di halaman **perpanjang atau tambahkan lisensi** pengguna, pilih Gunakan kunci produk yang baru **dan belum digunakan**, lalu pilih **Berikutnya**.
 5. Masukkan kunci produk, lalu pilih **Berikutnya**.
-    > [!NOTE]
-    > Jika memiliki lebih dari satu kunci produk, Anda dapat memilih **Tambahkan kunci produk lain untuk** memasukkannya.
+    **Catatan**: Jika Anda memiliki lebih dari satu kunci produk, Anda dapat memilih **Tambahkan kunci produk lain** untuk memasukkannya.
 6. Tinjau detail pesanan Anda, lalu pilih **Tukarkan**.
 
-Untuk mempelajari selengkapnya, [lihat Menambahkan lisensi ke atau memperpanjang langganan yang dibayarkan untuk menggunakan kunci produk](/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+Untuk mempelajari selengkapnya, [lihat Menambahkan lisensi untuk atau memperpanjang langganan yang dibayarkan untuk menggunakan kunci produk](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

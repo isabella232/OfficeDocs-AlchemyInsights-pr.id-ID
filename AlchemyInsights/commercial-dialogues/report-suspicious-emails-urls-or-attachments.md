@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745531"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895122"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Melaporkan email, URL, atau lampiran yang mencurigakan
 
-Saya mengerti Anda memerlukan bantuan menyelidiki email mencurigakan atau email yang difilter. Saya dapat membantu Anda mengirimkan masalah untuk analisis menggunakan penjelajah pengiriman, yang akan memberi umpan balik langsung. Berikut ini adalah ringkasan langkah-langkahnya:
+Saya mengerti Bahwa Anda memerlukan bantuan untuk menyelidiki email mencurigakan atau email yang salah difilter. Saya dapat membantu Anda mengirimkan masalah untuk analisis menggunakan portal **Pengiriman,** yang akan memberi Anda umpan balik segera. Berikut ini adalah ringkasan dari langkah-langkah tersebut:
 
-1. Masuk ke [pusat kepatuhan & keamanan Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), lalu masuk ke pengiriman **manajemen ancaman**  >  [](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Pilih **+ pengiriman baru**. Flyout akan muncul dengan opsi untuk mengirimkan email, URL, atau file.
-    > [!NOTE]
-    > Beri tahu pengguna Anda bahwa mereka harus melaporkan setiap pesan mencurigakan di kotak masuk mereka ke Microsoft menggunakan [Add-in pesan laporan](https://go.microsoft.com/fwlink/?linkid=2092385).
+1. In the Pertahanan Microsoft 365 portal at <https://security.microsoft.com> , go to Email & **collaboration** \> **Submissions**.
+
+   Untuk langsung masuk ke **halaman Kiriman,** gunakan <https://security.microsoft.com/reportsubmission> .
+
+2. Pada halaman **Pengiriman,** verifikasi tab **Dikirimkan untuk analisis** dipilih, lalu klik + Kirim ke Microsoft untuk **analisis**.
+
+3. Flyout akan muncul dengan opsi untuk mengirimkan email, URL, atau file.
+
+Untuk informasi selengkapnya, lihat Menggunakan Kiriman Admin untuk mengirimkan spam, URL, dan file yang dicurigai [sebagai spam, phishing, dan file ke Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+> [!NOTE]
+> Beri tahu pengguna Anda bahwa mereka harus melaporkan pesan yang mencurigakan dalam Kotak Masuk mereka menggunakan add-in Pesan Laporan atau [add-in Laporkan Pengelabuan](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

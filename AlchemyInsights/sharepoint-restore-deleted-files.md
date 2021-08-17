@@ -1,5 +1,5 @@
 ---
-title: Memulihkan file atau folder yang dihapus
+title: Memulihkan folder atau file yang dihapus
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,32 +11,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 8c7ce48f50b5c933ea15c23a486b99ad7a7f4d79
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7935d6f74113e6da843f5f7df65bcb540b3d7a23b69f388b721fd778f4ff7a0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085123"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a>Memulihkan file atau folder yang dihapus
+# <a name="restore-a-deleted-file-or-folder"></a>Memulihkan folder atau file yang dihapus
 
-SharePoint Online mempertahankan pencadangan semua konten selama 14 hari tambahan di luar penghapusan aktual. Jika konten tidak bisa dipulihkan melalui keranjang sampah atau Pulihkan file, administrator bisa menghubungi dukungan Microsoft untuk meminta pemulihan waktu dalam jendela 14 hari. Pemulihan dari pencadangan hanya bisa diselesaikan untuk kumpulan situs atau subsitus, bukan untuk file, daftar, atau pustaka tertentu.
+SharePoint Online mempertahankan pencadangan semua konten selama 14 hari tambahan di luar penghapusan aktual. Jika konten tidak dapat dipulihkan melalui Keranjang Sampah atau Pemulihan File, administrator dapat menghubungi Dukungan Microsoft untuk meminta pemulihan kapan saja dalam jendela 14 hari. Pemulihan dari pencadangan hanya bisa diselesaikan untuk kumpulan situs atau subsitus, bukan untuk file, daftar, atau pustaka tertentu.
 
-Saat Anda menghapus item atau situs dari SharePoint, item tidak segera dihapus. Item yang terhapus masuk ke keranjang sampah untuk periode waktu tertentu. Pada saat itu, Anda dapat memulihkan item yang dihapus ke lokasi aslinya. Untuk informasi selengkapnya, kunjungi tautan di bawah ini.
+Saat Anda menghapus item atau situs dari Sharepoint, item tersebut tidak langsung dihapus. Item yang terhapus masuk ke keranjang sampah untuk periode waktu tertentu. Pada saat itu, Anda dapat memulihkan item yang dihapus ke lokasi aslinya. Untuk informasi selengkapnya, kunjungi tautan di bawah ini.
 
-[Pulihkan item di keranjang sampah situs SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
+[Memulihkan item di Keranjang Sampah situs SharePoint Anda.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 [Memulihkan file atau folder yang dihapus di OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-[Memulihkan kumpulan situs yang dihapus (termasuk grup, komunikasi, dan situs lain)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Memulihkan kumpulan situs yang dihapus (Termasuk grup, komunikasi, dan situs lain)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 [Memulihkan situs OneDrive yang dihapus](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Untuk tindakan keranjang sampah massal, admin dapat mempertimbangkan penggunaan [SharePoint online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
+For bulk recycle bin actions, admins may consider using [Sharepoint Online PNP](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps).
 
 **Fitur Pemulihan File**
 
-Jika banyak file OneDrive atau SharePoint terhapus, ditimpa, rusak, atau terinfeksi oleh malware, Anda bisa memulihkan seluruh pustaka OneDrive atau SharePoint ke waktu sebelumnya menggunakan fitur Pulihkan file.
+Jika ada banyak file OneDrive atau SharePoint Anda terhapus, ditimpa, rusak, atau terinfeksi oleh malware, Anda dapat memulihkan seluruh pustaka OneDrive atau SharePoint ke versi sebelumnya menggunakan fitur pemulihan file.
 
 [Memulihkan pustaka OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

@@ -1,5 +1,5 @@
 ---
-title: Tingkat izin SharePoint online
+title: SharePoint Tingkat izin online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3657a3f01b362fbe8877c342ec59f10b9a1b63ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13f71d0eac4a1895061b75968437fe32e4f5f9109ab9c9f0edfe371d7d0c995c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085159"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Tingkat izin SharePoint online
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Tingkat izin online
 
-SharePoint dilengkapi dengan beberapa tingkatan izin default yang bisa Anda gunakan, seperti kontribusi dan tampilan saja. Jika mereka tidak memenuhi kebutuhan Anda, Anda bisa membuat tingkat izin tambahan. Paling mudah untuk melacak izin jika Anda tidak mengedit atau menghapus tingkat default, dan jika Anda menambahkan orang ke grup dan menetapkan tingkat izin ke grup tersebut dan bukan menetapkan tingkat izin kepada pengguna individual.
+SharePoint dilengkapi dengan beberapa tingkatan izin default yang dapat digunakan, seperti Kontribusi dan Hanya Tampilkan. Jika tidak sesuai dengan kebutuhan, Anda dapat membuat tingkat izin tambahan. Akan lebih mudah untuk melacak izin jika tingkatan default tidak diedit atau dihapus, atau dengan menambahkan orang ke grup lalu menetapkan tingkatan izin ke grup tersebut daripada menetapkan tingkatan izin ke setiap pengguna.
   
 - [Memahami tingkat izin](https://go.microsoft.com/fwlink/?linkid=867071)
     

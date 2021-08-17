@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895086"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Menyiapkan kebijakan anti-phishing di Pertahanan Microsoft untuk Office 365
 
-1. Pada portal Pertahanan Microsoft 365 di , buka Email & Kebijakan Kolaborasi & kebijakan Ancaman Aturan <https://security.microsoft.com/>  \>  \>  \> **Anti-phishing** di **bagian** Kebijakan.
+1. Pada portal Pertahanan Microsoft 365 di , buka Email & Kebijakan Kolaborasi & kebijakan Ancaman Aturan <https://security.microsoft.com/>  \>  \>  \> **anti-phishing** di **bagian** Kebijakan.
 
    Untuk langsung masuk ke halaman **Anti-phishing,** gunakan <https://security.microsoft.com/antiphishing> .
 

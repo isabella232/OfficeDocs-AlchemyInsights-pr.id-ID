@@ -1,5 +1,5 @@
 ---
-title: Mengosongkan folder Item terhapus di Outlook.com
+title: Kosongkan folder Item Terhapus di Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111799"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Mengosongkan folder Item terhapus
+# <a name="empty-the-deleted-items-folder"></a>Mengosongkan folder Item Terhapus
 
-1. Buka folder Item terhapus Anda dan pilih **Kosongkan folder**.
-2. Pilih **item** yang dapat dipulihkan di bagian atas halaman dan pilih **Kosongkan folder** lagi.
+1. Buka folder Item Terhapus Anda dan pilih **Kosongkan folder**.
+2. Pilih **Item yang dapat** dipulihkan di bagian atas halaman, lalu pilih **Kosongkan folder** lagi.
 
-**Tidak dapat mengosongkan folder Item terhapus**
+**Tidak bisa mengosongkan folder Item Terhapus**
 
-- Jika Anda telah menghapus banyak email, mungkin perlu beberapa waktu untuk berpindah ke atau dihapus dari folder Item terhapus. Biarkan jendela browser terbuka saat penghapusan dilakukan.
+- Jika Anda telah menghapus banyak email, mungkin perlu beberapa waktu hingga item tersebut dipindahkan atau dihapus dari folder Item Dihapus. Biarkan jendela browser terbuka saat penghapusan dilakukan.
 - Jika email masih gagal dihapus dengan benar, pilih kumpulan yang lebih kecil untuk dihapus.
-- Jika email yang dihapus kembali, mungkin karena Anda telah menghapus banyak email baru-baru ini. Coba lagi nanti.
+- Jika email yang dihapus muncul kembali, hal itu mungkin karena Anda telah menghapus banyak email baru-baru ini. Silakan coba lagi nanti.

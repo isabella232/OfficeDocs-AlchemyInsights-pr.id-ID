@@ -15,16 +15,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893058"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314919"
 ---
 # <a name="billing-and-payment"></a>Tagihan dan pembayaran
 
-Tagihan Anda dapat ditemukan di **tab Tagihan**  >  [& pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
+Tagihan Anda dapat ditemukan di **tab**  >  [Tagihan & pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
 
 **Menerima faktur melalui email**
 
@@ -46,8 +46,7 @@ Jika telah menambahkan kartu baru dan masih menerima pemberitahuan penolakan pad
 
 4. Untuk memilih metode pembayaran yang sudah ada, pilih salah satu dari daftar menurun, lalu pilih **Ganti**.
 
-    > [!NOTE]
-    > Jika memiliki langganan yang dikaitkan dengan profil tagihan, Anda hanya bisa menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
+    **Catatan**: Jika memiliki langganan yang terkait dengan profil tagihan, Anda hanya dapat menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
 
 5. Untuk menambahkan metode pembayaran baru, pilih **Tambahkan metode pembayaran**.
 
