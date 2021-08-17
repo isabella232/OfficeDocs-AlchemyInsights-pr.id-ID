@@ -1,5 +1,5 @@
 ---
-title: Menampilkan laporan tentang aktivitas dan penggunaan OneDrive
+title: Menampilkan laporan tentang OneDrive dan penggunaan saya
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037323"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Menampilkan laporan tentang aktivitas dan penggunaan OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Menampilkan laporan tentang OneDrive dan penggunaan saya
 
-Masuk ke [halaman laporan penggunaan di pusat admin Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Di bawah **pilih laporan**, pilih aktivitas atau laporan penggunaan OneDrive.
+Masuk ke [halaman Laporan penggunaan di pusat admin Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). Di **bawah Pilih laporan**, pilih OneDrive atau laporan penggunaan Anda.
 
-Untuk informasi selengkapnya, lihat [tentang laporan OneDrive](https://go.microsoft.com/fwlink/?linkid=875239).
+Untuk informasi selengkapnya, lihat [Tentang OneDrive laporan](https://go.microsoft.com/fwlink/?linkid=875239).

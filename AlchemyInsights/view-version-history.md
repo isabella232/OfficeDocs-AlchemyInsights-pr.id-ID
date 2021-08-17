@@ -1,5 +1,5 @@
 ---
-title: Tampilkan Riwayat Versi
+title: Menampilkan riwayat versi
 ms.author: toresing
 author: tomresing
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: cd955ccbc393d7052b42cb75fb0158dc46957a72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a50b491ee0601b6d48b0986ce8c51081549ad80516b2fc9d52f1bf6e7c025cf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037143"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Menampilkan Riwayat Versi file atau item daftar
+# <a name="view-version-history-of-a-file-or-list-item"></a>Menampilkan riwayat versi file atau item daftar
 
-1. Buka situs SharePoint dan buka daftar atau pustaka dari bilah luncur cepat. Jika nama daftar atau pustaka tidak muncul, klik konten **situs** atau **Tampilkan semua konten situs**, lalu klik nama tersebut.
+1. Masuk ke SharePoint tersebut dan buka daftar atau pustaka dari bilah Buka Cepat. Jika nama daftar atau pustaka tidak muncul, klik Konten situs **atau** Tampilkan Semua **Konten Situs,** lalu klik nama tersebut.
     
-2. Klik kanan spasi di antara item atau nama dan tanggal dokumen, lalu klik **Riwayat Versi** dari menu. Anda mungkin perlu menggulir menu untuk melihat **Riwayat Versi**. Jika Anda tidak melihatnya, klik elipsis (...) dalam kotak dialog, lalu klik **Riwayat Versi**.
+2. Klik kanan spasi di antara item atau nama dokumen dan tanggal, lalu klik **Riwayat Versi** dari menu. Anda mungkin perlu menggulir menu untuk melihat **Riwayat Versi.** Jika Anda tidak melihatnya, klik elipsis (...) dalam kotak dialog, lalu klik Riwayat **Versi.**
     
-3. Dalam kotak dialog Riwayat Versi, arahkan ke versi yang ingin Anda Tampilkan dan klik panah bawah di sisi kanan untuk mendapatkan daftar opsi. Klik **tampilan**.
+3. Dalam kotak dialog Riwayat Versi, arahkan ke versi yang ingin Anda tampilkan dan klik panah bawah di sisi kanan untuk mendapatkan daftar opsi. Klik **Tampilan.**
     
-[Pelajari selengkapnya tentang Riwayat Versi](https://go.microsoft.com/fwlink/?linkid=875709)
+[Pelajari selengkapnya tentang riwayat versi](https://go.microsoft.com/fwlink/?linkid=875709)
   
 
