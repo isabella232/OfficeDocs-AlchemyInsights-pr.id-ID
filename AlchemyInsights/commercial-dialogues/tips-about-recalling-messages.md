@@ -1,5 +1,5 @@
 ---
-title: Tips tentang mengingat pesan
+title: Tips tentang menarik kembali pesan
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081469"
 ---
-# <a name="tips-about-recalling-messages"></a>Tips tentang mengingat pesan
+# <a name="tips-about-recalling-messages"></a>Tips tentang menarik kembali pesan
 
-Berikut ini saat Anda dapat dan tidak dapat mengingat pesan:
+Berikut ini adalah saat Anda bisa dan tidak bisa memanggil kembali pesan:
 
-* Sebagai admin, Anda dapat memanggil kembali pesan atas nama pengguna menggunakan PowerShell. Anda tidak bisa mengingat pesan dari Pusat admin.
-* Anda hanya bisa mengingat pesan yang dikirim ke orang di dalam organisasi Anda. Jika pesan dikirim ke alamat Gmail, misalnya, Anda tidak bisa mengingatnya.
-* **Anda hanya dapat mengingat pesan yang dikirim dari Outlook 2016 untuk PC**. Jika pengguna mengirim pesan menggunakan Outlook untuk Mac atau Outlook di web, Anda tidak bisa mengingatnya.
+* Sebagai admin, Anda dapat memanggil kembali pesan atas nama pengguna menggunakan PowerShell. Anda tidak dapat memanggil kembali pesan dari pusat admin.
+* Anda hanya dapat memanggil kembali pesan yang dikirim ke orang-orang dalam organisasi. Jika pesan dikirim ke alamat Gmail, misalnya, Anda tidak bisa memanggil kembali pesan itu.
+* **Anda hanya dapat memanggil kembali pesan yang dikirim Outlook 2016 untuk PC.** Jika pengguna mengirim pesan menggunakan Outlook untuk Mac atau Outlook di web, Anda tidak bisa memanggil kembali pesan itu.

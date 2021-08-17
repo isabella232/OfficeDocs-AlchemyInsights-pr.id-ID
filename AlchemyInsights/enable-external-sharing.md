@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan berbagi eksternal
+title: Aktifkan berbagi eksternal
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,35 +9,35 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 246a99f4c8a88e226b7cfbbaa9a68c02081b4088
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 197de1f073e4e8c054dce32f0acfbe0064d61ca606b759d4ff45e0bc8a4b5cab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057249"
 ---
-# <a name="enable-external-sharing"></a>Mengaktifkan berbagi eksternal
+# <a name="enable-external-sharing"></a>Aktifkan berbagi eksternal
 
- Untuk memastikan bahwa berbagi diaktifkan untuk SharePoint Online:
+ Untuk memastikan bahwa berbagi diaktifkan untuk pengguna SharePoint Online:
   
-- **Berbagi global**
+- **Berbagi Global**
     
-  - Portal- \> \> gambaran umum berbagi berbagi-situs, biarkan orang eksternal mengakses situs Anda: di
+  - Portal - \> Berbagi Eksternal - Gambaran Umum Berbagi - \> Situs, Memungkinkan orang eksternal mengakses situs Anda: AKTIF
     
-  - Portal- \> situs berbagi-eksternal \> -kotak centang "Izinkan orang eksternal mengakses situs Anda"
+  - Portal - \> Berbagi Eksternal - Situs - Kotak centang \> "Izinkan orang eksternal mengakses situs Anda"
     
-- **Berbagi administratif-Pusat admin SharePoint**
+- **Berbagi Administratif - Pusat Admin SharePoint**
     
-    Berbagi eksternal-pastikan salah satu dari dua opsi dipilih:
+    Berbagi Eksternal - pastikan salah satu dari dua opsi tersebut dipilih:
     
-  - "Izinkan pengguna eksternal yang menerima undangan berbagi dan masuk sebagai pengguna yang diautentikasi"
+  - "Perbolehkan pengguna eksternal menerima undangan berbagi dan masuk sebagai pengguna yang diautentikasi"
     
-  - "Izinkan pengguna eksternal yang menerima undangan berbagi dan link tamu anonim"
+  - "Perbolehkan pengguna eksternal yang menerima undangan berbagi dan link tamu anonim"
     
-- **Kumpulan situs individual**
+- **Kumpulan Situs Individual**
     
-  - Kumpulan situs-pilih kumpulan situs dalam pertanyaan, lalu klik berbagi-dari pita- \> pastikan opsi berbagi dipilih.
+  - Kumpulan Situs - Pilih kumpulan situs terkait, lalu klik Berbagi - dari pita - \> pastikan bahwa salah satu opsi berbagi telah dipilih.
     
-Untuk informasi tambahan tentang cara mengaktifkan berbagi eksternal, lihat [mengaktifkan atau menonaktifkan berbagi eksternal untuk SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Untuk informasi tambahan tentang cara mengaktifkan berbagi eksternal, lihat [Mengaktifkan atau menonaktifkan berbagi eksternal untuk SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 
