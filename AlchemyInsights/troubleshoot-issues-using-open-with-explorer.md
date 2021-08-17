@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah menggunakan buka dengan Explorer
+title: Memecahkan masalah penggunaan Buka dengan Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048159"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Memperbaiki masalah saat membuka dengan Explorer
+# <a name="fix-problems-with-open-with-explorer"></a>Memperbaiki masalah dengan Buka dengan Explorer
 
-Perbaiki masalah umum dengan membuka pustaka dokumen di SharePoint atau OneDrive menggunakan perintah **buka dengan Explorer** : 
+Perbaiki masalah umum dengan membuka pustaka dokumen di SharePoint atau OneDrive menggunakan **perintah Buka dengan Explorer:** 
   
-- Gunakan Internet Explorer 10 atau Internet Explorer 11. **Buka dengan Explorer** tidak kompatibel dengan Microsoft Edge, Google Chrome, Firefox dan lainnya. **Buka dengan Explorer** dinonaktifkan di semua browser kecuali Internet Explorer. 
+- Gunakan Internet Explorer 10 atau Internet Explorer 11. **Buka dengan Explorer** tidak kompatibel dengan Microsoft Edge, Google Chrome, Firefox, dan lainnya. **Buka dengan Explorer** dinonaktifkan di semua browser kecuali Internet Explorer. 
     
-- **Buka dengan Explorer** tidak tersedia dalam pengalaman modern untuk pustaka SharePoint. Gunakan **tampilan di file Explorer** . Pilih tampilan **opsi tampilan** \> **di file Explorer**. Tampilan di file Explorer tidak kompatibel dengan Microsoft Edge, Google Chrome, Firefox, dan lainnya. **Tampilkan di file Explorer** hanya tersedia di Internet Explorer. 
+- **Buka dengan Explorer** tidak tersedia di pengalaman modern untuk SharePoint pustaka. Gunakan **Tampilan di File Explorer** sebagai gantinya. Pilih **Tampilan opsi** Tampilkan di File \> **Explorer.** Tampilan di File Explorer tidak kompatibel dengan Microsoft Edge, Google Chrome, Firefox, dan lainnya. **Menampilkan di File Explorer** hanya tersedia di Internet Explorer. 
     
-- Pastikan Layanan WebClient berjalan. Dalam kotak pencarian Windows, ketik jalankan, pilih Jalankan aplikasi desktop, ketikkan Services. MSC, lalu tekan Enter. Gulir ke bawah ke layanan WebClient dan pastikan kolom **status** menampilkan "berjalan." Jika tidak, klik ganda Layanan tersebut, klik **mulai**, lalu klik **OK**. (Anda mungkin harus terlebih dahulu mengaktifkan layanan dengan memilih **manual** atau **otomatis** dalam kotak **tipe startup** .) 
+- Pastikan layanan WebClient sedang berjalan. Dalam kotak Windows pencarian, ketikkan jalankan, pilih aplikasi desktop Jalankan, ketik services.msc, lalu tekan Enter. Gulir ke bawah ke layanan WebClient dan pastikan kolom **Status** menampilkan "Berjalan." Jika tidak, klik ganda layanan, klik **Mulai,** lalu klik **OK.** (Anda mungkin perlu mengaktifkan layanan terlebih dahulu dengan memilih **Manual** atau **Otomatis dalam** kotak **Tipe mulai.)** 
     
 > [!NOTE]
-> Membuka pustaka di file Explorer sangat berguna jika Anda perlu menyalin atau memindahkan beberapa file dan folder satu kali, tapi jika Anda ingin bekerja secara teratur di pustaka, kami sarankan menyinkronkannya. Untuk memecahkan masalah yang dibuka di file Explorer, lihat [membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Untuk informasi tentang penyiapan sinkronisasi, lihat [menyinkronkan file SharePoint dengan klien sinkronisasi OneDrive baru](https://go.microsoft.com/fwlink/?linkid=871666).
+> Membuka pustaka di File Explorer akan sangat praktis jika Anda perlu menyalin atau memindahkan beberapa file dan folder sekali, tetapi jika ingin bekerja secara rutin dalam pustaka, sebaiknya sinkronkan pustaka. Untuk memecahkan masalah saat membuka di File Explorer, lihat [Membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Untuk informasi tentang menyiapkan sinkronisasi, lihat [Menyinkronkan SharePoint file dengan klien OneDrive Sync baru.](https://go.microsoft.com/fwlink/?linkid=871666)
   
-Silakan lihat artikel [cara menggunakan perintah "Buka dengan Explorer" untuk memecahkan masalah di SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) untuk informasi selengkapnya. 
+Silakan lihat artikel [Cara menggunakan perintah "Buka dengan Explorer"](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) untuk memecahkan masalah dalam SharePoint Online untuk informasi selengkapnya. 
   
 
