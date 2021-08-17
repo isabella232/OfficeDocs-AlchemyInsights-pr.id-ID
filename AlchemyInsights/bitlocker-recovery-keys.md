@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060067"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Mengakses kunci pemulihan Bitlocker
 
@@ -47,5 +47,5 @@ Jika perangkat dienkripsi sebelum masuk ke Intune, kunci pemulihan mungkin telah
  
 Jika perangkat dienkripsi sebagai akibat dari konfigurasi melalui kebijakan grup berbasis domain, informasi pemulihan dapat disimpan di Direktori Aktif di tempat.
 
-Jika telah mengonfigurasi Kebijakan proteksi titik akhir untuk menyimpan kunci pemulihan di Azure Active Directory, tetapi kunci untuk perangkat tertentu belum diunggah, Anda dapat memicu unggahan dengan memutar kunci pemulihan untuk perangkat tersebut dari konsol MEM. Untuk detailnya, [lihat Memutar kunci pemulihan BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Jika telah mengonfigurasi Kebijakan proteksi titik akhir untuk menyimpan kunci pemulihan di Azure Active Directory tetapi kunci untuk perangkat tertentu belum diunggah, Anda dapat memicu unggahan dengan memutar kunci pemulihan untuk perangkat tersebut dari konsol MEM. Untuk detailnya, [lihat Memutar kunci pemulihan BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

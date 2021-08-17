@@ -1,5 +1,5 @@
 ---
-title: Kebijakan berbagi kalender 618
+title: 618 Kebijakan Berbagi Kalender
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091606"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Kesalahan kebijakan saat berbagi kalender
 
-1. Lakukan salah satu hal berikut ini, yang sesuai untuk situasi Anda:
-    - Menyambungkan ke Exchange Online menggunakan PowerShell jarak jauh. Untuk informasi selengkapnya, lihat [menyambungkan ke Exchange Online menggunakan PowerShell jarak jauh](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+1. Lakukan salah satu hal berikut, yang sesuai dengan situasi Anda:
+    - Koneksi ke Exchange Online dengan menggunakan Remote PowerShell. Untuk informasi selengkapnya, lihat [Koneksi cara Exchange Online menggunakan Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
     - Di server lokal, buka Exchange Management Shell.
-2. Menentukan kebijakan berbagi yang ditetapkan untuk pengguna. Untuk melakukan ini, jalankan perintah berikut ini dan catat kebijakan yang dikembalikan:
+2. Menentukan kebijakan berbagi yang ditetapkan kepada pengguna. Untuk melakukan ini, jalankan perintah berikut ini dan perhatikan kebijakan yang dikembalikan:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
 3. Memperbarui kebijakan berbagi untuk pengguna. Untuk melakukan ini, ikuti langkah berikut:
-    - Buka Pusat admin Exchange.
-    - Klik **organisasi**, lalu klik dua kali kebijakan yang ditetapkan untuk pengguna di bawah **masing-masing berbagi**. Ini adalah kebijakan yang dikembalikan di langkah 2.
-    - Pada halaman aturan berbagi, pilih tingkat berbagi kalender yang ingin Anda Izinkan di bawah **tentukan informasi apa yang ingin Anda bagikan**; Klik **Simpan**.
+    - Buka Exchange admin baru.
+    - Klik **Organisasi,** lalu klik ganda kebijakan yang ditetapkan kepada pengguna di bawah **Berbagi Individual.** Ini adalah kebijakan yang dikembalikan di langkah 2.
+    - Di halaman Aturan Berbagi, pilih tingkat berbagi kalender yang ingin Anda perbolehkan di **bawah Tentukan informasi apa yang ingin Anda bagikan;** klik **Simpan.**
 
-Untuk informasi selengkapnya, lihat: ["kebijakan tidak memperbolehkan pemberian izin pada tingkat ini ke satu atau beberapa penerima pesan kesalahan" ketika pengguna mencoba berbagi kalender](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Untuk informasi selengkapnya, lihat: Kesalahan "Kebijakan tidak mengizinkan pemberian izin pada tingkat ini untuk satu atau beberapa penerima" ketika pengguna [mencoba untuk berbagi kalender.](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)

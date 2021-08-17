@@ -1,5 +1,5 @@
 ---
-title: Apa yang harus dilakukan jika fitur Azure tidak berfungsi dengan baik di Microsoft Edge
+title: Apa yang harus dilakukan jika fitur Azure tidak berfungsi dengan baik Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004128"
 - "7206"
-ms.openlocfilehash: 463236bcd9ff480471604c992aa1ed1ed4ac2987
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: e188ecb375f3d84b45a1a7718b3c0b797c756f822ba64b3824976fe79c1e8298
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117091"
 ---
-# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Apa yang harus dilakukan jika fitur Azure tidak berfungsi dengan baik di Microsoft Edge
+# <a name="what-to-do-if-azure-features-dont-work-properly-in-microsoft-edge"></a>Apa yang harus dilakukan jika fitur Azure tidak berfungsi dengan baik Microsoft Edge
 
-Microsoft Edge telah [mengetahui masalah](https://go.microsoft.com/fwlink/?linkid=2140608) yang terkait dengan zona keamanan dan mungkin mempengaruhi cara pengguna Azure masuk ke Pusat admin Windows. Jika Anda mengalami masalah dalam menggunakan fitur Azure dengan Microsoft Edge, cobalah langkah-langkah berikut:
+Microsoft Edge memiliki [masalah umum](https://go.microsoft.com/fwlink/?linkid=2140608) yang terkait dengan zona keamanan dan mungkin memengaruhi cara pengguna Azure masuk ke Windows Admin Azure. Jika mengalami masalah dalam menggunakan fitur Azure dengan dukungan Microsoft Edge, cobalah langkah-langkah berikut:
 
-1. Di menu **mulai** , Cari **Opsi Internet** dan pilih.
-2. Dalam kotak dialog **properti Internet** , masuk ke tab **keamanan** .
-3. Pilih zona **situs tepercaya** lalu pilih tombol **situs** .
-4. Dalam kotak dialog **situs tepercaya** , Tambahkan URL Gateway Anda serta [https://login.microsoftonline.com](https://login.microsoftonline.com) , lalu [https://login.live.com](https://login.live.com) pilih **tutup**.
-5. Dalam kotak dialog **properti Internet** , masuk ke tab **privasi** .
-6. Di bagian **Pemblokir pop-up** , pilih **pengaturan**. Dalam kotak dialog yang terbuka, Tambahkan URL Gateway Anda serta [https://login.microsoftonline.com](https://login.microsoftonline.com) [https://login.live.com](https://login.live.com) , lalu pilih **tutup**.
+1. Di menu **Mulai,** cari Opsi **Internet,** lalu pilih.
+2. Dalam kotak dialog Properti **Internet,** masuk ke **tab** Keamanan.
+3. Pilih zona **Situs** tepercaya, lalu pilih **tombol** Situs.
+4. Dalam **kotak** dialog Situs tepercaya, tambahkan URL gateway serta [https://login.microsoftonline.com](https://login.microsoftonline.com) , lalu pilih [https://login.live.com](https://login.live.com) **Tutup**.
+5. Dalam kotak dialog Properti **Internet,** masuk ke **tab** Privasi.
+6. Di bagian **Pemblokir Pop-up,** pilih **Pengaturan**. Dalam kotak dialog yang terbuka, tambahkan URL gateway serta [https://login.microsoftonline.com](https://login.microsoftonline.com) , lalu pilih [https://login.live.com](https://login.live.com) **Tutup**.
