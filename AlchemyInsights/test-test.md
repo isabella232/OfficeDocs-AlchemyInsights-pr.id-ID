@@ -1,5 +1,5 @@
 ---
-title: Persyaratan yang hilang dari penyimpanan istilah SharePoint online
+title: Istilah yang hilang SharePoint Penyimpanan Istilah Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106429"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Mengaktifkan enkripsi BitLocker dengan Intune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Mengaktifkan Enkripsi Bitlocker dengan Intune
 
-Kebijakan proteksi titik akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi Boitlocker untuk perangkat Windows seperti yang diuraikan dalam pengaturan: Windows10 (and later) untuk memproteksi perangkat menggunakan Intune
+Kebijakan Perlindungan Titik Akhir Intune dapat digunakan untuk mengonfigurasi pengaturan enkripsi Boitlocker untuk perangkat Windows seperti yang diuraikan dalam : Windows10 (dan yang lebih baru) untuk melindungi perangkat menggunakan Intune
 
-Anda harus menyadari bahwa banyak perangkat yang lebih baru yang menjalankan Windows 10 mendukung enkripsi BitLocker otomatis yang dipicu tanpa penerapan kebijakan MDM. Hal ini dapat berdampak pada penerapan kebijakan jika pengaturan non default dikonfigurasikan. Lihat Tanya Jawab Umum untuk detail selengkapnya.
-
-
-Tanya Jawab Umum   p: yang edisi enkripsi perangkat dukungan Windows menggunakan kebijakan perlindungan titik akhir?
- A: pengaturan dalam kebijakan perlindungan titik akhir Intune diimplementasikan menggunakan CSP CSP.Tidak semua edisi maupun Build Windows mendukung BitLocker CSP. 
-      Pada saat ini edisi Windows: Enterprise; Pendidikan, seluler, Mobile Enterprise dan Professional (dari Build 1809 seterusnya) didukung.
+Anda harus menyadari bahwa banyak perangkat baru yang menjalankan Windows 10 mendukung enkripsi bitlocker otomatis yang dipicu tanpa aplikasi kebijakan MDM. Ini bisa mempengaruhi aplikasi kebijakan jika pengaturan non default dikonfigurasi. Lihat FAQ untuk detail selengkapnya.
 
 
-
-
-P: jika perangkat telah dienkripsi dengan BitLocker menggunakan pengaturan default OS untuk metode enkripsi dan kekuatan penyandian (XTS-AES-128) akan menerapkan kebijakan dengan pengaturan berbeda secara otomatis memicu enkripsi ulang drive dengan pengaturan baru?
-
-J: Tidak. Untuk menerapkan pengaturan cipher baru, drive harus didekripsi terlebih dahulu.
-
-Catatan untuk perangkat yang terdaftar dengan autopilot enkripsi otomatis yang akan terjadi selama OOBE tidak dipicu hingga kebijakan Intune dievaluasi yang memungkinkan pengaturan berbasis kebijakan digunakan di tempat default OS
+TANYA JAWAB UMUM: Edisi produk Windows mendukung enkripsi perangkat menggunakan Kebijakan Proteksi Titik Akhir?
+A: Pengaturan dalam Kebijakan Perlindungan Titik Akhir Intune diimplementasikan menggunakan CSP Bitlocker.  Tidak semua edisi maupun build Windows mendukung CSP Bitlocker. Saat ini Windows Editions: Enterprise; Pendidikan, Seluler, Seluler Perusahaan, dan Profesional (dari build 1809 dan seterusnya) didukung.
 
 
 
 
-P jika perangkat dienkripsi sebagai hasil dari penerapan kebijakan Intune akan didekripsi saat kebijakan tersebut dihapus?
+T: Jika perangkat sudah dienkripsi dengan Bitlocker menggunakan pengaturan default OS untuk metode enkripsi dan kekuatan penentu (XTS-AES-128) akan menerapkan kebijakan dengan pengaturan yang berbeda secara otomatis memicu enkripsi ulang drive dengan pengaturan baru?
 
-J: penghapusan Kebijakan terkait enkripsi tidak mengakibatkan dekripsi drive yang dikonfigurasi.
+J: Tidak. Untuk menerapkan pengaturan penpheran baru, drive harus didekripsi terlebih dahulu.
+
+Catatan Untuk perangkat yang sudah terdaftar dengan Autopilot, enkripsi otomatis yang akan terjadi selama OOBE tidak akan dipicu hingga kebijakan Intune dievaluasi yang memungkinkan pengaturan berbasis kebijakan untuk digunakan di tempat default OS
 
 
 
 
-P: Mengapa kebijakan kepatuhan Intune memperlihatkan bahwa perangkat saya tidak memiliki "BitLocker diaktifkan" tapi itu?
+T Jika perangkat dienkripsi sebagai akibat dari aplikasi kebijakan Intune yang akan didekripsi saat kebijakan tersebut dihapus?
 
-A: Pengaturan "BitLocker enabled" dalam kebijakan kepatuhan Intune menggunakan klien Windows Device Health Attestation (DHA). Klien ini hanya mengukur status perangkat pada waktu boot. Jadi jika perangkat belum diboot ulang karena enkripsi BitLocker telah selesai, Layanan klien DHA tidak akan melaporkan BitLocker sebagai aktif.
+A: Penghapusan kebijakan terkait enkripsi NOT menghasilkan dekripsi drive yang dikonfigurasi.
+
+
+
+
+T: Mengapa kebijakan Kepatuhan intune memperlihatkan bahwa perangkat saya tidak memiliki "Bitlocker Diaktifkan" tetapi ya?
+
+A: Pengaturan "Bitlocker diaktifkan" dalam kebijakan kepatuhan intune menggunakan klien Windows Device Health Attestation (CLIENT). Klien ini hanya mengukur status perangkat pada saat boot. Jadi, jika perangkat belum dinyalakan ulang karena enkripsi bitlocker telah selesai, layanan klienED TIDAK akan melaporkan bitlocker sebagai aktif.

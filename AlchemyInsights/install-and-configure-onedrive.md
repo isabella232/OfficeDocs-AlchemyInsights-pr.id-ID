@@ -14,20 +14,20 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078121"
 ---
 # <a name="install-and-configure-onedrive"></a>Menginstal dan mengonfigurasi OneDrive
 
-Klien sinkronisasi OneDrive telah terinstal dengan Windows 10. Untuk menginstal OneDrive untuk Windows 7 atau Mac, atau untuk mendapatkan aplikasi seluler untuk ponsel atau tablet Anda, masuk ke [https://onedrive.com/download](https://onedrive.com/download) .
+Klien OneDrive Sync telah diinstal sebelumnya dengan Windows 10. Untuk menginstal OneDrive untuk Windows 7 atau Mac, atau untuk mendapatkan aplikasi seluler untuk telepon maupun tablet Anda, buka [https://onedrive.com/download](https://onedrive.com/download) .
   
-Untuk menyiapkan klien sinkronisasi OneDrive di Windows, lihat:
+Untuk menyiapkan klien OneDrive Sync di Windows, lihat:
   
-- [Panduan penyiapan onedrive](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) untuk mulai menggunakan penyimpanan file, berbagi, kolaborasi, dan kapabilitas sinkronisasi onedrive.
+- [OneDrive siapkan Panduan](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) untuk mulai menggunakan fitur OneDrive penyimpanan, berbagi, kolaborasi, dan sinkronisasi file.
 
 - [Menyiapkan komputer Anda untuk menyinkronkan file OneDrive for Business Anda](https://go.microsoft.com/fwlink/?linkid=533375)
 
