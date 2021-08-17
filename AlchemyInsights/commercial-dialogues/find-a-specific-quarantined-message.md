@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967948"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898323"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Menemukan pesan spesifik yang dikarantina
 
-1. Masuk ke [Pusat & Kepatuhan Keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Buka **Karantina**  >  **Tinjauan Manajemen**  >  **ancaman**.
-3. Pilih **Pencarian.**
-4. Pilih kombinasi kondisi apa pun dengan memilih kotak centang di sampingnya (Anda tidak dapat menggunakan wildcard saat ini).
+1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke Email &  \> **Tinjau** \> **Kolaborasi.**
+
+   Untuk langsung masuk ke halaman **Karantina,** gunakan <https://security.microsoft.com/quarantine> .
+
+2. Di halaman **Karantina,** verifikasi bahwa tab **email** dipilih, lalu klik **Filter.**
+3. Pilih kombinasi properti apa pun untuk memfilter dan menemukan pesan.
+
+Untuk informasi selengkapnya, lihat topik berikut ini:
+
+- [Menemukan dan merilis pesan yang dikarantina sebagai pengguna](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Mengelola pesan dan file yang dikarantina sebagai admin](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a6efa496e2489e765acf74e03f0486a2dd7b943fe0d933bd0eda4d50883aa2c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990854"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891834"
 ---
 # <a name="update-pdf-documents"></a>Memperbarui dokumen PDF
 
-Untuk panduan membuat modifikasi PDF, termasuk parameter, variabel, dan pengecualian untuk menjalankan tugas Anda, lihat [PDF](/power-automate/desktop-flows/actions-reference/pdf).
+Untuk panduan membuat modifikasi PDF, termasuk parameter, variabel, dan pengecualian untuk melakukan tugas Anda, lihat [PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf).
 
 Untuk detailnya, lihat:
 
-- [Mengekstrak gambar](/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
-- [Mengekstrak teks](/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
-- [Menggabungkan file PDF](/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
-- [Mengekstrak halaman untuk membuat PDF baru](/power-automate/desktop-flows/actions-reference/pdf#extractpages)
+- [Mengekstrak gambar](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
+- [Mengekstrak teks](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
+- [Menggabungkan file PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
+- [Mengekstrak halaman untuk membuat PDF baru](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extractpages)
