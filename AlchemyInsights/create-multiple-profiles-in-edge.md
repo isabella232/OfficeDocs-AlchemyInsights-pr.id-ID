@@ -14,22 +14,22 @@ ms.custom:
 - "6976"
 - "9004596"
 - "8216"
-ms.openlocfilehash: 0c67e8e82199a40f820292fa7473d10a260c1367
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 6202e1aae10fd9a55c20748b7cd34588056fde45f1c4d5c429da651f7a9bb6a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103411"
 ---
 # <a name="create-multiple-profiles-in-microsoft-edge"></a>Membuat beberapa profil di Microsoft Edge
 
-Profil memungkinkan beberapa pengguna beroperasi dalam lingkungan bersama sekaligus mempertahankan akses ke pengaturan browser, bookmark, dan ekstensi yang dipersonalisasi. Untuk menambahkan beberapa profil di Microsoft Edge, ikuti langkah-langkah berikut:
+Profil memungkinkan beberapa pengguna beroperasi dalam lingkungan bersama sekaligus mempertahankan akses ke pengaturan browser, bookmark, dan ekstensi yang dipersonalisasikan. Untuk menambahkan beberapa profil dalam Microsoft Edge, ikuti langkah-langkah ini:
 
 1. Mulai Microsoft Edge.
-    - Jika Anda belum masuk, pilih ikon profil > **masuk**. Ini secara otomatis akan membawa Anda ke halaman **Kelola pengaturan profil** .
-    - Jika Anda masuk, pilih ikon profil > **Kelola pengaturan profil**.
-2. Pilih **profil > + Tambahkan profil > Tambahkan**.
-3. Pilih **masuk untuk menyinkronkan data** untuk menyambungkan ke akun yang sudah ada.
-4. Pilih **ya** untuk mengaktifkan sinkronisasi masuk, lalu pilih **konfirmasi**.
+    - Jika Anda tidak masuk, pilih ikon profil > **Masuk**. Tindakan ini akan membawa Anda secara otomatis ke **halaman Kelola pengaturan** profil.
+    - Jika Anda masuk, pilih ikon profil untuk > **Kelola pengaturan profil**.
+2. Pilih **Profil > + Tambahkan profil > Tambahkan.**
+3. Pilih **Masuk untuk menyinkronkan data untuk** menyambungkan ke akun yang sudah ada.
+4. Pilih **Ya** untuk mengaktifkan sinkronisasi masuk, lalu pilih **Konfirmasi**.
 
-    Profil tambahan kini tersedia untuk digunakan.
+    Profil tambahan sekarang tersedia untuk digunakan.

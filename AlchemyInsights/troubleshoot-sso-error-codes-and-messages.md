@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah kode kesalahan masuk tunggal (SSO) dan pesan yang mulus
+title: Memecahkan masalah kode kesalahan dan pesan Masuk Tunggal (SSO) Tanpa Masalah
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9367"
 - "9004357"
-ms.openlocfilehash: 805a85ffd47e14295c375fc415301570de22bfd8
-ms.sourcegitcommit: 3fb39a080cc8680d960b8468ac9355389a3e2df4
-ms.translationtype: MT
+ms.openlocfilehash: 74c783a5fb9e1388b12801fa0de92faed9e57bf14c0f99d21539e17bf1b1c284
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038997"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-error-codes-and-messages"></a>Memecahkan masalah kode kesalahan masuk tunggal (SSO) dan pesan yang mulus
+# <a name="troubleshoot-seamless-single-sign-on-sso-error-codes-and-messages"></a>Memecahkan masalah kode kesalahan dan pesan Masuk Tunggal (SSO) Tanpa Masalah
 
-Untuk mengatasi kode kesalahan masuk tunggal (SSO) tanpa batas, lakukan langkah-langkah berikut:
+Untuk mengatasi kode kesalahan masuk Tunggal (SSO) tanpa hambatan dan pesan, lakukan langkah-langkah berikut ini:
 
-1. Tinjau dan Pecahkan kesalahan SSO dengan masuk ke [laporan aktivitas masuk di portal Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins).
-2. Lihat [memecahkan masalah masuk tunggal Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#sign-in-failure-reasons-in-the-azure-active-directory-admin-center-needs-a-premium-license) -artikel ini membantu Anda menemukan informasi pemecahan masalah umum tentang Sign-On tanpa hambatan Azure Active Directory (Azure AD).
-3. Melihat [kode kesalahan autentikasi AZURE AD Authentication dan otorisasi](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information) -artikel ini membantu Anda menemukan informasi tentang kode kesalahan aadsts yang dikembalikan dari layanan token keamanan (STS) Azure Active Directory (STS). Artikel ini juga membantu Anda menemukan deskripsi kesalahan, perbaikan, dan beberapa solusi yang disarankan.
+1. Tinjau dan pecahkan masalah SSO [dengan masuk ke laporan Aktivitas masuk di portal Azure Active Directory .](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)
+2. Lihat [Memecahkan Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso#sign-in-failure-reasons-in-the-azure-active-directory-admin-center-needs-a-premium-license) Masuk Tunggal Tanpa Hambatan - Artikel ini membantu Anda menemukan informasi pemecahan masalah tentang masalah umum terkait Azure Active Directory Tunggal Tanpa Hambatan Azure Active Directory (Azure AD) Sign-On Tunggal Tanpa Hambatan (SSO Tanpa Hambatan).
+3. Lihat Kode kesalahan Autentikasi dan otorisasi [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information) - Artikel ini membantu Anda menemukan informasi tentang kode kesalahan AADSTS yang dikembalikan dari layanan token keamanan Azure Active Directory (Azure AD) (STS). Artikel ini juga membantu Anda menemukan deskripsi kesalahan AADSTS, perbaikan, dan beberapa solusi yang disarankan.
 
-[Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) -Lihat artikel ini untuk informasi tentang membuat permintaan fitur atau mengajukan pertanyaan teknis tentang SSO yang mulus.
+[Tanya Jawab&- Lihat](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) artikel ini untuk informasi tentang membuat permintaan fitur atau mengajukan pertanyaan teknis tentang SSO Mulus.
 

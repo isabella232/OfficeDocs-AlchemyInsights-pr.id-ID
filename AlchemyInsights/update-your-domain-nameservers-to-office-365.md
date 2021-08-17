@@ -12,18 +12,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 7322fa640f6d043f057c8b7a5e06a18dcd10eec5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d9d66e366db14840a86b681deba78b89ddff5e068a3b931c88e493d2ec791b10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734914"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073603"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Memperbarui server nama domain agar mengarah ke Microsoft
 
 Catatan: Perubahan server nama dapat memakan waktu hingga 48 jam untuk diterapkan.
   
-Untuk menyiapkan domain Anda dengan Microsoft, nameserver di pencatat perlu diperbarui. Buat atau edit catatan server nama di pendaftar domain Anda.
+Untuk menyiapkan domain dengan Microsoft, server nama pada pendaftar Anda perlu diperbarui. Buat atau edit catatan server nama di pendaftar domain Anda.
   
 1. Kunjungi situs web pendaftar domain dan temukan area tempat Anda dapat mengedit server nama.
 
@@ -35,5 +35,5 @@ Untuk menyiapkan domain Anda dengan Microsoft, nameserver di pencatat perlu dipe
 
 3. Simpan perubahan.
 
-Anda juga dapat menemukan instruksi mendetail di artikel ini: [mengubah nameserver untuk menyiapkan Microsoft 365 dengan pencatat domain apa pun](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Anda juga dapat menemukan instruksi mendetail dalam artikel ini: [Mengubah nameserver untuk menyiapkan server Microsoft 365 pendaftar domain apa pun](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

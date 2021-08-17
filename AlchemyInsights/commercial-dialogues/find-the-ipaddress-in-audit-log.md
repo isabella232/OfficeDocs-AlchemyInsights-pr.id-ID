@@ -13,24 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5b58803719df700290f495cb2d2d6742f072420a2a1d393534ca165bb5a14fbb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017135"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303580"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Menemukan alamat IP di log audit
 
-1. Alamat IP yang berkaitan dengan aktivitas yang dilakukan oleh pengguna atau administrator diperlihatkan dalam log audit. Informasi klien juga dicatat. Berikut cara mengidentifikasi alamat IP tersebut:
+Alamat IP yang berkaitan dengan aktivitas yang dilakukan oleh pengguna atau administrator diperlihatkan dalam log audit. Informasi klien juga dicatat. Berikut cara mengidentifikasi alamat IP tersebut:
 
-1. Masuk ke [Office 365 Pusat & Kepatuhan .](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Pilih **Pencarian**  >  **[pencarian log Audit](https://go.microsoft.com/fwlink/?linkid=2103759)**.
-    > [!NOTE]
-    > Jika melihat pemberitahuan bahwa Anda perlu mengaktifkan pengauditan, lanjutkan dan aktifkan sekarang. Jika fitur ini tidak diaktifkan, hasil pencarian tidak akan dapat mengambil data dari tanggal sebelumnya.
-1. Jika Anda tertarik pada aktivitas tertentu, pilih aktivitas tersebut dari **daftar** Aktivitas; jika tidak, secara default, semua aktivitas akan dikembalikan untuk pengguna yang dipilih. Perhatikan bahwa aktivitas tertentu mungkin tidak tersedia untuk dipilih **dari** menu Aktivitas; namun, item audit tersebut akan dikembalikan jika **Perlihatkan hasil untuk semua aktivitas** dipilih (pengaturan default).
-1. Tentukan rentang tanggal, dan di bidang **Pengguna,** pilih nama pengguna untuk pengguna yang ingin Anda selidiki.
-1. Pilih **Pencarian.** Aktivitas muncul di bawah **Hasil.** Anda dapat melihat alamat IP untuk setiap aktivitas.
-1. Untuk melihat detail, pilih aktivitas, lalu pilih **Informasi Selengkapnya**.
+1. Lakukan salah satu tindakan berikut ini:
+   - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
+   - Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
 
-Untuk mempelajari selengkapnya, lihat Mencari [Office 365 log audit untuk memecahkan masalah skenario umum](https://go.microsoft.com/fwlink/?linkid=2103944).
+    **Catatan**: Jika melihat pemberitahuan bahwa Anda perlu mengaktifkan pengauditan, lanjutkan dan aktifkan sekarang. Jika fitur ini tidak diaktifkan, hasil pencarian tidak akan dapat mengambil data dari tanggal sebelumnya.
+
+2. Pada halaman **Audit,** verifikasi bahwa tab **Pencarian** dipilih lalu konfigurasi pengaturan berikut ini:
+   - **Rentang tanggal dan waktu**: Pilih rentang tanggal/waktu dalam **kotak** Mulai **dan** Akhir.
+   - **Aktivitas**: Jika Anda tertarik dengan aktivitas tertentu, pilih aktivitas tersebut dari daftar; jika tidak, nilai default **Perlihatkan hasil untuk semua** aktivitas mengembalikan semua aktivitas.. Perhatikan bahwa aktivitas tertentu mungkin tidak tersedia untuk dipilih; namun, item audit tersebut akan dikembalikan jika **Perlihatkan hasil untuk semua** aktivitas dipilih.
+   - **Pengguna**: Terima nilai default kosong untuk mengembalikan hasil bagi semua pengguna, atau masukkan satu atau beberapa pengguna.
+
+3. Bila Anda sudah selesai, klik **Cari.** Aktivitas akan muncul di halaman **Pencarian audit baru.**
+
+4. Dalam hasil, klik **Filter Hasil,** lalu ketikkan **Set-Mailbox** dalam kotak filter aktivitas.
+
+5. Pilih catatan audit dalam hasil untuk membuka **flyout** Detail.
+
+Untuk informasi selengkapnya, lihat [Mencari log audit untuk menyelidiki masalah dukungan umum.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
