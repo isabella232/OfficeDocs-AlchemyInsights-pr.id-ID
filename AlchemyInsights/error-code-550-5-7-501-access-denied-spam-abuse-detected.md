@@ -12,17 +12,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3eebe4e9d69e100a750e74a6d34ec67dc0566df5dd6eb59809adb07ed8a682f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044271"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Access ditolak, penyalahgunaan spam terdeteksi
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Akses ditolak, penyalahgunaan spam terdeteksi
 
-Biasanya, pesan ini terjadi ketika pengguna mengirim pesan email dari alamat IP menggunakan domain awal *. onmicrosoft.com* yang ditetapkan untuk penyewa baru di Microsoft 365. Cara termudah untuk mengatasi masalah ini adalah:
+Biasanya, pesan ini muncul jika pengguna mengirim pesan email dari alamat IP yang menggunakan awalan domain *.onmicrosoft.com* yang ditetapkan untuk penyewa baru di Microsoft 365. Cara termudah untuk mengatasi masalah ini adalah dengan:
 
 1. [Tambahkan domain ke penyewa Anda](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
 
-2. [Ubah Alamat email utama pengguna Anda](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) ke domain kustom baru yang baru saja Anda tambahkan.
+2. [Ubah alamat email utama pengguna ke](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) domain kustom baru yang baru saja Anda tambahkan.

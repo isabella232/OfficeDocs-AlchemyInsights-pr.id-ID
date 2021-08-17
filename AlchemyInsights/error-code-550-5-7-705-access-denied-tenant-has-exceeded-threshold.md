@@ -13,17 +13,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: d3c1eddf22b61c14e8bb82de5f2e16e84786657c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f35aaccb0bc80ddcb46e37533ee36c35b8cf520421786a809b28cfa70e16391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044199"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Access ditolak, penyewa telah melampaui ambang batas
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 Akses ditolak, penyewa telah melampaui ambang batas
 
-Pesan ini terjadi ketika terlalu banyak spam atau email massal yang telah dikirim oleh organisasi Anda dan kami memblokir email keluar.
-Penyebab umum dikompromikan server lokal atau akun admin yang dikompromikan yang telah digunakan untuk membuat konektor. Salah satu kondisi dapat memperbolehkan spam untuk melewati organisasi Anda.
+Pesan ini muncul jika organisasi Anda menempatkan blok pada email keluar atau email massal yang dikirim oleh organisasi Anda.
+Penyebab umum adalah server lokal dibobol atau akun admin dibobol yang telah digunakan untuk membuat konektor. Salah satu kondisi dapat mengizinkan spam melewati organisasi Anda.
 
-Untuk menghapus blok ini, Anda perlu memahami dan menjelaskan penyebabnya kepada agen dukungan, serta memperbaiki masalah mendasar.
-Klik **hubungi kami** di bawah setelah Anda siap.
+Untuk menghapus blokir, Anda harus memahami dan menjelaskan penyebabnya kepada agen dukungan, serta memperbaiki masalah yang mendasari.
+Klik **Hubungi kami** di bawah ini jika Anda sudah siap.

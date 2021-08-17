@@ -1,5 +1,5 @@
 ---
-title: 8000031 tidak dapat menghapus foto dari file
+title: 8000031 Tidak dapat menghapus foto dari File
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104959"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>Tidak dapat menghapus foto dari file
+# <a name="unable-to-delete-photos-from-files"></a>Tidak dapat menghapus foto dari File
 
-Untuk menghapus foto dari file di Outlook.com:
+Untuk menghapus foto dari File di Outlook.com:
   
-1. Masuk ke folder **kotak masuk** atau **item terkirim** dan Hapus pesan email yang dilampirkan.
+1. Masuk ke folder **Kotak** **Masuk atau Item** Terkirim dan hapus pesan email yang dilampirkan.
 
-2. Hapus item dari **item terhapus**Anda.
+2. Hapus item dari item **Dihapus Anda.**
 
-Untuk informasi selengkapnya, baca [cara menghapus file atau foto di Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Untuk informasi selengkapnya, [baca Cara menghapus file atau foto di Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   
