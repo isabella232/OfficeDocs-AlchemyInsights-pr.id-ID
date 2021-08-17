@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan Microsoft Defender untuk Office 365 untuk SharePoint online, OneDrive dan Microsoft teams
+title: Aktifkan Pertahanan Microsoft untuk Office 365 Online SharePoint, OneDrive dan Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 1c29afdcc52e7032fea22d698371677918665fa9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058869"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Mengaktifkan Microsoft Defender untuk Office 365 untuk SharePoint online, OneDrive dan Microsoft teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Aktifkan Pertahanan Microsoft untuk Office 365 Online SharePoint, OneDrive dan Microsoft Teams
 
-1. Menggunakan admin global atau kredensial admin keamanan Anda, masuk ke [pusat keamanan dan kepatuhan Office 365](https://protection.office.com/).
-2. Pilih **manajemen ancaman** di panel kiri, lalu pilih   >  [lampiran aman](https://protection.office.com/safeattachment)kebijakan.
-3. Pilih **Aktifkan Microsoft Defender untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft teams**, lalu pilih **Simpan**.
+1. Dengan menggunakan kredensial admin global atau admin keamanan, masuk ke Pusat [Office 365 Keamanan dan Kepatuhan.](https://protection.office.com/)
+2. Pilih **Manajemen ancaman** di panel kiri, lalu pilih **Kebijakan** Brankas  >  [lampiran](https://protection.office.com/safeattachment).
+3. Pilih **Aktifkan Pertahanan Microsoft untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft Teams**, lalu pilih **Simpan**.
     > [!TIP]
     >
-    > - Sebagai admin global atau admin SharePoint online, Jalankan cmdlet PowerShell berikut ini dengan parameter **Disallowinfectedfiledownload** diatur ke *True*: [set-spotenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [Menyetel pemberitahuan untuk file yang terdeteksi](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > - Sebagai admin global atau admin SharePoint Online, jalankan cmdlet PowerShell berikut dengan parameter **DisallowInfectedFileDownload** diatur ke *true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
+    > - [Menyiapkan pemberitahuan untuk file yang terdeteksi](https://go.microsoft.com/fwlink/?linkid=2092110)
 
-Untuk informasi selengkapnya, lihat [Microsoft Defender untuk Office 365 untuk SharePoint, OneDrive, dan Microsoft teams](https://go.microsoft.com/fwlink/?linkid=2092041).
+Untuk informasi selengkapnya, lihat [Pertahanan Microsoft untuk Office 365, SharePoint, OneDrive, dan Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2092041).

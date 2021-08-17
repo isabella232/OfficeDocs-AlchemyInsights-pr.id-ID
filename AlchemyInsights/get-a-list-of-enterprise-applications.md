@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116731"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Mendapatkan daftar Aplikasi Perusahaan
 
@@ -52,9 +52,9 @@ ms.locfileid: "51404929"
 
 7. **Perlu mengekspor daftar aplikasi Azure yang tidak digunakan –** Laporan audit
 
-    Azure AD hanya dapat memperlihatkan log aplikasi hingga 30 hari jika Anda memiliki lisensi Azure AD Premium.
+    Azure AD hanya dapat memperlihatkan log aplikasi hingga 30 hari jika Anda memiliki lisensi Azure AD Premium baru.
     Anda memiliki dua opsi untuk mempertahankan data lebih dari 30 hari. Anda dapat menggunakan [API Pelaporan Azure AD untuk](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) mengambil data secara terprogram dan menyimpannya dalam database. Alternatifnya, Anda dapat mengintegrasikan log audit ke sistem TERVERIFIKASI pihak ketiga.
 
     Anda juga dapat mengunduh daftar aplikasi untuk semua aplikasi dan aplikasi yang dimiliki di bawah Azure Active directory>App Registrations>Unduh>Semua aplikasi/aplikasi yang dimiliki.
 
-    Untuk mendapatkan daftar aplikasi melalui MS Graph, lihat Daftar aplikasi [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) dan tipe sumber daya aplikasi [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Untuk mendapatkan daftar aplikasi melalui MS Graph, lihat Aplikasi daftar [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) dan tipe sumber daya aplikasi [- Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).

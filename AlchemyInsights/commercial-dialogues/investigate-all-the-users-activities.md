@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949390"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898799"
 ---
 # <a name="investigate-all-the-users-activities"></a>Selidiki semua aktivitas pengguna
 
 Berikut cara melakukannya:
 
-1. Masuk ke [Pusat & Kepatuhan Keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Pilih **Pencarian**  >  **[pencarian log Audit](https://go.microsoft.com/fwlink/?linkid=2103759)**.
+1. Lakukan salah satu tindakan berikut ini:
+   - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
+   - Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Jika Anda melihat pemberitahuan bahwa Anda perlu mengaktifkan fitur, lanjutkan dan aktifkan sekarang. Jika fitur tidak diaktifkan, hasil pencarian tidak akan dapat menarik data dari tanggal sebelumnya.
 
-1. Jika Anda tertarik dengan aktivitas tertentu, pilih aktivitas tersebut dari **daftar** Aktivitas. Jika tidak, secara default semua aktivitas akan dikembalikan untuk pengguna yang dipilih.
-1. Tentukan rentang tanggal, lalu dalam kotak **Pengguna,** pilih nama pengguna untuk pengguna yang ingin Anda selidiki. Anda bisa memilih lebih dari satu pengguna dalam satu waktu.
-1. Klik **Cari.** Aktivitas muncul di bawah **Hasil.** Anda akan melihat alamat IP, pengguna, dan nama aktivitas.
-1. Untuk mengunduh hasil, pilih **Ekspor Hasil.**
-1. Untuk meninjau detail, pilih aktivitas, lalu perluas **Informasi selengkapnya**.
+2. Pada tab **Pencarian** dari halaman **Audit,** konfigurasi pengaturan berikut ini:
+   - **Rentang tanggal dan waktu**: Pilih rentang tanggal/waktu dalam **kotak** Mulai **dan** Akhir.
+   - **Aktivitas**: Jika Anda tertarik dengan aktivitas tertentu, pilih aktivitas tersebut dari daftar; jika tidak, nilai default **Perlihatkan hasil untuk semua aktivitas** mengembalikan semua aktivitas.
+   - **Pengguna**: Terima nilai default kosong untuk mengembalikan hasil bagi semua pengguna, atau masukkan satu atau beberapa pengguna.
 
-Untuk mempelajari selengkapnya, lihat [Mencari log audit untuk memecahkan masalah skenario umum](https://go.microsoft.com/fwlink/?linkid=2103944).
+3. Bila Anda sudah selesai, klik **Cari.** Aktivitas akan muncul di halaman **Pencarian audit baru.** Anda akan melihat alamat **IP ,** **Pengguna**, dan **nama** Aktivitas.
+
+4. Untuk mengunduh hasil,  pilih Ekspor \> **Unduh semua Hasil.**
+
+5. Pilih aktivitas dalam hasil untuk membuka flyout detail.
+
+Untuk mempelajari selengkapnya, lihat [Mencari log audit untuk menyelidiki masalah dukungan umum.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

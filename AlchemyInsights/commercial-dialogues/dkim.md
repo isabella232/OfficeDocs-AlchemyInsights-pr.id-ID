@@ -1,5 +1,5 @@
 ---
-title: DKIM (DomainKeys diidentifikasi email)
+title: DKIM (DomainKeys Identified Mail)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 509cd2db33a84f93baf3f53d1ae66aee28c62051
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: a56513d727517a799f0a415b8bcb777cd2b26dec677f1990a6caf4b2090f660b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058905"
 ---
-# <a name="dkim-domainkeys-identified-mail"></a>DKIM (DomainKeys diidentifikasi email)
+# <a name="dkim-domainkeys-identified-mail"></a>DKIM (DomainKeys Identified Mail)
 
-DomainKeys diidentifikasi email (DKIM) adalah protokol yang memungkinkan organisasi untuk bertanggung jawab atas pengiriman pesan dengan cara yang bisa diverifikasi oleh penyedia kotak surat. Verifikasi ini dimungkinkan melalui autentikasi kriptografis.
+DomainKeys Identified Mail (DKIM) adalah protokol yang memungkinkan organisasi bertanggung jawab dalam mengirimkan pesan dengan cara yang dapat diverifikasi oleh penyedia kotak surat. Verifikasi ini dimungkinkan melalui autentikasi kriptografi.
