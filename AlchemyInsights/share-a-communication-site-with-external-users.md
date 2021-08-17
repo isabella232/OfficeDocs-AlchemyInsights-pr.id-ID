@@ -1,5 +1,5 @@
 ---
-title: Berbagi situs komunikasi dengan pengguna eksternal
+title: Berbagi Situs Komunikasi dengan Pengguna Eksternal
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108307"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Berbagi situs komunikasi dengan pengguna eksternal
+# <a name="share-a-communication-site-with-external-users"></a>Berbagi Situs Komunikasi dengan Pengguna Eksternal
 
-Untuk mengaktifkan berbagi pengguna eksternal untuk situs komunikasi, ikuti langkah-langkah berikut: 
+Untuk mengaktifkan berbagi pengguna eksternal untuk situs Komunikasi, ikuti langkah-langkah ini: 
   
-1. Buka **Pusat admin modern** -jika Anda berada di pusat admin klasik, Anda akan melihat **mencobanya sekarang** atau * * coba tombol pratinjau * * dari bagian kanan atas. Ini akan membawa Anda ke Pusat admin modern. 
+1. Buka Pusat **Admin Modern** - Jika berada di Pusat Admin  klasik, Anda akan melihat tombol Coba sekarang atau ** Coba pratinjau ** dari kanan atas. Tindakan ini akan membawa Anda ke Pusat Admin Modern. 
   
-2. Pilih **situs aktif.**
+2. Pilih **Situs Aktif.**
   
-3. Pilih situs yang memiliki **Templat situs komunikasi**. 
+3. Pilih situs yang memiliki templat **Situs Komunikasi.** 
   
-4. Pilih tombol **berbagi** dari menu atas. 
+4. Pilih **tombol** Berbagi dari menu atas. 
   
- **Catatan:** Jika Anda memiliki lebih dari satu situs yang dipilih, tombol **berbagi** akan terlihat nonaktif. Pilih hanya satu situs. 
+ **Catatan:** Jika Anda memilih lebih dari satu situs, **tombol Berbagi** akan terlihat dinonaktifkan. Memilih satu situs saja. 
   
 

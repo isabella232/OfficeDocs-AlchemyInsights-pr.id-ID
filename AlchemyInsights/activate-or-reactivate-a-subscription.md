@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937896"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889385"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Mengaktifkan atau mengaktifkan kembali langganan
 
 **Mengaktifkan langganan**
 
-- Untuk memberikan pengguna akses ke layanan, tetapkan lisensi bagi pengguna. Untuk mempelajari caranya, [lihat Menetapkan lisensi kepada pengguna.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Untuk memberikan pengguna akses ke layanan, tetapkan lisensi bagi pengguna. Untuk mempelajari caranya, [lihat Menetapkan lisensi kepada pengguna.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Jika Anda sudah memiliki lisensi yang ditetapkan untuk Anda, Anda bisa menemukan aplikasi yang bisa Anda unduh dari [halaman Akun Saya.](https://portal.office.com/account/#installs) Halaman ini menyediakan daftar aplikasi yang tersedia untuk diunduh berdasarkan lisensi yang telah ditetapkan.
-- Jika sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi tersebut dengan akun kerja atau sekolah. Anda dapat melakukannya di semua Office (Word, Excel, dll.) dengan mengklik **File**  >  **Office File** (di dekat bagian bawah). Di **bawah Informasi Pengguna,** pilih **Alihkan Akun.** Untuk informasi selengkapnya, lihat [Menginstal Office baru](/microsoft-365/admin/setup/install-applications).
+- Jika sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi tersebut dengan akun kerja atau sekolah. Anda dapat melakukannya di semua Office aplikasi (Word, Excel, dll.) dengan mengklik **File**  >  **Office File** (di dekat bagian bawah). Di **bawah Informasi Pengguna,** pilih **Alihkan Akun.** Untuk informasi selengkapnya, lihat [Menginstal Office baru](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Mengaktifkan kembali langganan**
 
@@ -38,12 +38,12 @@ Jika langganan kedaluwarsa, dinonaktifkan oleh Microsoft, atau Anda membatalkann
 3. Pilih tiga titik (tindakan lainnya), lalu pilih **Aktifkan kembali langganan ini**.
     > [!IMPORTANT]
     > Jika Anda tidak melihat Aktifkan **kembali langganan ini sebagai** tindakan yang tersedia, hubungi [Dukungan](https://go.microsoft.com/fwlink/p/?linkid=518322) untuk mengaktifkan kembali langganan Anda.
-4. Di panel **Aktifkan kembali langganan ini,** pilih metode pembayaran yang sudah ada atau pilih **Tambahkan metode pembayaran**.
+4. Di panel **Aktifkan kembali langganan ini,** pilih metode pembayaran yang sudah ada atau pilih **Tambahkan metode pembayaran.**
 5. Pilih **Aktifkan kembali.**
 
-Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Untuk informasi selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Mengaktifkan langganan baru dengan kunci produk**
 
 1. Untuk mengaktifkan langganan baru Microsoft 365 dengan kunci produk Anda, lihat [Tempat memasukkan kunci Office produk Anda.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-2. Masukkan kunci produk Microsoft 365, lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mengalami masalah dengan aktivasi, lihat daftar kesalahan dan [solusi kunci produk yang umum ini.](/microsoft-365/commerce/product-key-errors-and-solutions)
+2. Masukkan kunci produk Microsoft 365, lalu ikuti perintah untuk mengaktifkan langganan. Jika Anda mengalami masalah dengan aktivasi, lihat daftar kesalahan dan [solusi kunci produk yang umum ini.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

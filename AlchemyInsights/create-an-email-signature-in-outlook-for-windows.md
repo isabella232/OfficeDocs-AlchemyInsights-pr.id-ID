@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8199"
-ms.openlocfilehash: 25cd019333191bc9615a7c53d332ddc50ceb8d3a
-ms.sourcegitcommit: f76114031755a597031bf2f80b03ba65c6f9dd84
+ms.openlocfilehash: 66b7db54629319c275dc72ed7cd0ca91324040f1c1e7e7080e69c62e31a03cc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080461"
 ---
 # <a name="create-an-email-signature-in-outlook-for-windows"></a>Membuat tanda tangan email di Outlook untuk Windows
 
-Di Outlook, tanda tangan email Anda bisa mencakup teks, Gambar, kartu nama elektronik Anda, logo, atau bahkan gambar tanda tangan tulis tangan Anda. Untuk melakukan itu:
+Dalam Outlook, tanda tangan email Anda bisa menyertakan teks, gambar, kartu nama elektronik, logo, atau bahkan gambar tanda tangan tulisan tangan Anda. Untuk melakukannya:
 
-1. Di Outlook, buka pesan email baru.
-2. Pada tab **pesan** , pilih tanda tangan **tanda** tangan  >  .
-3. Di bawah **pilih tanda tangan untuk diedit**, pilih **baru**, lalu ketikkan nama untuk tanda tangan.
-4. Di bawah **Edit tanda tangan**, buat tanda tangan Anda.
+1. Dalam Outlook, buka pesan email baru.
+2. Pada tab **Pesan,** pilih Tanda   >  **Tangan.**
+3. Di **bawah Pilih tanda tangan untuk** **diedit ,** pilih Baru , lalu ketik nama untuk tanda tangan.
+4. Di **bawah Edit tanda** tangan , buat tanda tangan Anda.
