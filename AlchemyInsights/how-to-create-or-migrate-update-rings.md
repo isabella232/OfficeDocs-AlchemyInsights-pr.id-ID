@@ -1,5 +1,5 @@
 ---
-title: Cara membuat atau melakukan migrasi pembaruan berdering
+title: Cara membuat atau melakukan migrasi cincin pembaruan
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078805"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Cara membuat atau melakukan migrasi pembaruan berdering
+# <a name="how-to-create-or-migrate-update-rings"></a>Cara membuat atau melakukan migrasi cincin pembaruan
 
-Ikuti langkah-langkah di bawah ini jika Anda mengonfigurasi pengaturan pembaruan Windows 10 di portal Intune Classic dan ingin melakukan migrasi ke Intune di portal Azure:
+Ikuti langkah-langkah di bawah ini jika Windows 10 pembaruan yang dikonfigurasi di portal klasik Intune dan ingin melakukan migrasi ke Intune di portal Azure:
 
-1. Masuk ke Azure portal dan klik **semua layanan**.
-2. Di bidang **filter** , ketikkan **Intune**. Dalam hasil, klik **Microsoft Intune**.
-3. Klik **pembaruan perangkat lunak**  >  **Windows 10 update Rings**  >  **Create**.
-4. Masukkan nama, deskripsi, dan klik **konfigurasi**.
+1. Masuk ke portal Azure dan klik **Semua Layanan.**
+2. Di bidang **Filter,** ketikkan **Intune**. Dalam hasil, klik **Microsoft Intune**.
+3. Klik **Pembaruan perangkat** Windows 10 Dering  >  **Pembaruan**  >  **Buat.**
+4. Masukkan nama, deskripsi, dan klik **Konfigurasi.**
 5. Mengonfigurasi pengaturan pembaruan perangkat lunak organisasi Anda.
-6. Pilih **OK**.
-7. Di **buat cincin pembaruan**, pilih **buat**.
+6. Pilih **OK.**
+7. Di **Buat Cincin Pembaruan**, pilih **Buat.**
