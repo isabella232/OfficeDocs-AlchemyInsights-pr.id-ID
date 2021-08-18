@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028743"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899887"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Mengidentifikasi saat penerusan email eksternal dikonfigurasi pada kotak surat
 
-Jika pengguna Microsoft 365 mengonfigurasi penerusan email eksternal di kotak surat, aktivitas akan diaudit sebagai bagian dari cmdlet **Set-Mailbox.** Anda dapat melihat aktivitas menggunakan pencarian log audit di Pusat & Kepatuhan Keamanan.
+Jika pengguna Microsoft 365 mengonfigurasi penerusan email eksternal di kotak surat, aktivitas akan diaudit sebagai bagian dari cmdlet **Set-Mailbox.** Anda dapat melihat aktivitas menggunakan pencarian log audit. Berikut cara melakukannya.
 
-1. Masuk ke pusat [Microsoft 365 Kepatuhan Anda.](https://protection.office.com/)
+1. Lakukan salah satu langkah berikut ini:
+   - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
+   - Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://sip.security.microsoft.com/auditlogsearch> .
 
-2. Masuk ke halaman **pencarian**  >  **log Pencarian** audit.
+2. Pada halaman **Audit,** verifikasi bahwa tab **Pencarian** dipilih lalu konfigurasi pengaturan berikut ini:
+   - Pilih rentang tanggal/waktu dalam kotak **Mulai** **dan** Akhir.
+   - Verifikasi kotak **Aktivitas** berisi **Perlihatkan hasil untuk semua aktivitas.**
 
-3. Pilih rentang tanggal di bidang **Tanggal mulai** **dan Tanggal** selesai. Anda tidak perlu menentukan nama pengguna. Verifikasi bahwa **bidang** Aktivitas diatur ke **Perlihatkan hasil untuk semua aktivitas.**
+3. Bila Anda sudah selesai, klik **Cari.** Aktivitas akan muncul di halaman **Pencarian audit baru.**
 
-4. Klik **Cari.**
+4. Dalam hasil, klik **Filter Hasil,** lalu ketikkan **Set-Mailbox** dalam kotak filter aktivitas.
 
-Dalam hasil, klik **Filter Hasil,** lalu ketikkan **Set-Mailbox** dalam kotak filter aktivitas. Pilih catatan audit dalam hasil. Di **flyout** Detail, klik **Informasi selengkapnya.** Anda harus melihat detail setiap catatan audit untuk mengetahui apakah aktivitas tersebut terkait dengan penerusan email.
+5. Pilih catatan audit dalam hasil. Di **flyout** Detail, klik **Informasi selengkapnya.** Anda perlu melihat detail setiap catatan audit untuk menentukan apakah aktivitas tersebut terkait dengan penerusan email.
 
-- **ObjectId**: Nilai alias kotak surat yang telah dimodifikasi.
+   - **ObjectId**: Nilai alias kotak surat yang telah dimodifikasi.
+   - **Parameter**: _ForwardingSmtpAddress_ menunjukkan alamat email target.
+   - **UserId**: Pengguna yang mengonfigurasi penerusan email pada kotak surat di bidang **ObjectId.**
 
-- **Parameter**: _ForwardingSmtpAddress_ menunjukkan alamat email target.
-
-- **UserId**: Pengguna yang mengonfigurasi penerusan email pada kotak surat di bidang **ObjectId.**
-
-Untuk informasi selengkapnya, [lihat Menentukan siapa yang menyiapkan penerusan email untuk kotak surat](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Untuk informasi selengkapnya, [lihat Menentukan siapa yang menyiapkan penerusan email untuk kotak surat](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
