@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036044"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116407"
 ---
 # <a name="get-started-with-microsoft-edge--bing"></a>Mulai menggunakan Microsoft Edge + Bing
 
-Tidak ada penyiapan tambahan yang diperlukan untuk mulai menggunakan Microsoft Edge + Bing. Untuk menemukan informasi terkait pekerjaan, cukup masukkan kueri Anda di bilah alamat Microsoft Edge.
+Tidak ada penyiapan tambahan yang diperlukan untuk memulai dengan Microsoft Edge + Bing. Untuk menemukan informasi terkait pekerjaan, cukup masukkan kueri Anda di bilah alamat Microsoft Edge.
 
-Untuk mempelajari selengkapnya, lihat [mendapatkan lebih banyak dengan Microsoft Edge + Bing](https://go.microsoft.com/fwlink/?linkid=2152963).
+Untuk mempelajari selengkapnya, lihat [Dapatkan lebih banyak hal Microsoft Edge + Bing](https://go.microsoft.com/fwlink/?linkid=2152963).

@@ -1,5 +1,5 @@
 ---
-title: Pelajari tentang pemetaan antara kebijakan Google Chrome dan kebijakan Microsoft Edge
+title: Pelajari tentang pemetaan antara kebijakan Google Chrome Microsoft Edge kebijakan Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "7097"
-ms.openlocfilehash: adde475b409455b30e6a955c850a70eda8e7b625
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 04277f888ba08f6f2ae77ad76be50281e6e588f62574864446d0d62de6e0401b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116299"
 ---
-# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Pelajari tentang pemetaan antara kebijakan Google Chrome dan kebijakan Microsoft Edge
+# <a name="learn-about-mapping-between-google-chrome-policies-and-microsoft-edge-policies"></a>Pelajari tentang pemetaan antara kebijakan Google Chrome Microsoft Edge kebijakan Google Chrome
 
-Kebijakan Google Chrome dipetakan ke kebijakan Microsoft Edge yang relevan yang didukung di browser versi 80. Untuk mempelajari selengkapnya, lihat [Google Chrome ke Microsoft Edge Policy mapping](https://go.microsoft.com/fwlink/?linkid=2141933).
+Kebijakan Google Chrome dipetakan ke kebijakan Microsoft Edge terkait yang didukung di browser versi 80. Untuk mempelajari selengkapnya, lihat [Google Chrome Microsoft Edge pemetaan kebijakan .](https://go.microsoft.com/fwlink/?linkid=2141933)

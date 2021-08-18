@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320033"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Perbarui alamat terjual ke dan daftar tagihan ke yang terkait dengan MCA Anda - langkah-langkah yang direkomendasikan
 
 Anda dapat memperbarui alamat terjual ke dan alamat tagihan ke yang terkait dengan Perjanjian Pelanggan Microsoft (MCA, Microsoft Customer Agreement). 
 
-> [!NOTE]
-> Hanya administrator pengguna yang bisa membuat perubahan pada Azure Active Directory profil pengguna. Jika Anda tidak diberi peran administrator pengguna, hubungi administrator pengguna Anda. Untuk informasi selengkapnya tentang mengubah profil pengguna, lihat [Menambahkan atau memperbarui informasi profil pengguna menggunakan Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**Catatan**: Hanya administrator pengguna yang dapat melakukan perubahan pada Azure Active Directory profil pengguna mereka. Jika Anda tidak diberi peran administrator pengguna, hubungi administrator pengguna Anda. Untuk informasi selengkapnya tentang mengubah profil pengguna, lihat [Menambahkan atau memperbarui informasi profil pengguna menggunakan Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **Alamat terjual** ke - Alamat terjual ke adalah alamat dan informasi kontak organisasi atau individu, yang bertanggung jawab atas akun tagihan. Faktur ditampilkan di semua faktur yang dihasilkan untuk akun tagihan.
 

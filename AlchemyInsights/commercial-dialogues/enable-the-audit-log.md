@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 6f2067a2dcae5841aecf9acd061e4e03cf91fbac3637467e82aee2fbc9340f9a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fcf35457ed886581e37aa8e58df46898775d6651
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895218"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319783"
 ---
 # <a name="enable-the-audit-log"></a>Mengaktifkan log audit
 
@@ -25,7 +25,7 @@ Kepatuhan komunikasi memerlukan log audit untuk memperlihatkan peringatan dan me
 
 1. Lakukan salah satu tindakan berikut ini:
    - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
-   - Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
+   - Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
 2. Di halaman **Audit,** verifikasi bahwa tab **Pencarian** dipilih, lalu klik banner **Mulai perekaman aktivitas pengguna dan admin.**
 
 Setelah Anda mengaktifkan pengauditan, sebuah pesan menampilkan pesan yang mengatakan bahwa log audit sedang disiapkan dan Anda dapat menjalankan pencarian dalam beberapa jam setelah persiapan selesai. Anda hanya perlu melakukan tindakan ini sekali saja.

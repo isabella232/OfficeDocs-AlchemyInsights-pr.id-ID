@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319895"
 ---
 # <a name="your-payment-was-declined"></a>Pembayaran Anda ditolak
 
@@ -35,8 +35,7 @@ Microsoft akan mengenakan biaya pada kartu Anda beberapa kali dalam 3-4 minggu s
 
 4. Untuk memilih metode pembayaran yang sudah ada, pilih salah satu dari daftar menurun, lalu pilih **Ganti**.
 
-    > [!NOTE]
-    > Jika memiliki langganan yang dikaitkan dengan profil tagihan, Anda hanya bisa menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
+    **Catatan**: Jika memiliki langganan yang terkait dengan profil tagihan, Anda hanya dapat menggunakan kartu kredit atau debit untuk membayarnya. Jika Anda memiliki rekening bank tercantum di halaman **Metode pembayaran**, rekening tidak dapat dipilih di daftar menurun.
 
 5. Untuk menambahkan metode pembayaran baru, pilih **Tambahkan metode pembayaran**.
 

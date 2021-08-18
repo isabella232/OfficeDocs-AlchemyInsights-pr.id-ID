@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502179"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319503"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Cara menambahkan atau mengedit PPN
 
-> [!NOTE]
-> Jika berada di negara yang menggunakan pajak pertambahan nilai, seperti Kerajaan Inggris Bersatu, Microsoft Invoicing akan menghitung PPN untuk Anda dan menerapkan jumlah tersebut ke faktur. Untuk informasi selengkapnya, lihat [Sanggahan VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) yang diterbitkan oleh Komisi Eropa.
+**Catatan:** Jika berada di negara yang menggunakan pajak pertambahan nilai, seperti Kerajaan Inggris Bersatu, Microsoft Invoicing akan menghitung PPN untuk Anda dan menerapkan jumlah tersebut ke faktur. Untuk informasi selengkapnya, lihat [Sanggahan VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) yang diterbitkan oleh Komisi Eropa.
 
 **Menambahkan atau mengedit VATID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502179"
 3. Di halaman detail langganan, di bagian **Alamat penggunaan layanan,** pilih **Edit alamat penggunaan layanan**.
 4. Di panel **Edit alamat penggunaan layanan** Anda, ketik ID PPN Anda di kotak nomor **PPN,** lalu pilih **Simpan.** Setelah Anda melakukan ini, PPN tidak akan ditagihkan pada tagihan Anda berikutnya.
 
-Untuk mempelajari selengkapnya, [lihat Pajak apa yang akan dikenakan untuk tagihan Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Untuk mempelajari selengkapnya, [lihat Pajak apa yang akan dikenakan untuk tagihan Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

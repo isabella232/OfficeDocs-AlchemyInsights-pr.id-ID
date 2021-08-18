@@ -1,5 +1,5 @@
 ---
-title: 911 menonaktifkan kotak masuk prioritas di klien
+title: 911 Menonaktifkan kotak masuk prioritas di klien
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 7d9d065c3b95f5fe75eca5df844fbe7a9f3e6de9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df283ec7aab493dcca684426606b54fdb08a2fa94d2e17845cefc028ed4407c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092485"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>Menonaktifkan kotak masuk prioritas di klien email
+# <a name="turn-off-focused-inbox-in-email-clients"></a>Menonaktifkan Kotak Masuk Prioritas pada klien email
 
-Untuk menonaktifkan kotak masuk prioritas di Outlook 2016, Outlook di web, Outlook.com/Hotmail.com, Outlook 2016 untuk Mac, atau email untuk Windows 10, lihat [menonaktifkan kotak masuk prioritas](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+Untuk menonaktifkan Kotak Masuk Prioritas di Outlook 2016, Outlook di web, Outlook.com/Hotmail.com, Outlook 2016 untuk Mac, atau Email untuk Windows 10, lihat Menonaktifkan [Kotak Masuk Prioritas](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
 
-Untuk menonaktifkan kotak masuk prioritas untuk semua orang di organisasi, lihat [mengonfigurasi kotak masuk prioritas untuk semua orang di organisasi Anda](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Untuk menonaktifkan Kotak Masuk Prioritas bagi semua orang di organisasi, lihat [Mengonfigurasi Kotak Masuk Prioritas untuk semua orang di organisasi Anda.](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox)
