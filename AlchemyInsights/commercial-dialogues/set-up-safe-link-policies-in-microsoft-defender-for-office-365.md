@@ -1,5 +1,5 @@
 ---
-title: Menyiapkan kebijakan Brankas Tautan di Pertahanan Microsoft untuk Office 365
+title: Menyetel Brankas Link Di Pertahanan Microsoft untuk Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882570"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322216"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Menyiapkan kebijakan Brankas Tautan di Pertahanan Microsoft untuk Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Menyetel Brankas Link Di Pertahanan Microsoft untuk Office 365
 
-1. Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com/> , buka Email & Kebijakan **Kolaborasi** \> **& Aturan** \> **Brankas** \> **tautan di** **bagian** Kebijakan.
+1. Dalam portal Pertahanan Microsoft 365 di , masuk ke Email & Kebijakan Kolaborasi <https://security.microsoft.com/>  \> **& aturan** \> **kebijakan** \> **ancaman Brankas link** di **bagian** Kebijakan.
 
-   Untuk langsung masuk ke Brankas **Tautan,** gunakan <https://security.microsoft.com/safelinksv2> .
+   Untuk langsung masuk ke halaman **Brankas,** gunakan <https://security.microsoft.com/safelinksv2> .
 
 2. Di halaman **Brankas Tautan,** lakukan salah satu langkah berikut:
    - Untuk menambahkan kebijakan baru, pilih **+ Buat**. Panduan akan diluncurkan untuk membantu Anda menetapkan pengaturan kebijakan.
@@ -35,4 +35,4 @@ ms.locfileid: "57882570"
 Untuk informasi selengkapnya, lihat artikel berikut ini:
 
 - [Menyiapkan Brankas Tautan di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
-- [Mengonfigurasi pengaturan global untuk Brankas Link Di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)
+- [Mengonfigurasi pengaturan global untuk Brankas Link di Pertahanan Microsoft untuk Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-global-settings-for-safe-links)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054801"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321910"
 ---
 # <a name="issues-with-links-and-urls"></a>Masalah pada tautan dan URL
 
@@ -42,15 +42,13 @@ Untuk menambahkan URL balasan, buka tab **Autentikasi** di halaman **pendaftaran
     - platform (iOS/Android/UWP)
     - informasi yang digunakan untuk membangun aplikasi Anda, seperti ID bundel di iOS, dan nama paket serta hash tanda tangan di Android Pendaftaran aplikasi portal Microsoft Azure akan membantu Anda. Untuk detailnya, lihat [Konfigurasi platform dan URI pengalihan](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Web API dan beberapa cara untuk memperoleh token (IWA dan nama pengguna/kata sandi) secara diam-diam tidak memerlukan URI pengalihan.
+**Catatan**: API Web dan beberapa cara diam-diam mendapatkan token (IWA dan nama pengguna/kata sandi) tidak memerlukan URI pengalihan.
 
 **Saya telah menyebarkan aplikasi web saya dan ketika saya mengujinya, saya mendapatkan pesan ketidakcocokan url balasan**
 
 Tambahkan URI pengalihan untuk semua lokasi tempat Anda menyebarkan aplikasi web. Untuk informasi selengkapnya, lihat [Mendaftarkan aplikasi web menggunakan portal Microsoft Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Tambahkan URI pengalihan untuk lokasi segera setelah Anda menyebarkan aplikasi di lokasi itu.
+**Catatan**: Menambahkan URI pengalihan untuk lokasi segera setelah Anda menggunakan aplikasi di lokasi tersebut.
 
 **Saya tidak bisa mendaftarkan cukup URL balasan**
 

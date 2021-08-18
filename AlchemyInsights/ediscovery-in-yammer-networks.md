@@ -1,5 +1,5 @@
 ---
-title: eDiscovery di Jaringan Yammer
+title: eDiscovery di Yammer Networks
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118388"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>eDiscovery di Jaringan Yammer
+# <a name="ediscovery-in-yammer-networks"></a>eDiscovery di Yammer Networks
 
-Anda kini dapat melakukan pencarian eDiscovery untuk konten Yammer.  Melakukan pencarian atau ekspor eDiscovery pada konten Yammer memerlukan hal berikut:
+Kini Anda dapat melakukan pencarian eDiscovery Yammer pencarian.  Melakukan pencarian atau ekspor eDiscovery pada Yammer ini memerlukan hal berikut:
 
-1. Anda harus terlebih dahulu melakukan migrasi Jaringan Yammer Enterprise ke Mode Asli agar pesan dan file Yammer Anda dapat ditemukan. Catatan: jika Anda adalah pelanggan baru mulai **9 Januari 2020** dan jaringan Yammer Anda sudah menggunakan Mode Asli, data Anda kini dapat ditemukan dengan eDiscovery .
+1. Anda harus terlebih dahulu melakukan migrasi Yammer Enterprise Jaringan ke Mode Asli agar pesan Yammer dan file dapat ditemukan. Catatan: jika Anda adalah pelanggan baru mulai **9 Januari 2020** dan jaringan Yammer Anda sudah dalam Mode Asli, data Anda kini dapat ditemukan dengan eDiscovery .
 
-2. Untuk keluar dari pelanggan, eDiscovery untuk Yammer akan tersedia setelah alat Perataan Mode Asli dirilis dan migrasi Mode Asli selesai untuk Yammer dalam penyewa.
+2. Untuk keluar dari pelanggan, eDiscovery untuk Yammer akan tersedia setelah alat Perataan Mode Asli dirilis dan migrasi Mode Asli selesai Yammer dalam penyewa.
 
 Untuk informasi selengkapnya tentang:
 
-- Mode Asli di Yammer, lihat: [Gambaran umum Mode Asli.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
-- eDiscovery di Jaringan Yammer, lihat: [Gambaran umum eDiscovery di jaringan Yammer.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Mode Asli di Yammer, lihat: [Gambaran umum Mode Asli](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- eDiscovery di Yammer Jaringan, lihat: [Gambaran umum eDiscovery Yammer jaringan](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
 - eDiscovery di Microsoft 365, lihat [eDiscovery di Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

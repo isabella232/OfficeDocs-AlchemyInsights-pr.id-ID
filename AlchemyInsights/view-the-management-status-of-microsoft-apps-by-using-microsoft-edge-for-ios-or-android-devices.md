@@ -15,12 +15,12 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892386"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322532"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Menampilkan status manajemen aplikasi Microsoft menggunakan Microsoft Edge untuk perangkat iOS atau Android
 
@@ -28,4 +28,4 @@ Untuk mengakses log aplikasi yang digunakan dalam memecahkan masalah aplikasi iO
 
 Untuk daftar pengaturan yang disimpan di log aplikasi, lihat [Meninjau log proteksi aplikasi klien](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 
-Untuk mempelajari cara menampilkan log aplikasi di perangkat Android, lihat [Upload dan log email .](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Untuk mempelajari cara menampilkan log aplikasi di perangkat Android, lihat [Upload log email dan email.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)

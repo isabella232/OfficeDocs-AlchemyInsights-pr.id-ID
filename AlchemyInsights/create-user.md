@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896718"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323289"
 ---
 # <a name="create-user"></a>Buat pengguna
 
@@ -35,7 +35,7 @@ ms.locfileid: "57896718"
 1. Pastikan tidak ada pengguna atau kontak lain yang telah memiliki nama pengguna yang ingin Anda tetapkan ke pengguna baru. Nama pengguna harus unik di Azure AD.
 1. Lihat [peran dan administrator Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) untuk Azure AD Anda.
 1. Lihat nama [domain untuk](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD Anda.
-1. Tinjau [Log audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) untuk melihat informasi lebih mendetail tentang pengguna yang baru dibuat atau dihapus seperti siapa yang melakukan tindakan dan kapan.
+1. Tinjau [log Audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) untuk melihat informasi lebih mendetail tentang pengguna yang baru dibuat atau dihapus seperti siapa yang melakukan tindakan dan kapan.
 1. Untuk informasi selengkapnya tentang menambahkan pengguna baru, [lihat Menggunakan portal Azure untuk membuat pengguna baru di Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Peran administratif Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Izin peran administrator Azure Active Directory
+1. [Peran administratif Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Izin peran administrator Azure Active Directory
 1. Anda juga dapat [menggunakan Azure AD PowerShell untuk membuat pengguna baru.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

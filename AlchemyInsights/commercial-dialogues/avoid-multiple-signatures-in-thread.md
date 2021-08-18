@@ -1,5 +1,5 @@
 ---
-title: Menghindari beberapa tanda tangan agar tidak ditambahkan dalam percakapan email
+title: Hindari penambahan beberapa tanda tangan dalam percakapan email
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119323"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Menghindari beberapa tanda tangan agar tidak ditambahkan dalam percakapan email
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Hindari penambahan beberapa tanda tangan dalam percakapan email
 
-Untuk mendapatkan sanggahan atau tanda tangan yang ditambahkan satu kali per utas email, Anda harus mengubah pengaturan di pusat admin Exchange.
+Untuk mendapatkan sanggahan atau tanda tangan yang ditambahkan hanya sekali per utas email, Anda perlu mengubah pengaturan di Exchange admin baru.
 
-1. Masuk ke [Pusat admin Exchange.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Pilih **opsi lainnya** untuk menambahkan pengecualian yang mencari teks unik dalam sanggahan Anda. Ini memastikan sanggahan hanya ditambahkan ke pesan asli.
+1. Masuk ke [Exchange admin baru.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Pilih **Opsi lainnya** untuk menambahkan pengecualian yang mencari teks unik dalam sanggahan Anda. Ini memastikan bahwa sanggahan ditambahkan hanya ke pesan asli.
 
