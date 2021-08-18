@@ -1,5 +1,5 @@
 ---
-title: Berbagi kalender 616
+title: 616 Berbagi Kalender
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119920"
 ---
-# <a name="troubleshooting-issues-with-calendar-sharing"></a>Memecahkan masalah dengan berbagi kalender
+# <a name="troubleshooting-issues-with-calendar-sharing"></a>Pemecahan masalah berbagi kalender
 
-- Untuk mendiagnosis masalah izin, gunakan [Exchange remote Connectivity Analyzer gratis](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), yang memberi pesan kesalahan yang sangat spesifik.
-- Anda juga dapat menggunakan [asisten dukungan dan pemulihan Microsoft untuk microsoft 365](https://diagnostics.office.com/) guna mendiagnosis berbagai masalah kalender lainnya. 
-- Jika pengguna memiliki Outlook desktop, [alat pemeriksaan kalender untuk Outlook](https://www.microsoft.com/download/details.aspx?id=28786) dapat mengatasi masalah potensial.
+- Untuk mendiagnosis masalah izin, [gunakan Exchange Penganalisis Konektivitas Jarak](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)Jauh Bebas Sibuk, yang memberi pesan kesalahan sangat spesifik.
+- Anda juga dapat menggunakan [Microsoft Asisten Dukungan dan Pemulihan for Microsoft 365](https://diagnostics.office.com/) untuk mendiagnosis berbagai masalah kalender lainnya. 
+- Jika pengguna memiliki desktop Outlook, Alat Pemeriksaan [Kalender untuk memeriksa Outlook](https://www.microsoft.com/download/details.aspx?id=28786) bisa mengatasi potensi masalah.
 
-Sumber daya cara-untuk tambahan:
+Sumber daya cara kerja tambahan:
 
 - [Berbagi kalender Outlook dengan orang lain](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Berbagi kalender Anda di Outlook di web untuk bisnis](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Berbagi kalender di Outlook di web untuk bisnis](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

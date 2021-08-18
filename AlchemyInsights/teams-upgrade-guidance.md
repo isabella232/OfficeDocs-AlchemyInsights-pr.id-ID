@@ -1,5 +1,5 @@
 ---
-title: Teams pemutakhiran gratis
+title: Teams panduan pemutakhiran
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901183"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324319"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams baru
 
-Baik Anda baru mulai menggunakan Teams, sudah menggunakan Teams selain Skype for Business, atau siap memutakhirkan, kami ingin memastikan Anda memiliki semua hal yang diperlukan untuk menavigasi keberhasilan perjalanan Teams. Untuk informasi selengkapnya, silakan kunjungi tautan di bawah ini.
+Baik Anda baru mulai menggunakan Teams, sudah menggunakan Teams selain Skype for Business, atau siap memutakhirkan, kami ingin memastikan Anda memiliki semua hal yang diperlukan untuk menavigasi keberhasilan perjalanan ke Teams. Untuk informasi selengkapnya, silakan kunjungi tautan di bawah ini.
 
 [Mulai menggunakan peningkatan Microsoft Teams Anda](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
@@ -32,4 +32,4 @@ Baik Anda baru mulai menggunakan Teams, sudah menggunakan Teams selain Skype for
 
 [Melakukan pemutakhiran dari Skype for Business lokal ke Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Memeriksa status status Skype for Business Online untuk Teams dengan PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Memeriksa status Status Skype for Business Online untuk Teams dengan PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

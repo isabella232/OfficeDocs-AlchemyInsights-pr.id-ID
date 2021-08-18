@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895890"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325298"
 ---
 # <a name="expired-subscription"></a>Langganan kedaluwarsa
 
@@ -30,8 +30,7 @@ Tampaknya Anda memiliki satu atau beberapa langganan yang kedaluwarsa. Jika ingi
   
 1. Di pusat admin, masuk ke halaman **Tagihan** \> [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Pada tab **Produk,** temukan langganan yang ingin Anda aktifkan kembali. Pilih tiga titik (tindakan lainnya), lalu pilih **Aktifkan kembali langganan ini**.
-    > [!NOTE]
-    > Jika Anda tidak melihat Aktifkan **kembali langganan ini,** hubungi dukungan.
+    **Catatan**: Jika Anda tidak melihat Aktifkan **kembali langganan ini,** hubungi dukungan.
 3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
 4. Pilih **Simpan**.
 

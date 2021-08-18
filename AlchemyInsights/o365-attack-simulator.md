@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895794"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325074"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Attack in Microsoft 365
 
-- Apakah Anda kehilangan Attack Attack? Attack Attack memerlukan **Pertahanan Microsoft untuk Office 365 Paket 2** atau Office 365 Enterprise **E5**. Attack Defender **tidak** disertakan dalam Pertahanan Microsoft untuk Office 365 Paket 1, Office 365 Enterprise E3, atau langganan Aplikasi Microsoft 365 untuk bisnis apa pun.
+- Apakah Anda kehilangan Attack Attack? Attack Defender **for Microsoft Defender for Office 365 Plan 2** **atau Office 365 Enterprise E5**. Attack Defender **tidak** disertakan dalam Pertahanan Microsoft untuk Office 365 Paket 1, Office 365 Enterprise E3, atau langganan Aplikasi Microsoft 365 untuk bisnis apa pun.
 
 - Akun yang digunakan untuk meluncurkan simulasi serangan memerlukan izin administrator global atau administrator keamanan dan multi-factor authentication (MFA). Untuk informasi selengkapnya tentang persyaratan Attack Minimum, lihat [topik ini](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 

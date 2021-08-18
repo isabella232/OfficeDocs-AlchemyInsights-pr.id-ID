@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 49d6d449af6e718d70c9948a03f7e2e1e21517d2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54048159"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323569"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Memperbaiki masalah dengan Buka dengan Explorer
 
@@ -29,9 +29,8 @@ Perbaiki masalah umum dengan membuka pustaka dokumen di SharePoint atau OneDrive
     
 - Pastikan layanan WebClient sedang berjalan. Dalam kotak Windows pencarian, ketikkan jalankan, pilih aplikasi desktop Jalankan, ketik services.msc, lalu tekan Enter. Gulir ke bawah ke layanan WebClient dan pastikan kolom **Status** menampilkan "Berjalan." Jika tidak, klik ganda layanan, klik **Mulai,** lalu klik **OK.** (Anda mungkin perlu mengaktifkan layanan terlebih dahulu dengan memilih **Manual** atau **Otomatis dalam** kotak **Tipe mulai.)** 
     
-> [!NOTE]
-> Membuka pustaka di File Explorer akan sangat praktis jika Anda perlu menyalin atau memindahkan beberapa file dan folder sekali, tetapi jika ingin bekerja secara rutin dalam pustaka, sebaiknya sinkronkan pustaka. Untuk memecahkan masalah saat membuka di File Explorer, lihat [Membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Untuk informasi tentang menyiapkan sinkronisasi, lihat [Menyinkronkan SharePoint file dengan klien OneDrive Sync baru.](https://go.microsoft.com/fwlink/?linkid=871666)
+**Catatan**: Membuka pustaka di File Explorer akan sangat praktis jika Anda perlu menyalin atau memindahkan beberapa file dan folder sekali, tetapi jika ingin bekerja secara rutin dalam pustaka, kami menyarankan untuk menyinkronkannya. Untuk memecahkan masalah saat membuka di File Explorer, lihat [Membuka di Explorer](https://go.microsoft.com/fwlink/?linkid=871665). Untuk informasi tentang menyiapkan sinkronisasi, lihat [Menyinkronkan SharePoint file dengan klien OneDrive Sync baru.](https://go.microsoft.com/fwlink/?linkid=871666)
   
-Silakan lihat artikel [Cara menggunakan perintah "Buka dengan Explorer"](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) untuk memecahkan masalah dalam SharePoint Online untuk informasi selengkapnya. 
+Silakan lihat artikel [Cara menggunakan perintah "Buka](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) dengan Explorer" untuk memecahkan masalah dalam SharePoint Online untuk informasi selengkapnya. 
   
 

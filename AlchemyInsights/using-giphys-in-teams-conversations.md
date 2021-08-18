@@ -1,5 +1,5 @@
 ---
-title: Menggunakan Giphy di Teams Conversations
+title: Menggunakan Giphy di Teams Percakapan
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 296c2f80d35f1c93ab3c60e0be65fd96c953ca81
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323523"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>Menggunakan Giphy di Teams Conversations
+# <a name="using-giphys-in-teams-conversations"></a>Menggunakan Giphy di Teams Percakapan
 
-Akses Giphys Teams obrolan diaktifkan secara default. Sebagai administrator, Anda dapat mengontrol apakah Giphy [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) tersedia bagi pengguna dengan mengatur kebijakan olahpesan dan memastikan bahwa Gunakan **Giphy dalam percakapan** **aktif**.
+Akses Giphy dalam Teams obrolan otomatis diaktifkan secara default. Sebagai administrator, Anda dapat mengontrol apakah Giphy [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) tersedia bagi pengguna dengan mengatur kebijakan olahpesan dan memastikan bahwa Gunakan **Giphy dalam percakapan** **aktif**.
 
 Jika GIF tidak berfungsi seperti yang diharapkan Teams percakapan, verifikasi:
 
@@ -33,5 +33,4 @@ Kebijakan [pesan harus](https://docs.microsoft.com/microsoftteams/messaging-poli
 
 [Pengalaman Terhubung Opsional](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) harus diaktifkan agar dapat mengakses URL Giphy.
 
-> [!NOTE]
-> Jika memiliki beberapa Teams Pesan yang dikonfigurasi untuk penyewa, Anda dapat menentukan identitas kebijakan yang ditetapkan untuk pengguna yang terkena dampak dengan perintah [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Pilih TeamsMessagingPolicy.
+**Catatan**: Jika Anda memiliki beberapa Teams Pesan yang dikonfigurasi untuk penyewa, Anda bisa menentukan identitas kebijakan yang ditetapkan untuk pengguna yang terkena dampak dengan perintah [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | Pilih TeamsMessagingPolicy.

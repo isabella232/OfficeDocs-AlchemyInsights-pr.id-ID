@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003572"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325466"
 ---
 # <a name="enable-cost-management"></a>Enable cost management
 
 **Apa arti 'biaya dinonaktifkan untuk organisasi Anda'?**
 
-Organisasi yang menggunakan Perjanjian Enterprise (EA) atau Microsoft Customer Agreement (MCA) bisa menonaktifkan akses ke informasi biaya dan informasi harga.
+Organisasi yang menggunakan Perjanjian Enterprise (EA) atau akun Microsoft Customer Agreement (MCA) bisa menonaktifkan akses ke informasi biaya dan informasi harga.
 
 Setelah masuk ke portal Azure, mereka dapat menggunakan API Tagihan untuk mendapatkan faktur (setelah diikutsertakan) dan detail penggunaan secara terprogram.
 
@@ -34,8 +34,7 @@ Setelah masuk ke portal Azure, mereka dapat menggunakan API Tagihan untuk mendap
 2. Pilih **Faktur** lalu **Akses ke faktur.**
 3. Aktifkan akses, diikuti dengan menyimpan perubahan, untuk memungkinkan pengguna dalam peran dengan lingkup langganan mengunduh faktur.
 
-> [!NOTE]
-> Administrator Akun juga dapat mengonfigurasi agar faktur dikirim melalui email. Untuk mempelajari selengkapnya, lihat [Mendapatkan faktur dalam email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Catatan**: Administrator Akun juga dapat mengonfigurasi agar faktur dikirim melalui email. Untuk mempelajari selengkapnya, lihat [Mendapatkan faktur Dalam email](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Cara menambahkan pengguna ke peran Pembaca Tagihan**
 

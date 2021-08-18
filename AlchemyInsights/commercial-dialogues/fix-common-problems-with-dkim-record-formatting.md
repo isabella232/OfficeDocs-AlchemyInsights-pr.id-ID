@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 5b3dc2338843906fbc7151322b82f304b4ed04b28d8ceb349f2705c309cdeae8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e55175e7613d220eaf956d3c7fd02213dcd5803d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930064"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323993"
 ---
 # <a name="fix-common-problems-with-dkim-record-formatting"></a>Memperbaiki masalah umum dengan pemformatan rekaman DKIM
 
@@ -28,5 +28,4 @@ Untuk memperbaiki masalah pengaturan DKIM, verifikasi bahwa catatan DKIM CNAME (
 
 Jika Anda membutuhkan bantuan dengan catatan DNS secara umum, lihat [Membuat catatan DNS di penyedia hosting DNS apa pun untuk Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
-> [!NOTE]
-> Setelah membuat atau memperbarui catatan DNS DKIM di layanan hosting DNS untuk domain, Tunggu hingga catatan DNS dis propagate.
+**Catatan:** Setelah membuat atau memperbarui catatan DNS DKIM di layanan hosting DNS untuk domain, Tunggu hingga catatan DNS dis propagate.

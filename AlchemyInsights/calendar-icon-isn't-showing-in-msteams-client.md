@@ -1,5 +1,5 @@
 ---
-title: Ikon kalender tidak ditampilkan di klien Microsoft teams
+title: Ikon Kalender tidak muncul di Microsoft Teams klien
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9001219"
 - "6794"
 - "3403"
-ms.openlocfilehash: e28b1c8d5d0feef1a743c8527db424af4c205fe9
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: edd6b4a2d94b03cf4ae7bf3a8d6332ed94a7e8263aba9df1f9588eecbd0ce05a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54120007"
 ---
-# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikon kalender tidak ditampilkan di klien Microsoft teams
+# <a name="calendar-icon-isnt-showing-in-microsoft-teams-client"></a>Ikon Kalender tidak muncul di Microsoft Teams klien
 
-Tab **kalender** di teams memerlukan akses ke kotak surat Exchange melalui layanan web Exchange. Kotak surat Exchange bisa online, atau di tempat. Untuk pengguna online yang tidak melihat tab **kalender** , pastikan mereka [dilisensikan untuk kotak surat Exchange Online dan kotak surat diaktifkan](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes). Jika pengguna Anda berada di tempat, Anda perlu mengonfirmasi bahwa konfigurasi hibrid Anda sehat. Gunakan [Panduan Konfigurasi Hibrid](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) untuk memecahkan masalah. Perhatikan bahwa [Teams membutuhkan Exchange 2016 CU3 atau lebih tinggi](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+Tab **Kalender** di Teams memerlukan akses ke kotak Exchange email melalui Exchange Web Services. Kotak Exchange anda bisa Online, atau Di Tempat. Bagi pengguna Online yang tidak melihat Tab **Kalender,** pastikan mereka memiliki lisensi untuk kotak [Exchange Online dan kotak surat diaktifkan.](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) Jika pengguna berada di Tempat, Anda perlu mengonfirmasi bahwa konfigurasi Hibrid sehat. Gunakan [Panduan Konfigurasi Hibrid](https://docs.microsoft.com/exchange/hybrid-deployment/hybrid-agent) untuk memecahkan masalah. Perhatikan bahwa [Teams membutuhkan Exchange 2016 CU3 atau lebih tinggi](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 
-Untuk informasi selengkapnya dan langkah pemecahan masalah, lihat [memecahkan masalah interaksi Microsoft teams dan server Exchange](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+Untuk informasi selengkapnya dan langkah-langkah pemecahan masalah, [lihat Microsoft Teams dan Server Exchange interaksi mereka.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
