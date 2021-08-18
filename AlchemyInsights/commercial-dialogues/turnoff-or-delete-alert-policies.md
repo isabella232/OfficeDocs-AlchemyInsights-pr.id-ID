@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dddd01139d40f4ce97e0e8a18c1a98ac9dbd8aefd01ca7f27c9b30eb532701a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: edc41ecc9db1b3d163d1b44a669dd72fcdfef3ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090947"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326698"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Menonaktifkan atau menghapus kebijakan pemberitahuan
 
 Berikut cara melakukannya:
 
-1. Masuk ke [Office 365 Pusat & Kepatuhan .](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Pilih **kebijakan**  >  [Pemberitahuan Pemberitahuan](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. Jika kebijakan kustom, pilih kebijakan kustom dari daftar, lalu pilih **Hapus kebijakan**. Anda bisa mengaktifkan, menonaktifkan, atau menghapus beberapa kebijakan kustom sekaligus dengan memilih lebih dari satu dari satu dari daftar.
+1. Lakukan salah satu tindakan berikut ini:
+   - Pada pusat kepatuhan Microsoft 365 , <https://compliance.microsoft.com> masuk ke **Kebijakan Pemberitahuan** \> **Kebijakan** di **bagian** Pemberitahuan. Atau, untuk langsung masuk ke **halaman Kebijakan pemberitahuan,** gunakan <https://compliance.microsoft.com/alertpolicies> .
+   - Dalam portal Pertahanan Microsoft 365 , <https://security.microsoft.com> masuk ke Kebijakan **& Kebijakan pemberitahuan** \> . Atau, untuk langsung masuk ke **halaman Kebijakan pemberitahuan,** gunakan <https://security.microsoft.com/alertpolicies> .
+2. Jika kebijakan kustom, pilih kebijakan kustom dari daftar, lalu pilih **Hapus kebijakan**. Anda bisa mengaktifkan, menonaktifkan, atau menghapus beberapa kebijakan kustom sekaligus dengan memilih lebih dari satu dari satu dari daftar.
 
-> [!NOTE]
-> Jika ini adalah kebijakan sistem, Anda tidak bisa menghapusnya, tapi Anda bisa mengaktifkan atau menonaktifkannya lalu membuat kebijakan baru agar sesuai dengan kebutuhan Anda.
+**Catatan**: Jika ini adalah kebijakan sistem, Anda tidak bisa menghapusnya, tapi Anda bisa mengaktifkan atau menonaktifkannya lalu membuat kebijakan baru agar sesuai dengan kebutuhan Anda.

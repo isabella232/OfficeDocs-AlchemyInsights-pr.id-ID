@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e5bb1fda1dec0c0f72d1944d54b6f2747a6e909
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883134"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326080"
 ---
 # <a name="outbound-relay-pool"></a>Relay pool keluar
 
@@ -28,7 +28,7 @@ Untuk menghindari skenario menggunakan relay pool, pastikan bahwa pesan yang dit
 
 - Pengirim keluar adalah domain yang diterima dari penyewa.
 - Sender Policy Framework (SPF) passes when the message comes to Microsoft 365.
-- DomainKeys Identified Mail (DKIM) di domain pengirim P2 akan masuk ketika pesan masuk Microsoft 365.
+- DomainKeys Identified Mail (DKIM) di domain pengirim P2 akan masuk ketika pesan masuk ke Microsoft 365.
  
 Pesan yang memenuhi kriteria di atas tidak diteruskan melalui relay pool.
 

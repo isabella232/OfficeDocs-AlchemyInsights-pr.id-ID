@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887443"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326264"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikator tidak berfungsi menggunakan browser Edge
 
@@ -35,7 +35,7 @@ Setelah Anda membuat Indikator, Indikator tidak digunakan oleh Edge (Smartscreen
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>Langkah 2: Memecahkan masalah yang potensial
 
 - Pastikan klien memenuhi persyaratan. Untuk detailnya, [lihat Membuat indikator untuk IP dan URL/domain](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
-- Pastikan Anda menjalankan versi terbaru browser Edge. Untuk mengetahui versi terbaru, lihat [Cari tahu versi uji Microsoft Edge Anda miliki.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
+- Pastikan Anda menjalankan versi terbaru browser Edge. Untuk mencari tahu versi terbaru, lihat [Mencari tahu versi uji Microsoft Edge Anda miliki](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - Mulai ulang browser Edge.
 - Navigasikan ke situs di mana Anda telah menyiapkan indikator. Jika situs tidak muncul seperti yang diharapkan, lanjutkan ke Langkah 3. 
 

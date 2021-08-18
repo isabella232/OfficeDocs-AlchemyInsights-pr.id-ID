@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003623"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326508"
 ---
 # <a name="e-mail-invoice---legacy"></a>Faktur Email - Warisan
 
@@ -52,5 +52,4 @@ Untuk mengizinkan pengguna/grup dengan akses tingkat langganan untuk mengunduh f
 4. Pilih langganan Azure Anda lalu klik **Izinkan orang lain untuk mengunduh faktur**.
 5. Pilih **Aktif** lalu **Simpan** di bagian atas halaman.
 
-> [!NOTE]
-Jika Anda bukan admin akun, hubungi admin akun untuk mengikuti instruksi di atas untuk memilih, menambahkan penerima, atau mengizinkan pengguna lain mengunduh faktur.
+**Catatan**: Jika Anda bukan admin akun, hubungi admin akun untuk mengikuti instruksi di atas untuk memilih, menambahkan penerima, atau mengizinkan pengguna lain mengunduh faktur.

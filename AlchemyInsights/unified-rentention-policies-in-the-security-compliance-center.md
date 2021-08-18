@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 8d8cc53589c6643ececca29d86c53c1cb002b20f58b5b45789101c517cc1f703
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5c71106ed819aacd95e1b9ecf25f177f3596d44a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327218"
 ---
 # <a name="unified-retention-policies-in-the-security--compliance-center"></a>Kebijakan penyimpanan terpadu di Pusat & Kepatuhan Keamanan
 
-Kebijakan penyimpanan memungkinkan Anda mengelola konten organisasi Menggunakan pengaturan penyimpanan dan penghapusan. Anda dapat membuat kebijakan penyimpanan terpadu di Office 365 Pusat & Kepatuhan & atau di Pusat Microsoft 365 Kepatuhan. 
+Kebijakan penyimpanan memungkinkan Anda mengelola konten organisasi Menggunakan pengaturan penyimpanan dan penghapusan. Anda dapat membuat kebijakan penyimpanan terpadu di pusat Office 365 & Kepatuhan & atau di Pusat Microsoft 365 Kepatuhan. 
 
 1. Di Pusat [& Keamanan](https://go.microsoft.com/fwlink/p/?linkid=2077143), pilih Tata kelola **informasi Penyimpanan**  >    >  **+Buat**. <br/>
-    Di Pusat [Microsoft 365 , pilih](https://go.microsoft.com/fwlink/p/?linkid=2077149)Data **Kebijakan**> penyimpanan > + Kebijakan penyimpanan  >  **baru.**
+    Dalam kotak [Microsoft 365 Kepatuhan ,](https://go.microsoft.com/fwlink/p/?linkid=2077149)pilih Kebijakan **Data**> penyimpanan > + Kebijakan penyimpanan  >  **baru.**
 2. Tambahkan **Nama**, **Pengaturan**, dan **Pilih lokasi**.
 3. Tinjau pengaturan Anda, lalu pilih **Buat kebijakan ini** atau Simpan untuk **nanti**.  
       

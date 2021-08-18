@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895450"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326228"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Ingin membeli langganan baru?
 
-Jika Anda sudah memiliki langganan Microsoft 365 untuk bisnis dan ingin membeli langganan lain  untuk organisasi, masuk ke halaman layanan Pembelian Tagihan untuk melihat daftar langganan yang tersedia untuk \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) organisasi Anda.
+Jika Anda sudah memiliki langganan Microsoft 365 untuk bisnis dan ingin membeli langganan lain  untuk organisasi Anda, masuk ke halaman layanan Pembelian Tagihan untuk melihat daftar langganan yang tersedia untuk \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) organisasi Anda.
  
-1. Pilih langganan yang diinginkan, lalu pilih **Beli**.
+1. Pilih langganan yang anda inginkan, lalu pilih **Beli**.
 
 2. Pilih cara pembayaran, serta jumlah lisensi pengguna yang diperlukan.
 
