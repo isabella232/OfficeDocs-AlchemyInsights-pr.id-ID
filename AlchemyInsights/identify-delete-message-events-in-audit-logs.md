@@ -13,18 +13,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317597"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Log audit untuk pesan email yang dihapus
 
 Mulai Januari 2019, Microsoft akan mengaktifkan pembuatan log audit kotak surat secara default. Jika tidak, untuk meninjau kejadian penghapusan pesan bagi pengguna tertentu, Anda harus mengaktifkan tindakan penghapusan secara manual untuk pengauditan. Jika pembuatan log audit kotak surat sudah diaktifkan untuk organisasi Anda atau untuk pengguna tertentu, ikuti langkah-langkah di bawah ini.
 
-1. Masuk ke Pusat [Microsoft 365 Kepatuhan](https://protection.office.com/)
+1. Masuk ke [Pusat Microsoft 365 Kepatuhan](https://protection.office.com/)
 
 2. Klik **Pencarian dan Investigasi,** lalu **pilih Pencarian Log Audit.**
 

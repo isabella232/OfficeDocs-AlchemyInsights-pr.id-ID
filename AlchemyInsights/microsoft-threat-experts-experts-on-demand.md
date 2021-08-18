@@ -1,5 +1,5 @@
 ---
-title: Pakar ancaman Microsoft-pakar pada permintaan
+title: Microsoft Threat Experts - Experts on Demand
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841624"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113923"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Pakar ancaman Microsoft-pakar pada permintaan
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts - Experts on Demand
 
-Pakar permintaan adalah kapabilitas pakar ancaman Microsoft kedua. Ini adalah tempat Anda dapat menghubungi kami saat Anda memerlukan konsultasi tentang pertanyaan yang relevan terkait pendeteksian dan penolakan.
+Experts on Demand adalah Microsoft Threat Experts kedua. Ini adalah tempat Anda dapat menghubungi kami jika memerlukan konsultasi mengenai pertanyaan yang relevan terkait deteksi dan hari peringatan.
 
-Jika Anda sudah menjadi Defender untuk pelanggan titik akhir, Anda bisa menghubungi perwakilan Microsoft Anda untuk berlangganan pakar ancaman Microsoft-ahli yang sesuai dengan permintaan.
+Jika Anda sudah menjadi Pertahanan untuk pelanggan Titik Akhir, Anda dapat menghubungi perwakilan Microsoft untuk berlangganan ke Microsoft Threat Experts - Experts on Demand.
 
-Opsi untuk **berkonsultasi dengan pakar ancaman** tersedia di menu berikut ini di portal tempat Anda dapat berinteraksi dengan para ahli dalam konteks investigasi Anda:
+Opsi untuk **Berkonsultasi dengan pakar ancaman** tersedia pada menu berikut di portal tempat Anda dapat berhubungan dengan pakar dalam konteks investigasi:
 
 - Menu bantuan dan dukungan
 - Menu tindakan halaman perangkat
-- Menu tindakan halaman pemberitahuan
+- Menu tindakan halaman Pemberitahuan
 - Menu tindakan halaman file
 
-Untuk informasi selengkapnya, lihat [mengonfigurasi dan mengelola kapabilitas pakar ancaman Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Untuk informasi selengkapnya, [lihat Mengonfigurasi dan mengelola Microsoft Threat Experts lokal](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

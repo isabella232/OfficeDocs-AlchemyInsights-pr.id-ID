@@ -1,5 +1,5 @@
 ---
-title: Mulai menggunakan Webinar Teams Baru
+title: Mulai menggunakan Webinar Teams Webinar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a82695d81db634cfd12971a9b6521ae1de56360a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888245"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317653"
 ---
-# <a name="getting-started-with-teams-webinars"></a>Mulai menggunakan Webinar Teams Baru
+# <a name="getting-started-with-teams-webinars"></a>Mulai menggunakan Webinar Teams Webinar
 
 Webinar adalah rapat terstruktur di mana instruktur dan peserta memiliki peran yang jelas, sering digunakan untuk tujuan pelatihan atau penjualan dan skenario generasi calon prospek pemasaran.
 
@@ -27,4 +27,4 @@ Setelah menyiapkan webinar di organisasi Anda, pengguna Anda bisa menjadwalkan w
 
 **Catatan**: Fungsionalitas webinar masih dalam proses diluncurkan ke Microsoft 365 penyewa. 
 
-Untuk informasi selengkapnya tentang cara menyiapkan dan mengonfigurasi Webinar Teams, lihat Menyiapkan webinar [di Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).
+Untuk informasi selengkapnya tentang cara menyiapkan dan mengonfigurasi Webinar Teams, lihat [Menyiapkan webinar](https://docs.microsoft.com/microsoftteams/set-up-webinars)di Microsoft Teams .

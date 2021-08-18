@@ -1,5 +1,5 @@
 ---
-title: 125 mendapatkan kesalahan lisensi yang tidak valid dalam Outlook di web?
+title: 125 Mendapatkan kesalahan lisensi tidak valid Outlook di web?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089263"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Mendapatkan kesalahan lisensi yang tidak valid di Outlook di web?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Mendapatkan kesalahan lisensi tidak valid di Outlook di web?
 
-Jika Anda menggunakan Outlook di web dan Anda mengalami kesalahan kesalahan yang **berisi kesalahan** **X-OWA: Microsoft. Exchange. data. Storage. InvalidLicenseException**, lisensi Exchange Online Anda tidak diberikan atau baru kedaluwarsa. Admin Anda dapat menetapkan lisensi kepada Anda dengan mengikuti langkah-langkah berikut:
+Jika Menggunakan Outlook di web terjadi kesalahan yang  berisi Kesalahan **X-OWA: Microsoft.Exchange. Data. Storage. InvalidLicenseException,** lisensi Exchange Online Anda tidak ditetapkan dengan benar atau baru saja kedaluwarsa. Admin dapat menetapkan lisensi kepada Anda dengan mengikuti langkah-langkah berikut:
   
-1. Buka [Pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/homepage) dan di bawah **pengguna aktif**, pilih **Edit pengguna**.
+1. Buka [pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/homepage) dan di **bawah Pengguna aktif**, pilih Edit **pengguna**.
 
-2. Di halaman **Edit pengguna** yang terbuka, pilih pengguna. Di halaman properti pengguna yang terbuka, klik **Edit** untuk **lisensi produk**.
+2. Di halaman **Edit pengguna** yang terbuka, pilih pengguna. Di halaman properti pengguna yang terbuka, klik **Edit** **untuk Lisensi produk.**
 
-3. Di halaman **lisensi produk** yang terbuka, pilih nilai **Lokasi** yang sesuai, dan tetapkan lisensi yang berisi Exchange Online (Perluas lisensi untuk melihat detailnya). Saat Anda selesai, klik **Simpan**.
+3. Di halaman **Lisensi produk** yang terbuka,  pilih nilai Lokasi yang sesuai, dan tetapkan lisensi yang berisi Exchange Online (perluas lisensi untuk melihat detailnya). Saat Anda selesai, klik **Simpan**.

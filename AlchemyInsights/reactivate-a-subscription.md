@@ -15,14 +15,14 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062515"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900923"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Mengaktifkan kembali Microsoft 365 baru
+# <a name="reactivate-a-microsoft-365-subscription"></a>Mengaktifkan kembali Microsoft 365 langganan
 
 Jika langganan kedaluwarsa, dinonaktifkan oleh Microsoft, atau Anda membatalkannya di tengah-tengah masa langganan, langganan dapat diaktifkan kembali di pusat admin.
   
@@ -31,4 +31,4 @@ Jika langganan kedaluwarsa, dinonaktifkan oleh Microsoft, atau Anda membatalkann
 3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
 4. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

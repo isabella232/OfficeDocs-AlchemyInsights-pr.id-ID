@@ -1,5 +1,5 @@
 ---
-title: Mengonfigurasi pengaturan privasi Microsoft Edge
+title: Microsoft Edge mengonfigurasi pengaturan privasi
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114175"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Mengonfigurasi pengaturan privasi Microsoft Edge
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge mengonfigurasi pengaturan privasi
 
-Secara default, jika Microsoft Edge disebarkan di platform non-Windows, data diagnostik dan informasi situs tidak dikirim ke Microsoft. Namun, jika Microsoft Edge disebarkan di Windows 10, data diagnostik dan informasi situs dikirim sesuai dengan [pengaturan data diagnostik Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)pengguna.
+Secara default, Microsoft Edge disebarkan di platform non-Windows, data diagnostik, dan informasi situs tidak dikirim ke Microsoft. Namun, Microsoft Edge informasi situs dikirim Windows 10, data diagnostik dan informasi situs dikirim sesuai dengan pengaturan [data Windows pengguna.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Untuk mengonfigurasi cara Microsoft Edge menangani kumpulan data untuk organisasi Anda, gunakan kebijakan grup berikut ini:
-- [Metricsreportingenabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): kebijakan ini memungkinkan pelaporan data terkait penggunaan dan crash.
-- [Sendsiteinfotoimproveservices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): kebijakan ini mengirimkan informasi situs yang digunakan untuk menyempurnakan layanan Microsoft.
+Untuk mengonfigurasi Microsoft Edge mana yang menangani pengumpulan data untuk organisasi Anda, gunakan kebijakan grup berikut ini:
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Kebijakan ini memungkinkan pelaporan penggunaan dan data terkait crash.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Kebijakan ini mengirim informasi situs yang digunakan untuk menyempurnakan layanan Microsoft.
 
-Untuk mempelajari selengkapnya, lihat [mengonfigurasi pengaturan kebijakan](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Untuk mempelajari selengkapnya, lihat [Mengonfigurasi pengaturan kebijakan](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).

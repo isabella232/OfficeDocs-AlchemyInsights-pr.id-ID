@@ -1,5 +1,5 @@
 ---
-title: 127 mendapatkan kesalahan TenantAccessBlockedException ketika mengakses email?
+title: 127 Mendapatkan kesalahan TenantAccessBlockedException ketika mengakses email?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089443"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Mendapatkan kesalahan TenantAccessBlockedException ketika mengakses email?
 
-Ada beberapa alasan berbeda mengapa Anda mungkin menerima kesalahan ini. Misalnya:
+Terdapat beberapa alasan berbeda mengapa Anda menerima kesalahan ini. Misalnya:
 
-- Verifikasi bahwa langganan Anda valid pada halaman **tagihan** \> **[produk Anda](https://portal.office.com/adminportal/home#/subscriptions)** di pusat admin Microsoft 365.
+- Verifikasi bahwa langganan Anda valid di halaman **Tagihan** \> **[Produk Anda](https://portal.office.com/adminportal/home#/subscriptions)** di pusat admin Microsoft 365.
 
-- Periksa pemberitahuan jatuh tempo sebelumnya pada halaman tagihan **tagihan** \> **[&](https://portal.office.com/adminportal/home#/billoverview)** di pusat admin Microsoft 365.
+- Periksa pemberitahuan jatuh tempo sebelumnya pada **halaman Tagihan** & \> **[pembayaran di](https://portal.office.com/adminportal/home#/billoverview)** pusat admin Microsoft 365.
 
-- Jika tagihan dan langganan untuk akun Anda telah diperbarui baru-baru ini, mungkin perlu waktu agar perubahan disebarkan. Coba lagi dalam beberapa menit, dan jika masalah terus berlanjut, hubungi kami.
+- Jika tagihan dan langganan untuk akun Anda baru-baru ini diperbarui, akan membutuhkan waktu agar perubahan disbarbarkan. Coba lagi dalam beberapa menit, dan jika masalah tetap terjadi, hubungi kami.

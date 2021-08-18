@@ -1,5 +1,5 @@
 ---
-title: Membatalkan Project anda
+title: Membatalkan Project tim
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071407"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900431"
 ---
-# <a name="cancel-project-subscription"></a>Membatalkan Project anda
+# <a name="cancel-project-subscription"></a>Membatalkan Project tim
 
 Admin dapat membatalkan Project langganan untuk organisasi mereka di pusat admin Microsoft 365.
 
@@ -32,4 +32,4 @@ Admin dapat membatalkan Project langganan untuk organisasi mereka di pusat admin
 
 **Pengembalian dana:** Kredit prorated akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.
 
-Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

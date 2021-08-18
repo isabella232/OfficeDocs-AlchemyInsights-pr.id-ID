@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: f0f82eaaa00d71992af445bb89346fb85bad3ade5d120b25ad3a6ea4f9674893
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1b4f336f389eb6fd81ac2ca40e6047184cc4c1bf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883322"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317699"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>Kesalahan "Koneksi yang mendasari ditutup" di SharePoint
 
-Jika menerima kesalahan "Koneksi yang mendasari ditutup" SharePoint mungkin terkait dengan penghentian TLS 1.0/1.1. Untuk informasi selengkapnya, lihat artikel berikut ini:
+Jika menerima kesalahan "Koneksi yang mendasari ditutup" di SharePoint mungkin terkait dengan penghentian TLS 1.0/1.1. Untuk informasi selengkapnya, lihat artikel berikut ini:
 
 - [Mempersiapkan TLS 1.2 di Office 365 dan Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 

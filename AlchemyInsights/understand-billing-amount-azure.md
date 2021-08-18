@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020087"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317143"
 ---
 # <a name="understand-billing-amount"></a>Memahami konsep tagihan
 
@@ -70,7 +70,9 @@ Tidak. Pelanggan mendapatkan hitungan tetap layanan Tingkat Gratis dan kredit $2
 
 **Bagaimana cara memverifikasi layanan gratis yang aktif atau kapan layanan akan kedaluwarsa?**
 
-Di Portal Ibiza > Langganan > Gambaran Umum > gulir bawah ke layanan Gratis selama 12 bulan, lalu klik ikon Informasi. Langkah ini akan menampilkan tanggal saat layanan Gratis kedaluwarsa **Catatan**: Tidak ada layanan V1 yang merupakan bagian dari Layanan Disertakan Gratis Azure. Untuk daftar paling baru Layanan Gratis, lihat [Produk mana yang gratis selama 12 bulan](http://www.microsoftazuresponsorships.com/)
+Di Portal Ibiza > Langganan > Gambaran Umum > gulir bawah ke layanan Gratis selama 12 bulan, lalu klik ikon Informasi. Ini akan menampilkan tanggal ketika layanan gratis kedaluwarsa
+
+**Catatan**: Tidak ada layanan V1 yang merupakan bagian dari Layanan Disertakan Gratis Azure. Untuk daftar paling baru Layanan Gratis, lihat [Produk mana yang gratis selama 12 bulan](http://www.microsoftazuresponsorships.com/)
 
 FAQ Tambahan: [FAQ akun gratis](https://azure.microsoft.com/free/free-account-faq/)
 
