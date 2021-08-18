@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 3e3ce845bdae94c5d0fb54d34448bfc91a7540dcd33f9820c030406f19108f97
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: afc210b65353d2487884070aadb3455a3b510fa7f2ef2800bef31cb77a5f1751
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54012131"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901471"
 ---
 # <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts - Pemberitahuan Serangan Bertarget
 
@@ -26,7 +26,7 @@ Pemberitahuan Serangan Bertarget adalah salah satu dari dua Microsoft Threat Exp
 
 Jika Anda adalah pertahanan Microsoft untuk pelanggan Titik Akhir, Anda harus mendaftar untuk Microsoft Threat Experts - Pemberitahuan Serangan Bertarget untuk mendapatkan wawasan dan analisis khusus yang membantu mengidentifikasi ancaman paling penting sehingga Anda dapat meresponsnya dengan cepat.
 
-Untuk mendaftar Microsoft Threat Experts - Manfaat Pemberitahuan Serangan Bertarget, buka Pengaturan Umum Tingkat Lanjut   >    >    >  **Microsoft Threat Experts - Pemberitahuan Serangan Bertarget** yang akan diterapkan. Setelah diterima, Anda akan mendapatkan manfaat dari Pemberitahuan Serangan Bertarget.
+Untuk mendaftar Microsoft Threat Experts - Manfaat Pemberitahuan Serangan Bertarget, masuk ke **Pengaturan** Umum Tingkat Lanjut  >    >    >  **Microsoft Threat Experts - Pemberitahuan Serangan Bertarget** yang akan diterapkan. Setelah diterima, Anda akan mendapatkan manfaat dari Pemberitahuan Serangan Bertarget.
 
 Anda dapat menerima pemberitahuan serangan bertarget dari Microsoft Threat Experts melalui media berikut:
 
@@ -38,4 +38,4 @@ Anda dapat menerima pemberitahuan serangan bertarget dari Microsoft Threat Exper
 
 Untuk menerima pemberitahuan serangan bertarget melalui email, buat aturan pemberitahuan email. 
 
-Lihat [Mengonfigurasi dan mengelola Microsoft Threat Experts lain untuk](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) detailnya.
+Lihat [Mengonfigurasi dan mengelola Microsoft Threat Experts lain untuk](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) detailnya.

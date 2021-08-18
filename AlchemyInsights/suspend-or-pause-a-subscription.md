@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 8f15c401ffd6142ca5910c23760b169d7b1657c711ec19094ac7a2940e40a629
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317347"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900803"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Menangguhkan atau menjeda langganan
 
-Untuk menangguhkan atau menjeda langganan untuk sementara, Anda dapat membatalkan langganan di pusat admin Microsoft 365.
+Untuk menangguhkan atau menjeda langganan untuk sementara, Anda dapat membatalkan langganan dalam pusat admin Microsoft 365.
 
 1. Di pusat admin, masuk ke halaman **Tagihan**  >  **[Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Pada tab **Produk,** temukan langganan yang ingin Anda batalkan. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.

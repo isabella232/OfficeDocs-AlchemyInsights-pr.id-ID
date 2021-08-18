@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004632"
 - "8367"
-ms.openlocfilehash: 2367a7a55d1837fa7c7095fd0ac10ff1cf7ae72d
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 991f323249e15abd137c3e69b400e40503ed30dec6507cc5071a0b1af7f72bb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090307"
 ---
 # <a name="configure-privacy-settings-in-microsoft-edge"></a>Mengonfigurasi pengaturan privasi di Microsoft Edge
 
-Secara default, jika Microsoft Edge digunakan di platform non-Windows, data diagnostik dan informasi situs tidak akan dikirim ke Microsoft. Namun, jika Microsoft Edge disebarkan di Windows 10, data diagnostik dan informasi situs akan dikirim sesuai dengan pengaturan [data Diagnostik Windows pengguna.](https://go.microsoft.com/fwlink/?linkid=2132472)
+Secara default, Microsoft Edge disebarkan di platform non-Windows, data diagnostik, dan informasi situs tidak dikirim ke Microsoft. Namun, Microsoft Edge informasi situs dikirim Windows 10, data diagnostik dan informasi situs dikirim sesuai dengan pengaturan [data Windows pengguna.](https://go.microsoft.com/fwlink/?linkid=2132472)
 
-Untuk mengonfigurasi cara Microsoft Edge menangani pengumpulan data untuk organisasi Anda, gunakan kebijakan grup berikut:
+Untuk mengonfigurasi Microsoft Edge mana yang menangani pengumpulan data untuk organisasi Anda, gunakan kebijakan grup berikut ini:
 - [MetricsReportingEnabled](https://go.microsoft.com/fwlink/?linkid=2132470) aktif pada pelaporan penggunaan dan data terkait crash.
-- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) mengirimkan informasi situs yang digunakan untuk meningkatkan layanan Microsoft.
+- [SendSiteInfoToImproveServices](https://go.microsoft.com/fwlink/?linkid=2132470) mengirimkan informasi situs yang digunakan untuk menyempurnakan layanan Microsoft.
 
 Untuk mempelajari selengkapnya, lihat [Mengonfigurasi pengaturan kebijakan](https://go.microsoft.com/fwlink/?linkid=2132577).

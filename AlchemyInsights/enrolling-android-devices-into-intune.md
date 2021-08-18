@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791261"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090141"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Mendaftarkan perangkat Android ke Intune
 
-Jika Anda ingin melakukan migrasi pengguna dari pendaftaran administrator perangkat Android ke Android Enterprise, silakan Tinjau: [memindahkan perangkat Android dari administrator perangkat ke manajemen profil kerja](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Jika ingin melakukan migrasi pengguna dari pendaftaran Administrator Perangkat Android ke Android Enterprise, tinjau: Pindahkan perangkat Android dari [administrator perangkat ke manajemen profil kerja](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-Intune mendukung pendaftaran perangkat Android berikut ini:  
+Intune mendukung pendaftaran perangkat Android berikut:  
 
-- [Samsung Knox, Zebra, administrator perangkat](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Samsung Knox, Zebra, Administrator Perangkat](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
 - [Profil kerja Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Dedicated Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Dikelola sepenuhnya oleh Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Khusus Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise dikelola sepenuhnya](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Sebelum menyiapkan pendaftaran untuk perangkat Android, [Tinjau](https://docs.microsoft.com/intune/enrollment/android-enroll)prasyarat.  
+Sebelum menyiapkan pendaftaran untuk perangkat [Android, tinjau prasyarat.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Untuk informasi tentang pemecahan masalah pendaftaran perangkat secara umum dan beberapa kesalahan pendaftaran Android, lihat [memecahkan masalah pendaftaran perangkat di Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Untuk informasi tentang pendaftaran perangkat pemecahan masalah secara umum dan beberapa kesalahan pendaftaran Android, lihat Memecahkan masalah [pendaftaran perangkat di Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-Anda juga bisa menggunakan konten yang menjelaskan bilah pemecahan masalah Intune untuk membantu mengidentifikasi masalah pendaftaran yang dialami pengguna Anda.
+Anda juga dapat menggunakan konten yang menjelaskan bilah Pemecahan Masalah Intune untuk membantu mengidentifikasi masalah enrolment yang dialami pengguna Anda.

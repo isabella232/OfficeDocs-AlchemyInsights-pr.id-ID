@@ -1,5 +1,5 @@
 ---
-title: Teams Outlook add-in (Bagikan ke Teams , Rapat Sekarang, Rapat Baru Teams, Bergabung Teams rapat)
+title: Teams Outlook add-in (Bagikan ke Teams , Rapat Sekarang, Rapat Teams baru, Bergabung Teams rapat)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,12 +14,12 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542752"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901219"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook add-in (Bagikan ke Teams , Rapat sekarang, Rapat baru Teams, Bergabung Teams rapat)
 
@@ -27,10 +27,10 @@ ms.locfileid: "52542752"
 
 1. Jalankan "Add-in Tim" diagnostik tidak ditemukan di Outlook," yang memvalidasi bahwa pengguna memiliki kebijakan yang benar untuk mengaktifkan add-in Teams Outlook sesuai. Untuk mengakses diagnostik, ketik **Diag: Teams Add-in Hilang Outlook** dalam kotak pencarian.
 
-1. Jika Diagnostik Layanan menunjukkan tidak ada masalah, mendiagnosis dan memperbaiki masalah klien [](https://aka.ms/SaRA-TeamsAddInScenario)pada komputer pengguna yang terpengaruh dengan mengunduh dan menjalankan  >  **Skenario Add-in** Microsoft Asisten Dukungan dan Pemulihan Teams Outlook.
+1. Jika Diagnostik Layanan menunjukkan tidak ada masalah, mendiagnosis dan memperbaiki masalah klien [](https://aka.ms/SaRA-TeamsAddInScenario)di komputer pengguna yang terpengaruh dengan mengunduh dan menjalankan  >  **Skenario Add-in** Microsoft Asisten Dukungan dan Pemulihan Teams Outlook.
 
-Untuk memecahkan masalah add-in Teams Outlook yang hilang secara manual, tinjau daftar faktor potensial yang mungkin Teams penyebab add-in Anda tidak muncul dalam daftar. Untuk informasi selengkapnya, [lihat Teams add-in Rapat di Outlook untuk Windows tidak memperlihatkan](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Untuk memecahkan masalah add-in Teams Outlook yang hilang secara manual, tinjau daftar faktor potensial yang mungkin menyebabkan add-in Teams Anda tidak muncul dalam daftar. Untuk informasi selengkapnya, [lihat Teams add-in Rapat Outlook untuk Windows rapat tidak memperlihatkan](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Untuk memecahkan masalah penjadwalan Teams rapat atas nama orang lain (Delegasi)
 
-Untuk menjadwalkan rapat Teams atas nama orang lain, lihat Memecahkan Microsoft Teams [dan Server Exchange interaksi mereka.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Untuk menjadwalkan Teams rapat atas nama orang lain, lihat [Memecahkan masalah Microsoft Teams dan Server Exchange interaksi.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
