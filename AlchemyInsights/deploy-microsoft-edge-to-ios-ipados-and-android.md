@@ -13,32 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194520"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316877"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Menyebarkan Microsoft Edge ke iOS, iPadOS, dan Android
 
-Skenario terpandu yang diringkas di bawah akan membantu Anda menetapkan Microsoft Edge kepada pengguna iOS, iPadOS, dan perangkat Android.
+Skenario yang dipandu yang diringkas di bawah ini akan membantu Microsoft Edge bagi pengguna perangkat iOS, iPadOS, dan Android.
 
-> [!NOTE]
-> Jika Anda memblokir pengguna dari perangkat seluler yang didaftarkan, skenario yang dipandu ini tidak akan berfungsi dan pengguna perlu menginstal Microsoft Edge secara mandiri.
+**Catatan**: Jika Anda memblokir pengguna dari mendaftarkan perangkat seluler, skenario yang dipandu ini tidak akan berfungsi dan pengguna harus menginstal sendiri Microsoft Edge mereka.
 
-Skenario terpandu melibatkan langkah-langkah berikut:
+Skenario yang dipandu meliputi langkah-langkah berikut ini:
 
-1. [Tuntutan](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
-2. [Muka](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
-3. [Membahas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
-4. [Susunan](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
-5. [Mengumpulkan](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
-6. [Peninjauan dan pembuatan](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
+1. [Prasyarat](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
+2. [Pengenalan](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
+3. [Dasar](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-2---basics)
+4. [Konfigurasi](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-3---configuration)
+5. [Tugas](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
+6. [Meninjau dan membuat](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-Setelah Anda menyelesaikan langkah-langkah dalam skenario terpandu, kebijakan Microsoft Intune akan mengaktifkan fitur Microsoft Edge untuk bisnis berikut ini:
+Setelah Anda menyelesaikan langkah-langkah dalam skenario terpandu, Microsoft Intune lain akan mengaktifkan fitur panduan Microsoft Edge untuk bisnis:
 
 - Identitas ganda
-- Integrasi dengan kebijakan proteksi aplikasi Microsoft Intune
-- Integrasi dengan proksi aplikasi Azure Active Directory
-- Pintasan Halaman favorit dan Beranda terkelola
+- Integrasi dengan Microsoft Intune proteksi aplikasi
+- Integrasi dengan Azure Active Directory Proksi Aplikasi
+- Favorit dan pintasan laman yang dikelola

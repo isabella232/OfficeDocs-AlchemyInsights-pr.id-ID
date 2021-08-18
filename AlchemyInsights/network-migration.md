@@ -1,5 +1,5 @@
 ---
-title: Migrasi jaringan
+title: Jaringan Migrasi
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113203"
 ---
-# <a name="network-migration"></a>Migrasi jaringan
+# <a name="network-migration"></a>Jaringan Migrasi
 
-Penyewa O365 Anda mungkin terkait dengan beberapa jaringan Yammer dalam penyewa 1: banyak konfigurasi jaringan. Mulai October 16, 2018, Yammer tidak lagi mendukung beberapa jaringan Yammer yang terkait dengan satu penyewa. Anda bisa melakukan migrasi jaringan untuk masuk ke konfigurasi 1:1 yang dipilih.
+Penyewa O365 Anda mungkin dikaitkan dengan beberapa Yammer jaringan dalam satu penyewa : Banyak konfigurasi jaringan. Mulai 16 Oktober 2018, Yammer tidak akan lagi mendukung beberapa jaringan Yammer yang terkait dengan satu penyewa. Anda dapat melakukan Migrasi Jaringan untuk menggunakan konfigurasi 1:1 yang diinginkan.
   
-- Untuk menampilkan daftar jaringan yang terkait dengan penyewa Anda, masuk ke Yammer sebagai administrator global dan telusuri ke **admin jaringan**, lalu **migrasi jaringan**. Pilih **berikutnya**.
+- Untuk menampilkan daftar jaringan yang terkait dengan penyewa Anda, masuk ke Yammer sebagai Administrator Global dan telusuri ke **Admin** Jaringan, lalu **Migrasi Jaringan.** Pilih **Berikutnya.**
 
-- Jika Anda melihat beberapa jaringan yang tercantum di langkah 2 dari 3, maka Anda memiliki beberapa jaringan Yammer yang terkait dengan penyewa O365 Anda.
+- Jika anda melihat beberapa jaringan tercantum pada Langkah 2 dari 3, maka Anda memiliki beberapa Yammer yang terkait dengan penyewa O365 Anda.
 
-- Untuk memperbaiki konfigurasi Anda ke konfigurasi 1:1, Lanjutkan menggunakan alat migrasi jaringan.
+- Untuk memperbaiki konfigurasi Anda menjadi konfigurasi 1:1, lanjutkan menggunakan alat Migrasi Jaringan.
 
-- Untuk informasi selengkapnya tentang migrasi jaringan, lihat [migrasi jaringan: menggabungkan beberapa jaringan Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Untuk informasi selengkapnya tentang Migrasi Jaringan, silakan [lihat Migrasi jaringan: Menggabungkan beberapa Yammer jaringan.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-Harap perhatikan:
+Harap Diperhatikan:
   
-- **Migrasi jaringan hanya memindahkan pengguna yang aktif dan menunggu.** Bersama dengan pengguna aktif, informasi pengguna, seperti nama dan gambar profil, juga dimigrasikan. Konten jaringan apa pun, termasuk grup, tidak dimigrasikan.
+- **Migrasi jaringan hanya memigrasikan pengguna yang aktif dan tertunda.** Selain pengguna yang aktif, informasi pengguna, seperti nama dan gambar profil, juga dimigrasikan. Konten jaringan apa pun, termasuk grup, tidak dimigrasikan.
 
-- **Migrasi jaringan tidak bisa dibalik.** Anda tidak akan bisa mengakses jaringan anak perusahaan dan kontennya setelah migrasi. Jadi sebelum Anda mempertimbangkan migrasi, Anda ingin merencanakan dengan seksama.
+- **Migrasi jaringan tidak bisa dibatalkan.** Anda tidak akan bisa mengakses jaringan anak perusahaan dan kontennya setelah migrasi. Jadi sebelum Anda pertimbangkan migrasi, rencanakan baik-baik.

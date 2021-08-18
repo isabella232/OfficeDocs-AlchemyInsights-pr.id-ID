@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883358"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316979"
 ---
 # <a name="microsoft-secure-score"></a>Skor Aman Microsoft
 
 Anda dapat membuat lingkungan Anda lebih aman dengan menggunakan Skor Aman Microsoft. Anggaplah itu sebagai skor kredit untuk keamanan. Fitur ini memberi tahu tindakan yang dapat dilakukan untuk membantu meningkatkan keamanan organisasi Anda.
 
-1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Mengamankan skor**.
+1. Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke Mengamankan **skor**.
 
    Untuk langsung masuk ke halaman **Skor aman,** gunakan <https://security.microsoft.com/securescore>
 
@@ -34,7 +34,6 @@ Anda dapat membuat lingkungan Anda lebih aman dengan menggunakan Skor Aman Micro
 
 4. Pilih alamat **Kepada** atau Item **regresi** dari daftar pada tab **Tindakan** peningkatan. Halaman baru terbuka dan memberikan deskripsi lengkap serta **tombol Kelola** untuk memperbaiki masalah tersebut.
 
-    > [!NOTE]
-    > Anda diberikan poin untuk mengonfigurasi fitur keamanan yang direkomendasikan, namun ingatlah bahwa beberapa tindakan diberi label sebagai **[Tidak Skor]**. Ini berarti bahwa meskipun Anda mengimplementasikan tindakan peningkatan itu, Anda tidak akan dianugerahkan poin apa pun untuk skor Anda. Jika tidak, *bisa memakan waktu hingga 24 jam* agar skor Anda diperbarui.
+    **Catatan:** Anda diberi poin untuk mengonfigurasi fitur keamanan yang direkomendasikan, namun ingatlah bahwa beberapa tindakan diberi label sebagai **[Tidak Skor]**. Ini berarti bahwa meskipun Anda mengimplementasikan tindakan peningkatan itu, Anda tidak akan dianugerahkan poin apa pun untuk skor Anda. Jika tidak, *bisa memakan waktu hingga 24 jam* agar skor Anda diperbarui.
 
 Untuk informasi selengkapnya tentang Skor Microsoft Secure, lihat [Skor Aman Microsoft.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

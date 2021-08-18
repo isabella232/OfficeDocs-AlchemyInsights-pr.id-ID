@@ -15,18 +15,18 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 9587793d60f9394721e192f5eb32e7cc9ecd1d43c77e970207a817cb30b5d799
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045885"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899543"
 ---
 # <a name="cancel-power-bi"></a>Batalkan Power BI
 
 Power BI dapat dibatalkan di pusat admin Microsoft 365.
 
-1. Di pusat admin, masuk ke halaman **Tagihan > [halaman produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda.
+1. Di pusat admin, masuk ke halaman **Tagihan > [produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda.
 2. Pada tab **Produk,** temukan langganan yang ingin Anda batalkan. Pilih tiga titik (tindakan lainnya), lalu pilih **Batalkan langganan**.
 3. Di **panel Batalkan** langganan, pilih alasan pembatalan Anda. Secara opsional, berikan umpan balik apa pun.
 4. Pilih **Simpan**.
@@ -36,4 +36,4 @@ Power BI dapat dibatalkan di pusat admin Microsoft 365.
 > [!NOTE]
 > Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
 
-Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

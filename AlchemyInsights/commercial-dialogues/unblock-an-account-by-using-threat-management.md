@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 38700b516887dd4789e826a02672b5cc5d8354b1cd0ff743ba321724903413ba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 777e09288347861fdb3356a54762ca63b08fcd85
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895010"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316933"
 ---
 # <a name="unblock-an-account-by-using-threat-management"></a>Membuka blokir akun dengan menggunakan manajemen ancaman
 
@@ -32,4 +32,4 @@ Berikut cara melakukannya:
 
    Akun tersebut akan dapat mengirim pesan lagi, biasanya dalam waktu satu jam.
 
-Untuk informasi selengkapnya, lihat [Menghapus pengguna yang diblokir dari portal Pengguna terbatas](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).
+Untuk informasi selengkapnya, [lihat Menghapus pengguna yang diblokir dari portal Pengguna terbatas](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).
