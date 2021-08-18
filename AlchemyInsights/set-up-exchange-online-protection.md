@@ -1,5 +1,5 @@
 ---
-title: Menyiapkan proteksi Exchange Online
+title: Menyiapkan Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085879"
 ---
-# <a name="set-up-exchange-online-protection"></a>Menyiapkan proteksi Exchange Online
+# <a name="set-up-exchange-online-protection"></a>Menyiapkan Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) adalah layanan pemfilteran email berbasis awan untuk proteksi terhadap spam dan malware, dengan fitur untuk melindungi organisasi Anda dari pelanggaran kebijakan pesan.
+Microsoft Exchange Online Proteksi (EOP) adalah layanan pemfilteran email berbasis awan untuk perlindungan terhadap spam dan malware, dengan fitur untuk mengamankan organisasi Anda dari pelanggaran kebijakan olahpesan.
 
-Gunakan [panduan penyetelan proteksi Exchange Online](https://go.microsoft.com/fwlink/?linkid=2071067) untuk menyiapkan EOP dengan memilih di antara tiga skenario penerapan-kotak surat di tempat, hibrid (campuran kotak surat di tempat dan awan), atau semua kotak surat awan — yang sesuai dengan organisasi Anda. Panduan menyediakan informasi dan sumber daya untuk menyiapkan EOP dan meninjau lisensi pengguna Anda, memberikan izin di pusat admin Microsoft 365, dan mengonfigurasi kebijakan anti-malware dan spam organisasi Anda di pusat kepatuhan & keamanan.
+Gunakan panduan [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) penyiapan untuk menyiapkan EOP dengan memilih di antara tiga skenario penyebaran, kotak surat lokal, kotak surat hibrid (campuran lokal dan awan), atau semua kotak surat awan yang sesuai dengan organisasi Anda. Panduan ini menyediakan informasi dan sumber daya untuk menyiapkan EOP dan meninjau pelisensian pengguna, menetapkan izin di pusat admin Microsoft 365, dan mengonfigurasi kebijakan anti malware dan spam organisasi Anda di Pusat Kepatuhan & Keamanan.

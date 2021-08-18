@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118747"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896718"
 ---
 # <a name="create-user"></a>Buat pengguna
 
 **PENGUMUMAN:**
 
-- [Penghentian dukungan masuk WebView dari Google dimulai 4 Januari 2021.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Uji apakah aplikasi Anda akan terpengaruh oleh [panduan Google tentang](https://go.microsoft.com/fwlink/?linkid=2157323) kompatibilitas pengujian.
-- Pastikan Anda menggunakan sistem webview atau browser sistem saat masuk pengguna Anda dengan akun Google konsumen. Untuk informasi selengkapnya, [lihat Masalah saat masuk ke aplikasi menggunakan browser Chrome saja](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- [Penghentian dukungan masuk WebView dari Google dimulai 4 Januari 2021.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Uji apakah aplikasi Anda akan terpengaruh oleh [panduan Google tentang](https://go.microsoft.com/fwlink/?linkid=2157323) kompatibilitas pengujian.
+- Pastikan Anda menggunakan sistem webview atau browser sistem saat masuk pengguna Anda dengan akun Google konsumen. Untuk informasi selengkapnya, [lihat Masalah saat masuk ke aplikasi menggunakan browser Chrome saja](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **Saya tidak dapat membuat pengguna baru di direktori Azure AD**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118747"
 1. Lihat [peran dan administrator Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) untuk Azure AD Anda.
 1. Lihat nama [domain untuk](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD Anda.
 1. Tinjau [Log audit](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) untuk melihat informasi lebih mendetail tentang pengguna yang baru dibuat atau dihapus seperti siapa yang melakukan tindakan dan kapan.
-1. Untuk informasi selengkapnya tentang menambahkan pengguna baru, [lihat Menggunakan portal Azure untuk membuat pengguna baru di Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Peran administratif Azure AD](/azure/active-directory/active-directory-assign-admin-roles): Izin peran administrator di Azure Active Directory
-1. Anda juga dapat [menggunakan Azure AD PowerShell untuk membuat pengguna baru.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Untuk informasi selengkapnya tentang menambahkan pengguna baru, [lihat Menggunakan portal Azure untuk membuat pengguna baru di Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
+1. [Peran administratif Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Izin peran administrator Azure Active Directory
+1. Anda juga dapat [menggunakan Azure AD PowerShell untuk membuat pengguna baru.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

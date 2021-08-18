@@ -1,5 +1,5 @@
 ---
-title: Langganan email Outlook.com
+title: langganan email Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111907"
 ---
 # <a name="email-subscriptions"></a>Langganan email
 
-Mengapa saya melihat email di daftar langganan saya?
+Mengapa saya melihat email dalam daftar langganan saya?
 
-Outlook.com telah mendeteksi bahwa pesan email berisi informasi langganan, termasuk "berhenti berlangganan" dalam pesan. Outlook.com tidak secara otomatis berlangganan ke buletin apa pun.
+Outlook.com telah mendeteksi bahwa pesan email berisi informasi langganan, termasuk "Berhenti berlangganan" dalam pesan. Outlook.com belum otomatis berlangganan Anda ke buletin.
 
-Jika Anda ingin berhenti menerima buletin atau promosi, ada dua cara untuk berhenti berlangganan menggunakan Outlook.com:
-1. Di kotak masuk Anda, pilih buletin atau email promosi. Di bagian atas panel baca, pilih **berhenti berlangganan**.
-2. Buka pengaturan [langganan Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) Anda, lalu pilih **berhenti berlangganan**.
+Jika Anda ingin berhenti menerima buletin atau promosi, ada dua cara untuk berhenti berlangganan Outlook.com:
+1. Di Kotak Masuk Anda, pilih buletin atau email promosi. Di bagian atas panel baca, pilih Berhenti **berlangganan**.
+2. Buka pengaturan [Outlook.com Anda dan](https://go.microsoft.com/fwlink/?linkid=2110887) pilih **Berhenti berlangganan**.
 
-Catatan: Anda hanya akan melihat fitur ini jika menerima email dari perusahaan yang mengirim email berlangganan.
-Jika kueri Anda adalah tentang langganan berbayar Microsoft 365, buka [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   atau [Pelajari selengkapnya tentang Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Catatan: Anda hanya akan melihat fitur ini jika telah menerima email dari perusahaan yang mengirimkan email berlangganan.
+Jika kueri Anda tentang langganan Microsoft 365 dibayar, buka atau [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) Pelajari selengkapnya tentang langganan [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

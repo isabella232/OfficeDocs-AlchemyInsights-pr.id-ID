@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720649"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086167"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Cara mengirim pemberitahuan kustom kepada pengguna perangkat iOS dan Android yang dikelola
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Cara mengirim pemberitahuan kustom kepada pengguna di perangkat iOS dan Android yang dikelola
 
-Pemberitahuan kustom untuk Intune diproses oleh aplikasi portal perusahaan di perangkat pengguna. Aplikasi tersebut membuat pemberitahuan push pada perangkat tersebut.
+Pemberitahuan kustom untuk Intune diproses oleh Company Portal kustom pada perangkat pengguna. Aplikasi lalu membuat pemberitahuan push di perangkat itu.
 
-Berikut ini adalah prasyarat perangkat untuk mendukung penerimaan pemberitahuan kustom, dan untuk aplikasi untuk membuat pemberitahuan push:
+Berikut ini adalah prasyarat perangkat untuk mendukung tanda terima pemberitahuan kustom, dan untuk aplikasi lalu membuat pemberitahuan push:
 
-- Perangkat harus menginstal aplikasi portal perusahaan.  
+- Perangkat harus memiliki Company Portal terinstal.  
 
-- Perangkat harus memperbolehkan aplikasi portal perusahaan mengirimkan pemberitahuan push. Saat aplikasi terinstal atau diperbarui, aplikasi akan meminta pengguna untuk memperbolehkan pemberitahuan.
+- Perangkat harus memperbolehkan aplikasi Company Portal mengirim pemberitahuan push. Saat aplikasi diinstal atau diperbarui, aplikasi akan meminta pengguna untuk mengizinkan pemberitahuan.
 
-- Perangkat Android harus menginstal Google Play Services.
+- Perangkat Android harus menginstal Layanan Google Play.
 
-- Perangkat harus didaftarkan dengan Intune.
+- Perangkat harus terdaftar dengan Intune.
 
-Untuk informasi selengkapnya, termasuk cara mengirim pesan, lihat [dokumentasi fitur](https://docs.microsoft.com/intune/custom-notifications).
+Untuk informasi selengkapnya termasuk cara mengirim pesan, lihat [dokumentasi fitur](https://docs.microsoft.com/intune/custom-notifications).

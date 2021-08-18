@@ -15,22 +15,22 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499037"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896934"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Cara melakukan Microsoft 365 pembelian
 
 Anda dapat membeli Microsoft 365 Anda di pusat admin.
   
 - Untuk membeli paket, masuk ke **halaman** \> **[layanan Pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)** Tagihan.
-- Untuk membeli lisensi tambahan,  masuk ke halaman \> **[Tagihan produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda. Pilih langganan yang ingin Anda ubah, lalu pilih **Beli lisensi**.\
+- Untuk membeli lisensi tambahan, masuk ke halaman **Tagihan** \> **[produk](https://go.microsoft.com/fwlink/p/?linkid=842054)** Anda. Pilih langganan yang ingin Anda ubah, lalu pilih **Beli lisensi**.\
 **TONTON video yang** memperlihatkan cara melakukan hal ini: [Membeli lisensi baru](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Untuk mempelajari selengkapnya, [lihat Membeli atau menghapus lisensi](/microsoft-365/commerce/licenses/buy-licenses).
+Untuk mempelajari selengkapnya, [lihat Membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Pemecahan masalah**
 
@@ -38,5 +38,5 @@ Jika Anda mengalami masalah saat memuat halaman, coba buka halaman web di browse
 
 **Sumber Daya Tambahan**
   
-- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](/microsoft-365/admin/add-users/add-users)
-- [Membatalkan Microsoft 365 untuk Bisnis](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Menetapkan lisensi kepada pengguna di Microsoft 365 untuk bisnis](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Membatalkan Microsoft 365 untuk Bisnis](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

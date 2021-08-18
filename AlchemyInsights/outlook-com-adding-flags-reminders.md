@@ -12,25 +12,25 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 865650d8b7a39be33ba8105799916740273cf020
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eca5ffc40be28b7203d1e034bf700890f628820ac9de696e5bd2c7a50b52ccac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112627"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Menambahkan bendera dan pengingat di Outlook.com
 
-Untuk mengatur atau mengedit pengingat untuk sebuah acara:
+Untuk mengatur atau mengedit pengingat untuk acara:
 
-1. Masuk ke [kalender](https://outlook.live.com/calendar/).
-1. Pilih acara yang ingin Anda Ingatkan, lalu pilih panah di sudut kanan atas <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> untuk mengembangkannya.
-1. Di samping **Ingatkan saya**, pilih waktu pengingat.Outlook.com secara otomatis menyimpan perubahan Anda.
+1. Masuk ke [Kalender](https://outlook.live.com/calendar/).
+1. Pilih acara yang ingin diingatkan, lalu pilih panah di sudut kanan atas <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gcCFAQmIj9P5wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAo0lEQVQ4jd3Uuw0DIQwG4J8oYgA2gIYKZvASDE9zbMAANE51kdBxCY+TLoolGmx9wsIgmJlxcTyuBv8cDSFACFEt731dxAuhtWYpJTvnqv3p9o0xAABr7SE3he7gtm3N/HMVVEodasTI8H874R7d7feC3egI2ESJCEQ0DQKNi8o5L4HAh/ZnwVM0xjgNnqKlFKSU3m87hDCEDs1pb/zG13cb+gIdRoJ0pVkSQgAAAABJRU5ErkJggg==' /> untuk memperluasnya.
+1. Di samping **Ingatkan** saya , pilih waktu pengingat. Outlook.com secara otomatis menyimpan perubahan Anda.
 
 Untuk mengingatkan diri Anda untuk menindaklanjuti pesan, Anda bisa menambahkan bendera tindak lanjut:
 
-1. Masuk ke [email](https://outlook.live.com/mail/)
-1. Dalam daftar pesan, Arahkan kursor ke pesan untuk melihat opsi bendera.
-1. Pilih ikon bendera <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> untuk menandai pesan. Untuk melihat semua pesan yang ditandai, pilih tanda centang di sudut kiri bawah halaman untuk masuk ke tugas.
+1. Masuk ke [Email](https://outlook.live.com/mail/)
+1. Dalam daftar pesan, arahkan kursor ke pesan untuk melihat opsi bendera.
+1. Pilih ikon bendera <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gUVEjU52ukFVAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAA30lEQVQ4jWP8////fwYqAiZqGkZfA19fWMrQmJXPMGnHa+oYyPD1O8OPvz8YfnxjYFjXlc1Q0beK4cjtpwQNZCHO3j8M72/uZVh85zjDfiMXBi9XMwZjeVESXYgN/P3G8OT0JoZZXb0MfauOU8FAGPjznuHm3gUMWYXNDLN3XkWRItLLmICFR47B0MmDIcVdmzIDmbnEGTQsPRnywiyxW0S0QWzCDCq2XgxFYTZ41RFloLh+AEN6tAmDvjT2mCXZQGt3T2KUMTAwDOm8TH0DuTkZOJg5GDi4SDOQceQVsAB8iTrQ4HKYLgAAAABJRU5ErkJggg==' /> untuk menandai pesan dengan bendera. Untuk melihat semua pesan yang dibenderai, pilih tanda centang di sudut kiri bawah halaman untuk masuk ke Tugas.
  
-Untuk mempelajari selengkapnya, baca [bendera atau Sematkan pesan di Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).
+Untuk mempelajari selengkapnya, baca [Menandai dengan bendera atau menyematkan pesan Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).

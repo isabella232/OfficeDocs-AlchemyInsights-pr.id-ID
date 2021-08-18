@@ -1,5 +1,5 @@
 ---
-title: Melakukan tinjauan akses di direktori aktif Azure
+title: Menjalankan tinjauan akses di Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086779"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Melakukan tinjauan akses di direktori aktif Azure
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Menjalankan tinjauan akses di Azure Active Directory
 
-Peninjau yang ditunjuk bisa melakukan tinjauan Access Azure Active Directory dari keanggotaan grup, akses aplikasi, dan penetapan peran. Tinjauan ini membantu mengurangi risiko keamanan yang mungkin dihadapi organisasi Anda ketika pengguna memiliki lebih banyak akses daripada yang mereka perlukan. Anda dapat melakukan tinjauan akses dengan menggunakan [aplikasi](https://go.microsoft.com/fwlink/?linkid=2134605) atau [akses saya](https://go.microsoft.com/fwlink/?linkid=2134505).
+Peninjau yang ditunjuk Azure Active Directory melakukan Azure Active Directory akses keanggotaan grup, akses aplikasi, dan penetapan peran. Tinjauan ini membantu mengurangi risiko keamanan yang mungkin dihadapi organisasi Anda ketika pengguna memiliki akses lebih banyak daripada yang mereka butuhkan. Anda dapat melakukan tinjauan akses menggunakan [Aplikasi Saya](https://go.microsoft.com/fwlink/?linkid=2134605) atau [Akses Saya.](https://go.microsoft.com/fwlink/?linkid=2134505)
