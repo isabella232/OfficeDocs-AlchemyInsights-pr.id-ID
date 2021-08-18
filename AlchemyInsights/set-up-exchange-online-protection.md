@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085879"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897799"
 ---
 # <a name="set-up-exchange-online-protection"></a>Menyiapkan Exchange Online Protection
 
-Microsoft Exchange Online Proteksi (EOP) adalah layanan pemfilteran email berbasis awan untuk perlindungan terhadap spam dan malware, dengan fitur untuk mengamankan organisasi Anda dari pelanggaran kebijakan olahpesan.
+Microsoft Exchange Online Proteksi (EOP) adalah layanan pemfilteran email berbasis awan untuk perlindungan terhadap spam, malware, dan spoofing, dengan fitur untuk mengamankan organisasi Anda dari pelanggaran kebijakan olahpesan.
 
-Gunakan panduan [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) penyiapan untuk menyiapkan EOP dengan memilih di antara tiga skenario penyebaran, kotak surat lokal, kotak surat hibrid (campuran lokal dan awan), atau semua kotak surat awan yang sesuai dengan organisasi Anda. Panduan ini menyediakan informasi dan sumber daya untuk menyiapkan EOP dan meninjau pelisensian pengguna, menetapkan izin di pusat admin Microsoft 365, dan mengonfigurasi kebijakan anti malware dan spam organisasi Anda di Pusat Kepatuhan & Keamanan.
+Gunakan panduan [Exchange Online Protection untuk](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) menyiapkan EOP dengan memilih salah satu dari tiga skenario penyebaran yang paling sesuai untuk organisasi Anda:
+
+- Semua kotak surat di tempat.
+- Hibrid (campuran kotak surat lokal dan awan
+- Semua kotak surat awan—yang cocok dengan organisasi Anda.
+
+Panduan ini menyediakan informasi dan sumber daya untuk menyiapkan EOP dan meninjau pelisensian pengguna, menetapkan izin di pusat admin Microsoft 365, dan mengonfigurasi kebijakan keamanan organisasi Anda.

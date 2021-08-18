@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 2f1f907a23e0f65cf8c230c8cf27b671e681d92565fd83bb5d39ebf3c53ab9fd
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c145a5366ef173dbf82521e91d5cf032a26e2e7fa09d8e0061ec03887a2a3124
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54504015"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897419"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>Ubah alamat tagihan atau pemberitahuan email tagihan
 
 **Mengubah alamat Bill-To Anda**
 
-1. Di pusat admin, masuk ke halaman **Tagihan > [Metode](https://go.microsoft.com/fwlink/p/?linkid=2018806)** pembayaran.
+1. Di pusat admin, masuk ke **halaman Metode > [pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Pilih kartu kredit atau rekening bank yang ingin Anda ubah.
 
@@ -45,4 +45,4 @@ ms.locfileid: "54504015"
 
 4. Dalam kotak **Email** alternatif, ketikkan alamat email alternatif yang ingin Anda gunakan, lalu klik **Simpan.**
 
-Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, [lihat Mengubah alamat tagihan Anda untuk Microsoft 365 untuk bisnis.](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
+Untuk informasi selengkapnya tentang perubahan alamat dan pemberitahuan, [lihat Mengubah alamat tagihan Anda untuk Microsoft 365 untuk bisnis.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940822"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316143"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Menukar situs akar Klasik Anda dengan situs Modern
 
@@ -28,12 +28,12 @@ Jika lingkungan disiapkan sebelum April 2019, Anda dapat mengubah situs akar ke 
     - Gunakan [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) untuk menukar lokasi situs dengan situs lain sambil mengarsipkan situs aslinya. Tersedia untuk Situs Tim (tidak tersambung ke grup) dan Situs Komunikasi. 
 
 - Kapabilitas tambahan akan segera diperkenalkan yang akan memungkinkan Anda untuk terus menggunakan konten di situs, tapi mengonversi situs yang sudah ada ke situs komunikasi. 
->[!Important]
->Kemampuan ini akan diluncurkan secara bertahap. Lanjutkan untuk memeriksa Pusat Pesan untuk pembaruan. 
+
+**Penting**: Kemampuan ini akan diluncurkan secara bertahap. Lanjutkan untuk memeriksa Pusat Pesan untuk pembaruan. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Masalah umum dalam menukar situs
 
-- Situs target mungkin mengembalikan kesalahan "tidak ditemukan" (HTTP 404) untuk jangka waktu singkat.
+- Situs target mungkin mengembalikan kesalahan "tidak ditemukan" (HTTP 404) untuk jangka waktu yang singkat.
 - Konten harus digambar ulang untuk memperbarui indeks pencarian. Tidak diperlukan langkah manual - ini akan dilakukan secara otomatis.
 - Apa pun yang bergantung pada link "statis" (seperti Sinkronisasi File OneNote file) harus diperbaiki secara manual.
 - Jika situs sumber adalah situs berita organisasi, perbarui URL. Dapatkan daftar semua situs berita organisasi.

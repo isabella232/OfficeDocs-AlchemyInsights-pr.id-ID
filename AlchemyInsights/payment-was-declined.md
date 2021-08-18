@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087211"
 ---
 # <a name="your-payment-was-declined"></a>Pembayaran Anda ditolak
 
@@ -48,8 +48,8 @@ Microsoft akan mengenakan biaya pada kartu Anda beberapa kali dalam 3-4 minggu s
 
 1. Di pusat admin, masuk ke halaman **Tagihan** > **Tagihan & pembayaran** > [Metode pembayaran](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Pilih baris metode pembayaran yang akan diperbarui. Di panel kanan, pilih **Edit**.
+2. Pilih baris metode pembayaran yang akan diperbarui. Di panel sebelah kanan, pilih **Edit**.
 
-3. Perbarui informasi metode pembayaran, yang mencakup nama di kartu kredit atau debit, alamat tagihan, atau tanggal kedaluwarsa, lalu pilih **Simpan**.
+3. Perbarui informasi metode pembayaran Anda, termasuk nama pada kartu kredit atau debit, alamat tagihan, atau tanggal kedaluwarsa, lalu pilih **Simpan**.
 
 Untuk informasi selengkapnya, lihat [Mengelola metode pembayaran](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

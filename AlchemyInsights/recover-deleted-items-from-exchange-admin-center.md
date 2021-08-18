@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 6ef9cd8005ab8cbd2d69b09cc8192b6359b397e8d5c471d2f958ae1e751d7797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062191"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897903"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Memulihkan item yang dihapus dari Pusat Admin Exchange
 
@@ -29,4 +29,4 @@ Dalam [pengalaman manajemen kotak surat](https://admin.exchange.microsoft.com/#/
     - Anda mungkin perlu melihat di menu drop-down **... lainnya** untuk melihat opsi **pulihkan item yang dihapus**.
 4. Gunakan opsi filter untuk menemukan item yang perlu dipulihkan.
 
-Untuk informasi selengkapnya, [lihat Menggunakan EAC baru untuk memulihkan pesan yang dihapus](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).
+Untuk informasi selengkapnya, [lihat Menggunakan EAC baru untuk memulihkan pesan yang dihapus](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).

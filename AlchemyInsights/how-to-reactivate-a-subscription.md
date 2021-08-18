@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "441"
 - "1500017"
-ms.openlocfilehash: eaac309cda64aafa5c2d3f99d7761ee7f4faa75f1fa138a095615efe927e109b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bb372f31392d6a8875a6c1e0a1905bcffb0da016b61eaf5bc6dbb2bcbb561a45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001979"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898695"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Mengaktifkan kembali langganan
 
@@ -32,4 +32,4 @@ Jika langganan sudah kedaluwarsa, telah dibatalkan, atau dinonaktifkan oleh Micr
 3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
 4. Pilih **Simpan**.
 
-Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Untuk mempelajari selengkapnya, lihat [Mengaktifkan kembali langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: Kesalahan masuk OneDrive AADSTS50011
+title: OneDrive masuk dengan AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112915"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Kesalahan masuk OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive masuk dengan AADSTS50011
 
-Jika Anda menerima kesalahan "AADSTS50011: URL balasan yang ditentukan dalam permintaan tidak cocok dengan Balasan" saat masuk ke aplikasi OneDrive, periksa hal berikut:
+Jika Anda menerima kesalahan "AADSTS50011: URL balasan yang ditentukan dalam permintaan tidak sesuai dengan balasan" ketika masuk ke aplikasi OneDrive, periksa hal berikut:
 
-Versi OneDrive Anda harus sama dengan atau lebih besar dari versi 20.052. XXXX. XXXX. Untuk memeriksa versi Anda, klik ikon OneDrive biru di area pemberitahuan, pilih **bantuan & pengaturan > pengaturan > tentang**.
+Versi OneDrive harus sama dengan atau lebih besar dari versi 20.052.XXXX.XXXX. Untuk memeriksa versi Anda, klik ikon OneDrive berwarna biru di area pemberitahuan, pilih **Bantuan & Pengaturan > Pengaturan > Tentang.**
 
-Jaringan Anda mungkin memblokir Traffic ke **g.Live.com** dan **oneclient.SFX.ms**. Jika lalu lintas diblokir, OneDrive tidak dapat memperbarui dirinya. Bekerja dengan administrator jaringan Anda untuk memastikan Anda memiliki akses ke URL tersebut. [Titik akhir ini](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) harus dapat dijangkau untuk pelanggan yang menggunakan paket Microsoft 365.
+Jaringan Anda mungkin memblokir lalu lintas **ke g.live.com** **dan oneclient.sfx.ms**. Jika lalu lintas diblokir, lalu lintas OneDrive tidak bisa memperbarui dirinya sendiri. Bekerja dengan administrator jaringan untuk memastikan Anda memiliki akses ke URL tersebut. [Titik akhir ini](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) harus dapat dijangkau oleh pelanggan Microsoft 365 baru.
 
-Jika Anda perlu mendapatkan versi terbaru OneDrive, kunjungi [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Jika Anda perlu mendapatkan versi uji coba secara manual OneDrive, kunjungi [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
