@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 2823e1d4fe5d4fde04060a6f031e982924a720af6f9226bf7a4c483b72ece5f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34467061757da327ec36f0b7559bbec6c1e0b574
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062155"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328569"
 ---
 # <a name="recover-deleted-plans"></a>Memulihkan rencana yang dihapus
 
-- Hanya pemilik rencana yang dapat menghapus rencana. Untuk [menghapus rencana atau tugas](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.), ikuti instruksi untuk menghapus tugas atau rencana.  **Catatan**: Jika dihapus secara permanen, rencana tidak dapat dipulihkan. Demikian juga, tidak ada cara untuk memulihkan tugas yang dihapus. Jika tugas tidak sengaja terhapus, Anda harus membuat ulang dari awal.
+- Hanya pemilik rencana yang dapat menghapus rencana. Untuk [menghapus rencana atau tugas](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.), ikuti instruksi untuk menghapus tugas atau rencana.  
+    **Catatan**: Jika dihapus secara permanen, rencana tidak dapat dipulihkan. Demikian juga, tidak ada cara untuk memulihkan tugas yang dihapus. Jika tugas tidak sengaja terhapus, Anda harus membuat ulang dari awal.
 
 - Jika rencana terhapus akibat menghapus grup, Anda mungkin dapat memulihkan grup beserta kontennya. Ikuti instruksi untuk memulihkan [Grup Microsoft 365 yang dihapus](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) untuk memulihkan grup dan konten terkait.
 

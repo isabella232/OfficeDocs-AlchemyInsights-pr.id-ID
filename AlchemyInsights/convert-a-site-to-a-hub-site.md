@@ -12,14 +12,14 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8cfa98a71764a566158cc316e844f88f3fd29804
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929812"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329875"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Membuat situs SharePoint hub
+# <a name="create-a-sharepoint-hub-site"></a>Membuat situs hub SharePoint
 
 1. Di pusat admin SharePoint baru, di bawah **Situs,** klik **Situs aktif.**
 
@@ -27,8 +27,7 @@ ms.locfileid: "53929812"
 
 3. Masukkan nama tampilan untuk situs hub dan tentukan masing-masing pengguna atau grup keamanan yang ingin Anda izinkan untuk mengaitkan situs dengan hub.
 
-    > [!NOTE]
-    >  Kami menyarankan agar Anda memilih situs komunikasi, atau situs tim yang menggunakan templat baru. Jika Anda menggunakan situs tim klasik, navigasi hub hanya akan muncul pada halaman modern, dan pengaturan situs hub hanya akan muncul pada halaman modern. Situs yang sudah terkait dengan hub lain tidak bisa didaftarkan sebagai situs hub.
+    **Catatan**: Kami menyarankan agar Anda memilih situs komunikasi, atau situs tim yang menggunakan templat baru. Jika Anda menggunakan situs tim klasik, navigasi hub hanya akan muncul pada halaman modern, dan pengaturan situs hub hanya akan muncul pada halaman modern. Situs yang sudah terkait dengan hub lain tidak bisa didaftarkan sebagai situs hub.
   
 [Pelajari selengkapnya tentang situs hub](https://go.microsoft.com/fwlink/?linkid=869149)
   

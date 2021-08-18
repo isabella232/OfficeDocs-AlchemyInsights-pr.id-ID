@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998946"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328293"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Manajemen langganan - permintaan keamanan dan kepatuhan - kepatuhan industri Azure terkait
 
@@ -26,11 +26,11 @@ Berdasarkan deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Seba
 
 - **Kebijakan**: Untuk pertanyaan apa pun mengenai dokumen Microsoft Compliance, lihat [Azure Trust Center Compliance](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA** dan Tindakan HITECH : Lihat Windows Panduan HIPAA Azure jika Anda tertarik dengan HIPAA dan HITECH Act, untuk memahami kemampuan yang relevan Windows Azure.
+- **HIPAA dan Tindakan HITECH:** Lihat Windows Panduan HIPAA Azure jika Anda tertarik dengan HIPAA dan Tindakan HITECH, untuk memahami kemampuan yang relevan Windows Azure.
 
 - **Sertifikasi FedRamp**: Untuk informasi tentang sertifikasi FedRamp, lihat FedRamp Marketplace.
 
-- **Azure PCI DSS Compliance**: Dokumen terkait Azure yang diperlukan untuk mencapai kepatuhan Industri Kartu Pembayaran adalah "Attestation of Compliance" dan "Responsibility Matrix", keduanya tersedia di Azure Trust Center. Verifikasi apakah Anda memiliki dokumen ini. Jika Anda memiliki dokumen ini namun membutuhkan bukti tambahan Microsoft Azure Kepatuhan Standar Keamanan Data PCI, lihat [Microsoft dan PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **Azure PCI DSS Compliance**: Dokumen terkait Azure yang diperlukan untuk mencapai kepatuhan Industri Kartu Pembayaran adalah "Attestation of Compliance" dan "Responsibility Matrix", keduanya tersedia di Azure Trust Center. Verifikasi apakah Anda memiliki dokumen ini. Jika Anda memiliki dokumen ini namun membutuhkan bukti tambahan Microsoft Azure Kepatuhan Standar Keamanan Data PCI, lihat [Microsoft dan DSS PCI.](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS)
 
 - **Azure Operations/Security/Compliance:** Jika Anda memiliki pertanyaan terkait keamanan umum di Azure, lihat Respons Standar untuk Permintaan untuk Informasi Microsoft Azure Keamanan, Privasi, dan Kepatuhan Jika Anda memiliki pertanyaan terkait kepatuhan, silakan baca: FAQ Microsoft STP - Tanya Jawab Umum Portal Kepercayaan Layanan dan Kepatuhan.
 
@@ -38,19 +38,17 @@ Jika memiliki pertanyaan terkait kepatuhan, lihat FAQ [Microsoft STP - Complianc
 
 - **Kepatuhan GDPR:** Jika memiliki pertanyaan tentang Perjanjian Pemrosesan Data, lihat "Ketentuan Perlindungan Data" dimulai dari Halaman 7 dalam "Ketentuan Layanan Online". OST menyertakan persyaratan pemrosesan data utama tapi dimasukkan ke dalam kontrak komersial standar. Selain itu, layanan ini menyediakan komitmen kontraktual terkait kewajiban GDPR. Selain itu, lihat persyaratan khusus GDPR di akhir kontrak dalam "Lampiran 4", dimulai di Halaman 42. Bagian ini mencakup kewajiban GDPR Microsoft sebagai prosesor data dan sebagai sub-prosesor ke prosesor data lainnya.
 
-> [!NOTE]
-> Sangat disarankan untuk menggunakan Adobe Acrobat Reader untuk membuka dokumen PDF, karena masalah dengan penampil PDF lain telah diketahui. Disarankan juga untuk mengunduh file secara lokal daripada membukanya di jendela browser, karena itu bisa menyebabkan kesalahan.
+**Catatan:** Sangat disarankan untuk menggunakan Adobe Acrobat Reader untuk membuka dokumen PDF, karena masalah dengan penampil PDF lain telah dicatat. Disarankan juga untuk mengunduh file secara lokal daripada membukanya di jendela browser, karena itu bisa menyebabkan kesalahan.
 
-- **Kepatuhan HDS**: Azure kini menjadi "Hosting Data Kesehatan", tersertifikasi sesuai dengan persyaratan bahasa Prancis. Untuk informasi selengkapnya, lihat "Microsoft Azure telah bersertifikat untuk menghosting data kesehatan sensitif di Prancis".
+- **Kepatuhan HDS:** Azure kini menjadi "Hosting Data Kesehatan", tersertifikasi sesuai dengan persyaratan bahasa Prancis. Untuk informasi selengkapnya, lihat "Microsoft Azure telah bersertifikat untuk menghosting data kesehatan sensitif di Prancis".
 
 - **Pengujian Sajikan**: Seluruh proses "Pengiriman permintaan permintaan hanya satu pelanggan" dari proses layanan mandiri di "penatest".
 
 Untuk detail selengkapnya tentang pengujian kepribadian, lihat [PengujianIngaanInging.](https://docs.microsoft.com/azure/security/fundamentals/pen-testing)
 
-- **Pemberitahuan Pelanggan untuk Perubahan Subprosesor**: Anda dapat memilih untuk menerima pemberitahuan perubahan pada Daftar Subprosesor Data Pribadi Microsoft.
+- **Pemberitahuan Pelanggan untuk Perubahan Subproses**: Anda dapat memilih untuk menerima pemberitahuan perubahan pada Daftar Subprosesor Data Pribadi Microsoft.
 
-> [!NOTE]
-> Pemberitahuan Data Pelanggan dan Daftar Data Pribadi Layanan Online sepenuhnya otomatis. Untuk informasi selengkapnya, lihat Sumber Daya Perlindungan Data Microsofts.
+**Catatan:** Pemberitahuan Data Pelanggan dan Daftar Data Pribadi Layanan Online otomatis dilakukan. Untuk informasi selengkapnya, lihat Sumber Daya Perlindungan Data Microsofts.
 
 **Dokumen yang Disarankan**
 

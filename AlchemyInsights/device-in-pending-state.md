@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914006"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330375"
 ---
 # <a name="device-in-pending-state"></a>Perangkat dalam status tertunda
 
@@ -40,8 +40,7 @@ Berikut uraian dari apa yang terjadi selama pendaftaran:
     1. Perangkat pertama mencoba mengambil informasi penyewa dari SCP pihak klien dalam registri [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Untuk informasi selengkapnya, lihat [dokumen](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. Jika gagal, perangkat berkomunikasi dengan Direktori Aktif di tempat untuk mendapatkan informasi penyewa dari SCP. Untuk memverifikasi SCP, rujuk dokumen [ini.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
-    > [!NOTE]
-    > Kami menyarankan mengaktifkan SCP di Direktori Aktif dan hanya menggunakan SCP pihak klien untuk validasi awal.
+    **Catatan**: Kami menyarankan untuk mengaktifkan SCP di Direktori Aktif dan hanya menggunakan SCP pihak klien untuk validasi awal.
 
 2. Windows 10 mencoba berkomunikasi dengan Azure AD di bawah konteks sistem untuk mengautentikasi dirinya terhadap Azure AD.
 
@@ -53,13 +52,11 @@ Berikut uraian dari apa yang terjadi selama pendaftaran:
 
 5. Pada tahap ini, Anda akan dapat melihat perangkat subjek dalam status "**Tertunda**" di bawah Blade perangkat Portal Azure.
 
-6. Pada pengguna berikutnya masuk Windows 10, pendaftaran akan diselesaikan.
+6. Pada pengguna berikutnya masuk Windows 10, pendaftaran akan selesai.
 
-    > [!NOTE]
-    > Jika Anda berada di VPN dan logoff/login mengakhiri konektivitas domain, Anda dapat memicu pendaftaran secara manual. Untuk melakukannya:
-    >
-    > Masalah lokal `dsregcmd /join` pada perintah admin atau secara jarak jauh melalui PSExec ke PC Anda.
-    >
-    > Misalnya: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Catatan**: Jika Anda menggunakan VPN dan logoff/login mengakhiri konektivitas domain, Anda dapat memicu pendaftaran secara manual. Untuk melakukannya:
+    
+    Masalah lokal `dsregcmd /join` pada perintah admin atau secara jarak jauh melalui PSExec ke PC Anda.\
+    Misalnya: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-Untuk masalah umum terkait pendaftaran Azure Active Directory, lihat [FAQ Perangkat.](https://docs.microsoft.com/azure/active-directory/devices/faq)
+Untuk masalah umum terkait Azure Active Directory yang terkait dengan registrasi perangkat, lihat [FAQ Perangkat.](https://docs.microsoft.com/azure/active-directory/devices/faq)

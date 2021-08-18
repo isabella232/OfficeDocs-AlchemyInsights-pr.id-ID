@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898247"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330063"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Memperbaiki masalah umum dengan Pertahanan Microsoft untuk Office 365
 
@@ -33,11 +33,11 @@ Berikut adalah beberapa solusi untuk masalah umum yang bermasalah dengan Pertaha
 
 - **Aktifkan Brankas Link Baru**:
 
-  1. Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com/> , buka Email & Kebijakan **Kolaborasi** \> **& Aturan** \> **Brankas** \> **tautan di** **bagian** Kebijakan.
+  1. Dalam portal Pertahanan Microsoft 365 di , masuk ke Email & Kebijakan Kolaborasi <https://security.microsoft.com/>  \> **& aturan** \> **kebijakan** \> **ancaman Brankas link** di **bagian** Kebijakan.
 
      Untuk langsung masuk ke Brankas **Tautan,** gunakan <https://security.microsoft.com/safelinksv2> .
 
-  2. Di **Brankas Link** Baru, pilih kebijakan dengan mengklik nama kebijakan.
+  2. On the **Brankas Links** page, select the policy by clicking on the name of the policy.
   3. Di flyout detail yang muncul, lakukan salah satu langkah berikut ini:
      - Untuk menambahkan kebijakan baru, pilih **+ Buat**. Panduan akan diluncurkan untuk membantu Anda menetapkan pengaturan kebijakan.
      - Untuk mengedit kebijakan yang sudah ada, pilih kebijakan dengan mengklik nama kebijakan tersebut. Dalam flyout detail yang muncul, pilih **Edit** di bagian **Pengaturan proteksi.**

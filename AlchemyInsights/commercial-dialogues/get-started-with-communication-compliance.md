@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034685"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327921"
 ---
 # <a name="get-started-with-communication-compliance"></a>Mulai menggunakan kepatuhan komunikasi
 
@@ -27,7 +27,7 @@ Sebelum memulai, organisasi Anda harus memiliki salah satu langganan atau add-on
 * Microsoft 365 E3 langganan + Microsoft 365 E5 Compliance add-on
 * Microsoft 365 E3 langganan + Microsoft 365 E5 add-on Manajemen Risiko Insider
 * Microsoft 365 A5 baru (versi berbayar atau uji coba)
-* Microsoft 365 A3 langganan + Microsoft 365 A5 add-on Kepatuhan penuh
+* Microsoft 365 A3 langganan + Microsoft 365 A5 add-on Kepatuhan
 * Microsoft 365 A3 langganan + Microsoft 365 A5 add-on Manajemen Risiko Insider
 * Microsoft 365 Langganan G5 (versi berbayar atau uji coba)
 * Microsoft 365 Langganan G5 + Microsoft 365 add-on Kepatuhan G5
@@ -35,5 +35,4 @@ Sebelum memulai, organisasi Anda harus memiliki salah satu langganan atau add-on
 * Office 365 Enterprise Langganan E5 (versi berbayar atau uji coba)
 * Office 365 Enterprise Langganan E3 + Office 365 Advanced Compliance add-on (tidak lagi tersedia untuk langganan baru, lihat catatan)
 
-    > [!NOTE]
-    > Jika belum memiliki Office 365 Enterprise E5 dan ingin mencoba manajemen risiko Insider, Anda dapat menambahkan [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke langganan yang sudah ada atau mendaftar untuk uji coba Office 365 Enterprise E5.
+    **Catatan**: Jika belum memiliki paket Office 365 Enterprise E5 dan ingin mencoba manajemen risiko Insider, Anda dapat menambahkan [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke langganan yang sudah ada atau mendaftar untuk uji coba Office 365 Enterprise E5.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893914"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327849"
 ---
 # <a name="unable-to-activate-office"></a>Tidak dapat mengaktifkan Office
 
-**Catatan**: Jika Anda menggunakan versi Windows yang lebih lama (Misalnya, Windows 7), pastikan tls 1.2 diaktifkan sebagai default. Untuk informasi selengkapnya, lihat Memperbarui untuk mengaktifkan [TLS 1.1 dan TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)sebagai protokol aman default di WinHTTP Windows .
+**Catatan**: Jika Anda menggunakan versi Windows yang lebih lama (Misalnya, Windows 7), pastikan bahwa TLS 1.2 diaktifkan sebagai default. Untuk informasi selengkapnya, lihat Memperbarui untuk mengaktifkan [TLS 1.1 dan TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)sebagai protokol aman default di WinHTTP Windows .
 
 - Periksa apakah status langganan Anda sudah kedaluwarsa.
 - Pastikan Anda memiliki langganan yang mengizinkan lisensi klien, seperti Office 365 Bisnis atau Bisnis Premium, dan [pastikan pengguna memiliki lisensi yang ditetapkan](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

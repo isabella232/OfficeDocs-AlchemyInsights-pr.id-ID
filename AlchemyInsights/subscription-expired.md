@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b6232cfed6a26609dc7cec4cb020ed46f087410e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891902"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328339"
 ---
 # <a name="subscription-expired"></a>Langganan kedaluwarsa
 
@@ -29,9 +29,8 @@ Jika langganan kedaluwarsa, atau dinonaktifkan oleh Microsoft, atau jika Anda me
 **Mengaktifkan kembali langganan**
 
 1. Di pusat admin, masuk ke halaman **Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Di tab **Produk,** temukan langganan yang ingin Anda aktifkan kembali, pilih tiga titik (tindakan lainnya), lalu pilih **Aktifkan kembali langganan ini.**
-    > [!NOTE]
-    > Jika Anda tidak melihat Aktifkan **kembali langganan ini,** hubungi dukungan.
+2. Di tab **Produk,** temukan langganan yang ingin Anda aktifkan kembali, pilih tiga titik (tindakan lainnya), lalu pilih Aktifkan kembali **langganan ini**.\
+    **Catatan**: Jika Anda tidak melihat Aktifkan **kembali langganan ini,** hubungi dukungan.
 3. Di **panel Aktifkan kembali langganan** ini, pilih metode pembayaran dari daftar menurun, atau pilih **Tambahkan metode pembayaran**.
 4. Pilih **Simpan**.
 
