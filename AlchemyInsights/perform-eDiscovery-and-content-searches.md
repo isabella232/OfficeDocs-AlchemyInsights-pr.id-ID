@@ -14,24 +14,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317479"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902047"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Cara melakukan Pencarian Konten dan pencarian eDiscovery
 
 **Untuk melakukan pencarian konten:**
 
-1. Masuk ke Microsoft 365 Kepatuhan Penuh, lalu masuk.
-2. Pilih **Pencarian > Pencarian Konten.**
+1. Masuk ke Microsoft 365 Pusat Kepatuhan Lalu masuk.
+2. Pilih **Cari > Pencarian Konten.**
 3. Pilih **Pencarian baru** untuk membuat pencarian baru.
 4. Masukkan kondisi pencarian yang diperlukan termasuk kata kunci dan lokasi konten.
 5. Pilih **Simpan & jalankan** untuk memberi nama pencarian, memulainya, lalu pratinjau hasilnya.
 
-**Catatan**: Di **Microsoft 365 Pusat Kepatuhan**  >  **,** perluas **eDiscovery** dan pilih alat eDiscovery yang Anda inginkan.
+> [!NOTE]
+> Di **Microsoft 365 Pusat Kepatuhan**  >  **,** perluas **eDiscovery** dan pilih alat eDiscovery yang Anda inginkan.
 
 Untuk instruksi mendetail tentang pencarian konten, mengekspor hasil, dan membuat kasus [](https://docs.microsoft.com/microsoft-365/compliance/content-search) eDiscovery untuk menampung data, lihat Pencarian Konten dan kasus [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 

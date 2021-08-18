@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091019"
 ---
 # <a name="sending-automatic-replies-from-outlook"></a>Mengirim balasan otomatis dari Outlook
 
-- Ada dua cara untuk mengirim balasan di luar kantor secara otomatis, tergantung pada tipe akun email yang Anda miliki.
-- Klik **file**, lalu pilih **balasan otomatis** berdasarkan versi Outlook Anda.
+- Ada dua cara untuk mengirim balasan otomatis di luar kantor, bergantung pada tipe akun email yang Anda miliki.
+- Klik **File**, lalu **pilih Balasan Otomatis** berdasarkan versi Outlook.

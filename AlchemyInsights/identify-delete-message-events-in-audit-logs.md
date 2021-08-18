@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 7e13c9e5fbfa6ade065c2810150687085c1a9daae1a11c134688ec9a83ad37d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115651"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Log audit untuk pesan email yang dihapus
 
@@ -34,6 +34,6 @@ Mulai Januari 2019, Microsoft akan mengaktifkan pembuatan log audit kotak surat 
 
 Dalam hasil, pilih catatan audit. Di flyout detail, klik **Informasi Selengkapnya.** Informasi tambahan tentang item yang dihapus (misalnya, baris subjek dan lokasi item saat item dihapus) ditampilkan di bidang ItemDampakalah.  Properti **ClientInfoString** akan memperlihatkan jika penghapusan terjadi di Outlook, Outlook di web (sebelumnya dikenal sebagai Outlook Web App), atau perangkat lainnya.
 
-Untuk informasi selengkapnya, [lihat Menentukan siapa yang menyiapkan penerusan email untuk kotak surat](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Untuk informasi selengkapnya, [lihat Menentukan siapa yang menyiapkan penerusan email untuk kotak surat](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Catatan**: Anda tidak dapat mengambil item yang dihapus menggunakan fitur log audit. Untuk mengambil pesan yang dihapus di Outlook di web, lihat [Memulihkan item yang dihapus Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

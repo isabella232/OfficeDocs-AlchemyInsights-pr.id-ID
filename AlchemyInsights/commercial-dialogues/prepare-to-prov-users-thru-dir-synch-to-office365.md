@@ -1,5 +1,5 @@
 ---
-title: Bersiap menetapkan pengguna melalui sinkronisasi direktori ke Office 365
+title: Mempersiapkan penetapan pengguna melalui sinkronisasi direktori untuk Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090953"
 ---
-# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Bersiap menetapkan pengguna melalui sinkronisasi direktori ke Office 365
+# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Mempersiapkan penetapan pengguna melalui sinkronisasi direktori untuk Office 365
 
-Penyediaan pengguna dengan sinkronisasi direktori memerlukan perencanaan dan persiapan, ikuti panduan di bawah ini:
+Pengguna pengadaan dengan sinkronisasi direktori memerlukan perencanaan dan persiapan, ikuti panduan di bawah ini:
 
 Beberapa tindakan yang perlu dilakukan dalam penyediaan pengguna meliputi:
 1. **Pembersihan direktori**.
-1. **Penyiapan objek dan atribut direktori**.
+1. **Persiapan objek dan atribut direktori**.
 1. **Mempersiapkan atribut UPN**.
-1. **Penambahan opsional AKHIRAN UPN alternatif untuk AD DS**.
-1. **Cocok dengan UPN lokal dengan Upns Office 365**.
+1. **Penambahan alternatif akhiran UPN alternatif untuk AD DS**.
+1. **Cocokkan UPN lokal dengan UPN Office 365.**
 1. **Alat integrasi direktori**.
 
-Untuk Deskripsi mendetail tentang setiap langkah penyiapan, lihat, [bersiap untuk menyediakan pengguna melalui sinkronisasi direktori ke artikel Office 365](https://aka.ms/office365assistantprovisionuserstooffice365).
+Untuk deskripsi mendetail tentang setiap langkah persiapan, lihat, Mempersiapkan penetapan pengguna [melalui sinkronisasi direktori Office 365 artikel](https://aka.ms/office365assistantprovisionuserstooffice365).

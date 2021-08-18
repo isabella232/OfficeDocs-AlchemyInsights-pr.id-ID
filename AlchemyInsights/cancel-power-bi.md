@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899543"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318953"
 ---
 # <a name="cancel-power-bi"></a>Batalkan Power BI
 
@@ -33,7 +33,6 @@ Power BI dapat dibatalkan di pusat admin Microsoft 365.
 
 **Pengembalian dana: Kredit prorasi akan dikembalikan kepada Anda dalam siklus tagihan berikutnya.**
 
-> [!NOTE]
-> Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
+**Catatan**: Jika Anda tidak melihat opsi untuk membatalkan, pilih langganan untuk menampilkan halaman detail. Di bagian **Pengaturan langganan dan pembayaran,** pilih **Batalkan langganan**.
 
 Untuk mempelajari selengkapnya, lihat [Membatalkan langganan Anda](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

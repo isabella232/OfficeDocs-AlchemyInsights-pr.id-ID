@@ -1,5 +1,5 @@
 ---
-title: Memecahkan masalah penginstalan MDATP pada Mac
+title: Memecahkan masalah penginstalan MDATP di Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091037"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Memecahkan masalah penginstalan MDATP pada Mac
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Memecahkan masalah penginstalan MDATP di Mac
 
-Jika penginstalan manual gagal, halaman **ringkasan** panduan penginstalan memperlihatkan kesalahan berikut:
+Jika penginstalan manual gagal, **halaman** Ringkasan panduan penginstalan akan memperlihatkan kesalahan berikut:
 
-"Terjadi galat selama penginstalan. Penginstal mengalami kesalahan yang menyebabkan penginstalan gagal. Hubungi produsen perangkat lunak untuk mendapatkan bantuan. "
+"Terjadi kesalahan selama instalasi. Penginstal mengalami kesalahan yang menyebabkan instalasi gagal. Hubungi produsen perangkat lunak untuk mendapatkan bantuan."
 
-Untuk penggunaan MDM, halaman juga memperlihatkan kegagalan penginstalan umum.
+Untuk penyebaran MDM, halaman juga memperlihatkan kegagalan penginstalan umum.
 
-Meskipun kami tidak menampilkan kesalahan yang tepat kepada pengguna akhir, kami menyimpan file log dengan kemajuan instalasi, di **/Library/logs/Microsoft/mdatp/install.log**. Setiap sesi instalasi menambahkan file log ini. Untuk menampilkan hanya sesi instalasi terakhir, gunakan `sed` .
+Meskipun kami tidak menampilkan kesalahan yang persis sama bagi pengguna akhir, kami menyimpan file log dengan kemajuan penginstalan, di **/Pustaka/Log/Microsoft/mdatp/install.log**. Setiap sesi instalasi ditambahkan ke file log ini. Untuk membuat output sesi instalasi terakhir saja, gunakan `sed` .
 
-Untuk mempelajari selengkapnya, lihat [memecahkan masalah instalasi untuk Microsoft Defender ATP untuk Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+Untuk mempelajari selengkapnya, lihat [Memecahkan masalah penginstalan bagi ATP Pertahanan Microsoft untuk Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)
