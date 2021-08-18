@@ -13,12 +13,12 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891298"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331126"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Mengidentifikasi aktivitas aturan kotak masuk dalam log audit
 
@@ -26,12 +26,12 @@ Anda dapat menggunakan pencarian log audit dalam pusat kepatuhan Microsoft 365 m
 
 1. Lakukan salah satu langkah berikut ini:
    - Pada bagian pusat kepatuhan Microsoft 365 <https://compliance.microsoft.com> , masuk ke **Audit** \> **Solusi**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://compliance.microsoft.com/auditlogsearch> .
-   - Pada portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
+   - Di portal Pertahanan Microsoft 365 di <https://security.microsoft.com> , masuk ke **Audit**. Atau, untuk langsung masuk ke **halaman Audit,** gunakan <https://security.microsoft.com/auditlogsearch> .
 
 2. Pada tab **Pencarian** dari halaman **Audit,** konfigurasi pengaturan berikut ini:
    - **Rentang tanggal dan waktu**: Pilih rentang tanggal/waktu dalam **kotak** Mulai **dan** Akhir.
    - **Aktivitas**: Pilih satu atau beberapa nilai berikut:
-     - **Aturan Kotak Masuk Barurule Membuat aturan kotak masuk Outlook Web App**
+     - **Aturan Kotak Masuk Barurule Membuat aturan kotak masuk dari Outlook Web App**
      - **Set-InboxRule Ubah aturan dari Outlook Web App**.
      - **Memperbarui aturan kotak masuk Outlook klien**
 

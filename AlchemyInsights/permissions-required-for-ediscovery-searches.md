@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973844"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338963"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Izin diperlukan untuk pencarian eDiscovery
 
-Untuk melakukan Pencarian Konten di Pusat Kepatuhan & Keamanan, pengguna setidaknya harus menjadi anggota dari grup peran Manajer eDiscovery, yang memungkinkan mereka melakukan pencarian dan menempatkan pada kotak surat, situs SharePoint, dan OneDrive lokasi. Anggota juga bisa membuat dan mengelola kasus eDiscovery, menambahkan dan menghapus anggota kasus, membuat dan mengedit Pencarian Konten, dan mengakses data kasus di Advanced eDiscovery.
+Untuk melakukan hierarki konten di Pusat & Keamanan, pengguna setidaknya harus menjadi anggota dari grup peran Manajer eDiscovery.
 
-Untuk melakukan In-Place eDiscovery di pusat admin Exchange (EAC), pengguna harus menjadi anggota dari grup peran Manajemen Penemuan dalam Exchange Online.
+Untuk melakukan pencarian konten dalam pusat kepatuhan Microsoft 365, pengguna setidaknya harus menjadi anggota grup peran Manajer eDiscovery.  
 
-Untuk informasi selengkapnya tentang izin eDiscovery, lihat: 
+Untuk menetapkan izin:
 
-- [Menetapkan izin eDiscovery di Pusat & Kepatuhan Keamanan](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Menetapkan izin eDiscovery di Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Masuk ke [pusat kepatuhan Microsoft 365](https://compliance.microsoft.com/)  >  **Izin.**
+1. Di **bawah Pusat Kepatuhan**, pilih **Peran**, lalu pilih **Manajer eDiscovery**.
+1. Di flyout, tambahkan pengguna ke peran yang diinginkan dengan memilih **Edit** di samping Manajer eDiscovery atau peran Administrator eDiscovery.
 
 **Catatan**: Setelah menetapkan izin eDiscovery, Anda mungkin perlu menunggu beberapa menit agar izin disbarbar.
+
+Untuk informasi selengkapnya tentang izin eDiscovery, [lihat Menetapkan izin eDiscovery di pusat kepatuhan Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).

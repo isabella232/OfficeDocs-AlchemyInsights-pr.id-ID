@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963790"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339035"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Cara menambahkan dan mengelola administrator - langkah-langkah yang direkomendasikan
 
@@ -29,7 +29,7 @@ Berdasarkan deskripsi masalah Anda, kami telah menemukan solusi untuk Anda. Seba
 - Administrator Akun dapat mengedit kedua peran itu sementara Administrator Langganan hanya bisa mengubah Rekan administrator di [portal Azure.](https://ms.portal.azure.com/#home)
 - [Menambahkan atau mengubah administrator langganan Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Memperbarui Langganan Administrator atau Co-Administrator Langganan Internal (AIRS)**
+**Perbarui Langganan Administrator atau Co-Administrator Langganan Internal (AIRS)**
 
 Administrator Layanan atau Rekan administrator dapat melayani sendiri tindakan ini dengan menggunakan langkah-langkah berikut:
 
@@ -43,7 +43,7 @@ Administrator Layanan atau Rekan administrator dapat melayani sendiri tindakan i
 
 1. Masuk ke [portal Azure](https://ms.portal.azure.com/#home) sebagai Administrator Layanan.
 2. Buka [Langganan](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) dan pilih langganan. (Rekan admin hanya dapat ditetapkan pada lingkup langganan.)
-3. Navigasi ke Kontrol **akses (IAM)** Administrator klasik Tambahkan administrator bersama untuk membuka panel Tambahkan  >    >    >   **rekan admin** (Jika opsi Tambahkan administrator bersama dinonaktifkan, hal itu akan menunjukkan bahwa Anda tidak memiliki izin).
+3. Menavigasi ke Kontrol **akses (IAM)** Administrator klasik Tambahkan administrator bersama untuk membuka panel Tambahkan  >    >    >   **rekan admin** (Jika opsi Tambahkan administrator bersama dinonaktifkan, hal itu akan menunjukkan bahwa Anda tidak memiliki izin).
 4. Pilih pengguna yang ingin Anda tambahkan dan klik **Tambahkan.**
 
 **Pelajari lebih lanjut:**
@@ -55,7 +55,7 @@ Administrator Layanan atau Rekan administrator dapat melayani sendiri tindakan i
 
 **Menambahkan/menghapus pengguna menggunakan Azure Active Directory (AD)**
 
-Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada Azure Active Directory organisasi (Azure AD):
+Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada dari Azure Active Directory (Azure AD) Organisasi:
 
 1. Untuk menambahkan pengguna baru, masuk ke [portal Azure](https://ms.portal.azure.com/#home) sebagai Administrator pengguna untuk organisasi.
 2. Pilih **Azure Active Directory**, pilih **Pengguna** lalu klik **Pengguna baru.**
@@ -75,7 +75,7 @@ Anda dapat menambahkan pengguna baru atau menghapus pengguna yang sudah ada Azur
 - [Tutorial: Berikan akses untuk pengguna menggunakan RBAC dan portal Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Memecahkan masalah RBAC di Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Mengelola sumber daya dengan grup manajemen Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Cara meminta salinan faktur Azure melalui email](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Cara meminta salinan faktur Azure melalui email](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Cara menambahkan, memperbarui, atau menghapus kartu kredit atau debit dari Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Mengelola (Mengaktifkan ulang/Membatalkan/Mengalihkan) langganan](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

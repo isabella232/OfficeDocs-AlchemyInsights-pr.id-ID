@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922232"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331044"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Menghapus data dan menghapus perangkat secara menyeluruh dari Intune
 
@@ -32,8 +32,7 @@ Tindakan jarak jauh Penghentian Perangkat dan Penghapusan Perangkat dapat diguna
 4. Pilih **Ya** untuk mengonfirmasi. Hingga penghapusan selesai, status tindakan perangkat ditampilkan sebagai *Penghentian Tertunda*.
     Setelah tindakan selesai, Anda tidak akan melihat lagi perangkat seluler di daftar perangkat terkelola.
 
-> [!NOTE]
-> Data perusahaan tidak dapat dihapus dari perangkat yang BERGABUNG ke Microsoft Azure AD. 
+**Catatan**: Data perusahaan tidak dapat dihapus dari perangkat YANG TERGABUNG dalam Azure AD. 
 
 Untuk detail lengkap tentang dampak dari tindakan Penghentian dan Penghapusan, termasuk apa yang dipertahankan dan apa yang dihapus, lihat dokumentasi berikut:
 

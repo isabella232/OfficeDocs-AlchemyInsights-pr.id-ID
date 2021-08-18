@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900655"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330819"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Memecahkan masalah Pertahanan Microsoft untuk Office 365
 
@@ -24,12 +24,12 @@ ms.locfileid: "57900655"
 
 - **Apakah Anda ingin melaporkan positif palsu atau negatif palsu kepada Microsoft?** Gunakan [Submissions Explorer](https://protection.office.com/reportsubmission).
 
--** Apakah Anda mengetahui bahwa Anda dapat mengaktifkan Brankas Tautan untuk email internal yang dikirimkan antar penerima di organisasi Anda?** Ikuti langkah-langkah ini:
+-** Tahukah Anda bahwa Anda dapat mengaktifkan Brankas Tautan untuk email internal yang dikirim antar penerima di organisasi Anda?** Ikuti langkah-langkah ini:
 
   1. Buka [https://protection.office.com](https://protection.office.com) dan masuk dengan akun administrator global atau administrator keamanan.
 
-  2. Di panel navigasi kiri di bawah **Manajemen ancaman**, pilih **Kebijakan** \> **Brankas Tautan**.
+  2. Di panel navigasi kiri di bawah **Manajemen ancaman**, pilih **Pengaturan** \> **Brankas Tautan**.
 
   3. Di bagian **Kebijakan yang berlaku untuk seluruh organisasi,** pilih kebijakan dan klik **Edit**.
 
-  4. Di **Pengaturan** bawah , aktifkan **Terapkan link aman ke pesan yang dikirim dalam organisasi**.
+  4. Pada **Pengaturan**, aktifkan **Terapkan tautan aman ke pesan yang dikirim dalam organisasi**.

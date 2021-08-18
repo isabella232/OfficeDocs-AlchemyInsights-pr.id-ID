@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: d6d62762a5da836a8fb4b6e750bdeca4d0fb46e42f30f4fde2183550e5d2210f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b87a0dbc9640cefe32a6bec3bea228eee91fe21a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082405"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332438"
 ---
 # <a name="change-a-users-email-address"></a>Mengubah alamat email pengguna
 
 Mengubah alamat email seseorang itu mudah! Cukup ikuti langkah-langkah ini:
   
-1. Di bagian pusat admin Microsoft 365, masuk ke [halaman Pengguna,](https://go.microsoft.com/fwlink/p/?linkid=834822) atau pilih **Pengguna** \> **Aktif.**
+1. Di bagian pusat admin Microsoft 365, masuk ke [halaman Pengguna,](https://go.microsoft.com/fwlink/p/?linkid=834822) atau pilih **Pengguna** \> **Aktif Pengguna.**
     
 2. Pilih pengguna.
     
@@ -31,7 +31,7 @@ Mengubah alamat email seseorang itu mudah! Cukup ikuti langkah-langkah ini:
     
 4. Dalam kotak **Alias,** ketikkan email baru, lalu pilih **Tambahkan**.
     
-    **PENTING:** Jika mendapatkan pesan kesalahan " Parameter yang sesuai dengan nama **parameter 'EmailAddresses'** tidak dapat ditemukan "EmailAddresses", artinya Microsoft membutuhkan waktu lebih lama untuk menyelesaikan penyiapan penyewa atau domain kustom Anda jika baru saja ditambahkan. Untuk menyelesaikan proses penyiapan, proses penyiapan dapat memakan waktu hingga 4 jam. Tunggu beberapa saat agar proses penyiapan selesai, lalu coba lagi. Jika masalah terus berlanjut, hubungi Dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
+    **Penting:** Jika mendapatkan pesan kesalahan " Parameter yang sesuai dengan nama **parameter 'EmailAddresses'** tidak dapat ditemukan " artinya Microsoft membutuhkan waktu lebih lama untuk menyelesaikan penyiapan penyewa atau domain kustom Anda jika baru saja ditambahkan. Untuk menyelesaikan proses penyiapan, proses penyiapan dapat memakan waktu hingga 4 jam. Tunggu beberapa saat agar proses penyiapan selesai, lalu coba lagi. Jika masalah terus berlanjut, hubungi Dukungan dan mereka akan melakukan sinkronisasi penuh untuk Anda.
     
     Jika mendapatkan pesan kesalahan " **Maaf, pengguna tidak dapat diedit. Tinjau informasi pengguna dan coba** lagi " artinya Anda bukan admin global dan tidak memiliki izin untuk mengubah nama pengguna.
     

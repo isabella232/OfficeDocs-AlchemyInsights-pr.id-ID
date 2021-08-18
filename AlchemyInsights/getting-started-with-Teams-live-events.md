@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333162"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Memulai acara langsung dengan Teams
 
@@ -27,7 +27,9 @@ Untuk membuat acara langsung, Anda perlu hal berikut:
 
 - Pertama, konfirmasikan bahwa Acara Langsung Teams [tersedia di Negara dan kawasan Anda](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Acara Langsung belum didukung di beberapa negara.  Jika Anda telah menetapkan lisensi dan menetapkan kebijakan, tetapi masih tidak dapat membuat Acara Langsung Teams, kemungkinan Anda berada di Negara atau Kawasan di mana Acara Langsung belum tersedia.
 
-- [Lisensi Office 365 Enterprise E1, E3, atau E5 atau lisensi Office 365 A3 atau A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Catatan**: Dikarenakan peningkatan penggunaan Teams baru-baru ini, Anda mungkin memerlukan waktu sekitar 24 jam untuk menyelesaikan penyiapan penetapan lisensi ke pengguna. Sampai saat itu, Anda tidak akan dapat menetapkan kebijakan Teams kepada mereka, dan mereka mungkin tidak memiliki akses ke beberapa fitur tim seperti konferensi panggilan dan audio.
+- [Lisensi Office 365 Enterprise E1, E3, atau E5 atau lisensi Office 365 A3 atau A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **Catatan**: Dikarenakan peningkatan penggunaan Teams baru-baru ini, Anda mungkin memerlukan waktu sekitar 24 jam untuk menyelesaikan penyiapan penetapan lisensi ke pengguna. Sampai saat itu, Anda tidak akan dapat menetapkan kebijakan Teams kepada mereka, dan mereka mungkin tidak memiliki akses ke beberapa fitur tim seperti konferensi panggilan dan audio.
 
 - Izin untuk [membuat acara langsung di pusat admin Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
