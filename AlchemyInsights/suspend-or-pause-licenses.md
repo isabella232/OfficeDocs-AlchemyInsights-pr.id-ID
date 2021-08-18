@@ -15,18 +15,18 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900111"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321684"
 ---
 # <a name="suspend-or-pause-licenses"></a>Menangguhkan atau menjeda lisensi
 
 **TONTON video yang** memperlihatkan cara melakukan hal ini: [Menghapus lisensi yang sudah ada](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Untuk menangguhkan atau menjeda penggunaan lisensi untuk sementara, Anda bisa menghapus lisensi dari pusat admin Microsoft 365, lalu menambahkannya kembali di lain waktu.
+Untuk menangguhkan atau menjeda penggunaan lisensi untuk sementara, Anda dapat menghapus lisensi dari pusat admin Microsoft 365, lalu menambahkannya kembali di lain waktu.
 
 1. Sebelum menghapus lisensi dari langganan Anda, Anda harus [menghapus penetapan lisensi dari pengguna terlebih dahulu.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
 2. Berikutnya, masuk ke **halaman Tagihan**  >  [Produk Anda.](https://go.microsoft.com/fwlink/p/?linkid=842054)

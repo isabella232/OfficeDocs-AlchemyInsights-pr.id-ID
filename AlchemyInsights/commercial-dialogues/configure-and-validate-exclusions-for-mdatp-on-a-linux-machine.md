@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916418"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321288"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Mengonfigurasi dan memvalidasi pengecualian untuk MDATP di komputer Linux
 
@@ -25,5 +25,4 @@ Anda dapat mengecualikan file, folder, proses, dan file tertentu yang dibuka dar
 
 Untuk mempelajari selengkapnya, [lihat Mengonfigurasi dan memvalidasi pengecualian untuk MDATP untuk Linux.](https://go.microsoft.com/fwlink/?linkid=2144517)
 
-> [!IMPORTANT]
-> Pengecualian yang dijelaskan dalam artikel ini tidak berlaku untuk kapabilitas MDATP untuk Linux lainnya, termasuk deteksi dan respons titik akhir (EDR). File yang Dikecualikan dengan menggunakan metode yang dijelaskan dalam artikel ini masih dapat memicu EDR teks dan kapabilitas deteksi lainnya.
+**Penting:** Pengecualian yang dijelaskan dalam artikel ini tidak berlaku untuk kemampuan MDATP untuk Linux lainnya, termasuk deteksi dan respons titik akhir (EDR). File yang Dikecualikan dengan menggunakan metode yang dijelaskan dalam artikel ini masih dapat memicu EDR teks dan kemampuan deteksi lainnya.

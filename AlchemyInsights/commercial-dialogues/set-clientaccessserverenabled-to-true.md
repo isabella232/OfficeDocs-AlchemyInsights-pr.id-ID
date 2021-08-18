@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994868"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320359"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Mengatur ClientAccessServerEnabled ke True
 
@@ -26,11 +26,10 @@ Jika Tidak dapat membuka pesan email terenkripsi dan sebagai gantinya, lihat lam
 
 1. Koneksi ke Exchange Online PowerShell.
 
-> [!NOTE]
-> Untuk menyambungkan ke Exchange Online PowerShell, Anda harus masuk menggunakan admin global atau Exchange admin.
+    **Catatan**: Untuk tersambung Exchange Online PowerShell, Anda harus masuk menggunakan admin global atau Exchange admin global.
 
    a. Buka Windows PowerShell, lalu jalankan perintah berikut:`$UserCredential = Get-Credential`
-b. Dalam kotak **dialog Windows PowerShell Permintaan Kredensial,** masukkan akun kerja atau sekolah dan kata sandi, c. Klik **OK**. 
+   b. Dalam kotak **dialog Windows PowerShell Permintaan Kredensial,** masukkan akun kerja atau sekolah dan kata sandi Anda, c. Klik **OK**. 
 
 2. Jalankan perintah berikut ini untuk membuat sesi baru:
 
@@ -46,8 +45,7 @@ b. Dalam kotak **dialog Windows PowerShell Permintaan Kredensial,** masukkan aku
 
     a. Jika **pengaturan ClientAccessServerEnabled** diatur ke **False,** jalankan cmdlet berikut: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Selalu tutup sesi powershell dengan perintah berikut: `Remove-PSSession $Session`
+**Tips**: Selalu tutup sesi powershell dengan perintah berikut: `Remove-PSSession $Session`
 
-Untuk informasi selengkapnya, lihat [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Untuk informasi selengkapnya, [lihat Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

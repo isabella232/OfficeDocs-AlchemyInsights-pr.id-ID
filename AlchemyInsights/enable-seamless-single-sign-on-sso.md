@@ -14,17 +14,17 @@ ms.custom:
 - "9004357"
 - "9385"
 - "9861"
-ms.openlocfilehash: 66613381a9d07b9e79152cb1fa7f746d02d40f26
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 933264dc876dffc54b5a3fb4ab0630236fab2efa16c6fccc9dc31716cf366129
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117919"
 ---
 # <a name="enable-seamless-single-sign-on-sso"></a>Mengaktifkan Akses Masuk Tunggal (SSO) Tanpa Hambatan
 
 Sebagian besar pengguna bisa mengaktifkan Masuk Tunggal Tanpa Hambatan (SSO, Seamless Single Sign-on) menggunakan langkah-langkah di bawah ini:
 
-1. Untuk mengaktifkan SSO Tanpa Hambatan, ikuti langkah-langkah dalam artikel Akses Tunggal Tanpa [Hambatan Azure Active Directory: Mulai Cepat.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start)
+1. Untuk mengaktifkan SSO Tanpa Hambatan, ikuti langkah-langkah [dalam Azure Active Directory akses Masuk Tunggal Tanpa Hambatan: Mulai Cepat.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-quick-start)
 2. Untuk mempelajari cara mendapatkan pengalaman SSO di perangkat yang tergabung di Azure AD ke sumber daya dan aplikasi yang mengandalkan AD lokal, lihat Cara SSO ke sumber daya lokal berfungsi di perangkat yang tergabung [di Azure AD.](https://docs.microsoft.com/azure/active-directory/devices/azuread-join-sso)
-3. Untuk mempelajari tentang berbagai topologi Azure Active Directory (Azure AD) dan lokal yang menggunakan sinkronisasi Azure AD Connect sebagai solusi integrasi utama, lihat [Topologi untuk Azure AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies). Artikel ini menyertakan konfigurasi yang didukung dan tidak didukung.
+3. Untuk mempelajari tentang berbagai topologi lokal dan Azure Active Directory (Azure AD) yang menggunakan sinkronisasi Koneksi Azure AD sebagai solusi integrasi utama, lihat [Topologi untuk Azure AD Koneksi](https://docs.microsoft.com/azure/active-directory/hybrid/plan-connect-topologies). Artikel ini menyertakan konfigurasi yang didukung dan tidak didukung.

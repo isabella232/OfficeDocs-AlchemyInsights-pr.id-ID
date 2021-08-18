@@ -1,5 +1,5 @@
 ---
-title: Berbagi OneDrive eksternal dengan pengguna eksternal
+title: Berbagi OneDrive anda dengan pengguna eksternal
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051597"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320600"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Berbagi file di OneDrive dengan orang di luar organisasi Anda
 
@@ -29,10 +29,9 @@ ms.locfileid: "54051597"
     
   - **Siapa** pun memberikan akses ke semua orang yang menerima tautan ini, baik jika tautan diterima langsung dari Anda maupun diteruskan dari orang lain. Hal ini mungkin mencakup orang-orang di luar organisasi. 
     
-  - **Orang tertentu** memberikan akses hanya kepada orang-orang yang Anda tentukan, meskipun orang lain mungkin sudah memiliki akses. Jika mereka meneruskan undangan berbagi tersebut, hanya orang yang sudah memiliki akses ke item tersebut yang dapat menggunakan tautan. 
+  - **Orang tertentu** memberikan akses hanya kepada orang-orang yang Anda tentukan, meskipun orang lain mungkin sudah memiliki akses. Jika mereka meneruskan undangan berbagi tersebut, hanya orang yang sudah memiliki akses ke item tersebut yang dapat menggunakan tautan tersebut. 
     
-    > [!NOTE]
-    > Jika salah satu opsi ini tidak tersedia, atau jika ingin tipe tautan lain muncul secara default, Anda dapat mengubah pengaturan  tingkat organisasi dengan masuk ke pusat admin OneDrive dan mengklik Berbagi di panel kiri. [Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=871961)
+    **Catatan:** Jika salah satu opsi ini tidak tersedia, atau jika ingin tipe tautan lain muncul secara default, Anda dapat mengubah pengaturan  tingkat organisasi dengan masuk ke pusat admin OneDrive dan mengklik Berbagi di panel kiri. [Pelajari selengkapnya](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. Secara default, **Perbolehkan** pengeditan diaktifkan. Jika hanya ingin orang-orang menampilkan file Anda, kosongkan kotak centang. 
     

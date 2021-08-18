@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890437"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321756"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Mengaktifkan autentikasi SMTP dan pemecahan masalah
 
@@ -40,6 +40,6 @@ Jika ingin mengaktifkan autentikasi SMTP untuk kotak surat atau mendapatkan kesa
 
 3. [Menonaktifkan Multi-Factor Authentication (MFA) pada](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) kotak surat berlisensi.
 
-    a. Masuk ke pusat admin Microsoft 365, dan di menu navigasi kiri pilih **Pengguna**  >  **Aktif pengguna**.<BR/>
+    a. Masuk ke pusat admin Microsoft 365, dan di menu navigasi kiri, pilih **Pengguna**  >  **Aktif pengguna**.<BR/>
     b. Pilih **Multi-factor authentication**.<BR/>
     c. Pilih pengguna dan nonaktifkan **Multi-Factor auth**.<BR/>
