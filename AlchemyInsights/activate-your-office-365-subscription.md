@@ -3,6 +3,7 @@ title: Mengaktifkan langganan Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1500028"
 - "4744"
-ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2020
+ms.openlocfilehash: 3af46c4eabe70cb70f92310c9d192f5cb91670d0
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314279"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450917"
 ---
 # <a name="activate-your-subscription"></a>Mengaktifkan langganan
 
@@ -25,7 +28,7 @@ ms.locfileid: "58314279"
 
 - Untuk memberikan pengguna akses ke layanan, tetapkan lisensi bagi pengguna. Untuk mempelajari caranya, [lihat Menetapkan lisensi kepada pengguna.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Jika Anda sudah memiliki lisensi yang ditetapkan, Anda bisa menemukan aplikasi yang bisa Anda unduh dari halaman [Akun Saya.](https://portal.office.com/account/#installs) Halaman ini menyediakan daftar aplikasi yang tersedia untuk diunduh berdasarkan lisensi yang ditetapkan.
-- Jika sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi dengan akun kerja atau sekolah. Anda dapat melakukannya di semua Office (Word, Excel, dll.) dengan memilih **File > File** (di dekat bagian bawah). Di bawah Informasi Pengguna, pilih **Alihkan Akun.** Untuk informasi selengkapnya, bacalah [Menginstal aplikasi Office ](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Jika sudah mengunduh aplikasi Office, Anda mungkin perlu masuk ke aplikasi dengan akun kerja atau sekolah. Anda dapat melakukannya di semua Office (Word, Excel, dll.) dengan memilih **File > Akun** (di dekat bagian bawah). Di bawah Informasi Pengguna, pilih **Alihkan Akun.** Untuk informasi selengkapnya, bacalah [Menginstal aplikasi Office ](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Mengaktifkan kembali langganan**
 

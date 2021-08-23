@@ -1,8 +1,9 @@
 ---
 title: Membeli langganan Visio
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002419"
 - "4694"
-ms.openlocfilehash: a908e7887512e78fdd8fc51e4c973989a742265c07eac1731f4d658231cd29e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e190eaa89e7609125cc0cce7f4a6861424154dec
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943486"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451097"
 ---
 # <a name="purchase-visio-subscription"></a>Membeli langganan Visio
 
-Admin dapat membeli langganan Visio langganan untuk organisasi mereka dari **pusat admin Microsoft 365**.
+Admin dapat membeli langganan Visio untuk organisasi mereka dari **pusat admin Microsoft 365**.
 
 1. Buka halaman **Langganan** > **[Beli layanan](https://go.microsoft.com/fwlink/p/?linkid=868433)** untuk menampilkan langganan yang tersedia untuk dibeli organisasi Anda.
 
