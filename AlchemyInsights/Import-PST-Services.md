@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Layanan impor di pusat Office 365 Keamanan & Kepatuhan &
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312726"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418152"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Layanan impor
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Layanan impor di pusat Office 365 Keamanan & Kepatuhan &
 
-Untuk mengakses layanan Impor dan memulai proses impor:
+Office 365 Layanan impor memungkinkan Anda mengimpor beberapa file PST ke dalam kotak surat Exchange Online pengguna. Gunakan layanan Impor untuk mengimpor file PST secara massal ke organisasi Anda menggunakan opsi **Unggahan jaringan** atau **Pengiriman Drive.**
 
-1. Masuk ke [Pusat Kepatuhan M365,](https://compliance.microsoft.com/)dan masuk menggunakan kredensial untuk akun administrator di organisasi Anda.
+Untuk mengakses layanan Impor dan alat untuk mengimpor beberapa file PST:
 
-1. Di panel kiri Pusat Kepatuhan M365 di bawah **Solusi**, pilih **Impor tata kelola**  >  **informasi**.
+1. Buka Office 365 [Security & Compliance](https://protection.office.com), dan masuk dengan akun Office 365 Anda.
+1. Pilih **Tata Kelola Data**, pilih **Impor**, dan ikuti langkah-langkah dalam panduan. 
 
-1. Di halaman **Impor,** pilih **Pekerjaan impor baru**. Masukkan nama pekerjaan, lalu pilih **Berikutnya**.
+Untuk informasi tambahan dan instruksi langkah demi langkah untuk mengimpor beberapa file PST, lihat Gambaran umum [tentang mengimpor file PST organisasi Anda.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Pilih **Upload data Anda** untuk menggunakan opsi unggahan jaringan untuk Tipe Pekerjaan **Impor.** Untuk langkah detailnya, [lihat Menggunakan unggahan jaringan untuk mengimpor file PST organisasi Anda ke Microsoft 365](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files).
-
-Untuk mengakses **halaman** Impor, pastikan Anda telah diberi izin yang sesuai. Untuk informasi selengkapnya, lihat [Menggunakan unggahan jaringan untuk mengimpor file PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
-
-Jika ingin mengimpor PST ke kotak surat, lihat [Mengimpor email, kontak,](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)dan kalender dari file .pst Outlook .
-
-Jika mengalami masalah dengan impor, lihat Masalah yang [memengaruhi pekerjaan impor PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
+Untuk mengimpor satu file PST, lihat [Mengimpor dan mengekspor Outlook, kontak, dan kalender email.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)
 
