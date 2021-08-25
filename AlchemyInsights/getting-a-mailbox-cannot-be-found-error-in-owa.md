@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056493"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522357"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Mendapatkan kotak surat tidak menemukan kesalahan di Outlook di web?
 
-Jika Anda menggunakan Outlook di web dan mendapatkan kesalahan  Kotak Surat tidak dapat ditemukan, akun yang digunakan untuk menyambungkan ke Outlook di web tidak memiliki lisensi Exchange Online sehingga, tidak ada kotak surat yang terkait dengan akun tersebut. Admin dapat menetapkan lisensi ke akun Anda dengan mengikuti langkah-langkah berikut:
+Jika mendapatkan kesalahan Outlook Web App (OWA): "Kotak surat tidak dapat ditemukan untuk pengguna .", artinya pengguna yang masuk tidak memiliki Lisensi Exchange Onlince dan sp, tidak ada kotak surat Exchange Online yang terkait dengan akun pengguna ini. 
 
-1. Buka [pusat admin Microsoft 365](https://portal.office.com/adminportal/home#/homepage) masuk ke **Pengguna aktif** di **bawah bagian** Pengguna, dan pilih pengguna yang melihat kesalahan.
+Administrator organisasi bisa menetapkan lisensi Exchange kepada pengguna melalui situs web pusat admin Microsoft 365 dengan mengikuti langkah-langkah ini:
 
-2. Di halaman pengguna yang terbuka,  masuk ke bagian Lisensi  dan Aplikasi, pilih nilai Lokasi yang sesuai, dan tetapkan lisensi yang berisi Exchange Online (perluas lisensi untuk melihat detailnya). Bila Anda sudah selesai, klik **Simpan perubahan.**
-
-Dalam beberapa kasus, jika lisensi sudah ditetapkan ke akun pengguna, menghapus dan menetapkan ulang lisensi akan membantu mengatasi masalah tersebut dan mendapatkannya dengan benar disediakan dalam sistem: 
-
-- Periksa apakah langganan M365 Exchange Online (dan lainnya, jika ada) yang sedang dilakukan dan belum berakhir baru-baru ini.
-
-Setelah memastikan bahwa langganan anda belum kedaluwarsa dan lisensi yang valid telah ditetapkan ke akun pengguna, perlu waktu hingga 24 jam agar lisensi tersedia, sehingga Anda mungkin harus menunggu hingga masalah Anda atasi. Untuk informasi selengkapnya, [lihat Menetapkan dan mengelola lisensi.](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses)
+1. Masuk ke [Pengguna aktif](https://portal.office.com/adminportal/home#/users), pilih pengguna, dan pilih **Edit Lisensi**  >  **Produk**. 
+1. Mengatur lokasi yang diperlukan.
+1. Tetapkan lisensi yang memiliki Exchange Online layanan baru.
