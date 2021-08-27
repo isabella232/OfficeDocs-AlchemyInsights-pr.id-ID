@@ -3,7 +3,6 @@ title: Mentransfer lisensi antar penyewa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "1500021"
 - "4689"
-ms.openlocfilehash: 4ab89bacadea74ff3eba8d42ee1340164bded2816e274b8222dd48613c01e5ba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/27/2021
+ms.openlocfilehash: bd928d945072eeebb4fd47d61982e75b0d317f66
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901147"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679338"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Mentransfer lisensi antar penyewa
 
@@ -31,6 +31,6 @@ Anda **tidak dapat** mentransfer lisensi antara 2 organisasi (penyewa). Jika And
 - Dalam kedua kasus, Anda mungkin ingin melakukan migrasi kotak surat dan data lain:
 
     - [Migrasi Kotak Surat](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
-    - [Melakukan SharePoint data](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
+    - [Melakukan migrasi SharePoint data](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
 Untuk informasi selengkapnya, lihat [Membeli atau menghapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
