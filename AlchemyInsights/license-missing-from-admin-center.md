@@ -1,26 +1,29 @@
 ---
-title: Lisensi hilang atau hilang dari Pusat admin
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Lisensi hilang atau menghilang dari pusat admin
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707843"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844533"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>Lisensi hilang atau hilang dari Pusat admin
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>Lisensi hilang atau menghilang dari pusat admin
 
+Jika lisensi anda menghilang, verifikasi bahwa langganan Anda belum kedaluwarsa. Untuk memeriksa tanggal kedaluwarsa, buka **Tagihan** > [produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-Jika lisensi Anda menghilang, Verifikasikan bahwa langganan Anda belum kedaluwarsa. Untuk memeriksa tanggal kedaluwarsa, buka **penagihan**   >   **[produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-Tergantung pada tampilan, tanggal kedaluwarsa akan muncul di kolom paling kanan berlabel **tanggal** atau di **Bagian tagihan** langganan rincian **di samping kedaluwarsa**.
+Tanggal kedaluwarsa muncul di kolom **status Langganan**.

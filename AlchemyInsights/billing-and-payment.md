@@ -3,7 +3,6 @@ title: Tagihan dan pembayaran
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314919"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844965"
 ---
 # <a name="billing-and-payment"></a>Tagihan dan pembayaran
 
-Tagihan Anda dapat ditemukan di **tab**  >  [Tagihan & pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
+Tagihan Anda dapat ditemukan di **tab Tagihan**  >  [& pembayaran.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Secara default, faktur dalam 3 bulan terakhir akan ditampilkan.  Untuk menampilkan faktur yang lebih lama, sesuaikan filter.  Klik **tautan Unduh PDF** faktur untuk menampilkan faktur.
 
 **Menerima faktur melalui email**
 
