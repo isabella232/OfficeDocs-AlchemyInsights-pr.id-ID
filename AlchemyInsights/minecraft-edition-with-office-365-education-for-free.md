@@ -1,10 +1,9 @@
 ---
-title: Minecraft Edisi dengan Office 365 Education gratis
+title: Minecraft Edisi dengan Office 365 Education Gratis
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,17 +13,18 @@ ms.custom:
 - commerce_subscriptions
 - "1427"
 - "1500009"
+ms.date: 04/21/2020
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a241c363c7443c007a8dcb725046ffbc45ee5ff897213f64d109eab8a4fc4ff4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb8aef0458ae921e119a87cd49a6ac648999d48
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975248"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845541"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edisi dengan Office 365 Education gratis
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edisi dengan Office 365 Education Gratis
 
-[Minecraft Edisi dengan Office 365 Education gratis](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edisi dengan Office 365 Education Gratis](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: Education Edition** memerlukan Windows 10
 
@@ -34,8 +34,8 @@ ms.locfileid: "53975248"
 
   - Office 365 Education, yang mencakup versi online Microsoft 365 tambahan penyimpanan online sebesar 1 TB gratis untuk guru dan siswa. [Daftarkan sekolah Anda untuk Office 365 Education](https://www.microsoft.com/education/products/office).
 
-  - Jika sekolah Anda memiliki langganan Office 365 Education, langganan ini mencakup langganan Azure AD gratis. [Daftarkan langganan Azure AD gratis Anda.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
+  - Jika sekolah Anda memiliki Office 365 Education, langganan ini mencakup langganan Azure AD gratis. [Daftarkan langganan Azure AD gratis Anda.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[Pelajari bagaimana guru bisa mendapatkan dan mendistribusikan Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Pelajari bagaimana guru dapat memperoleh dan mendistribusikan Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
 [Pelajari bagaimana administrator TI bisa mendapatkan dan mendistribusikan Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), dan cara mengelola izin untuk Minecraft.
