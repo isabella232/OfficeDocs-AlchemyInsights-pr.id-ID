@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452105"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843597"
 ---
 # <a name="microsoft-365-a1-faq"></a>FAQ Microsoft 365 A1
 
 FAQ Langganan dan Manajemen Lisensi A1:
 
-- Jika lembaga Anda belum menyiapkan Microsoft 365 Education, tetapi Anda ingin menambahkan **Microsoft 365 secara gratis**, Anda dapat memulai dengan memberikan email Anda. Untuk memberikan email Anda, [Mulai menggunakan Office 365 secara gratis.](https://www.microsoft.com/education/products/office)  
+- Jika lembaga Anda belum menyiapkan Microsoft 365 Education, tetapi Anda ingin menambahkan **Microsoft 365 secara gratis**, Anda dapat memulai dengan memberikan email Anda. Untuk memberikan email, lihat [Memulai penggunaan Office 365 secara gratis](https://www.microsoft.com/education/products/office).  
 - Jika lembaga Anda telah memenuhi syarat untuk Microsoft 365 Education, buka **Tagihan > [Layanan pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Gunakan Kotak pencarian untuk mencari "A1", lalu pilih paket dan jumlah pengguna. Untuk informasi selengkapnya, lihat [Mencoba langganan coba gratis](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) atau [Membeli langganan lain](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Untuk **mengubah paket**, lihat [Meningkatkan ke paket lain](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Untuk **menetapkan** lisensi A1 kepada pengguna, buka **Tagihan > [Lisensi](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Untuk informasi selengkapnya, lihat [Menetapkan lisensi kepada pengguna](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

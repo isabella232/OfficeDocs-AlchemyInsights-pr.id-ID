@@ -1,31 +1,32 @@
 ---
 title: Mengubah paket Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706866"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841976"
 ---
 # <a name="change-exchange-online-plans"></a>Mengubah paket Exchange Online
 
-Admin harus mengalihkan paket secara manual. Untuk langkah lengkap, lihat [Beralih paket Microsoft 365 untuk bisnis secara manual](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Admin harus mengubah paket secara manual di pusat admin Microsoft 365. Untuk langkah lengkapnya, lihat [Mengubah paket secara manual](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. Membeli paket langganan baru. Di Pusat Admin Microsoft 365, buka **Tagihan > [Layanan Pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Yang paling mudah adalah menggunakan Kotak pencarian untuk menemukan paket Exchange.
-
-2. Periksa langganan dan lisensi baru Anda. Di pusat admin Microsoft 365, buka **Tagihan > [Langganan](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Jika langganan baru tidak tercantum, atau tidak aktif, cek [di sini](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
-
-3. Tetapkan ulang lisensi ke pengguna. Di Pusat Admin Microsoft 365, masuk ke **Pengguna > [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822)** dan tetapkan lisensi.
-
-4. [Batalkan langganan atau Hapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#step-5-cancel-subscriptions-or-remove-licenses-that-you-no-longer-need-optional) yang tidak lagi Anda perlukan.
+1. **Membeli paket langganan baru.** Buka halaman **Tagihan** > [Layanan Pembelian](https://go.microsoft.com/fwlink/p/?linkid=868433) dan beli langganan baru.
+2. **Periksa langganan dan lisensi baru Anda.** Buka halaman **Tagihan** > [Produk Anda](https://go.microsoft.com/fwlink/p/?linkid=842054) dan verifikasi bahwa langganan baru tercantum dan memiliki jumlah lisensi yang benar.
+3. **Tetapkan ulang lisensi ke pengguna.** Buka halaman **Pengguna** > [Pengguna aktif](https://go.microsoft.com/fwlink/p/?linkid=834822), dan tetapkan lisensi.
+4. [Batalkan langganan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) atau [hapus lisensi](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) yang tidak lagi Anda perlukan.
