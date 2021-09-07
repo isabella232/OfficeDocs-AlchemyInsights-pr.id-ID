@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978164"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923557"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - Garis dasar keamanan
 
@@ -37,6 +37,8 @@ Setiap garis dasar diperbarui secara berkala dan dirilis dalam versi bertahap. S
 Untuk panduan tentang cara paling efektif mengubah versi garis dasar mana yang disebarkan, lihat [Mengelola profil garis dasar keamanan di Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Setelah menyebarkan garis dasar keamanan, Anda dapat memantau status penyebaran dan meninjau pengaturan di masing-masing perangkat.
+
+Karena baseline keamanan berisi banyak pengaturan, penting untuk meninjau perubahan konfigurasi dan melakukan pengujian untuk memastikan semua pengaturan sesuai dengan perangkat dan kebutuhan bisnis Anda.
 
 **Catatan:** Data pelaporan garis dasar mungkin baru muncul 24 jam setelah penyebaran awal ke perangkat, dan hingga 6 jam untuk pembaruan selanjutnya. 
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Connections Ketersediaan
+title: Menyiapkan aplikasi desktop Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000467"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923701"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections Ketersediaan
+# <a name="set-up-the-viva-connections-desktop-app"></a>Menyiapkan aplikasi desktop Viva Connections
 
-Microsoft Viva Connections akan tersedia untuk desktop pada paruh pertama 2021 dan untuk seluler di musim panas 2021. Fitur tambahan akan diluncurkan selama 2022.
+Ada dua persyaratan utama bagi Viva Connections untuk Teams Desktop. 
 
-Untuk informasi selengkapnya, lihat bagaimana [Microsoft Viva Connections semua orang agar tetap terlibat dan mendapatkan informasi terbaru.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)
+- Bilah SharePoint baru harus diluncurkan dan memungkinkan penyewa untuk mendapatkan manfaat penuh dari Viva Connections. Sangat disarankan untuk menggunakan situs beranda sebagai pengalaman awal di Teams. 
+- Viva Connections versi pertama dapat disediakan melalui pusat unduhan Microsoft menggunakan PowerShell (gunakan versi paling baru [SharePoint PowerShell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps)). Viva Connections kemudian diunggah sebagai sebuah aplikasi di Teams admin. Skrip PowerShell telah tersedia sejak 31 Maret 2021. Unduh Viva Connections Desktop dari Pusat Unduhan [Microsoft resmi.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Untuk informasi selengkapnya, lihat [Menambahkan Viva Connections untuk Microsoft Teams desktop dan](https://docs.microsoft.com/SharePoint/viva-connections) Microsoft Teams gambaran umum [PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview)
