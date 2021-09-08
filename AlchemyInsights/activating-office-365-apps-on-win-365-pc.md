@@ -1,5 +1,5 @@
 ---
-title: Mengaktifkan aplikasi Office 365 di Windows 365 PC
+title: Mengaktifkan aplikasi Office 365 di PC Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792805"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923521"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Mengaktifkan aplikasi Office 365 di Windows 365 PC
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Mengaktifkan aplikasi Office 365 di PC Windows 365
 
-Windows PC 365 menyertakan salinan terinstal aplikasi Office 365, yang diaktifkan ketika membuka salah satu Office aplikasi untuk pertama kalinya.
+**Catatan**: Masalah ini TIDAK berlaku bagi pengguna dengan lisensi Windows 365 Enterprise.
 
-Selama proses aktivasi, pengguna Windows 365 Bisnis mungkin mengalami kesalahan berikut:
+Citra PC Windows 365 menyertakan salinan aplikasi Office 365 yang terinstal, yang diaktifkan saat membuka aplikasi Office untuk pertama kalinya.
+
+Selama proses aktivasi, pengguna dengan lisensi Windows 365 Business mungkin mengalami kesalahan berikut:
 
 "Masalah Akun
 
-Produk yang kami temukan dalam akun Anda tidak bisa digunakan untuk mengaktifkan office dalam skenario komputer bersama Kode kesalahan 0x80004005"
+Produk yang kami temukan pada akun Anda tidak dapat digunakan untuk mengaktifkan office dalam skenario komputer bersama Kode kesalahan 0x80004005"
 
-Untuk mengatasi masalah ini, mintalah pengguna yang terpengaruh untuk menyelesaikan langkah-langkah berikut ini: 
+Untuk mengatasi masalah ini, minta pengguna yang terpengaruh untuk menyelesaikan langkah-langkah berikut: 
 
-1. Hapus instalan Office yang sudah ada dari PC Cloud.
-1. Masuk ke Office.com, lalu pilih opsi Instal Office.
+1. Hapus instalan aplikasi Office yang ada dari PC Cloud.
+1. Buka Office.com dan pilih opsi untuk Menginstal Office.
 
-    Office harus berhasil diselesaikan.
+    Aktivasi Office seharusnya akan berhasil diselesaikan.
