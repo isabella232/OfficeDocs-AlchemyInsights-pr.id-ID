@@ -1,5 +1,5 @@
 ---
-title: Laporan dalam pusat admin Microsoft 365 tidak memperlihatkan nama pengguna yang dapat dibaca
+title: Laporan di pusat admin Microsoft 365 tidak menampilkan nama pengguna yang dapat dibaca
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,20 +15,20 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
-ms.translationtype: MT
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.translationtype: HT
 ms.contentlocale: id-ID
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316190"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327817"
 ---
-# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Laporan dalam pusat admin Microsoft 365 tidak memperlihatkan nama pengguna yang dapat dibaca
+# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Laporan di pusat admin Microsoft 365 tidak menampilkan nama pengguna yang dapat dibaca
 
-Laporan di pusat admin Microsoft 365 tidak memperlihatkan nama pengguna tetapi memperlihatkan nilai numerik alfa seperti B2BC6C15BB9FCDEA71E5CD302D228CC8.
+Laporan di pusat admin Microsoft 365 tidak menampilkan nama pengguna tetapi menampilkan nilai numerik alfa seperti B2BC6C15BB9FCDEA71E5CD302D228CC8.
 
-Ini adalah perilaku yang diharapkan dan telah dikomunikasikan di Pusat Pesan (MC275344, yang diterbitkan 3 Agustus 2021). 
+Perilaku ini diharapkan dan telah dikomunikasikan di Pusat Pesan (MC275344, diterbitkan 3 Agustus 2021). 
 
-Administrator global dapat mengembalikan perubahan ini untuk penyewa mereka dan memperlihatkan informasi pengguna yang dapat diidentifikasi jika praktik privasi organisasi mereka memperbolehkan. Untuk mengembalikan perubahan bagi penyewa:
+Administrator global dapat mengembalikan perubahan ini untuk penyewanya dan menampilkan informasi pengguna yang dapat diidentifikasi jika peraturan privasi organisasinya memperbolehkan. Untuk mengembalikan perubahan untuk penyewa:
 
-1. Di pusat admin, masuk ke **Pengaturan**  >  **Layanan pengaturan**  >  [**Organisasi**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services), lalu pilih **Laporan.** 
-1. Di **bawah Pilih cara menampilkan informasi pengguna**, pilih **Perlihatkan informasi pengguna yang dapat diidentifikasi** dalam laporan , lalu jalankan ulang laporan.
+1. Di pusat admin, buka **Pengaturan** > **Pengaturan org** > [**Layanan**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services ), dan pilih **Laporan**. 
+1. Di bawah **Pilih cara menampilkan informasi pengguna**, pilih **Menampilkan informasi pengguna yang dapat diidentifikasi dalam laporan**, lalu jalankan kembali laporan.
