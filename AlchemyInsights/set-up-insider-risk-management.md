@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060859"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446658"
 ---
 # <a name="set-up-insider-risk-management"></a>Menyiapkan manajemen risiko insider
 
-Untuk mengakses dan menggunakan manajemen risiko insider, organisasi Anda **harus** memiliki salah satu langganan berikut:
+Untuk mengakses dan menggunakan manajemen risiko insider, organisasi Anda harus memiliki salah satu langganan berikut:
 
-- Langgan **Microsoft 365 E5**.
+- Microsoft 365 Langganan G5 (versi berbayar atau uji coba)
+- Microsoft 365 G3 langganan + Microsoft 365 add-on Kepatuhan G5
+- Microsoft 365 G3 langganan + Microsoft 365 add-on Manajemen Risiko Insider G5
+- Office 365 E3 + Enterprise Mobility dan Security E3 + Microsoft 365 E5 Compliance add-on
 
-- Langganan **Microsoft 365 E3** dengan add-on kepatuhan Microsoft E5.
+Jika Belum memiliki paket Microsoft 365 E5 dan ingin mencoba manajemen risiko Insider, Anda dapat menambahkan Microsoft 365 ke langganan yang sudah ada atau mendaftar uji coba Microsoft 365 Enterprise E5.
 
-Jika saat ini tidak memiliki paket **Microsoft 365 E5** dan ingin mencoba manajemen risiko insider, Anda dapat menambahkan Microsoft 365 ke langganan sekarang atau Mendaftar untuk uji coba Microsoft 365 Enterprise E5.
+**Tips**:
 
-> [!TIPS]
-- > Menggunakan Templat "Kebocoran Data": Pastikan Anda paling tidak memiliki satu kebijakan DLP yang dikonfigurasi.
-- > Admin Tidak melihat Pemberitahuan: Pastikan pengguna ditetapkan ke salah satu grup berikut ini:
-    - >**Analis Manajemen Risiko Dari Dalam**
-    - >**Penyelidik Manajemen Risiko Dari Dalam**
+- Using the Data Leaks template, make sure you have at least one Data Loss Prevention (DLP) policy configured. Namun, ada opsi pemicu baru yang tidak memerlukan kebijakan DLP untuk dikonfigurasi.
 
-Untuk informasi selengkapnya cara kebijakan risiko insider dapat membantu Anda mengelola risiko di Organisasi Anda, lihat [Management risiko Insider di Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Admin global tidak memiliki akses ke portal Manajemen Risiko Insider secara default. Mereka harus ditetapkan sebagai salah satu dari peran Insider Risk Management.
+
+- Jika admin tidak melihat pemberitahuan, pastikan pengguna ditetapkan ke salah satu grup berikut ini:
+
+    Analis Manajemen Risiko Dari Dalam
+
+    Penyelidik Manajemen Risiko Dari Dalam
+
+Untuk informasi selengkapnya tentang bagaimana kebijakan risiko insider dapat membantu Anda mengelola risiko di organisasi, lihat Mempelajari tentang manajemen [risiko insider Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
