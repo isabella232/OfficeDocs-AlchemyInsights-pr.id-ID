@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032525"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475256"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>Cara membuat label sensitivitas
 
@@ -30,8 +30,10 @@ ms.locfileid: "54032525"
 
     Untuk mempelajari selengkapnya tentang label otomatis, lihat [Menerapkan label sensitivitas ke konten secara otomatis](https://go.microsoft.com/fwlink/?linkid=2105837).
 
-1. Ulangi langkah-langkah ini untuk membuat lebih banyak label. Namun, jika Anda ingin membuat sublabel, pilih label induk terlebih dahulu, pilih tiga titik (tindakan lainnya), lalu pilih **Tambahkan sub label**.
+1. Ulangi langkah-langkah ini untuk membuat lebih banyak label. Namun, jika Ingin membuat sublabel, pilih label induk terlebih dahulu, pilih tiga titik (tindakan lainnya), lalu pilih **Tambahkan sub label**.
 
 1. Ketika Anda sudah membuat semua label yang Anda perlukan, tinjau urutannya dan jika perlu, pindahkan label ke atas atau ke bawah. 
     
     Untuk mengubah urutan label, pilih tiga titik (tindakan lainnya), lalu pilih Pindahkan ke **atas atau** Pindahkan **ke bawah**.
+
+Untuk informasi selengkapnya, lihat [Membuat dan mengonfigurasi label sensitivitas dan kebijakannya](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
