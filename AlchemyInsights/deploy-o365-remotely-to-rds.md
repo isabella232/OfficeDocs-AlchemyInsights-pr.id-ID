@@ -1,5 +1,5 @@
 ---
-title: Penyebaran Aplikasi Microsoft 365 untuk perusahaan untuk penggunaan bersama di RDS, Terminal Server, atau VDI
+title: Penggunaan Aplikasi Microsoft 365 untuk perusahaan untuk penggunaan bersama di RDS, Terminal Server, atau VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,48 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: b8df97c19937a757c1de9865b6c7b8d1cddfd62d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
+ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325606"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60041009"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Penyebaran Aplikasi Microsoft 365 untuk perusahaan untuk penggunaan bersama di RDS, Terminal Server, atau VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Penggunaan Aplikasi Microsoft 365 untuk perusahaan untuk penggunaan bersama di RDS, Terminal Server, atau VDI
 
-Untuk menyebarkan Aplikasi Microsoft 365 untuk perusahaan Layanan Desktop Jarak Jauh (RDS), yang sebelumnya bernama Terminal Services:
+Untuk menyebarkan Aplikasi Microsoft 365 Remote Desktop Services (RDS), sebelumnya Terminal Services, Anda harus:
 
-- Anda harus memiliki paket Microsoft 365 For Business atau paket Office 365 yang menyertakan Aplikasi Microsoft 365 untuk perusahaan, seperti Office 365 Enterprise E3 atau Enterprise E5.
-   **Catatan**: Paket Aplikasi Microsoft 365 untuk bisnis dan Microsoft 365 Business Standard paket tidak menyertakan Aplikasi Microsoft 365 untuk perusahaan.
-- Anda harus mengaktifkan [aktivasi komputer bersama](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- Gunakan perbaikan mudah untuk mengaktifkan TLS 1.2 sebagai default jika Anda menjalankan versi Windows yang lebih lama (misalnya Windows 7 SP1, Windows Server 2008 R2). Untuk perbaikan mudah dan informasi selengkapnya, lihat Pembaruan untuk mengaktifkan [TLS 1.1 dan TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)sebagai protokol aman default di WinHTTP Windows . 
+- Memiliki paket yang menyertakan Aplikasi Microsoft 365 untuk perusahaan (sebelumnya Office 365 Plus). Misalnya, Office 365 E3 atau Microsoft 365 E5, atau paket apa pun yang menyertakan Project atau Visio versi desktop, seperti Project Paket 3 atau Visio Paket 2, atau paket Microsoft 365 Business Premium, yang juga menyertakan Aplikasi Microsoft 365 untuk bisnis.
+- Mengaktifkan aktivasi komputer bersama. Untuk informasi selengkapnya, lihat [Gambaran umum aktivasi komputer bersama untuk Aplikasi Microsoft 365](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**Catatan**: Anda juga dapat mengunduh dan menjalankan [Microsoft Asisten Dukungan dan Pemulihan](https://aka.ms/SaRA_OfficeSCA_M365Portal) menginstal Aplikasi Microsoft 365 untuk perusahaan mode aktivasi komputer bersama.
+**Catatan**: Untuk menginstal Aplikasi Microsoft 365 dalam mode aktivasi komputer bersama, unduh dan jalankan [Microsoft Asisten Dukungan dan Pemulihan](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds). Untuk detail tentang persyaratan, instruksi penyetelan, dan panduan untuk mengkustomisasi instalasi dengan menggunakan Office Deployment Tool, lihat Menyebarkan Aplikasi Microsoft 365 dengan menggunakan [Layanan Desktop Jarak Jauh.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
-Untuk informasi selengkapnya tentang persyaratan, instruksi penyetelan, dan panduan tentang instalasi yang dikustomisasi dengan menggunakan Alat Penyebaran Office, lihat Menyebarkan Aplikasi Microsoft 365 untuk perusahaan dengan menggunakan [Layanan Desktop Jarak Jauh.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
+Untuk memperbaiki kesalahan terkait aktivasi komputer bersama, lihat:
 
-Untuk memperbaiki kesalahan terkait aktivasi komputer bersama:
+- [Memecahkan masalah dengan aktivasi komputer bersama untuk Aplikasi Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation)
+- [Mereset Aplikasi Microsoft 365 untuk perusahaan status aktivasi](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
 
-- Lihat [Memecahkan masalah dengan aktivasi komputer bersama untuk Aplikasi Microsoft 365 untuk perusahaan](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
-- Lihat [Mengatur ulang status aktivasi Aplikasi Microsoft 365 untuk perusahaan](https://go.microsoft.com/fwlink/?linkid=2109218).
+Jika Anda ingin menginstal Aplikasi Microsoft 365 di RDS dari pusat admin Microsoft 365, yang menggunakan pengaturan instalasi default, ikuti langkah-langkah ini:
 
-Jika Anda ingin menginstal Aplikasi Microsoft 365 untuk perusahaan di RDS dari pusat admin Microsoft 365, yang menggunakan pengaturan instalasi ***default,*** gunakan langkah-langkah berikut ini:
+1. Periksa paket Microsoft 365 apa yang Anda miliki. Untuk informasi selengkapnya, lihat [Langganan apa yang saya miliki?](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 
-1. Periksa langganan apa yang Anda miliki. [Pelajari caranya.](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
-2. Jika perlu, beralihlah ke langganan lain. [Pelajari caranya.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
-3. Jika Office sudah diinstal di server RDS menggunakan langganan Microsoft lainnya, hapus instalasinya. Misalnya, dengan masuk ke **Panel Kontrol Hapus**  >  **instalan program**. Hapus [instalan menggunakan Microsoft Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy) jika Anda mengalami masalah.
-4. Di server RDS, masuk ke server pusat admin Microsoft 365 dengan akun administrator Anda dan [instal Aplikasi Microsoft 365 untuk perusahaan](https://portal.office.com/OLS/MySoftware.aspx).
-5. Setelah Office diinstal, ***jangan buka atau masuk ke aplikasi*** Office apa pun.
-6. Pada server RDS, aktifkan aktivasi komputer bersama dengan mengedit registri dengan mengikuti langkah-langkah ini:
+1. Jika perlu, beralihlah ke paket Microsoft 365 lain. Untuk informasi selengkapnya, lihat [Memutakhirkan ke paket lain.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+
+1. Jika Aplikasi Microsoft 365 sudah diinstal di server RDS menggunakan paket tidak kompatibel lainnya, hapus instalasinya dengan masuk ke **Panel** Kontrol Menghapus instalasi  >  **program**. Jika Anda mengalami masalah, hapus instalasi dengan mengunduh [Microsoft Asisten Dukungan dan Pemulihan](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+
+1. Di server RDS, masuk ke akun pusat admin Microsoft 365 akun administrator Anda dan instal [Office](https://portal.office.com/OLS/MySoftware.aspx).
+
+   Setelah Office diinstal, jangan buka atau masuk ke aplikasi Office apa pun.
+
+1. Pada server RDS, aktifkan aktivasi komputer bersama dengan mengedit registri:
+
    1. Klik kanan Windows di sudut kiri bawah layar, lalu pilih **Jalankan**. Dalam kotak Buka, ketikkan **regedit**, lalu pilih **OK.**
-   2. Pilih **Ya** ketika diminta untuk mengizinkan Editor Registri membuat perubahan pada perangkat Anda.
-   3. Di Editor Registri, tambahkan nilai string **SharedComputerLicensing** dengan pengaturan 1 di bawah HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Di server RDS, ***masuk sebagai pengguna akhir dan verifikasi*** bahwa aktivasi komputer bersama diaktifkan untuk [Aplikasi Microsoft 365 untuk perusahaan](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+
+   1. Ketika diminta untuk mengizinkan Editor Registri membuat perubahan ke perangkat Anda, pilih **Ya**.
+
+   1. Di Editor Registri, di bawah HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, tambahkan nilai string **SharedComputerLicensing** dengan pengaturan **1** .
+
+1. Pada server RDS, masuk sebagai pengguna akhir dan verifikasi bahwa aktivasi komputer bersama diaktifkan untuk Aplikasi Microsoft 365. 
+
+   Untuk detailnya, [lihat Memverifikasi bahwa aktivasi komputer bersama diaktifkan untuk Aplikasi Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
