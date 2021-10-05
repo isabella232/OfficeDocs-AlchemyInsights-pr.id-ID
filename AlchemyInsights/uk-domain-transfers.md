@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077217"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102368"
 ---
 # <a name="uk-domain-transfers"></a>Transfer domain .uk
 
 Transfer domain di Inggris memerlukan tag IPS dari pendaftar baru. Tag IPS dapat dimasukkan di Panduan Transfer Domain di portal admin Microsoft:
 
-- Masuk ke **Pengaturan**  >  **Domain** Baru, klik ganda domain dan pilih **Transfer Domain** untuk memulai panduan transfer.
+- Masuk ke **Pengaturan**  >  [**Domain,**](https://admin.microsoft.com/#/Domains)klik ganda domain dan pilih **Transfer Domain** untuk memulai panduan transfer.
 
 Setelah tag berubah, domain akan segera mentransfer ke pendaftar baru. Kemudian Anda perlu bekerja sama dengan pendaftar baru untuk menyelesaikan transfer, kemungkinan membayar biaya transfer dan menambahkan domain yang ditransfer ke akun Anda dengan pendaftar baru.
 
