@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: id-ID
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103915"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131897"
 ---
 # <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Antrean panggilan dalam Microsoft Teams dan Skype for Business 
 
-Untuk mulai menggunakan antrean panggilan, lihat tautan berikut.
+Antrean panggilan memerlukan akun lisensi dan sumber daya tertentu. Untuk detailnya, lihat [Paket Teams antrean panggilan dan penjawab otomatis: Prasyarat]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [Membuat antrean panggilan Awan](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Menjawab panggilan antrean dan penjawab otomatis secara langsung dari Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+Untuk mempelajari tentang membuat dan menyiapkan antrean panggilan dalam Microsoft Teams, lihat [Membuat antrean panggilan](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue). 
+
+Untuk informasi selengkapnya, lihat [Menjawab panggilan antrean dan penjawab otomatis langsung dari Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
